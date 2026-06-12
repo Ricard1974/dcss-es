@@ -1,12 +1,135 @@
 %%%%
-#Deck of Escape
-Velocity card
+a buggy card
 
-Esta tarjeta representa una par de botas vacías y raídas. Arena, ceniza y césped
-cubren sus suelas.
+Buggy (es un bug si lees esto).
 
-Sacar esta tarjeta puede aumentar la velocidad de los aliados del usuario o reducir
-la velocidad de sus enmigos.
+%%%%
+a very buggy card
+
+Buggy (es un bug si lees esto).
+
+%%%%
+Degeneration card
+
+La tarjeta representa a un dragón cuyas escamas se deslumbran, revelando una oveja
+debajo.
+
+Dibujar esta tarjeta Will intentar polimorfo y malmutar enemigos cercanos en
+formas más débiles, y Will brevemente daze aquellos que no pueden ser polimorfos.
+
+%%%%
+Exile card
+
+Esta tarjeta representa miles de manos alcanzando fuera de un portal enorme a una
+figura aterrada
+
+Sacar esta carta desterrará a los enmigos cercanos, con más siendo desterrado a
+niveles de fuerza más altos.
+
+%%%%
+Pain card
+
+La tarjeta representa una rueda de hierro, amenazante con picos y oxidado con sangre.
+
+Dibujar esta tarjeta desata un hechizo de ataque necromótico.
+
+%%%%
+the Cloud card
+
+La carta representa una puerta hierra rodeado de neblina.
+
+Sacar esta carta rodeará los enmigos del usuario por círculos de neblinas que
+obstruen su visión.
+La duración de las neblinas es aumenta con la fuerza de la carta.
+
+%%%%
+the Dance card
+
+La tarjeta representa una figura extravagante y enmascarada bailando sola en una
+vasta habitación.
+
+Dibujo esta carta Will convocar un arma de baile. Su calidad, marca y
+La amabilidad se ve afectada por la potencia de la tarjeta.
+
+%%%%
+the Elements card
+
+La tarjeta representa las figuras de grandes bestias que se acechan en una tormenta de arena.
+
+Dibujo esta carta Will convocar tres bestias de los cuatro elementos.
+
+%%%%
+the Elixir card
+
+Una carta que representa una sonrisa presumida formada de nueve cálices.
+
+Sacar esta carta recuperará rápidamente la salud y las reservas de magia del
+usuario.
+
+%%%%
+the Illusion card
+
+La tarjeta representa a alguien de pie en un pasillo de espejos, rodeado por sus propios
+reflexiones.
+
+Dibujar esta tarjeta Will convocar una ilusión del usuario. Su poder depende
+sobre uno mismo.
+
+%%%%
+the Orb card
+
+La tarjeta representa una figura rodeada de orbes flotantes y brillantes de energía.
+
+Dibujar esta carta desata uno o posiblemente más orbes destructivos de magia pura.
+
+%%%%
+the Pentagram card
+
+La tarjeta representa a los cultos marcando un pentagrama ritual en el suelo.
+
+Dibujar esta tarjeta Will convocar un par de demonios a la ayuda del usuario. Hay un
+pequeña posibilidad de que uno de los demonios sea hostil.
+
+%%%%
+the Rangers card
+
+La tarjeta representa una flecha en el ojo de un toro, que ha sido dividida por un segundo
+flecha.
+
+Dibujo esta carta Will convocar a varios arqueros.
+
+%%%%
+the Shaft card
+
+La carta representa un viajero caiéndose a una sima que ha abierto debajo del
+viajero.
+
+Sacar esta carta abrirá una hoyo debajo del usuario, y posiblemente debajo de sus
+enmigos.
+
+%%%%
+the Storm card
+
+La tarjeta representa un barco en el mar hundiendo en una tormenta.
+
+Dibujar esta tarjeta desata una tormenta de viento y descargas eléctricas.
+Aumentar el poder de la tarjeta Will resulta en una fuerza de viento más fuerte y más fuerte,
+numerosas descargas.
+
+%%%%
+the Swarm card
+
+La tarjeta representa un oso rodeado de un enjambre de abejas. Humsamente.
+
+Dibujo esta tarjeta Will cita abejas.
+
+%%%%
+the Swine card
+
+La tarjeta representa varios cerdos ferales revolcándose en un pozo de barro.
+
+Dibujar esta tarjeta Will hace que su usuario gire rosa y raíz para truffles.
+
 %%%%
 the Tomb card
 
@@ -17,63 +140,29 @@ A niveles de fuerza bajos, o con crituras contiguos, la tumba puede ser incomple
 
 La tumba es sostenida por el presencia de su creador, y moviéndose lejos del centro
 provocará sus paredes desplomarse.
+
 %%%%
-Exile card
-
-Esta tarjeta representa miles de manos alcanzando fuera de un portal enorme a una
-figura aterrada
-
-Sacar esta carta desterrará a los enmigos cercanos, con más siendo desterrado a
-niveles de fuerza más altos.
-%%%%
-the Shaft card
-
-La carta representa un viajero caiéndose a una sima que ha abierto debajo del
-viajero.
-
-Sacar esta carta abrirá una hoyo debajo del usuario, y posiblemente debajo de sus
-enmigos.
-%%%%
-the Elixir card
-
-Una carta que representa una sonrisa presumida formada de nueve cálices.
-
-Sacar esta carta recuperará rápidamente la salud y las reservas de magia del
-usuario.
-%%%%
-the Cloud card
-
-La carta representa una puerta hierra rodeado de neblina.
-
-Sacar esta carta rodeará los enmigos del usuario por círculos de neblinas que
-obstruen su visión.
-La duración de las neblinas es aumenta con la fuerza de la carta.
-%%%%
-#Deck of Summoning
-the Swarm card
-
-Esta carta representa un oso rodeada por una plaga de abejas. Resona siniestramente.
-
-Sacar esta carta convocará abejas.
-%%%%
-#Deck of Punishment
 the Wraith card
 
-Esta carta no representa nada
+La tarjeta no representa absolutamente nada.
 
-Sacar esta carta drenará el usuario.
+Dibujo esta tarjeta Will Drain el usuario.
+
 %%%%
-#Buggy cards
-the Stairs card
+Torment card
 
-Esta carta hace que las escaleras se desplazen hacia o lejos de ti. (Es un bug
-si alguna vez te encuentras esta carta).
+La tarjeta representa una figura Screaming siendo torturada en el rack.
+
+Dibujar esta tarjeta Will causa daño agonizante al usuario.
+
 %%%%
-a buggy card
+Wild Magic card
 
-Buggy (es un bug si lees esto).
-%%%%
-a very buggy card
+La tarjeta representa el gorro de un mago puntiagudo, anotado y descansando en un montón de cenizas.
 
-Buggy (es un bug si lees esto).
+Dibujar esta tarjeta causa magia salvaje (como si de malcasting un hechizo) para actuar sobre
+enemigos de su usuario. Cada criatura afectada Will restaurar algunos de los usuarios
+magia.
+# Invocando
+
 %%%%

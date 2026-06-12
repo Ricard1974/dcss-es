@@ -1,25 +1,104 @@
 %%%%
+acrobat passive
+
+Su evasión aumenta mientras se mueve y espera.
+
+%%%%
 archmagi passive
 
 Tu poder de hechizos es aumentado.
+
+%%%%
+channel magic passive
+
+Tienes la oportunidad de recuperar la magia gastada al lanzar con éxito
+hechizo, y siempre recuperar la magia gastada cuando malinterpretas un hechizo.
+
+%%%%
+clarity passive
+
+Tú está protegido de la confusión involuntaria, la rabia, el miedo y la mesmerización.
+
 %%%%
 corrode self passive
 
 Cada vez que recibes daño tienes posibilidad de carcomer.
+
+%%%%
+faith passive
+
+Ganas el favor divino rápidamente, y se toma mayor aviso de cualquier religioso
+transgresiones que haces.
+
 %%%%
 guardian spirit passive
 
 Tu reserva de magia absorbe una parte del daño que recibes.
+
 %%%%
 harm passive
 
 Todo daño recibes o haces es aumentado.
+
+%%%%
+infuse magic passive
+
+Pasas magia cada vez que haces un simple ataque, potenciando tus golpes.
+
+%%%%
+mayhem passive
+
+Tienes la oportunidad de causar monstruos visibles para entrar en un frenesí cuando matas
+un enemigo.
+
 %%%%
 no spellcasting passive
 
 No puedes lanzar hechizos.
+
+%%%%
+no teleportation passive
+
+No puedes teletransportar o blink.
+
+%%%%
+rampage passive
+
+Tú toma un paso libre adicional cuando se mueve hacia los enemigos.
+
+%%%%
+random rage passive
+
+Tienes la oportunidad de ir a Berserk cuando haces un ataque de melee.
+
+%%%%
+reflection passive
+
+Refleja cualquier ataque con éxito bloqueado hacia el atacante.
+
+%%%%
+repel missiles passive
+
+Repeles los misiles, mejorando tu oportunidad de evadirlos.
+
+%%%%
+resist mutation passive
+
+Estás parcialmente protegido de la mutación.
+
+%%%%
+roll passive
+
+mutación de página
+
 %%%%
 slow self passive
 
 Cada vez que recibes daño tienes posibilidad de lentificar.
+
+%%%%
+wizardry passive
+
+Tu tasa de éxito del hechizo se mejora.
+
 %%%%
