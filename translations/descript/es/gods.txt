@@ -6,6 +6,27 @@ Ashenzari es eso: clavado adrede al cielo para la eternidad, el dios inamovible
 es omnisciente. A sus devotos adoradores se les permite que conozcan retales de
 su conocimiento y visión, pero alerta: para Ashenzari, el poder, las
 bendiciones y las maldiciones son todo la misma cosa.
+
+%%%%
+Ashenzari powers
+
+Ashenzari exhorta a los seguidores a maldecir sus posesiones, ofreciendo periódicamente
+estas maldiciones a los adoradores mientras exploran. Estas maldiciones otorgan mejoras
+a habilidades específicas, pero el equipo maldecido normalmente no puede encantado y puede
+Sólo se eliminará destrozándolo para siempre. Mientras los adoradores equipan más maldecidos
+equipo, Ashenzari Will otorgar conocimiento creciente de la mazmorra circundante.
+Eventualmente, Ashenzari Will revelan lo invisible, conceder Clarity de la mente, y
+protege a los adoradores de las fuerzas malévolas de the Dungeon.
+
+%%%%
+Ashenzari wrath
+
+Aquellos que abandonan Ashenzari Will inmediatamente tienen sus maldiciones destrozadas,
+destruyendo cada uno de los elementos que imbuyeron con sabiduría divina. Después,
+Ashenzari La ira es constante e incesante para su duración. Víctimas
+encontrar sus habilidades deterioradas, y sus enemigos divinamente guiados – nunca perder
+rastro de ellos, nunca terminando la caza.
+
 %%%%
 Beogh
 
@@ -15,6 +36,27 @@ probar su devoción a través de la matanza. Los devotos de Beogh especialmente
 fervientes encontrarán a otros seguidores orcos acudiendo a su bandera: ésta es
 una época de señales y augurios, y los orcos están cada vez más seguros de que
 la llegada de su Mesías se acerca.
+
+%%%%
+Beogh powers
+
+Worshippers Will ganar el poder de rechazar la ira de Beogh sobre su
+opresores, y otros orcos Will comienzan a verlos como uno de sus propios.
+Especialmente prometedores adherentes Will se encuentran acosados por rivales por Beogh
+favor, pero superar estos juicios sin huir Will ganarlos leales
+compañeros que Beogh Will resucitan una y otra vez, siempre y cuando sean
+continuar luchando y vengarse en el nombre de Beogh. Un verdadero elegido puede incluso reunirse
+un ejército orcish entero para vengar una muerte equivocada.
+
+%%%%
+Beogh wrath
+
+Blasphemers contra la palabra de Beogh se encuentran agredidos por olas de
+guerreros orcos, o bailando armas eléctricas. Beogh may also simply smite
+tales blasfemos – y al golpear verdaderos pecadores, Beogh tiene una mano pesada
+¡De hecho! Aquellos que todavía adoran Beogh Will también encuentran a sus seguidores regularmente
+desertándolos.
+
 %%%%
 Cheibriados
 
@@ -23,6 +65,27 @@ elijan seguir su camino aprenderán a desprenderse de las prisas innecesarias,
 enlentecerse y volver lentos a los demás, y a dañar a aquellos que rechacen tal
 situación. Seguidores especialmente devotos pueden incluso abandonar
 temporalmente el flujo del tiempo y sus innecesarias molestias.
+
+%%%%
+Cheibriados powers
+
+Los seguidores de Cheibriados se mueven más lentamente a medida que ganan
+favor, y son recompensados por matar a criaturas que sean más rápidas que
+ellos. Moverse demasiado deprisa o usar armas mágicamente aceleradas está mal
+visto. Cheibriados recompensa a los fieles con un metabolismo lento, el poder
+de enlentecer a otras criaturas, el poder de distorsionar el flujo del tiempo,
+el poder de dañar a aquellos que se muevan más deprisa que ellos y, finalmente,
+la habilidad de abandonar el flujo del tiempo por completo.
+
+%%%%
+Cheibriados wrath
+
+Los delincuentes contra Cheibriados Will encuentran que sus movimientos permanecen Slowmientras que
+la atención de Cheibriados permanece sobre ellos, y puede tener cualquier precipitación mágica
+Despojado. También pueden ser más lentos, ser puestos a Sleep, o ser
+ajustado por el volumen sin paralelo del inevitable paso del tiempo anillo
+a lo largo de the Dungeon.
+
 %%%%
 Dithmenos
 
@@ -31,6 +94,30 @@ afinidad extraña y sobrenatural sobre las sombras en su entorno. Este dios odia
 el fuego, el cual liberó hace tiempo a los mortales de la tiranía de las
 sombras; su uso está prohibido por sus seguidores. Dithmenos favorece a quienes
 destruyan cualquier fuente de fuego.
+
+%%%%
+Dithmenos powers
+
+Los seguidores de Dithmenos están rodeados por una tranquilidad antinatural, que ayuda a los
+Suena que no se dan cuenta. Mientras se levantan en devoción, ellos Will encuentran su
+su sombra comienza a imitar algunas de sus acciones, atacando cuando atacan
+e incluso lanzar magias sombrías que imitan la forma - si no la sustancia - de
+que escuelas de magia habían estado utilizando.
+
+Más devotos devotos ganan adicionalmente la capacidad de cambiar lugares con sus
+sombra para engañar a los enemigos, agarrar las sombras de otros seres para liberar su magia en
+el nombre del adorador, y finalmente derribar una noche tan oscura que esconde todo
+Denizens of the Dungeon uno del otro.
+
+%%%%
+Dithmenos wrath
+
+Cuando se enojó, Dithmenos gira las sombras contra las víctimas. Los monstruos emergen de
+la oscuridad, ambas ilusiones tejidas de la sombra y la misma sombra ellos mismos
+contra los pecadores. Dithmenos' castigos sutiles son, si algo, más
+peligrosas: las víctimas encuentran las sombras arrancadas de ellas, cazadas con ninguna parte
+esconderse; o encontrarse ahogados en la sombra y durmiendo, quizás para siempre.
+
 %%%%
 Elyvilon
 
@@ -42,6 +129,23 @@ aunque los seguidores más piadosos deben encontrar y destruir armas impías o
 malignas para ganar piedad de esta forma. Los seguidores de Elyvilon pueden
 convertirse en seguidores de El Resplandeciente o de Zin conservando algo de
 piedad.
+
+%%%%
+Elyvilon powers
+
+Elyvilon ofrece a sus seguidores maneras de sanarse a sí mismos de heridas y de
+otras aflicciones. Elyvilon también permite curar a monstruos hostiles para
+tratar de volverlos neutrales. Elyvilon puede intervenir directamente para
+salvar la vida de un seguidor, especialmente cuando es requerido para ello; los
+seguidores altamente piadosos pueden estar seguros de dicha ayuda.
+
+%%%%
+Elyvilon wrath
+
+Elyvilon no es un dios conocido por la ira. Sin embargo, los que ganan la ire de Elyvilon Will
+encontrar al sanador ocasionalmente protegiendo a sus enemigos de sus ataques, e incluso
+de la muerte.
+
 %%%%
 Fedhas
 
@@ -51,184 +155,7 @@ ninguna especie bajo su protección y usar efectos de necromancia que
 interfieran con los cadáveres. En compensación Fedhas da varias habilidades que
 promueven el crecimiento de plantas y hongos. Tales habilidades pueden ser
 útiles para los aventureros.
-%%%%
-Gozag
 
-Gozag Ym Sagoz, el avaro, enseña que el mundo pertenece a los ricos. Quienes
-acepten este principio pueden comprar su asistencia divina con oro. Los
-seguidores de Gozag no ganan piedad; sólo se puede impresionar a Gozag con
-oro y fortuna. Así sus seguidores pueden pedir tantos favores como puedan
-costear. Afortunadamente, se dice que los seguidores de Gozag tienen el toque
-del oro.
-%%%%
-Jiyva
-
-Jiyva es la antigua y caótica deidad de los limos. Sus seguidores deben
-apoyar la diseminación y alimentación de sus camaradas permitiéndoles consumir
-objetos, y tienen prohibido dañar a cualquier limo. Jiyva ocasionalmente
-incluso consumirá objetos dejados en alguna parte del calabozo. Seguidores
-especialmente favorecidos se volverán tan carentes de forma como su dios a
-medida que sus atributos y mutaciones van cambiando bajo la influencia de
-Jiyva.
-%%%%
-Kikubaaqudgha
-
-Kikubaaqudgha es un terrible dios demonio, al que sirven aquellos que quieren
-manipular los poderes de la muerte. Kikubaaqudgha es una deidad maligna y
-demanda muertes de criaturas vivas y de demonios tan a menudo como sea posible.
-A cambio, Kikubaaqudgha ofrece gran asistencia a quien aspire ser un
-nigromante: libros de hechizos repletos de magia negra, protección y una vasta
-fuente de cadáveres directamente del mausoleo de Kikubaaqudgha.
-%%%%
-Lugonu
-
-Lugonu, «informe», se revela en el caos del Abismo. Sus seguidores son enviados
-para causar masacres y corromper al mundo superior, y deben hacerlo sin
-descanso para ganar el favor de Lugonu. Quienes ganen el favor de Lugonu
-heredan algo de su poder sobre el Abismo, permitiéndoles invocar horres
-macabros, incluso viajar entre el Abismo y el mundo superior a voluntad.
-%%%%
-Makhleb
-
-Makhleb, «quien destruye», es una terrible deidad de derramamientos de sangre y
-mortificación de la carne. Sus seguidores purifican a los demás infligiéndoles
-sufrimiento y muerte en nombre de Makhleb, y pueden ganar más favor destruyendo
-a los cadáveres recientes. Los seguidores Dedicados pueden acceder a energías
-caóticas puras y convocar sirvientes del caos de origen infernal, de modo
-que puedan destruir este mundo impuro y sus leyes falsas para la gloria de este
-malvado dios.
-%%%%
-Nemelex Xobeh
-
-Nemelex es un dios tramposo e impredecible, cuyos poderes pueden ser invocados
-mediante paquetes de cartas mágicas pintadas con el icor de demonios. Sus
-seguidores deben explorar el mundo, a cambio recibirán barajas de cartas.
-Ellos deben confiar en las cartas y usarlas tanto como sea posible. Además,
-Nemelex asegura que la fortuna favorece al más valiente.
-%%%%
-Okawaru
-
-Okawaru es un poderoso y peligroso dios de la guerra. Los seguidores pueden
-ganar varios poderes útiles en combate además de ciertas recompensas, pero
-deben constantemente probarse a sí mismos derrotando otras criaturas. Okawaru
-prefiere gestos heroicos contra poderosos enemigos, y no presta mucha atención
-a victorias fáciles. Okawaru menosprecia a quienes hieren a sus aliados.
-%%%%
-Qazlal
-
-Qazlal «invocador de tormentas» es un dios violento de la tempestad, quien
-disfruta desencadenando las fuerzas de la naturaleza contra el desprevenido.
-Quienes inviten la mirada de Qazlal se encontrarán en el ojo de la tormenta
-de destrucción elemental, del cuál sólo su dios puede protegerlos. Los
-adoradores beatos de Qazlal ganarán la habilidad de dirigir y controlar el
-poder destructivo de la tormenta.
-%%%%
-Ru
-
-Entre todos los dioses, sólo Ru se opone a la creación. No como una locura,
-sino como distracción. Los iniciados de Ru pueden abrir canales a los poderes
-subyacentes al mundo visible al renunciar a las cadenas que los atan aquí.
-Estos sacrificios no son para Ru, sino que se otorgan gratuita y
-permanentemente. Sus seguidores pueden redirigir y contraatacar contra sus
-enemigos, regenerar su salud y magia, realizar poderosos saltos, y liberar una
-onda masiva de poder contra sus rivales.
-%%%%
-Sif Muna
-
-Sif Muna, «quien posee el conocimiento» es una deidad contemplativa pero
-poderosa, a quien sirven los que buscan conocimiento de la magia. Aprecia el
-entrenamiento de las capacidades para hacer magia. Sif Muna recompensa a sus
-seguidores más devotos con libros de hechizo exclusivos de su legendaria
-biblioteca.
-%%%%
-the Shining One
-
-El Resplandeciente es una poderosa deidad en una cruzada contra todo mal. A sus
-seguidores y aliados les puede conceder varias bendiciones mientras vayan
-erradicando sin compasión a seres malignos e impíos, y se espera que prueben su
-superioridad moral luchando honorablemente. A sus seguidores se les solicita
-que limpien el mundo, examinando a todos sus habitantes en busca de rastros de
-maldad que deba ser eliminada. Los seguidores de El Resplandeciente pueden
-convertirse en seguidores de Elyvilon o de Zin conservando algo de piedad.
-%%%%
-Trog
-
-Trog es un antiguo dios de furia y violencia. Sus seguidores han de matar en
-nombre de Trog y sacrificar a los muertos para obtener poder durante las
-batallas y ocasionalmente alguna recompensa. Quienes adoran a Trog pueden
-entrar en un estado de furia a voluntad. Trog odia a todos los magos y le
-encanta ver sus libros arder. Sus seguidores tienen prohibido el uso de
-hechizos.
-%%%%
-Vehumet
-
-Vehumet es un dios de los poderes destructivos de la magia. Los seguidores
-ganan varios poderes útiles para mejorar su maestría en las artes herméticas y
-los más favorecidos consiguen acceso a algunos de los terribles hechizos de la
-biblioteca de Vehumet. La devoción a Vehumet se logra causando cuanta más
-masacre y destrucción posible.
-%%%%
-Xom
-
-Xom es un dios extravagante e impredecible del caos, quien no busca seguidores,
-sino juguetes con que jugar. Muchos deciden seguir a Xom con la esperanza de
-recibir regalos fabulosos y grandes poderes, pero Xom es extremadamente
-caprichoso. Nada de lo que hagan sus seguidores puede cambiar el humor de Xom.
-%%%%
-Yredelemnul
-
-Yredelemnul el Oscuro es un dios malvado adorado por los que buscan poderes
-sobre la muerte y los no-muertos. Los seguidores, que deben oponerse a todas
-las cosas sagradas, pueden alzar legiones de serviles no-muertos, y ganar
-varios poderes útiles (si bien desagradables). Yredelemnul aprecia las muertes,
-pero prefiere que los cadáveres sean usados en lugar de sacrificados. Destruir
-seres artificiales también se ve favorecido, ya que no son seres vivos ni
-sujetos a la muerte o a la no-muerte.
-%%%%
-Zin
-
-Zin es un dios de la disciplina. Sus seguidores deben permanecer puros de
-cuerpo y alma, absteniéndose de magia oscura y actos caóticos, y nunca consumir
-la carne de seres inteligentes. Ellos deben diezmar una fracción de todo el
-dinero ganado, preferiblemente seguido de donaciones mayores. A cambio, sus
-seguidores podrán invocar la ira de Zin contra los pecadores, y eventualmente
-ganar varias protecciones divinas. Los seguidores de Zin se pueden convertir a
-Elyvilon o a El Resplandeciente conservando una parte de su piedad.
-%%%%
-Zin powers
-
-Zin concede a sus seguidores la habilidad de predicar a las masas, y poderes
-para revitalizar sus cuerpos y ganar resistencia divina, protegiéndoles de
-variadas aflicciones además de dar sustento al hambriento. Más adelante, sus
-seguidores ganan la habilidad de aprisionar a sus enemigos de forma temporal.
-Al final, sus seguidores pueden encontrar seguridad en un refugio divino por
-algo de tiempo. A medida que la piedad crece, sus seguidores se verán
-protegidos de mutaciones, y Zin puede incluso ocasionalmente intervenir de
-forma directa para salvarle la vida a un seguidor.
-%%%%
-Xom powers
-
-Adorar a Xom es vivir con riesgo. De buen humor, Xom puede obsequiarte con una
-lluvia de regalos, mientras que en otras ocasiones este dios caprichoso puede
-decidir poner «algo de salsa» y acabar por condenarte. Si te muestras como el
-más fuerte, tanto mejor; si no, bueno, siempre habrá otros con quien jugar...
-%%%%
-Vehumet powers
-
-Los adoradores de Vehumet pronto serán capaces de recuperar su mana matando
-criaturas. A medida que ganen favor, también ganarán varias mejoras en sus
-hechizos destructivos — en primer lugar, asistencia a la hora de recitar tales
-hechizos; luego se incrementará la distancia de sus conjuros; y finalmente un
-coste menor para lanzar hechizos destructivos de alto nivel.Con el tiempo,
-Vehumet otorgará a sus seguidores raros libros de magia destructiva.
-%%%%
-Elyvilon powers
-
-Elyvilon ofrece a sus seguidores maneras de sanarse a sí mismos de heridas y de
-otras aflicciones. Elyvilon también permite curar a monstruos hostiles para
-tratar de volverlos neutrales. Elyvilon puede intervenir directamente para
-salvar la vida de un seguidor, especialmente cuando es requerido para ello; los
-seguidores altamente piadosos pueden estar seguros de dicha ayuda.
 %%%%
 Fedhas powers
 
@@ -240,14 +167,641 @@ especies más fuertes. Sus seguidores pueden eventualmente hacer crecer un muro
 de plantas y crear esporas explosivas de los cadáveres. También se les concede
 algo de control sobre el tiempo, siendo capaces de invocar luz solar y al
 final, tormentas.
-%%%%
-Cheibriados powers
 
-Los seguidores de Cheibriados se mueven más lentamente a medida que ganan
-favor, y son recompensados por matar a criaturas que sean más rápidas que
-ellos. Moverse demasiado deprisa o usar armas mágicamente aceleradas está mal
-visto. Cheibriados recompensa a los fieles con un metabolismo lento, el poder
-de enlentecer a otras criaturas, el poder de distorsionar el flujo del tiempo,
-el poder de dañar a aquellos que se muevan más deprisa que ellos y, finalmente,
-la habilidad de abandonar el flujo del tiempo por completo.
+%%%%
+Fedhas wrath
+
+Los que ofenden § 1. Will encuentran las fuerzas de la naturaleza invocadas contra ellos
+a través de un dramático aumento de vegetación. Pueden encontrarse transmutados.
+en las plantas que han abandonado, o rodeado de muros impenetrables
+Briars más plantas de Oklob que escupen ácidos viciosos.
+
+%%%%
+Gozag
+
+Gozag Ym Sagoz, el avaro, enseña que el mundo pertenece a los ricos. Quienes
+acepten este principio pueden comprar su asistencia divina con oro. Los
+seguidores de Gozag no ganan piedad; sólo se puede impresionar a Gozag con
+oro y fortuna. Así sus seguidores pueden pedir tantos favores como puedan
+costear. Afortunadamente, se dice que los seguidores de Gozag tienen el toque
+del oro.
+
+%%%%
+Gozag powers
+
+Para Gozag, tanto la carne como el espíritu son inferiores a la riqueza, y por lo tanto todos
+Los monstruos son convertidos en oro sobre la muerte. Otros monstruos pueden ser brevemente
+distraído por imaginaciones de gran riqueza. Stalwarts puede comprar ayuda inmediata
+en forma de pociones, y también puede pagar para atraer a los comerciantes a
+mazmorra. Los adherentes particularmente bien cuidados pueden sobornar a los habitantes de una rama
+de the Dungeon to turn a blind eye to their presence, or even to change their
+lealtad.
+
+%%%%
+Gozag wrath
+
+El primero de los castigos de Gozag es comercial: todas las tiendas abiertas
+La intervención de Gozag cierra sus puertas para siempre. Se aconseja al disloyal
+terminar sus compras antes de lanzar su traición. Por el tiempo que § 1.
+permanece enojada, los ex usurpadores pueden a veces ser deslumbrados por el brillo de la moneda,
+y sus pociones Will tienen la oportunidad de fallar cuando se cuarte. Cualquier enemigo que sea
+también se pueden conceder pociones propias para ayudarles contra
+los que renuncian al servicio de Gozag.
+
+%%%%
+Hepliaklqana
+
+Hepliaklqana El olvidado acepta la adoración de aquellos que recordarían
+sus antepasados, y luchar junto a los más grandes de todos ellos. Acolytes of
+Hepliaklqana sacrificar una pequeña parte de su esencia de vida para manifestar su
+ancestro en el mundo; mientras exploran y forman nuevas experiencias, ellos Will
+se encuentran capaces de configurar y controlar la memoria de su antepasado, eventualmente
+llevarlos a las filas de los héroes míticos.
+
+%%%%
+Hepliaklqana powers
+
+Los adoradores de Hepliaklqana son servidos por un tutor formado por una parte de su
+esencia de la vida, en la forma de su mayor antepasado. Este antepasado está en
+primero recordado como estaban al comienzo de sus aventuras fábulas, pero Will
+avanzar en la habilidad como lo hace su descendiente. Hepliaklqana siempre permite a los seguidores
+para recordar su antepasado a su lado, e incluso si el antepasado es destruido,
+Hepliaklqana Will llámalo de nuevo no mucho después. Nuevos avances en
+Hepliaklqana's service allows worshippers to restore and strengthen their
+ancestro, para cambiarlos con otras criaturas, y elegir cómo recordar
+sus talentos de vida.
+
+%%%%
+Hepliaklqana wrath
+
+Hepliaklqana cree que el único castigo razonable para convertir el
+volver al camino de la memoria es ser negado su uso. Toda nueva experiencia es
+negada al desafortunado apóstata, hasta que Hepliaklqana decide que han
+fue castigado lo suficiente. La esencia de la vida sacrificada para manifestar un ancestro Will
+no ser devuelto hasta que Hepliaklqana sea molido, y este Will no sea rápido:
+a diferencia de algunos, Hepliaklqana tiene un largo recuerdo.
+
+%%%%
+Ignis
+
+Ignis La Llama Dying ofrece a los seguidores poder sobre el fuego en muchas formas. Todos
+Ignis' poder se ofrece incondicionalmente a cualquiera que se digna a adorar, pero
+una vez usado, nunca se puede reponer. Ignis' other worshippers deserted long
+hace; el fuego divino se quema bajo, y pronto sale Will.
+
+%%%%
+Ignis powers
+
+Los seguidores pueden armarse en llamas, llamar a un enjambre de foxfires contra sus
+foes, o dejar Ignis' calor elevarlos a otro nivel de the Dungeon. Sin embargo, el
+llamas de la energía Ignis sólo sostienen un número limitado de
+invocaciones antes de que sólo se mantengan las brasas. No importa lo agotado, Ignis
+Will siempre otorgar resistencia a los seguidores al fuego.
+
+%%%%
+Ignis wrath
+
+La ira de Ignis es ahora más débil que la de la mayoría de otros dioses. Apostates Will
+encontrar su resistencia al fuego despojado completamente, y Will ser periódicamente
+agredidos por elementales de fuego, encontrar a sus enemigos fortalecidos por fuego, o incluso
+Que el suelo se queme por debajo de ellos. Experiencia y cautela
+aventureros Will probablemente dominan estos ataques.
+
+%%%%
+Jiyva
+
+Jiyva es la antigua y caótica deidad de los limos. Sus seguidores deben
+apoyar la diseminación y alimentación de sus camaradas permitiéndoles consumir
+objetos, y tienen prohibido dañar a cualquier limo. Jiyva ocasionalmente
+incluso consumirá objetos dejados en alguna parte del calabozo. Seguidores
+especialmente favorecidos se volverán tan carentes de forma como su dios a
+medida que sus atributos y mutaciones van cambiando bajo la influencia de
+Jiyva.
+
+%%%%
+Jiyva powers
+
+Jiyva Will rellenar gradualmente the Dungeon con jellies. Estos y cualquier otro tipo
+slimes Will consumir rápidamente artículos cercanos, así como consumir lentamente artículos de
+en otro lugar del the Dungeon. A medida que se extienden deslizando más de the Dungeon, Jiyva
+Will otorgar a los seguidores una salud cada vez más rápida y regeneración mágica, y Will
+empezar a mutarlos para reflejar mejor la imagen de Jiyva. Followers Will later become
+capaz de sacar ooze ácido de las paredes de the Dungeon, y para girar
+monstruos para deslizarse con un toque.
+
+%%%%
+Jiyva wrath
+
+La venganza de Jiyva es rápida y gurgling. Todos los delgados se vuelven contra los que
+ofender Jiyva, y Jiyva garantiza un suministro abundante de más delgados. Víctimas,
+Will encontrar sus propios cuerpos inestables; adquirir debilitantes
+mutaciones o contaminación, así como tener regalos de mutaciones slime
+Despojado de ellos.
+
+%%%%
+Kikubaaqudgha
+
+Kikubaaqudgha es un terrible dios demonio, al que sirven aquellos que quieren
+manipular los poderes de la muerte. Kikubaaqudgha es una deidad maligna y
+demanda muertes de criaturas vivas y de demonios tan a menudo como sea posible.
+A cambio, Kikubaaqudgha ofrece gran asistencia a quien aspire ser un
+nigromante: libros de hechizos repletos de magia negra, protección y una vasta
+fuente de cadáveres directamente del mausoleo de Kikubaaqudgha.
+
+%%%%
+Kikubaaqudgha powers
+
+Kikubaaqudgha Will potenciar la proeza necromética de los sirvientes con regalos
+Necromancy hechizos. Kikubaaqudgha Will proteger a los seguidores de los efectos
+maldiciones necrométicas y maldiciones de muerte, e incluso puede protegerlos de impío
+tormento. Los seguidores pueden desenterrar las arañazos moribundos como forraje necrótico, y puede
+invocar el signo de la ruina para daño a sus enemigos. § § § § § § § § § § §
+permitir a los seguidores recibir conocimiento de la necromética más prohibida
+magia, o tener su arma llena de dolor.
+
+%%%%
+Kikubaaqudgha wrath
+
+La ira de Kikubaaqudgha produce todos los poderes terribles de la necromancia. Víctimas
+puede ser testigo de la devastadora Señal de Ruin sobre sí mismos, o ambos condenados
+y drenado sin ningún respeto por su resistencia energía negativa.
+Además, los regalos de Kikubaaqudgha se contaminan: los muertos se levantan de nuevo como enemigos,
+y aquellos que intentan usar la magia necromética para evitar la ira Will encontrarlo
+colocándolos cuando menos se esperaba.
+
+%%%%
+Lugonu
+
+Lugonu, «informe», se revela en el caos del Abismo. Sus seguidores son enviados
+para causar masacres y corromper al mundo superior, y deben hacerlo sin
+descanso para ganar el favor de Lugonu. Quienes ganen el favor de Lugonu
+heredan algo de su poder sobre el Abismo, permitiéndoles invocar horres
+macabros, incluso viajar entre el Abismo y el mundo superior a voluntad.
+
+%%%%
+Lugonu powers
+
+Los seguidores del Lugonu ganan poderes para partir el Abyss en Will, para desterrar monstruos
+y huir de nuevo dentro cuando sea necesario. Lugonu Will also banish nearby foes
+si algún otro dios intenta interferir con sus seguidores. Más tarde, seguidores
+Will ser capaz de corromper el mundo ordenado, abrir una puerta para las criaturas
+de la Abyss para pasar, y para entrar directamente en este reino de
+caos. Lugonu Will Protege a los seguidores que infunden armas
+distorsionar las energías del Abyss, y eventualmente Will ofrecen distorsionar un
+El melee arma del seguidor. Lugonu espera que los seguidores se difundan incesantemente
+el caos en el mundo, y como tal no otorga piedad a los adoradores mientras
+permanecen en el propio Abyss.
+
+%%%%
+Lugonu wrath
+
+Lugonu's ire renders the barrier between reality and the Abyssweak and
+permeable. Warps espaciales, hurling victims across the Dungeon, or even directly
+en el Abyss. Lugonu también llega y envía a los habitantes caóticos
+el Abyss contra las víctimas, con veteranos aventureros que enfrentan los mayores horrores
+de la Abyss. Lugonu no perdona fácilmente, y Will no permite ex-combatientes
+para unirse al pliegue mientras la ira de Lugonu todavía dura.
+
+%%%%
+Makhleb
+
+Makhleb, «quien destruye», es una terrible deidad de derramamientos de sangre y
+mortificación de la carne. Sus seguidores purifican a los demás infligiéndoles
+sufrimiento y muerte en nombre de Makhleb, y pueden ganar más favor destruyendo
+a los cadáveres recientes. Los seguidores Dedicados pueden acceder a energías
+caóticas puras y convocar sirvientes del caos de origen infernal, de modo
+que puedan destruir este mundo impuro y sus leyes falsas para la gloria de este
+malvado dios.
+
+%%%%
+Makhleb powers
+
+Makhleb ofrece a los seguidores la capacidad de desencadenar pernos de destrucción caótica en
+el costo de su propia salud, así como la llamada a la ayuda de los poderosos (si a veces
+demonios. Los más devotos de los adoradores Will eventualmente ser dotados
+con conocimiento de Marcas Infernales, permitiéndoles marcar ritualmente sus propias
+cuerpos a cambio de uno de los muchos poderes infernales del Destructor.
+
+Makhleb's powers all come with a price in blood. However, Makhleb Will grant
+seguidores renovaron la salud a cambio de matar seres de todo tipo.
+
+%%%%
+Makhleb wrath
+
+Los que invitan a la furia de Makhleb son enterrados en demonios y destrucción.
+Los castigos más grandes están reservados para los pecadores más fuertes; lanzas de cristal
+y los ejecutores se abrazan con abandono sólo en los Makhleb encuentra verdaderamente
+¡Mereciendo!
+
+%%%%
+Nemelex Xobeh
+
+Nemelex es un dios tramposo e impredecible, cuyos poderes pueden ser invocados
+mediante paquetes de cartas mágicas pintadas con el icor de demonios. Sus
+seguidores deben explorar el mundo, a cambio recibirán barajas de cartas.
+Ellos deben confiar en las cartas y usarlas tanto como sea posible. Además,
+Nemelex asegura que la fortuna favorece al más valiente.
+
+%%%%
+Nemelex Xobeh powers
+
+Los seguidores del Trickster ganan varias maneras de influir en el destino cuando juegan
+sus cartas. Los efectos de las tarjetas Will son más poderosos con piedad superior
+y con mayor habilidad de Invocaciones. Más tarde, los seguidores Will ganan poderoso
+habilidades para manipular las tarjetas, permitiéndoles elegir uno de los tres
+tarjetas, para obtener los efectos de múltiples tarjetas a la vez, y finalmente para apilar
+cubiertas y reordenar sus contenidos.
+
+%%%%
+Nemelex Xobeh wrath
+
+Aquellos que abandonan Nemelex Xobeh tienen todas sus cubiertas de regalo revocadas
+inmediatamente. They are also regularly forced to draw from the deck of
+Castigo, infligiendo una serie de efectos desagradables, incluido el drenaje,
+tormento y polimorfo, así como exhortar a otros dioses a ayudar
+infligiendo ira.
+
+%%%%
+Okawaru
+
+Okawaru es un poderoso y peligroso dios de la guerra. Los seguidores pueden
+ganar varios poderes útiles en combate además de ciertas recompensas, pero
+deben constantemente probarse a sí mismos derrotando otras criaturas. Okawaru
+prefiere gestos heroicos contra poderosos enemigos, y no presta mucha atención
+a victorias fáciles. Okawaru menosprecia a quienes hieren a sus aliados.
+
+%%%%
+Okawaru powers
+
+Los seguidores de Okawaru Will ganan la capacidad de aumentar temporalmente sus habilidades
+en combate, y mucho más tarde, para hacer frente a golpes mucho más rápidos. § § § § § § § § § § §
+seguidores de regalos con municiones, armas y armadura. Los más favorecidos
+Okawaru puede desafiar a sus enemigos a un combate único honorable.
+
+%%%%
+Okawaru wrath
+
+Los guerreros más viciosos de Okawaru son enviados contra sirvientes rebeldes. Novices
+encontrarse enjaulado por paquetes de ogros y gnolls, mientras que los campeones son
+rodeado de titanes y elvish cuchillas.
+
+%%%%
+Pakellas
+
+Pakellas el Inventivo cree en la supremacía de los dispositivos, mágicos o
+De lo contrario, sobre hechizos y otras formas de magia. Seguidores, aunque cortados
+de la energía mágica ambiente, se proporcionan con energía mágica para empoderar a su
+dispositivos mientras los usen para afirmar la supremacía de Pakellas. Pakellas Will
+otorgar a los devotos devotos acceso a dispositivos cada vez más poderosos.
+
+%%%%
+Pakellas powers
+
+Los seguidores de Pakellas no regeneran su poder mágico naturalmente, y son
+prohibido utilizar medios externos para hacerlo; en cambio, se les concede
+energía mágica en matar seres. Pueden usar cantidades crecientes de magia
+energía para fortalecer sus dispositivos, concediéndoles temporalmente más
+poder, y también puede utilizar su energía mágica para recargar sus dispositivos.
+Los seguidores suficientemente devotos Will reciben nuevos dispositivos de Pakellas, y pueden
+eventualmente petición Pakellas para cargar personalmente uno de sus dispositivos más allá
+sus límites normales.
+
+%%%%
+Pakellas wrath
+
+Aquellos que ofenden Pakellas Will se encuentran completamente incapaces de hacer uso
+de sus dispositivos durante el descontento de Pakellas. Los que abandonan
+Pakellas en conjunto Will también continúan siendo incapaces de regenerar su magia
+poder mientras la atención de Pakellas permanezca en ellos.
+
+%%%%
+Qazlal
+
+Qazlal «invocador de tormentas» es un dios violento de la tempestad, quien
+disfruta desencadenando las fuerzas de la naturaleza contra el desprevenido.
+Quienes inviten la mirada de Qazlal se encontrarán en el ojo de la tormenta
+de destrucción elemental, del cuál sólo su dios puede protegerlos. Los
+adoradores beatos de Qazlal ganarán la habilidad de dirigir y controlar el
+poder destructivo de la tormenta.
+
+%%%%
+Qazlal powers
+
+Los seguidores de Qazlal están protegidos de todas las nubes. Como seguidor de Qazlal
+gana el favor divino, están lentamente rodeados por una fuerte tormenta. Además de
+generando ruido, la tormenta hace que las nubes elementales aparezcan cerca de seguidores,
+bloquea los ataques, y (para el particularmente devoto) desvía la entrada
+proyectiles. Qazlal permite a los seguidores incitar la naturaleza contra sus enemigos,
+causando una perturbación natural localizada o, para los seguidores particularmente devotos,
+un desastre más generalizado. Los seguidores de Qazlal eventualmente ganan temporalmente
+resistencias después de tomar daño, y puede dar vida a las nubes, convirtiéndolos en
+Aliados elementales.
+
+%%%%
+Qazlal wrath
+
+Qazlal La ira es rápida e inconfundible. Los pecadores están despojados de sus
+resistencias y asaltos por criaturas elementales furiosas, y Qazlal Will
+crear potentes truenos para alertar a sus enemigos.
+
+%%%%
+Ru
+
+Entre todos los dioses, sólo Ru se opone a la creación. No como una locura,
+sino como distracción. Los iniciados de Ru pueden abrir canales a los poderes
+subyacentes al mundo visible al renunciar a las cadenas que los atan aquí.
+Estos sacrificios no son para Ru, sino que se otorgan gratuita y
+permanentemente. Sus seguidores pueden redirigir y contraatacar contra sus
+enemigos, regenerar su salud y magia, realizar poderosos saltos, y liberar una
+onda masiva de poder contra sus rivales.
+
+%%%%
+Ru powers
+
+Ru Will ofrecen a los seguidores una serie de sacrificios mientras viajan the Dungeon. On
+aceptar estos sacrificios, seguidores Will gradualmente ganar un aura de inmenso
+Poder. Este aura Will inicialmente causan enemigos que intentan dañarlos para falsificar
+y se arrastre con males. Después de hacer más sacrificios, seguidores
+Will ser capaz de aprovechar este poder para restaurar su salud y magia, o para
+Haz un salto explosivo rápido y rápido. Excepcionales sacrificios pueden desencadenar
+su poder en una huelga masiva contra todos sus enemigos. Cada uno de los poderes de
+Ru's sacrificionts aumenta en fuerza con más piedad de más sacrificios.
+
+%%%%
+Ru wrath
+
+Aquellos que dejan el servicio Ru Willno reciben ningún castigo adicional; sin embargo,
+su piedad Will se pierda incluso al unirse, y sus sacrificios permanecen
+Para siempre.
+
+%%%%
+Sif Muna
+
+Sif Muna, «quien posee el conocimiento» es una deidad contemplativa pero
+poderosa, a quien sirven los que buscan conocimiento de la magia. Aprecia el
+entrenamiento de las capacidades para hacer magia. Sif Muna recompensa a sus
+seguidores más devotos con libros de hechizo exclusivos de su legendaria
+biblioteca.
+
+%%%%
+Sif Muna powers
+
+Sif Muna otorga a los seguidores la capacidad de restaurar rápidamente su energía mágica,
+y olvidar los hechizos en Will, para aprender nuevos. Los amantes pueden llamar
+en el Loreminder para ayudar a lanzar cualquier hechizo que hayan descubierto, incluso si es
+más allá de su actual entrenamiento mágico. Con el tiempo, seguidores devotos Will
+recibir libros de hechizos que contienen una amplia gama de hechizos.
+
+%%%%
+Sif Muna wrath
+
+Aquellos en las malas gracias de Sif Muna encuentran las mismas fuerzas de la rebelión mágica contra
+ellos. Están confundidos y estupefactos, sus reservas mágicas drenadas, sus
+los encantos se desentrañaron. Casting hechizos, también, se vuelve poco confiable – e incluso
+peligroso.
+
+%%%%
+the Shining One
+
+El Resplandeciente es una poderosa deidad en una cruzada contra todo mal. A sus
+seguidores y aliados les puede conceder varias bendiciones mientras vayan
+erradicando sin compasión a seres malignos e impíos, y se espera que prueben su
+superioridad moral luchando honorablemente. A sus seguidores se les solicita
+que limpien el mundo, examinando a todos sus habitantes en busca de rastros de
+maldad que deba ser eliminada. Los seguidores de El Resplandeciente pueden
+convertirse en seguidores de Elyvilon o de Zin conservando algo de piedad.
+
+%%%%
+the Shining One powers
+
+Los seguidores del Shining One están rodeados de un halo que revela sus
+enemigos para ellos. Seguidores Will ganar poder matando seres malvados, y con
+cultivar piedad su fuerza vital Will ser protegido. El Shining One Will mantener
+aliados convocados y encantados a su lado más tiempo, si los aliados prueban
+digno de la cruzada. Seguidores Will ganar uso de un escudo divino para proteger
+en batalla. Más tarde, pueden canalizar las explosiones de la llama de limpieza que son
+particularmente dañino para los seres no santos, y puede llamar a la poderosa divina
+seres como aliados temporales. Los seguidores muy piadosos pueden solicitar el resplandor
+Una bendición sobre un arma. El Shining One puede ocasionalmente directamente
+interviene para salvar la vida de un seguidor.
+
+%%%%
+the Shining One wrath
+
+La ira del Shining One es directa e inconfundible. Sus víctimas encuentran
+ellos mismos tropezaron con fuego santo y se pusieron con guerreros santos. Sinners Will be
+silenciado, y el Shining One también gritan para alertar a los enemigos de la víctima.
+
+%%%%
+Trog
+
+Trog es un antiguo dios de furia y violencia. Sus seguidores han de matar en
+nombre de Trog y sacrificar a los muertos para obtener poder durante las
+batallas y ocasionalmente alguna recompensa. Quienes adoran a Trog pueden
+entrar en un estado de furia a voluntad. Trog odia a todos los magos y le
+encanta ver sus libros arder. Sus seguidores tienen prohibido el uso de
+hechizos.
+
+%%%%
+Trog powers
+
+Trog ofrece varios poderes para ayudar a los seguidores en la batalla. Seguidores Will ganar el
+habilidad para ir Berserk en Will, y Trog Will extender la duración de su
+Berserk rage on killing foes. Trog Will otorgar a los seguidores la capacidad de
+curan sus heridas mientras fortifican su fuerza de voluntad, y más tarde la capacidad de
+llama a poderosos aliados furtivos. Eventualmente, Trog Will
+armas, a menudo con efectos antimagicos.
+
+%%%%
+Trog wrath
+
+La ira de Trog es incandescente. Los delincuentes se encuentran enjaulados por berserkers –
+de paquetes de osos a, para los más poderosos, multitud de gigantes y troles.
+De lo contrario, los que enojan Trog Will pierden regularmente su fuerza y
+autocontrol como ellos sin pensar pulverizar en su lugar.
+
+%%%%
+Uskayaw
+
+Uskayaw el Reveller es un dios de la danza extática. In the Dungeon, Uskayaw
+aprecia la pasión y el ritmo del combate, premiando a los seguidores de cada uno
+golpean y por el daño que hacen a sus enemigos. Cuanto más tiempo
+baile continúa, los mayores poderes Uskayaw ofrece. Cuando termine el baile,
+Uskayaw pierde rápidamente interés.
+
+%%%%
+Uskayaw powers
+
+Los adoradores de Uskayaw pueden golpear a los enemigos que los rodean, y moverse rápidamente
+a través de una línea de criaturas al confundirlas. Cuando un adorador baila
+alcanza un cierto punto, Uskayaw Will detiene inmediatamente a todos los enemigos para que el
+La bailarina puede tomar un solo. Mientras el baile continúa, Uskayaw Will vincula las emociones
+de enemigos, obligándolos a compartir su dolor. La duración de estos efectos Will
+aumentar con la habilidad Invocations, y mientras la intensidad del baile sea
+suficiente pueden repetirse después de poco tiempo. Si el baile continúa
+más adelante, Uskayaw permite a los adoradores terminarlo mediante la unión con y luego
+explotando violentamente de un enemigo, matándolo al instante.
+
+%%%%
+Uskayaw wrath
+
+La ira de Uskayaw convierte los poderes de la danza contra el delincuente. El prude
+Will encontrar a sus enemigos yendo Berserk y Will ser forzados a mirar sin ayuda como
+Los enemigos ejecutan sus propios solos. Cuando el baile está recibiendo también Slow, Uskayaw Will
+causar ruido para atraer más revendedores.
+
+%%%%
+Vehumet
+
+Vehumet es un dios de los poderes destructivos de la magia. Los seguidores
+ganan varios poderes útiles para mejorar su maestría en las artes herméticas y
+los más favorecidos consiguen acceso a algunos de los terribles hechizos de la
+biblioteca de Vehumet. La devoción a Vehumet se logra causando cuanta más
+masacre y destrucción posible.
+
+%%%%
+Vehumet powers
+
+Los adoradores de Vehumet pronto serán capaces de recuperar su mana matando
+criaturas. A medida que ganen favor, también ganarán varias mejoras en sus
+hechizos destructivos — en primer lugar, asistencia a la hora de recitar tales
+hechizos; luego se incrementará la distancia de sus conjuros; y finalmente un
+coste menor para lanzar hechizos destructivos de alto nivel.Con el tiempo,
+Vehumet otorgará a sus seguidores raros libros de magia destructiva.
+
+%%%%
+Vehumet wrath
+
+Aquellos que enojan Vehumet encuentran la destrucción ampliamente saltada sobre ellos. Los novatos son
+golpeada por la llama y la helada; arquemas por lanzas de cristal y tormentas de fuego. Sus
+sus propias conjuraciones, también, no van a maldecir en los peores momentos posibles.
+
+%%%%
+Wu Jian
+
+El Wu Jian Concilio es una congregación de monjes marciales, ascendidos a la divinidad
+después de luchar contra su salida de la otra vida. Los discípulos del Consejo son
+capaz de ejecutar maniobras marciales acrobáticas, tales como saltos de pared, girando
+ataca y castiga los pulmones. They Will eventually become able to request
+ayuda en la forma de una tormenta de nubes celestiales.
+
+%%%%
+Wu Jian extra
+
+# cualquier dios pantallas extra necesitan:nowrap
+################################################################################################################################################################################################################################################################
+....... ..... (.) Mover directamente hacia un enemigo para tratar
+.. se cumplió con instrucciones de usuario@ identificado/lightred título.O... -- título ... cumplimentó significado@ identificado/lightred confianzaO.. daños adicionales.
+.......
+
+....... ...traducido por: Mover entre dos baldosas adyacentes
+... fue un enemigo para golpearlos ligeramente. Múltiples adyacentes
+Los enemigos pueden ser atacados simultáneamente de esta manera.
+
+..#... Apaga una pared cercana y golpe
+.. No se cumplió con el título de usuario. enemigos adyacentes al punto landing. Vaulting takes
+Dos turnos. Activado a través del menú (a)bility.
+
+Estos evitan que los enemigos reciban ataques gratis contra ti mientras te alejas.
+
+%%%%
+Wu Jian powers
+
+Los discípulos del Consejo aprenden a realizar tres técnicas marciales mientras se mueven
+en combate. También se les enseña a moverse a velocidades insondables para
+distancias cortas, y ser capaz de convocar una tormenta de nubes doradas para aumentar
+su precisión y daño durante tanto siga utilizando ataques marciales.
+
+%%%%
+Wu Jian wrath
+
+Los que se oponen al Consejo deben estar dispuestos a sufrir la muerte por un
+mil cortes. Ningún escondite es seguro, ningún disfraz perfecto para evitar
+la repentina primavera de trampas, las dagas voladoras y los ejércitos de animación
+armas que Will embosca al traidor.
+
+%%%%
+Xom
+
+Xom es un dios extravagante e impredecible del caos, quien no busca seguidores,
+sino juguetes con que jugar. Muchos deciden seguir a Xom con la esperanza de
+recibir regalos fabulosos y grandes poderes, pero Xom es extremadamente
+caprichoso. Nada de lo que hagan sus seguidores puede cambiar el humor de Xom.
+
+%%%%
+Xom powers
+
+Adorar a Xom es vivir con riesgo. De buen humor, Xom puede obsequiarte con una
+lluvia de regalos, mientras que en otras ocasiones este dios caprichoso puede
+decidir poner «algo de salsa» y acabar por condenarte. Si te muestras como el
+más fuerte, tanto mejor; si no, bueno, siempre habrá otros con quien jugar...
+
+%%%%
+Xom wrath
+
+Ex-siguientes infieles Will se encuentran sufriendo a través de Xom malos estados de ánimo
+por tanto tiempo como Xom puede ser molestado para recordar sobre ellos. Aún así, caprice de Xom
+restos; los infieles son recompensados así como los fieles son castigados.
+
+%%%%
+Yredelemnul
+
+Yredelemnul el Oscuro es un dios malvado adorado por los que buscan poderes
+sobre la muerte y los no-muertos. Los seguidores, que deben oponerse a todas
+las cosas sagradas, pueden alzar legiones de serviles no-muertos, y ganar
+varios poderes útiles (si bien desagradables). Yredelemnul aprecia las muertes,
+pero prefiere que los cadáveres sean usados en lugar de sacrificados. Destruir
+seres artificiales también se ve favorecido, ya que no son seres vivos ni
+sujetos a la muerte o a la no-muerte.
+
+%%%%
+Yredelemnul powers
+
+Los seguidores de Yredelemnul llevan la Antorcha Negra, permitiéndoles reunir almas
+y rodearse en la oscuridad. Pueden criar enemigos que mueren a la luz de
+la antorcha como sirvientes sin mente, hurl torchlight para escour a los vivos y potenciar
+los muertos, y atar almas especialmente notables para luchar por ellos en la muerte con
+las plenas capacidades que tenían en la vida. Especialmente adoradores devotos pueden incluso
+anotar el ineludible agarre del Fallen directamente, los enemigos vinculantes de forma indefensa
+en su lugar como la vida misma es succionada de ellos. § § § § § § § § § § § § § § § § §
+sirvientes no muertos para ayudar a los seguidores al comienzo de cada nueva conquista.
+
+%%%%
+Yredelemnul wrath
+
+Aquellos que enojan Yredelemnul se encuentran aturdidos por legiones de los muertos.
+A veces, el dios Will también interviene directamente, obligando a los infieles en
+cadenas ineludibles como el ejército oscuro de Yredelemnul demuestra el precio de
+traición.
+
+%%%%
+Zin
+
+Zin es un dios de la disciplina. Sus seguidores deben permanecer puros de
+cuerpo y alma, absteniéndose de magia oscura y actos caóticos, y nunca consumir
+la carne de seres inteligentes. Ellos deben diezmar una fracción de todo el
+dinero ganado, preferiblemente seguido de donaciones mayores. A cambio, sus
+seguidores podrán invocar la ira de Zin contra los pecadores, y eventualmente
+ganar varias protecciones divinas. Los seguidores de Zin se pueden convertir a
+Elyvilon o a El Resplandeciente conservando una parte de su piedad.
+
+%%%%
+Zin powers
+
+Zin concede a sus seguidores la habilidad de predicar a las masas, y poderes
+para revitalizar sus cuerpos y ganar resistencia divina, protegiéndoles de
+variadas aflicciones además de dar sustento al hambriento. Más adelante, sus
+seguidores ganan la habilidad de aprisionar a sus enemigos de forma temporal.
+Al final, sus seguidores pueden encontrar seguridad en un refugio divino por
+algo de tiempo. A medida que la piedad crece, sus seguidores se verán
+protegidos de mutaciones, y Zin puede incluso ocasionalmente intervenir de
+forma directa para salvarle la vida a un seguidor.
+
+%%%%
+Zin wrath
+
+Aquellos bajo la ira de Zin Will encuentran sus mutaciones beneficiosas despojadas,
+sus enemigos alertados, y sus sentidos confundidos por los axiomas de la ley;
+confusión, desmayo, ceguera y completa Paralysis Will ser su suerte.
+
 %%%%
