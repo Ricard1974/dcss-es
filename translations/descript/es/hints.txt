@@ -1,0 +1,1004 @@
+%%%%
+death
+
+¡Condolencias! La muerte prematura de tu personaje es triste, pero ocurrencia común
+en Crawl. Tenga la seguridad de que con diligencia y experiencia de juego
+caracteres Will duran más tiempo.
+
+Tal vez el siguiente consejo puede mejorar su estilo de juego:
+
+%%%%
+death berserker unberserked
+
+No te olvides de ir Berserk al luchar contra enemigos particularmente difíciles. Es
+arriesgado, pero te hace más rápido y más fuerte.
+
+%%%%
+death conjurer melee
+
+Como Conjurer su arma principal debe ser magia ofensiva. Deletrear hechizos más
+¡A menudo! Recuerde descansar cuando su magia es baja.
+
+%%%%
+death random 0
+
+Considere siempre usar proyectiles, varitas o hechizos antes de involucrar monstruos en
+combate cercano.
+
+%%%%
+death random 1
+
+Aprenda cuándo escapar de las cosas puedes no manejar — ¡esto es importante! Es
+a menudo sabio para saltar un nivel particularmente peligroso. Pero no exageres esto como
+monstruos Will sólo consiguen más duro el más profundo que acaricias.
+
+%%%%
+death random 2
+
+Descanso entre encuentros, si es posible en un área ya explorada y despejada de
+monstruos. Presionar нелиниеннниенниенных[CMD REST] seleccionado/input
+< < > > > > > > > >
+Will descanso para 100 vueltas, o hasta que esté completamente curado.
+
+%%%%
+death random 3
+
+Recuerda usar esos pergaminos, pociones o varitas que has encontrado. Aprender a
+improvisar: tú Will necesita identificar pociones y pergaminos utilizando ellos.
+
+%%%%
+death random 4
+
+Si un encuentro en particular se siente abrumador, no olvides usar emergencia
+ítems antes. Un pergamino de teletransporte o una poción de Haste realmente puede salvar
+tu tocino.
+
+%%%%
+death random 5
+
+Nunca peleen más de un monstruo, si puedes lo ayudan. Siempre de vuelta en
+corredor para que se vean obligados a luchar uno en uno.
+
+%%%%
+death ranger melee
+
+Tu arco y flechas son extremadamente poderosos contra monstruos distantes.
+
+%%%%
+finished
+
+¡Felicidades! Sobreviviste hasta el final del modo de pistas - asegúrese de probar el
+otros personajes también. Tenga en cuenta que el comando ayuda pantalla
+[CMD DISPLAY COMMANDS]? Will se ven muy diferentes desde ahora
+adelante. Aquí hay una última pista de juego:
+
+%%%%
+finished explored
+
+Caminando por ahí y explorando niveles se hace más fácil usando autoexplor
+(Seguido de entrada](CMD EXPLORE) se indica/input título). Crawl Will te permite moverte automáticamente
+y recoger artículos interesantes.
+
+La autoexploración también puede ser iniciada por ■input títuloCtrl-Leftclick observado/input título
+minimap
+
+%%%%
+finished random 0
+
+El juego mantiene un registro automatizado para sus personajes. Uso
+[CMD DISPLAY COMMANDS]: se realizó/introducir confianza para leerlo. Una vez tu personaje
+pereces, dos archivos de morgue se quedan en el directorio de >w título/(s)/w contactos. El uno
+terminar en .txt contiene una copia de su registro. Durante el juego, puedes crea un vertedero
+archivo con > > cmd [CMD CHARACTER DUMP] seleccionada/input titulada.
+
+%%%%
+finished random 1
+
+Crawl tiene una función macro construida en: pulse <input título $cmd[CMD MACRO MENU]
+para definir una macro especificando por primera vez una tecla de disparador (por ejemplo, ■input estrechamenteF1)
+y una secuencia de comandos, por ejemplo. El último Will hacer
+la tecla de entrada / entrada siempre se activa el hechizo en la ranura a la más cercana
+monstruo. Para más información sobre macros, escriba
+[CMD DISPLAY COMMANDS]~Sea/introducción].
+
+%%%%
+finished random 2
+
+La interfaz puede ser muy personalizada. Todas las opciones se explican en el archivo
+■w títulos guide.txt que se puede encontrar en el directorio "Normaldodocs" El
+las opciones se establecen en нелиноinit.txt seleccionadas/w contactos o нерених.crawlrc interpretado/w contactos. Crawl Will
+quejarse si no encuentra ningún archivo.
+
+%%%%
+finished random 3
+
+Puedes pedir consejos a otros jugadores de Crawl y ayudar a usar cualquier comunidad
+Recursos descritos en http://crawl.develz.org/
+
+%%%%
+finished stashes
+
+Tú puede buscar entre todos los elementos existentes en the Dungeon con el
+[CMD SEARCH STASHES] seleccion/input titulada comando. Por ejemplo,
+[CMD SEARCH STASHES] seleccion/input titulada > > > Will lista todas las dagas,
+y te permite viajar a ellos. Incluso puede buscar características de mazmorra, como
+> > > > > > > >.
+
+%%%%
+finished travel
+
+Hay una manera conveniente de viajar entre los niveles distantes de mazmorras: la prensa
+[CMD INTERLEVEL TRAVEL] se realizó/introducir título y entrar en el destino deseado.
+Si su viaje se interrumpe, emitiendo <input título$cmd[CMD INTERLEVEL TRAVEL]
+Introdúzcalo.
+
+%%%%
+HINT_ABYSS
+
+Uh-oh, has terminado en la Abyss! El Abyss es un lugar especial donde tú
+no puede recordar o mapa donde has estado; está lleno de monstruos desagradables, y
+Probablemente vas a morir.
+
+Para aumentar sus posibilidades de supervivencia hasta que puedes encuentre la salida efectuadaconsole confianza (a
+flickering, no pelees a ninguno de los monstruos,
+y no persigas objetos en el suelo. Si los monstruos se acercan, traten de
+utilizar elementos y habilidades para escapar.
+
+%%%%
+HINT_ADVISE_USE_WAND
+
+\nO tú podría e hizow título$cmd[CMD EVOKE] seleccionó/w consistoke una varita para dañar o debilitar a sus enemigos.
+
+%%%%
+HINT_AUTO_EXCLUSION
+
+Para evitar el autotravel o autoexplore llevándolo a territorio peligroso, tú
+puede establecer las exclusiones de viaje al entrar en la vista del mapa ( > > > )
+y luego toggling el radio de exclusión en la posición del monstruo con неренноенниханициния / wне.
+Para hacer esto más fácil, algunos monstruos inmóviles enumerados en el apartado "Consejoauto exclude made/w
+opción (como ésta) se consideran suficientemente peligrosas para justificar
+Ajuste automático de una exclusión. Will ser automáticamente aclarado si tú
+consigue matar al monstruo. También puede eliminar manualmente la exclusión con
+[CMD DISPLAY MAP]ee]ee seleccionó/w Confía, pero a menos que retire este monstruo del
+auto exclude list, the exclusion Will be reset the next turn.
+
+%%%%
+HINT_AUTO_EXPLORE
+
+Explorando completamente un nivel y recogiendo todos los elementos interesantes de aspecto puede ser
+tedioso. Para ahorrar en este tedio puedes imprenta > > cmd[CMD EXPLORE]
+autoexplore, que Will explora automáticamente las regiones no incluidas, automáticamente
+recoger artículos interesantes, y parar si un monstruo o una característica de mazmorra interesante
+(piedras, altar, etc.) se encuentra.
+
+%%%%
+HINT_AUTOPICKUP_THROWN
+
+Al pisar los elementos que has lanzado, se recogen automáticamente.
+
+%%%%
+HINT_CAN_BERSERK
+
+Contra enemigos particularmente difíciles, debe utilizar su Berserk
+[CMD USE ABILITY]] se indica/w consistencia. Matar monstruos mientras berserking lo hace
+dura más.
+
+%%%%
+HINT_CAUGHT_IN_NET
+
+Mientras estás mantenido en una red, no puedes moverse alrededor o involucrar monstruos en
+combate. En cambio, cualquier movimiento que tomes es contado como un intento de lucha libre
+de la red.
+ LUA0 
+
+%%%%
+HINT_CHOOSE_STAT
+
+Al ganar niveles 3, 9, 15, etc., tú consigue elegir un atributo para elevar:
+fuerza, inteligencia o destreza.
+
+√w títuloStrength identificado/w instrucciones hace la armadura pesada menos engorrosa y aumenta ligeramente la mayoría
+daño de las armas.
+
+"Intelligence" se hace más fiable y potente.
+
+"Seguido"La dexteridad obtenida/w] aumenta la evasión y el robo, y aumenta ligeramente el
+daños de cuchillas y armas.
+También escudos.
+
+%%%%
+HINT_CLOUD_WARNING
+
+En lugar de entrar en esta nube y lastimarse, tú debe esperar a un
+pocos turnos para ver si se desvanece (con <w título$cmd[CMD WAIT] buscado/w contactos), o simplemente paso
+alrededor.
+
+%%%%
+HINT_CONTAMINATION_MILD
+
+Mientras el estatus sólo muestre en gris nada Will realmente sucede como
+resultado de ello, pero como tú continúa sofocándose con contaminación mágica
+eventualmente empezarás a brillar de verdad, que puede tener efectos desagradables, como
+mutarte o hacer daño directo. Además, el resplandor te hará
+mucho más notable.
+
+%%%%
+HINT_CONTAMINATION_SEVERE
+
+Esto normalmente no es un problema ya que la contaminación sangra lentamente por sí misma, pero
+parece que has acumulado tanta contaminación por una cantidad corta de
+tiempo que puede tener efectos desagradables, como mutar o tratar directamente
+daño. Además, el resplandor te hará mucho más notable.
+
+%%%%
+HINT_CONVERT
+
+Acabas de convertirte en adorar нелины    LUA0   Seguido/w contactos. Tu piedad
+(a favor divino) Will aumentar mientras tú hace cosas para complacer a su nuevo dios, y Will
+disminuyendo gradualmente con el tiempo.
+
+Tú puede comprobar los gustos y disgustos de su dios, así como su posición actual
+y habilidades divinas, escribiendo
+[CMD DISPLAY RELIGION] se realizó/inputaron contactos/inputaronlocaltiles profesionales, o pulsando
+■input tituladaShift-right-click seleccionado/input confianza en su avatar seleccionado/localtiles confianza.
+
+%%%%
+HINT_CONVERT Ashenzari
+
+Acabas de convertirte en adorar нелинициAshenzari won/w Conf. A diferencia de otros dioses,
+Ashenzari sólo se preocupa por las maldiciones. Mientras exploras the Dungeon, Ashenzari Will
+ofrecer maldiciones, guardar un artículo sobre ti. Los artículos más malditos que llevas, más
+Ashenzari Will mejorar sus habilidades y de otro modo ayudarle.
+
+%%%%
+HINT_CONVERT Gozag
+
+Acabas de convertirte en adorar нелинициGozag won/w. A diferencia de otros dioses, Gozag solamente
+se preocupa por el oro; cada poder divino cuesta oro, y tus enemigos se vuelven a oro
+muerte.
+
+%%%%
+HINT_CONVERT Ru
+
+Acabas de convertirte en adorar нелинициRu won/w. A diferencia de otros dioses, Ru subvenciones
+piedad a cambio de sacrificios permanentes, como perder el
+habilidad para entrenar ciertas habilidades, o perder permanentemente una mano. Cuanto más piedad
+tienes, las mayores habilidades Ru Will Grant, y las más poderosas
+habilidades Will se convierten. Ru Will ofrecen más sacrificios mientras exploras the Depths
+de the Dungeon.
+
+%%%%
+HINT_CONVERT Uskayaw
+
+Acabas de convertirte en adorar нелинициUskayaw won/w Conf. A diferencia de otros dioses,
+Uskayaw El favor no se puede ganar gradualmente a medida que explora the Dungeon o slay
+monstruos. En cambio, la piedad con Uskayaw se gana rápidamente en combate mientras se trata
+daño. Cuanto más tiempo permanezcas en combate y más daño trates, más
+mayores los poderes que se ofrecen. Una vez que el combate termina, Uskayaw's favour Will
+ser rápidamente perdido, y debe ser recuperado en la próxima batalla.
+
+%%%%
+HINT_CONVERT Xom
+
+Acabas de convertirte en adorar нелинициXom won/w. Como seguidor de Xom,
+ser tratado como un juguete, ayudado al azar o dañado por la propia diversión de Xom.
+
+No hay manera de garantizar Xom permanece en buen estado de ánimo - el mejor cualquier seguidor
+puede esperar es evitar dejar que Xom se aburran!
+
+%%%%
+HINT_CONVERT Yredelemnul
+
+Acabas de convertirte en adorar нелинициYredelemnul won/w. A diferencia de otros dioses,
+Yredelemnul sólo se preocupa por las almas. Tus enemigos pueden levantarse para servirte después
+la muerte, y puedes los envían a invocar la ayuda del Yredelemnul.
+
+%%%%
+HINT_DONE_EXPLORE
+
+Hey, has terminado de explorar the Dungeon en este nivel! Puedes buscar
+escaleras desde el mapa de nivel (seguido $cmd[CMD DISPLAY MAP] seleccionadas/w contactos) pulsando > >
+El cursor Will salta a la escalera más cercana, y pulsando el botón.
+لереннниеннниенниенннильный su carácter puede moverse allí, también. Cada nivel de Crawl tiene tres
+.console títuloblanco > > > > > > >
+Las partes no exploradas se pueden acceder a menudo a través de otro nivel.
+
+%%%%
+HINT_FLEEING_MONSTER
+
+¡Ahora ese monstruo te tiene miedo! Tenga en cuenta que no tiene absolutamente que
+Síguelo. Más bien, puedes lo dejó escapar. A veces puede ser útil.
+para atacar a una criatura huyendo tirando algo después de ella. Si tienes cualquiera
+piedras en su нелинилинининина [CMD DISPLAY INVENTORY] segÃon / w vestidonventory, puedes mirar a uno
+de ellos para leer una explicación de cómo hacer esto.
+
+%%%%
+HINT_FOUND_UNKNOWN
+
+Has encontrado algo nuevo (pero no sé qué)!
+
+%%%%
+HINT_FULL_INVENTORY
+
+Lamentablemente, su inventario está limitado a 52 artículos, y parece que su mochila es
+lleno. Sin embargo, esto es lo suficientemente fácil para rectificar: simplemente <w título$cmd[CMD DROP]
+algunas de las cosas que no necesitas ahora. En el menú desplegable puedes entonces
+selecciona cómodamente qué elementos dejar pulsando su inventario
+letra consignalocaltiles confianza, o haciendo clic en ellos selecciona/localtiles confianza.
+
+%%%%
+HINT_FUMBLING_SHALLOW_WATER
+
+Luchar en agua poco profunda Will a veces te hace deslizar y fusionar tu
+ataque. Si es posible, trate de luchar en terreno firme.
+
+%%%%
+HINT_GAINED_MAGICAL_SKILL
+
+Ser calificado en una "escuela" mágica hace más fácil aprender y lanzar hechizos de
+esa escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en las que
+el caso de la habilidad promedio en estas escuelas Will determinar el éxito de la ortografía y
+Poder.
+
+%%%%
+HINT_GAINED_MELEE_SKILL
+
+Ser experto con un tipo particular de arma Will te hace tratar ligeramente más
+daño y ataque significativamente más rápido con todas las armas de ese tipo. Es un
+buena idea para centrarse en un tipo de arma, por lo general uno que empieza con, aunque
+encontrar un arma particularmente buena puede justificar un cambio.
+
+%%%%
+HINT_GAINED_RANGED_SKILL
+
+Ser hábil con armas variadas Will le permite tratar ligeramente más daño y
+ataque significativamente más rápido con ellos. Recuerda que usar armadura pesada hace
+atacas más lentamente con armas variadas.
+
+%%%%
+HINT_GAINED_SPELLCASTING
+
+A medida que su habilidad de Spellcasting aumenta, tú Will puede memorizar más hechizos,
+y Will tienen un poco más MP. También te sentirás mejor en el casting
+todo tipo de hechizos.
+
+Presione el botón "Pedido"(CMD DISPLAY SKILLS) realizado/w Fuerte (o haga clic en el botón "
+botón < > > > > > >
+manejar su entrenamiento.
+
+%%%%
+HINT_GLOWING
+
+¡Has acumulado tanta contaminación mágica que estás brillando! Tú.
+generalmente adquieren contaminación mágica de usar algunas magias poderosas, como
+invisibilidad, o de hechizos erráticos.
+
+%%%%
+HINT_GOD_DISPLEASED
+
+Uh-oh, $1 está creciendo disgustado porque tu piedad está bajando. Posiblemente esto
+es el caso porque estás cometiendo actos heréticos, porque $1 encuentra tu
+la adoración falta, o una combinación de los dos. Si tu piedad va a cero, entonces
+Serás excomulgado. Mejor que te despiertes en criar tu piedad, y/o parar
+molestando a tu dios. En cualquier caso, será mejor releer la descripción religiosa.
+Para ello, presione > > > [CMD DISPLAY RELIGION] = > > >
+ww títuloShift obtenidos/w contactos y .w correctamente-click seleccionado/w contactos en su avatar seleccionado/localtiles confianza.
+
+%%%%
+HINT_HEALING_POTIONS
+
+Su salud se está poniendo peligrosamente baja. Retiro y/o quaffing a potion of
+curar heridas o curar Might ser una buena idea.
+
+%%%%
+HINT_HEAP_BRAND
+
+Identificados Un pequeño símbolo en una ficha de elemento significa que hay al menos otro
+artículo en el mismo montón que puedes quiere comprobar hacia fuera.
+■console Si dos o más artículos están en un solo cuadrado, entonces el cuadrado Will ser
+resaltado, y el símbolo para el artículo en la parte superior del montón Will se muestra.
+■/console
+
+%%%%
+HINT_INVISIBLE_DANGER
+
+Luchar contra un monstruo no puedes ver es difícil. Si no tienes un
+fuente de invisibilidad, puedes encontrar monstruos invisibles atrayendolos
+agua poco profunda, nubes opacas (de un pergamino de niebla), o un pasillo, donde su
+los movimientos Will sean más predecibles. Si las cosas van al sur, intenta teletransportar o
+¡Dejando el nivel por completo!
+
+%%%%
+HINT_ITEM_FLIGHT
+
+flight Will le permite cruzar agua profunda o lava. Artículos que le permiten Fly
+Will activa automáticamente cuando se usa.
+
+%%%%
+HINT_ITEM_RESISTANCES
+
+Equipar este artículo afecta sus resistencias. Compruebe la pantalla de visión general
+[CMD RESISTS SCREEN] seleccionado/w Hizo clic en "Localtiles".
+botón de vista general efectuado/w contacto en el panel de comandos seleccionado/localtiles] para detalles.
+
+%%%%
+HINT_KILLED_MONSTER
+
+¡Felicidades, tu personaje acaba de ganar experiencia matando a este monstruo!
+Este Will levanta algunas de tus habilidades, haciéndote más mortal.
+ LUA0 
+
+%%%%
+HINT_LAST_MINUTE_BERSERK
+
+Con el apoyo de Trog, puedes usa tu habilidad Berserk(Nombrado $cmd[CMD USE ABILITY]) seleccionado/w≤ para ganar temporalmente más salud y mayor
+fuerza. Tenga en cuenta que el rodar en el último minuto es a menudo arriesgado,
+y le impide usar artículos para escapar!
+
+%%%%
+HINT_MALEVOLENCE
+
+Mientras exploras the Dungeon y revelas nuevas fichas, las fuerzas malévolas de
+mazmorra puede causarle cosas malas. Cuando esto suceda,
+pausar, pensar cuidadosamente, y estar listo para usar consumibles o habilidades. Lucha contra
+¡Sobrevivir!"
+
+%%%%
+HINT_MAP_VIEW
+
+Al explorar un nivel, la orientación puede ser difícil. Prensa
+[CMD DISPLAY MAP]] seleccionó/w Confía en el mapa de nivel. ¿Tecnificación?
+la lista de comandos de mapa de nivel. Lo más importante, moviendo el cursor a un punto
+y pulsar неленних. Seguido/w contacto o неринилиненнныминыминые / wне permite que su carácter se mueva allí por su cuenta.
+
+> > También, haciendo clic en el minimapa del lado derecho con el ratón нерноright
+botón asignado/w Will zoom en esa zona de mazmorras. Haciendo clic con el ratón нелеft
+botón significado/w Introduce Will te permite moverte allí
+
+%%%%
+HINT_MISCAST_ARMOUR
+
+Usar pesada armadura corporal o usar un escudo, especialmente uno grande, puede
+dificulta gravemente sus habilidades de ortografía. Tú puede comprobar el efecto de esto
+comparando los índices de fallas en la pantalla de la pantalla de la pantalla de instrucciones con la pantalla de usuario con
+y sin el artículo que se usa.
+
+%%%%
+HINT_MISCAST_CONTAMINATION_AND_MP
+
+Si el éxito de la ortografía es alto (que se puede comprobar al entrar
+¿Qué?
+simplemente significa que el hechizo no funciona, junto con un efecto secundario inofensivo.
+Sin embargo, para los hechizos con una alta tasa de fracaso, hay una posibilidad de contaminar
+con energía mágica, además de una posibilidad de un lado dañino adicional
+Efecto. Normalmente esto no es un problema, ya que la contaminación mágica sangra
+con el tiempo, pero si tú está contaminado repetidamente en una cantidad corta de tiempo
+mutará o sufrirá otros efectos secundarios malos.
+
+Tenga en cuenta que un hechizo de error Will todavía consume la cantidad completa de MP que un
+con éxito el hechizo sería.
+
+%%%%
+HINT_MONSTER_FRIENDLY
+
+Ese monstruo es amistoso contigo y ataca a tus enemigos. Puedes mandar
+sus aliados mediante la prensación de непрининихиниминиханими.
+
+%%%%
+HINT_MONSTER_LEFT_LOS
+
+$1 no desapareció, pero simplemente se trasladó a un cuadrado que puedes no ve actualmente.
+Todavía está cerca, a menos que algo le pase en poco tiempo
+Está fuera de vista.
+
+%%%%
+HINT_MONSTER_NO_SHOUT
+
+¡Ese monstruo te notó! Afortunadamente, no hizo ruido, pero muchos
+Los monstruos hacen ruido cuando te notan. Que Will alerta a otros monstruos en
+el área, que Will viene para ver qué era la conmoción.
+
+%%%%
+HINT_MONSTER_SHOUTED_SEEN
+
+¡Ese monstruo te notó! Además, el ruido que hizo Will alerta a otros
+monstruos en la vecindad, que Will vienen a ver qué conmoción
+era sobre.
+
+%%%%
+HINT_MONSTER_SHOUTED_UNSEEN
+
+Uh-oh, algún monstruo te notó, o uno que está a la vuelta de una esquina o uno que es
+invisible. Además, el ruido que hizo Will alerta a otros monstruos en los alrededores,
+que Will ven a comprobar lo que era la conmoción.
+
+%%%%
+HINT_MONSTER_UNUSUAL
+
+Ese monstruo parece un poco inusual. You Might wish to examine it a bit more
+de cerca por יlocaltiles confiar empleando el ratón sobre su baldosa.
+[CMD LOOK AROUND] Señala/w] y mueve el cursor sobre su
+cuadrado
+
+%%%%
+HINT_MULTI_PICKUP
+
+Hay muchos artículos aquí. Tú elige qué recoger de un menú:
+pulsar < > > > > > > > > > >
+doll selecciona/localtiles confiar para entrar en el menú de recogida. Para dejar el menú, confirme su
+selección con > >.
+
+%%%%
+HINT_NEED_HEALING
+
+Si estás bajo en salud o magia y no hay necesidad urgente de moverse, puedes
+Descansa un poco. Idealmente, deberías retirarte a una zona que ya has explorado.
+y despejado de monstruos antes de descansar, desde el descanso en el borde del
+terreno explorado aumenta el riesgo de que el descanso sea interrumpido por un viajero
+monstruo. Presione нелиниханниманировась [CMD REST]
+■localtiles confiar, o haga clic en el botón 'resto', seleccionado/localtiles confianza para hacerlo.
+
+%%%%
+HINT_NEED_HEALING_INVIS
+
+Hace poco notaste un monstruo invisible, así que a menos que lo mataste o dejaste el
+escena, descansando Might no estar seguro. Si todavía necesita reponer su salud o
+magia, tendrás que cortar una poción apropiada. Para el descanso normal Will
+primero tiene que alejarse del peligro.
+
+%%%%
+HINT_NEED_POISON_HEALING
+
+Estás lethally envenenado, así que ahora sería un buen momento para
+[CMD QUAFF] Señala/w convenienteuaff a poción de curación de heridas o, mejor aún, una poción de
+Curando. Si tienes no se ve ninguno de estos hasta ahora, pruebe pociones desconocidas en sus
+inventario. ¡Buena suerte!
+
+%%%%
+HINT_NEW_ABILITY_GOD_ACTIVE
+
+Acabas de ganar una habilidad divina. Presione el título para tomar un título
+Mira tus habilidades o usa una de ellas.
+
+%%%%
+HINT_NEW_ABILITY_GOD_PASSIVE
+
+Acabas de ganar una habilidad divina. Presione la tecla > cmd [CMD DISPLAY RELIGION]
+< > > > > > > > > >
+azulejos realizados/localtiles confiar para echar un vistazo a sus habilidades.
+
+%%%%
+HINT_NEW_ABILITY_ITEM
+
+Ese artículo que acabas de equipar te concedió una nueva habilidad. Prensa
+[CMD USE ABILITY] seleccion/w Debía localizarlocaltiles confianza (o недилинногициния/w caracteres en el неw
+panel realizado/w título) seleccionado/localtiles confianza para echar un vistazo a sus habilidades o para utilizar uno de ellos.
+
+%%%%
+HINT_NEW_LEVEL
+
+¡Bien hecho! Alcanzar un nuevo nivel de experiencia es siempre un buen evento. Tienes más
+salud y puntos de magia, y ocasionalmente aumenta a sus atributos:
+fuerza, inteligencia y destreza.
+
+ LUA0 
+
+%%%%
+HINT_ON_FIRE
+
+Has estado cubierto de llama líquida pegajosa. Puedes sacar esto más rápido
+pasando sus turnos moviéndose, o apagarlo completamente caminando en un cercano
+piscina de agua. Lo que te haya cubierto en llamas líquidas puede encenderte más
+fuego mientras corres, sin embargo.
+
+%%%%
+HINT_OPPORTUNITY_ATTACK
+
+Cuando te alejas de un enemigo, tienen una pequeña (1/3) posibilidad de tomar
+ventaja y lanzamiento de un ataque libre. Reposición y retiro a menudo
+Sigue bien, pero vigila esos ataques adicionales.
+
+%%%%
+HINT_POSTBERSERK
+
+Berserking es extremadamente agotador! Después, estás se ralentizó, y tú
+no será capaz de Berserk de nuevo hasta que pase suficiente tiempo para su agotamiento a
+Fade.
+
+%%%%
+HINT_RETREAT_CASTER
+
+Sin poder mágico eres incapaz de lanzar hechizos. Mientras que melee es un
+posibilidad, no es donde se encuentran tus fortalezas, así que retrocede (si es posible) Might
+ser la mejor opción.
+
+%%%%
+HINT_RUN_AWAY_1
+
+Cada vez que su salud es muy baja y está en peligro de morir, compruebe su
+opciones cuidadosamente. A menudo, retiro o uso de algún artículo Might ser viable
+alternativa a la lucha.
+
+%%%%
+HINT_RUN_AWAY_2
+
+Si se retira a otro nivel, tenga en cuenta que los monstruos pueden seguirle si
+están justo a tu lado cuando empiezas a subir o descender
+escaleras. Y aunque te hayas arreglado para sacudirlos, todavía estarán allí.
+cuando vuelvas, así que quieres usar un conjunto diferente de escaleras cuando
+Vuelve.
+
+%%%%
+HINT_SEEN_ALTAR
+
+Ese contacto fue un altar.
+> > Al hacer clic con el botón derecho seleccionado/w confiar en él con el ratón
+Nomouse Si apuntas al altar con неперильны$cmd [CMD LOOK AROUND] made/w contactos, luego presiona
+[CMD TARGET DESCRIBE] Señala/w Confeccionado/nomouse] puedes obtener una breve descripción.
+
+Presione el título de $cmd[CMD GO UPSTAIRS]: se indica/w título o se indicaw $cmd[CMD GO DOWNSTAIRS]
+de pie en la plaza para unirse a la fe o leer alguna información sobre el dios
+en cuestión. Antes de asumir la fe correspondiente se te pedirá
+confirmación.
+
+ LUA0 
+
+%%%%
+HINT_SEEN_ARMOUR
+
+Esta es la primera pieza de armaduras seleccionadasconsole título (' se hizo conw título$item[armour] made/w contactos')
+Has recogido. Identificables Puede hacer clic en él para usarlo, y haga clic de nuevo
+para quitarlo. < > > > > > > >
+[CMD WEAR ARMOUR] seleccion/w]
+[CMD REMOVE ARMOUR]] seleccionó/w Fuerte para quitarlo de nuevo. Tú puede ver su
+propiedades de su нелинилься$cmd[CMD DISPLAY INVENTORY] made/w contactos.
+Identificado/nomousado
+
+ LUA0 
+
+%%%%
+HINT_SEEN_BAZAAR_PORTAL
+
+Esta consola realizada '$1' significa un portal a una sección interdimensional Bazaarcon tiendas. It Will desaparece si no entras pronto, así que date prisa.
+
+%%%%
+HINT_SEEN_BRANCH
+
+Esta consola realizada '$1' significa la entrada a una rama diferente de la
+mazmorra. Cada rama tiene diferentes terrenos y monstruos, y algunos contienen
+entradas a otras ramas. Puedes aprender más examinando esto
+entrada fuelocaltiles confiar al mover el ratón sobre su baldosa
+pulsando нелинилинининанниминаниминиманими [CMD LOOK AROUND] seleccionado/wни y moviendo el cursor sobre ella."
+
+Algunas ramas Will sean mucho más seguras y gratificantes que su rama actual.
+Otros pueden ser muy peligrosos, mejor visitados cuando su carácter es más
+poderoso.
+
+%%%%
+HINT_SEEN_DOOR
+
+Esa consola fue cerrada. Puedes abrirla caminando.
+A veces es útil cerrar una puerta. Hágalo por "Nomouse".
+[CMD CLOSE DOOR] seleccionó/w] junto a ella. Si hay varias puertas, tú
+Will entonces ser impulsado para una dirección.
+mientras está al lado
+
+%%%%
+HINT_SEEN_ESCAPE_HATCH
+
+Esta consola registrada '$1' significa una escotilla de escape. Puedes usarlo para dejar un
+nivel con нелинильными$cmd[CMD GO UPSTAIRS] segÃon/w título y нелинного$cmd[CMD GO DOWNSTAIRS]
+respectivamente localtiles confianza (o mediante instruccionesw título-clicking recomendado/w título) seleccionado/localtiles título, como escaleras;
+a diferencia de las escaleras, sin embargo, los cascos son un viaje de ida, así que tenga cuidado cuando
+descendiendo!
+
+%%%%
+HINT_SEEN_FIRST_OBJECT
+
+Que se llevó un artículo. Si te mueves ahí y presionas
+[CMD PICKUP] seleccionado/introceder obtenidoslocaltiles confianza, o нениениениениениенного-haga clic en
+en su inventario observado / localtiles confianza, tú Will recogerlo. Generalmente, artículos
+son mostrados por símbolos no letras como <w título%?!"=()[ realizadas/w título. Algunos
+objetos identificados, marcados con un marco verde, Will ser recogido
+automáticamente.
+
+Una vez que esté en su inventario, puedes la gota de nuevo con los mismos
+Haga clic en: Cada vez que tú hizo clic en el botón derecho-haga clic en
+artículo realizado/localtiles empleados obtenidosconsole fielinput $cmd[CMD DROP] buscado/input título. Cuando mires a un
+ítem en su inventario (seguido de entrada $cmd [CMD DISPLAY INVENTORY])Seguido/inputado)
+puedes leer sobre sus propiedades y su descripción.
+
+%%%%
+HINT_SEEN_GOLD
+
+Has recogido tu primera pila de oro
+(' seleccionadoyellow]$item[gold] seleccion/yellow Eran])Seguido/consolado. Presione нереннногольный $cmd[CMD LIST GOLD]
+ver cuánto tienes. El oro se utiliza en tiendas que encontrarás mientras exploras.
+
+%%%%
+HINT_SEEN_JEWELLERY
+
+Has recogido un pedazo de joyería, o un anillo
+(')
+amuleto observadoconsole título (' se indicaw título$item[amulet] buscado/w contactos') recomendado/console confiado.
+[CMD WEAR JEWELLERY] seleccionó/w]
+[CMD REMOVE JEWELLERY] seleccionó/w Fuerte para quitarlo. Tú puede ver sus propiedades
+[CMD DISPLAY INVENTORY] Señala/w confíanventory.
+> > Puede hacer clic en él para ponerlo en, y haga clic de nuevo para eliminarlo. Por
+■w título derecho-clicing realizado/w título en él, puedes ver sus propiedades
+
+%%%%
+HINT_SEEN_MISC
+
+Es un objeto curioso. Puedes jugar con ella para averiguar qué
+lo hace por <localtiles confiar clicking on it to e instruccionesw confianza$cmd[CMD EVOKE]Seguido/w contactos/localtiles confianza
+[CMD EVOKE] [CMD EVOKE] [CMD EVOKE]] se realizó / nomouse consistit. Como siempre, seleccionando desde
+su нелинилининининенние [CMD DISPLAY INVENTORY] Secundado/w contactos Might le dan más información.
+
+%%%%
+HINT_SEEN_MISSILES
+
+Esta es la primera pila de misiles obtenidosconsole título ('Seguido] $item[missile] made/w contactos')
+Has recogido. Misiles como boomerangs y redes de lanzamiento pueden ser lanzados por
+mano, y volverse más eficaz mientras entrenas la habilidad Tiro.
+< > > > > > > > >
+el artículo en su нелинилься$cmd [CMD DISPLAY INVENTORY]
+información.
+
+ LUA0 
+
+%%%%
+HINT_SEEN_PORTAL
+
+Esta consola efectuada '$1' significa un portal a un nivel opcional, ofreciendo extra
+botín a cambio de peligro extra. No hay penalidad para saltarlo, pero el
+portal Will desaparecen si esperas, así que tienes decidir ahora si quieres arriesgarte
+Es.
+
+%%%%
+HINT_SEEN_PORTAL_2
+
+Tú puede entrar en un portal como un conjunto de escaleras, de pie en él y
+< > > > > > >
+[CMD GO DOWNSTAIRS] se realizó/w confidencial. Para regresar, encuentre un portal de aspecto similar.
+No es el antiguo arco de piedra que empezará
+en
+
+%%%%
+HINT_SEEN_POTION
+
+Tú ha recogido su primera poción seleccionadaconsole título (' seleccionado] $item[potion] made/w contactos') seleccionado/console título.
+> > Simplemente 贸ctaw título-clic hecho/w título en él, o pulsar:
+[CMD QUAFF] seleccion/w] para cortarlo.
+
+Una vez que haya identificado una poción, ya sea con un pergamino de identificación o por
+beberlo, reconocerás automáticamente todas las otras pociones del mismo tipo;
+Esto significa que a veces es útil beber pociones solo para identificarlas.
+
+%%%%
+HINT_SEEN_RUNED_DOOR
+
+Esa consola hecha consola $ 1 contacto/console confianza es una puerta correda, que probablemente está delante de
+algo inusualmente peligroso. Los monstruos nunca lo abren. Si lo haces, los corredores
+Will ser roto, y Will convertirse en una puerta normal.
+
+%%%%
+HINT_SEEN_SCROLL
+
+Tú ha recogido su primer pergamino observadoconsole título (' seleccionadow título$item[scroll] made/w contactos') seleccionado/console título.
+> > Simplemente 贸ctaw título-clic hecho/w título en él, o pulsar:
+[CMD READ] seleccion/w título para leerlo.
+
+Una vez que haya identificado un pergamino, ya sea con un pergamino de identificación o por
+leyendo, reconocerás automáticamente todos los demás pergaminos del mismo tipo;
+Esto significa que a veces es útil leer pergaminos solo para identificarlos.
+
+%%%%
+HINT_SEEN_SHOP
+
+Esa consola hecha consola $ 1(consola) es una tienda. Puedes introducirlo escribiendo
+[CMD GO UPSTAIRS] [CMD GO UPSTAIRS] [CMD GO DOWNSTAIRS]]
+нелиныминых, o por ненннельного-haciendo clic en la palabra >
+mientras estaba de pie en la plaza.
+
+Si hay algo que tú quiere que puedes no se permite todavía, puedes hold
+> > > > > presione la carta correspondiente para ponerla en su lista de compras.
+El juego Will entonces te recuerda cuando recoges suficiente oro para comprarlo.
+
+%%%%
+HINT_SEEN_SPBOOK
+
+Tú ha recogido un libro seleccionadoconsole título (' seleccionw título$item[book] seleccionado/w título') buscado/console título. En la camioneta,
+sus hechizos se añaden inmediatamente a su biblioteca. Tú será capaz de memorizar
+ortografías a partir de ella a través de нелинного$cmd [CMD MEMORISE SPELL]
+[CMD CAST SPELL] Señala/w contacto.
+ LUA0 
+
+%%%%
+HINT_SEEN_STAFF
+
+Tú ha recogido a un personal mágico observadoconsole título ('Seguido] $item[personal mágico] Seguido/w título') Seguido/console título.
+Debe ser de utilidad para ser de uso. Los magos usan
+para aumentar su poder en ciertas escuelas de ortografía. También se puede utilizar como
+un arma. Puede doblar a un personal mediante el botón "Localtiles"
+
+%%%%
+HINT_SEEN_STAIRS
+
+Estas consolas seleccionadas '$1' seleccionadas/console título están abajo. Puedes entrar en el siguiente (deeper)
+nivel por seguirlos abajo (Seguido $cmd[CMD GO DOWNSTAIRS]Seguido/w contactos). Para volver a esto
+nivel, presionar > > $cmd[CMD GO UPSTAIRS] se hacía/w contacto mientras estaba de pie en la parte superior. Cuando
+tomas escaleras, estás garantiza una oportunidad para actuar ante cualquier monstruo que
+no han visto antes; después de eso, los monstruos consiguen moverse primero.
+
+> > Alternativamente, puedes неленного-clic Haga clic en:
+sobre para utilizarlos
+
+%%%%
+HINT_SEEN_TRAP
+
+Acabas de descubrir una trampa. De vez en cuando encontrarás a estos asquerosos
+construcciones.
+
+%%%%
+HINT_SEEN_WAND
+
+Tú ha recogido su primera varita seleccionadaconsole título (' seleccionadow título$item[wand] obtenidos/w contactos') seleccionado/console título.
+> > Simplemente 贸ctaw título-clic hecho/w título en él, o pulsar:
+[CMD EVOKE] seleccionado/w] para evocarlo.
+
+Si encuentras más varitas del mismo tipo, se fusionarán en esta varita y añadirán
+cargas.
+
+%%%%
+HINT_SEEN_WEAPON
+
+Esta es la primera arma efectuadaconsole título (' se hizo con el título [arganar] correspondía a)
+recogido. Utilizar [CMD WIELD WEAPON] significar/w Nombrar]
+■w título-clic hecho / w título en él fue hecho / localtiles confianza para manejarlo, pero ser consciente de que esto
+arma Might entrena una habilidad diferente de la actual. Puedes ver el
+propiedades de su arma
+[CMD DISPLAY INVENTORY] se llevó a cabo/w consistnventory hacíalocaltiles reales o por
+■w correctamente-haciendo clic en won/w título en él identificado/localtiles confianza.
+
+ LUA0 
+
+%%%%
+HINT_SEEN_ZERO_EXP_MON
+
+Eso significaba consola $1(console) = $2. Mientras que se hizo un monstruo, es
+más como muebles de mazmorras, ya que es inofensivo y no se mueve. Si está dentro
+tu manera puedes atacar y matarla como otros monstruos, pero no conseguirás ningún
+experiencia para hacerlo.
+
+%%%%
+HINT_SHIFT_RUN
+
+Caminando por ahí toma menos pulsaciones si pulsas нелинном-directión hecha/w confía o
+- No. Que Will te deja correr hasta que un monstruo venga a la vista o
+tu personaje ve algo interesante.
+
+%%%%
+HINT_SKILL_RAISE
+
+Una de tus habilidades acaba de llegar a un hito. Las habilidades que utilizas son
+entrenado automáticamente cada vez que ganas experiencia, matando monstruos. Por
+Por defecto, la experiencia va a las habilidades que utiliza activamente. Para ver o gestionar su
+habilidades, tipo < > > > > > > > >
+ficha en la parte inferior derecha/localtiles confianza.
+
+%%%%
+HINT_SPELL_MISCAST_EFFECTS
+
+Maltraer un hechizo puede tener consecuencias desagradables, especialmente para los más
+hechizos difíciles. Su oportunidad de lanzar con éxito un hechizo aumenta con
+tus habilidades mágicas, y también se puede mejorar con la ayuda de algunos elementos. Uso
+el comando ■w título$cmd[CMD DISPLAY SPELLS] se hacía/w consistía en realizarlocaltiles confiar o ratón sobre el hechizo
+fichas realizadas/localtiles confiar para comprobar sus tasas de fracaso actuales.
+
+%%%%
+HINT_STAIR_BRAND
+
+Identificados Un pequeño símbolo en una escalera significa que hay elementos en que
+posición que puedes quiere comprobar hacia fuera.
+■console Si hay elementos que cubren escaleras o una escotilla de escape, entonces ese Will
+ser indicado destacando el símbolo de неренннихинанитиная / нелиных, en lugar de esconderse
+el símbolo de escalera con un punto glifo
+
+%%%%
+HINT_TEMPORARILY_FRIENDLY
+
+Sin embargo, es sólo нелитенитениенитениениениениенымениениениениениениеными, y Will se vuelven peligrosos
+otra vez cuando esta amistad se apaga.
+
+%%%%
+HINT_TRAP_BRAND
+
+■console Si algún artículo está cubriendo una trampa, entonces que Will sea indicado por
+destacando el símbolo de la trampa en lugar de ocultar el símbolo de la trampa con un elemento
+glyph
+
+%%%%
+HINT_WIELD_WEAPON
+
+Tú puede cambiar fácilmente a su arma en la ranura a by
+pulsar нелинилься$cmd [CMD WEAPON SWAP] segъn/w confidencial. Para cambiar la ranura de un artículo, pulse
+[CMD ADJUST INVENTORY]i hizo/w] y eligió las ranuras apropiadas.
+
+%%%%
+HINT_YOU_ENCHANTED
+
+Los encantamientos de todos los tipos pueden sucederte temporalmente.
+Breves descripciones de estas aparecen en el extremo inferior del área de estadísticas.
+Presione el texto "CMD DISPLAY CHARACTER STATUS" (CMD DISPLAY CHARACTER STATUS)]Seguido/es decir más detalles. Puedes buscar
+para las descripciones completas del hechizo pulsando >w >$cmd[CMD DISPLAY COMMANDS]/T seleccionado/w confidencial.
+
+%%%%
+HINT_YOU_MISCAST
+
+Acabas de malinterpretar un hechizo.
+
+%%%%
+HINT_YOU_MUTATED
+
+Las mutaciones pueden ser buenas o malas. Pociones de mutación son la forma más común de
+eliminar malas mutaciones, aunque también pueden darle nuevas. Comprueba tu
+mutaciones con нелиниль$cmd[CMD DISPLAY MUTATIONS] obtenidos/w contactos.
+
+%%%%
+HINT_YOU_POISON
+
+Veneno Will reduce rápidamente su salud. Puedes esperarlo con
+[CMD REST](CMD REST)](CMD REST), pero si estás en combate o envenenado letalmente, lo harás
+Probablemente quiera cortar un poción de curación.
+
+%%%%
+HINT_YOU_RESIST
+
+La mayoría de los ataques en Crawl son defendidos por su AC. Algunos, como fuego o
+los ataques de drenaje, pueden reducirse aún más por resistencias específicas. Otros mágicos
+los efectos, como Slow o Hexes de Confusión, son resistidos por su fuerza de voluntad.
+Encontrarás elementos que aumentan ambos tipos de resistencias.
+
+Para ver su conjunto actual de resistencias, <localtiles tituladawieraright-click guardado/w contactos en el
+avatar jugador, o ./localtiles confianzapress нельных$cmd[CMD RESISTS SCREEN] seleccion/w título.
+
+%%%%
+HINT_YOU_SILENCE
+
+Mientras estás silenciado, no puedes escribir hechizos, leer pergaminos o utilizar divino
+invocaciones. Lo mismo es cierto para cualquier monstruo dentro del radio de efecto. El
+campo de silencio (reconocible por неtiles confiar los cuadros de marco de aspecto especial realizados/tiles
+##### ###########################################################################################################################################################################################################################################################
+y Will moverse con tú. El radio Will gradualmente se encoge, eventualmente
+hacerte el único afectado, antes de que el efecto se desvaneca por completo.
+
+%%%%
+welcome
+
+¡Bienvenido a Dungeon Crawl!
+
+Su objetivo es liderar su idónea  LUA0                    con seguridad a través de the Depths de the Dungeon, recuperando la fábula Orb de
+Zot y devolverlo a la superficie. En el principio, sin embargo, dejar el descubrimiento
+Sé tu objetivo principal. Trate de acariciar lo más profundo posible pero ten cuidado; tiburones de muerte
+alrededor de cada esquina.
+
+Por el momento, recuerde las siguientes teclas y sus funciones:
+[CMD DISPLAY COMMANDS]?Seguido/introducción] muestra los elementos y los comandos
+[CMD SAVE GAME] Secuencia/input] — se guarda el juego, para ser reanudado más tarde
+(pero note que la muerte es permanente)
+[CMD LOOK AROUND] [CMD LOOK AROUND]] Se examina algo en su proximidad
+
+El modo de insinuación Will te ayuda a jugar Crawl sin leer ninguna documentación. Si
+Aún no, quieres probar el tutorial. Además, si sientes
+intrigado, hay más información disponible en los siguientes archivos de los
+docs/ directory (todo lo cual también se puede leer en el juego):
+Un guía muy corto para Crawl.
+Identificado/Lízblue] Esto contiene todos los detalles sobre
+especies, magia, habilidades, etc.
+- La interfaz de Crawl es muy alta
+configurable. Este documento explica todas las opciones.
+
+¡Feliz Crawling!
+
+%%%%
