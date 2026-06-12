@@ -87,32 +87,35 @@ def translate_text(text: str, source: str = "en", target: str = "es") -> Optiona
 
 def protect_game_terms(text: str) -> Tuple[str, Dict[str, str], Dict[str, str]]:
     """
-    Reemplaza términos del juego (FORCED_TERMS y NO_TRANSLATE) con placeholders
-    estilo §GT0§ que LibreTranslate preserva intactos.
+    Reemplaza términos del juego con placeholders para que LT no los mutile.
 
-    Devuelve:
-      (texto_con_placeholders, placeholders->original_EN, placeholders->traduccion_ES)
+    Estrategia:
+    - NO_TRANSLATE: proteger todos (LT los traduciría como palabras normales)
+    - FORCED_TERMS: solo términos COMPUESTOS (2+ palabras, ej: "Deep Elf")
+      Las palabras sueltas se las dejamos a LT y las corregimos con POST_PROCESS.
+
+    Los placeholders usan formato §NT0§ que LT preserva aceptablemente.
     """
-    placeholders = {}  # §GT0§ -> original English term
-    translations = {}  # §GT0§ -> correct Spanish translation
+    placeholders = {}
+    translations = {}
     counter = 0
 
-    # 1. NO_TRANSLATE: proteger para que LT no los toque
+    # 1. NO_TRANSLATE: proteger términos que LT mutilaría (case-insensitive)
     for term in sorted(NO_TRANS, key=lambda x: -len(x), reverse=True):
         key = f"§NT{counter}§"
         pattern = r"\b" + re.escape(term) + r"\b"
-        if re.search(pattern, text):
+        if re.search(pattern, text, flags=re.IGNORECASE):
             placeholders[key] = term
             translations[key] = term
-            text = re.sub(pattern, key, text)
+            text = re.sub(pattern, key, text, flags=re.IGNORECASE)
             counter += 1
 
-    # 2. FORCED_TERMS: solo términos de 3+ caracteres para evitar falsos positivos
-    # (términos muy cortos como "a", "A", "on", "no" causan más daño que beneficio)
+    # 2. FORCED_TERMS: solo términos COMPUESTOS (2+ palabras, >4 caracteres)
+    # Las palabras sueltas se las dejamos a LibreTranslate
     forced_items = [
         (en, es)
         for en, es in sorted(FORCED.items(), key=lambda x: -len(x[0]), reverse=True)
-        if len(en) >= 3
+        if len(en.split()) >= 2 and len(en) > 4
     ]
     for en_term, es_term in forced_items:
         pattern = r"\b" + re.escape(en_term) + r"\b"
@@ -128,35 +131,21 @@ def protect_game_terms(text: str) -> Tuple[str, Dict[str, str], Dict[str, str]]:
 
 def restore_game_terms(text: str, translations: Dict[str, str]) -> str:
     """
-    Restaura placeholders §GT0§ o variantes corruptas por LT.
-    LT puede:
-    - Quitar el § de cierre antes de puntuación: §GT0§. -> §GT0.
-    - Añadir espacios: §GT0§ -> §GT0 §
-    - Duplicar o modificar caracteres extraños
-
-    Usamos regex flexible para encontrar remnants y restaurarlos.
+    Restaura placeholders §NT0§, §GT0§ en el texto traducido.
+    Busca el ID numérico incluso si los § están parcialmente dañados.
     """
-    # Para cada placeholder, buscar el identificador numérico (GT0, NT0, etc.)
-    # rodeado de § posiblemente corrupto
     for key, es_value in sorted(translations.items(), reverse=True):
-        # Extraer el ID del placeholder: GT0, NT1, etc.
-        import re as _re
-
-        m = _re.search(r"§([GN]T\d+)§", key)
+        m = re.search(r"§([GN]T\d+)§", key)
         if not m:
             continue
-        ph_id = m.group(1)  # e.g. "GT0"
-
-        # Buscar el ID con § posiblemente corrupto alrededor
-        # Patrones: §GT0§, §GT0, GT0§, GT0, § GT0§, §GT0 §
-        patterns = [
+        ph_id = m.group(1)
+        # Buscar variantes: §GT0§, §GT0, GT0§, GT0 suelto
+        for pat in [
             rf"§?\s*{re.escape(ph_id)}\s*§?",
             rf"§\s*{re.escape(ph_id)}",
             rf"{re.escape(ph_id)}\s*§",
-        ]
-        for pat in patterns:
-            text = _re.sub(pat, es_value, text)
-
+        ]:
+            text = re.sub(pat, es_value, text)
     return text
 
 

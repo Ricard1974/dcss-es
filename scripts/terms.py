@@ -1545,4 +1545,30 @@ POST_PROCESS = [
     (r"\bEv\b", "EV"),
     (r"\bsh\b", "SH"),  # Shield
     (r"\bSh\b", "SH"),
+    # LT traduce "summoned" como "citado" - corregir a "invocado"
+    (r"\bcitado\b", "invocado"),
+    (r"\bcitada\b", "invocada"),
+    (r"\bcitados\b", "invocados"),
+    (r"\bcitadas\b", "invocadas"),
+    # LT traduce "caster" como "castra" - corregir a "lanzador"
+    (r"\bcastra\b", "lanzador"),
+    (r"\bcastras\b", "lanzadores"),
+    # LT traduce "whirling" como "llorón" - corregir
+    (r"\bvórtice llorón\b", "vórtice arremolinado"),
+    (r"\bvórtice que llora\b", "vórtice arremolinado"),
+    # LT traduce "bypasses" como "paga" en contexto de armadura
+    (r"\bpaga la mitad\b", "atraviesa la mitad"),
+    (r"\bpaga\b", "atraviesa"),
+    # LT traduce "recasting" como "re-lanzamiento" o "re-casting"
+    (r"\bre-lanzamiento\b", "volver a lanzar"),
+    (r"\brelanzamiento\b", "volver a lanzar"),
+    (r"\bVolver a lanzar esto\b", "Volver a lanzar este"),
+    (r"\bRe-lanzamiento este\b", "Volver a lanzar este"),
+    # LT traduce "adjacent" como "adyacente" -> ok, mantener
+    # LT traduce "melee" como "melé" o "melee" -> mantener "cuerpo a cuerpo" no es fácil con regex
+    # Corregir "tuerce" -> "retuerce" (whirl)
+    (r"\bse torce\b", "se retuerce"),
+    # "el suelo" en vez de "la suelo"
+    (r"\bdel suelo\b", "del suelo"),
+    (r"\bde la suelo\b", "del suelo"),
 ]
