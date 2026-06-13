@@ -22,4 +22,11 @@ if [ -d "$PROJECT/translations/database/es" ] && [ "$(ls $PROJECT/translations/d
     echo "✅ Copiadas $(ls $PROJECT/translations/database/es/*.txt | wc -l) traducciones de database"
 fi
 
+# Actualizar UI translations (Fase 2)
+if [ -d "$PROJECT/translations/ui/es" ] && [ "$(ls $PROJECT/translations/ui/es/ 2>/dev/null | wc -l)" -gt 0 ]; then
+    mkdir -p "$GAME_DIR/usr/dat/ui/es"
+    cp "$PROJECT/translations/ui/es/"*.txt "$GAME_DIR/usr/dat/ui/es/"
+    echo "✅ Copiadas $(ls $PROJECT/translations/ui/es/*.txt | wc -l) traducciones de UI"
+fi
+
 echo "🎮 Listo. Ejecuta: ./jugar.sh"

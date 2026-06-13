@@ -11,6 +11,7 @@ PROJECT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 # Directorios de traducción en el proyecto
 TRANS_DESCRIPT="$PROJECT_DIR/translations/descript/es"
 TRANS_DATABASE="$PROJECT_DIR/translations/database/es"
+TRANS_UI="$PROJECT_DIR/translations/ui/es"
 
 # Buscar directorio de instalación
 if [ "$1" = "--dir" ] && [ -n "$2" ]; then
@@ -30,6 +31,7 @@ fi
 # Verificar estructura del juego
 GAME_DESCRIPT="$GAME_DIR/usr/dat/descript"
 GAME_DATABASE="$GAME_DIR/usr/dat/database"
+GAME_UI="$GAME_DIR/usr/dat/ui"
 
 if [ ! -d "$GAME_DESCRIPT" ]; then
     echo "❌ No se encuentra la estructura del juego en $GAME_DIR"
@@ -58,6 +60,16 @@ if [ -d "$TRANS_DATABASE" ]; then
     echo "   ✅ $count archivos copiados en database/es/"
 else
     echo "   ⚠️  No se encuentran traducciones de database/"
+fi
+
+# ui/ (Fase 2: C++ UI strings)
+if [ -d "$TRANS_UI" ]; then
+    mkdir -p "$GAME_UI/es"
+    cp "$TRANS_UI"/*.txt "$GAME_UI/es/" 2>/dev/null
+    count=$(ls "$TRANS_UI"/*.txt 2>/dev/null | wc -l)
+    echo "   ✅ $count archivos copiados en ui/es/"
+else
+    echo "   ℹ️  No hay traducciones de UI (Fase 2 - opcional)"
 fi
 
 # Configurar init.txt

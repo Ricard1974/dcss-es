@@ -1,0 +1,302 @@
+diff --git a/crawl-ref/source/Makefile b/crawl-ref/source/Makefile
+index 033abd2..5c5f798 100644
+--- a/crawl-ref/source/Makefile
++++ b/crawl-ref/source/Makefile
+@@ -1565,6 +1565,13 @@ endif
+ 	    done >>$(datadir_fp)/dat/dlua/loadmaps.lua
+ 	$(COPY)   dat/clua/*.lua $(datadir_fp)/dat/clua/
+ 	$(COPY_R) dat/database/* $(datadir_fp)/dat/database/
++	- mkdir -p $(datadir_fp)/dat/ui
++	for LANG in $(notdir $(wildcard dat/ui/??)); do \
++		if [ -d dat/ui/$$LANG ]; then \
++			mkdir -p $(datadir_fp)/dat/ui/$$LANG; \
++			$(COPY) dat/ui/$$LANG/*.txt $(datadir_fp)/dat/ui/$$LANG; \
++		fi \
++	done
+ 	$(COPY_R) dat/defaults/* $(datadir_fp)/dat/defaults/
+ 	$(COPY) dat/descript/*.txt $(datadir_fp)/dat/descript/
+ 	for LANG in $(LANGUAGES); \
+diff --git a/crawl-ref/source/end.cc b/crawl-ref/source/end.cc
+index 8109dfd..f6f34fe 100644
+--- a/crawl-ref/source/end.cc
++++ b/crawl-ref/source/end.cc
+@@ -14,6 +14,7 @@
+ #include "colour.h"
+ #include "crash.h"
+ #include "database.h"
++#include "translation.h"
+ #include "describe.h"
+ #include "dungeon.h"
+ #include "files.h"
+@@ -178,6 +179,7 @@ NORETURN void end(int exit_code, bool print_error, const char *format, ...)
+         msg::deinitialise_mpr_streams();
+         _clear_globals_on_exit();
+         databaseSystemShutdown();
++        shutdown_ui_translations();
+ #ifdef DEBUG_PROPS
+         dump_prop_accesses();
+ #endif
+diff --git a/crawl-ref/source/startup.cc b/crawl-ref/source/startup.cc
+index 5a564a0..cde1948 100644
+--- a/crawl-ref/source/startup.cc
++++ b/crawl-ref/source/startup.cc
+@@ -14,6 +14,7 @@
+ #include "coordit.h"
+ #include "ctest.h"
+ #include "database.h"
++#include "translation.h"
+ #include "dbg-maps.h"
+ #include "dbg-objstat.h"
+ #include "dungeon.h"
+@@ -139,6 +140,10 @@ static void _initialize()
+     _loading_message("Loading databases...");
+     databaseSystemInit();
+ 
++    // Initialise UI translations (after DB, so dat/ paths are available).
++    _loading_message("Loading translations...");
++    init_ui_translations();
++
+     _loading_message("Loading spells and features...");
+     init_feat_desc_cache();
+     init_spell_name_cache();
+diff --git a/crawl-ref/source/dat/ui/es/ability.txt b/crawl-ref/source/dat/ui/es/ability.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/dat/ui/es/combat.txt b/crawl-ref/source/dat/ui/es/combat.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/dat/ui/es/commands.txt b/crawl-ref/source/dat/ui/es/commands.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/dat/ui/es/inventory.txt b/crawl-ref/source/dat/ui/es/inventory.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/dat/ui/es/menu.txt b/crawl-ref/source/dat/ui/es/menu.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/dat/ui/es/misc.txt b/crawl-ref/source/dat/ui/es/misc.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/dat/ui/es/religion.txt b/crawl-ref/source/dat/ui/es/religion.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/dat/ui/es/skills.txt b/crawl-ref/source/dat/ui/es/skills.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/dat/ui/es/status.txt b/crawl-ref/source/dat/ui/es/status.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/crawl-ref/source/translation.cc b/crawl-ref/source/translation.cc
+new file mode 100644
+index 0000000..848058b
+--- /dev/null
++++ b/crawl-ref/source/translation.cc
+@@ -0,0 +1,155 @@
++/**
++ * @file
++ * @brief UI string translation implementation.
++ *
++ * Loads translation files from dat/ui/<lang>/*.txt into a map.
++ * Format: English text|Spanish translation (one per line, pipe-separated).
++ *
++ * The pipe character (|) was chosen as separator because it:
++ * - Never appears in DCSS UI strings
++ * - Is visually clear
++ * - Works well with grep/sed
++ *
++ * Lines starting with # or % are ignored (comments/section headers).
++ * Blank lines are ignored.
++ *
++ * Format specifiers (%s, %d, @foo@) are part of the key and must match
++ * exactly in the translation.
++**/
++
++#include "AppHdr.h"
++
++#include "translation.h"
++
++#include <cstdio>
++#include <map>
++#include <string>
++
++#include "files.h"
++#include "options.h"
++
++using std::map;
++
++// ---------------------------------------------------------------------------
++// Internal state
++// ---------------------------------------------------------------------------
++
++static map<string, string> s_translations;
++static bool s_initialized = false;
++
++/**
++ * The list of UI translation files to load.
++ * These correspond to different categories of UI strings in the source.
++ * Files are loaded in order; later files override earlier ones.
++ */
++static const vector<string> s_ui_files = {
++    "menu.txt",
++    "combat.txt",
++    "status.txt",
++    "skills.txt",
++    "ability.txt",
++    "religion.txt",
++    "commands.txt",
++    "inventory.txt",
++    "misc.txt",
++};
++
++// ---------------------------------------------------------------------------
++// File loading
++// ---------------------------------------------------------------------------
++
++/**
++ * Load a single translation file into the map.
++ * Format: English text|Spanish translation (pipe-separated).
++ *
++ * @param filepath Full path to the translation file.
++ */
++static void _load_translation_file(const string &filepath)
++{
++    FILE *fp = fopen(filepath.c_str(), "r");
++    if (!fp)
++        return;
++
++    char buf[4096];
++    int line_num = 0;
++
++    while (fgets(buf, sizeof(buf), fp))
++    {
++        line_num++;
++        string line(buf);
++
++        // Remove trailing newline
++        if (!line.empty() && line.back() == '\n')
++            line.pop_back();
++
++        // Skip comments, section headers, and blank lines
++        if (line.empty() || line[0] == '#' || line[0] == '%')
++            continue;
++
++        // Find the pipe separator
++        auto pipe = line.find('|');
++        if (pipe == string::npos || pipe == 0 || pipe == line.length() - 1)
++        {
++            // Bad line - skip silently (could add debug logging later)
++            continue;
++        }
++
++        string key = line.substr(0, pipe);
++        string val = line.substr(pipe + 1);
++
++        // Trim leading/trailing whitespace from value only
++        // (key must match exactly, including whitespace)
++        // Trim value
++        size_t start = val.find_first_not_of(" \t");
++        size_t end = val.find_last_not_of(" \t");
++        if (start != string::npos && end != string::npos)
++            val = val.substr(start, end - start + 1);
++
++        s_translations[key] = val;
++    }
++
++    fclose(fp);
++}
++
++// ---------------------------------------------------------------------------
++// Public API
++// ---------------------------------------------------------------------------
++
++void init_ui_translations()
++{
++    if (s_initialized)
++        return;
++
++    // Don't load if no language is set (default English)
++    if (!Options.lang_name || !Options.lang_name[0])
++        return;
++
++    // Try to load files from dat/ui/<lang>/
++    for (const string &filename : s_ui_files)
++    {
++        string path = "ui/" + string(Options.lang_name) + "/" + filename;
++        string full = datafile_path(path, false); // croak_on_fail = false
++        if (!full.empty())
++            _load_translation_file(full);
++    }
++
++    s_initialized = true;
++}
++
++void shutdown_ui_translations()
++{
++    s_translations.clear();
++    s_initialized = false;
++}
++
++string tr(const string &english_text)
++{
++    if (!s_initialized || english_text.empty())
++        return english_text;
++
++    auto it = s_translations.find(english_text);
++    if (it != s_translations.end())
++        return it->second;
++
++    return english_text;
++}
+diff --git a/crawl-ref/source/translation.h b/crawl-ref/source/translation.h
+new file mode 100644
+index 0000000..2bcd10d
+--- /dev/null
++++ b/crawl-ref/source/translation.h
+@@ -0,0 +1,47 @@
++/**
++ * @file
++ * @brief UI string translation system for DCSS.
++ *
++ * Provides a simple key-value translation system for hardcoded C++ UI strings.
++ * Translations are loaded from dat/ui/<lang>/*.txt files at startup.
++ * Falls back to English if no translation is found.
++ *
++ * Usage:
++ *   mpr(tr("You die..."));
++ *   mprf(tr("You hit %s."), mon.name().c_str());
++ *
++ * File format (dat/ui/es/menu.txt):
++ *   # Comments
++ *   English text|Spanish translation
++ *   You die...|Has muerto...
++**/
++
++#pragma once
++
++#include <string>
++#include <vector>
++
++using std::string;
++using std::vector;
++
++/**
++ * Initialize the UI translation system.
++ * Loads translation files from dat/ui/<lang>/ directory.
++ * Must be called after Options.lang_name is set.
++ */
++void init_ui_translations();
++
++/**
++ * Shutdown the UI translation system.
++ * Frees all loaded translations.
++ */
++void shutdown_ui_translations();
++
++/**
++ * Translate a UI string from English to the current language.
++ * @param english_text The English text to translate.
++ * @returns The translated text, or the original English text if no
++ *          translation is found. Format specifiers (%s, %d, etc.)
++ *          are preserved in the translation.
++ */
++string tr(const string &english_text);
