@@ -1,0 +1,676 @@
+%%%%
+talisman
+
+# TODO?
+ VAR0 
+
+%%%%
+armour
+
+# Armour specific keywords (ver rand arm.txt)
+ VAR0 
+
+w:8
+ VAR1  
+
+#
+ VAR2 
+
+del   VAR3 
+
+w:5
+ VAR4     VAR5 
+ VAR6  
+
+w:3
+ VAR7  
+
+w:9
+ VAR8  
+
+w:9
+ VAR9      VAR10  
+
+w:5
+del   VAR11 
+
+w:5
+ VAR12  
+
+#
+del   VAR13 
+
+w:1
+ VAR14     VAR15  
+
+w:3
+ VAR16 
+
+w:1
+del   VAR17  
+
+w:2
+del   VAR18 
+
+w:1
+ VAR19           
+
+w:5
+ VAR21  
+
+ VAR22  
+
+ VAR23 
+
+w:15
+ VAR24 
+
+w:2
+"  VAR25  "
+
+# armas palabras clave específicas (ver rand arm.txt)
+w:25
+ VAR26  
+
+w:15
+ VAR27  
+
+# palabras clave generales (ver rand all.txt)
+ VAR28  
+
+w:8
+ VAR29  
+
+w:30
+ VAR30  
+
+w:6
+ VAR31     VAR32      VAR33  
+
+ VAR34      VAR35  
+
+#
+ VAR36      VAR37  
+
+w:4
+de los dioses   VAR38  
+
+w:4
+del   VAR39   Dios
+
+w:2
+ VAR40   ,   VAR41  
+
+# keywords hardcoded
+w:1
+ VAR42  
+
+w:15
+ VAR43  
+
+%%%%
+Okawaru body armour
+
+@Okawaru armour@
+
+%%%%
+Okawaru armour
+
+# Volver a usar oportunidades normales con algunas excepciones
+w:400
+ VAR0 
+
+w:2
+ VAR1     VAR2 
+
+w:2
+de Okawaru   VAR3 
+
+w:2
+del   VAR4 
+
+w:1
+ VAR5 
+
+w:2
+ VAR6  
+
+w:1
+ VAR7  
+
+w:1
+ VAR8  
+
+w:2
+ VAR9 
+
+%%%%
+Xom body armour
+
+@Xom armour@
+
+%%%%
+Xom armour
+
+# Aumentó las posibilidades (obviamente!)
+w:5
+ VAR0 
+
+w:5
+de Xom   VAR1 
+
+w:2
+de Xom   VAR2 
+
+w:2
+"  VAR3   Xom"
+
+# Usa el nombre largo
+w:1
+ VAR4 
+
+w:1
+ VAR5 
+
+w:1
+ VAR6  
+
+w:400
+ VAR7  
+
+# ¿Por qué no otros nombres?
+# (sadly, some weapon names don't have sense even for Xom)
+ VAR8  
+
+%%%%
+_ashenzari_object_
+
+Adversity
+
+Affliction
+
+Burden
+
+Fetters
+
+Gnosis
+
+Loss
+
+Omen
+
+Ordeal
+
+Portent
+
+Prison
+
+Regret
+
+Repose
+
+Ressentiment
+
+Sorrow
+
+Vision
+
+Yoke
+
+w:100
+@_diviner_name_@
+
+w:150
+@_discomfort_weapon_@
+
+w:100
+@_philosophy_name_@
+
+w:100
+@_discomfort_and_inaction_@
+
+w:100
+@_suspicion_no_conflict_name_@
+
+%%%%
+_ashenzari_adjective_
+
+w:50
+@_ashenzari_bound_adjective_@
+
+w:50
+@_ashenzari_knowledge_adjective_@
+
+@_ashenzari_celestial_adjective_@
+
+%%%%
+_ashenzari_bound_adjective_
+
+Bound
+
+Chained
+
+Circumscribed
+
+Cursed
+
+Ensconced
+
+Eternal
+
+Lashed
+
+Restrained
+
+Ruined
+
+Shackled
+
+Shattered
+
+Tethered
+
+%%%%
+_ashenzari_celestial_adjective_
+
+Astral
+
+Celestial
+
+Cosmic
+
+Distant
+
+Elysian
+
+Sidereal
+
+Stellar
+
+Sublime
+
+%%%%
+_ashenzari_knowledge_adjective_
+
+All-seeing
+
+Astrological
+
+Clairvoyant
+
+Cryptic
+
+Enlightened
+
+Enigmatic
+
+Esoteric
+
+Gnostic
+
+Manifest
+
+Mantic
+
+Omniscient
+
+Oracular
+
+Pangnostic
+
+Perceptive
+
+Prescient
+
+Profound
+
+Prophetic
+
+Revealing
+
+Sibylline
+
+Unveiling
+
+Visionary
+
+%%%%
+_ashenzari_epithet_
+
+w:100
+@_ashenzari_adjective_@ God
+
+w:50
+@_ashenzari_bound_adjective_@ Augur
+
+w:50
+@_ashenzari_celestial_adjective_@ Augur
+
+w:50
+@_ashenzari_bound_adjective_@ Sage
+
+w:50
+@_ashenzari_celestial_adjective_@ Sage
+
+w:50
+@_ashenzari_bound_adjective_@ Seer
+
+w:50
+@_ashenzari_celestial_adjective_@ Seer
+
+All-Knowing
+
+Curse-Bearer
+
+Soothsayer
+
+Unmoving One
+
+%%%%
+_ashenzari_heavens_
+
+Cosmos
+
+Empyrean
+
+Ether
+
+Firmament
+
+Heavens
+
+w:40
+Sky
+
+Sphere
+
+Welkin
+
+%%%%
+weapon appearance
+
+iridiscente
+
+sangres contaminadas
+
+cristal
+
+joyas
+
+ichor-stained
+
+w:3
+ivory
+
+w:3
+hueso
+
+w:1
+zafiro
+
+w:3
+ébano
+
+# actualmente 16 entradas, por lo que su peso total asciende 180
+w:180
+@general appearance@
+
+%%%%
+robe appearance
+
+fabulosamente ordenado
+
+dull
+
+jersey
+
+grueso
+
+pesado
+
+mago
+
+negra
+
+brillantemente brillante
+
+fumar
+
+torcido
+
+shimmering
+
+warped
+
+transparente
+
+slimy
+
+bien.
+
+luminoso
+
+desgarrado
+
+colorido
+
+perla cremosa
+
+opalescente
+
+antigua
+
+débilmente brillante
+
+vapor
+
+tonteando
+
+sangres contaminadas
+
+fuertemente joyas
+
+ichor-stained
+
+furioso
+
+tattered
+
+seda
+
+sombras
+
+%%%%
+body armour appearance
+
+w:3
+olfato
+
+w:3
+bronce
+
+w:2
+ VAR0       
+
+ VAR1   -encrustado
+
+w:200
+@armour appearance@
+
+%%%%
+armour appearance
+
+tonteando
+
+sangres contaminadas
+
+fuertemente corregido
+
+joyas
+
+ichor-stained
+
+furioso
+
+spiked
+
+w:160
+@general appearance@
+
+%%%%
+_gemstone_
+
+diamond
+
+ruby
+
+jacinth
+
+sapphire
+
+black opal
+
+emerald
+
+turquoise
+
+citrine
+
+aquamarine
+
+amber
+
+topaz
+
+jet
+
+opal
+
+garnet
+
+amethyst
+
+jasper
+
+obsidian
+
+agate
+
+jade
+
+pearl
+
+tiger eye
+
+ametrine
+
+%%%%
+_ring material_
+
+wooden
+
+ivory
+
+bone
+
+amber
+
+silver
+
+golden
+
+platinum
+
+iron
+
+steel
+
+bronze
+
+brass
+
+copper
+
+tin
+
+lead
+
+pewter
+
+granite
+
+marble
+
+jade
+
+turquoise
+
+lapis lazuli
+
+glass
+
+carnelian
+
+w:2
+gossamer
+
+%%%%
+_amulet material_
+
+ivory
+
+bone
+
+graven
+
+silver
+
+golden
+
+platinum
+
+iron
+
+steel
+
+bronze
+
+brass
+
+copper
+
+tin
+
+lead
+
+pewter
+
+zirconium
+
+sapphire
+
+emerald
+
+garnet
+
+ruby
+
+jade
+
+crystal
+
+diamond
+
+amethyst
+
+%%%%
+ring appearance
+
+@ jewellery appearance @ @ ring material @
+
+%%%%
+amulet appearance
+
+@ jewellery appearance @ @ amulet material @
+
+%%%%

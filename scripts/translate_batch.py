@@ -71,7 +71,9 @@ def translate_text(text: str, source: str = "en", target: str = "es") -> Optiona
     )
 
     try:
-        resp = request.urlopen(req, timeout=30)
+        # Timeout adaptativo: 30s para textos normales, 120s para textos largos
+        timeout = 120 if len(text) > 2000 else 30
+        resp = request.urlopen(req, timeout=timeout)
         result = json.loads(resp.read().decode("utf-8"))
         return result.get("translatedText")
     except error.URLError as e:

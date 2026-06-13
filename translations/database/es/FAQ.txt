@@ -1,0 +1,401 @@
+%%%%
+Q:goal
+
+¿Cuál es exactamente el objetivo de este juego?
+
+%%%%
+A:goal
+
+R: Para sobrevivir y ganar, obviamente. Para esto es necesario encontrar el orbe podado
+de Zot en profundidad en the Dungeon y traerlo de vuelta a la superficie. Para entrar
+reino de Zot, primero tendrá que recoger tres runas que se encuentran en varios
+ramas del the Dungeon.
+
+Sin embargo, si eres nuevo en el juego, no deberías preocuparte por esto. Sólo
+tratar de profundizar lo más profundo posible y divertirse explorando los muchos lados
+ramas en Crawl con varios caracteres de diferentes especies, conjuntos de habilidades y
+religiones.
+
+%%%%
+Q:userdir
+
+No puedo encontrar mis archivos guardados, morgue y volcados de personajes. ¿Dónde están?
+
+%%%%
+A:userdir
+
+Si estás jugando localmente (es decir, no en uno de los servidores), el chardump
+comando Will le dice dónde está escrito el archivo morgue, y esta información es
+también se muestra debajo de la puntuación alta al final de un juego.
+
+El directorio guarda/ se puede encontrar en el mismo directorio que la morgue/uno.
+
+Si desea cambiar la ubicación, modifique la morgue dir y/o guard dir
+opciones en el archivo de entrada.
+
+%%%%
+Q:roguelike difference
+
+¿Cuáles son las mayores diferencias con otros juegos populares de estilo rogue?
+
+%%%%
+A:roguelike difference
+
+R: Primero, tú Might quiere leer la sección de filosofía en el manual ('?N') a
+leer sobre principios generales importantes en el diseño de juego de Stone Soup.
+
+En cuanto a las diferencias específicas, las más importantes son probablemente las siguientes:
+
+* Especies es *much* más importante que el fondo de caracteres (o "clase").
+
+* Los archivos de huesos sólo contienen fantasmas, nunca su equipo o causa de muerte.
+
+* No se pueden vender artículos a tiendas o a otros lugares.
+
+* Las resistencias se pueden ganar a través de mutaciones o artículos, nunca a través de comer.
+
+* Hay muertes inevitables, pero nuevos jugadores pueden ganar sin spoilers, si
+aprenden de sus errores. Muy buenos jugadores pueden ganar varios consecutivos
+juegos.
+
+Además, nuestro objetivo es darle a Crawl una interfaz muy suave, por lo que debe realmente
+leer a través de la lista de comandos ('??) algún tiempo. Los siguientes comandos son
+particularmente conveniente:
+
+* 'o', para la exploración automática de un nivel desconocido
+
+* 'G', para viajes automáticos a otro nivel ('G?' para ayuda)
+
+* 'X', para acceder al mapa de nivel para viajes y otras tareas ('X?')
+
+* 'Ctrl-F', para encontrar y viajar a los elementos que has visto antes ('Ctrl-F?')
+
+* 'Tab', para moverse hacia o atacar al monstruo más cercano
+
+%%%%
+Q:survival
+
+¿Cómo puedo evitar morir todo el tiempo? ¿Puedes darme algunos consejos de juego?
+
+%%%%
+A:survival
+
+R: Si tienes problemas incluso llegando al Templo, Might quieres probar un juego
+o dos en modo de pistas para algunas pistas de juego generales.
+
+Además, hay combinaciones fáciles de jugar y más desafiantes (marcado en
+gris oscuro en la pantalla de selección). Si estás nuevo a Crawl, aferrarse a la
+más fácil es recomendable. En general, trate a cada nuevo monstruo con el que se encuentran
+la mayor precaución, tratar de elegir la ubicación donde tú lucha monstruos, y mantener
+un ojo en tu salud y magia.
+
+Para sugerencias específicas que tratan con un personaje particular, puedes imprenta '#'
+en el juego para crear un "character dump" en su directorio morgue que detalla su
+equipos, artículos, habilidad y hechizos disponibles. Puedes compartir esto con otros
+jugadores para obtener comentarios y consejos a través de cualquier discusión comunitaria
+Recursos enumerados en http://crawl.develz.org/.
+
+%%%%
+Q:downstairs
+
+No puedo encontrar abajo. ¿Me estoy perdiendo algo?
+
+%%%%
+A:downstairs
+
+R: Pueden estar en una parte del nivel que no es accesible desde arriba
+viniste de. Trata de subir al nivel anterior y volver a bajar desde
+allí a través de un conjunto diferente de escaleras. Tenga en cuenta que la mayoría de los niveles cuentan con tres
+abajo, así como tres arriba, sin contar las escotillas de escape.
+
+Alternativamente, si estás en una de las ramas, tú Might también ha alcanzado
+su nivel más bajo y tiene que dar la vuelta para explorar otro. Revisar el
+visión general de la mazmorra ('Ctrl-O') para ver lo profundo que has profundizado en una rama dada,
+o la base de datos ('?/b') para el número de niveles para ramas invisibles.
+
+%%%%
+Q:cheating
+
+¿Hay un modo de trampa para Crawl donde puedo jugar sin morir?
+
+%%%%
+A:cheating
+
+R: ¡Presiona '+'!
+
+%%%%
+Q:weapons
+
+Tengo dos armas geniales. ¿Cómo puedo decir cuál es mejor?
+
+%%%%
+A:weapons
+
+A: "Mejor" depende de varios factores, como sus habilidades de armamento, ya sea
+es de una o dos manos, las propiedades de randart, la marca de armas y la
+monstruos que estás a punto de enfrentar. En general, cambiar de un tipo de arma
+que estás ya altamente cualificado a otro que tienesno es habilidad en
+es una pérdida de tiempo. Las marcas pueden diferir mucho en la salida de daños, pero puedes
+obtener una buena idea al golpear unos pocos monstruos comparativamente inofensivos con cada uno y
+comparando los resultados.
+
+El retraso en la oscilación de un arma puede reducirse por la habilidad del arma correspondiente.
+Tú puede ver su retraso y calificación de daño con un arma leyendo su
+descripción o pulsando '@' mientras el arma está equipada. '@' funciona mientras
+desarmado también.
+
+%%%%
+Q:religion
+
+¿Qué dioses recomendarías a un jugador principiante?
+
+%%%%
+A:religion
+
+A: Los dioses más directos para jugar son probablemente Trog o Okawaru (para melee)
+de combate), Hepliaklqana o Okawaru (para el combate extendido), Vehumet o Sif Muna (para
+ortografía). Además, aunque no confiable, Xom puede ser muy divertido.
+
+Cuando encuentres un altar, asegúrate de leer el dios correspondiente
+descripción (por orar en el altar con '") y tomar su tiempo para decidir
+si elegir esta deidad o no. Como seguidor, puedes releer el dios
+descripción, ahora más detallada a través de la pantalla '!', en la pantalla '^'.
+
+Está garantizado encontrar altares a casi todos los dioses en los primeros diez niveles de
+la mazmorra principal.
+
+%%%%
+Q:ghosts
+
+Sigo siendo asesinado por mis propios fantasmas. ¿Puedo desactivarlos?
+
+%%%%
+A:ghosts
+
+R: No hay tal opción, y tampoco estamos planeando añadir una.
+
+Tenga en cuenta que no tiene absolutamente que luchar contra cada monstruo que tú
+conocer, y con fantasmas es aún más fácil: se generan en sellados
+bóvedas, y es su elección si abrir cada bóveda fantasma.
+
+Alternativamente, podrías jugar a un par de personajes de especies fuertes / fondo
+combinaciones con el único propósito de romper esos fantasmas, por ejemplo, troll
+Berserkers. O jugar en línea, donde en su mayoría serán asesinados por fantasmas de otros
+¡En su lugar!
+
+%%%%
+Q:abyss
+
+He terminado en un lugar llamado "Abyss". ¿Cómo salgo de aquí?
+
+%%%%
+A:abyss
+
+A: Si estás en el Abyss por primera vez, las posibilidades de salir son
+delgado. Sin embargo, aquí hay algunas pistas generales:
+
+* Necesitas encontrar un portal que salga de la Abyss. ¡Estos son raros!
+
+* No te quedes para luchar; ¡muévete lo más posible!
+
+* Si tieneslo establece, utilice equipo defensivo (armas de protección, etc.).
+
+* Usar teletransportación para terminar en una parte completamente nueva de la Abyss. (Pero sigan
+en mente que la teletransportación Will tarda mucho más en empezar que en el
+Dungeon...)
+
+* Considera cambiar tu lealtad a Lugonu, el dios de la Abyss. Sobre
+conversión, tú Will puede escapar de la Abyss inmediatamente (pero puedes
+enoja a tu dios anterior!).
+
+* Descendiendo más profundamente en el Abyss aumentar la posibilidad de encontrar una salida
+pero también aumenta el peligro que enfrentas.
+
+* Matar enemigos puede crear una puerta de salida, pero la mayoría de los enemigos Will ser
+demasiado peligroso para luchar; ¡escoge tus batallas cuidadosamente!
+
+%%%%
+Q:randart
+
+¿Qué significan los términos "randart" e "unrandart"?
+
+%%%%
+A:randart
+
+A: Aparte de los elementos estándar que encontrarán acostados en the Dungeon, tú
+Might tambiÃ©n tropezaron sobre artefactos que vienen en dos variedades:
+
+* randart: un artefacto aleatorio, generalmente un arma, armadura o joyería, con
+propiedades aleatorias como la concesión de resistencias o habilidades.
+
+* unrandart: una variedad más rara de artefacto que es predefinido en lugar de azar
+generado. La mayoría de los unrandarts se identifican a la vista, y algunos vienen con
+efectos especiales o habilidades únicas que no están disponibles en otros lugares.
+
+Ninguno de estos tipos puede ser encantado o marcado, ya sea temporalmente o
+permanentemente.
+
+%%%%
+Q:interact
+
+¿Hay alguna manera de interactuar con otros jugadores?
+
+%%%%
+A:interact
+
+A: Si juegas en línea puedes ver juegos en progreso, otros jugadores pueden ver
+mientras juegas, y puedes mata a los fantasmas de otros jugadores. Incluso puedes enviar
+y recibir mensajes.
+
+Véase http://crawl.develz.org/ para encontrar un servidor en línea. El sitio web también lista
+recursos de discusión comunitaria para Discord, Reddit y IRC.
+
+%%%%
+A:version
+
+R: En realidad, ahora consideramos que Stone Soup es razonablemente estable para un juego
+de tal desarrollo activo, así que por favor no te cuelgues sobre el 0.X
+versionando y intentarlo.
+
+Hemos mantenido la versión por razones históricas y porque Might
+causa confusión indebida. Nosotros Might decidimos cambiar eso en algún momento, pero tal vez
+No lo haremos.
+
+%%%%
+Q:beta
+
+¿Hay alguna manera de tocar la nueva versión antes de que sea liberada?
+
+%%%%
+A:beta
+
+R: ¡Claro que sí! Puedes jugar "trunk" (lo que Will eventualmente se convierte en el
+siguiente versión) online en cualquiera de los servidores en línea; https://crawl.develz.org
+también acoge binarios Windows y Mac puedes descarga. Tenga en cuenta que el tronco puede ser
+buggy, y que muy rara vez un error puede invalidar sus juegos salvados. Si
+¡No te molesta, adelante y juega!
+
+Sírvase informar de los fallos sobre github (https://github.com/crawl/crawl/issues).
+
+Al hacerlo, por favor mencione la versión (ver '?v') que está jugando,
+en caso de que el fallo ya haya sido fijo o la característica ya implementada.
+
+%%%%
+Q:bug
+
+El juego sigue chocando. ¿Qué hago?
+
+%%%%
+A:bug
+
+A: Sírvase presentar un informe de error sobre github (https://github.com/crawl/crawl/issues),
+y dar tanta información como puedes:
+
+* ¿Qué estabas haciendo en ese momento?
+
+* ¿Qué esperabas que pasara, qué pasó en su lugar, etc.
+
+* Lo más importante, ¿qué versión estás jugando?
+(Si no estás seguro, puedes verifique el juego con '?v'.)
+
+* ¿Consola o baldosas?
+
+Para los choques o monstruos/items/levels que se comportan extrañamente, probablemente necesitamos un ahorro
+archivo. Si tú está jugando consola en línea, puedes crear una copia de su archivo guardado
+para los desarrolladores para acceder seleccionando la versión estás jugando y luego
+presionando 'A' para opciones avanzadas. No olvides incluir el servidor y tu
+nombre de usuario en su informe de fallos!
+
+A veces una captura de pantalla puede ser útil. Si hay mensajes de error, por favor
+escríbalos. Corto de un archivo guardado, una guía sobre cómo reproducir el accidente
+(o error) puede ser útil; puedes utilizar el modo mago para esto.
+
+¡Gracias por adelantado!
+
+%%%%
+Q:idea
+
+¡Tengo una idea genial! ¿Qué puedo hacer con eso?
+
+%%%%
+A:idea
+
+R: Si te gustaría que tu idea entrara, tu apuesta es ponerla en un lugar
+donde un desarrollador puede verlo. Un buen lugar es el foro oficial, en
+https://tavern.dcss.io/. Si atrapa el interés de al menos un códice,
+Las posibilidades son que lo hará en el juego.
+
+Tenga en cuenta que su idea tiene una mejor oportunidad de ser aceptada si presenta el
+ramificaciones en juego. ("Cómo hace [adding/removing X] hacer el juego
+mejor?") Una sugerencia de cómo mejorar la interfaz puede entrar sin mucho
+ado, pero otras sugerencias Will probablemente requieren defender " justificarlas.
+
+%%%%
+Q:help
+
+Me gustaría ayudar a mejorar el juego. ¿Qué puedo hacer?
+
+%%%%
+A:help
+
+R: Hay varias áreas donde puedes conseguir ayuda creativa y exterior es mucho
+apreciado. Estos son:
+
+* mapas/vaults (ver dat/ directory, docs/develop/levels/introduction.txt)
+
+* discurso de monstruos (ver dat/database/, docs/develop/monster speech.txt)
+
+* descripciones de monstruo/tema/palabra (véase dat/descript/)
+
+* baldosas (ver fuente/rltiles/, docs/develop/tiles creation.txt)
+
+Además, si quieres escribir un parche pero no sabes cómo hacerlo, lee
+patch guide.txt en el directorio docs/develop/. Presentarlo y otras cosas nuevas
+en nuestro repositorio github: https://github.com/crawl/crawl/issues
+
+Tenga en cuenta que sin discusiones previas, es posible que no podamos usar el
+parche, o Might necesita una modificación pesada. Es posible que no sea
+aceptado, generalmente por una de las tres razones:
+
+* No encaja en el mundo Crawl como lo vemos.
+
+* Viola la filosofía de Crawl para evitar moliendas y cosas malcriadas.
+
+* No creemos que sea lo suficientemente interesante para ser implementado.
+
+¡Muchas gracias por su apoyo!
+
+%%%%
+Q:changes
+
+¿Qué cambiaste en la versión más reciente?
+
+%%%%
+A:changes
+
+A: Los aspectos más destacados de la liberación más reciente
+se enumeran junto con la información de la versión bajo '?v'. Para versiones anteriores
+cambios, check out changelog.txt en el directorio docs/.
+
+%%%%
+Q:tiles lag
+
+La versión de los azulejos es terriblemente Slow! ¿Cómo puedo mejorar eso?
+
+%%%%
+A:tiles lag
+
+R: Crawl renderiza sus gráficos usando OpenGL y SDL. Porque usa OpenGL.
+depende de un poco de aceleración del hardware para no funcionar lentamente. Si tu
+el sistema no se establece para habilitar esto, entonces Crawl Will corre muy mal.
+
+En Windows, el controlador predeterminado que envía con Windows es extremadamente Slow. Hacer
+seguro actualizar su controlador de tarjeta gráfica al último disponible. En Linux,
+Deberías estar seguro de habilitar DRI.
+
+Además de estas sugerencias, puedes también trata de ver si retocando algunas
+opciones Will mejorar el rendimiento. Ver docs/tiles help.txt para más detalles. Si
+las cosas todavía están muy pervertidas después de todo eso, tú podría probar el no-gráfico
+versión de consola, o esperar una versión futura que no depende de OpenGL.
+
+%%%%

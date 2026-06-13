@@ -1,0 +1,15 @@
+%%%%
+dream sheep flee
+
+w:30
+ VAR0   Bolsas en el terror.
+
+VISUAL:  VAR1    es golpeado con pánico!
+
+VISUAL:  VAR2   pánicos y vueltas a huir.
+
+Un miedo   VAR3    salta lejos.
+
+VISUAL:  VAR4    se estampida.
+
+%%%%

@@ -1,0 +1,1511 @@
+%%%%
+Xom multiple summons
+
+"¡Serve al mortal, hijos míos!"
+
+Xom le otorga ayuda temporal.
+
+Xom abre momentáneamente una puerta.
+
+%%%%
+Xom animate monster weapon
+
+"¡Hora de divertirse!"
+
+Oíste la risa maníaca de Xom.
+
+Xom le otorga un favor menor.
+
+Sonríe sobre ti.
+
+%%%%
+Xom flora ring
+
+Xom muestra un puño de pulgares verdes.
+
+Xom extiende la vida en este Dungeon lleno de muerte.
+
+Xom incita alguna evolución dramática en el molde del piso adyacente.
+
+"¡Está vivo! ¡Está vivo!"
+
+w:5
+Xom añade verduras frescas a este plato de Dungeon.
+
+w:5
+Xom planta algunos frijoles mágicos en el suelo.
+
+%%%%
+Xom scenery open_door
+
+@Xom paisaje genérico@
+
+%%%%
+Xom scenery closed_door
+
+@Xom paisaje genérico@
+
+%%%%
+Xom scenery altar_xom
+
+Xom añade algunos toques personales a su entorno.
+
+"Aquí, esto se ve mejor."
+
+"Sólo una mejora menor..."
+
+@Xom paisaje genérico@
+
+%%%%
+Xom scenery cache_of_fruit
+
+Xom accidentalmente deja algunos aperitivos.
+
+Xom prepara los mejores cultivares de fruta encontrados en cualquier lugar, luego los deja caer.
+
+%%%%
+Xom scenery cache_of_meat
+
+Xom [ofertas torturas] algunos aperitivos.
+
+Xom prepara un banquete formado de su sendero de la carnicería a través de the Dungeon.
+
+%%%%
+Xom scenery cache_of_baked_goods
+
+Xom ofrece algunos aperitivos, fresco fuera del horno.
+
+%%%%
+Xom scenery enter_abyss
+
+Xom sugiere un cambio refrescante de ritmo.
+
+Xom Las lágrimas abren algunos pequeños agujeros en la realidad.
+
+Xom dobla el espacio en nudos.
+
+%%%%
+Xom scenery trap_teleport
+
+@Xom paisaje enter abyss@
+
+%%%%
+Xom kind door ring
+
+Una corta distancia alrededor parece asumir una extraña solidez segura.
+
+Xom crea un recinto aventurero seguro.
+
+"¿Quieres un poco de espacio para ti, mortal?"
+
+%%%%
+Xom mean door ring
+
+Xom levanta y tira en la arena de un improvisado [warmonger Torturaduelist].
+
+Xom te encerra como una exposición para estudiar.
+
+w:5
+Xom construye otro   VAR0   Zoo de Petting.
+
+%%%%
+Xom bazaar trip
+
+Xom te arrastra a un reino de ahorros insondables!
+
+Xom te echa en... una extravaganza de compras?
+
+Xom le ofrece todo lo que podría necesitar (para amusar Xom).
+
+w:5
+Xom le ofrece todo lo que podría necesitar (en el juicio divino infalible de Xom).
+
+El mundo gira salvajemente como anillos de risa jovial de Xom.
+
+w:2
+"¡Tu cartera de monedas se ha vuelto demasiado cómoda en su pequeño mundo, mortal!"
+
+%%%%
+Xom feature lava
+
+¡Escupe chispas!
+
+ VAR1   solidifica brevemente.
+
+%%%%
+Xom feature shallow water
+
+Unas burbujas.
+
+brevemente gira.
+
+Brevemente brilla.
+
+ VAR3   brevemente brilla   VAR4   .
+
+ VAR5   brevemente flashes   VAR6   .
+
+Precisamente hierve.
+
+Se congela brevemente.
+
+%%%%
+Xom feature deep water
+
+@Xom función agua poco profunda@
+
+Al costado, encuentras algo acechando en   VAR0   .
+
+%%%%
+Xom feature blood
+
+@Xom función agua poco profunda@
+
+brevemente coagula.
+
+%%%%
+Xom feature eyes
+
+Te mira con curiosidad.
+
+Mira a través de ti.
+
+%%%%
+Xom feature dry
+
+Agua rociado brevemente desde   VAR0  .
+
+Agua chispeante brevemente aerosoles de   VAR1  .
+
+Sangre rociado brevemente de   VAR2   .
+
+El polvo sale de   VAR3  .
+
+%%%%
+Xom feature statuelike
+
+Se vuelve a mirarte.
+
+Se vuelve a mirarte.
+
+ VAR2   se aleja de ti.
+
+ VAR3    gira en su lugar.
+
+%%%%
+Xom feature tree
+
+Se inclina hacia ti.
+
+ VAR1    se aleja de ti.
+
+Siempre en su lugar.
+
+%%%%
+Xom feature translucent wall
+
+Las formas de Dim nadan a través de   VAR0  .
+
+Faint   VAR1    llamas arrastran por   VAR2   .
+
+ VAR3   está brevemente cubierto en   VAR4  .
+
+ VAR5   está brevemente cubierto en   VAR6   .
+
+ VAR7   está brevemente cubierto en   VAR8   .
+
+%%%%
+Xom feature metal wall
+
+Tendriles de electricidad se arrastran por   VAR0   .
+
+ VAR1   brevemente aparece empañado.
+
+%%%%
+Xom feature stone arch
+
+ VAR0  brevemente muestra un prado soleado en el otro lado.
+
+ VAR1   muestra brevemente un desperdicio sin vida al otro lado.
+
+ VAR2   brevemente muestra extrañas figuras   VAR3  en el otro lado.
+
+ VAR4   brevemente muestra edificios extraños en el otro lado.
+
+ VAR6   muestra brevemente una pared translúcida cubierta en   VAR7   en el otro lado.
+
+ VAR8   muestra brevemente una pared translúcida cubierta en   VAR9    al otro lado.
+
+ VAR10   muestra brevemente una pared translúcida cubierta en   VAR11    en el otro lado.
+
+%%%%
+Xom underfoot general
+
+brevemente cambia bajo ti.
+
+Un espíritu imperceptible cepilla contra   VAR1  a tu lado.
+
+%%%%
+Xom underfoot water
+
+Se aleja brevemente de ti.
+
+Un espíritu imperceptible envía ondas a través de   VAR1  a tu lado.
+
+%%%%
+Xom underfoot airborne general
+
+ VAR0  Parece que se escapan de debajo de ti!
+
+ VAR1  Parece que te apresures!
+
+%%%%
+Xom underfoot airborne water
+
+@Xom underfoot airborne general@
+
+Un espíritu imperceptible fluye hacia   VAR0  debajo de ti.
+
+%%%%
+Xom inventory singular
+
+Brevemente brilla.
+
+ VAR1   brevemente brilla   VAR2   .
+
+Vibra brevemente.
+
+ VAR4    brevemente flashes   VAR5   .
+
+%%%%
+Xom inventory plural
+
+Uno de   VAR0  brilla brevemente.
+
+Uno de   VAR1   brilla brevemente   VAR2   .
+
+Uno de   VAR3  brevemente vibra.
+
+Uno de   VAR4   flashes brevemente   VAR5   .
+
+ VAR6   brevemente brillan.
+
+ VAR7   brevemente brilla   VAR8   .
+
+Vibrar brevemente.
+
+ VAR10    brevemente flash   VAR11   .
+
+%%%%
+Xom floor inventory singular
+
+@Xom inventario singular@
+
+ VAR0    se cae de tu paquete, ¡entonces inmediatamente vuelve a entrar!
+
+%%%%
+Xom floor inventory plural
+
+@Xom inventario plural@
+
+Uno de los   VAR0   se cae de tu paquete, ¡entonces inmediatamente vuelve a entrar!
+
+ VAR1    caer de tu paquete, ¡entonces inmediatamente volver a entrar!
+
+%%%%
+Xom bandages
+
+Te enredaste brevemente en tus vendas.
+
+%%%%
+Xom floor bandages
+
+@Xom bandages@
+
+Cambias por tus vendas.
+
+%%%%
+Xom one eye
+
+Un monóculo aparece brevemente sobre tu ojo.
+
+Un eyepatch cubre brevemente tu ojo.
+
+¡Una ráfaga de   VAR0     La luz dispara brevemente desde tu ojo!
+
+%%%%
+Xom eyes
+
+Un monóculo aparece brevemente sobre uno de tus ojos.
+
+Un eyepatch cubre brevemente uno de tus ojos.
+
+Bursts of   VAR0    ¡Dispara brevemente de tus ojos!
+
+%%%%
+Xom ears
+
+Tus oídos caen salvajemente.
+
+Tus orejas se mueven.
+
+¡Dispara brevemente de tus oídos!
+
+%%%%
+Xom mouth
+
+Su boca se encoge completamente.
+
+Tu boca se ensancha brevemente en toda tu cara.
+
+Tú crece brevemente otra boca.
+
+¡Se derrama brevemente de tu boca!
+
+%%%%
+Xom hair
+
+Tus cejas se sienten muy tenues.
+
+Tus cejas se revuelven.
+
+Tú crece brevemente un bigote grande y barba.
+
+%%%%
+Xom impromptu dance
+
+Realizas un impromptu   VAR0   .
+
+Haces un impromptu   VAR1   .
+
+Tú hace clic compulsivamente sus tacones juntos   VAR2   veces.
+
+Tú compulsivamente golpea sus   VAR3      VAR4    veces.
+
+%%%%
+dance_name
+
+ballet
+
+cha-cha
+
+fandango
+
+jig
+
+baile de línea
+
+macarena
+
+tango
+
+tapdance
+
+waltz
+
+%%%%
+acrobatic_move_name
+
+ VAR0 stand
+
+cartucho
+
+pirouette
+
+algunas fallas
+
+%%%%
+Xom tail
+
+Tu cola se retracta brevemente en tu cuerpo.
+
+Su cola crece brevemente a una longitud increíble.
+
+Pronto creces otra cola.
+
+%%%%
+Xom random body part singular
+
+Su   VAR0    brevemente vaga fuera de su cuerpo, y luego se fusiona de nuevo en!
+
+Tu   VAR1   salta brevemente de tu cuerpo, ¡entonces se vuelve a atacar!
+
+%%%%
+Xom random body part plural
+
+Su   VAR0    brevemente vagando fuera de su cuerpo, y luego se fusionan de nuevo en!
+
+¡Tu   VAR1   salta brevemente de tu cuerpo y luego tranquilízate!
+
+%%%%
+Xom unarmed one hand
+
+Un dulce elegante aparece brevemente en tu   VAR0  .
+
+Tú golpea compulsivamente el aire.
+
+%%%%
+Xom unarmed two hands
+
+@Xom una sola mano@
+
+Dos canes elegantes aparecen brevemente en su   VAR0  .
+
+Tú compulsivamente aplaude sus   VAR1      VAR2    veces.
+
+%%%%
+Xom cloak slot
+
+ VAR0   billows in an unfelt wind.
+
+ VAR1   brevemente se envuelve alrededor de su   VAR2   !
+
+ VAR3   está brevemente cubierto en   VAR4  !
+
+%%%%
+Xom helmet slot
+
+ VAR0   salta al aire, gira brevemente, y luego vuelve a aterrizar en tu   VAR1   !
+
+%%%%
+Xom offhand slot
+
+- ¡Huye!
+
+ VAR1    brevemente flashes   VAR2   !
+
+%%%%
+Xom gloves slot
+
+ VAR0   crece brevemente   VAR1   ¡Dedos extra!
+
+%%%%
+Xom boots slot
+
+ VAR0   crece a un tamaño enorme, y luego se contrae de nuevo!
+
+%%%%
+Xom amulet slot
+
+ VAR0   pulsa!
+
+ VAR1             , entonces vuelve a la normalidad.
+
+ VAR3    brevemente vuela y agita tu   VAR4   !
+
+%%%%
+Xom gizmo slot
+
+ VAR0   jiggles!
+
+ VAR1     escapes   VAR2   humo!
+
+%%%%
+Xom ring slot
+
+¡Twitches!
+
+ VAR1   brevemente aburridos, luego se ilumina de nuevo!
+
+ VAR2   brevemente se ilumina, luego se aburre de nuevo!
+
+%%%%
+Xom dragon armour
+
+Las escalas de   VAR0   se mueven brevemente.
+
+%%%%
+Xom animal skin
+
+La piel en   VAR0   crece más a un ritmo alarmante, y luego vuelve a la normalidad.
+
+%%%%
+Xom leather armour
+
+ VAR0   crece brevemente la piel, luego vuelve a la normalidad.
+
+%%%%
+Xom robe
+
+Te enredaste brevemente en   VAR0  .
+
+%%%%
+Xom metal armour
+
+Parece oxidado.
+
+%%%%
+Xom rearrange the pieces
+
+Xom decide reorganizar las piezas.
+
+"Primero aquí, ahora ahí".
+
+"¡Esta sección Mightserá mejor!"
+
+"¡Así me gusta!"
+
+%%%%
+Xom teleportation journey
+
+"¡Vaya!"
+
+"¡Vamos a dar un paseo!"
+
+"¡Donde se detiene, nadie lo sabe!"
+
+Xom retorce el espacio a tu alrededor.
+
+%%%%
+Xom confusion
+
+"Heh heh heh..."
+
+El poder de Xom toca tu mente por un momento.
+
+Titters.
+
+%%%%
+Xom drinkless confusion
+
+"¡Pasa bien, mi mascota!"
+
+El poder de Xom toca tu cuerpo y tu mente por un momento.
+
+%%%%
+Xom torment all
+
+Xom atormenta a los vivos!
+
+Xom propaga tormento y oscuridad!
+
+Xom desencadena olas de agonía!
+
+Xom's malign attention turn towards your situation for a moment.
+
+w:5
+La mano de Xom azota a todas las almas presentes.
+
+%%%%
+Xom banishment
+
+"¡Has crecido demasiado cómodo en tu pequeño mundo, mortal!"
+
+Xom te introduce en el Abyss!
+
+El mundo parece girar como anillos de risa maníacos de Xom.
+
+%%%%
+Xom revert own banishment
+
+w:30
+"¡Kidding!"
+
+"En segundos pensamientos, aunque..."
+
+"No, he cambiado de opinión."
+
+Xom te lleva de vuelta a la silenciosa comparable de the Dungeon.
+
+%%%%
+Xom revert other banishment
+
+"¡Vuelve aquí!"
+
+"¡No lo haces!"
+
+Xom te lleva de vuelta a la silenciosa comparable de the Dungeon.
+
+%%%%
+Xom noise
+
+Xom hace un ruido repentino! ¿Has oído?
+
+w:1
+"¡Boo!"
+
+w:1
+Xom hace un rollo de tambor.
+
+%%%%
+Xom fake shatter
+
+w:30
+"¡Ka-crash!"
+
+"¡Que las fuerzas del caos lo derriben todo!"
+
+Xom reforma la tierra.
+
+w:1
+Xom revela la gran verdad aniquiladora a las paredes del the Dungeon!
+
+%%%%
+Xom blink monsters
+
+"¡Ya está ahí!"
+
+"¡Ven aquí!"
+
+Xom decide cambiar las cosas un poco.
+
+%%%%
+Xom fast forward
+
+Xom acelera la batalla.
+
+Xom exige un ritmo más rápido.
+
+"¡Arriba!"
+
+%%%%
+Xom slow motion
+
+Xom siente que nadie presente lo toma lo suficientemente fácil.
+
+Xom dobla el tiempo en nudos.
+
+"¡No seas tan precipitado!"
+
+%%%%
+Xom pause
+
+Xom detiene todo para saborear el momento.
+
+Xom stomps a tiempo por unos momentos.
+
+w:1
+Xom prepara al público para el solo del piso!
+
+%%%%
+Xom grant word of recall
+
+Xom siente que esta mera fiesta necesita más invitados.
+
+Xom envía altamente sobre invitaciones.
+
+%%%%
+Xom grant voiceless word of recall
+
+Xom exige un diálogo dramático!
+
+Xom otorga una voz terrible a los sin voz.
+
+%%%%
+Xom cleaving
+
+@Xom potion effect@
+
+%%%%
+Xom wave of despair
+
+Xom cuenta una historia de horror en un instante.
+
+w:2
+Xom recuerda alegremente el colapso de múltiples civilizaciones Dungeon.
+
+%%%%
+Xom shifts sight and space
+
+w:30
+Xom dobla tiempo espacio en un origami deslumbrante [yak sometidayak sufrimientoquokka habitquokka habitduck]!
+
+Xom llena el conjunto espacial local con incandescencia descarada!
+
+Xom bedazzles everyone with quantum filament yo-yo tricks!
+
+Xom Las lágrimas abren un timón gravimétrico brillante!
+
+w:5
+¡La mano de Warping alcanza!
+
+%%%%
+Xom chaos vex
+
+Xom pide una fanfarria del derramamiento de sangre!
+
+Xom infunde a sus enemigos con el caos crudo!
+
+Xom incita a una danza rapaz de la muerte!
+
+%%%%
+Xom good mutations
+
+"¡Necesitas algunos ajustes menores, mortal!"
+
+"Permítanme alterar su cuerpo piadoso."
+
+El poder de Xom te toca por un momento.
+
+Oíste el cackling maniacal de Xom.
+
+Con una gota de luz [   VAR0                 ], Xom te reconstruye.
+
+%%%%
+Xom random mutations
+
+"¡Necesitas algunas mejoras menores, mortal!"
+
+"Déjame alterar tu cuerpo."
+
+Xom's power cepilles contra ti por un momento.
+
+Oíste que el tonto avuncular de Xom.
+
+Con un flash de la luz [  VAR0       VAR1  ], Xom te reconstruye.
+
+%%%%
+Xom divine lightning
+
+¡El área está sofocada con un rayo divino!
+
+¡Hurras de rayos!
+
+"¡Listo, apunte, fuego!"
+
+%%%%
+Xom snakes to sticks
+
+Xom transforma los que te rodean.
+
+"Me gustan mejor así."
+
+"Nunca les gustó estas cosas descaradas."
+
+Xom toca su entorno.
+
+@Xom buen monstruo polimorfo
+
+%%%%
+Xom lights up webs
+
+Xom [gleefully eternamirthfully] arruina el arte arachnid local.
+
+La luz de Xom [los cepillos sobre las vidas su entorno].
+
+w:1
+@Xom destrucción falsa@
+
+%%%%
+Xom destruction
+
+"Burn, baby, burn!"
+
+"¡Ka-boom!"
+
+Xom llama a explosiones poderosas.
+
+¡Llueva la devastación!
+
+w:5
+Xom estornudos violentamente.
+
+@Xom destrucción falsa@
+
+%%%%
+Xom fake destruction
+
+"¡Siente mi poder!"
+
+Xom da una demostración de destructivo Might.
+
+w:1
+"¡Que termine en el fuego del infierno!"
+
+%%%%
+Xom force lance fleet
+
+Xom baja un batallón de fuerza!
+
+Xom llamadas en la caballería de la fuerza!
+
+Xom ilumina los fuegos artificiales de la fuerza!
+
+w:1
+Xom lanza el cuartel de un coche de fuego entero!
+
+w:1
+Xom manifiesta dramáticos acordes de órganos de tubo!
+
+%%%%
+Xom accidental homicide
+
+"¡Oh, no quise hacer eso!"
+
+%%%%
+Xom weird death
+
+"¿Cómo sucedió eso? Extraño"
+
+%%%%
+Xom resurrection
+
+"Déjame reparar tu cuerpo."
+
+Xom trucos La muerte para dejarte en paz.
+
+La risa maníaca asusta a la muerte.
+
+El poder de Xom te revive.
+
+Xom te trae de vuelta a la vida.
+
+Sonríe sobre ti.
+
+"¡Toy, no te mueras conmigo todavía!"
+
+Xom te salva antes de que todo vaya   VAR0  .
+
+w:1
+"Uno más [la vida en la vida eterna]."
+
+%%%%
+Xom repel stairs
+
+Xom cambia el paisaje.
+
+Xom pokes at a nearby   VAR0   .
+
+Xom empuja a un cercano   VAR1   .
+
+Xom tira de un cercano   VAR2   .
+
+"¡Tag, tú lo eres!"
+
+Xom altera the Dungeon alrededor tuyo.
+
+%%%%
+Xom good enchant monster
+
+@Xom buen monstruo polimorfo
+
+%%%%
+Xom bad enchant monster
+
+@Xom buen monstruo encantador@
+
+%%%%
+Xom good hyper enchant monster
+
+"¡Vuélvete el surgimiento de un verdadero [héroe eternachampion]!"
+
+Xom exige gran gloria en combate!
+
+Xom's power very briefly touches upon your surrounding.
+
+Escuchas que el cackling avuncular de Xom.
+
+%%%%
+Xom mass charm
+
+Xom lee la cruzada del caos!
+
+Xom toma una variedad de cuerdas de títeres.
+
+"¿Quieres más amigos, hija mía?"
+
+w:5
+Xom sobornos enemigos cercanos con la oferta de trucha   VAR0  .
+
+w:5
+La mano de Xom pokes presentes mentes.
+
+%%%%
+Xom stealth player
+
+Xom te mata visiblemente.
+
+¡Shhh!
+
+%%%%
+Xom cloud
+
+"El tiempo ha sido demasiado aburrido por aquí."
+
+Xom pide Qazlal especiar las cosas un poco.
+
+"Pronóstico: sobre todo nublado."
+
+%%%%
+Xom life saving general
+
+"¿Qué? ¡Espera, NO!"
+
+"¡Hey, las cosas se estaban poniendo interesantes!"
+
+"¡NOOOOOOOOOOO, no mi   VAR0  !"
+
+"No aquí, no ahora".
+
+"Sólo un intento más."
+
+Xom se siente generoso.
+
+%%%%
+Xom life saving actor
+
+#
+@Xom salvavidas general@
+
+"¡Ese es mi   VAR0  !"
+
+"¡Oh, no, no lo haces!"
+
+"¡Ése es mi   VAR1  , ve por tu cuenta!"
+
+"¡Deja mi   VAR2  solo!"
+
+%%%%
+Xom boring death
+
+Xom bostezos en voz alta!
+
+"En la vida, aburrido en la muerte..."
+
+"¿Qué? ¿Eso es todo?"
+
+"Supongo que necesito un nuevo plaything ahora."
+
+"¿Huh? ¿Me perdí algo?"
+
+"Era hora".
+
+"Este juguete está roto."
+
+"Todo es divertido y juegos hasta que alguien pierda un ojo."
+
+w:1
+"No es divertido y juegos a menos que alguien pierda un ojo."
+
+%%%%
+_xom_plaything_
+
+# piety > 180 and > 80, respectively
+{{
+if you.piety_rank() > 4 then
+    return "teddy bear"
+elseif you.piety_rank() > 2 then
+    return "toy"
+else
+    return "plaything"
+end
+}}
+######################################
+# Miscellaneous god messages.
+######################################
+
+%%%%
+recite_closure
+
+"¡Amen!"
+
+"¡Glory to Zin!"
+
+"Y así fue escrito."
+
+"Así que dice Zin."
+
+"La piedad sea con todos ustedes."
+
+"Escrito en sangre; sellado por tu muerte."
+
+"De la boca de Zin, por la mano de Zin."
+
+w:5
+"Así será siempre."
+
+w:3
+"¡Ardiendo! ¡En dolor!"
+
+%%%%
+Ignis elemental wrath
+
+"¡Attack, mis últimos sirvientes de guerra!"
+
+Ignis wails with rage, and rains down burning fury!
+
+Ignis llama a los espíritus de fuego para deshacerte!
+
+"¡Burn! ¡Quema hasta que no quede nada!"
+
+"Estos Will saben cómo infligir el castigo debido a tú!"
+
+¡Betrayer! ¡Apóstata! ¡Perish!"
+
+w:5
+"Con mil fuegos quemé ciudades, pero estos Will suficiente para ti!"
+
+w:5
+"Mis manos, mis dientes, mis lágrimas ardientes: estos Will nunca me traicionan!"
+
+%%%%
+Makhleb executioner chatter
+
+w:40
+"Kill. Matar. ¡Mata!"
+
+"Más. ¡Más!
+
+"¡Otra! ¡Y otro! ¡Y otro!"
+
+"Slaughter. Ellos. ¡Todos!"
+
+w:5
+"¡Todo merece morir!"
+
+%%%%
+Beogh penance
+
+Beogh dice: No traicione a sus hermanos orcos!
+
+%%%%
+Beogh welcome
+
+Beogh dice: Mostrar el mundo lo que significa ser un orc!
+
+%%%%
+Beogh apostle challenge
+
+Tenga cuidado de que un retador ha venido buscando en la batalla. Probar tu devoción a mí! ¡Une a todos mis hijos bajo una bandera!
+
+Ha llegado el momento, buscador, de probar tu contratiempo en combate. Pruébate un orc! ¡Únete a tu verdadera gente!
+
+Shakespeare / Tolkien
+Al diablo con su valor para el lugar pegado, y enfrentar un desafío. ¡Pelea para sobrevivir! En la gran guerra, todos los Will sean orcos!
+
+%%%%
+Cheibriados penance
+
+Cheibriados dice: ¡No seas tan precipitado!
+
+%%%%
+Cheibriados welcome
+
+Cheibriados dice: Tómalo con calma.
+
+%%%%
+Cheibriados death
+
+Cheibriados aprecia la imposibilidad de la muerte.
+
+%%%%
+Dithmenos welcome
+
+Dithmenos dice: Camine en los lugares oscuros.
+
+%%%%
+Elyvilon penance
+
+Elyvilon dice: Sé más diligente en tus ministraciones.
+
+%%%%
+Elyvilon welcome
+
+Elyvilon dice: ¡Ve y ayuda a los débiles!
+
+%%%%
+Fedhas penance
+
+Fedhas protesta por su invasión a la naturaleza.
+
+%%%%
+Fedhas welcome
+
+Fedhas dice: Difundir la vida y la muerte.
+
+%%%%
+Fedhas death
+
+Fedhas aprecia su contribución al ecosistema.
+
+%%%%
+Gozag welcome
+
+Gozag dice: La codicia es buena.
+
+%%%%
+Hepliaklqana welcome
+
+Hepliaklqana dice: ¡Tu pasado se convierte en tu presente!
+
+%%%%
+Hepliaklqana death
+
+Hepliaklqana te entrega a tus antepasados.
+
+%%%%
+Ignis welcome
+
+Las llamas de Ignis te calientan suavemente.
+
+%%%%
+Ignis death
+
+Ignis sale, y te une en la muerte.
+
+%%%%
+Jiyva welcome
+
+¡Slime for the Slime God!
+
+w:1
+¡Viva la nueva carne!
+
+%%%%
+Jiyva death corpse
+
+Jiyva envía una jalea para digerir tus restos.
+
+%%%%
+Jiyva death corpse undead
+
+@Jiyva muerte corpse@
+
+%%%%
+Jiyva death corpse nonliving
+
+Jiyva envía una gelatina para digerir su equipo.
+
+%%%%
+Kikubaaqudgha welcome
+
+Kikubaaqudgha dice: ¡Esparce la ruina y la desesperación interminables!
+
+%%%%
+Kikubaaqudgha death
+
+¡Me has fallado! ¡Bienvenido... muerte!
+
+%%%%
+Kikubaaqudgha death corpse undead
+
+¡Me has fallado! ¡Bienvenido... olvido!
+
+%%%%
+Kikubaaqudgha death corpse nonliving
+
+@Kikubaaqudgha death corpse undead@
+
+%%%%
+Kikubaaqudgha death undead
+
+@Kikubaaqudgha death corpse undead@
+
+%%%%
+Kikubaaqudgha death nonliving
+
+@Kikubaaqudgha death corpse undead@
+
+%%%%
+Lugonu welcome
+
+Lugonu dice: ¡Esparen la carnicería y la corrupción!
+
+%%%%
+Lugonu newgame
+
+Lugonu dice: ¡Salga del Abyss y difunda la corrupción, mi sirviente!
+<lightgrey>(utiliza el menú <w>a</w>bility para salir del Abyss)</lightgrey>
+
+%%%%
+Makhleb welcome
+
+Sangre y almas para Makhleb!
+
+%%%%
+Nemelex Xobeh welcome
+
+Nemelex Xobeh dice: ¡Está todo en las cartas!
+
+%%%%
+Okawaru penance
+
+Okawaru dice: ¡Recoge tu honor en la batalla!
+
+%%%%
+Okawaru welcome
+
+Okawaru dice: ¡Tráeme la gloria en combate!
+
+%%%%
+Pakellas welcome
+
+Pakellas dice: Hora de continuar el experimento.
+
+Pakellas dice: Hora de encontrar más temas de prueba.
+
+Pakellas dice: ¿Listo para probar otros dispositivos?
+
+Pakellas dice: Esto está produciendo algunos resultados muy interesantes.
+
+Pakellas dice: ¿Qué soluciones Will se presentan a continuación?
+
+Pakellas dice: ¡Progreso o perece!
+
+# Nicolae...
+w:5
+Pakellas dice: ¡Nadie le dice a un dios que no juegue a Dios!
+
+w:1
+Pakellas dice: Me llamaron loco... ¡Bueno, les mostraremos!
+
+%%%%
+Pakellas death
+
+Pakellas dice: ¡Vuelve a la tabla de dibujo!
+
+Pakellas dice: ¡Buena ayuda es tan difícil de encontrar en estos días!
+
+Pakellas dice: Es hora de encontrar un nuevo asistente...
+
+Pakellas dice: Se elimina un enfoque más posible.
+
+Pakellas dice: Hora de comenzar el próximo experimento...
+
+%%%%
+Qazlal penance
+
+Qazlal truenos: ¡No interfieras con el orden natural!
+
+%%%%
+Qazlal welcome
+
+Qazlal dice: ¡Que las fuerzas de la naturaleza lo derriben todo!
+
+%%%%
+Ru welcome
+
+Ru dice: Corta tu falso cuerpo!
+
+%%%%
+Ru death
+
+Ru respeta su sacrificio final.
+
+%%%%
+Sif Muna penance
+
+Sif Muna dice: Busca más conocimiento y sabiduría.
+
+%%%%
+Sif Muna welcome
+
+Conozco muchos secretos...
+
+%%%%
+the Shining One penance
+
+El Shining One dice: Ser un mártir puede lavar su pecado!
+
+%%%%
+the Shining One welcome
+
+El Shining One dice: ¡Llevad las fuerzas de la luz a la victoria!
+
+%%%%
+Trog penance
+
+¡Mátenlos a todos!
+
+%%%%
+Trog welcome
+
+Trog dice: ¡Mátenlos a todos!
+
+%%%%
+Uskayaw welcome
+
+Uskayaw dice: ¡Entrégate al ritmo!
+
+%%%%
+Uskayaw death corpse
+
+Tu cuerpo cae en perfecta sintonía con el ritmo.
+
+%%%%
+Uskayaw death corpse undead
+
+@Uskayaw muerte corpse@
+
+%%%%
+Uskayaw death corpse nonliving
+
+@Uskayaw muerte corpse@
+
+%%%%
+Vehumet welcome
+
+Vehumet dice: Deja que termine en el fuego del infierno!
+
+%%%%
+Wu Jian welcome
+
+El Concilio dice: ¡Sigue el camino de la sabiduría y la batalla!
+
+%%%%
+Xom bored
+
+Boones.
+
+"Me pregunto qué más está..."
+
+@Xom welcome@
+
+%%%%
+Xom newgame
+
+Xom dice: ¡Un nuevo juguete!
+
+%%%%
+Xom welcome
+
+Snickers.
+
+Titters.
+
+w:3
+ VAR0 
+
+%%%%
+_xom_welcome_rare_
+
+Xom says: I'm watching you, my @_xom_child_@ child.
+
+Xom slaps you with @_trout_species_@ trout!
+
+%%%%
+_xom_child_
+
+misbegotten
+
+bastard
+
+ugly
+
+red-headed step
+
+silly
+
+worthless
+
+prodigal
+
+insane
+
+naughty
+
+%%%%
+_trout_species_
+
+a rainbow
+
+a flathead
+
+a cutthroat
+
+a bull
+
+a silver
+
+w:3
+@_trout_species_rare_@
+
+%%%%
+_trout_species_rare_
+
+a complex
+
+a polygonal
+
+an imaginary
+
+an inverse
+
+an unlikely
+
+a used
+
+a second-hand
+
+a prohibited
+
+a challenging
+
+a delicious
+
+a mouldy
+
+a fake
+
+a moist
+
+w:2
+a kilgore
+
+%%%%
+Yredelemnul penance
+
+Yredelemnul dice: Todos son iguales en la muerte! ¡El martirio santo no significa nada!
+
+%%%%
+Yredelemnul welcome
+
+Yredelemnul dice: ¡Trae la antorcha negra! ¡Rose el ocioso muerto!
+
+%%%%
+Yredelemnul death corpse
+
+Tu cuerpo se levanta de los muertos como un zombie sin mente.
+
+%%%%
+Yredelemnul death corpse undead
+
+Te unes a las legiones de la cosecha no muerta.
+
+%%%%
+Yredelemnul death corpse nonliving
+
+Tu cuerpo desaparece en una gota de fuego umbral.
+
+%%%%
+Yredelemnul death undead
+
+@Yredelemnul death corpse undead@
+
+%%%%
+Zin penance
+
+Zin te castiga por tu desobediencia de la Ley.
+
+Zin explica severamente la importancia de   VAR0 
+
+%%%%
+Zin welcome
+
+Zin dice: Difundir la luz, hija mía.
+
+%%%%
+Zot death
+
+¿Es un dios?
+Zot te ha encontrado!
+
+Zot no te llama!
+
+Zot te excite de la existencia.
+
+Zot te toca por un solo instante, y dejaste de ser.
+
+w:5
+Zot's tendrils estallan desde dentro de ti!
+
+w:3
+Zot's Will forja una nueva realidad, sin ti en ella.
+
+w:3
+Zot te apaga como una luz.
+
+w:3
+Zot's power takes hold, and you dissolve into a dark mist.
+
+%%%%

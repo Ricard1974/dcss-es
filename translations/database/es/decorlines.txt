@@ -1,0 +1,882 @@
+%%%%
+default peaceful fountain_blue
+
+ LUA0 
+
+ LUA1  
+
+w:1
+Tú ve   VAR2  en la fuente.
+
+%%%%
+default fountain_blue
+
+La fuente brota brevemente de su presencia aproximada.
+
+w:1
+Tú ve   VAR0  en la fuente.
+
+%%%%
+default peaceful fountain_sparkling
+
+ LUA0 
+
+w:1
+Tú ve   VAR1  en la fuente.
+
+%%%%
+sparkling_message
+
+# Flavouring around antigüedades chispeantes posibilidades de poción de fuentes es
+# razonable, pero mantenlo muy corto y poco probable que se confundan por cualquier
+# realmente efectos significativos. (También, no menciones sangre.)
+Te sientes más ligera.
+
+Te sientes una fugaz sacudida de valentía.
+
+Te sientes mal por un momento.
+
+Tus emociones son incómodas.
+
+%%%%
+default fountain_sparkling
+
+La fuente brillante brilla un débil   VAR0   .
+
+w:1
+Tú ve   VAR1  en la fuente.
+
+%%%%
+default fountain_blood
+
+ LUA0 
+
+Mosquiteros minúsculas encadenaron sangre a través de la superficie de la fuente.
+
+w:3
+Tu reflejo en la fuente de sangre te mira hacia atrás en silencio [juicio de la tortura].
+
+w:3
+# Mixing translations of Baudelaire's poema "La Fontaine du sang".
+La fuente de pulsos sanguíneos en sobs murmullos.
+
+w:1
+La fuente de sangre brota con sangre, como lo hacen las fuentes de sangre.
+
+%%%%
+default fountain_eyes
+
+Los ojos de la fuente te miran en blanco.
+
+Los ojos de la fuente miran idly en todas direcciones.
+
+Los ojos de la fuente no miran nada.
+
+%%%%
+default peaceful dry_fountain
+
+w:1
+Tú ve   VAR0  en la fuente.
+
+%%%%
+default dry_fountain
+
+w:1
+Tú ve   VAR0  en la fuente.
+
+%%%%
+Ashenzari peaceful fountain_blue
+
+Intentas explorar la fuente, pero las magias de the Dungeon te rechazan.
+
+%%%%
+Ashenzari fountain_blue
+
+Obtienes breves visiones del pasado de the Dungeon en la reflexión de la fuente.
+
+%%%%
+Beogh fountain_blue
+
+# XXX: ¿Cance para usar especies::orc name? ¿Es broma por ser transformado?
+Miras tu reflejo en la fuente y ves un orco orgulloso.
+
+%%%%
+Beogh fountain_sparkling
+
+Tú mira su [shimmering imperglittering] reflexión en la fuente y ver un orgulloso orc.
+
+%%%%
+Cheibriados fountain_sparkling
+
+Desapruebas brevemente el flujo mitético arritmico de la fuente.
+
+%%%%
+Cheibriados peaceful dry_fountain
+
+Tú corta brevemente la calma quietud de una fuente vacía.
+
+%%%%
+Dithmenos fountain_blood
+
+Te burlas de los melodramáticos de esta fuente.
+
+%%%%
+Elyvilon peaceful fountain_blue
+
+Tú aprueba la pureza y funcionalidad de esta fuente de bebida.
+
+@default peaceful source blue@
+
+%%%%
+Fedhas peaceful fountain_blue
+
+Revisas brevemente las algas en el borde de la fuente. Parecen saludables.
+
+%%%%
+Fedhas peaceful fountain_sparkling
+
+Revisas brevemente las algas en el borde de la fuente. Ellos retroceden.
+
+%%%%
+Fedhas peaceful fountain_blood
+
+Revisas brevemente el molde en el borde de la fuente. Parece... preocupante.
+
+%%%%
+Fedhas peaceful fountain_eyes
+
+Revisas brevemente el molde en el borde de la fuente. Es posible que recuperen.
+
+%%%%
+Gozag peaceful fountain_blue
+
+Buscas monedas dentro de la fuente, pero son demasiado inútiles para molestar.
+
+%%%%
+Gozag peaceful fountain_sparkling
+
+@Gozag pacífica fuente blue@
+
+%%%%
+Gozag fountain_blood
+
+w:2
+Coqueteas con el exorbitante costo financiero de mantener esta fuente.
+
+@default source blood@
+
+%%%%
+Hepliaklqana fountain_blue
+
+Las ondas de la fuente despiertan recuerdos distantes y transitorios.
+
+%%%%
+Hepliaklqana dry_fountain
+
+Juras que nunca olvidarás tu legado como los constructores de esta fuente fueron olvidados.
+
+%%%%
+Hepliaklqana peaceful fountain_blood
+
+Observas un momento de silencio para quien fluye sangre a través de esta fuente.
+
+%%%%
+Ignis fountain_blue
+
+El agua de la fuente brilla ligeramente en tu presencia.
+
+w:1
+La llama moribunda temiblemente se hunde en el reflejo de la fuente.
+
+%%%%
+Ignis fountain_sparkling
+
+El agua espumoso de la fuente se tambalea ligeramente y brilla en su presencia.
+
+w:1
+La llama moribunda temiblemente se agita en el reflejo de la fuente brillante.
+
+%%%%
+Ignis fountain_blood
+
+La sangre de la fuente hierve brevemente en su presencia.
+
+%%%%
+Jiyva peaceful fountain_blue
+
+Paras de admirar el chispado que crece lentamente sobre el borde de la fuente.
+
+%%%%
+Jiyva peaceful fountain_blue
+
+Paras de admirar el chispado que crece lentamente sobre el borde de la fuente.
+
+%%%%
+Jiyva fountain_eyes
+
+Sus genes instintivamente intentan compaginarse con los ojos de la fuente y fracasar.
+
+Algunos ojos en la fuente se convierten brevemente en tonos dorados confusos.
+
+%%%%
+Kikubaaqudgha peaceful dry_fountain
+
+Tú musas el día en que el mundo entero comparte el destino de esta fuente.
+
+%%%%
+Lugonu peaceful fountain_eyes
+
+Tú muse en la promesa de Lugonu de evitar toda la realidad tan a fondo como esta fuente.
+
+%%%%
+Makhleb peaceful fountain_blood
+
+Paras de admirar la cantidad de sangre que atraviesa esta fuente.
+
+Su mente se consume brevemente por la idea de bañarse en esta fuente.
+
+Te unges con la sangre de la fuente.
+
+Lavas brevemente   VAR0   en la fuente con fervor ritualista.
+
+%%%%
+Nemelex Xobeh peaceful fountain_blue
+
+Tú tira una moneda antigua en la fuente para un poco de suerte extra.
+
+%%%%
+Nemelex Xobeh peaceful fountain_sparkling
+
+Tú lanza una moneda antigua en la fuente para una suerte extra glamorosa.
+
+%%%%
+Okawaru peaceful fountain_blue
+
+Lavas brevemente   VAR0   con disciplina practicada.
+
+%%%%
+Qazlal peaceful fountain_blue
+
+w:5
+Tú se burla de tales intentos de contener los elementos incontrolables.
+
+@Qazlal source blue@
+
+%%%%
+Qazlal fountain_blue
+
+La fuente burbujas y oleadas en la tormenta.
+
+%%%%
+Qazlal fountain_sparkling
+
+La fuente burbujas y surge violentamente en la tormenta.
+
+%%%%
+Qazlal fountain_blood
+
+Las burbujas y oleadas de la fuente en la tormenta.
+
+%%%%
+Ru peaceful fountain_blue
+
+El agua en la fuente refleja el mundo, que es en sí mismo un mero reflejo.
+
+%%%%
+Ru peaceful fountain_eyes
+
+w:2
+Los ojos en la fuente no pueden ver la verdad más que cualquier otro material.
+
+@default source eyes@
+
+%%%%
+Sif Muna peaceful fountain_sparkling
+
+Luchas por determinar las múltiples pociones diluidas presentes en la fuente.
+
+%%%%
+Sif Muna peaceful fountain_blood
+
+Luchas por identificar la forma de la sangre de las criaturas usada en esta fuente.
+
+%%%%
+Sif Muna peaceful fountain_eyes
+
+Tú identifica idly al menos [cinco vidas eternasix] tipos de ojos creciendo en la fuente.
+
+%%%%
+Trog peaceful fountain_blue
+
+ LUA0 
+
+%%%%
+Uskayaw peaceful fountain_blue
+
+# TODO: combine con "Xom baile impromptu"?
+Haces un baile impromptuo y breve en el agua, como el crinaeae de viejo.
+
+%%%%
+Uskayaw fountain_blood
+
+La fuente de sangre pulsa un ritmo alegre de vida y muerte.
+
+%%%%
+Vehumet fountain_blood
+
+Tú siente el poderoso poder destructivo en reposo dentro de esta fuente.
+
+%%%%
+Wu Jian peaceful fountain_blue
+
+Tú corta brevemente la necesidad de fluir como el agua a través de esta fuente.
+
+w:5
+La fuente está tranquila. El agua se engaña suavemente. Aquí hay paz.
+
+%%%%
+Xom fountain_sparkling
+
+Pescado de mariposa inofensivo y brillante desde dentro de la fuente.
+
+w:1
+Por un momento, juras que Xom llamó a un medusas sin forma aquí.
+
+%%%%
+Xom fountain_blood
+
+El pez mariposa vampírico inofensivo brilla en ti desde dentro de la fuente.
+
+w:1
+Por un momento aterrador, juras que Xom puso un kraken vampiro en esta fuente.
+
+%%%%
+Yredelemnul fountain_blue
+
+Un minúsculo muerto [mosquito impermoth] en el borde de la fuente corta brevemente debajo de su umbra.
+
+%%%%
+Yredelemnul fountain_sparkling
+
+@Yredelemnul source blue@
+
+%%%%
+Yredelemnul fountain_blood
+
+Tú descarta la sangre en esta fuente como inútil para su cosecha.
+
+%%%%
+Zin fountain_sparkling
+
+Evitas tus ojos de la magia dispersa en las espumosas de la fuente.
+
+%%%%
+Zin fountain_eyes
+
+Apagas los ojos de los ojos inmundos en la fuente.
+
+%%%%
+The Shining One fountain_blood
+
+Vos calladamente juras vengar a las pobres criaturas desangradas por esta fuente.
+################################################################################################################################################################################################################################################################
+
+%%%%
+fruit cache
+
+Tú alcanza abajo y muestra   VAR0  
+
+%%%%
+meat cache
+
+Tú alcanza abajo y muestra   VAR0  
+
+%%%%
+baked goods cache
+
+Tú alcanza abajo y muestra   VAR0  
+
+%%%%
+_fruit_and_reaction_
+
+# Old fruits.
+
+an apple. Crisp.
+
+an apricot. Delicious.
+
+a banana. Delicious.
+
+a choko. Bland.
+
+some grapes. Delicious.
+
+some lychee. Delicately sweet.
+
+an orange. Delicious.
+
+some rambutans. Delicious.
+
+some strawberries. Delicious.
+
+a snozzcumber. Putrid!
+
+# Other fruits.
+
+a tomato. Savoury.
+
+a cherimoya. Tangy!
+
+a mango. Yummy.
+
+a tamarind. Juicy!
+
+%%%%
+_meat_and_reaction_
+
+# Try to keep to dungeon animals.
+
+a smoked eel. Savoury!
+
+a yak sausage. Delicious.
+
+a cured ham hock. Salty.
+
+some adder jerky. Delicious.
+
+a slice of magically-preserved pepperoni pizza. Delicious.
+
+w:6
+some smoked snail. Delicious.
+
+w:6
+some death yak haggis. Delicious.
+
+w:6
+some alligator jerky. Delicious.
+
+w:6
+some cured dream mutton. Ephemeral.
+
+w:6
+a slice of magically-preserved Pandemonium pizza. Delectable.
+
+w:2
+a candy-coated scorpion. Crunchy.
+
+w:2
+a pickled kraken tentacle. Astonishing!
+
+w:2
+a cured hell ham hock. Spicy!
+
+w:2
+some shrike confit. Tangy!
+
+w:2
+a century hydra egg. An acquired taste.
+
+%%%%
+_baked_good_and_reaction_
+
+# Most of these overall are fudging old preferences to keep Crawl in-world
+# flavour a couple hundred years back on average, but there's only so far
+# back many cookbooks go, and most of these are at least a hundred years old.
+# It's probably fine for here for most contexts, though keeping at least
+# some consistency for countries of origin is preferred.
+w:24
+some spriggan [bread loaf|tarts|rock buns|scones|biscuits|hardtack]. Delicious.
+
+# Highly widespread choices to match varied orcish backgrounds.
+w:14
+an orcish [pirog|pastel de nata|bizcocho]. Tasty.
+
+w:14
+some elven [shortbread|rye rolls]. Refined.
+
+some merfolk [baklava|tsoureki]. Decadent.
+
+a stuffed naga paratha. Phenomenal.
+
+# Would be good to find earlier french names for long bread....
+a draconian baguette. Hearty and warming.
+
+w:6
+some [dwarven|kobold|kobold] pretzels. Scrumptious.
+
+w:6
+some choko cake. Less bland than expected!
+
+w:2
+some [trollish|giant|giant] [wittenberger|grovbrød]. Savoury.
+
+w:2
+some tengu anpan. Delightful.
+
+w:2
+some ghoulish sourdough. A strange taste.
+
+w:2
+some vault guards' spare rations. Filling.
+
+w:2
+a strangely fresh circus pie. Mirthful.
+
+w:2
+some starflower jam biscuits. A disquieting taste.
+########################## Shared diets ######################################
+
+%%%%
+carnivore fruit cache
+
+Tú usas la pila de frutas y las drogas.
+
+%%%%
+carnivore baked goods cache
+
+Sí, por supuesto, una sección haría un sándwich de pastel.
+Usas la pila y haces un sandwich de carne con   VAR0  
+
+%%%%
+short fruit cache
+
+Tu raíz alrededor y muestra   VAR0  
+
+%%%%
+short meat cache
+
+Tu raíz alrededor y muestra   VAR0  
+
+%%%%
+short baked goods cache
+
+Tu raíz alrededor y muestra   VAR0  
+
+%%%%
+stone fruit cache
+
+Tú peste y tragar   VAR0  
+
+%%%%
+stone meat cache
+
+Tú peste y tragar   VAR0  
+
+%%%%
+stone baked goods cache
+
+Te fresas y tragas   VAR0  
+
+%%%%
+inediate fruit cache
+
+Miras brevemente la pila de frutas y suspiros.
+
+%%%%
+inediate meat cache
+
+Tú mira brevemente la pila de carne y suspiro.
+
+%%%%
+inediate baked goods cache
+
+Te fijas brevemente en la pila de panes y suspiros.
+################################################################################################################################################################################################################################################################
+
+%%%%
+draconian fruit cache
+
+Tú alcanza abajo y muestra   VAR0  
+
+w:1
+Llegas abajo y muestras una toronja de dragón. Te sientes vagamente incómodo.
+
+%%%%
+felid fruit cache
+
+Los gatos no pueden saborear dulces y sólo pueden comer unos pocos frutos con seguridad.
+Te das una manzana y la puñetas. Bland.
+
+Te das un plátano y lo puñetas. Bland.
+
+Tú eliges algunas bayas y las adoquinas. Bland.
+
+%%%%
+felid meat cache
+
+Tú arruinaste
+
+%%%%
+felid baked goods cache
+
+Tú arruinaste
+
+%%%%
+gargoyle fruit cache
+
+@stone fruit cache@
+
+%%%%
+gargoyle meat cache
+
+@stone carne cache@
+
+%%%%
+gargoyle baked goods cache
+
+@stone baked goods cache@
+
+%%%%
+kobold fruit cache
+
+@carnivore fruit cache@
+
+%%%%
+kobold meat cache
+
+@short carne cache@
+
+%%%%
+kobold baked goods cache
+
+@carnivore baked goods cache@
+
+%%%%
+mummy fruit cache
+
+@inediate fruit cache@
+
+%%%%
+mummy meat cache
+
+@inediate cáche@
+
+%%%%
+mummy baked goods cache
+
+@inediate baked goods cache@
+
+%%%%
+oni fruit cache
+
+Llegas abajo y agarras   VAR0   Vas por segundos.
+
+%%%%
+oni baked goods cache
+
+Llegas abajo y agarras   VAR0   Vas por segundos.
+
+%%%%
+poltergeist fruit cache
+
+@inediate fruit cache@
+
+%%%%
+poltergeist meat cache
+
+@inediate cáche@
+
+%%%%
+poltergeist baked goods cache
+
+@inediate baked goods cache@
+
+%%%%
+revenant fruit cache
+
+@inediate fruit cache@
+
+%%%%
+revenant meat cache
+
+@inediate cáche@
+
+%%%%
+revenant baked goods cache
+
+@inediate baked goods cache@
+
+%%%%
+spriggan fruit cache
+
+@short fruit cache@
+
+%%%%
+spriggan meat cache
+
+Estás arrastrándote, buscando pizza, pero no encuentras ninguna.
+
+w:4
+Encuentras una rodaja de pizza mágicamente conservada y quitas la carne. ¡Delicioso!
+
+%%%%
+spriggan baked goods cache
+
+Tú enraiza alrededor y disfruta con entusiasmo   VAR0  
+
+%%%%
+tengu baked goods cache
+
+Llegas abajo y te metes en   VAR0  
+
+%%%%
+troll fruit cache
+
+@Oni fruta cache@
+
+%%%%
+troll baked goods cache
+
+@Oni panadería cache@
+################################################################################################################################################################################################################################################################
+# TODO: fungus, wisp messages?
+
+%%%%
+amphisbaena fruit cache
+
+Tú despide una de sus mandíbulas para tragar   VAR0  
+
+%%%%
+amphisbaena meat cache
+
+Tú despide una de sus mandíbulas para tragar   VAR0  
+
+%%%%
+amphisbaena baked goods cache
+
+Tú despide una de sus mandíbulas para tragar   VAR0  
+
+%%%%
+bat fruit cache
+
+Te pusiste la pelota
+
+%%%%
+bat baked goods cache
+
+Te cagaste y mordisqueas en   VAR0  
+
+%%%%
+blade fruit cache
+
+Intentas agarrar algo de fruta con tus espadas, ¡pero fracasa!
+
+w:4
+Usas tus manos como palillos para comer delicadamente   VAR0  
+
+%%%%
+blade meat cache
+
+Intentas agarrar algo de carne con tus espadas, ¡pero fracasa!
+
+Segador y muestra   VAR0  
+
+%%%%
+death fruit cache
+
+@inediate fruit cache@
+
+%%%%
+death meat cache
+
+@inediate cáche@
+
+%%%%
+death baked goods cache
+
+@inediate baked goods cache@
+
+%%%%
+dragon fruit cache
+
+Tú devour   VAR0 
+
+w:1
+Devoras un Dragonfruit. Te sientes vagamente incómodo.
+
+%%%%
+maw fruit cache
+
+# La dicotomía de Zeno probablemente esté bien, a menos que decidamos hacer la comida de forma fiable
+# desaparece después de unos pocos mensajes...
+¡Devoras la mitad de la pila de frutas! No es suficiente.
+
+%%%%
+maw meat cache
+
+¡Devoras la mitad de la pila de carne! No es suficiente.
+
+%%%%
+maw baked goods cache
+
+¡Devoras la mitad de la pila de productos horneados! No es suficiente.
+
+%%%%
+pig fruit cache
+
+@short fruit cache@
+
+%%%%
+pig meat cache
+
+@short carne cache@
+
+%%%%
+pig baked goods cache
+
+@short baked goods cache@
+
+%%%%
+statue fruit cache
+
+@stone fruit cache@
+
+%%%%
+statue meat cache
+
+@stone carne cache@
+
+%%%%
+statue baked goods cache
+
+@stone baked goods cache@
+
+%%%%
+storm fruit cache
+
+Llegas abajo y electrolitos   VAR0  
+
+%%%%
+storm meat cache
+
+Llegas abajo y electrolitos   VAR0  
+
+%%%%
+tree fruit cache
+
+@short fruit cache@
+
+%%%%
+tree meat cache
+
+@short carne cache@
+
+%%%%
+tree baked goods cache
+
+@short baked goods cache@
+
+%%%%
+vampire fruit cache
+
+Estás arrastrándote, buscando una naranja de sangre, pero no encuentras ninguna.
+
+w:4
+Llegas abajo y encuentras una naranja de sangre. Delicioso.
+
+%%%%
+vampire baked goods cache
+
+Tú alcanza abajo y muestra   VAR0   Sin embargo, no llenado.
+
+%%%%

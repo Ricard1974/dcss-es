@@ -1,0 +1,493 @@
+%%%%
+conjuration miscast player
+
+Sparks Fly de tu   VAR0 
+
+Una extraña oleada de energía te golpea desde la nada
+
+Una ola de energía violenta lava a través de su cuerpo
+
+La energía madura a través de su cuerpo
+
+Estás atrapado en una explosión violenta
+
+Estás lleno de energía mágica
+
+%%%%
+conjuration miscast monster
+
+Sparks Fly from   VAR0     VAR1 
+
+ VAR2   emite un flash de luz
+
+ VAR3   lurches violently
+
+ VAR4  tirones violentamente
+
+ VAR5   es atrapado en una explosión violenta
+
+ VAR6   es volado con energía mágica
+
+%%%%
+conjuration miscast unseen
+
+Una explosión violenta ocurre desde fuera del aire delgado
+
+Hay una repentina explosión de energía mágica
+
+%%%%
+hexes miscast player
+
+Las luces multicolores bailan ante tus ojos
+
+Te sientes un poco cansado
+
+La luz alrededor de ti se hincha momentáneamente
+
+Escuchas una indistinta disonancia susurrando dentro de tu mente
+
+Te sientes un extraño aumento de energía
+
+Olas de   VAR0     luz onda sobre tu cuerpo
+
+Te sientes enfadada
+
+La magia surge de su cuerpo
+
+%%%%
+hexes miscast monster
+
+Las luces multicolores bailan alrededor   VAR0  
+
+ VAR1   se ve dormida por un segundo
+
+La luz alrededor de   VAR2  dims momentáneamente
+
+- ¿Qué?
+
+ VAR4   El cuerpo brilla momentáneamente
+
+Las olas de   VAR5     luz ondean sobre el cuerpo   VAR6  
+
+La magia sale de   VAR7  
+
+%%%%
+hexes miscast unseen
+
+Las luces multicolores bailan en el aire
+
+Un parche de dimos de luz momentáneamente
+
+La magia sale del aire delgado
+
+%%%%
+summoning miscast player
+
+Un puñetazo de ojos en la vista
+
+Voces discretas claman en tu mente
+
+Algo forma de salir del aire delgado
+
+Un coro de gemidos llama a tu mente
+
+Las manos desesperadas te gritan
+
+%%%%
+summoning miscast monster
+
+Las manos desesperadas chocan contra   VAR0  
+
+%%%%
+summoning miscast unseen
+
+Manos desesperadas gritan al azar
+
+%%%%
+necromancy miscast player
+
+Escuchas voces extrañas y distantes
+
+El mundo que te rodea parece dim momentáneamente
+
+Te sientes como si algo caminó sobre tu tumba
+
+Te sientes maligno.
+
+Te sientes muy incómodo.
+
+El dolor dispara a través de su cuerpo
+
+Te sientes terriblemente letárgico
+
+Tu carne se pudre lejos
+
+Sombras desconcertantes te rodean
+
+Estás envuelto en energía negativa
+
+Convulsas indefenso mientras el dolor rompe tu cuerpo
+
+%%%%
+necromancy miscast monster
+
+¿Por qué?
+
+ VAR1   pausas, visiblemente angustiadas
+
+ VAR2   parece dim momentáneamente
+
+ VAR3   Parece que algo pasó por la tumba   VAR4 
+
+ VAR5   es brevemente teñido con negro
+
+ VAR6    scowls horriblemente
+
+Convulsiones con dolor
+
+ VAR8   se ve increíblemente lista
+
+ VAR9    se pudre lejos
+
+Sombras tenues rodean   VAR10   
+
+ VAR11   está envuelto en energía negativa
+
+ VAR12   convulsas indefenso con dolor
+
+Parece asustado por un momento
+
+%%%%
+necromancy miscast unseen
+
+El aire tiene un tinge negro por un momento
+
+Sombras en el aire delgado
+
+%%%%
+translocation miscast player
+
+Te das un vistazo a la espalda de tu propia cabeza.
+
+Siente una sensación de desgarradora
+
+Te sientes fuera del equilibrio por un momento
+
+El suelo y el techo cambian brevemente los lugares
+
+Da vueltas.
+
+El mundo aparece momentáneamente distorsionado
+
+Estás atrapado en un campo de distorsión espacial
+
+Los giros espaciales en sí mismos
+
+Espacio [bends sometidawarps] [crazily tención]
+
+%%%%
+translocation miscast monster
+
+ VAR0  se masturba violentamente por un momento
+
+ VAR1   se ve fuera del equilibrio por un momento
+
+ VAR2    gira alrededor
+
+ VAR3   aparece momentáneamente distorsionado
+
+ VAR4     características reorganizarse por un tiempo
+
+ VAR5  es atrapado en un campo de distorsión espacial
+
+Espacio [bends sometidawarps] [crazily TEN]around   VAR6  
+
+%%%%
+translocation miscast unseen
+
+El espacio alrededor de algo warps imposible
+
+Un pedazo de giros y distorsiones del espacio vacío
+
+Una grieta se abre temporalmente en la tela del espacio
+
+%%%%
+fire miscast player
+
+[Cinders imperAshes] Fly from your   VAR0 
+
+El aire alrededor quema con energía
+
+El calor corre a través de su cuerpo
+
+Te sientes incómodamente caliente
+
+Los lápices de fuego de tu   VAR1   
+
+Flames sear tu carne
+
+Tú está lleno de [aprendizaje Silencio] [fuego inflamado]
+
+Estás atrapado en una explosión ardiente
+
+Hay una explosión repentina y violenta de llamas
+
+%%%%
+fire miscast monster
+
+[Cinders detainedAshes] Fly from   VAR0     VAR1 
+
+El aire alrededor   VAR2    quema con energía
+
+Lámparas desgarrables sobre el cuerpo   VAR3 
+
+Los lápices de fuego   VAR4     VAR5  
+
+Flames sear   VAR6   
+
+ VAR7    es volado con [aprendiendo Silencio] [fuego inflamado]
+
+ VAR8   es atrapado en una explosión ardiente
+
+%%%%
+fire miscast unseen
+
+Bomberos de la nada
+
+Una llama quema brevemente en el aire delgado
+
+El fuego explota desde el aire delgado
+
+Una llama grande quema caliente por un momento en el aire delgado
+
+%%%%
+ice miscast player
+
+Te shiver con frío
+
+Un escalofrío atraviesa tu cuerpo
+
+Tu   VAR0             tuerto con frío
+
+Te sientes [un poco de vida incómodamente eternamente] frío
+
+[Ice habitFrost] cubre su cuerpo
+
+Tú está encasillado en [ice imperfrost]
+
+Tú está cubierto en una capa delgada de [ice imperfrost]
+
+El calor se drena de su cuerpo
+
+Estás atrapado en una explosión de hielo y helada
+
+%%%%
+ice miscast monster
+
+Escudriña con frío.
+
+Fundas de escotilla   VAR1    cuerpo
+
+ VAR2  
+
+ VAR3   está cubierta por una fina capa de [ice imperfrost]
+
+El calor se drena de   VAR4  
+
+ VAR5   es atrapado en una explosión de hielo y helada
+
+ VAR6   está encasillada en [ice imperfrost]
+
+%%%%
+ice miscast unseen
+
+Esposas de la deriva de condensación en el aire
+
+Hielo y helada explotan desde el aire delgado
+
+Una figura invisible está encasillada en [ice sometidafrost]
+
+%%%%
+air miscast player
+
+Sparks of electricity dance around you
+
+El aire que te rodea se rompe con energía
+
+Estás lleno de aire
+
+Hay una ducha corta y afilada de chispas
+
+El viento te rodea.
+
+Te sientes un choque eléctrico repentino
+
+Cursos de electricidad a través de su cuerpo
+
+Estás atrapado en una explosión de descargas eléctricas
+
+%%%%
+air miscast monster
+
+ VAR0   bobs in the air for a moment
+
+Chispas de baile eléctrico entre   VAR1     VAR2  
+
+El aire alrededor de   VAR3   se rompe con energía
+
+ VAR4    es volado con aire
+
+ VAR5   se ducha brevemente en chispas
+
+El viento gira alrededor   VAR6  
+
+ VAR7    está jolted
+
+ VAR8   es atrapado en una explosión de descargas eléctricas
+
+ VAR9   es golpeado por el aire retorcido
+
+%%%%
+air miscast unseen
+
+El viento sale de la nada.
+
+Algo invisible brilla con electricidad
+
+El aire alrededor de algo se rompe con la energía
+
+Las descargas eléctricas explotan desde el aire delgado
+
+El aire se retorce locamente alrededor de un lugar
+
+%%%%
+earth miscast player
+
+[Sand habitGravel] pours from your   VAR0 
+
+Tú siente un aumento de energía desde el suelo
+
+El piso [salta las vidas eternashudders sometidaquakes sometidarumbles] bajo tú alarmantemente
+
+Estás golpeado por rocas voladoras
+
+Estás lleno de arena
+
+Las rocas te caen de la nada
+
+Estás atrapado en una explosión de metralla voladora
+
+%%%%
+earth miscast monster
+
+[Sand habitGravel] pours from   VAR0     VAR1  
+
+ VAR2   es golpeado por rocas voladoras
+
+ VAR3    es volado con arena
+
+Las rocas caen en   VAR4   de la nada
+
+ VAR5   es atrapado en una explosión de metralla voladora
+
+%%%%
+earth miscast unseen
+
+Las rocas voladoras aparecen en el aire delgado
+
+Una tormenta de arena en miniatura aparece brevemente
+
+Las rocas caen de la nada
+
+La metralla voladora explota desde el aire delgado
+
+%%%%
+alchemy miscast player
+
+Estás envuelto en humos tóxicos
+
+Hay un flash de canillar
+
+[Mercury sometidaQuicksilver sobrevivir el oro de Fool   VAR0   
+
+Partes de su cuerpo giran brevemente [golden vidasilvery sometidametallic habitleaden torturacrystalline]
+
+w:4
+Estás vencido por nubes de humo   VAR1  
+
+w:4
+El interior de su boca sabe momentáneamente como   VAR2  
+
+w:2
+Tu piel cambia a   VAR3  
+
+w:2
+Estás rodeado de nubes de polvo   VAR4  
+
+%%%%
+alchemy miscast monster
+
+ VAR0   está envuelto en humos tóxicos
+
+ VAR1    es [sufridadada] con polvo [cinnabar resistsulphur]
+
+ VAR2   es recubierto de sal
+
+ VAR3  comienza a toser violentamente
+
+Parece increíblemente enfermo.
+
+w:5
+ VAR5   es superada por nubes de humo   VAR6  
+
+w:5
+ VAR7    cambios en la piel   VAR8  
+
+w:5
+ VAR9   está rodeada de nubes de polvo   VAR10  
+
+%%%%
+alchemy miscast unseen
+
+El aire tiene un tinge verde por un momento
+
+El calor sulfuroso explota desde el aire delgado
+
+Una figura invisible es recubierta de sal
+
+%%%%
+forgecraft miscast player
+
+Pierde integridad estructural.
+
+Te sientes deconstruido ligeramente
+
+Un sonido de ecos sonoros en tu mente
+
+Las probabilidades de metal y los extremos caen sobre ti de la nada
+
+Estás cubierto de fragmentos metálicos
+
+Estás atrapado en una explosión de desechos metálicos
+
+%%%%
+forgecraft miscast monster
+
+ VAR0   pierde integridad estructural
+
+Las probabilidades de metal y los extremos caen en   VAR1   de la nada
+
+ VAR2   está cubierto de fragmentos metálicos
+
+ VAR3   es atrapado en una explosión de desechos metálicos
+
+%%%%
+forgecraft miscast unseen
+
+Las probabilidades de metal y termina la lluvia desde arriba
+
+Una figura invisible está cubierta de fragmentos metálicos
+
+Los desechos metálicos explotan desde el aire delgado
+
+%%%%

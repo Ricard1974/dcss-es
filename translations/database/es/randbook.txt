@@ -1,0 +1,2822 @@
+%%%%
+book appearance
+
+ VAR0 
+
+%%%%
+book_noun
+
+Almanac
+
+Antología
+
+Atlas
+
+Libro
+
+Catálogo
+
+Codex
+
+Compendio
+
+Recopilación
+
+Cyclopedia
+
+Directorio
+
+Elucidation
+
+Encyclopedia
+
+Folio
+
+Grimoire
+
+Manual
+
+Incunible
+
+Incunabulum
+
+Octavo
+
+Omnibus
+
+Papyrus
+
+Preceptos
+
+Quarto
+
+Secretos
+
+Spellbook
+
+Tome
+
+Vellum
+
+Volumen
+
+%%%%
+_book_noun_on_
+
+Annotations
+
+Collected Works
+
+Commentary
+
+Discourse
+
+Discursus
+
+Disquisition
+
+Dissertation
+
+Enchiridion
+
+Essays
+
+Excursus
+
+Exposition
+
+Guide
+
+Guidebook
+
+Information
+
+Lectures
+
+Lessons
+
+Meditations
+
+Monograph
+
+Notes
+
+Opusculum
+
+Reference Book
+
+Teachings
+
+Textbook
+
+Thoughts
+
+Tractate
+
+Treatise
+
+Vademecum
+
+Verses
+
+Writings
+
+%%%%
+_book_plant_animal_
+
+w:1
+@_jewellery_animal_@
+
+w:1
+@_critter_name_@
+
+w:1
+@_plant_name_@
+
+w:6
+@_weapon_animal_@
+
+@_armour_animal_@
+
+%%%%
+_book_adjective_
+
+ancient
+
+antique
+
+backwards
+
+black
+
+blackened
+
+clothbound
+
+colourful
+
+conspicuous
+
+curious
+
+curling
+
+decrepit
+
+disorganised
+
+dog-eared
+
+droning
+
+dusty
+
+embossed
+
+engraved
+
+exquisite
+
+faded
+
+foxed
+
+fuliginous
+
+fusty
+
+gaudy
+
+glistering
+
+glossy
+
+graven
+
+grimy
+
+humming
+
+illuminated
+
+inconspicuous
+
+innocuous
+
+leatherbound
+
+levitating
+
+lithographed
+
+loosely-bound
+
+moth-eaten
+
+mouldy
+
+mumbling
+
+murmuring
+
+musty
+
+odd
+
+peculiar
+
+plain
+
+quavering
+
+quivering
+
+ragged
+
+rare
+
+remarkable
+
+resplendent
+
+shimmering
+
+shiny
+
+simple
+
+sooty
+
+sparkling
+
+stained
+
+sticky
+
+strange
+
+suspect
+
+suspicious
+
+tattered
+
+thrumming
+
+timeworn
+
+torn
+
+trembling
+
+uncut
+
+unremarkable
+
+unusual
+
+upside-down
+
+vellum
+
+vibrant
+
+vibrating
+
+water-damaged
+
+weird
+
+well-preserved
+
+whispering
+
+worn
+
+wrinkled
+
+yellowed
+
+%%%%
+_occult_adjective_
+
+Abstruse
+
+# putting this on a book is technically an oxymoron but that makes it funny
+Acroamatic
+
+Arcane
+
+Awakened
+
+Concealed
+
+Cryptic
+
+Deep
+
+Esoteric
+
+Forbidden
+
+Gnostic
+
+Hermetic
+
+Hidden
+
+Lost
+
+Magical
+
+Mysterious
+
+Mystic
+
+Mystical
+
+Occult
+
+Orphic
+
+Recondite
+
+Revealed
+
+Ritual
+
+Sealed
+
+Secret
+
+Sibylline
+
+Transmundane
+
+Veiled
+
+%%%%
+_beginners_
+
+Beginners
+
+Initiates
+
+Apprentices
+
+Learners
+
+Neophytes
+
+Novices
+
+w:5
+Amateurs
+
+w:5
+Rookies
+
+w:5
+Absolute Beginners
+
+w:1
+Ex-Berserkers
+
+w:1
+Dummies
+
+%%%%
+_the_powerful_caster_
+
+w:100
+the @_powerful_caster_@
+
+w:30
+Boris
+
+Sif Muna
+
+# Various wizards/mages/alchemists from real-world history/folklore
+# I avoided modern/pop-culture figures
+w:1
+Faust
+
+w:1
+Geber
+
+w:1
+Hermes Trismegistus
+
+w:1
+Jabir
+
+w:1
+Merlin
+
+w:1
+Morgana le Fay
+
+w:1
+Nicolae
+
+w:1
+Ostanes
+
+w:1
+Paracelsus
+
+w:1
+Prospero
+
+w:1
+Solomon
+
+%%%%
+_last_or_lost_
+
+Last
+
+Lost
+
+%%%%
+_testament_noun_
+
+Archive
+
+Chronicle
+
+History
+
+Journal
+
+Memoir
+
+Record
+
+Testament
+
+Testimony
+
+Wisdom
+
+Writings
+
+%%%%
+Conjuration
+
+Arcane Combat
+
+Armas Arcanas
+
+Asaltos
+
+Ataques
+
+Batalla Mágica
+
+Battling
+
+Blasting
+
+Blasts
+
+Lentas
+
+Bolts
+
+Bombardment
+
+Bruises
+
+Combat Magic
+
+Collision
+
+Conflicto
+
+Confrontation
+
+Conjuración
+
+Conjuring
+
+Conjury
+
+Daños
+
+Destrucción
+
+Energy
+
+Fuerza
+
+Fuerzas
+
+Fulmination
+
+Hurting
+
+Impulso
+
+Lesiones
+
+Kinetic Energy
+
+Momentum
+
+Desembolsos
+
+Percusión
+
+Poder
+
+Striking
+
+Trauma
+
+w:2
+Traumaturgy
+
+Violencia
+
+Heridos
+
+el Cuartel
+
+la descarga
+
+# Lore callback to the Mad Mage's Maulers
+el Quinto Círculo
+
+el impacto
+
+los misiles
+
+el Salvo
+
+el Shot
+
+el Volley
+
+%%%%
+Earth
+
+Amathomancy
+
+Bedrock
+
+Breccia
+
+Clay
+
+Cleavage
+
+Detritus
+
+Tierra
+
+Erosión
+
+Excavación
+
+Geología
+
+Geomancy
+
+Grit
+
+Lithomancy
+
+Metal
+
+Minerales
+
+Mud
+
+Orogeny
+
+Oromancy
+
+Quicksand
+
+¡Mierda!
+
+Silt
+
+Spelunking
+
+Piedras
+
+Talus
+
+Tephra
+
+Terra Firma
+
+Terrain
+
+Topografía
+
+Topomancy
+
+el Anticline
+
+el Boulder
+
+las Cuevas
+
+el Crater
+
+Es de Welsh
+el Cwm
+
+la Fault
+
+el Fjord
+
+el Gargoyle
+
+el Geólogo
+
+la tierra
+
+la litosfera
+
+el Mantle
+
+la Mesa
+
+las Montañas
+
+la meseta
+
+el Quake
+
+la cantera
+
+las rocas
+
+the Syncline
+
+el Tektite
+
+el Valle
+
+el Volcano
+
+el Xenolith
+
+%%%%
+Fire
+
+Acelerantes
+
+Antraconomía
+
+Arson
+
+Ashes
+
+Quema
+
+Calefaction
+
+Causimancy
+
+Cinders
+
+Combustión
+
+Conflagration
+
+Embers
+
+Fever
+
+Fuego
+
+Flame
+
+Flames
+
+Calor
+
+Hipertermia
+
+Ignición
+
+Inmortalidad
+
+Incandescencia
+
+Incineración
+
+Kindling
+
+Lava
+
+Oxidación
+
+Phlogiston
+
+Pyromancy
+
+Piromania
+
+Soot
+
+Sparks
+
+# Credit to Megadeth for misremembering the word "thaumatology" in "Five Magics"
+w:2
+Thermatology
+
+Wildfire
+
+el Arsonist
+
+el Blaze
+
+el Fuego
+
+La quema
+
+los carbón
+
+el Dragón
+
+el Inferno
+
+el Pyre
+
+la Piromaniac
+
+el Salamandra
+
+el verano
+
+el Sol
+
+la antorcha
+
+los Trópicos
+
+el Volcano
+
+%%%%
+Hexes
+
+Ambsace
+
+Anathema
+
+Mala suerte
+
+Beguiling
+
+Bewitchment
+
+Charms
+
+Curses
+
+Destino
+
+Doom
+
+Encantador
+
+Ensorcelling
+
+Execration
+
+Fascinación
+
+Fate
+
+Glamour
+
+Guile
+
+Hexes
+
+Hexing
+
+Ill Luck
+
+Imprecación
+
+Interferencias
+
+Jinxing
+
+Malediction
+
+Maleficia
+
+Malisons
+
+Mischance
+
+Misfortune
+
+Obstrucción
+
+Omens
+
+Portents
+
+Signos
+
+Flebinding
+
+la maldición
+
+el Mal Ojo
+
+los Faeries
+
+las hadas
+
+El pueblo justo
+
+el Jinx
+
+el Maleficium
+
+el juramento
+
+la Esfinge
+
+w:2
+el Whammy
+
+el Wyrd
+
+%%%%
+Ice
+
+Algor
+
+Chilblains
+
+Cold
+
+Congelación
+
+Cryomancy
+
+Firn
+
+Freezing
+
+Frost
+
+Frostbite
+
+Glaciation
+
+Graupel
+
+Hail
+
+Hoarfrost
+
+Hipotemia
+
+Hielo
+
+Refrigeración
+
+Rime
+
+Nieve
+
+el Blizzard
+
+el Chill
+
+el Crevasse
+
+el Profundo
+
+el Glaciar
+
+el Iceberg
+
+el Icicle
+
+el Serac
+
+los copos de nieve
+
+el Tundra
+
+el Wendigo
+
+el invierno
+
+%%%%
+Necromancy
+
+Cuerpos
+
+Huesos
+
+Cadaver
+
+Carcasses
+
+Carrion
+
+Caskets
+
+Ataúdes
+
+Cuerpos
+
+Oscuridad
+
+Muerte
+
+Profanación
+
+Despair
+
+Diablerie
+
+Ectoplasma
+
+Mal
+
+Exhumación
+
+Finalidad
+
+Gloom
+
+Lamentación
+
+Últimos Ritos
+
+Misery
+
+Mortalidad
+
+Mortificación
+
+Necromancia
+
+Nightshade
+
+Open Graves
+
+Restos
+
+Rot
+
+Resurrección
+
+Sciomancy
+
+Shades
+
+Sombras
+
+Esqueletos
+
+Espectros
+
+Almas robadas
+
+Zombies
+
+la Autopsia
+
+el Catacomb
+
+el cementerio
+
+el Charnel House
+
+the Crypt
+
+Maldito
+
+los muertos
+
+el Salida
+
+el fin
+
+el Grave
+
+el cementerio
+
+el Mausoleum
+
+la Morgue
+
+el Mortuario
+
+la Necropsia
+
+el Ossuary
+
+el Sarcófago
+
+the Tomb
+
+el Undead
+
+w:200
+ VAR0       
+
+%%%%
+Alchemy
+
+Albedo
+
+Alchemy
+
+Alteración
+
+Argyropoeia
+
+Azoth
+
+Calcinación
+
+Cera
+
+Química
+
+Chrysopoeia
+
+Citrinitas
+
+Cohobation
+
+Composition
+
+Compuestos
+
+Concoctions
+
+Congelación
+
+Contaminación
+
+Crysopoeia
+
+Decantación
+
+Decomposición
+
+Degeneración
+
+Destilación
+
+Effluvium
+
+Esoterica
+
+Essence
+
+Fermentación
+
+Flux
+
+Formulae
+
+Hermetica
+
+Impurezas
+
+Intoxicación
+
+Iosis
+
+Leucosis
+
+Litharge
+
+Melanosis
+
+Nigredo
+
+Contaminación
+
+Prima Materia
+
+Proyección
+
+Quintessence
+
+Reagentes
+
+Reconfiguración
+
+Reforma
+
+Rubedo
+
+Solvents
+
+Spagyria
+
+Sublimación
+
+Sustancias
+
+Síntesis
+
+Takwin
+
+Tincturas
+
+Toxicants
+
+Toxicity
+
+Toxicology
+
+Toxinas
+
+Transfiguración
+
+Transformación
+
+Transmogrificación
+
+Transmutación
+
+Venin
+
+Venom
+
+Virulencia
+
+Vitriol
+
+Xantosis
+
+el Adder
+
+el Alembic
+
+el Alkahest
+
+el Athanor
+
+el Beaker
+
+el Catalyst
+
+el Crucible
+
+el Cucurbite
+
+el Decanter
+
+el Elixir
+
+# Broma bilingüe; "Gift" significa "veneno" en alemán
+el regalo
+
+el Gran Trabajo
+
+el Hornet
+
+el Iliaster
+
+el Opus Magnum
+
+el Mortar
+
+el Ouroboros
+
+el Panacea
+
+el Pestle
+
+el Primer Material
+
+la abeja reina
+
+los Rebis
+
+el Escorpión
+
+La serpiente
+
+la Solución
+
+la Tintura
+
+el Yliaster
+
+%%%%
+Summoning
+
+Acompañamiento
+
+Cómplices
+
+Adjuración
+
+Aliados
+
+Aparición
+
+Llegada
+
+Assembling
+
+Attendants
+
+Beckoning
+
+Trayendo Forth
+
+Llamada
+
+Comando
+
+Compañeros
+
+Company
+
+Convocación
+
+Creación
+
+Formación
+
+Generación
+
+Ilusión
+
+Invitación
+
+Dirección
+
+Mustering
+
+Fantasmas
+
+Producción
+
+Rallyes
+
+Sidekicks
+
+Invocación
+
+Apoyo
+
+la banda
+
+el Boggart
+
+el Comitatus
+
+el Comandante
+
+la Congregación
+
+el Entorno
+
+la Escort
+
+el Familiar
+
+el reloj
+
+el Gang
+
+la Reunión
+
+la Legión
+
+El Mirage
+
+la mafia
+
+el Retinue
+
+el Swarm
+
+el Throng
+
+la Unión
+
+%%%%
+Translocation
+
+Angles
+
+Coordinaciones
+
+Correspondencia
+
+Dirección
+
+Dislocación
+
+Desplazamiento
+
+Distancia
+
+En otro lugar
+
+Geometrias
+
+Geometría
+
+Localidad
+
+Ubicación
+
+Movimiento
+
+No localidad
+
+Orientación
+
+Peregrinación
+
+Lugares
+
+Puntos
+
+Portals
+
+Posición
+
+Reubicación
+
+Cambio
+
+Espacio
+
+w:2
+Spooky Action
+
+Subespacio
+
+Superposición
+
+Topología
+
+Translotación
+
+Transporte
+
+Transposición
+
+Wanderlust
+
+blink Frog
+
+el Compass
+
+la puerta
+
+la Excursión
+
+la Geodésica
+
+# ¡Más de lo que piensas!
+el Jaunt
+
+el Manifold
+
+el Mapa
+
+la Singularidad
+
+el Tesseract
+
+el Viajero
+
+el Vector
+
+el Vertex
+
+la Voyage
+
+el Wayfarer
+
+%%%%
+Forgecraft
+
+Artifice
+
+Assemblage
+
+Asamblea General
+
+Automatización
+
+Blueprints
+
+Relojes
+
+Cogs
+
+Composition
+
+Construcción
+
+Artesanía
+
+Diseño
+
+Diagramas
+
+Redacción
+
+Fabricación
+
+Forgecraft
+
+Marcos
+
+Gears
+
+Industria
+
+Infraestructura
+
+Instantiation
+
+Invención
+
+Levers
+
+Vínculos
+
+Maquinaria
+
+Mecanizado
+
+Mecánica
+
+Mecanismos
+
+Mechanomancy
+
+Metallurgy
+
+Metalwork
+
+Metalworking
+
+Overdrive
+
+Realización
+
+Reunificación
+
+Esquemáticos
+
+Spellforging
+
+Spellsmithing
+
+Springs
+
+Plomo
+
+Acero
+
+Estructura
+
+Tecnología
+
+Technomancy
+
+Herramientas
+
+Torque
+
+el Anvil
+
+el Arquitecto
+
+el Artificer
+
+el Automaton
+
+el herrero
+
+la configuración
+
+la Construcción
+
+la Contrapción
+
+el Edifice
+
+el motor
+
+el Ingeniero
+
+el Escape
+
+la fábrica
+
+el volante
+
+la Forja
+
+el Forgewright
+
+el Fundador
+
+el martillo
+
+el Inventor
+
+los Ironworks
+
+el Linchpin
+
+la máquina
+
+el maquinista
+
+la Maestra
+
+el fabricante
+
+el Mallet
+
+la obra maestra
+
+el Masterwork
+
+el Mechanist
+
+el Péndulo
+
+el Pinión
+
+el Ratchet
+
+el Rivet
+
+el Servo
+
+el Sledgehammer
+
+el Smith
+
+el Smithy
+
+El Spellforge
+
+el Spellsmith
+
+el Tinker
+
+el Tinkerer
+
+el relojero
+
+el Workbench
+
+%%%%
+Conjuration adj
+
+Actinic
+
+Beaming
+
+Blasted
+
+Brillante
+
+Genial.
+
+Combatiente
+
+Conjurado
+
+Coruscating
+
+Daños
+
+Destructivo
+
+Dinámica dinámica
+
+Effulgent
+
+Energética
+
+Excruciante
+
+Flashy
+
+Fuerza
+
+Fulgent
+
+Glowing
+
+Harmful
+
+Duele
+
+Lesiones
+
+Intenso
+
+Lethal
+
+Limned
+
+Lucent
+
+Luminoso
+
+Kinetic
+
+Poderoso
+
+Nocivo
+
+Potente
+
+Poderoso
+
+Profulgent
+
+Puissant
+
+Radiante
+
+Refulgent
+
+Resplendent
+
+Ruinous
+
+Scintillating
+
+Shining
+
+Vehement
+
+Vibrant
+
+Violento
+
+Vivid
+
+Salvaje
+
+%%%%
+Earth adj
+
+Arenoso
+
+Ashen
+
+Chthonic
+
+Tonta.
+
+Crystalline
+
+Dense
+
+Dusty
+
+Earthen
+
+Felsic
+
+Flinty
+
+Geológica
+
+# como en los draconianos
+Grey
+
+Gritty
+
+Fundada
+
+Pesado
+
+Indurated
+
+Iron
+
+Ironbound
+
+Lapidarian
+
+Lapidary
+
+Leaden
+
+Lithic
+
+Metallic
+
+Petrified
+
+Petrous
+
+Plutonic
+
+Rocky
+
+Rough
+
+Sandy
+
+Seísmo
+
+Sólido
+
+Subterranean
+
+Stony
+
+Tectonic
+
+Telluric
+
+Terrestre
+
+Subsuelo
+
+Volcánica
+
+%%%%
+Fire adj
+
+Blazing
+
+Blistering
+
+Quema
+
+Burnt
+
+Calescente
+
+Calid
+
+Calorifico
+
+Cargado
+
+Combustivo
+
+Comburant
+
+Conflagrant
+
+Decalescent
+
+Exotérmica
+
+Fuego
+
+Flaming
+
+Flammable
+
+Flamy
+
+Glowing
+
+Calentador
+
+Caliente
+
+Igneous
+
+Incandescent
+
+Incendiario
+
+Incinerado
+
+Inflamable
+
+Kindled
+
+Molten
+
+Rojo
+
+Red-hot
+
+Asombroso
+
+Pendientes
+
+Escalada
+
+Scorched
+
+Scorching
+
+Sindical
+
+Sizzling
+
+Fumar
+
+Smouldering
+
+w:2
+Spicy
+
+Sulphuroso
+
+Sweltering
+
+Torrefying
+
+Torrid
+
+Tropical
+
+Volátil
+
+w:2
+Bien hecho
+
+%%%%
+Hexes adj
+
+Alluring
+
+Baleful
+
+Becharmed
+
+Becharming
+
+Beguiled
+
+Beguiling
+
+Bewitched
+
+Bewitching
+
+Bound
+
+Cautivante
+
+Charmed
+
+Encantador
+
+Cunning
+
+Maldito
+
+Destino
+
+Dire
+
+Perdido
+
+Encantado
+
+Encantador
+
+Ensnaring
+
+Atralled
+
+Enthralling
+
+Entrada
+
+Entrada
+
+Fascinante
+
+Fateful
+
+Atrapando
+
+Fettered
+
+Fey
+
+Glamourous
+
+Hapless
+
+Hexed
+
+Hexing
+
+Hindering
+
+Sin esperanza
+
+Ill-boding
+
+Ill-fated
+
+Ill-omened
+
+Ill-starred
+
+Inauspicio
+
+Jinxed
+
+Perdidos
+
+Maledictive
+
+Portentoso
+
+Predestinado
+
+Flebinding
+
+Star-crossed
+
+Trágica
+
+Twinkling
+
+Unfortunate
+
+Unlucky
+
+Vexatious
+
+Vexting
+
+Weird
+
+%%%%
+Ice adj
+
+Algid
+
+Alpine
+
+Ártico
+
+# Like the infamous jellies
+Azure
+
+Bitter
+
+Bleak
+
+Boreal
+
+Brumal
+
+Chilled
+
+Chilling
+
+Chilly
+
+Cold
+
+Congealing
+
+Crystallised
+
+Freezing
+
+Frigid
+
+Frigorífico
+
+Frore
+
+Frostbitten
+
+Frostbound
+
+Frosty
+
+Frozen
+
+Gelid
+
+Glacial
+
+Hiemal
+
+Hyperborean
+
+Hipótesis
+
+Icebound
+
+Iced
+
+Icy
+
+Nival
+
+Niveous
+
+Número
+
+Polar
+
+Shivering
+
+Nieve
+
+Snowy
+
+Blancanieves
+
+Subzero
+
+# como en los draconianos
+Blanco
+
+Wintry
+
+%%%%
+Necromancy adj
+
+Sangre
+
+Sangre
+
+Caliginoso
+
+Carne
+
+Creeping
+
+w:2
+Espeluznante
+
+Cruentate
+
+Oscuro
+
+Muerta
+
+Muerte
+
+Decaying
+
+Dismal
+
+Perdido
+
+Mal
+
+Fatal
+
+Funereal
+
+Ghastly
+
+Ghoulish
+
+Gloomy
+
+Grave
+
+Grim
+
+Grisly
+
+Horrible
+
+Horrible
+
+Imbrued
+
+Lethal
+
+Sin vida
+
+Loathsome
+
+Macabre
+
+Malignant
+
+Morbid
+
+Mortal
+
+Mortuary
+
+Necrotic
+
+Póstumo
+
+Postmortem
+
+Rotting
+
+# En el viejo sentido de "quicken", "para traer a la vida"
+Rápido
+
+Sanguinario
+
+Sanguinolent
+
+Saturnine
+
+Sepulchral
+
+Sombrías
+
+Sinister
+
+Somber
+
+w:2
+Spooky
+
+Spectral
+
+Stygian
+
+Tenebroso
+
+Dos veces.
+
+Undead
+
+Inholy
+
+Vile
+
+Wicked
+
+%%%%
+Alchemy adj
+
+Alchemical
+
+Altered
+
+Amorfo
+
+Arnés
+
+Baneful
+
+Caustic
+
+Cambios
+
+Cambio
+
+Productos químicos
+
+Contaminado
+
+Diferencial
+
+Feculent
+
+Fetid
+
+Fluctuación
+
+Glowing
+
+Verde
+
+Hiletic
+
+Hylic
+
+Impureza
+
+Iotic
+
+Leucotic
+
+Magnum
+
+Melanotic
+
+Mercurial
+
+Metamorfo
+
+Mutable
+
+Mutagenic
+
+Mutated
+
+Nocivo
+
+Noxious
+
+venenoso
+
+Polluted
+
+Prime
+
+Promethean
+
+Protean
+
+Reconfigurado
+
+Refined
+
+En forma
+
+Septic
+
+Spagyric
+
+Sintetizados
+
+Toxic
+
+Transformados
+
+Transformación
+
+Transmutado
+
+Sin refinar
+
+Inestable
+
+Variable
+
+Venomous
+
+Viperous
+
+Viridian
+
+Viroso
+
+Virulent
+
+Vitriolico
+
+Xanthotic
+
+%%%%
+Summoning adj
+
+Aggregated
+
+Aliados
+
+Amalgamated
+
+Amassed
+
+Assembled
+
+Asociado
+
+Asistencia
+
+Llamada
+
+Recopilados
+
+Colectivo
+
+Combinado
+
+Concierto
+
+Congregado
+
+Consolidación
+
+Cooperativas
+
+Creado
+
+Creativo
+
+Familiar
+
+Amistad
+
+Reunidos
+
+Generado
+
+Generative
+
+Ayudante
+
+Ilustración
+
+Marshalled
+
+Masajeado
+
+Asesinato
+
+Mutual
+
+Fantasma
+
+Productivo
+
+Rallied
+
+Compartida
+
+Espadas
+
+Invocado
+
+Apoyo
+
+Simpatico
+
+Sindicados
+
+Unificado
+
+United
+
+%%%%
+Translocation adj
+
+# Una referencia al libro de hechizos Akashic eliminado,
+# Que contenía poderosos hechizos de Translocaciones.
+Akashic
+
+Angular
+
+Blinking
+
+Correspondencia
+
+Desviado
+
+Dimensional
+
+Distinua
+
+Disjuntos
+
+Dislocado
+
+Desplazados
+
+Distorsión
+
+Elliptic
+
+Geométrica
+
+Hiperbólico
+
+Isometric
+
+Liminal
+
+Linear
+
+Manifold
+
+Moving
+
+Non-Euclidean
+
+No lineal
+
+Parabólica
+
+Parallel
+
+Planar
+
+Projective
+
+Quantum
+
+Relocado
+
+Cambio
+
+Espacial
+
+Topológica
+
+Translocado
+
+Translocalización
+
+Transpuesto
+
+Dos veces.
+
+Inestable
+
+Warped
+
+%%%%
+forgecraft adj
+
+Aleación
+
+Césped artificial
+
+Artisanal
+
+Assembled
+
+Automático
+
+Construido
+
+Buzzing
+
+Calibrado
+
+Clacking
+
+Clanging
+
+Clanking
+
+Clattering
+
+Clicking
+
+Clinking
+
+Relojes
+
+Completado
+
+Concreto
+
+Construido
+
+Artesanía
+
+Crecer
+
+Diseñado
+
+Ingeniero
+
+Fabricado
+
+Moda
+
+Afinado
+
+Forgecrafted
+
+Forjado
+
+Forgewrought
+
+Formado
+
+Hammered
+
+Hissing
+
+Industrial
+
+Ingenioso
+
+Innovadora
+
+Instantiated
+
+Inventados
+
+Jangling
+
+Jingling
+
+Máquinas
+
+Fabricado
+
+Mecánica
+
+Mechanised
+
+Metallic
+
+Metallurgical
+
+Modelled
+
+Física
+
+Rattling
+
+Realizado
+
+Reified
+
+Esquemático
+
+Shaped
+
+Artesanía
+
+Spellforged
+
+Spellsmithed
+
+Acero
+
+Estructura
+
+Sintético
+
+Tecnología
+
+Temperada
+
+Thrumming
+
+Ticking
+
+Tooled
+
+Vibración
+
+Bien hecho.
+
+Bien-temperado
+
+Whirring
+
+Whizzing
+
+Wind-up
+
+Trabajado
+
+Wrought
+
+%%%%
+Conjuration Earth owner
+
+Lehudib
+
+No
+
+%%%%
+highlevel Conjuration Fire owner
+
+Asmodeus
+
+Cerebov
+
+NO
+
+%%%%
+highlevel Conjuration Necromancy owner
+
+Ereshkigal
+
+NO
+
+%%%%
+highlevel Conjuration Summoning owner
+
+Asmodeus
+
+Dispater
+
+No
+
+%%%%
+Alchemy Earth owner
+
+Roxanne
+
+NO
+
+%%%%
+highlevel Earth Summoning owner
+
+Dispater
+
+No
+
+%%%%
+highlevel Fire Summoning owner
+
+Asmodeus
+
+NO
+
+%%%%
+Fire Ice owner
+
+Vv
+
+No
+
+%%%%
+highlevel Alchemy Necromancy owner
+
+Gloorx Vloq
+
+NO
+
+%%%%
+Alchemy Necromancy owner
+
+Cigotuvi
+
+No
+
+%%%%
+Conjuration owner
+
+Lehudib
+
+Iskenderun
+
+No
+
+%%%%
+highlevel Earth owner
+
+Dispater
+
+w:50
+@Earth owner@
+
+%%%%
+Earth owner
+
+Brom
+
+Jorgrun
+
+Lehudib
+
+Lee
+
+Leda
+
+Roxanne
+
+No
+
+%%%%
+highlevel Fire owner
+
+Asmodeus
+
+Cerebov
+
+NO
+
+%%%%
+Ice owner
+
+Ozocubu
+
+No
+
+%%%%
+Air owner
+
+la Nube Mage
+
+Maxwell
+
+Nikola
+
+Vhi
+
+No
+
+%%%%
+highlevel Necromancy owner
+
+Ereshkigal
+
+Gloorx Vloq
+
+w:5
+Kikubaaqudgha
+
+w:40
+@Necromancy owner@
+
+%%%%
+Necromancy owner
+
+Borgnjor
+
+Cigotuvi
+
+Khufu
+
+Zonguldrok
+
+No
+
+%%%%
+highlevel Alchemy owner
+
+Gloorx Vloq
+
+w:30
+@Alchemy owner@
+
+%%%%
+Alchemy owner
+
+Alistair
+
+Cigotuvi
+
+Olgreb
+
+Eringya
+
+No
+
+%%%%
+highlevel Summoning owner
+
+Asmodeus
+
+Dispater
+
+Mnoleg
+
+@Summoning owner@
+
+%%%%
+Summoning owner
+
+Mara
+
+NO
+
+%%%%
+highlevel Translocation owner
+
+Lom Lobon
+
+#
+@Translocation owner@
+
+%%%%
+Translocation owner
+
+Gell
+
+Golubria
+
+No
+
+%%%%
+Hexes owner
+
+Yara
+
+w:5
+Terpsichore
+
+Tukima
+
+No
+
+%%%%
+Forgecraft owner
+
+Nazja
+
+No
+
+%%%%
