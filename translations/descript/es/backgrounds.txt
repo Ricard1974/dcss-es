@@ -148,3 +148,22 @@ Transmuter
 Los Transmutadores cambian su forma para luchar con una forma de bestia. Pueden
 convertir palos en serpientes además.
 %%%%
+Forgewright
+
+Los Forgewright son magos que se especializan en la creación de torretas y artilugios mecánicoss
+compañeros para luchar.
+%%%%
+Hexslinger
+
+Los Hexslingers llevan una honda y usan magia de maleficios para debilitar a sus enemigos vulnerables
+a ataques desde lejos.
+%%%%
+Reaver
+
+Los Reavers comienzan con un arma de su elección y magia mortal para complementarlauando sea necesario. Empiezan con el hechizo del beso de la muerte.
+%%%%
+Shapeshifter
+
+Los Cambiaformas usan talismanes para cambiar de forma, volviéndose poderosos en combate cuerpo a cuerpo
+luchadores (especialmente cuando no están armados) al costo de la armadura.
+%%%%
