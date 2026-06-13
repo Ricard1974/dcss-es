@@ -1,15 +1,16 @@
 %%%%
 An opulent altar of Gozag
 
-«Madre, yo al oro me humillo;
- él es mi amante y mi amado,
- pues, de puro enamorado,
- de contino anda amarillo;
- que pues, doblón o sencillo,
- hace todo cuanto quiero,
- poderoso caballero
- es don Dinero.
-    -Francisco de Quevedo, _Poderoso caballero es don Dinero_. 1603.
+Madre, me arrodí ante el oro,
+mi amante y amado;
+y sabiendo que lo adoro,
+se convierte en amarillo melancólico.
+Porque sigue sus deseos
+ya sea doubloon o polvo,
+un poderoso caballero
+es Don Dinero.”
+-Francisco de Quevedo,  Poderoso caballero es don Dinero . 1603.
+Trans. Christopher Johnson, 2009.
 
 %%%%
 A broken pillar
@@ -59,7 +60,7 @@ Pero los conquistamos, y los matamos.”
 -Thomas Love Peacock, “The War Song of Dinas Vawr”. 1829.
 
 %%%%
-A gateway back into la Mazmorra
+A gateway back into the Dungeon
 
 ¡Oh Progenie del Cielo! ¡Trunos empíricos!
 Con razón tiene profundo silencio y demur
@@ -68,27 +69,26 @@ Y duro, que fuera del infierno conduce a la luz.”
 -John Milton,  Paradise Lost . 1674 (2nd Ed.).
 
 %%%%
-A gateway leading deeper into el Abismo.
+A gateway leading deeper into the Abyss.
 
 <Abyss>
 
 %%%%
 A gateway to Hell
 
-«Soy el camino que lleva a la ciudad de desgracias.
- Soy el camino hacia los abandonados.
- Soy el camino que lleva al lamento eterno.
+Soy el camino hacia la ciudad de woe.
+Soy el camino a una gente abandonada.
+Soy el camino hacia el dolor eterno.
 
- Justicia sagrada fue lo que motivó a mi arquitecto.
- La divina omnipotencia fue quien me crió.
- Amor supremo e inteligencia venida de lo alto.
+La justicia sagrada movió a mi arquitecto.
+Fui criado aquí por la omnipotencia divina,
+Amor primordial e intelecto final.
 
- Son esos elementos los que el tiempo no puede usar.
- Estos fueron creados antes que yo, y yo provengo de más allá del tiempo.
- Desabrigue cualquier esperanza, quien entre aquí.»
-    -Dante Alighieri,_La Divina Comedia_, «El Infierno», Canto III. aprox.
-1315.
-     De la versión en inglés hecha por John Ciardi en 1954.
+Sólo esos elementos de tiempo no pueden usar
+Fui hecho delante de mí, y más allá del tiempo estoy de pie.
+Abandona toda esperanza, ustedes que entran aquí.
+-Dante Alighieri,  La Divina Comedia , “Inferno”, Canto III. CA. 1315.
+Trans. John Ciardi, 1954.
 
 %%%%
 A gateway to a ziggurat
@@ -131,7 +131,7 @@ Pero la multitud pidió más”
 -Procul Harum, “A Whiter Shade of Pale”. 1967.
 
 %%%%
-A one-way gate to the infinite horrors of el Abismo
+A one-way gate to the infinite horrors of the Abyss
 
 “Y si miras por mucho tiempo en un Abyss, el Abysstambién mira hacia ti.”
 -Friedrich Nietzsche,  Beyond Good and Evil , Aphorism 146. 1886.
@@ -249,22 +249,22 @@ A staircase to the Ecumenical Temple
 <Temple>
 
 %%%%
-A staircase to los Salones Élficos
+A staircase to the Elven Halls
 
 <Elven Halls>
 
 %%%%
-A staircase to las Minas Orcas
+A staircase to the Orcish Mines
 
 <Orcish Mines>
 
 %%%%
-A staircase to los Bajos
+A staircase to the Shoals
 
 <Shoals>
 
 %%%%
-A staircase to la Tumba
+A staircase to the Tomb
 
 “Una tumba ahora le basta para quien el mundo no era suficiente.”
 -Alexander el epitafio del Grande.
@@ -402,7 +402,7 @@ vuestros caminos, y derramad las viales de la ira de Dios sobre la tierra.
 %%%%
 Tomb
 
-“En las Profundidades de cada corazón, hay una tumba y una mazmorra, aunque el
+“En las profundidades de cada corazón, hay una tumba y una mazmorra, aunque la
 las luces, la música y el revelaje arriba pueden hacernos olvidar su existencia,
 y los enterrados, o prisioneros a los que se esconden. Pero a veces, y a menudo
 a medianoche, esos receptáculos oscuros están abiertos. En una hora como ésta,
@@ -428,7 +428,7 @@ Alistair's Walking Alembic spell
 A pesar de su apariencia inmutable, es ampliamente considerado el más popular de Alistair
 trabajo; innumerables variaciones de este hechizo se pueden encontrar en las bibliotecas superficiales,
 personalizado para preparar todo desde el pulido del suelo hasta la sopa vegetal. En el
-profundidades de la Mazmorra, sin embargo, la mayoría de los magos favorecen la utilidad de combate de la
+profundidades de la mazmorra, sin embargo, la mayoría de los magos favorecen la utilidad de combate de la
 iteración clásica.
 
 %%%%
@@ -1423,20 +1423,19 @@ Como a la brazalete de hierro Armours”
 %%%%
 long sword
 
-«Y andando en estas priesas entre aquellos grandes guerreros y sus temerosos
-montantes, parece ser acordaron de se juntar muchos dellos y de mayores fuerzas
-para tomar a manos algún caballo, y lo pusieron por obra, y arremetieron, y
-echan mano a una muy buena yegua y bien revuelta, de juego y de carrera, y el
-caballero que en ella iba muy buen jinete, que se decía Pedro de Morón; y como
-entró rompiendo con otros tres de a caballo entre los escuadrones de los
-contrarios, porque así les era mandado, porque se ayudasen unos a otros,
-échanle mano de la lanza, que no la pudo sacar, y otros le dan de cuchilladas
-con los montantes y le hirieron malamente, y entonces dieron una cuchillada a
-la yegua, que le cortaron el pescuezo en redondo, y allí quedó muerta; y si de
-presto no socorrieran los dos compañeros de a caballo al Pedro de Morón,
-también le acabaran de matar.»
-    -Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva
-España. 1632.
+“Mientras estábamos en contacto con este gran ejército y sus terribles espadas
+(maquahuitl [hecha de obsidiana]), muchos de los más poderosos entre el enemigo
+parece haber decidido capturar un caballo. Comenzaron con un ataque furioso, y
+puso las manos en una buena yegua bien entrenada tanto para el deporte como para la batalla. Su jinete.
+Pedro de Moron, era un buen jinete, y como él cargaba con otros tres
+jinetes en las filas enemigas, habían sido instruidos para cargar juntos por
+apoyo mutuo - algunos de ellos se apoderaron de su lanza para que no pudiera usarlo, y
+otros le cortaron con sus espadas (maquahuitl), hiriéndolo
+severamente. Luego se cortaron en su yegua, cortando su cabeza en el cuello para que
+sólo colgó por la piel. El mare cayó muerto, y si sus camaradas montados tenían
+no venir al rescate de Moron, probablemente habría sido asesinado también.
+-Bernal Díaz del Castillo,  La conquista de Nueva España . 1623.
+Trans. J.M.Cohen, 1963.
 
 %%%%
 longbow
@@ -1508,7 +1507,7 @@ La forma de la muerte: mientras tanto, acudí a Romeo
 Que venga aquí como esta noche terrible,
 Para ayudar a sacarla de su tumba,
 Siendo el momento en que la fuerza de la poción debe cesar.”
--William Shakespeare,  Romeo y Juliet
+-William Shakespeare,  Romeo y Juliet 
 
 %%%%
 potion of curing
@@ -2584,7 +2583,7 @@ Mara
 Esta noche el Señor de la Ilusión pasó entre vosotros, Mara, poderoso entre soñadores,
 poderoso para mal. Él vino sobre otro que puede trabajar con las cosas de los sueños
 de una manera diferente. Se encontró con Dharma, que puede expulsar a un soñador de su
-sueño. Ellos lucharon, y el Señor Mara ya no es. ¿Por qué lucharon?
+sueño. Ellos lucharon, y el Señor no es más. ¿Por qué lucharon?
 ¿Muerte contra el ilusionista? Dices que sus caminos son incomprensibles, siendo
 los caminos de los dioses. Esta no es la respuesta.”
 -Roger Zelazny, “Señor de la Luz”. 1967.
@@ -2618,13 +2617,13 @@ De los grandes dioses es llano; y vosotros debéis traer
 Ill actos, malas pasiones, celosos de cumplir
 Su placer, a sus pies; y segar su alabanza,
 La alabanza de los dioses, el rico alboroto! y la longitud de los días.”
--Mateo Arnold,  Mycerinus
+-Mateo Arnold,  Mycerinus 
 
 %%%%
 Murray
 
 ¡Mira detrás de ti! ¡Un mono de tres cabezas!
--Piloto de tres maderas,  El secreto de la isla de monos
+-Piloto de tres maderas,  El secreto de la isla de monos 
 
 %%%%
 Natasha
@@ -2680,7 +2679,7 @@ Prince Ribbit
 ¿Ayer por las frías aguas de la fuente?
 ¡Princesa, princesa más joven!
 ¡Abre la puerta para mí!
--Hermanos Grimm (Margaret Hunt),  El rey rana, o Iron Henry
+-Hermanos Grimm (Margaret Hunt),  El rey rana, o Iron Henry 
 
 %%%%
 Sigmund
@@ -3273,7 +3272,7 @@ No antes lo había atrapado, disolvándole toda su pena
 como niebla de refrescante sueño derramada alrededor de él allí—
 su poderoso marco era caluroso de acusar a Héctor
 recto y duro a las paredes de Windswept Troy -
-que el fantasma de "Patrocluso arrasado"
+que el fantasma de stricken Patroclus se desplazó...
 Era como el hombre de la vida, cada característica,
 la misma construcción alta y los ojos finos y la voz
 y las mismas túnicas que solían vestir su cuerpo.
@@ -3490,7 +3489,7 @@ Batter y batir! ¡Martillo y bleat!
 Mientras Goblins quaff, y Goblins ríen,
 Ronda y vuelta bajo tierra
 ¡Abajo, muchacho!
--J.R.R. Tolkien,  The Hobbit
+-J.R.R. Tolkien,  The Hobbit 
 
 %%%%
 golden dragon
@@ -3507,7 +3506,7 @@ golden eye
 En tu ojo de oro brillante,
 Esa calma e inocente vuelta
 Sobre todo debajo del cielo.”
--Hannah Flagg Gould,  The Youth's Coronal
+-Hannah Flagg Gould,  The Youth's Coronal 
 
 %%%%
 guardian golem
@@ -3794,7 +3793,7 @@ Niño,  The English and Scottish Popular Ballads . 1898.
 merfolk impaler
 
 ¡Diablos! ¡Que Neptune te mate, Winslow! HAAARK! Hark Triton, hark!
-Bellow, pídele a nuestro padre que el rey del mar se levante de las Profundidades completo en su furia!
+Bellow, ¡que nuestro padre el rey del mar se levante de las profundidades llenas de su furia!
 Olas negras teemiendo con sal para ahogar esta boca joven con pungente
 límpiate, para ahogarte, engordando tus órganos hasta que te pongas azul y hinchado con
 bilge y brine y no puede gritar más - sólo cuando él, coronado en la polla
@@ -4528,7 +4527,7 @@ Trans. Ruth White, 1969.
 %%%%
 swamp drake
 
-“Sweet es el Pantano con sus secretos,
+“Sweet es el pantano con sus secretos,
 Hasta que nos encontremos con una serpiente;
 'T es entonces que suspiramos por casas,
 Y nuestra salida
@@ -4543,7 +4542,7 @@ Y el engaño es donde va.
 swamp worm
 
 El tonto, como creo, al borde del abismo,
-Prone by el Pantano or the marsh's side,
+Prone por el pantano o el lado del pantano,
 ¿Acaso, como yo, al final se regocijó?
 Puesto que la voz de la muerte debe ser Su verdadera voz.”
 -Arthur Edward Waite, “Al final de las cosas”. 1906.
@@ -4602,11 +4601,12 @@ Trans. Noyes, 1917.
 %%%%
 toenail golem
 
-«Dóciles medias los halagan de día y zapatos de cuero claveteados los
-fortifican, pero los dedos de mi pie no quieren saberlo. No les interesa otra
-cosa que emitir uñas: láminas córneas, semitransparentes y elásticas, para
-defenderse, ¿de quién?»
-    -Jorge Luis Borges
+“Los calcetines suaves los miman día a día, y los zapatos adoquinados de cuero fortificarlos,
+pero mis dedos de los pies apenas notan. Todo lo que están interesados es salir
+uñas: hojas semitransparentes y flexibles de un material cachondo, como defensa
+contra, ¿quién?
+-Jorge Luis Borges, “Toenails”. 1960.
+Trans. Andrew Hurley, 1998.
 
 %%%%
 tormentor
@@ -4645,7 +4645,7 @@ two-headed ogre
 %%%%
 tyrant leech
 
-Scully: ¿De dónde salió?
+Scully: ¿De dónde diablos vino?
 Mulder: “No lo sé, pero parece que voy a tener que decirle a Skinner
 que su sospechoso es un gusano de sangre gigante después de todo.”
 - El X-Files , “El anfitrión”. 1994

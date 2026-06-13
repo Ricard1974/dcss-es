@@ -323,7 +323,7 @@ a distante "Zot"!
 
 el lejano rugido de una rana enfurecida.
 
-############## Otros ruidos, generalmente no encontrados en la Mazmorra ################################################################################################################################################################################################################################################################
+##################Otros ruidos, usualmente no encontrados en el calabozo
 Un golpe.
 
 una voz llamando tu nombre.
@@ -1722,6 +1722,47 @@ w:1
 Aeolian mode
 
 %%%%
+_exasperated_
+
+_exasperated_
+
+exasperated
+
+bugged out
+
+unnerved
+
+irascibly
+
+nervous
+
+unruly
+
+truculent
+
+refractory
+
+recalcitrant
+
+%%%%
+_crimson_
+
+_crimson_
+
+crimson
+
+blood-red
+
+w:1
+purple
+
+w:1
+ensanguined
+
+w:1
+violet
+
+%%%%
 _MISCREANTS_
 
 MISCREANTS
@@ -2101,43 +2142,3 @@ Casi escuchas un scoff dracónico de desaprovalo que crece a través de tu mente
 Las escalas se vuelven violentas con la frustración fría.
 
 %%%%
-%%%%
-_crimson_
-
-_crimson_
-
-crimson
-
-blood-red
-
-w:1
-purple
-
-w:1
-ensanguined
-
-w:1
-violet
-
-%%%%
-_exasperated_
-
-_exasperated_
-
-exasperated
-
-bugged out
-
-unnerved
-
-irascibly
-
-nervous
-
-unruly
-
-truculent
-
-refractory
-
-recalcitrant

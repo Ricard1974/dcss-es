@@ -1,14 +1,3 @@
-######################################################
-# Randart Names
-# -------------
-# rand_wpn.txt: keywords for randart WEAPONS
-#
-# This file contains the lists of keywords (and their
-# weights) for most of the keywords used for randart
-# weapons. You will find other ones in rand_all.txt.
-# See the explanation in the main file, randname.txt,
-# for more details.
-######################################################
 %%%%
 _power_or_anger_
 
@@ -19,8 +8,8 @@ w:7
 
 w:7
 @_anger_name_@
+
 %%%%
-# "Power" is not literally here, to prevent generating conflicts with the unrand
 _power_name_
 
 Grandes daños
@@ -1675,6 +1664,7 @@ the Hated
 the Scorned
 
 the Abhorred
+
 %%%%
 _battle_or_war_
 
@@ -1751,67 +1741,67 @@ Death's Door
 Mourning
 
 the Grave
+
 %%%%
-# used from C++'s side
 death_or_doom
 
-# death
-Bloody Death
+# Muerte
+Muerte sangrienta
 
-Certain Death
+Cierta muerte
 
-Death
+Muerte
 
-Exquisite Death
+Muerte exquisita
 
-Imminent Death
+Muerte inminente
 
-Instant Death
+Muerte instantánea
 
-Pain and Death
+Dolor y muerte
 
-Painful Death
+Muerte dolorosa
 
-Quick Death
+Muerte rápida
 
-Slow Death
+Slow Muerte
 
-Sudden Death
+Muerte repentina
 
-Uncertain Death
+Muerte incierto
 
 Untimely Demise
 
-# doom
-Destruction
+# Doom
+Destrucción
 
 Disembowelment
 
 Doom
 
-Evisceration
+Evisceración
 
-Execution
+Ejecución
 
-Extermination
+Exterminación
 
-Extinguishment
+Extinguimiento
 
 Peril
 
-Premature Burial
+Entierro prematuro
 
-# pain and misery
+# dolor y miseria
 
-Anguish
+La angustia
 
-Dismemberment
+Desmembramiento
 
-Excruciating Pain
+Increíble dolor
 
-Exquisite Torment
+Tormenta exquisita
 
-Infinite Pain
+Dolor infinito
 
 Misery
 
@@ -1830,6 +1820,7 @@ w:4
 
 w:3
 @_justice_name_@
+
 %%%%
 _strategy_name_
 
@@ -2000,6 +1991,7 @@ Traitor
 
 w:15
 @_diviner_name_@
+
 %%%%
 _weapon_animal_
 
@@ -2018,7 +2010,6 @@ _weapon_animal_
 @_mammal_name_@
 
 %%%%
-
 _crustacean_name_
 
 # insects and other crustaceans
@@ -2087,7 +2078,6 @@ Woodlouse
 Yellowjacket
 
 %%%%
-
 _arachnid_name_
 
 Harvestman
@@ -2099,7 +2089,6 @@ Spider
 Tick
 
 %%%%
-
 _amphibian_name_
 
 Axolotl
@@ -2121,7 +2110,6 @@ Siren
 Toad
 
 %%%%
-
 _reptile_name_
 
 Alligator
@@ -2155,7 +2143,6 @@ Turtle
 Viper
 
 %%%%
-
 _fish_name_
 
 Big Fish
@@ -2169,7 +2156,6 @@ Salmon
 Shark
 
 %%%%
-
 _bird_name_
 
 Apostlebird
@@ -2251,7 +2237,6 @@ Tawny Frogmouth
 Vulture
 
 %%%%
-
 _mammal_name_
 
 Ass
@@ -2279,8 +2264,8 @@ Weasel
 Whale
 
 Wolf
+
 %%%%
-# plants and fungi
 _plant_name_
 
 #plants
@@ -2315,6 +2300,7 @@ Puffball
 Slime-mould
 
 Toadstool
+
 %%%%
 _evil_stuff_
 
@@ -2421,6 +2407,7 @@ Pestilence
 Plague
 
 War
+
 %%%%
 _chaos_name_
 
@@ -2487,6 +2474,7 @@ the Fray
 the Hodge-Podge
 
 the Mish-Mash
+
 %%%%
 _balance_or_order_
 
@@ -2805,6 +2793,7 @@ _philosophy_or_science_
 @_philosophy_name_@
 
 @_science_name_@
+
 %%%%
 _philosophy_name_
 
@@ -2907,6 +2896,7 @@ Syndicalism
 Theistic Finitism
 
 the Ego
+
 %%%%
 _science_name_
 
@@ -3047,8 +3037,8 @@ the Magi
 the Sage
 
 the Warrior-Mage
+
 %%%%
-# substances
 _substance_name_
 
 Ash
@@ -3103,93 +3093,91 @@ Spores
 Yeast
 
 %%%%
-# non-groupables
 other_weapon_name
 
 Broken Luck
 
-Butchery
+Carnicería
 
-Checkmate
+Jaque mate
 
-Conversion
+Conversión
 
 Crawling
 
-Desertification
+Desertificación
 
-Doors
+Puertas
 
-Entrepreneurial Spirit
+Espíritu empresarial
 
 False Hope
 
-Fulguration
+Fulguración
 
-Gin and Tonic
+Gin y Tonic
 
 Grontol
 
 Hard Scrabble
 
-Interdependent Arising
+Establecimiento interdependiente
 
-Irrepressible Laughter
+La risa irreprimible
 
 No Interval
 
-Prescription
+Prescripción
 
-Red Wine
+Vino tinto
 
 Res Nullius
 
-Spontaneous Combustion
+Combustión espontánea
 
 Terra Nullius
 
-Traps
+Trampas
 
-Undoing
+Deshacerse
 
 Vodka
 
-the Blind Eye
+el ojo ciego
 
-the Briny Deep
+el Briny Deep
 
-the Empty Page
+la página vacía
 
-the Final Chapter
+el Capítulo Final
 
-the Omega Point
+el punto Omega
 
-the Open Hand
+la Mano Abierta
 
-the Pharaoh's Fist
+el Puño del Faraón
 
-the Real Monster
+el monstruo Real
 
-the Spinneret
+el Spinneret
 
-the Two Names
+los dos nombres
 
-the Unkillable
+inhabilitación
 
-the Vendetta
+la Vendetta
 
 %%%%
-# single word monster names, to allow for combinations like <Monster>slayer
 short_monster_name_
 
 w:1
 Acarine
 
-Beast
+Bestia
 
-Beetle
+Escarabajo
 
-Demon
+Demonio
 
 Dragon
 
@@ -3199,7 +3187,7 @@ Goblin
 
 Hydra
 
-Imp
+Imposible
 
 Jelly
 
@@ -3213,7 +3201,8 @@ Ogre
 Spider
 
 w:1
-Testudine
+Testudina
+
 %%%%
 _monster_name_
 
@@ -3226,29 +3215,31 @@ Killer Bee
 Killer Klown
 
 Orb Guardian
+
 %%%%
 _short_killer_name_
 
 bane
 
 slayer
+
 %%%%
-# used from the C++ side
 killer_name
 
 's Bane
 
 's Curse
 
-'s Death
+La muerte
 
 's Doom
 
-'s Foe
+Es Foe
 
 's Peril
 
 's Regret
+
 %%%%
 _long_killer_name_
 
@@ -3264,6 +3255,7 @@ _long_killer_name_
 
 w:1
 's Looming Annihilation
+
 %%%%
 _real_weapon_name_
 
@@ -3325,6 +3317,7 @@ Worm's Wrath
 
 # Sigmund's sword
 Gram
+
 %%%%
 _joke_weapon_name_
 
@@ -3400,6 +3393,7 @@ Glorpo
 Loopy
 
 Plojy
+
 %%%%
 _plain_weapon_name_
 
@@ -3420,4 +3414,5 @@ w:15
 
 w:5
 @_joke_weapon_name_@
+
 %%%%
