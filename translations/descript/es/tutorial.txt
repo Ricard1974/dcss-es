@@ -17,6 +17,13 @@ artículo, huyendo, descansando entre peleas, o evitando el combate por completo
 ¡Sigue intentándolo, eventualmente prevalecerás!
 
 %%%%
+tutorial1 start
+
+En esta lección vas a aprender cómo moverse y explorar un nivel.
+Puedes mover <localtiles> haciendo clic en alguna parte con tu <input>Mouse</input>,
+o </localtiles>with the <input>arrow keys</input>.
+
+%%%%
 tutorial1 go_on
 
 ¡Lo estás haciendo muy bien! Ahora, explora un poco hasta que llegues al
@@ -162,6 +169,12 @@ mouseclick en el <w>minimap</w></localtiles>
 <input>$cmd[CMD EXPLORE]§AG59 autoexplore
 
 %%%%
+tutorial2 start
+
+Esta lección Will te enseña acerca de los monstruos y la lucha. Primero, necesitamos un
+arma! Ve a coger el que está ahí.
+
+%%%%
 tutorial2 pickup_weapon
 
 Recoger este arma<localtiles> haciendo clic en él en el panel de inventario, y
@@ -295,6 +308,11 @@ También puede disparar un misil por §AG43 §clicking</input> en él, luego con
 <yellow>Resting</yellow>
 </cyan>0§$cmd[CMD WAIT]</cyan>1§ esperar y descansar un solo giro
 </cyan>2§$cmd[CMD REST]</cyan>3§ esperar y descansar hasta 100 vueltas
+
+%%%%
+tutorial3 start
+
+En esta lección vas a aprender sobre los artículos y cómo usarlos.
 
 %%%%
 tutorial3 armour
@@ -507,6 +525,11 @@ Y por supuesto, <input>mouseclicks</input> también funcionan. </localtiles>
 Varios de estos comandos también se pueden ejecutar haciendo clic en el panel <w>command</w>.</localtiles>
 
 %%%%
+tutorial4 start
+
+En esta lección vas a aprender a memorizar y lanzar hechizos.
+
+%%%%
 tutorial4 spellbook
 
 Puedes memorizar un hechizo de tu biblioteca de hechizos con
@@ -672,6 +695,11 @@ Puede lanzar hechizos memorizados a través de <input>leftclick§AG14, y leer su
 <input>$cmd[CMD REST]</input> descansar hasta 100 vueltas para recuperar puntos de magia y salud
 <input>$cmd[CMD SHOUT]</input>
 <input>$cmd[CMD UNEQUIP]§AG27 § take off equipment
+
+%%%%
+tutorial5 start
+
+En esta lección vas a aprender acerca de los dioses y cómo usar sus poderes.
 
 %%%%
 tutorial5 dungeon_overview

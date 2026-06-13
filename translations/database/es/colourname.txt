@@ -16,6 +16,749 @@ indigo
 violeta
 
 %%%%
+misc_colour
+
+aero
+
+alabastro
+
+alizarin crimson
+
+almendra
+
+amaranto
+
+amaranto rosa
+
+amaranto púrpura
+
+amatista
+
+ametrina
+
+amber
+
+annatto
+
+manzana verde
+
+manzana roja
+
+manzana amarilla
+
+apricot
+
+aqua
+
+aquamarine
+
+alcachofa verde
+
+verde espárrago
+
+atrovirens
+
+aubergine
+
+auburn
+
+aureolin
+
+avocado verde
+
+azure
+
+azurite
+
+bebé azul
+
+banana amarilla
+
+beetroot red
+
+beige
+
+bisque
+
+bistre
+
+anaranjado
+
+sangre naranja
+
+sangre roja
+
+arándanos
+
+blush
+
+bole
+
+bronce
+
+bronce
+
+marrón
+
+marrón ocre
+
+Buff
+
+Burgundy
+
+burlywood
+
+amber
+
+quemado ocre
+
+naranja quemada
+
+quemado sienna
+
+quemado umber
+
+bizancio
+
+cadmio rojo
+
+verde cadmio
+
+cadmio naranja
+
+cadmio amarillo
+
+cameo rosa
+
+dulce manzana verde
+
+dulce manzana roja
+
+dulce de manzana amarillo
+
+caput mortuum
+
+cardenal rojo
+
+carmine
+
+Carnación
+
+carne
+
+zanahoria naranja
+
+cattleya
+
+celadon
+
+celeste
+
+celeste
+
+cerise
+
+cerulean
+
+carbón vegetal
+
+gráfico
+
+gráfico verde
+
+cereza roja
+
+castaño
+
+China azul
+
+chocolate
+
+cosmos de chocolate
+
+cromo verde
+
+cromo naranja
+
+cromo amarillo
+
+cinnabar
+
+canela
+
+cítricos
+
+citrine
+
+citron
+
+azul nublado
+
+cobalto azul
+
+cobalto verde
+
+cobalto violeta
+
+cobalto amarillo
+
+café
+
+celulosa
+
+cobre
+
+coquelicot
+
+coral rosa
+
+cordovan
+
+crema
+
+crimson
+
+crocoite
+
+cyan
+
+ciclámenes
+
+sangre del dragón
+
+pato azul
+
+dun
+
+naranja polvorienta
+
+rosa polvorienta
+
+ébano
+
+ecruc
+
+berenjena
+
+azul eléctrico
+
+electric indigo
+
+electric magenta
+
+púrpura
+
+violeta eléctrica
+
+esmeralda
+
+eminencia
+
+erin
+
+Evergreen
+
+Fallo
+
+rojo
+
+fandango
+
+Fawn
+
+feldgrau
+
+heleno verde
+
+naranja
+
+fuego rojo
+
+flax
+
+flirteo
+
+azul fluorescente
+
+bosque verde
+
+fuchsia
+
+fuchsine
+
+fulvibles
+
+gamboge
+
+garnet
+
+glaucous
+
+goblin blue
+
+Bufanda goblin
+
+tierra verde
+
+verde ocre
+
+Greenockite
+
+greige
+
+oro
+
+oro ocre
+
+oro amapola
+
+marrón dorado
+
+Goldenrod
+
+goshenite
+
+gridelin
+
+Grullo
+
+haint azul
+
+hansa amarillo
+
+harlequin
+
+heliodor
+
+heliotrope
+
+hibisco
+
+caliente rosa
+
+cazador verde
+
+cazador naranja
+
+hyacinth
+
+hyacinth azul
+
+icterine
+
+azul imperial
+
+Naranja imperial
+
+Morado imperial
+
+Rojo imperial
+
+Amarillo imperial
+
+indanthrone blue
+
+independencia
+
+irresistible
+
+iris
+
+isabelline
+
+verde hiedra
+
+jade
+
+jale
+
+jazmine
+
+jonquil
+
+kachi indigo
+
+khaki
+
+kobicha
+
+kombu verde
+
+labradorita
+
+lapislázuli
+
+verde laurel
+
+lavender
+
+lavender azul
+
+lavanda púrpura
+
+lavender indigo
+
+lavender magenta
+
+rosa de lavanda
+
+hoja verde
+
+verde
+
+limón amarillo
+
+libertad
+
+lilac
+
+lime verde
+
+liseran morado
+
+lujurioso gallant
+
+loco
+
+magenta
+
+Mahogany
+
+malachite
+
+mandarin
+
+violeta manganeso
+
+mango
+
+Marigold
+
+azul marino
+
+marmalade
+
+Maroon
+
+mauve
+
+mauve taupe
+
+mauveine
+
+maxixe
+
+mazarine
+
+amarillo
+
+medianoche azul
+
+mikado
+
+mindaro
+
+minium
+
+menta verde
+
+morganite
+
+mañana azul
+
+verde
+
+mulberry
+
+mostaza marrón
+
+mostaza verde
+
+mostaza amarilla
+
+Myrtle
+
+Nattier
+
+azul marino
+
+marina
+
+Nickel
+
+nuez moscada
+
+nyanza
+
+Ochre
+
+octarina
+
+viejo helio
+
+viejo heliotrope
+
+vieja rosa
+
+verde oliva
+
+olivo drab
+
+oliva ocre
+
+Olivine
+
+Olo
+
+naranja ocre
+
+orquídea
+
+opiment
+
+oxblood
+
+palatinato
+
+palatinado azul
+
+palatinado morado
+
+melocotón
+
+pera verde
+
+pera amarilla
+
+peridot
+
+periwinkle
+
+persimmon
+
+Phlox
+
+azul picoteado
+
+verde
+
+pinar
+
+rosa
+
+lavanda rosa
+
+pistacho
+
+font
+
+ponceau
+
+amapola roja
+
+polvo azul
+
+prase
+
+primrose amarillo
+
+cachorro
+
+calabaza
+
+morado
+
+morado
+
+morado taupe
+
+purpura
+
+purpureus
+
+quartz
+
+quercitron
+
+frambuesa
+
+rosa de frambuesa
+
+realgar
+
+esmeralda roja
+
+rojo ocre
+
+rej
+
+cohete verde
+
+Rockmelon
+
+rosa
+
+cuarzo de rosa
+
+Rose vale
+
+rúbrica
+
+rubí
+
+rubio azul
+
+rupias
+
+russet
+
+óxido
+
+safflower naranja
+
+Saffron
+
+salmón
+
+sanguine
+
+Salto verde
+
+zafiro
+
+azul marino
+
+verde
+
+sepia
+
+Scarlet
+
+esmeralda
+
+rosa impactante
+
+sienna
+
+plata
+
+rosa de plata
+
+sinopia
+
+Skobeloff
+
+cielo azul
+
+cielo magenta
+
+pizarra
+
+azul pizarra
+
+Smalt
+
+smaragdine
+
+violeta de brujo
+
+primavera
+
+verde primavera
+
+acero azul
+
+fresa roja
+
+estroncio amarillo
+
+tamarind
+
+tang azul
+
+tangerina
+
+taupe
+
+tawny
+
+té verde
+
+teal
+
+teal azul
+
+teal verde
+
+telemagenta
+
+terracotta
+
+terre verte
+
+esteto
+
+ojo de tigre
+
+titanio amarillo
+
+tomate rojo
+
+topacio
+
+cúrcuma
+
+turquesa
+
+ulfire
+
+ultramarine
+
+umber
+
+vainilla
+
+verdigris
+
+vermilión
+
+verónica
+
+viridian
+
+Nogal
+
+sandía verde
+
+sandía roja
+
+Wenge
+
+trigo
+
+vino
+
+wisteria
+
+xanthic
+
+xanthous
+
+Yam
+
+amarillo ocre
+
+zaffre
+
+zinc amarillo
+
+zinnwaldite
+
+zomp
+
+verde calabacín
+
+%%%%
 mono_colour
 
 negro
@@ -33,7 +776,7 @@ w:40
 #
  VAR1  
 
- VAR2  
+ VAR2
 
 %%%%
 any_pattern
@@ -91,19 +834,65 @@ triángulos
 whorls
 
 %%%%
-any_glowing_colour
+glowing_adj
 
- VAR0       
+brillante
+
+brillante
+
+oscuro.
+
+dull
+
+dusky
+
+débil
+
+gleaming
+
+brillante
+
+intenso
+
+luminoso
+
+lúcido
+
+lujurioso
+
+mottled
+
+#
+
+pálida.
+
+shimmering
+
+brillando
+
+vívido
 
 %%%%
-any_glowing_colour_pattern
+any_glowing_colour
+
+VAR0
+
+%%%%
+any_colour_pattern
 
  VAR0       
 
  VAR2      VAR3      VAR4  
 
+%%%%
+any_glowing_colour_pattern
+
+VAR0       
+
+ VAR2      VAR3      VAR4  
+
  VAR5                                                                                                                                                                                                                                                            
 
- VAR8                                                                                                                                                                                                                                                            
+ VAR8
 
 %%%%

@@ -1,8 +1,120 @@
 %%%%
+weapon
+
+# armas palabras clave específicas (ver rand wpn.txt)
+ VAR0 
+
+ VAR1  
+
+w:1
+ VAR2 
+
+w:8
+ VAR3 
+
+w:1
+ VAR4     VAR5 
+
+w:6
+ VAR6     VAR7  
+
+ VAR8  
+
+w:3
+ VAR9      
+
+w:3
+del   VAR11 
+
+w:2
+ VAR12      VAR13 
+
+w:5
+ VAR14     VAR15  
+
+w:5
+del   VAR16 
+
+w:2
+del   VAR17  
+
+w:7
+ VAR18  
+
+w:5
+ VAR19  
+
+w:8
+ VAR20  
+
+w:8
+ VAR21  
+
+ VAR22  
+
+w:8
+ VAR23 
+
+w:7
+ VAR24 
+
+w:5
+ VAR25  
+
+w:4
+del   VAR26  
+
+w:1
+ VAR27  
+
+w:5
+ VAR28  
+
+w:7
+ VAR29  
+
+w:5
+ VAR30  
+
+w:30
+"  VAR31  "
+
+# palabras clave generales (ver rand all.txt)
+w:5
+ VAR32  
+
+w:5
+ VAR33 
+
+18
+ VAR34 
+
+ VAR35     VAR36  
+
+w:5
+ VAR37  
+
+w:9
+ VAR38      VAR39  
+
+w:4
+de los dioses   VAR40  
+
+w:4
+del   VAR41   Dios
+
+w:2
+ VAR42   ,   VAR43  
+
+# keywords hardcoded
+w:1
+ VAR44 
+
+%%%%
 talisman
 
 # TODO?
- VAR0 
+ VAR0
 
 %%%%
 armour
@@ -106,7 +218,221 @@ w:1
  VAR42  
 
 w:15
- VAR43  
+ VAR43
+
+%%%%
+jewellery
+
+# joyas especiales (ver rand all.txt)
+w:3
+del   VAR0 
+
+ VAR1  
+
+ VAR2 
+
+# as defined for weapons (see rand wpn.txt)
+del   VAR3 
+
+w:5
+ VAR4     VAR5 
+
+w:17
+ VAR6  
+
+14
+ VAR7  
+
+ VAR8  
+
+# as defined for armour (see rand arm.txt)
+#
+del   VAR9 
+
+w:3
+ VAR10 
+
+w:3
+ VAR11          
+
+w:5
+ VAR13  
+
+#
+ VAR14 
+
+w:12
+ VAR15  
+
+w:2
+"  VAR16  "
+
+Lo mismo para los tres tipos (ver rand all.txt)
+13
+ VAR17  
+
+ VAR18  
+
+#
+ VAR19     VAR20 
+
+w:4
+de los dioses   VAR21  
+
+w:4
+del   VAR22   Dios
+
+w:2
+ VAR23   ,   VAR24  
+
+de Xom   VAR25  
+
+w:7
+ VAR26  
+
+13
+ VAR27  
+
+ VAR28      VAR29  
+
+ VAR30     VAR31      VAR32  
+
+%%%%
+Trog weapon
+
+# Los nombres que contienen batalla y muerte son más probables
+#
+ VAR0 
+
+w:5
+ VAR1     VAR2 
+
+#
+ VAR3 
+
+w:5
+ VAR4     VAR5 
+
+#
+ VAR6  
+
+w:5
+ VAR7     VAR8  
+
+w:7
+ VAR9 
+
+w:15
+ VAR10 
+
+w:30
+ VAR11  
+
+w:1
+of Trog
+
+#
+de Trog   VAR12 
+
+de Trog   VAR13 
+
+w:15
+del   VAR14 
+
+w:15
+ VAR15  
+
+ VAR16 
+
+w:15
+ VAR17  
+
+#
+ VAR18  
+
+#
+ VAR19  
+
+w:15
+ VAR20  
+
+w:15
+ VAR21  
+
+w:15
+ VAR22  
+
+ VAR23 
+
+#
+ VAR24     VAR25  
+
+ VAR26  
+
+del   VAR27  
+
+w:15
+ VAR28  
+
+ VAR29  
+
+ VAR30  
+
+ VAR31         
+
+w:30
+"  VAR33  "
+
+"   VAR34      VAR35   "
+
+%%%%
+Okawaru weapon
+
+# Basic use normal set
+w:400
+ VAR0 
+
+# with a few special cases
+w:2
+ VAR1     VAR2 
+
+w:3
+de Okawaru   VAR3 
+
+w:1
+de Okawaru,   VAR4  
+
+# y la probabilidad de bonificación para algunos de los temas más inofensivos
+ VAR5 
+
+w:5
+ VAR6  
+
+w:3
+ VAR7  
+
+w:5
+ VAR8  
+
+w:2
+ VAR9 
+
+w:1
+del   VAR10 
+
+w:5
+del   VAR11 
+
+w:5
+ VAR12  
+
+w:2
+ VAR13  
+
+%%%%
+Okawaru robe
+
+@Okawaru armour@
 
 %%%%
 Okawaru body armour
@@ -142,7 +468,46 @@ w:1
  VAR8  
 
 w:2
- VAR9 
+ VAR9
+
+%%%%
+Xom weapon
+
+# Aumentó las posibilidades (obviamente!)
+w:5
+ VAR0 
+
+w:5
+de Xom   VAR1 
+
+w:2
+de Xom   VAR2 
+
+w:2
+"Xom,   VAR3   y   VAR4  "
+
+w:2
+ VAR5          
+
+# Usa el nombre largo
+w:1
+ VAR7  
+
+w:1
+ VAR8  
+
+w:400
+ VAR9  
+
+# ¿Y por qué no algunos de los otros nombres?
+ VAR10  
+
+ VAR11  
+
+%%%%
+Xom robe
+
+@Xom armour@
 
 %%%%
 Xom body armour
@@ -180,7 +545,163 @@ w:400
 
 # ¿Por qué no otros nombres?
 # (sadly, some weapon names don't have sense even for Xom)
+ VAR8
+
+%%%%
+Xom jewellery
+
+# Aumentó las posibilidades (obviamente!)
+w:5
+ VAR0 
+
+w:5
+de Xom   VAR1 
+
+w:2
+de Xom   VAR2 
+
+w:2
+ VAR3   Xom
+
+# Usa el nombre largo
+w:1
+ VAR4 
+
+w:1
+ VAR5 
+
+w:1
+ VAR6  
+
+w:1
+ VAR7  
+
+w:300
  VAR8  
+
+# ¿Por qué no otros nombres?
+# (sadly, some weapon names don't have sense even for Xom)
+ VAR9  
+
+%%%%
+Ashenzari
+
+w:100
+ VAR0          
+
+w:100
+ VAR2     VAR3 
+
+w:100
+"  VAR4     VAR5  "
+
+w:50
+"  VAR6    de   VAR7  "
+
+w:100
+"   VAR8    de la   VAR9 "
+
+#
+"                  
+
+#
+del   VAR12  
+
+#
+ VAR13             
+
+#
+ VAR15     VAR 16  
+
+#
+ VAR17     VAR18  
+
+#
+"Compartir mi   VAR19  "
+
+#
+"Conmigo"
+
+#
+"  VAR21   Juntos"
+
+ VAR22     VAR23 
+
+ VAR24     VAR25  
+
+del destino   VAR26  
+
+w:5
+de la aromatización
+
+w:5
+"¿En qué Conocimiento de Costo?"
+
+w:5
+"He aquí la eternidad"
+
+w:5
+de Cremastomancia
+
+w:5
+de Curses y Poder
+
+w:5
+of Desmomancy
+
+w:5
+del ojo en el cielo
+
+w:5
+"Gaze On Infinity"
+
+w:5
+"Yo sabía que harías eso"
+
+w:5
+"Yo lo previé"
+
+w:5
+de Ouranomancy
+
+w:5
+"Overhang to Understanding"
+
+w:5
+"Per Aspera Ad Scientiam"
+
+w:5
+de Panopticon
+
+w:5
+de la Sabiduría Star-Bound
+
+w:5
+Gnosis Supernal
+
+w:5
+de Conocimiento Supernal
+
+w:5
+of Supernal Understanding
+
+w:5
+de la Sabiduría Supernal
+
+w:5
+"Thunder Perfect Mind"
+
+w:5
+del legado de Toth-Mos
+
+w:5
+de la Gaza Inflexible
+
+w:5
+del Wild Blue Yonder
+
+w:1
+"Aficionado oscilante"
 
 %%%%
 _ashenzari_object_
@@ -387,6 +908,62 @@ Sphere
 Welkin
 
 %%%%
+general appearance
+
+brillantemente brillante
+
+fumar
+
+anotado
+
+torcido
+
+shimmering
+
+warped
+
+transparente
+
+translúcido
+
+incrustado
+
+separados
+
+slimy
+
+pulido
+
+bien.
+
+incandescente
+
+antigua
+
+débilmente brillante
+
+vapor
+
+deslumbrante
+
+masterwork
+
+w:2
+smouldering
+
+w:5
+brillante
+
+w:2
+zumbido
+
+w:5
+desvanecimiento
+
+w:2
+negro
+
+%%%%
 weapon appearance
 
 iridiscente
@@ -563,6 +1140,62 @@ pearl
 tiger eye
 
 ametrine
+
+%%%%
+_jewellery appearance_
+
+scintillating
+
+sparkling
+
+flickering
+
+glittering
+
+smoking
+
+scorched
+
+shimmering
+
+wavering
+
+warped
+
+transparent
+
+translucent
+
+pitted
+
+slimy
+
+fine
+
+radiant
+
+ancient
+
+brightly glowing
+
+faintly glowing
+
+steaming
+
+heavily runed
+
+vibrating
+
+twitching
+
+coiled
+
+bound
+
+clouded
+
+w:2
+serpentine
 
 %%%%
 _ring material_

@@ -1,7 +1,7 @@
 %%%%
 imp_taunt
 
- VAR0   , you   VAR1   !
+VAR0   , you   VAR1   !
 
 %%%%
 run_or_give_up
@@ -10,7 +10,7 @@ w:6
  VAR0 
 
 w:1
- VAR1  
+ VAR1
 
 %%%%
 demon_taunt
@@ -22,7 +22,7 @@ w:2
  VAR2  , you   VAR3   !
 
 w:3
- VAR4  
+ VAR4
 
 %%%%
 demon_taunt_special
@@ -34,6 +34,128 @@ Tu   VAR0   será mi   VAR1   !
  VAR4     VAR5   !
 
 I   VAR6     VAR7   tu   VAR8    !
+
+%%%%
+run_away
+
+Lejos contigo
+
+Atrás contigo
+
+Begone
+
+Bolt
+
+Crawl casa
+
+Decamp
+
+Escape
+
+Flee
+
+Fly
+
+Vete.
+
+Tómate de aquí.
+
+Renuncia
+
+Vete y no regreses
+
+Vete.
+
+Fuera, fuera
+
+Quit
+
+Quita tu hedor
+
+Regresa cuando viniste
+
+Huye.
+
+Scamper fuera
+
+Scamper de aquí
+
+Scamper home
+
+Scuttle off
+
+Slither lejos
+
+Por consiguiente,
+
+Slither home
+
+Toma tu cara.
+
+Gire la cola
+
+%%%%
+give_up
+
+Abandona la esperanza
+
+Acepta tu fracaso
+
+Acepta tu caída
+
+Acepta tu condena
+
+Admitir la derrota
+
+Ruega por la misericordia
+
+Capitulado
+
+Despair
+
+Despond
+
+Discúlpate.
+
+Embrace submission
+
+Abrace tu dedición
+
+Abrace tu condena
+
+Abrace tu fracaso
+
+Abraza tu caída
+
+Enfrente a tu fuga
+
+Enfrente a tu venganza.
+
+Flounder
+
+Entra.
+
+Renuncia
+
+Kneel
+
+Quail
+
+Quit
+
+Surrender
+
+Succumb
+
+Submit
+
+Tremble
+
+Renuncia de esperanza
+
+Repent
+
+Prueba la derrota
 
 %%%%
 whilst_thou_can
@@ -64,7 +186,7 @@ w:3
  VAR0 
 
 w:1
- VAR1  
+ VAR1
 
 %%%%
 will_or_shall
@@ -166,6 +288,19 @@ cursi
 snacklet
 
 boca llena
+
+%%%%
+generic_insult
+
+ VAR0          VAR2  
+
+%%%%
+insult_adjective1
+
+w:5
+ VAR0 
+
+@insult general adj1@
 
 %%%%
 insult general adj1
@@ -327,6 +462,84 @@ sin valor
 levadura
 
 %%%%
+insult elf adj1
+
+débil
+
+enfermo
+
+fragil
+
+delicado
+
+frágil
+
+frumpy
+
+brittle
+
+tierna
+
+lunar
+
+pintado
+
+corazón mentiroso
+
+dandy
+
+peso pluma
+
+flimsy
+
+rootless
+
+dando vueltas
+
+puntiagudo
+
+shawky
+
+prissi
+
+suprimido
+
+%%%%
+insult felid adj1
+
+mate
+
+gungy
+
+rabioso
+
+picayune
+
+weenchy
+
+crummy
+
+daggy
+
+feral
+
+estragos
+
+pegajoso
+
+musky
+
+slinking
+
+%%%%
+insult_adjective2
+
+w:5
+ VAR0 
+
+@insult general adj2@
+
+%%%%
 insult general adj2
 
 base-court
@@ -468,6 +681,172 @@ Weeb-spouting
 weevil-witted
 
 wibble-sucking
+
+%%%%
+insult dwarf adj2
+
+mierda.
+
+grit-sucking
+
+muck-plodding
+
+piedra-broke
+
+pelf-dandling
+
+fall-botching
+
+gravillas
+
+boodle-bothering
+
+col-coddling
+
+rinoceronte
+
+tigh-bit
+
+suciedad
+
+%%%%
+insult felid adj2
+
+gusano
+
+Mange cubierto
+
+de ojos descarados
+
+mortal
+
+de ojos cortados
+
+Grisante
+
+venta de manchas
+
+ensuciado
+
+llavero
+
+Rot-lapping
+
+%%%%
+insult tengu adj2
+
+hueca.
+
+de plumas
+
+beak-witted
+
+hen-pecked
+
+ligero
+
+frágiles
+
+pajarito
+
+peso pluma
+
+paloma
+
+crow-beaked
+
+magpie-eyed
+
+maldito
+
+%%%%
+insult mummy adj2
+
+# relativa a la sequedad y la inflamabilidad
+desicado
+
+seco
+
+musty
+
+inflamable
+
+inflamable
+
+ignitable
+
+combustible
+
+smouldering
+
+# pertenecientes a vendas
+encogido
+
+crepe-tape
+
+duct-taped
+
+fraying
+
+mano-ruido
+
+herida estrecha
+
+de alto nivel
+
+heterosexuales
+
+tumbada
+
+w:30
+@insult undead adj2@
+
+%%%%
+insult vampire adj2
+
+bateando
+
+sangre chupada
+
+de luz
+
+pallid
+
+sallow
+
+cara de crema
+
+¿qué?
+
+anémica
+
+sin sangre
+
+exsanguinario
+
+#
+@insult undead adj2@
+
+%%%%
+insult undead adj2
+
+muerte
+
+sin vida
+
+undead
+
+como un cadáver
+
+deado
+
+%%%%
+insult_noun
+
+w:5
+ VAR0 
+
+@insult general noun@
 
 %%%%
 insult general noun
@@ -677,5 +1056,178 @@ de gusano
 Yak-dropping
 
 Zombi-fodder
+
+%%%%
+small_food
+
+snackling
+
+crunchlet
+
+media comida
+
+asiento de cena
+
+snacklet
+
+noshlet
+
+morsel
+
+mug-up
+
+boca abajo
+
+crunch-chow
+
+snack-pap
+
+grub
+
+boca llena
+
+media horquilla
+
+weenchy-treat
+
+%%%%
+insult felid noun
+
+gatito
+
+fleabag
+
+vermin
+
+loo-gargler
+
+pate-warmer
+
+pander-nanny
+
+hissie
+
+cocinar grasa
+
+sand-tongue
+
+scamp
+
+furfop
+
+toe-scratcher
+
+filth-coat
+
+gob-dollager
+
+%%%%
+insult spriggan noun
+
+w:100
+ VAR0 
+
+de ratas
+
+cuatrimestre
+
+nisette
+
+fizzle-flop
+
+hechizo-botch
+
+débil
+
+débil
+
+pinchbeck-pixie
+
+tobillo-biter
+
+bootstain
+
+nano-nebbish
+
+sopling
+
+violeta hundido
+
+sissy-prig
+
+coño
+
+Súpsneak
+
+%%%%
+insult minotaur noun
+
+bovine
+
+brisket
+
+bull-brain
+
+cud-chewer
+
+calf-wit
+
+coágulos
+
+cretino
+
+vaca
+
+ganado
+
+cuerno-bestia
+
+pastel de carne
+
+albóndiga
+
+mooer
+
+rump-roast
+
+ruminante
+
+ternera
+
+caminando señor
+
+%%%%
+insult mummy noun
+
+bolsa de polvo
+
+deado
+
+fogey
+
+linensack
+
+bolso de tela
+
+tombling
+
+mamá.
+
+shroud
+
+papel en papel
+
+rollo de vendas
+
+paquete de gasa
+
+de algodón
+
+tejido envolvente
+
+# susceptibilidad al fuego
+pyre
+
+tinder
 
 %%%%

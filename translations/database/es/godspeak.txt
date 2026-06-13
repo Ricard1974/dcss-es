@@ -1,4 +1,54 @@
 %%%%
+Xom general effect
+
+Snickers.
+
+"¿Qué tal esto?"
+
+"Vamos a probar un experimento, ¿eh?"
+
+w:1
+"Me pregunto... ¿Qué hace este botón?"
+
+%%%%
+Xom general gift
+
+Xom le otorga un regalo!
+
+"Aquí."
+
+La naturaleza generosa de Xom se manifiesta.
+
+Xom le otorga un implemento de algún tipo.
+
+"¡Toma este instrumento de algo!"
+
+"Toma esta muestra de mi estima."
+
+Sonríe sobre ti.
+
+"¡Catch!"
+
+%%%%
+Xom orb gift
+
+"¿Esto es lo que querías?"
+
+"Muchos aventureros han buscado este Orb."
+
+w:3
+"¡Ponder mi increíble Orb!"
+
+%%%%
+Xom single summon
+
+"¡Serve al mortal, hija mía!"
+
+"¡Serve el juguete, hija mía!"
+
+Xom abre una puerta.
+
+%%%%
 Xom multiple summons
 
 "¡Serve al mortal, hijos míos!"
@@ -34,6 +84,15 @@ Xom añade verduras frescas a este plato de Dungeon.
 
 w:5
 Xom planta algunos frijoles mágicos en el suelo.
+
+%%%%
+Xom scenery generic
+
+Xom brevemente toca su entorno.
+
+Xom se queja del paisaje.
+
+Xom altera the Dungeon alrededor tuyo.
 
 %%%%
 Xom scenery open_door
@@ -124,6 +183,30 @@ El mundo gira salvajemente como anillos de risa jovial de Xom.
 
 w:2
 "¡Tu cartera de monedas se ha vuelto demasiado cómoda en su pequeño mundo, mortal!"
+
+%%%%
+Xom zero miscast effect
+
+Xom casi te nota.
+
+La atención de Xom casi se vuelve hacia ti por un momento.
+
+El poder de Xom casi te toca por un momento.
+
+Casi escuchas la risa maníaca de Xom.
+
+%%%%
+_xom_number_
+
+two
+
+three
+
+four
+
+five
+
+six
 
 %%%%
 Xom feature lava
@@ -224,7 +307,7 @@ Tendriles de electricidad se arrastran por   VAR0   .
 %%%%
 Xom feature stone arch
 
- VAR0  brevemente muestra un prado soleado en el otro lado.
+VAR0  brevemente muestra un prado soleado en el otro lado.
 
  VAR1   muestra brevemente un desperdicio sin vida al otro lado.
 
@@ -255,7 +338,7 @@ Un espíritu imperceptible envía ondas a través de   VAR1  a tu lado.
 %%%%
 Xom underfoot airborne general
 
- VAR0  Parece que se escapan de debajo de ti!
+VAR0  Parece que se escapan de debajo de ti!
 
  VAR1  Parece que te apresures!
 
@@ -406,7 +489,7 @@ waltz
 %%%%
 acrobatic_move_name
 
- VAR0 stand
+VAR0 stand
 
 cartucho
 
@@ -456,7 +539,7 @@ Tú compulsivamente aplaude sus   VAR1      VAR2    veces.
 %%%%
 Xom cloak slot
 
- VAR0   billows in an unfelt wind.
+VAR0   billows in an unfelt wind.
 
  VAR1   brevemente se envuelve alrededor de su   VAR2   !
 
@@ -465,7 +548,7 @@ Xom cloak slot
 %%%%
 Xom helmet slot
 
- VAR0   salta al aire, gira brevemente, y luego vuelve a aterrizar en tu   VAR1   !
+VAR0   salta al aire, gira brevemente, y luego vuelve a aterrizar en tu   VAR1   !
 
 %%%%
 Xom offhand slot
@@ -477,17 +560,17 @@ Xom offhand slot
 %%%%
 Xom gloves slot
 
- VAR0   crece brevemente   VAR1   ¡Dedos extra!
+VAR0   crece brevemente   VAR1   ¡Dedos extra!
 
 %%%%
 Xom boots slot
 
- VAR0   crece a un tamaño enorme, y luego se contrae de nuevo!
+VAR0   crece a un tamaño enorme, y luego se contrae de nuevo!
 
 %%%%
 Xom amulet slot
 
- VAR0   pulsa!
+VAR0   pulsa!
 
  VAR1             , entonces vuelve a la normalidad.
 
@@ -496,7 +579,7 @@ Xom amulet slot
 %%%%
 Xom gizmo slot
 
- VAR0   jiggles!
+VAR0   jiggles!
 
  VAR1     escapes   VAR2   humo!
 
@@ -522,7 +605,7 @@ La piel en   VAR0   crece más a un ritmo alarmante, y luego vuelve a la normali
 %%%%
 Xom leather armour
 
- VAR0   crece brevemente la piel, luego vuelve a la normalidad.
+VAR0   crece brevemente la piel, luego vuelve a la normalidad.
 
 %%%%
 Xom robe
@@ -573,6 +656,21 @@ Xom drinkless confusion
 El poder de Xom toca tu cuerpo y tu mente por un momento.
 
 %%%%
+Xom suffering
+
+"Me has disgustado, mortal."
+
+"Has crecido demasiado confiado por tu mero valor."
+
+El poder de Xom te toca por un momento.
+
+Oíste la risa maníaca de Xom.
+
+"¡Sufre!"
+
+La mala atención de Xom te llama por un momento.
+
+%%%%
 Xom torment all
 
 Xom atormenta a los vivos!
@@ -585,6 +683,58 @@ Xom's malign attention turn towards your situation for a moment.
 
 w:5
 La mano de Xom azota a todas las almas presentes.
+
+%%%%
+Xom hostile monster
+
+"¡Hora de divertirse!"
+
+"Lucha para sobrevivir, mortal".
+
+"Vamos a ver si es lo suficientemente fuerte para sobrevivir todavía."
+
+Oíste la risa maníaca de Xom.
+
+%%%%
+Xom send in the clones
+
+Xom siente que debería haber más de ustedes para compartir con the Dungeon.
+
+Xom Destruye suavemente un espejo sobre su [   VAR0  previo    VAR1  ].
+
+"¡Multiply and go forth!"
+
+%%%%
+Xom brain drain
+
+#
+Xom desplaza la mayor parte de tu magia por un momento.
+
+#
+Xom te revela uno de los grandes y terribles secretos de la magia.
+
+#
+Xom curiosamente canaliza la energía fuera de su cuerpo.
+
+Xom recoge tu mente y accidentalmente lo deja caer.
+
+Xom te da un dolor de cabeza terrible.
+
+"No necesitas esto, ¿verdad?"
+
+%%%%
+Xom drained brain
+
+#
+¡Tus bobos mágicos fuera de tu mente carcajada!
+
+¡Tu poder y tus pensamientos están abrumados por los creadores de magia!
+
+¡Tu magia se desgarra de tu [                      ]!
+
+¡Tu magia fluye a través de tu [  VAR2   viv    VAR3  ]!
+
+¡Tu magia se arranca a través de tu [   VAR4   viv     VAR5  ]!
 
 %%%%
 Xom banishment
@@ -615,6 +765,15 @@ Xom revert other banishment
 "¡No lo haces!"
 
 Xom te lleva de vuelta a la silenciosa comparable de the Dungeon.
+
+%%%%
+Xom chaos upgrade
+
+El poder de Xom toca un arma cercana.
+
+"Tiene un sabor al caos, mortal."
+
+Cortones.
 
 %%%%
 Xom noise
@@ -692,9 +851,61 @@ Xom exige un diálogo dramático!
 Xom otorga una voz terrible a los sin voz.
 
 %%%%
+Xom potion effect
+
+"¡Ve y destruye!"
+
+"¡Váyanse y causen estragos, mortales!"
+
+Xom le otorga un favor menor.
+
+Sonríe sobre ti.
+
+%%%%
 Xom cleaving
 
 @Xom potion effect@
+
+%%%%
+Xom divination
+
+"¡Mira lo que veo, hija mía!"
+
+Xom le otorga información.
+
+Esmirques.
+
+%%%%
+Xom spell effect
+
+¡El poder fluye a través de ti!
+
+Xom juega con la realidad por un momento.
+
+Xom guffaws.
+
+%%%%
+Xom cloud trail
+
+"¡Váyanse y redecoren, hija mía!"
+
+"Este lugar necesita un poco más de atmósfera"
+
+%%%%
+Xom good monster polymorph
+
+"¡Esta sección Mightserá mejor!"
+
+"Hum-dee-hum-dee-hum..."
+
+Xom's power touches your surrounding.
+
+Oíste que el tonto avuncular de Xom.
+
+%%%%
+Xom bad monster polymorph
+
+@Xom buen monstruo polimorfo
 
 %%%%
 Xom wave of despair
@@ -978,6 +1189,35 @@ w:1
 "No es divertido y juegos a menos que alguien pierda un ojo."
 
 %%%%
+Xom laughter
+
+¡Guffaws!
+
+Xom ruge con risa!
+
+Xom piensa que esto es hilarante!
+
+Xom es muy divertido!
+
+Xom cackles wildly!
+
+¡Snickers!
+
+Xom ríe nastily!
+
+Xom aullidos con risa!
+
+Xom irrumpe en risa!
+
+¡Gritas locamente!
+
+¡Titters!
+
+Xom se ríe profundamente!
+
+¡Cortones!
+
+%%%%
 _xom_plaything_
 
 # piety > 180 and > 80, respectively
@@ -1052,6 +1292,11 @@ w:40
 
 w:5
 "¡Todo merece morir!"
+
+%%%%
+Ashenzari welcome
+
+Ashenzari dice: Partake of my vision. Pargo de mi maldición.
 
 %%%%
 Beogh penance
@@ -1228,6 +1473,17 @@ Okawaru welcome
 Okawaru dice: ¡Tráeme la gloria en combate!
 
 %%%%
+Pakellas penance
+
+Pakellas dice: Ese es un enfoque que no funcionará aquí.
+
+Pakellas dice: Resultados decepcionantes hasta ahora.
+
+Pakellas dice: Es posible que tengamos que interrumpir el experimento a este ritmo.
+
+Pakellas dice: ¡No se interponga en el camino del progreso!
+
+%%%%
 Pakellas welcome
 
 Pakellas dice: Hora de continuar el experimento.
@@ -1364,7 +1620,7 @@ Snickers.
 Titters.
 
 w:3
- VAR0 
+ VAR0
 
 %%%%
 _xom_welcome_rare_
@@ -1477,7 +1733,7 @@ Zin penance
 
 Zin te castiga por tu desobediencia de la Ley.
 
-Zin explica severamente la importancia de   VAR0 
+Zin explica severamente la importancia de   VAR0
 
 %%%%
 Zin welcome

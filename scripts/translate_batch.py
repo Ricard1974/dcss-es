@@ -251,11 +251,30 @@ def parse_entries(filepath: Path) -> List[Tuple[str, str]]:
     blocks = re.split(r"\n?%%%%\s*\n?", content)
     for block in blocks:
         block = block.strip()
-        if not block or block.startswith("#"):
+        if not block:
             continue
-        lines = block.split("\n", 1)
-        key = lines[0].strip()
-        value = lines[1].strip() if len(lines) > 1 else ""
+        # Saltar líneas de comentario y secciones de cabecera
+        # La primera entrada puede ir sin %%%% delante (precedida de comentarios)
+        lines = block.split("\n")
+        key = None
+        for line in lines:
+            stripped = line.strip()
+            if stripped and not stripped.startswith("#"):
+                key = stripped
+                break
+        if key is None:
+            continue
+        # El valor es todo después del título
+        value_lines = []
+        found_key = False
+        for line in lines:
+            stripped = line.strip()
+            if not found_key:
+                if stripped and not stripped.startswith("#"):
+                    found_key = True
+                continue
+            value_lines.append(line)
+        value = "\n".join(value_lines).strip()
         if key:
             entries.append((key, value))
 

@@ -4,6 +4,13 @@ __(_suffix_examine
 Ha sido encantada para que dance en el aire y pueda atacar por su cuenta.
 
 %%%%
+Agnes
+
+Este Spriggan está envejecido y climatizado de años de viaje lejos de los bosques
+y pantanos que son el hogar de sus parientes. Su elección de arma y velocidad asombrosa
+ambos hablan con el entrenamiento que tuvo. ¡Sacadla en vuestro peligro!
+
+%%%%
 Aizul
 
 En una ocasión fue la principal serpiente guardiana de un legendario tesoro,
@@ -726,6 +733,11 @@ Esbozo de un gran dragón sinuoso es apenas perceptible detrás. Su malicia
 Es palpable.
 
 %%%%
+acid blob
+
+Un trozo de carne enfermamente pustulenta, goteando con ácido letal.
+
+%%%%
 acid dragon
 
 Un pequeño dragón con brillantes escalas amarillas, su boca goteando con
@@ -1283,6 +1295,11 @@ daeva
 
 Una figura alambrada que irradia un aura de luz dorada brillante. Es una
 agente divino del Shining One.
+
+%%%%
+dancing weapon
+
+Un arma encantada para bailar a través del aire y atacar bajo su propio poder.
 
 %%%%
 dart slug
@@ -2119,6 +2136,12 @@ howler monkey
 
 Un primate agresivamente territorial, conocido por la asombrosa variedad y
 volumen de ruido que puede producir.
+
+%%%%
+human
+
+Una especie de parpadeo sin pelo. Los enanos piensan como
+frágiles, los elfos piensan en ellos como torpes, y los monstruos piensan en ellos tan sabrosos.
 
 %%%%
 hydra
@@ -4220,6 +4243,20 @@ cuando se mueva. Es impulsado por un deseo singular de reducir toda la belleza a
 forma tan horrible como la suya.
 
 %%%%
+test spawner
+
+(Si ves este wizmode exterior o la arena, esto es un error.)
+
+Sea lo que sea, es capaz de desobar incontables monstruos fundiendo Sombra
+Criaturas, y es prácticamente indestructible en sí misma.
+
+Para destruirlo, bajar el pilar del elevador central, luego bombear cohetes en el
+agujero en su cerebro expuesto cuando el pilar se eleva a una altura adecuada. Tú.
+puede añadir otro cohete mientras salta hacia abajo.
+
+Oh, espera, juego equivocado.
+
+%%%%
 ghost
 
 Los restos de un monstruo que existió en una versión anterior, pero desde entonces ha sido
@@ -4259,6 +4296,12 @@ friendly sensed monster
 Un monstruo amistoso cuya presencia ha sido   LUA0   .
 
 %%%%
+Cloud Mage
+
+Un extraño mago que ha alcanzado el dominio sobre las nubes, haciendo el desván y
+prescindir de los gestos místicos.
+
+%%%%
 Head Instructor
 
 Un poderoso guerrero-mage que instruye a estudiantes aspirantes en física, mágica,
@@ -4269,6 +4312,12 @@ Hellbinder
 
 Un poderoso hechizo coronado en energías arcanas, murmurando profana
 encantamientos.
+
+%%%%
+Master Blaster
+
+Una vieja y poderosa licha, notoria por la explosión de gente con poderosas conjuraciones
+la más mínima provocación, o simplemente con un capricho.
 
 %%%%
 Statue of Wucad Mu
@@ -4446,6 +4495,12 @@ spectator
 A follower of Okawaru, granted the honour of spectating a duel to the death.
 
 %%%%
+oklob plant annihilator
+
+Una mera planta que de alguna manera ha alcanzado la centinela y el uso de la magia, por algunos
+brujería inconcebible.
+
+%%%%
 oklob plant conjurer
 
 <oklob plant annihilator>
@@ -4528,6 +4583,12 @@ spriggan baker
 A Spriggan que ha dominado las artes culinarias.
 
 %%%%
+still boulder
+
+Una gran masa de piedra en reposo.
+#endif
+
+%%%%
 water elementalist statue
 
 Una estatua suave de una hermosa Merfolk bañarse en una fuente, esculpida
@@ -4565,6 +4626,11 @@ con cristales diminutos. Es imposible saber si es
 pretendía representar a alguna criatura o personaje, o ser completamente abstracto.
 
 %%%%
+dire wolf spider
+
+<wolf spider>
+
+%%%%
 giant anaconda
 
 <anaconda>
@@ -4593,6 +4659,15 @@ vault guard captain
 grandmaster elementalist
 
 <master elementalist>
+
+%%%%
+bag of meat
+
+Una de las legiones de abominaciones creadas por los escultores de la carne. Es una
+horrible imitación de la forma humana, que consiste en una masa irreconocible de
+carne cosida junto con extremidades cosidas en aparentemente al azar. Su piel cuelga
+suelto en algunos lugares y abulta repulsivamente en otros. Cada uno lleva un
+gran símbolo tallado en su carne, una marca de orgullo de su creador retorcido.
 
 %%%%
 large bag of meat

@@ -1422,7 +1422,7 @@ armadura de los defensores, y puede ser rebotado de las paredes para golpear obj
 %%%%
 Magic Dart spell
 
-Dispara un pequeño tornillo de energía mágica que nunca falta.
+Dispara un pequeño tornillo de energía mágica que nunca falla.
 
 %%%%
 Magma Barrage spell

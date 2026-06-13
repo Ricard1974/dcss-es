@@ -222,6 +222,19 @@ Exhala una poderosa explosión de devastación elemental, que inflige tanto fueg
 daño de frío, y deja nubes de vapor venenoso en su estela.
 
 %%%%
+Recite ability
+
+Preaches to nearby monstruos about Zin's laws for a short duration. Después
+terminar una recitación, no puede repetirse por un corto tiempo.
+
+La recitación Will tiene diferentes efectos dependiendo del objetivo: el caótico
+e impuro Will ser afectado por efectos poderosos y dañinos, no muertos y
+demonios Will ser afectados por reprensiones más débiles, y cualquier otra criatura inteligente
+Will tienen confusión sembrada entre ellos, con herejes y sacerdotes de dioses otros
+que Zin siendo castigado mucho más fuerte. La eficacia de la recitación
+aumenta por la habilidad y la piedad de las invocaciones.
+
+%%%%
 Vitalisation ability
 
 Zin te aporta una resistencia divina y sustento. La resistencia divina te
@@ -246,6 +259,18 @@ desaparecerá en cuanto se acabe con la paz.
 Cure All Mutations ability
 
 Se curan todas tus mutaciones — pero sólo por una vez.
+
+%%%%
+Divine Shield ability
+
+Manifiesta un blindante brillante escudo delante del usuario. Held aloft by the
+Shining One's power, it Will unerringly block the next several attacks which
+podría ser bloqueado por un escudo mundano. Los ataques extendidos Will se reflejan y se milan
+los atacantes tienen la oportunidad de ser brevemente cegados por el flash resultante de
+Luz.
+
+Este escudo Will bloquea sólo un número limitado de ataques antes de desaparecer, con
+Invocaciones de habilidad aumentando cuántos.
 
 %%%%
 Cleansing Flame ability
@@ -296,6 +321,12 @@ Te otorga conocimiento de los hechizos más poderosos y siniestros de Necromancy
 Haunt, Revivificación de Borgnjor, Infestación y Puerta de la Muerte. Debes elegir
 entre este regalo o el de marcar un arma con dolor, y
 sólo una vez.
+
+%%%%
+Recall Undead Harvest ability
+
+Recuerda a tus seguidores no muertos de cualquier lugar en the Dungeon a tu inmediata
+alrededores.
 
 %%%%
 Light the Black Torch ability
@@ -351,6 +382,12 @@ El área afectada Will se encoge con el tiempo, y una nueva no se puede crear ha
 el viejo ha caducado completamente.
 
 %%%%
+Heroism ability
+
+Temporalmente aumenta todas tus habilidades de combate, tanto ofensivas como defensivas.
+La duración es aumentada por la habilidad Invocations.
+
+%%%%
 Finesse ability
 
 Incrementas en gran medida tu velocidad de combate sin perder precisión. Este
@@ -380,6 +417,12 @@ Receive Armour ability
 
 Adquiere un pedazo de armadura de una elección de cuatro. Esta bendición sólo puede ser
 Redimida una vez.
+
+%%%%
+Unleash Destruction ability
+
+Canaliza una explosión de infernal   LUA0    a una criatura dirigida. Los daños y la precisión aumentan por las invocaciones
+habilidad.
 
 %%%%
 Infernal Servant ability
@@ -458,6 +501,15 @@ bonus a poder de hechizo basado en su habilidad de Spellcasting que vale la mism
 niveles equivalentes de capacitación en las habilidades pertinentes del propio hechizo.
 
 %%%%
+Berserk ability
+
+Envía al usuario a una rabia Berserk. Going Berserk aumenta temporalmente la salud,
+la velocidad y el daño se reparten en la melee. It Will time out quickly outside of combat,
+pero puede ser extendido por múltiples asesinatos. Mientras Berserk, casi todas las acciones otras
+que el movimiento y el combate melee se evitan. Cuando la rabia expira, el usuario
+Will ser retardado e incapaz de Berserk de nuevo por un corto tiempo.
+
+%%%%
 Trog's Hand ability
 
 Invoca una poderosa capacidad de regeneración que apila con todas las demás fuentes y
@@ -468,6 +520,12 @@ También fortifica la fuerza de voluntad del usuario, protegiendo contra muchos 
 Brothers in Arms ability
 
 Convocas a aliados enormes y furiosos para causar estragos.
+
+%%%%
+Purification ability
+
+Provoca su cuerpo de veneno, confusión, lentitud, petrificación, debilidad y
+enfermedad. Cualquier salud máxima drenada Will también será completamente restaurada.
 
 %%%%
 Heal Other ability
@@ -500,6 +558,12 @@ Invocaciones de habilidad. Su salud actual y puntos de magia Will también aumen
 proporcionalmente.
 
 %%%%
+Depart the Abyss ability
+
+Te transporta fuera de la Abyss, devolviéndolo a la ubicación desde la cual tú
+entró.
+
+%%%%
 Banish ability
 
 Intentas desterrar a un monstruo al Abismo.
@@ -527,6 +591,11 @@ distorsión. Esta bendición sólo se puede utilizar una vez, y no se puede util
 armas de artefacto.
 
 %%%%
+Draw ability
+
+Dibuja una tarjeta de una cubierta de poder.
+
+%%%%
 Triple Draw ability
 
 Sacas tres cartas de un mazo en tu inventario, las miras, y decides cual
@@ -546,6 +615,14 @@ Stack Five ability
 Sacas cinco cartas de cualquier mazo no marcado de tu inventario, perdiendo el
 resto de las cartas. Mira a las cartas y las reordenas de la forma que
 prefieras. Por lo tanto, puedes sacar dichas cartas en el orden que elegiste.
+
+%%%%
+Smiting ability
+
+ REF0  La fuerza del smiting se aumenta por la habilidad de las invocaciones.
+
+Beogh Will no permite que tú utilice esto directamente contra otro apóstol durante un
+prueba divina.
 
 %%%%
 Recall Apostles ability
@@ -586,6 +663,12 @@ Mira.
 al menos una vez por muerte.
 
 %%%%
+Wall of Briars ability
+
+Crece parches de corta duración alrededor tuyo. Monstruos atacando estos briares Will
+ser dañado por espinas afiladas. La habilidad de invocaciones aumenta la salud de los frailes.
+
+%%%%
 Grow Ballistomycete ability
 
 Crece un balistomycete de corta duración en la ubicación que elijas. Una balaistomycete
@@ -612,6 +695,12 @@ Las habilidades de invocaciones aumentan la salud y la duración del oklob, así
 frecuencia con la que rocia su ácido.
 
 %%%%
+Bend Time ability
+
+Intentos de Slow abajo todos los adyacentes a tú. Alta habilidad de Invocaciones lo hace
+más difícil de resistir.
+
+%%%%
 Temporal Distortion ability
 
 Distorsionas el flujo del tiempo a tu alrededor, causando que los monstruos
@@ -632,15 +721,40 @@ descompondrán, las plantas crecerán. Tras algo de tiempo, volverás con el mis
 estado que tenías en el mismo segundo en que partiste.
 
 %%%%
+Slimify ability
+
+Cosa un arma peluda o los puños con cáscara, girando el siguiente vivo o
+monstruo no muerto corpóreo golpeó en un slime neutral.
+
+%%%%
 Oozemancy ability
 
 Se llama ooze ácido de las paredes de the Dungeon alrededor de tú, enemigos dañinos
 dependiendo del número de paredes delgadas que permanecen adyacentes.
 
 %%%%
+Curse Item ability
+
+Cursa un elemento equipado elegido, encuadernándolo al portador hasta la maldición
+y el artículo ambos están rotos. Los artículos curados ya no pueden ser encantados o
+modificado.
+
+%%%%
 Shatter The Chains ability
 
 Destruye un objeto equipado maldecido elegido, reviviendo al portador de la maldición.
+
+%%%%
+Shadowslip ability
+
+Intercambia instantáneamente lugares con su sombra (siempre que sea activa) y malévolas
+todos los enemigos a la vista sobre cuál de los dos es cuál. Enemigos que fueron
+anteriormente centrado en tú Will en lugar de centrar su atención exclusivamente en
+su sombra por varios giros antes de darse cuenta de su error - aunque si
+tener éxito en destruir tu sombra, la ilusión Will termina prematuramente.
+
+La duración de este efecto aumenta con la habilidad Invocations, como Will
+durabilidad de tu sombra inmediatamente después de usarlo.
 
 %%%%
 Aphotic Marionette ability
@@ -674,6 +788,14 @@ la primera noche de la creación debe dar paso al día.
 La habilidad de invocaciones aumenta la duración del efecto.
 
 %%%%
+Potion Petition ability
+
+Peticiones Gozag para venderle los efectos de un conjunto de pociones. (Estos efectos Will
+se aplica de manera instantánea y directa al peticionario, en lugar de ser proporcionado
+o estar borracho como una poción normal.) Gozag Will ofrecen tres listas a la vez, con
+precios variables.
+
+%%%%
 Call Merchant ability
 
 Envía fondos a un comerciante para ayudarles a establecer una tienda en su ubicación. El costo de
@@ -691,6 +813,13 @@ bajar el fondo de soborno restante; cuando se agota, los enemigos sobornados Wil
 indiferente si no se han convertido en sus aliados.
 
 %%%%
+Upheaval ability
+
+Llama a las fuerzas de la naturaleza a volar una pequeña zona con magma, hielo, viento,
+o escombros. Esta explosión Will nunca te daña ni ningún elemental manifestado por ti.
+La habilidad de invocaciones aumenta tanto el daño como el área afectada.
+
+%%%%
 Elemental Force ability
 
 Causa que sus nubes elementales coalescen en elementales amigables. Tu
@@ -702,6 +831,14 @@ Disaster Area ability
 
 Culpa toda la zona a su alrededor con poderosas fuerzas naturales. Invocaciones
 la habilidad aumenta tanto el daño como la zona afectada.
+
+%%%%
+Draw Out Power ability
+
+Pulsa en su poder interior para restaurar la salud y la magia, así como liberar su
+cuerpo y mente de limitaciones externas, incluyendo redes, webs, constriction,
+petrificación, lentitud y confusión. La cantidad de salud y magia restaurada
+aumenta con la piedad.
 
 %%%%
 Power Leap ability
@@ -834,6 +971,13 @@ sacrificios mientras hay una oferta existente todavía extendida.
 
 Cada rechazo consecutivo aumenta significativamente el temporizador de sacrificio.
 Aceptar un sacrificio Will restablecer el temporizador a la longitud estándar.
+
+%%%%
+Stomp ability
+
+Apesta en el tiempo con el ritmo del baile, enviando una onda de choque a través de
+todas las criaturas adyacentes. La onda de choque daña a cada criatura por una fracción de
+su salud actual, más daño aumentando con habilidad Invocations.
 
 %%%%
 Line Pass ability

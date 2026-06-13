@@ -744,7 +744,7 @@ Lash status
 
 Tú está moviendo a velocidad sobrenatural, causando acciones de movimiento para convertirse
 instantánea. Cualquier ataque marcial realizado mientras se mueve de esta manera el acuerdo aumentó
-daño y nunca falta.
+daño y nunca falla.
 
 %%%%
 Heavenly status

@@ -335,6 +335,17 @@ w:5
 La fuente está tranquila. El agua se engaña suavemente. Aquí hay paz.
 
 %%%%
+Xom fountain_blue
+
+El pez mariposa inofensivo te mira desde dentro de la fuente.
+
+w:1
+Por un momento, pensaste que viste Xom convocó un anguila en esta fuente.
+
+w:1
+Por un momento aterrador, juras que Xom llamó a un kraken en esta fuente.
+
+%%%%
 Xom fountain_sparkling
 
 Pescado de mariposa inofensivo y brillante desde dentro de la fuente.

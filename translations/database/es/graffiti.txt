@@ -895,3 +895,226 @@ w:1
  VAR21     VAR22  
 
 %%%%
+%%%%
+_graffiti_author_any_changeable_
+
+_graffiti_author_any_changeable_
+
+w:50
+@ancestor name@
+
+w:2
+@_graffiti_author_bland_@
+
+w:2
+@RANDGEN@
+
+%%%%
+_graffiti_author_any_changeable_non-randgen_
+
+_graffiti_author_any_changeable_non-randgen_
+
+w:50
+@ancestor name@
+
+w:2
+@_graffiti_author_bland_@
+
+%%%%
+_graffiti_author_any_non-orc_
+
+_graffiti_author_any_non-orc_
+
+w:50
+@ancestor name@
+
+w:2
+@_graffiti_author_bland_@
+
+w:2
+@RANDGEN@
+
+w:1
+@_rare_graffiti_author_any_non-orc_@
+
+%%%%
+_graffiti_author_orc_
+
+_graffiti_author_orc_
+
+@any orc name@ the orc
+
+%%%%
+_graffiti_changed_names_
+
+_graffiti_changed_names_
+
+@_graffiti_author_any_changeable_@ has changed names and now goes by @_graffiti_author_any_changeable_@
+
+w:2
+@_graffiti_author_orc_@ has changed names and now goes by @_graffiti_author_orc_@
+
+w:2
+@_rare_graffiti_author_any_@ has passed on the name to someone else worthy of it
+
+w:1
+@_graffiti_author_any_changeable_non-randgen_@ has changed names due to Xom's influence and now goes by @RANDGEN@
+
+%%%%
+_graffiti_changed_or_compared_religions_
+
+_graffiti_changed_or_compared_religions_
+
+@_graffiti_author_any_@ has abandoned @random_god@
+
+@_graffiti_author_any_@ has converted away from @random_god@
+
+@_graffiti_author_any_@ has converted to @random_god@
+
+@_graffiti_author_any_@ is @_graffiti_religion_better_or_worse_@ than @_graffiti_author_any_@
+
+@_graffiti_author_any_@ is secretly an atheist
+
+@_graffiti_author_any_@ is secretly not an atheist
+
+@_graffiti_author_any_@ is secretly @random_god@
+
+@_graffiti_author_any_@ secretly worships Zin
+
+@_graffiti_author_any_@ secretly worships Zin instead of @random_god_chaotic@
+
+@_graffiti_author_any_@ secretly worships @random_god_chaotic@
+
+@_graffiti_author_any_@ secretly worships @random_god_chaotic@ instead of Zin
+
+@_graffiti_author_any_@ secretly worships @random_god_good@
+
+@_graffiti_author_any_@ secretly worships @random_god_good@ instead of @random_god_evil@
+
+@_graffiti_author_any_@ secretly worships @random_god_evil@
+
+@_graffiti_author_any_@ secretly worships @random_god_evil@ instead of @random_god_good@
+
+w:1
+@_graffiti_author_any_@ is secretly @_graffiti_hailed_god_@
+
+w:1
+@_graffiti_author_any_@ secretly worships @_graffiti_hailed_god_@
+
+%%%%
+_graffiti_professor_
+
+_graffiti_professor_
+
+@_graffiti_author_any_changeable_@
+
+w:2
+@_graffiti_author_orc_@
+
+w:1
+@_rare_graffiti_author_any_@ (supposedly)
+
+%%%%
+_graffiti_unreadable_
+
+_graffiti_unreadable_
+
+graffiti of unreadable @_writing_type_@
+
+graffiti of @_writing_type_@ that are unreadable except for a signature by @_graffiti_author_any_@
+
+w:1
+graffiti of @_writing_type_@ that are unreadable except for bits hailing @_graffiti_hailed_god_@
+
+w:1
+graffiti of @_writing_type_@ that are unreadable except for bits hailing @_graffiti_hailed_god_@ and a signature by @_graffiti_author_any_@
+
+%%%%
+_rare_graffiti_author_any_non-orc_
+
+_rare_graffiti_author_any_non-orc_
+
+@_rare_graffiti_author_ordinary_@
+
+w:2
+@_rare_graffiti_author_title_@
+
+w:1
+@_rare_graffiti_author_god_@
+
+%%%%
+_rare_graffiti_author_orc_
+
+_rare_graffiti_author_orc_
+
+Spartorcus the orc
+
+%%%%
+_writing_adj_
+
+_writing_adj_
+
+angular
+
+blocky
+
+bold
+
+curvy
+
+flowing
+
+jagged
+
+pulsating
+
+shifting
+
+sinuous
+
+sloping
+
+spidery
+
+swirling
+
+throbbing
+
+twitching
+
+writhing
+
+%%%%
+_writing_noun_
+
+_writing_noun_
+
+binary code
+
+characters
+
+cuneiform
+
+figures
+
+glyphs
+
+hieroglyphics
+
+ideograms
+
+letters
+
+print-out
+
+runes
+
+scrawl
+
+sigils
+
+symbols
+
+text
+
+writing

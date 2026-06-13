@@ -1,7 +1,12 @@
 %%%%
+book
+
+Libro de Bugginess
+
+%%%%
 book appearance
 
- VAR0 
+VAR0
 
 %%%%
 book_noun
@@ -122,6 +127,48 @@ Verses
 Writings
 
 %%%%
+book_name
+
+w:9
+ VAR0   de
+
+w:4
+ VAR1  
+
+%%%%
+random_book_title
+
+w:15
+el   VAR0 
+
+#
+ VAR1      VAR2  
+
+w:4
+ VAR3 
+
+13
+ VAR4  
+
+w:8
+ VAR5  
+
+w:2
+ VAR6  
+
+w:6
+ VAR7  
+
+w:1
+ VAR8  
+
+w:4
+ VAR9  
+
+w:2
+ VAR10  
+
+%%%%
 _book_plant_animal_
 
 w:1
@@ -137,6 +184,36 @@ w:6
 @_weapon_animal_@
 
 @_armour_animal_@
+
+%%%%
+Xom_book_title
+
+w:30
+ VAR0 
+
+# Aumentó las posibilidades (obviamente!)
+ VAR1  
+
+w:1
+ VAR2  
+
+w:2
+ VAR3  
+
+w:8
+ VAR4  
+
+w:1
+ VAR5  
+
+w:5
+ VAR6  
+
+w:3
+ VAR7  
+
+w:3
+ VAR8  
 
 %%%%
 _book_adjective_
@@ -298,6 +375,96 @@ wrinkled
 yellowed
 
 %%%%
+Random
+
+el   VAR0  Artes
+
+las prácticas   VAR1  
+
+ VAR2  Ritos
+
+ VAR3   Tradiciones
+
+ VAR4  Verdades
+
+el Hermit's Heritage
+
+los historiales de los misterios
+
+el arte del mago
+
+la Mente del Mago
+
+el poder de las palabras
+
+los Ritos y los Síndromes
+
+las Sigilias y Símbolos
+
+la Sabiduría de los Antiguos
+
+la Sabiduría del Mago
+
+las Palabras del Poder
+
+ VAR5   Insight
+
+ VAR6   Saber
+
+ VAR7   Poder
+
+ VAR8   Comprensión
+
+ VAR9   Sabiduría
+
+Casting
+
+Gnosis
+
+Hermenéutica
+
+Hermetics
+
+w:2
+Hocus-Pocus
+
+Cáncer
+
+Magia
+
+Poder mágico
+
+Mysticism
+
+Ocultismo
+
+Sorcery
+
+Sortilege
+
+Spellcasting
+
+Spellcraft
+
+Espléndido
+
+Trabajos
+
+Thaumaturgy
+
+Theurgy
+
+Trabajar en la voluntad
+
+Brujería
+
+Brujas
+
+Wizarding
+
+Mago
+
+%%%%
 _occult_adjective_
 
 Abstruse
@@ -386,6 +553,216 @@ w:1
 Dummies
 
 %%%%
+starting level book
+
+w:2
+ VAR0   101
+
+ VAR1    para   VAR2  
+
+ VAR3   , Parte   VAR4  
+
+ VAR5  , Volume   VAR6  
+
+A   VAR7   Inicio de los discursos
+
+Un curso de inicio de   VAR8  
+
+Un prolegomenon a   VAR9  
+
+Un Tutorial en   VAR10 
+
+Un exordio a   VAR11  
+
+Una iniciación en   VAR12  
+
+Una inducción en   VAR13 
+
+Introducción a   VAR14  
+
+w:2
+Cualquier persona puede aprender   VAR15  
+
+Inicio   VAR16  
+
+Cómo llegar   VAR17  
+
+Dabbling in   VAR18   
+
+Elemental   VAR19 
+
+w:2
+Incluso   VAR20   Puede aprender   VAR21   !
+
+Primeros pasos en   VAR22  
+
+Practicar   VAR23  
+
+Preliminares de   VAR24  
+
+Simple   VAR25 
+
+w:2
+Así que quieres aprender   VAR26  
+
+Inicio   VAR27  
+
+Los fundamentos de   VAR28  
+
+%%%%
+easy level book
+
+ VAR0   y cómo utilizarlo
+
+Y tú
+
+ VAR2   Continuación
+
+ VAR3   en sencillos pasos
+
+ VAR4   , Parte   VAR5  
+
+ VAR6  , Volumen   VAR7  
+
+Un Primer en   VAR8  
+
+Guía temprana para   VAR9  
+
+Continuando   VAR10  
+
+Fácil   VAR11  
+
+Todos los días   VAR12 
+
+ VAR13  
+
+Más estudios en   VAR14  
+
+Realizar éxito   VAR15  
+
+Quotidian   VAR16  
+
+w:2
+Guía Antepenúltima   VAR17  
+
+Las fundaciones de   VAR18  
+
+Los fundamentos de   VAR19  
+
+w:2
+La alegría de   VAR20  
+
+Las claves para   VAR21  
+
+%%%%
+moderate level book
+
+ VAR0   , Parte   VAR1  
+
+ VAR2  , Volumen   VAR3  
+
+A   VAR4  
+
+Advanced   VAR5  
+
+Pasos avanzados en   VAR6  
+
+Incluso más   VAR7  
+
+Experiencia   VAR8  
+
+Avances en   VAR9  
+
+Otros pasos en   VAR10  
+
+Mejora tu   VAR11  
+
+Prácticas   VAR12  
+
+Progresando con   VAR13  
+
+Sofisticada   VAR14  
+
+La Guía Avanzada   VAR15  
+
+El camino a   VAR16  
+
+w:2
+Guía penúltima para   VAR17  
+
+El segundo curso en   VAR18  
+
+Útil   VAR19  
+
+w:2
+Otro   VAR20   Acerca de   VAR21 
+
+%%%%
+_powerful_caster_
+
+# Generic powerful-sounding names
+Archmage
+
+Archmaster
+
+Hierophant
+
+Luminary
+
+Mystagogue
+
+Prophet
+
+Sage
+
+Warlock
+
+# Specific references to in-game lore
+w:5
+Deep Elf Lorekeeper
+
+w:5
+Genius of the Arcane
+
+# Their hat may be gone, but they're not forgotten...
+w:5
+High Council
+
+w:5
+Lorekeeper
+
+w:5
+Loreminder
+
+# Specific references to DCSS memes, out-of-game lore, or misc.
+w:1
+Blind Seer
+
+w:1
+Consilium Hierarch
+
+w:1
+Grand Magus
+
+w:1
+Greatest Mummy
+
+w:1
+Primeval Lich
+
+w:1
+Sorcerer Supreme
+
+w:1
+Ultimate Wizard
+
+w:1
+Weird Sisters
+
+w:1
+Wizard of Zot
+
+%%%%
 _the_powerful_caster_
 
 w:100
@@ -460,6 +837,147 @@ Testimony
 Wisdom
 
 Writings
+
+%%%%
+_difficult level book owner_
+
+@_the_subject_@, Part @level@
+
+@_the_subject_@, Volume @level@
+
+A @book_name@ Superlative Spells
+
+A Thorough Guide to @_the_subject_@
+
+Mastering @_the_subject_@
+
+Mastery of @_the_subject_@
+
+The Final @book_noun@ of @_the_subject_@
+
+The Final @_book_noun_on_@ on @_the_subject_@
+
+The @_last_or_lost_@ Secrets of @_the_subject_@
+
+The @book_noun@ of Greatest Risks and Utility
+
+The Arcane Secrets of @_subject_@
+
+The Highest Levels of @_the_subject_@
+
+The Intricacies of @_the_subject_@
+
+The Ultimate Guide to @_the_subject_@
+
+Total Understanding of @_the_subject_@
+
+%%%%
+difficult level book
+
+w:50
+@ difficult nivel book owner @
+
+ VAR0                                      
+
+w:5
+ VAR3    de   VAR4  
+
+w:5
+ VAR5      VAR6     de   VAR7  
+
+w:5
+ VAR8                        
+
+# ¡Lo escribieron solo para ti!
+w:1
+A   VAR11   de   VAR12    a   VAR13  
+
+%%%%
+Air
+
+Aeromancia
+
+Aire
+
+Anemomancy
+
+Astrapomancy
+
+Austromancy
+
+Respiración
+
+Ceraunoscopia
+
+Clouds
+
+Conducción
+
+Electricidad
+
+Electrocución
+
+Exhalación
+
+Feathers
+
+Fog
+
+Fumes
+
+Gases
+
+Gusts
+
+Haze
+
+Inhalación
+
+Rayos
+
+Nephomancy
+
+Nuestra humanidad
+
+Ozono
+
+Thunder
+
+Turbulencia
+
+El tiempo
+
+Vapour
+
+Voltaje
+
+la Atmósfera
+
+los pájaros
+
+el Brume
+
+el Cumulonimbus
+
+los pulmones
+
+el Nimbus
+
+el Sixfirhy
+
+el cielo
+
+el Escuadrón
+
+la tormenta
+
+la Tempestad
+
+el Welkin
+
+el viento
+
+el Zephyr
 
 %%%%
 Conjuration
@@ -1030,7 +1548,86 @@ the Tomb
 el Undead
 
 w:200
- VAR0       
+ VAR0
+
+%%%%
+_Evil_adjective_
+
+Abhorrent
+
+Abominable
+
+Black
+
+Blasphemous
+
+Dark
+
+Debased
+
+Defiled
+
+Despicable
+
+Evil
+
+Iniquitous
+
+Left-handed
+
+Maleficent
+
+Malevolent
+
+Malignant
+
+Necromantic
+
+Profane
+
+Sinister
+
+w:2
+Spooky
+
+Unhallowed
+
+Unholy
+
+Unspeakable
+
+Vitiated
+
+Wicked
+
+%%%%
+_Evil_noun_
+
+Acts
+
+Arts
+
+Ceremonies
+
+Deeds
+
+Liturgies
+
+Magic
+
+Magicks
+
+Mysteries
+
+Rites
+
+Rituals
+
+Secrets
+
+Spells
+
+Words
 
 %%%%
 Alchemy
@@ -1586,6 +2183,87 @@ el Tinkerer
 el relojero
 
 el Workbench
+
+%%%%
+Air adj
+
+Aerial
+
+Airborne
+
+Airy
+
+Atmosférico
+
+Blustery
+
+Breezy
+
+Brumous
+
+Cargado
+
+Cloudy
+
+Electricidad
+
+Feathery
+
+Flotación
+
+Volando
+
+Foggy
+
+Figura
+
+Fulgurous
+
+Fuma
+
+Galvanic
+
+Gaseous
+
+Gusty
+
+Hazy
+
+Inclement
+
+Lofty
+
+Meteoric
+
+Misty
+
+Nebuloso
+
+Overcast
+
+Overhead
+
+Neumático
+
+Shocking
+
+Stormy
+
+Tempestuosa
+
+Turbulento
+
+Vapouroso
+
+Voltaic
+
+Weathered
+
+Windswept
+
+Windy
+
+Wispy
 
 %%%%
 Conjuration adj
@@ -2582,6 +3260,13 @@ Trabajado
 Wrought
 
 %%%%
+highlevel Conjuration Earth owner
+
+Dispater
+
+@Conjuration Earth owner@
+
+%%%%
 Conjuration Earth owner
 
 Lehudib
@@ -2654,6 +3339,25 @@ Alchemy Necromancy owner
 Cigotuvi
 
 No
+
+%%%%
+highlevel Conjuration owner
+
+Asmodeus
+
+Ereshkigal
+
+Dispater
+
+Cerebov
+
+Lom Lobon
+
+w:5
+Vehumet
+
+#
+@Propietario de reconocimiento@
 
 %%%%
 Conjuration owner

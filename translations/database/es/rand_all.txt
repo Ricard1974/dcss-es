@@ -1,0 +1,2383 @@
+######################################################
+# Randart Names
+# -------------
+# rand_all.txt: keywords for randart JEWELLERY and
+#               those used for ALL randart types
+#
+# This file contains the lists of keywords (and their
+# weights) for keywords specific to randart jewellery
+# as well as those used for all three types of
+# randarts (weapons, armour, jewellery). You will find
+# other ones in rand_wpn.txt and rand_arm.txt.
+# See the explanation in the main file, randname.txt,
+# for more details.
+######################################################
+%%%%
+######################################################
+# Library of keywords used (mostly) for randart jewellery.
+######################################################
+_jewellery_animal_
+
+Death Scarab
+Silencio
+Fuego
+Silencio
+Scarab
+Silencio
+Magpie
+Silencio
+Raven
+Silencio
+Actitud
+Silencio
+Desastres
+Silencio
+Suerte efímero
+Silencio
+False Pretenses
+Silencio
+Finalidad
+Silencio
+Lady Luck
+Silencio
+Moodiness
+Silencio
+Reembolso
+Silencio
+la Tempestad
+Silencio
+Temptación
+Silencio
+Velleidad
+Silencio
+Pensamiento jubiloso
+Silencio
+Yendor
+Silencio
+Dudas
+Silencio
+Incredulidad
+
+Celoso
+Silencio
+Mistrust
+Silencio
+Paranoia
+Silencio
+Escepticismo
+Silencio
+Secretos
+Silencio
+Sospechoso Treachery
+Silencio
+Suspicion
+Silencio
+Trepidación
+Silencio
+divina estima
+Silencio
+Aprobación
+Silencio
+Benevolencia
+Silencio
+Deleite
+Silencio
+Esteem
+Silencio
+Favor
+Silencio
+Felicitaciones
+Silencio
+Generosidad
+Silencio
+Grace.
+Silencio
+Hope
+Silencio
+Inspiración
+Silencio
+Pride
+
+Regard
+Silencio
+Respeto
+Silencio
+Supremacía
+Silencio
+Whim
+Silencio
+Castigación
+Silencio
+Condena
+Silencio
+Diplegación
+Silencio
+Envy
+Silencio
+Resistente
+Silencio
+Absentimiento
+Silencio
+Diversión
+Silencio
+ático
+Silencio
+Bemusement
+Silencio
+Los mejores deseos
+Silencio
+Capriciencia
+Silencio
+Entretenimiento
+Silencio
+Fastia
+Silencio
+Juego justo
+Silencio
+Vuelo de la Fancy
+Silencio
+Atención completa
+
+w:5
+Malicious Joy
+Silencio
+Interés Pasante
+Silencio
+Recklessness
+Silencio
+Ringing Laughter
+Silencio
+Altura de las manos
+Silencio
+Taradiddle
+Silencio
+Temeridad
+Silencio
+Quizas
+Silencio
+Whimsicality
+Silencio
+Otoño
+Silencio
+Dawn
+Silencio
+Día
+Silencio
+Dusk
+Silencio
+Noche eterna
+Silencio
+Invierno eterno
+Silencio
+Eternidad
+Silencio
+Evenfall
+Silencio
+medianoche
+Silencio
+Midsummer
+Silencio
+Midwinter
+
+w:5
+Noon
+Silencio
+Primavera
+Silencio
+Primavera
+Silencio
+Verano
+Silencio
+Hora de verano
+Silencio
+Time Moved Backwards
+Silencio
+Mañana
+Silencio
+Twilight
+Silencio
+Invierno
+Silencio
+Ayer
+Silencio
+el futuro distante
+Silencio
+el Equinox
+Silencio
+la noche
+Silencio
+el Everdark
+Silencio
+la cosecha
+Silencio
+la mañana
+Silencio
+el pasado
+Silencio
+el Presente
+Silencio
+el Solstice
+Silencio
+Negro
+%%%%
+_jewellery_special_name_
+
+Azul
+Silencio
+Grey
+Silencio
+Indigo
+Silencio
+Orange
+Silencio
+Púrpura
+Silencio
+Rojo
+Silencio
+Oscuridad
+Silencio
+Dim Light
+Silencio
+Luz
+Silencio
+Starshine
+Silencio
+Sunlight
+Silencio
+el gasto sin fin
+Silencio
+el Gloaming
+Silencio
+los Cielos
+Silencio
+la Luna
+Silencio
+la Luz Luminosa
+Silencio
+Los Cielos Sobre
+Silencio
+el cielo
+Silencio
+el Sol
+Silencio
+@ sky colour name @ Skies
+
+Benevolencia
+Silencio
+Caridad
+Silencio
+Compasión
+Silencio
+Devoción
+Silencio
+Discreción
+Silencio
+Generosidad
+Silencio
+Grace.
+Silencio
+Honestidad
+Silencio
+Hospitalidad
+Silencio
+Amabilidad
+Silencio
+Grande
+Silencio
+Modestia
+Silencio
+Paciencia
+Silencio
+Temperance
+Silencio
+Pensamiento
+Silencio
+Verdad
+Silencio
+Comprensión
+Silencio
+Virtud
+Silencio
+Wariness
+Silencio
+Sabiduría
+
+Gluttony
+Silencio
+Greed
+Silencio
+Lust
+Silencio
+Pride
+Silencio
+Sloth
+Silencio
+Vanity
+Silencio
+Amoralidad
+Silencio
+Cobardía
+Silencio
+Deshonestidad
+Silencio
+Deshonor
+Silencio
+Equivocación
+Silencio
+Tonterías
+Silencio
+Inmortalidad
+Silencio
+Impaciencia
+Silencio
+Lies
+Silencio
+Misconduct
+Silencio
+Moral Flaws
+Silencio
+Errores pasados
+Silencio
+Recklessness
+Silencio
+Sin
+
+Spite
+Silencio
+Tergiversación
+Silencio
+La falsedad
+Silencio
+Vice
+Silencio
+Indiscreción juvenil
+Silencio
+el pecado original
+Silencio
+Causality
+Silencio
+Destino
+Silencio
+Doom
+Silencio
+Fate
+Silencio
+Karma
+Silencio
+Kismet
+Silencio
+Wyrd
+Silencio
+Tres
+Silencio
+los Cuatro
+Silencio
+los Cinco
+Silencio
+los Seis
+Silencio
+los Siete
+Silencio
+los Ocho
+Silencio
+los Nueve
+
+los Diez
+Silencio
+el Once
+Silencio
+los Doce
+Silencio
+los Dozen
+Silencio
+el 13
+Silencio
+los Veinte
+Silencio
+los veintisiete
+Silencio
+el 50
+Silencio
+el Sexagésimo sexto
+Silencio
+el setenta y siete
+Silencio
+el noventa y nueve
+Silencio
+a Cien
+Silencio
+el Hundredfold
+Silencio
+a Mil
+Silencio
+a Millones
+Silencio
+a billón
+Silencio
+el
+Silencio
+el surtido
+Silencio
+incontable
+Silencio
+el Manifold
+
+los muchos
+Silencio
+los Varios
+Silencio
+el Envejecido
+Silencio
+sin edad
+Silencio
+el Antiguo
+Silencio
+el Battered
+Silencio
+el Bouncing
+Silencio
+el Bruised
+Silencio
+la Cruzada
+Silencio
+el Curioso
+Silencio
+la perturbación
+Silencio
+los Endless
+Silencio
+el Exilio
+Silencio
+la Final
+Silencio
+el primero
+Silencio
+el Primer
+Silencio
+el olvidado
+Silencio
+el Desamparado
+Silencio
+los Ocultos
+Silencio
+la Ilustración
+
+el Immovable
+Silencio
+el Inquisitivo
+Silencio
+insaciable
+Silencio
+invisible
+Silencio
+el Jolly
+Silencio
+El último
+Silencio
+Lonely
+Silencio
+Lost
+Silencio
+el Lumpy
+Silencio
+el Modern
+Silencio
+el Neverending
+Silencio
+el Peculiar
+Silencio
+la posmoderna
+Silencio
+el Puro
+Silencio
+El Secreto
+Silencio
+el Sneaky
+Silencio
+the Special
+Silencio
+la Thirsty
+Silencio
+el Pensamiento
+Silencio
+el Cantado
+
+los imparables
+Silencio
+el Desapareciendo
+Silencio
+el Wary
+Silencio
+el Well-Known
+Silencio
+Aliados
+Silencio
+Artisans
+Silencio
+Artistas
+Silencio
+Bestias
+Silencio
+Camas
+Silencio
+Beggars
+Silencio
+Bendiciones
+Silencio
+Huesos
+Silencio
+Bounties
+Silencio
+Brambles
+Silencio
+Ciudades
+Silencio
+Monedas
+Silencio
+Continentes
+Silencio
+Curses
+Silencio
+Bailes
+Silencio
+Muertes
+
+Defenders
+Silencio
+Dominios
+Silencio
+Demonios
+Silencio
+Sueños
+Silencio
+Orejas
+Silencio
+Emperadores
+Silencio
+Ojos
+Silencio
+Amigos
+Silencio
+Frailes
+Silencio
+Geomancers
+Silencio
+Fantasmas
+Silencio
+Dioses
+Silencio
+Cielos
+Silencio
+Infierno
+Silencio
+Hosts
+Silencio
+Interlopers
+Silencio
+Invasores
+Silencio
+Knaves
+Silencio
+Cuchillos
+Silencio
+Leylines
+
+Lies
+Silencio
+Vidas
+Silencio
+Panes
+Silencio
+Amantes
+Silencio
+ratones
+Silencio
+Lunas
+Silencio
+Mouths
+Silencio
+Mystics
+Silencio
+Nightcaps
+Silencio
+Nightingales
+Silencio
+Nightmares
+Silencio
+Noches
+Silencio
+Olivos
+Silencio
+Orbes
+Silencio
+Personas
+Silencio
+Persimmons
+Silencio
+Lugares
+Silencio
+Planetas
+Silencio
+Portals
+Silencio
+Priests
+
+Princes
+Silencio
+Profetas
+Silencio
+Queens
+Silencio
+Búsquedas
+Silencio
+Reinos
+Silencio
+Runes
+Silencio
+Scars
+Silencio
+Mares
+Silencio
+Cervezas
+Silencio
+Servidores
+Silencio
+Barcos
+Silencio
+Shrikes
+Silencio
+Canciones
+Silencio
+Almas
+Silencio
+Spines
+Silencio
+Espíritus
+Silencio
+Hojas de cálculo
+Silencio
+Estrellas
+Silencio
+Historias
+Silencio
+Soles
+
+Cuadros
+Silencio
+Tales
+Silencio
+Dientes
+Silencio
+Thickets
+Silencio
+Cosas
+Silencio
+Pueblos
+Silencio
+Tusks
+Silencio
+Ultimatums
+Silencio
+Underlurkers
+Silencio
+Villages
+Silencio
+Violins
+Silencio
+Visionarios
+Silencio
+Visiones
+Silencio
+Guerras
+Silencio
+Wishes
+Silencio
+Wonders
+Silencio
+Xalams
+Silencio
+Xenops
+Silencio
+Xeniums
+Silencio
+Xenofobes
+
+# FIXME: should appear on amulets only
+Yaks
+Silencio
+Jóvenes
+Silencio
+Ziggurats
+Silencio
+Envejecimiento
+Silencio
+Baking
+Silencio
+Bedazzling
+Silencio
+Bedighting
+Silencio
+Bespelling
+Silencio
+Blushing
+Silencio
+Respiración
+Silencio
+Brewing
+Silencio
+Edificio
+Silencio
+Quema
+Silencio
+Bursting
+Silencio
+Cambio
+Silencio
+Encantador
+Silencio
+Chewing
+Silencio
+Conjuring
+Silencio
+Artesanía
+Silencio
+Cursing
+%%%%
+_suspicion_no_conflict_name_
+
+Bailando
+Silencio
+Destruyendo
+Silencio
+Devorando
+Silencio
+Incredulidad
+Silencio
+Dripping
+Silencio
+Encantador
+Silencio
+Enfolding
+Silencio
+Alimentación
+Silencio
+Volando
+Silencio
+Forging
+Silencio
+Fortificación
+Silencio
+Freezing
+Silencio
+Gazing
+Silencio
+Glimmering
+Silencio
+Glowing
+Silencio
+Gnashing
+Silencio
+Grinning
+Silencio
+Creciendo
+Silencio
+Hammering
+Silencio
+Sanación
+
+Esperando
+Silencio
+Howling
+Silencio
+Hugging
+Silencio
+Hambre
+Silencio
+Hurling
+Silencio
+Hurting
+Silencio
+Hurtling
+Silencio
+Imbibing
+Silencio
+Invitación
+Silencio
+Saltando
+Silencio
+Besando
+Silencio
+Mantenerse
+Silencio
+Leaping
+Silencio
+Loving
+Silencio
+Lusting
+Silencio
+Maligno
+Silencio
+Mauling
+Silencio
+Mashing
+Silencio
+Muttering
+Silencio
+Nurturing
+
+Protección
+Silencio
+Rescatando
+Silencio
+Montaje
+Silencio
+Scorching
+Silencio
+Gritando
+Silencio
+Compartir
+Silencio
+Sheltering
+Silencio
+Cambio
+Silencio
+Shimmering
+Silencio
+Shouting
+Silencio
+Arrugando
+Silencio
+Cantando
+Silencio
+Fumar
+Silencio
+Para.
+Silencio
+Invocación
+Silencio
+Apoyo
+Silencio
+Enseñanza
+Silencio
+Decir
+Silencio
+Thieving
+Silencio
+Threeshing
+
+Transmutación
+Silencio
+Twisting
+Silencio
+Levantamiento
+Silencio
+Usurping
+Silencio
+Ganando
+Silencio
+Brujas
+Silencio
+Wizarding
+Silencio
+Agradecimiento
+Silencio
+Bashing
+Silencio
+Slashing
+Silencio
+Piercing
+Silencio
+Azul
+Silencio
+Verde
+Silencio
+Rojo
+Silencio
+Amoroso
+Silencio
+Antigüedad
+Silencio
+Arcadiano
+Silencio
+Avant Garde
+Silencio
+Baleful
+Silencio
+Barnacled
+
+Bestia
+Silencio
+Bedazzled
+Silencio
+Bellicose
+Silencio
+Amado
+Silencio
+Bequeathed
+Silencio
+Bespelled
+Silencio
+Brillante
+Silencio
+Quema
+Silencio
+Bursted
+Silencio
+Burnt
+Silencio
+Cargado
+Silencio
+Caustic
+Silencio
+Limpio
+Silencio
+Diseñado inteligentemente
+Silencio
+Charmed
+Silencio
+Cargado
+Silencio
+Contumacious
+Silencio
+Damp
+Silencio
+Decaying
+Silencio
+Deeply Unsettling
+
+Delicado
+Silencio
+Encantador
+Silencio
+Demonic
+Silencio
+Divina
+Silencio
+Perdido
+Silencio
+Dowdy
+Silencio
+Dull
+Silencio
+Durable
+Silencio
+Enorme
+Silencio
+Ethereal
+Silencio
+Excepcional
+Silencio
+Extremely Toothy
+Silencio
+Ojo cubierto
+Silencio
+Fabuloso
+Silencio
+Fae
+Silencio
+Feral
+Silencio
+Feroz
+Silencio
+Festooned
+Silencio
+Filigreed
+Silencio
+Floral
+
+Freezing
+Silencio
+Fresco
+Silencio
+Futurista
+Silencio
+Fuzzy
+Silencio
+Fantasma
+Silencio
+Glamorous
+Silencio
+Oro
+Silencio
+Grandioso
+Silencio
+Grim
+Silencio
+Peluquería
+Silencio
+Haunted
+Silencio
+Histriónico
+Silencio
+Impasible
+Silencio
+Imposible
+Silencio
+Indestructible
+Silencio
+Intenso
+Silencio
+Irksome
+Silencio
+Jocular
+Silencio
+Lachrymose
+Silencio
+Vivir
+
+Majestic
+Silencio
+Meager
+Silencio
+Moderno
+Silencio
+Mordant
+Silencio
+Narrow
+Silencio
+Bonito
+Silencio
+Noxious
+Silencio
+Oily
+Silencio
+Ornamental
+Silencio
+Pintado
+Silencio
+Parsimonious
+Silencio
+Poderoso
+Silencio
+Puckish
+Silencio
+Quiescent
+Silencio
+Rápido.
+Silencio
+Razonable
+Silencio
+Resonante
+Silencio
+Rotten
+Silencio
+Sandy
+Silencio
+Scuffed
+
+Sharp
+Silencio
+Shrieking
+Silencio
+Tonto.
+Silencio
+Slimy
+Silencio
+Solemn
+Silencio
+Suave
+Silencio
+Squeaky
+Silencio
+Stained
+Silencio
+Suficiente
+Silencio
+Tentacled
+Silencio
+Terrible
+Silencio
+Toothy
+Silencio
+Torturada
+Silencio
+Transparent
+Silencio
+Ubiquitous
+Silencio
+Insoportable
+Silencio
+Verdant
+Silencio
+Viny
+Silencio
+Voracious
+Silencio
+Weak
+
+Wicked
+Silencio
+Maravilloso
+Silencio
+Zealous
+Silencio
+Orange
+Silencio
+Banana
+Silencio
+Pan de banana
+Silencio
+Pear
+Silencio
+Apple
+Silencio
+Apricot
+Silencio
+Tomato
+Silencio
+Peach
+Silencio
+Plum
+Silencio
+Rambutan
+Silencio
+Lychee
+Silencio
+Mango
+Silencio
+Watermelon
+Silencio
+Rockmelon
+Silencio
+Fresa
+Silencio
+Coco
+Silencio
+Panfruit
+%%%%
+_suspicion_name_
+
+@_suspicion_no_conflict_name_@
+
+w:2
+@_conflict_name_@
+%%%%
+######################################################
+# Library of keywords used for all randart types.
+######################################################
+# Used for god gifts from C++ side, as "of $GOD's @divine_esteem@".
+Eggfruit
+Silencio
+Dragonfruit
+Silencio
+Durian
+Silencio
+Jackfruit
+Silencio
+Longan
+Silencio
+Tamarind
+Silencio
+Guava
+Silencio
+Mangosteen
+Silencio
+Soursop
+Silencio
+Tangerine
+Silencio
+Cherry
+Silencio
+Grape
+Silencio
+Sultana
+Silencio
+Fig
+Silencio
+Fecha
+Silencio
+Lemon
+Silencio
+Lime
+Silencio
+Medlar
+
+# good
+Approval
+
+Benevolence
+
+Delight
+
+Esteem
+
+Favour
+
+w:5
+Felicitations
+
+Generosity
+
+Grace
+
+Hope
+
+Inspiration
+
+Pride
+
+Regard
+
+w:5
+Respect
+
+Supremacy
+
+Whim
+
+# bad
+Castigation
+
+Condemnation
+
+Displeasure
+
+Envy
+
+Reproof
+
+w:70
+@_anger_quality_@
+%%%%
+_xom_esteem_
+
+# chosen 20% of the time
+w:40
+@divine_esteem@
+
+Absentmindedness
+
+Amusement
+
+Attic
+
+Bemusement
+
+Best Wishes
+
+Capriciousness
+
+Entertainment
+
+Facetiousness
+
+Fair Game
+
+Flight of Fancy
+
+Full Attention
+
+Malicious Joy
+
+Passing Interest
+
+Recklessness
+
+Ringing Laughter
+
+Sleight of Hands
+
+Taradiddle
+
+Temerity
+
+Wantonness
+
+Whimsicality
+%%%%
+_time_name_
+
+Autumn
+
+Dawn
+
+Day
+
+Dusk
+
+Eternal Night
+
+Eternal Winter
+
+Eternity
+
+Evenfall
+
+Midnight
+
+Midsummer
+
+Midwinter
+
+Noon
+
+w:5
+Spring
+
+w:5
+Springtime
+
+w:5
+Summer
+
+w:5
+Summertime
+
+Time Moved Backwards
+
+Tomorrow
+
+Twilight
+
+Winter
+
+Yesterday
+
+the Distant Future
+
+the Equinox
+
+the Evening
+
+the Everdark
+
+the Harvest
+
+the Morning
+
+the Past
+
+the Present
+
+the Solstice
+%%%%
+_sky_colour_name_
+
+Black
+
+Blue
+
+Grey
+
+Indigo
+
+Orange
+
+Purple
+
+Red
+%%%%
+_sky_or_light_
+Darkness
+
+Dim Light
+
+Light
+
+Starshine
+
+Sunlight
+
+the Endless Expanse
+
+the Gloaming
+
+the Heavens
+
+the Moon
+
+the Shining Light
+
+the Skies Above
+
+the Sky
+
+the Sun
+
+the @_sky_colour_name_@ Skies
+%%%%
+_virtue_or_vice_
+
+w:5
+@_virtue_name_@
+
+@_valour_name_@
+
+@_vice_name_@
+%%%%
+_virtue_name_
+Benevolence
+
+Charity
+
+Compassion
+
+Devotion
+
+Discretion
+
+Generosity
+
+Grace
+
+Honesty
+
+Hospitality
+
+Kindness
+
+Largesse
+
+Modesty
+
+Patience
+
+Temperance
+
+Thoughtfulness
+
+Truth
+
+Understanding
+
+Virtue
+
+Wariness
+
+Wisdom
+
+%%%%
+_vice_name_
+
+# some of the deadly sins
+Gluttony
+
+Greed
+
+Lust
+
+Pride
+
+Sloth
+
+Vanity
+
+# general immorality
+Amorality
+
+Cowardice
+
+Dishonesty
+
+Dishonour
+
+Equivocation
+
+Foolhardiness
+
+Immorality
+
+Impatience
+
+Lies
+
+Misconduct
+
+Moral Flaws
+
+Past Mistakes
+
+Recklessness
+
+Sin
+
+Spite
+
+Tergiversation
+
+Untruth
+
+Vice
+
+Youthful Indiscretion
+
+the Original Sin
+
+%%%%
+_destiny_name_
+
+Causality
+
+Destiny
+
+Doom
+
+Fate
+
+Karma
+
+Kismet
+
+Wyrd
+
+%%%%
+_number_or_qualifier_
+
+# exact numbers
+the Three
+
+the Four
+
+the Five
+
+the Six
+
+the Seven
+
+the Eight
+
+the Nine
+
+the Ten
+
+the Eleven
+
+w:5
+the Twelve
+
+w:5
+the Dozen
+
+the Thirteen
+
+w:5
+the Twenty
+
+w:1
+the Twenty-Seven
+
+the Fifty
+
+w:5
+the Sixty-Six
+
+w:5
+the Seventy-Seven
+
+w:5
+the Ninety-Nine
+
+w:5
+a Hundred
+
+w:5
+the Hundredfold
+
+a Thousand
+
+a Million
+
+a Billion
+
+# vague numbers
+the
+
+the Assorted
+
+the Countless
+
+the Manifold
+
+the Many
+
+the Several
+
+# other qualifiers
+the Aged
+
+the Ageless
+
+the Ancient
+
+the Battered
+
+the Bouncing
+
+the Bruised
+
+the Crushed
+
+the Curious
+
+the Disturbing
+
+the Endless
+
+the Exiled
+
+the Final
+
+the First
+
+the Foremost
+
+the Forgotten
+
+the Forsaken
+
+the Hidden
+
+the Illusory
+
+the Immovable
+
+the Inquisitive
+
+the Insatiable
+
+the Invisible
+
+the Jolly
+
+the Last
+
+the Lonely
+
+the Lost
+
+the Lumpy
+
+the Modern
+
+the Neverending
+
+the Peculiar
+
+the Postmodern
+
+the Pure
+
+the Secret
+
+the Sneaky
+
+the Special
+
+the Thirsty
+
+the Thoughtful
+
+the Tired
+
+the Unstoppable
+
+the Vanishing
+
+the Wary
+
+the Well-Known
+
+%%%%
+_thing_names_
+Allies
+
+Artisans
+
+Artists
+
+Beasts
+
+Beds
+
+Beggars
+
+Blessings
+
+Bones
+
+Bounties
+
+Brambles
+
+w:5
+Cities
+
+Coins
+
+Continents
+
+Curses
+
+Dances
+
+Deaths
+
+Defenders
+
+Domains
+
+Demons
+
+Dreams
+
+Ears
+
+Emperors
+
+Eyes
+
+Friends
+
+Friars
+
+Geomancers
+
+Ghosts
+
+Gods
+
+Heavens
+
+Hells
+
+Hosts
+
+Interlopers
+
+Invaders
+
+Knaves
+
+w:25
+Knives
+
+Leylines
+
+Lies
+
+Lives
+
+Loafs
+
+Lovers
+
+Mice
+
+Moons
+
+Mouths
+
+Mystics
+
+w:5
+Nightcaps
+
+Nightingales
+
+Nightmares
+
+Nights
+
+Olives
+
+Orbs
+
+People
+
+Persimmons
+
+Places
+
+Planets
+
+Portals
+
+Priests
+
+Princes
+
+Prophets
+
+Queens
+
+Quests
+
+Realms
+
+Runes
+
+Scars
+
+Seas
+
+Seers
+
+Servitors
+
+Ships
+
+Shrikes
+
+Songs
+
+Souls
+
+Spines
+
+Spirits
+
+w:5
+Spreadsheets
+
+Stars
+
+Stories
+
+Suns
+
+Tables
+
+Tales
+
+Teeth
+
+Thickets
+
+w:5
+Things
+
+w:5
+Towns
+
+Tusks
+
+Ultimatums
+
+Underlurkers
+
+w:5
+Villages
+
+Violins
+
+Visionaries
+
+Visions
+
+Wars
+
+Wishes
+
+Wonders
+
+Xalams
+
+Xenops
+
+Xeniums
+
+w:5
+Xenophobes
+
+Yaks
+
+Youths
+
+Ziggurats
+%%%%
+_verbing_
+
+w:5
+Ageing
+
+w:5
+Baking
+
+Bedazzling
+
+Bedighting
+
+Bespelling
+
+Blushing
+
+w:5
+Breathing
+
+Brewing
+
+Building
+
+Burning
+
+w:5
+Bursting
+
+Changing
+
+Charming
+
+Chewing
+
+Conjuring
+
+Crafting
+
+Cursing
+
+Dancing
+
+Destroying
+
+Devouring
+
+Disbelieving
+
+w:5
+Dripping
+
+Enchanting
+
+Enfolding
+
+Feeding
+
+Flying
+
+Forging
+
+Fortifying
+
+Freezing
+
+Gazing
+
+w:5
+Glimmering
+
+w:5
+Glowing
+
+Gnashing
+
+Grinning
+
+Growing
+
+Hammering
+
+Healing
+
+Holding
+
+Howling
+
+w:5
+Hugging
+
+Hungering
+
+Hurling
+
+Hurting
+
+Hurtling
+
+Imbibing
+
+Inviting
+
+Jumping
+
+Kissing
+
+Keeping
+
+Leaping
+
+Loving
+
+Lusting
+
+w:1
+Malding
+
+Mauling
+
+Mashing
+
+Muttering
+
+Nurturing
+
+Protecting
+
+Rescuing
+
+Riding
+
+Scorching
+
+Screaming
+
+Sharing
+
+Sheltering
+
+Shifting
+
+Shimmering
+
+Shouting
+
+Shrinking
+
+Singing
+
+Smoking
+
+Stopping
+
+Summoning
+
+Supporting
+
+Teaching
+
+Telling
+
+Thieving
+
+Threshing
+
+Transmuting
+
+Twisting
+
+Uplifting
+
+Usurping
+
+Winnowing
+
+Witching
+
+Wizarding
+
+Writhing
+
+# the three classic D&D damage types:
+w:5
+Bashing
+
+w:5
+Slashing
+
+w:5
+Piercing
+%%%%
+_adjective_
+Blue
+
+Green
+
+Red
+
+w:5
+Amorous
+
+Antique
+
+Arcadian
+
+w:5
+Avant Garde
+
+Baleful
+
+Barnacled
+
+Beastly
+
+Bedazzled
+
+Bellicose
+
+Beloved
+
+Bequeathed
+
+Bespelled
+
+Bright
+
+Burning
+
+Bursted
+
+w:5
+Burnt
+
+Carved
+
+Caustic
+
+Clean
+
+Cleverly Designed
+
+Charmed
+
+w:5
+Charred
+
+Contumacious
+
+Damp
+
+Decaying
+
+Deeply Unsettling
+
+Delicate
+
+Delightful
+
+Demonic
+
+Divine
+
+Doomed
+
+Dowdy
+
+Dull
+
+Durable
+
+Enormous
+
+Ethereal
+
+Exceptional
+
+Extremely Toothy
+
+Eye-covered
+
+Fabulous
+
+Fae
+
+Feral
+
+Ferocious
+
+Festooned
+
+Filigreed
+
+Floral
+
+Freezing
+
+Fresh
+
+w:5
+Futuristic
+
+Fuzzy
+
+Ghostly
+
+Glamorous
+
+Golden
+
+Grand
+
+Grim
+
+Hairy
+
+Haunted
+
+Histrionic
+
+Impassible
+
+Impish
+
+Indestructible
+
+Intense
+
+Irksome
+
+Jocular
+
+Lachrymose
+
+Living
+
+Majestic
+
+Meager
+
+w:5
+Modern
+
+Mordant
+
+Narrow
+
+Nice
+
+Noxious
+
+Oily
+
+Ornamental
+
+Painted
+
+Parsimonious
+
+Powerful
+
+Puckish
+
+Quiescent
+
+Quick
+
+Reasonable
+
+Resonant
+
+Rotten
+
+Sandy
+
+Scuffed
+
+Sharp
+
+Shrieking
+
+w:5
+Silly
+
+Slimy
+
+Solemn
+
+Soft
+
+Squeaky
+
+Stained
+
+Sufficient
+
+Tentacled
+
+Terrible
+
+Toothy
+
+Tortured
+
+Transparent
+
+Ubiquitous
+
+Unbearable
+
+Verdant
+
+Viny
+
+Voracious
+
+Weak
+
+Wicked
+
+Wonderful
+
+Zealous
+%%%%
+_fruit_name_
+
+Orange
+
+Banana
+
+# fruit-adjacent
+Banana Bread
+
+Pear
+
+Apple
+
+Apricot
+
+Tomato
+
+Peach
+
+Plum
+
+Rambutan
+
+Lychee
+
+Mango
+
+Watermelon
+
+Rockmelon
+
+Strawberry
+
+Coconut
+
+Breadfruit
+
+Eggfruit
+
+Dragonfruit
+
+Durian
+
+Jackfruit
+
+Longan
+
+Tamarind
+
+Guava
+
+Mangosteen
+
+Soursop
+
+Tangerine
+
+Cherry
+
+Grape
+
+Sultana
+
+Fig
+
+Date
+
+Lemon
+
+Lime
+
+Medlar
+%%%%

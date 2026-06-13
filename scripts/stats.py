@@ -20,13 +20,43 @@ TRANS_DESCRIPT = PROJECT / "translations" / "descript" / "es"
 TRANS_DATABASE = PROJECT / "translations" / "database" / "es"
 
 
-def count_entries(filepath: Path) -> int:
-    """Cuenta el número de entradas (separadas por %%%%) en un archivo."""
+def parse_entries(filepath: Path) -> list:
+    """Parsea entradas de un archivo DCSS (misma lógica que translate_batch)."""
     if not filepath.exists():
-        return 0
+        return []
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
-    return len(re.findall(r"^%%%%", content, re.MULTILINE))
+    entries = []
+    blocks = re.split(r"\n?%%%%\s*\n?", content)
+    for block in blocks:
+        block = block.strip()
+        if not block:
+            continue
+        lines = block.split("\n")
+        key = None
+        for line in lines:
+            stripped = line.strip()
+            if stripped and not stripped.startswith("#"):
+                key = stripped
+                break
+        if key is None:
+            continue
+        value_lines = []
+        found_key = False
+        for line in lines:
+            stripped = line.strip()
+            if not found_key:
+                if stripped and not stripped.startswith("#"):
+                    found_key = True
+                continue
+            value_lines.append(line)
+        entries.append((key, "\n".join(value_lines).strip()))
+    return entries
+
+
+def count_entries(filepath: Path) -> int:
+    """Cuenta el número de entradas parseables en un archivo DCSS."""
+    return len(parse_entries(filepath))
 
 
 def count_lines(filepath: Path) -> int:

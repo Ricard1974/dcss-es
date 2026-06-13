@@ -21,6 +21,19 @@ screams
 howls
 
 %%%%
+_wails_
+
+wails
+
+shouts
+
+says
+
+screams
+
+shrieks
+
+%%%%
 _begs_
 
 begs
@@ -479,10 +492,10 @@ Cries.
 %%%%
 default fleeing silenced humanoid
 
- VAR0 
+VAR0 
 
 w:5
- VAR1  
+ VAR1
 
 %%%%
 _fleeing_silenced_common_
@@ -508,7 +521,7 @@ w:6
  VAR0 
 
 w:4
- VAR1  
+ VAR1
 
 %%%%
 _friendly_silenced_common_
@@ -564,13 +577,13 @@ VISUAL:@The_monster@ seems to be listening.
 %%%%
 default friendly confused humanoid
 
- VAR0 
+VAR0 
 
 w:5
  VAR1  
 
 w:1
- VAR2  
+ VAR2
 
 %%%%
 _friendly_confused_common_
@@ -623,13 +636,13 @@ VISUAL:@The_monster@ seems enamored of @foe@.
 %%%%
 default confused humanoid
 
- VAR0 
+VAR0 
 
 w:5
  VAR1  
 
 w:1
- VAR2  
+ VAR2
 
 %%%%
 _confused_humanoid_common_
@@ -695,10 +708,10 @@ VISUAL:@The_monster@ suddenly looks very angry at the Dungeon.
 %%%%
 default friendly fleeing humanoid
 
- VAR0 
+VAR0 
 
 w:1
- VAR1  
+ VAR1
 
 %%%%
 _friendly_fleeing_common_
@@ -727,10 +740,10 @@ _friendly_fleeing_rare_
 %%%%
 default fleeing humanoid
 
- VAR0 
+VAR0 
 
 w:3
- VAR1  
+ VAR1
 
 %%%%
 _fleeing_humanoid_common_
@@ -825,7 +838,7 @@ w:4
  VAR1  
 
 w:1
- VAR2  
+ VAR2
 
 %%%%
 _friendly_humanoid_common_
@@ -892,7 +905,7 @@ Arañazos en una pulga.
 w:1
 VISUAL:  VAR11   ¿De dónde es eso?
 
- VAR12  
+ VAR12
 
 %%%%
 friendly Shoals hound
@@ -1012,27 +1025,27 @@ default confused moth
 %%%%
 '&'
 
- VAR0 
+VAR0
 
 %%%%
 '1'
 
- VAR0 
+VAR0
 
 %%%%
 '2'
 
- VAR0 
+VAR0
 
 %%%%
 '3'
 
- VAR0 
+VAR0
 
 %%%%
 '4'
 
- VAR0 
+VAR0 
 ################################################################################################################################################################################################################################################################
 # Los demonios son silenciosos cuando no se burlan
 ################################################################################################################################################################################################################################################################
@@ -1071,6 +1084,24 @@ No.
 ################################################################################################################################################################################################################################################################
 
 %%%%
+friendly '5'
+
+w:9
+No.
+
+w:1
+ VAR0 
+################################################################################################################################################################################################################################################################
+# Jugador frases fantasma. Se pueden dar fantasmas con diferentes clases
+# diferentes mensajes.
+################################################################################################################################################################################################################################################################
+
+%%%%
+default player ghost
+
+NO
+
+%%%%
 silenced player ghost
 
 VISUAL:  VAR0   mira   VAR1   .
@@ -1085,7 +1116,7 @@ VISUAL:  VAR4    mira   VAR5   mientras lentamente arrastra un dedo a través de
 %%%%
 Fighting player ghost
 
- VAR0   se jacta, "He derrotado monstruos tienes nunca vistos."
+VAR0   se jacta, "He derrotado monstruos tienes nunca vistos."
 
 VISUAL: VAR1   toma una postura de lucha.
 
@@ -1100,7 +1131,7 @@ VISUAL: VAR1   toma una postura de lucha.
 %%%%
 Short Blades player ghost
 
- VAR0   dice, "No es el tamaño de la hoja lo que importa, es como la usas".
+VAR0   dice, "No es el tamaño de la hoja lo que importa, es como la usas".
 
  VAR1   dice   VAR2  , "Sneer en mi corta espada, I Will esneer en tu frío cuerpo."
 
@@ -1116,7 +1147,7 @@ VISUAL:  VAR0    mantiene la hoja   VAR1   en la lista.
 %%%%
 Axes player ghost
 
- VAR0   dice, "Te dividiré en dos!"
+VAR0   dice, "Te dividiré en dos!"
 
  VAR1   mumbles, "Todos parecen fundas de almohada para mí..."
 
@@ -1125,7 +1156,7 @@ Axes player ghost
 %%%%
 Maces & Flails player ghost
 
- VAR0   dice   VAR1  , "Tendrán que barrerte del suelo después de que termine contigo!"
+VAR0   dice   VAR1  , "Tendrán que barrerte del suelo después de que termine contigo!"
 
 VISUAL:  VAR2   aplasta a un próximo insectos y risas.
 
@@ -1134,7 +1165,7 @@ VISUAL:  VAR2   aplasta a un próximo insectos y risas.
 %%%%
 Polearms player ghost
 
- VAR0   dice, "Uno esquivado   VAR1  , viniendo hacia arriba."
+VAR0   dice, "Uno esquivado   VAR1  , viniendo hacia arriba."
 
  VAR2   dice   VAR3  , "Tu cabeza sobre un pique complementaría este piso con gusto".
 
@@ -1143,25 +1174,25 @@ Polearms player ghost
 %%%%
 Staves player ghost
 
- VAR0   dice, "Excelso a los aventureros débiles".
+VAR0   dice, "Excelso a los aventureros débiles".
 
 VISUAL:  VAR1    twirls   VAR2   quarterstaff.
 
- VAR3  amenaza con romperte el cráneo.   VAR4  
+ VAR3  amenaza con romperte el cráneo.   VAR4
 
 %%%%
 Slings player ghost
 
- VAR0    dice: "Cuanto más grandes son, más duras caerán!"
+VAR0    dice: "Cuanto más grandes son, más duras caerán!"
 
 VISUAL:  VAR1     azota un aguijón espectral sobre la cabeza   VAR2  .
 
- VAR3  
+ VAR3
 
 %%%%
 Ranged Weapons player ghost
 
- VAR0 
+VAR0 
 
 ¿Una manzana? Tengo una oportunidad que quiero probar."
 
@@ -1172,7 +1203,7 @@ VISUAL:  VAR4   [conversaciones para recargar la vida sin descanso]   VAR5    ar
 %%%%
 Crossbows player ghost
 
- VAR0 
+VAR0 
 
 VISUAL:  VAR1   [conversaciones para recargar la vida sin esfuerzo]   VAR2    arma.
 
@@ -1183,12 +1214,12 @@ VISUAL:  VAR0    mira alrededor para algo que tirar.
 
 Te insulta.   VAR2  
 
- VAR3  
+ VAR3
 
 %%%%
 Armour player ghost
 
- VAR0   dice: "¡No puedes lastimarme!"
+VAR0   dice: "¡No puedes lastimarme!"
 
  VAR1   dice: "¡Soy invencible!"
 
@@ -1197,7 +1228,7 @@ Armour player ghost
 %%%%
 Dodging player ghost
 
- VAR0   dice, "¡Me midió!"
+VAR0   dice, "¡Me midió!"
 
  VAR1   patos y dice, "¡Demasiado alto!"
 
@@ -1221,7 +1252,7 @@ VISUAL:Por un momento,   VAR9   se mezcla en las sombras.
 %%%%
 Shields player ghost
 
- VAR0   dice, "Puedes golpearme, pero puedes no me lastima."
+VAR0   dice, "Puedes golpearme, pero puedes no me lastima."
 
 %%%%
 Unarmed Combat player ghost
@@ -1241,7 +1272,7 @@ VISUAL:  VAR7    flexes   VAR8     dedos.
 %%%%
 Spellcasting player ghost
 
- VAR0   dice, "Tengo hechizos para cualquier situación".
+VAR0   dice, "Tengo hechizos para cualquier situación".
 
  VAR1   dice, "Soy prueba de que el conocimiento es poder."
 
@@ -1271,14 +1302,14 @@ VISUAL: La energía se condensa delante de   VAR4  , pero se disipa rápidamente
 %%%%
 Hexes player ghost
 
- VAR0   dice   VAR1  , "Tú Will pronto será indefenso para evitar mi poder."
+VAR0   dice   VAR1  , "Tú Will pronto será indefenso para evitar mi poder."
 
  VAR2   dice   VAR3  , "Cuando me rompo los dedos, tú Will piensa estás un pollo."
 
 %%%%
 Summonings player ghost
 
- VAR0   dice: "Es peligroso aventurarse solo".
+VAR0   dice: "Es peligroso aventurarse solo".
 
 VISUAL:  VAR1    saca un quokka de la gorra   VAR2  .
 
@@ -1289,7 +1320,7 @@ VISUAL:  VAR1    saca un quokka de la gorra   VAR2  .
 %%%%
 Necromancy player ghost
 
- VAR0   dice, "Muerte Will termina tu dolor."
+VAR0   dice, "Muerte Will termina tu dolor."
 
  VAR1   dice   VAR2  , "No te preocupes, no dejaré que tu cadáver se desperdicie".
 
@@ -1309,7 +1340,7 @@ VISUAL:  VAR2   Blinks   VAR3   .
 %%%%
 Fire Magic player ghost
 
- VAR0   dice, "Me encanta el olor de carne quemada."
+VAR0   dice, "Me encanta el olor de carne quemada."
 
  VAR1   dice, "¿Te gustaría ser cremado?"
 
@@ -1336,7 +1367,7 @@ VISUAL:  VAR0   está rodeada de una ducha de chispas.
 %%%%
 Earth Magic player ghost
 
- VAR0   dice, "Una piedra rodante reúne un montón de   VAR1   ."
+VAR0   dice, "Una piedra rodante reúne un montón de   VAR1   ."
 
  VAR2   dice: "Todo el mundo está bajo mi mando."
 
@@ -1345,7 +1376,7 @@ VISUAL: La tierra tembla por un momento.
 %%%%
 Alchemy player ghost
 
- VAR0   dice, "Un pequeño rasguño como ese es ciertamente inofensivo."
+VAR0   dice, "Un pequeño rasguño como ese es ciertamente inofensivo."
 
  VAR1   dice   VAR2  , "Adelante. Huye."
 
@@ -1373,7 +1404,7 @@ Reza.
 %%%%
 Evocations player ghost
 
- VAR0   dice   VAR1  , "¿Estás seguro de que estás señalando esa varita en la dirección correcta?"
+VAR0   dice   VAR1  , "¿Estás seguro de que estás señalando esa varita en la dirección correcta?"
 
 %%%%
 Shapeshifting player ghost
@@ -1396,7 +1427,7 @@ Ozymandias
 %%%%
 Ashenzari player ghost
 
- VAR0   dice   VAR1  , "La vida es una maldición, tú Will pronto entender."
+VAR0   dice   VAR1  , "La vida es una maldición, tú Will pronto entender."
 
  VAR2   dice   VAR3  , "Tu futuro ni siquiera es sombrío."
 
@@ -1411,7 +1442,7 @@ Ashenzari player ghost
 %%%%
 Beogh player ghost
 
- VAR0   dice, "Nadie quiere seguir a un mesías muerto!"
+VAR0   dice, "Nadie quiere seguir a un mesías muerto!"
 
  VAR1   dice, "Yo solía caminar sobre el agua. Ahora solo lo hago.
 
@@ -1427,7 +1458,7 @@ Cheibriados player ghost
 %%%%
 Dithmenos player ghost
 
- VAR0   dice   VAR1  , "¡Te enviaré a las sombras!"
+VAR0   dice   VAR1  , "¡Te enviaré a las sombras!"
 
  VAR2   dice   VAR3  , "Sólo deja que la oscuridad te consuma."
 
@@ -1436,7 +1467,7 @@ Dithmenos player ghost
 %%%%
 Elyvilon player ghost
 
- VAR0   dice   VAR1  , "En la vida, yo Might te he curado en cambio."
+VAR0   dice   VAR1  , "En la vida, yo Might te he curado en cambio."
 
  VAR2  dice, "Pensé que la violencia no podía resolver nada, pero me resolvió".
 
@@ -1465,7 +1496,7 @@ VISUAL:  VAR0   ondea una bolsa de monedas abultadas a tú.
 %%%%
 Hepliaklqana player ghost
 
- VAR0   dice   VAR1  , "Si no puedo matarte ahora, ayudaré a mi descendiente a hacerlo más tarde."
+VAR0   dice   VAR1  , "Si no puedo matarte ahora, ayudaré a mi descendiente a hacerlo más tarde."
 
  VAR2   dice   VAR3  , "Te daré una batalla que nunca olvidarás!"
 
@@ -1474,7 +1505,7 @@ Hepliaklqana player ghost
 %%%%
 Ignis player ghost
 
- VAR0   dice, "Me quemé dos veces más brillante, y mira dónde me consiguió..."
+VAR0   dice, "Me quemé dos veces más brillante, y mira dónde me consiguió..."
 
 VISUAL:  VAR1   brocas como una vela fundida.
 
@@ -1483,7 +1514,7 @@ VISUAL:  VAR1   brocas como una vela fundida.
 %%%%
 Jiyva player ghost
 
- VAR0   dice   VAR1   , "¿Tanto apegado a artículos brillantes?"
+VAR0   dice   VAR1   , "¿Tanto apegado a artículos brillantes?"
 
  VAR2   dice   VAR3  , "Alimentar a la gente, anhelar el botín".
 
@@ -1492,7 +1523,7 @@ Jiyva player ghost
 %%%%
 Kikubaaqudgha player ghost
 
- VAR0   dice, "Me iba a convertir en un lich, pero esto es casi tan bueno."
+VAR0   dice, "Me iba a convertir en un lich, pero esto es casi tan bueno."
 
  VAR1   grita a   VAR2  , "No se puede imaginar el dolor y el tormento en la tienda para tú!"
 
@@ -1515,7 +1546,7 @@ Lugonu player ghost
 %%%%
 Makhleb player ghost
 
- VAR0   dice, "No necesitaré apoyo demoníaco contra ti."
+VAR0   dice, "No necesitaré apoyo demoníaco contra ti."
 
  VAR1   dice: "Murí para destruir gente como tú por diversión".
 
@@ -1528,21 +1559,21 @@ Makhleb player ghost
 %%%%
 Nemelex Xobeh player ghost
 
- VAR0   te dice, "Las cartas no tienen un buen futuro para ti."
+VAR0   te dice, "Las cartas no tienen un buen futuro para ti."
 
  VAR1   dice   VAR2  , "I Will tratar su muerte!"
 
 %%%%
 Okawaru player ghost
 
- VAR0   dice, "Yo era un gran guerrero, y yo todavía soy!"
+VAR0   dice, "Yo era un gran guerrero, y yo todavía soy!"
 
  VAR1   dice: "¡Ah, una segunda oportunidad para probarme en la batalla!"
 
 %%%%
 Pakellas player ghost
 
- VAR0   dice: "Eres otro problema que debes resolver".
+VAR0   dice: "Eres otro problema que debes resolver".
 
  VAR1   dice, "Realmente vas a conseguir un cargo de este."
 
@@ -1560,7 +1591,7 @@ Qazlal player ghost
 %%%%
 Ru player ghost
 
- VAR0   dice, "He sacrificado mi cuerpo por el poder supremo!"
+VAR0   dice, "He sacrificado mi cuerpo por el poder supremo!"
 
  VAR1   dice, "¡Te mostraré la gran verdad aniquiladora!"
 
@@ -1571,14 +1602,14 @@ Ru player ghost
 %%%%
 Sif Muna player ghost
 
- VAR0   dice, "La muerte es sólo otro paso por el camino del conocimiento."
+VAR0   dice, "La muerte es sólo otro paso por el camino del conocimiento."
 
  VAR1   dice, "Tengo mucho tiempo para estudiar, ahora."
 
 %%%%
 The Shining One player ghost
 
- VAR0   dice, "Me prometieron protección divina. Tanto por eso."
+VAR0   dice, "Me prometieron protección divina. Tanto por eso."
 
  VAR1   dice, "En la vida combatí el gran mal. Ahora solo estoy luchando."
 
@@ -1593,14 +1624,14 @@ Dicen que la caballería está muerta. Bueno, yo también".
 %%%%
 Trog player ghost
 
- VAR0   grita, "¿Quién hubiera pensado, incluso en la muerte es un placer para avergonzar!"
+VAR0   grita, "¿Quién hubiera pensado, incluso en la muerte es un placer para avergonzar!"
 
  VAR1   grita con alegría, "Como en la vida, así en la muerte: ¡Mata! ¡Mata! Matar!!!"
 
 %%%%
 Uskayaw player ghost
 
- VAR0   dice   VAR1  , "Es tu último baile!"
+VAR0   dice   VAR1  , "Es tu último baile!"
 
  VAR2   dice   VAR3  , "Déjame mostrarte el verdadero ritmo."
 
@@ -1614,7 +1645,7 @@ Uskayaw player ghost
 %%%%
 Vehumet player ghost
 
- VAR0   amenaza, "Estoy recién salido del infierno, pero tú terminas de todos modos."
+VAR0   amenaza, "Estoy recién salido del infierno, pero tú terminas de todos modos."
 
  VAR1   dice, "Los agentes de destrucción total no son detenidos por la muerte."
 
@@ -1625,7 +1656,7 @@ Vehumet player ghost
 %%%%
 Wu Jian player ghost
 
- VAR0   dice   VAR1  , "Te falta la disciplina para derrotarme".
+VAR0   dice   VAR1  , "Te falta la disciplina para derrotarme".
 
  VAR2   dice   VAR3  , "Veamos lo bien que te mueves".
 
@@ -1651,14 +1682,14 @@ Me río al matar. Sonríe cuando muera. ¡SMILE!"
 %%%%
 Yredelemnul player ghost
 
- VAR0   dice   VAR1  , "Tu alma puede ser de utilidad para mí."
+VAR0   dice   VAR1  , "Tu alma puede ser de utilidad para mí."
 
  VAR2   dice   VAR3  , "Primero tú Will muere, entonces tú Will sufre."
 
 %%%%
 Zin player ghost
 
- VAR0   dice   VAR1   , "Muero pobre y en vano, pero no como un monstruo."
+VAR0   dice   VAR1   , "Muero pobre y en vano, pero no como un monstruo."
 
  VAR2   dice   VAR3   , "Para todo el diezmo, esperaba una vida más gloriosa que esto."
 
@@ -1682,30 +1713,23 @@ dragon
 %%%%
 _laughs_
 
-# also used by mimics
+cackles madly
 
-snickers
+chuckles harshly
 
-titters
-
-giggles
-
-chortles
-
-chuckles
-
-guffaws
+w:6
+gibbers darkly
 
 %%%%
 player ghost
 
- VAR0 
+VAR0 
 
 w:5
  VAR1  
 
 w:2
- VAR2  
+ VAR2
 
 %%%%
 _player_ghost_common_
@@ -1793,6 +1817,14 @@ _player_ghost_rare_
 @The_monster@ @_wails_@, "You must not fail where I succeeded!"
 
 %%%%
+Aizul
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Aizul_common_
 
 VISUAL:@The_monster@ yawns, and then pretends @subjective@ didn't.
@@ -1827,6 +1859,14 @@ VISUAL:@The_monster@ coils and then uncoils.
 VISUAL:@The_monster@ winks several times @at_foe@.
 
 %%%%
+Agnes
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Agnes_common_
 
 VISUAL:@The_monster@ bows.
@@ -1856,14 +1896,27 @@ _Agnes_rare_
 %%%%
 Agnes triumphant
 
- VAR0   dice, "Que sigas el Camino de la Paz en tu próxima vida."
+VAR0   dice, "Que sigas el Camino de la Paz en tu próxima vida."
 ## END Agnes ##
+
+%%%%
+Antaeus
+
+ VAR0 
 
 %%%%
 Antaeus triumphant
 
- VAR0   dice, "Tu alma Will estar atrapada en el hielo durante diez mil años."
+VAR0   dice, "Tu alma Will estar atrapada en el hielo durante diez mil años."
 ## END §1§
+
+%%%%
+Amaemon
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Amaemon_common_
@@ -1894,9 +1947,34 @@ _Amaemon_rare_
 @The_monster@ sings, "Eyes close, heart stop, nighty-night for you..."
 
 %%%%
+Arachne
+
+ VAR0   dice, "Sigan mi plomo, pequeños."
+
+ VAR1   dice, "Resentí este cuerpo una vez, pero ¿podría algún ser humano hacer lo que he hecho?"
+
+ VAR2    Snarls, "I Will not be driven out again."
+
+ VAR3   dice   VAR4   , "Ven más cerca, poco Fly."
+
+ VAR5   dice   VAR6   , "He terminado el sufrimiento por el arte; puedes sufren en cambio."
+
+ VAR7   dice   VAR8   , "Mi seda es un partido tanto para el acero como para el hechizo".
+
+ VAR9   dice   VAR10  , "I Will spin a new home for us all."
+
+%%%%
 Arachne triumphant
 
- VAR0   grita: "Este es mi dominio ahora; ¡alguien entra en su propio peligro!"
+VAR0   grita: "Este es mi dominio ahora; ¡alguien entra en su propio peligro!"
+
+%%%%
+Asterion
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Asterion_common_
@@ -1958,9 +2036,17 @@ You hear demonic laughter.
 %%%%
 Asterion triumphant
 
- VAR0   grita, "¡El poder de Makhleb!"
+VAR0   grita, "¡El poder de Makhleb!"
 
 ¡Soy el rey! ¡Todas las rodillas
+
+%%%%
+Azrael
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Azrael_common_
@@ -2017,6 +2103,14 @@ end
 ## END Azrael ##
 
 %%%%
+Bai Suzhen
+
+ VAR0 
+
+w:6
+ VAR1  
+
+%%%%
 _Bai_Suzhen_common_
 
 @The_monster@ grumbles, "Damn that jealous turtle monk."
@@ -2050,10 +2144,10 @@ VISUAL:@The_monster_possessive@ form shimmers in the rain.
 %%%%
 Blorkula the orcula
 
- VAR0 
+VAR0 
 
 w:5
- VAR1  
+ VAR1
 
 %%%%
 Blorkula the orcula triumphant
@@ -2128,6 +2222,18 @@ Una débil neblina prismática surge de la forma rota de Blorkula y luego se dis
 ## END Blorkula the orcula ##
 
 %%%%
+Boris
+
+w:8
+ VAR0 
+
+w:5
+ VAR1  
+
+w:2
+ VAR2  
+
+%%%%
 _Boris_common_
 
 VISUAL:@The_monster@ stares @at_foe@.
@@ -2182,10 +2288,10 @@ _Boris_rare_
 %%%%
 Boris killed
 
- VAR0 
+VAR0 
 
 w:5
- VAR1  
+ VAR1
 
 %%%%
 _Boris_return_common_
@@ -2215,7 +2321,7 @@ w:5
 %%%%
 Boris timeout
 
- VAR0    dice: "No puedes despedirme, ¡renuncio!"
+VAR0    dice: "No puedes despedirme, ¡renuncio!"
 
 %%%%
 friendly Boris timeout
@@ -2225,7 +2331,7 @@ friendly Boris timeout
 %%%%
 Boris triumphant
 
- VAR0   dice, "Y eso es lo último que veré de ti."
+VAR0   dice, "Y eso es lo último que veré de ti."
 
  VAR1   dice, "Me gustaría ver que vuelves de este".
 
@@ -2234,7 +2340,32 @@ Boris triumphant
 %%%%
 Boris riddle
 
- VAR0   dice, "¿Tú preguntaría tales trivialidades de uno que ha resuelto la muerte en sí mismo?"
+VAR0   dice, "¿Tú preguntaría tales trivialidades de uno que ha resuelto la muerte en sí mismo?"
+
+%%%%
+Cassandra
+
+ VAR0   dice, "Un terrible destino espera a todos los que buscan the Orb - y el vuestro peor de todos."   VAR1  
+
+ VAR2    te hace ver, "Abandonen tu búsqueda, para que no nos encuentre un terrible final".   VAR3  
+
+ VAR4   grita: "¡Atrás mientras puedas!"
+
+ VAR5   dice, "El camino que caminas tiene sólo un extremo y podrías no lo desea ni siquiera sobre tus enemigos."
+
+ VAR6   grita: "¡No sabes lo que está en juego aquí!"
+
+El extraño misterioso
+ VAR7   dice, "Nunca sabes buena fortuna de los enfermos. Es porque no puedes ver en el futuro."
+
+ VAR8   dice, "Heid mis palabras o todos sufriremos su consecuencia."
+
+ VAR9   dice, "He visto cosas que nadie debería."
+
+ VAR10   dice, "El conocimiento es su propia maldición."
+
+w:5
+ VAR11   dice, "Si no seamos más que esclavos del destino, todavía hablo la verdad a mi aliento moribundo."
 
 %%%%
 Cassandra triumphant
@@ -2244,7 +2375,7 @@ Cassandra triumphant
 %%%%
 Cassandra killed
 
- VAR0    gasps with   VAR1   moribundo aliento, "Yo... intenté advertirte..."
+VAR0    gasps with   VAR1   moribundo aliento, "Yo... intenté advertirte..."
 
  VAR2     gasps with   VAR3    moribundo aliento, "Nadie... nunca escucha..."
 
@@ -2253,7 +2384,7 @@ Cassandra killed
 %%%%
 friendly Cassandra
 
- VAR0   le ruega que reconsidere su búsqueda.
+VAR0   le ruega que reconsidere su búsqueda.
 
  VAR1   suplica, "Will Tú no escucha la palabra de un amigo y terminar esto?"
 
@@ -2268,7 +2399,7 @@ Chuck
  VAR0 
 
 w:2
- VAR1  
+ VAR1
 
 %%%%
 _chuck_generic_
@@ -2308,15 +2439,89 @@ VISUAL:@The_monster@ inspects you suspiciously.
 ### End CHUCK ###
 
 %%%%
+Crazy Yiuf
+
+ VAR0 
+
+%%%%
+Xom Crazy Yiuf
+
+# Sócrates
+ VAR0   dice, "La vida que no es examinada no vale la pena vivir."
+
+Stephen Hawking
+ VAR1   dice, "Mi objetivo es simple. Es una comprensión completa del universo, por qué es como es y por qué existe en absoluto."
+
+Einstein
+ VAR2   dice, "Uno puede decir que el misterio eterno del mundo es su comprensión."
+
+Kierkegaard
+ VAR3   dice, "¿Cuál es más difícil, despertar a uno que duerme o despertar a uno que, despierto, sueña que está despierto?"
+
+# Chekhov
+ VAR4   dice, "Todo el mundo tiene el mismo dios; sólo la gente difiere."
+
+# Nietzsche
+ VAR5   dice, "Contra el aburrimiento aun los dioses luchan en vano."
+
+Ralph Waldo Emerson
+ VAR6   dice, "No hay hechos para mí sagrados; ninguno es profano; simplemente experimento, un buscador sin fin, sin pasado en mi espalda."
+
+Robert Ingersoll
+ VAR7   dice: "El presente es el niño, y el niño necesario, de todo el pasado, y la madre de todo el futuro."
+
+Hume
+ VAR8   dice, "La razón no es más que un instinto maravilloso e inteligible en nuestras almas."
+
+# Kant
+ VAR9   dice, "Es extremadamente absurdo esperar ser iluminado por la razón, y sin embargo prescribirle de antemano en qué lado debe inclinarse."
+
+# The Principia Discordia
+ VAR10   dice, "La realidad real está ahí, pero todo lo que sabes sobre 'está en tu mente y la tuya para hacer con lo que quieras."
+
+VISUAL:  VAR11   considera el materialismo dialéctico.
+
+VISUAL:  VAR12   reflexiona un dilema existencial.
+
+VISUAL:  VAR13     VAR14      notas bajo   VAR15   coágulo.
+
+VISUAL:  VAR16   escucha un suspiro en la contemplación.
+
+%%%%
 orb Crazy Yiuf
 
- VAR0   dice: "¡Espérame!"
+VAR0   dice: "¡Espérame!"
 
  VAR1   dice, "¡Lo encontraste!"
 
  VAR2   dice, "Sácame de este lugar."
 
  VAR3   dice, "Volviste por mí."
+
+%%%%
+confused Crazy Yiuf
+
+ VAR0   dice, "Esta barba pica algo loco!"
+
+ VAR1   dice, "Me pregunto si dejé la ventana abierta."
+
+Visual:                                                                                                                                                                                                                                                            
+
+¿Has visto mis gafas?
+
+ VAR5   dice: "Quizás tenga cordero para cenar."
+
+ VAR6   dice, "Oh, esto es bastante agradable."
+
+¿Has visto mi capa?
+
+Se ríe.
+
+VISUAL:  VAR9    cuenta algo con los dedos   VAR10   .
+
+ VAR11   dice: "Mi cabeza está en una vuelta!"
+
+ VAR12   dice, "Me siento bastante peculiar."
 
 %%%%
 _crazy_yiuf_speech_
@@ -2376,6 +2581,347 @@ w:2
 @_crazy_yiuf_wordlist1_@!
 
 %%%%
+_crazy_yiuf_wordlist1_
+
+You
+
+Peeping
+
+Fire
+
+Ice
+
+Shadow
+
+Iron
+
+Action
+
+Aardvark
+
+Announcement
+
+Paint
+
+Snoogle
+
+Hah
+
+Powder
+
+Hack
+
+Scoff
+
+Two
+
+Candle
+
+Gum
+
+Rot
+
+Castle
+
+Cholesterol
+
+Buddy
+
+Snower
+
+Leather
+
+Rifle
+
+Trifle
+
+Fluff
+
+Gnoll
+
+Orb
+
+Adder
+
+Dawk
+
+Goldfish
+
+Shower
+
+Line
+
+Mountain
+
+Tosser
+
+Tonal
+
+East
+
+Blight
+
+Lay
+
+Whiteboard
+
+Flower
+
+Papa
+
+Mama
+
+Whippet
+
+Pitchfork
+
+Cod
+
+Ghoul
+
+Snurf
+
+Goober
+
+Prologue
+
+Proton
+
+Key
+
+Island
+
+Ten
+
+Cards
+
+Sif Muna
+
+Lugonu
+
+Nubble
+
+Race
+
+Seed
+
+Cake
+
+Citrus
+
+Spliff
+
+Defame
+
+Liver
+
+Mugger
+
+Walk
+
+Earwax
+
+Millennium
+
+Holy
+
+Unholy
+
+%%%%
+_crazy_yiuf_wordlist2_
+
+sing-song
+
+sing
+
+song
+
+broken
+
+hand
+
+leg
+
+down
+
+bush
+
+tired
+
+snail
+
+chicken
+
+hippo
+
+shrimp
+
+Xom
+
+cower
+
+chair
+
+blue
+
+green
+
+sallow
+
+sow
+
+horse
+
+donkey
+
+stair
+
+wrapper
+
+King
+
+Queen
+
+infinity
+
+cloud
+
+bag
+
+tea
+
+light
+
+dark
+
+lumber
+
+ingot
+
+water
+
+foot
+
+shoe
+
+knee
+
+arm
+
+head
+
+eyeball
+
+snockshim
+
+koolooloo
+
+toodlewoodle
+
+childish
+
+ragdoll
+
+seventy
+
+poople
+
+ladder
+
+illywillydillykilly
+
+Orb Guardian
+
+Hive
+
+tortoise
+
+turtle
+
+testudinal
+
+return to song
+
+mobile
+
+senile
+
+canine
+
+feline
+
+bovine
+
+disdain
+
+pontify
+
+verde
+
+hog
+
+ena
+
+spinner
+
+agre
+
+arga
+
+meccalolo
+
+fast
+
+aubergine
+
+sanguine
+
+twenty-three
+
+twenty-seven
+
+forty-two
+
+unthinkable
+
+high
+
+action
+
+pizzabubble
+
+noodlescoop
+
+mumblescurry
+
+alas
+
+rumpyflump
+
+sizzlefizz
+
+%%%%
+Dissolution
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
+_dissolution_common_
+
+@The_monster@ gurgles.
+
+@The_monster@ gurgles loudly.
+
+@The_monster@ emits a sizzling noise.
+
+VISUAL:@The_monster@ jiggles.
+
+VISUAL:@The_monster@ wobbles.
+
+%%%%
 _dissolution_speech_
 
 @The_monster@ says, "Join with me for eternity!"
@@ -2406,6 +2952,29 @@ w:1
 w:2
 @The_monster@ says, "There is a problem solver and @possessive@ name is Dissolver!"
 ## END Dissolution ##
+
+%%%%
+Temple Donald
+
+w:50
+ VAR0 
+
+ VAR1   dice: "Nunca puedo encontrar el altar que quiero aquí."
+
+ VAR2   dice, "Hay demasiados dioses que exigen mi adoración. Odio eso."
+
+ VAR3   dice, "¿Por qué me trajiste hasta aquí sólo para ver el Templo?"
+
+ VAR4   dice, "No hay suficiente tesoro aquí."
+
+ VAR5   dice, "Ya has tomado la runa de aquí, ¿verdad?"
+
+ VAR6   dice, "Los así llamados "buenos" dioses son tan malvados como el resto. Odio la hipocresía".
+
+ VAR7   dice, "Odio los templos."
+
+w:5
+ VAR8   dice, "¿Qué hay de una taberna ecuménica?"
 
 %%%%
 Orc Donald
@@ -2915,7 +3484,7 @@ Lo siento. ¿A quién adoras? ¿Cómo lo deletrea?"
 %%%%
 friendly Yredelemnul Donald
 
- VAR0 
+VAR0 
 
  NEXT
 
@@ -2925,7 +3494,7 @@ Yredelemnul Donald
 w:50
  VAR0 
 
- VAR1  
+ VAR1
 
 %%%%
 _yredelemnul_Donald_
@@ -3496,6 +4065,79 @@ w:5
  VAR6   dice, "¿Te perdiste el Templo Ecuménico?"
 
 %%%%
+_generic_Donald_
+
+@The_monster@ says, "You're really ugly. Did you know that?"
+
+@The_monster@ says, "This is such a pointless quest."
+
+@The_monster@ says, "They wouldn't let me join their adventuring club without the Orb."
+
+@The_monster@ says, "I hate this place."
+
+@The_monster@ says, "I hate you, too."
+
+@The_monster@ says, "My feet hurt."
+
+@The_monster@ says, "My hands hurt, too."
+
+@The_monster@ says, "I think I'm starting to get a cough. I hate that."
+
+@The_monster@ says, "I've got a headache. I hate that."
+
+@The_monster@ says, "That colour you're wearing? I hate that."
+
+@The_monster@ says, "Like I always say, the jar is half empty."
+
+@The_monster@ says, "And you think you've got it bad..."
+
+@The_monster@ says, "I wonder if there's an end to this place."
+
+@The_monster@ says, "Is it turtles all the way down?"
+
+@The_monster@ says, "The people that built this place? They must be crazy."
+
+@The_monster@ says, "The air in here stinks. I hate that."
+
+@The_monster@ says, "I bet the Orb isn't even all that great."
+
+@The_monster@ says, "So, what is this Orb thing, anyway?"
+
+@The_monster@ says, "I hope I haven't come all this way for a glorified paperweight."
+
+@The_monster@ says, "I don't get what's so special about the number twenty-seven."
+
+@The_monster@ says, "The other people here are really rude."
+
+@The_monster@ says, "Maybe I'll visit Hell next."
+
+@The_monster@ says, "The Vaults look kind of boring."
+
+@The_monster@ says, "I can never work out what any of these scrolls mean."
+
+@The_monster@ sighs.
+
+VISUAL:@The_monster@ winces.
+
+VISUAL:@The_monster@ makes a rude gesture at you.
+
+VISUAL:@The_monster@ shakes @possessive@ head.
+
+@The_monster@ says, "What lunatic would build a room out of doors?"
+
+@The_monster@ says, "Why would someone put a sword in a little box?"
+
+@The_monster@ says, "I think I hate rivers, but I can't remember why."
+
+@The_monster@ says, "That guy with the scythe is really mean."
+
+w:1
+@The_monster@ says, "What kind of a name is Fauntleroy?"
+
+w:1
+@The_monster@ says, "What's the big idea?!"
+
+%%%%
 friendly Donald
 
 w:50
@@ -3506,7 +4148,7 @@ w:50
 %%%%
 default hostile confused Donald
 
- VAR0   dice, "Supongo que todo está bien, entonces?"
+VAR0   dice, "Supongo que todo está bien, entonces?"
 
  VAR1   dice, "En realidad, me gustas."
 
@@ -3535,7 +4177,7 @@ VISUAL:  VAR14   Twirls suavemente en el lugar.
 %%%%
 Donald marionette
 
- VAR0   dice, "No me uses como un títere de calcetín barato. Odio eso."
+VAR0   dice, "No me uses como un títere de calcetín barato. Odio eso."
 
 %%%%
 Donald riddle
@@ -3568,6 +4210,19 @@ Dice: "Gané. Yo... no odio eso."
  VAR1   dice, "Bueno, tal vez no eras tan malo después de todo."
 
 %%%%
+twin_died Dowan
+
+VISUAL:  VAR0  se sacude con dolor.
+
+ VAR1   dice, "Magic Will supera todos!"
+
+ VAR2   dice: "Su muerte no será en vano!"
+
+ VAR3   dice: "¿Cómo puedo vivir sin ella?"
+
+ VAR4   respira, "Y ella era mi única..."
+
+%%%%
 twin_banished Dowan
 
 VISUAL:  VAR0  se sacude con dolor.
@@ -3588,10 +4243,10 @@ VISUAL:  VAR0  se sacude con dolor.
 %%%%
 Dowan
 
- VAR0 
+VAR0 
 
 w:2
- VAR1  
+ VAR1
 
 %%%%
 fleeing Dowan
@@ -3654,17 +4309,34 @@ Escuchas una distancia de desesperación.
 %%%%
 Dowan_Duvessa_dies_bytwin
 
- VAR0 
+VAR0
 
 %%%%
 Dowan_Duvessa_dies_invisible_bytwin
 
- VAR0 
+VAR0
 
 %%%%
 Dowan_Duvessa_dies_distance_bytwin
 
- VAR0 
+VAR0
+
+%%%%
+twin_died Duvessa
+
+VISUAL:  VAR0   se sacude en una combinación de ira y dolor.
+
+VISUAL:  VAR1    Gris   VAR2     dientes y se centra.
+
+ VAR3   dice: "La espada vencerá el dolor!"
+
+ VAR4   dice: "¡Su muerte no será en vano!"
+
+ VAR5   dice, "I Will vengarlo!"
+
+ VAR6   dice, "I Will viaje al infierno para recuperarlo!"
+
+Llora.
 
 %%%%
 twin_ikilled Duvessa
@@ -3700,10 +4372,10 @@ Grita.
 %%%%
 Duvessa
 
- VAR0 
+VAR0 
 
 w:2
- VAR1  
+ VAR1
 
 %%%%
 _Duvessa_common_
@@ -3763,12 +4435,20 @@ w:1
 %%%%
 Duvessa_Dowan_dies_invisible_bytwin
 
- VAR0 
+VAR0
 
 %%%%
 Duvessa_Dowan_dies_distance_bytwin
 
+VAR0
+
+%%%%
+Edmund
+
  VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Edmund_common_
@@ -3818,11 +4498,19 @@ w:1
 %%%%
 Edmund triumphant
 
- VAR0   dice, "Eso mostrará a mi hermano!"
+VAR0   dice, "Eso mostrará a mi hermano!"
 
  VAR1   dice, "Me gustaría ver a un scythe hacer eso!"
 
  VAR2    whines, "¡Mejor que me presten atención ahora!"
+
+%%%%
+Erica
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Erica_common_
@@ -3859,8 +4547,16 @@ _Erica_rare_
 %%%%
 Erica triumphant
 
- VAR0  comienza a burbling mirthfully and uncontrollably.
+VAR0  comienza a burbling mirthfully and uncontrollably.
 FIN Erica
+
+%%%%
+Erolcha
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Erolcha_common_
@@ -3903,6 +4599,14 @@ w:1
 ### END § §#####
 
 %%%%
+Eustachio
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Eustachio_common_
 
 @The_monster@ screams @at_foe@, "At last I'll have my revenge!"
@@ -3939,6 +4643,14 @@ VISUAL:  VAR0   twirls   VAR1   moustache.
 
  VAR2   dice, "Tal es el destino de todos los rascales sin honor."
 ## END Eustachio#
+
+%%%%
+Frances
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Frances_common_
@@ -3984,13 +4696,21 @@ w:1
 @The_monster@ says, "I will defeat you, of this I have no doubt!" @player_only@
 
 %%%%
+Frederick
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 Beogh Frederick
 
 w:2
 Dice: "No has traído suficientes refuerzos. ¡Vuelve más tarde!"
 
 w:30
- VAR1  
+ VAR1
 
 %%%%
 Okawaru Frederick
@@ -3999,7 +4719,7 @@ w:2
  VAR0   dice, "Pah! Aquellos que confían en los dioses por la fuerza no llegan a ninguna parte en la vida."
 
 w:30
- VAR1  
+ VAR1
 
 %%%%
 _Frederick_common_
@@ -4063,188 +4783,196 @@ No tenías oportunidad.
 %%%%
 Frederick riddle
 
- VAR0  suspiros, "Tus ingenios son de alguna manera incluso más aburridos que tus garras."
+VAR0  suspiros, "Tus ingenios son de alguna manera incluso más aburridos que tus garras."
 
 %%%%
 Ashenzari Frederick triumphant
 
- VAR0  sacudes   VAR1    la cabeza tristemente, "Donando vacilantemente los grilletes de un dios... piadoso."
+VAR0  sacudes   VAR1    la cabeza tristemente, "Donando vacilantemente los grilletes de un dios... piadoso."
 
- VAR2  
+ VAR2
 
 %%%%
 Beogh Frederick triumphant
 
- VAR0  suspiros, "Tus hermanos sólo te estaban reteniendo,   VAR1   ."
+VAR0  suspiros, "Tus hermanos sólo te estaban reteniendo,   VAR1   ."
 
- VAR2  
+ VAR2
 
 %%%%
 Cheibriados Frederick triumphant
 
- VAR0   dice, "Sé feliz - puedes no se hace más lento que muerto."
+VAR0   dice, "Sé feliz - puedes no se hace más lento que muerto."
 
- VAR1  
+ VAR1
 
 %%%%
 Dithmenos Frederick triumphant
 
- VAR0   dice, "Tiempo para que desaparezcas en la oscuridad."
+VAR0   dice, "Tiempo para que desaparezcas en la oscuridad."
 
- VAR1  
+ VAR1
 
 %%%%
 Elyvilon Frederick triumphant
 
- VAR0   dice: "Cálmate, cálmate."
+VAR0   dice: "Cálmate, cálmate."
 
- VAR1  
+ VAR1
 
 %%%%
 Fedhas Frederick triumphant
 
- VAR0   dice, "Eres hierba, mortal."
+VAR0   dice, "Eres hierba, mortal."
 
- VAR1  
+ VAR1
 
 %%%%
 Gozag Frederick triumphant
 
- VAR0   dice, "Tu codicia te retenía".
+VAR0   dice, "Tu codicia te retenía".
 
- VAR1  
+ VAR1
 
 %%%%
 Hepliaklqana Frederick triumphant
 
- VAR0   dice, "Recordando las obras de tus antepasados no te trajo gloria".
+VAR0   dice, "Recordando las obras de tus antepasados no te trajo gloria".
 
- VAR1  
+ VAR1
 
 %%%%
 Ignis Frederick triumphant
 
- VAR0   dice, "Alegrándose a adorar a un dios cuya llama es incluso más tenue que tú."
+VAR0   dice, "Alegrándose a adorar a un dios cuya llama es incluso más tenue que tú."
 
- VAR1  
+ VAR1
 
 %%%%
 Jivya Frederick triumphant
 
- VAR0   dice, "Nuestra batalla era tan aburrida y sin forma como tu dios."
+VAR0   dice, "Nuestra batalla era tan aburrida y sin forma como tu dios."
 
- VAR1  
+ VAR1
 
 %%%%
 Kikubaaqudgha Frederick triumphant
 
- VAR0  suspiros, "Únete a los cadáveres que ídolos, mortal."
+VAR0  suspiros, "Únete a los cadáveres que ídolos, mortal."
 
- VAR1  
+ VAR1
 
 %%%%
 Lugonu Frederick triumphant
 
- VAR0   dice, "Una forma más permanente de destierro para ti, mortal."
+VAR0   dice, "Una forma más permanente de destierro para ti, mortal."
 
- VAR1  
+ VAR1
 
 %%%%
 Makhleb Frederick triumphant
 
- VAR0   dice, "Y lleva tus demonios contigo."
+VAR0   dice, "Y lleva tus demonios contigo."
 
- VAR1  
+ VAR1
 
 %%%%
 Nemelex Xobeh Frederick triumphant
 
- VAR0   dice, "Parece que te doblas, jugador."
+VAR0   dice, "Parece que te doblas, jugador."
 
- VAR1  
+ VAR1
 
 %%%%
 Okawaru Frederick triumphant
 
- VAR0   dice, "Ahora me consideras un oponente digno?"
+VAR0   dice, "Ahora me consideras un oponente digno?"
 
- VAR1  
+ VAR1
 
 %%%%
 Qazlal Frederick triumphant
 
- VAR0   dice, "Finalmente, podré conseguir algo de paz y tranquilidad."
+VAR0   dice, "Finalmente, podré conseguir algo de paz y tranquilidad."
 
- VAR1  
+ VAR1
 
 %%%%
 Ru Frederick triumphant
 
- VAR0   dice, "Renunciaste demasiado de ti mismo."
+VAR0   dice, "Renunciaste demasiado de ti mismo."
 
- VAR1  
+ VAR1
 
 %%%%
 Sif Muna Frederick triumphant
 
- VAR0   suspiros, "Resistir en el conocimiento de los demás te llevó a ninguna parte, mortal".
+VAR0   suspiros, "Resistir en el conocimiento de los demás te llevó a ninguna parte, mortal".
 
- VAR1  
+ VAR1
 
 %%%%
 Trog Frederick triumphant
 
- VAR0   dice, "Estoy seguro de que harás un buen fantasma enojado."
+VAR0   dice, "Estoy seguro de que harás un buen fantasma enojado."
 
- VAR1  
+ VAR1
 
 %%%%
 Uskayaw Frederick triumphant
 
- VAR0   dice, "Has bailado tus últimos pasos."
+VAR0   dice, "Has bailado tus últimos pasos."
 
- VAR1  
+ VAR1
 
 %%%%
 Vehumet Frederick triumphant
 
- VAR0   dice, "Un mage debe confiar sólo en sus propias habilidades."
+VAR0   dice, "Un mage debe confiar sólo en sus propias habilidades."
 
- VAR1  
+ VAR1
 
 %%%%
 Wu Jian Frederick triumphant
 
- VAR0   dice, "Sólo deberías confiar en técnicas que te has desarrollado".
+VAR0   dice, "Sólo deberías confiar en técnicas que te has desarrollado".
 
- VAR1  
+ VAR1
 
 %%%%
 Xom Frederick triumphant
 
- VAR0    fruncidos, "se entregará como un juguete para Xom... comportamiento extraño".
+VAR0    fruncidos, "se entregará como un juguete para Xom... comportamiento extraño".
 
- VAR1  
+ VAR1
 
 %%%%
 Yredelemnul Frederick triumphant
 
- VAR0   dice, "Busca consuelo en unirte a las legiones que adoras."
+VAR0   dice, "Busca consuelo en unirte a las legiones que adoras."
 
- VAR1  
+ VAR1
 
 %%%%
 Zin Frederick triumphant
 
- VAR0   dice, "Lo único más molesto que un adorador es un proselitista."
+VAR0   dice, "Lo único más molesto que un adorador es un proselitista."
 
- VAR1  
+ VAR1
 
 %%%%
 the Shining One Frederick triumphant
 
- VAR0   dice, "El aventurero que brilla dos veces más que las quemaduras brillantes fuera dos veces más rápido."
+VAR0   dice, "El aventurero que brilla dos veces más que las quemaduras brillantes fuera dos veces más rápido."
 
+ VAR1
+
+%%%%
+Fannar
+
+ VAR0 
+
+w:5
  VAR1  
 
 %%%%
@@ -4270,6 +4998,14 @@ _Fannar_rare_
 @The_monster@ says @to_foe@, "You will make a fine ice sculpture."
 
 @The_monster@ says @to_foe@, "Does this not give you the chills?"
+
+%%%%
+Gastronok
+
+ VAR0 
+
+w:4
+ VAR1  
 
 %%%%
 _Gastronok_common_
@@ -4308,11 +5044,19 @@ VISUAL:@The_monster_possessive@ eyestalks wobble, almost dislodging @possessive@
 %%%%
 Gastronok triumphant
 
- VAR0    gurgles, "Tiempo de excavar!"
+VAR0    gurgles, "Tiempo de excavar!"
 
  VAR1   gurgles, "Acerca del tiempo. Me muero de hambre!"
 
  VAR2    gurgles, "Vamos a ver si tú sabe tan bien como lo hizo ese mago."
+
+%%%%
+Grinder
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Grinder_common_
@@ -4357,11 +5101,19 @@ VISUAL:@The_monster@ rolls @possessive@ eyes.
 %%%%
 Grinder triumphant
 
- VAR0   dice, "Ahora la verdadera diversión comienza!"
+VAR0   dice, "Ahora la verdadera diversión comienza!"
 
  VAR1   dice: "Oye, no he terminado de torturarte todavía!"
 
 ¿Ya está muerto? Quiero un reembolso."
+
+%%%%
+Grum
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Grum_common_
@@ -4473,6 +5225,14 @@ Spike
 ## END Grum ##
 
 %%%%
+Grunn
+
+ VAR0 
+
+w:2
+ VAR1  
+
+%%%%
 _Grunn_common_
 
 # All of the common Grum lines are fine, so let's use em.
@@ -4504,6 +5264,14 @@ VISUAL:@The_monster@ pats at a spot of missing fur and sighs.
 @The_monster@ moans, "It's cold... so cold."
 
 %%%%
+Harold
+
+ VAR0 
+
+w:6
+ VAR1  
+
+%%%%
 _Harold_common_
 
 VISUAL:@The_monster@ looks eager to get this over with.
@@ -4527,9 +5295,28 @@ VISUAL:@The_monster@ looks eager to get this over with.
 @The_monster@ says @to_foe@, "Ah, this is what I got into this business for!"
 
 %%%%
+_Harold_rare_
+
+VISUAL:@The_monster@ pauses a moment, imagining something with a smile on @possessive@ face.
+
+@The_monster@ considers, "I think I'll use your bounty to get a @_Harold_retirement_plan_@..." @player_only@
+
+@The_monster@ asks, "Do you mind if I name my boat the '@player_name@'? Your head will be paying for it, after all." @player_only@
+
+@The_monster@ says happily, "The price on your head will fill my nest egg nicely!" @player_only@
+
+@The_monster@ thinks, and says @to_foe@, "Perhaps I'll take up @_Harold_ret_hobby_@ after I'm done here..."
+
+@The_monster@ says, "Try to look on the bright side. Your death will help put my children through school." @player_only@
+
+@The_monster@ says @to_foe@, "Bounty hunting has been great, but I can't wait to retire."
+
+@The_monster@ says @to_foe@, "My wife will appreciate not having to wash blood out of my clothes anymore."
+
+%%%%
 fleeing Harold
 
- NEXT
+NEXT
 
 w:5
  VAR0         , "Me estoy volviendo demasiado viejo para esto!"
@@ -4554,13 +5341,26 @@ w:1
 %%%%
 Harold triumphant
 
- VAR0   dice, "No puedo esperar a contar a mis pequeños sobre esto."
+VAR0   dice, "No puedo esperar a contar a mis pequeños sobre esto."
 
  VAR1   dice, "Hora de retirarse".
 
  VAR2   suspiros, "Finalmente, puedo conseguir que   VAR3   y establecerme."
 
  VAR4   suspiros, "Nada para los viejos   VAR5   pero   VAR6   después de esto."
+
+%%%%
+_Harold_retirement_plan_
+
+@_Harold_ret_house_@ @_Harold_ret_place_@
+
+fishing boat
+
+horse ranch
+
+cattle farm
+
+nice plot of land
 
 %%%%
 _Harold_ret_house_
@@ -4605,6 +5405,14 @@ painting
 ## END Harold ##
 
 %%%%
+Ignacio
+
+ VAR0 
+
+w:3
+ VAR1  
+
+%%%%
 _Ignacio_common_
 
 VISUAL:@The_monster@ looks at @possessive@ axe, then at @foe@, then at @possessive@ axe, then at @foe@...
@@ -4630,6 +5438,14 @@ _Ignacio_rare_
 
 @The_monster@ says @to_foe@, "No gallows around, so decapitation it is."
 ## END Ignacio ##
+
+%%%%
+Ijyb
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Ijyb_common_
@@ -4690,10 +5506,18 @@ VISUAL:  VAR11     clutches   VAR12   cabeza y gibbers rápidamente, balanceando
 %%%%
 ijyb triumphant
 
- VAR0   grita, "¡Hora para el próximo experimento!"
+VAR0   grita, "¡Hora para el próximo experimento!"
 
  VAR1   gemidos, "¡Buena ayuda para encontrarlo!"
 ### END § §#####
+
+%%%%
+Ilsuiw
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Ilsuiw_common_
@@ -4726,6 +5550,14 @@ VISUAL:@The_monster@ gazes at @foe@ [hypnotically|seductively].
 ## END Ilsuiw ##
 
 %%%%
+Jessica
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Jessica_common_
 
 VISUAL:@The_monster@ grins evilly.
@@ -4753,6 +5585,14 @@ _Jessica_rare_
 
 @The_monster@ shouts @at_foe@, "You are a ghastly nuisance!"
 ## END Jessica ##
+
+%%%%
+Jeremiah
+
+ VAR0 
+
+w:3
+ VAR1  
 
 %%%%
 _Jeremiah_common_
@@ -4825,6 +5665,14 @@ Jeremiah triumphant
 ## END Jeremiah ##
 
 %%%%
+Jorgrun
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Jorgrun_common_
 
 @The_monster@ says @to_foe@, "May tha earth consume ye!"
@@ -4846,9 +5694,14 @@ _Jorgrun_rare_
 ## END Jorgrun ##
 
 %%%%
-Jory
+silenced Jory
 
  VAR0 
+
+%%%%
+Jory
+
+VAR0
 
 %%%%
 _Jory_common_
@@ -4898,7 +5751,7 @@ VISUAL:@The_monster@ hisses silently.
 %%%%
 Jory killed
 
- VAR0   grita, "¡No, no!" antes de explotar en una nube de sangre!
+VAR0   grita, "¡No, no!" antes de explotar en una nube de sangre!
 
 %%%%
 silent Jory killed
@@ -4908,7 +5761,15 @@ VISUAL:  VAR0   momentáneamente te mira con horror, antes de explotar en una nu
 %%%%
 Jory triumphant
 
- VAR0   grita, "¡Sí, sí!"
+VAR0   grita, "¡Sí, sí!"
+
+%%%%
+Joseph
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Joseph_common_
@@ -4945,6 +5806,14 @@ _Joseph_rare_
 ## END Joseph ##
 
 %%%%
+Josephina
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Josephina_common_
 
 VISUAL:@The_monster@ grins evilly.
@@ -4976,6 +5845,86 @@ VISUAL:One of @the_monster_possessive@ icy fingers falls off.
 
 @The_monster@ screams @at_foe@, "I'll use your head as a decoration in Hell!"
 ## END Josephine ##
+
+%%%%
+Josephine
+
+Sonríe mal.
+
+Sonrisas masculinamente.
+
+Muelas   VAR3      dientes.
+
+Se ríe locamente.
+
+ VAR5   dice   VAR6  , "Haré una alfombra de tu piel."
+
+ VAR7   dice   VAR8  , "¿Qué tal una decapitación?"
+
+ VAR9    grita   VAR10   , "Die!"
+
+ VAR11   grita   VAR12  , "Tengo algo especial para ti."
+
+ VAR13   grita   VAR14  , "Usaré tu cabeza como una decoración en mi choza!"
+## END Josephine ##
+
+%%%%
+Khufu
+
+ VAR0   booms, "Todos los Will adoran a Khufu pero tú!"
+
+ VAR1   declara, "Cuando termine contigo, ¡tomaré a los dioses!"
+
+ VAR2    preguntas, "Mi gente me construyó una pirámide - ¿Qué construyeron para ti tu gente?"
+
+ VAR3   dice, "Este golpe y correr está muy por debajo de mí."
+
+ VAR4   dice, "Yo soy trascendencia, transpiración estás."
+
+ VAR5   dice   VAR6  , "Tu cuerpo mancharía cualquier mausoleo."
+
+ VAR7   dice   VAR8   , "Serás la momia más fea jamás vista."
+
+ VAR9   dice, "Yo sigo la estrella Polar".
+
+ VAR10    grita   VAR11  , "¡En el Nilo contigo!"
+## END Khufu ##
+
+%%%%
+Kirke
+
+VISUAL:  VAR0     hace una poción   VAR1  .
+
+VISUAL:  VAR2    arroja un polvo [extrañar la vida útil]   VAR3   .
+
+ VAR4   dice   VAR5  , "Odis era un hombre agradable, eres horrible."
+
+ VAR6   sostiene los lados   VAR7   y dice   VAR8  , "Comerás tierra debajo de mis pies."
+
+# "Moly" es una hierba mágica, mencionada sólo en el mito de Kirke (como un antídoto para
+# Kirke's potions) and in the English interjection.
+ VAR9  susurros   VAR10  , "Ni siquiera santo moly Will te salva."
+
+¿Podemos dejar de luchar? Tengo un buen vino para ti..."   VAR12  
+
+ VAR13   grita   VAR14   , "¡Cerdo! Te haré mirar como te mereces."
+
+ VAR15   susurros   VAR16  , "Te verías lindo con una pequeña cola rizada."
+
+ VAR17   susurros   VAR18  , "No   VAR19   puede resistirme..."
+
+ VAR20  
+
+ VAR21  
+################################################################################################################################################################################################################################################################
+
+%%%%
+Lodul
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Lodul_common_
@@ -5017,6 +5966,14 @@ VISUAL:@The_monster@ adjusts @possessive@ apparatus.
 
 @The_monster@ frowns @at_foe@ and says, "You violating area security."
 ## END Lodul ##
+
+%%%%
+Louise
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Louise_common_
@@ -5061,6 +6018,14 @@ w:1
 ### END § §#####
 
 %%%%
+Maggie
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Maggie_common_
 
 VISUAL:@The_monster@ practices a pose.
@@ -5090,6 +6055,14 @@ _Maggie_rare_
 
 @The_monster@ mutters to @reflexive@, "Master Lance won't take me back. This is the way forward."
 ## END Maggie ##
+
+%%%%
+Mara
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Mara_common_
@@ -5138,6 +6111,14 @@ _Mara_rare_
 Mara riddle
 
 Esmiradores. "Le daré a su vista un mayor enigma por lejos."
+
+%%%%
+Margery
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _spell_colour_
@@ -5202,6 +6183,17 @@ VISUAL:@The_monster@ looks very self-confident.
 ## END Margery
 
 %%%%
+Maurice
+
+ VAR0 
+
+w:6
+ VAR1  
+
+w:2
+ VAR2  
+
+%%%%
 _Maurice_common_
 
 VISUAL:@The_monster@ tries to stalk through the shadows.
@@ -5231,6 +6223,38 @@ _Maurice_rare_
 @The_monster@ says to @foe@, "Money or life? Never mind, I think I'll take both."
 
 @The_monster@ says, "Killing adventurers, taking their stuff. It's what he did, it's what I do."
+
+%%%%
+Maurice nonstealing
+
+¡Curiosas!
+
+¿Dónde lo escondiste?
+
+¿Qué eres, un monje
+
+%%%%
+Maurice confused nonstealing
+
+w:70
+No.
+
+ VAR0   clumsily no deja de aferrarse a tus objetos de valor.
+
+ VAR1   fumbles for your pockets and misses.
+
+ VAR2    pulmones para tus bolsillos y viajes.
+
+w:5
+¿Tienes dinero para mí
+
+%%%%
+Menkaure
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Menkaure_common_
@@ -5293,6 +6317,25 @@ whispers
 ## END Menkaure ##
 
 %%%%
+default Mennas
+
+VISUAL:           gestos a ti.   VAR1  
+
+VISUAL: VAR2   mira a los cielos.
+
+VISUAL:  VAR3   sacude la cabeza tristemente.
+
+VISUAL:  VAR5   es atrapado en un momento de oración.
+
+%%%%
+Murray
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Murray_common_
 
 VISUAL:@The_monster@ rolls in a circle.
@@ -5342,6 +6385,14 @@ VISUAL: VAR5   dice algo puedes't hear. Probablemente no fue un cumplido.   VAR6
 ## END silenciado § ####
 
 %%%%
+Natasha
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Natasha_common_
 
 @_wizard_common_spell_@
@@ -5368,10 +6419,10 @@ Meows.
 %%%%
 Natasha killed
 
- VAR0 
+VAR0 
 
 w:1
- VAR1  
+ VAR1
 
 %%%%
 _Natasha_death_common_
@@ -5416,6 +6467,14 @@ VISUAL:  VAR0    se acurruca y comienza a purificar.
 VISUAL:  VAR1   comienza a lamer la piel limpia   VAR2   .
 
 %%%%
+Robin
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Robin_common_
 
 @The_monster@ says, "Kneel, worm!"
@@ -5454,11 +6513,19 @@ w:2
 %%%%
 Robin triumphant
 
- VAR0   deja salir una risa hinchada.
+VAR0   deja salir una risa hinchada.
 
 ¡Vamos a celebrar! ¡Hora de una fiesta!"
 
 Y por eso soy el jefe
+
+%%%%
+Nellie
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Nellie_common_
@@ -5492,15 +6559,40 @@ w:2
 @The_monster@ says, "I think I remember you..."
 
 %%%%
+Nergalle
+
+ VAR0   dice, "No tienes idea de lo que significa realmente no tener nada. Te enseñamos.
+
+ VAR1   dice, "He vivido lo suficiente como para ver a cien personas como tú fracasan."
+
+VISUAL:  VAR2   consulta un enorme pergamino y fideos.
+
+VISUAL:  VAR3   participa en una conversación animada con el aire al lado   VAR4  .
+
+ VAR5   dice, "La lealtad orgánica trasciende tales trifles como la muerte."
+
+ VAR6   dice, "Toma de una anciana: tu tiempo ha terminado."
+
+ VAR7   dice: "Serás otro mancha de sangre en las piedras de este lugar."
+
+%%%%
 confused Nergalle
 
- VAR0   mutters, "Ahora, ¿dónde puse esa pluma..."
+VAR0   mutters, "Ahora, ¿dónde puse esa pluma..."
 
  VAR1   mumbles, "Déjenme ser, @orc name@. Te dije que estoy ocupado..."
 
  VAR2   mumbles, "Detenga ese canto volado, @orc name@. Siempre fuiste terrible".
 
 ### END § §#####
+
+%%%%
+Nessos
+
+ VAR0 
+
+w:3
+ VAR1  
 
 %%%%
 _Nessos_common_
@@ -5531,6 +6623,41 @@ w:1
 w:1
 @The_monster@ tries to tell @foe@ a complicated story about hydras, @possessive@ blood, and marriage.
 ## END NESSOS
+
+%%%%
+Nikola
+
+¡Danger! ¡Peligro! ¡De alta tensión!"
+
+ VAR1   dice, "Hay una chispa de magia en tus ojos."
+
+ VAR2   raves, "¿Puede sientes it? ¿Puede sientes it?
+
+ VAR3   advierte, "Si ves uno de mis golems, acercarse con precaución, muerden."
+
+ VAR4   pregunta: "¿Estás aislado?"
+
+ VAR5   dice, "No pareces un buen aislante."
+
+ VAR6   mumbles, "Hm, me pregunto si eres conductivo."
+
+%%%%
+Nobody
+
+ VAR0   rasps, "Dinos... quién... somos..."
+
+ VAR1    crece, "Danos... atrás... nuestros nombres!"
+
+¡Seamos recordados!
+
+¿Por qué no podemos recordar...?
+
+ VAR4   rasps, "Fuimos una vez... tantos..."
+
+Las llamas siguen saliendo.
+
+w:50
+No
 
 %%%%
 Nobody triumph
@@ -5646,6 +6773,14 @@ risa demoníaca
 tormento y condenación
 
 %%%%
+Norris
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Norris_common_
 
 @The_monster@ mumbles some mantras.
@@ -5729,11 +6864,19 @@ whispers
 %%%%
 Norris triumphant
 
- VAR0   dice, "¡Oh, estoy celoso!"
+VAR0   dice, "¡Oh, estoy celoso!"
 
  VAR1   dice, "Disfruta de la eternidad."
 
  VAR2   dice, "Te veré al otro lado, amigo."
+
+%%%%
+Pikel
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Pikel_common_
@@ -5799,9 +6942,17 @@ w:1
 %%%%
 Pikel triumphant
 
- VAR0   dice, "Otra alma para el mercado."
+VAR0   dice, "Otra alma para el mercado."
 
  VAR1   dice, "¡Te veo en el infierno!"
+
+%%%%
+Polyphemus
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Polyphemus_common_
@@ -5846,6 +6997,14 @@ Polyphemus triumphant
 
 Dice: "No eres nadie".
 ### END § §#####
+
+%%%%
+Prince Ribbit
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Prince_Ribbit_common_
@@ -5901,6 +7060,14 @@ blue-tailed skink
 ## END Prince Ribbit ##
 
 %%%%
+Pargi
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Pargi_common_
 
 @The_monster@ snarls @at_foe@, "Go! Away!"
@@ -5923,6 +7090,14 @@ VISUAL:@The_monster@ clenches @possessive@ claws.
 @The_monster@ pleads @to_foe@, "Don't hit me!"
 
 VISUAL:@The_monster@ looks very sad for a moment.
+
+%%%%
+Parghit
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Parghit_common_
@@ -5949,6 +7124,17 @@ VISUAL:@The_monster@ clenches @possessive@ claws.
 @The_monster@ warns @foe@, "Me EAT bullies!"
 
 @The_monster@ growls, "You tougher than dragon?"
+
+%%%%
+Roxanne
+
+ VAR0 
+
+w:5
+ VAR1  
+
+w:1
+ VAR2  
 
 %%%%
 _Roxanne_common_
@@ -6005,6 +7191,14 @@ w:5
 ### END § §1§ ##
 
 %%%%
+Rupert
+
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
 _Rupert_common_
 
 VISUAL:@The_monster@ flexes.
@@ -6044,8 +7238,18 @@ w:3
 %%%%
 Rupert triumphant
 
- VAR0   ruge con triunfo.
+VAR0   ruge con triunfo.
 ### END § §#####
+
+%%%%
+Saint Roka
+
+w:7
+@ Saint Roka generic @
+
+ VAR0   dice   VAR1  , "Aquí, eres un orco o no eres nadie".
+
+ VAR2   dice   VAR3  , "En the Orcish Mines, orcs kill the likes of YOU!"
 
 %%%%
 _Saint Roka generic_
@@ -6085,10 +7289,32 @@ _Saint Roka rival_
 @The_monster@ shouts, "Orcs, take notice: this deceiver is a mere {{ return you.race() }}!"
 
 %%%%
+related beogh Saint Roka
+
+#
+@related Saint Roka@
+
+ VAR0 
+
+w:5
+ VAR1  
+
+w:5
+@ Saint Roka rival @
+
+%%%%
 Saint Roka triumphant
 
- VAR0    rugidos, "¡Praise to Beogh!"
+VAR0    rugidos, "¡Praise to Beogh!"
 ### END § §1§ ##
+
+%%%%
+Sigmund
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Sigmund_common_
@@ -6147,6 +7373,14 @@ VISUAL:  VAR0    comienza a tallar otra muesca en   VAR1                        
 ### END § §#####
 
 %%%%
+Snorg
+
+ VAR0 
+
+w:2
+ VAR1  
+
+%%%%
 _Snorg_common_
 
 VISUAL:@The_monster@ pats @possessive@ sizable gut.
@@ -6166,6 +7400,17 @@ _Snorg_rare_
 
 @The_monster@ remarks @to_foe@, "Ah, I could eat a centaur!"
 ## END Snorg
+
+%%%%
+Sojobo
+
+ VAR0 
+
+w:5
+ VAR1  
+
+w:2
+ VAR2  
 
 %%%%
 _Sojobo_common_
@@ -6223,10 +7468,18 @@ _Sojobo_advice_
 %%%%
 Sojobo triumphant
 
- VAR0   dice, "El resultado nunca fue en duda."
+VAR0   dice, "El resultado nunca fue en duda."
 
 - Como estaba planeado.
 ## END §
+
+%%%%
+Sonja
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Sonja_common_
@@ -6268,6 +7521,11 @@ VISUAL:  VAR1   aplaudes   VAR2   .
 ## END Sonja ##
 
 %%%%
+Sprozz
+
+ LUA0     VAR1  
+
+%%%%
 _Sprozz_thief_
 
 @The_monster@ shouts, "Patent thief! You won\'t get away with this!"
@@ -6306,7 +7564,15 @@ _Sprozz_common_
 %%%%
 Sprozz triumphant
 
- LUA0 
+LUA0
+
+%%%%
+Terence
+
+ VAR0 
+
+w:4
+ VAR1  
 
 %%%%
 _Terence_common_
@@ -6351,7 +7617,7 @@ _Terence_rare_
 %%%%
 Terence triumphant
 
- VAR0   dice, "Finalmente, paz y tranquilidad."
+VAR0   dice, "Finalmente, paz y tranquilidad."
 
  VAR1   dice: "¡Y quédate fuera!"
 
@@ -6361,6 +7627,14 @@ Terence triumphant
 # Realm of Atland; this is especially appropriate if he's wielding Throatcutter
  VAR3   dice, "Honour no me impide tomar una ventaja táctica".
 ## END Terence ##
+
+%%%%
+Urug
+
+ VAR0 
+
+w:2
+ VAR1  
 
 %%%%
 _Urug_common_
@@ -6421,13 +7695,13 @@ VISUAL:@The_monster@ winks @at_foe@... or blinks.
 %%%%
 Urug triumphant
 
- VAR0   grita, "Revenge al fin!"
+VAR0   grita, "Revenge al fin!"
 
  VAR1  dice, "Un muerto más arpía".
 ### END § §#####
 
 %%%%
-related Vashnia
+Vashnia
 
  VAR0 
 
@@ -6436,6 +7710,17 @@ w:5
 
 w:5
  VAR2  
+
+%%%%
+related Vashnia
+
+VAR0 
+
+w:5
+ VAR1  
+
+w:5
+ VAR2
 
 %%%%
 _Vashnia_common_
@@ -6480,7 +7765,7 @@ _Vashnia_nonnaga_
 %%%%
 Vashnia triumphant
 
- VAR0   dice, "Headshot."
+VAR0   dice, "Headshot."
 
  VAR1   dice, "El intruso eliminado."
 
@@ -6488,12 +7773,22 @@ Vashnia triumphant
 ### END § §#####
 
 %%%%
-related Wiglaf
+Wiglaf
 
  VAR0 
 
 w:5
  VAR1  
+
+ VAR2  
+
+%%%%
+related Wiglaf
+
+VAR0 
+
+w:5
+ VAR1
 
 %%%%
 _Wiglaf_common_
@@ -6537,6 +7832,26 @@ w:5
 ## END Wiglaf ##
 
 %%%%
+Xak'krixis
+
+ VAR1   reflexiona qué papel juega   VAR2   en el ecosistema local.
+
+ VAR3   dice: "Estoy seguro de incluir esta batalla en mi informe!"
+
+ VAR4   dice, "Todos debemos contribuir al avance de la ciencia".
+
+ VAR5   grita   VAR6  , "Me estás dando datos maravillosos!"
+
+VISUAL:  VAR7   Notas despiadadamente con un miembro libre.
+
+VISUAL:  VAR8    mandibles haga clic con cuidado.
+
+ VAR9   dice, "                    
+
+#
+@ Xak'krixis monster thoughts @
+
+%%%%
 _Xak'krixis_monster_thoughts_
 
 @The_monster@ muses, "Oh, to leap as freely as a jumping spider..."
@@ -6554,8 +7869,16 @@ _Xak'krixis_monster_thoughts_
 %%%%
 Xak'krixis triumphant
 
- VAR0   dice, "Estaré seguro de enumerarte como coautor cuando mi trabajo sea publicado!"
+VAR0   dice, "Estaré seguro de enumerarte como coautor cuando mi trabajo sea publicado!"
 FIN Xak'krixis
+
+%%%%
+Xtahua
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Xtahua_common_
@@ -6590,7 +7913,7 @@ _Xtahua_rare_
 %%%%
 Xtahua triumphant
 
- VAR0   ruge en triunfo.
+VAR0   ruge en triunfo.
 
 VISUAL:  VAR1    abre un arco largo y triunfante de la llama.
 
@@ -6601,8 +7924,16 @@ VISUAL:  VAR1    abre un arco largo y triunfante de la llama.
 %%%%
 Xtahua riddle
 
- VAR0    te ruge, "Big WORDS for SUCH A SMALL MORSEL!"
+VAR0    te ruge, "Big WORDS for SUCH A SMALL MORSEL!"
 ### END § §#####
+
+%%%%
+Zenata
+
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _Zenata_common_
@@ -6639,23 +7970,35 @@ _Zenata_rare_
 %%%%
 Zenata triumphant
 
- VAR0   dice, "Sólo más escoria para el fuego."
+VAR0   dice, "Sólo más escoria para el fuego."
 
  VAR1   dice, "Veamos lo que hay dentro de ti."
 
 %%%%
 orb spider charge
 
- VAR0    gira un hilo de energía pura.
+VAR0    gira un hilo de energía pura.
 
  VAR1   pulsa con una energía extraña.
 
  VAR2  comienza a tejer sus hilos en una bola brillantemente brillante.
 
 %%%%
+alderking
+
+VISUAL:   VAR0    sube en un viento invisible.
+
+VISUAL:  VAR1    El foilage brilla y espuma.
+
+ VAR2   dice, "Si no estás dispuesto a [dance paciencia arco ], entonces te veré fuera."   VAR3  
+
+#
+No
+
+%%%%
 alderking triumphant
 
- VAR0    desaparece en un suspiro satisfecho de las hojas marchitas.
+VAR0    desaparece en un suspiro satisfecho de las hojas marchitas.
 ################################################################################################################################################################################################################################################################
 
 %%%%
@@ -6668,7 +8011,7 @@ VISUAL:  VAR1  jubilantly flits about.
 %%%%
 Bennu killed
 
- VAR0 
+VAR0
 
 %%%%
 _Bennu_death_
@@ -6691,12 +8034,86 @@ confused Bennu permanently killed
 @Bennu permanent killed@
 
 %%%%
+brain worm
+
+VISUAL:  VAR0    drips [complex imperunknown] fórmulas robadas en el   VAR1   .
+
+VISUAL:  VAR2   es brevemente atrapado en memorias extranjeras de lejanos [estrellas impertinentes Tierras vivaces].
+
+VISUAL:  VAR3   gira su longitud con los instintos pupilferidos de [las personas sometidapincers sometidafins].
+
+%%%%
 Sewer brain worm
 
 w:30
 @brain gusano@
 
 VISUAL:  VAR0    mira [perplexed habitwith bemusement] en su reflexión en un charco.
+
+%%%%
+bullfrog
+
+- Sí.
+
+ VAR1   libera un cruco profundo.
+
+ VAR2   Snags a nearby   VAR3    con   VAR4      lengua.
+
+%%%%
+chaos spawn
+
+VISUAL:  VAR0   crece docenas de tallos oculares para poder ver mejor   VAR1  .
+
+VISUAL:  VAR2   splatters en muchos pequeños globs de luz multicolor, luego recombines.
+
+VISUAL:  VAR3   crece brevemente una cara inquietantemente similar a la tuya.
+
+ VAR4    ululates chillingly with   VAR5    many mouths.
+
+ VAR6   gibbers incoherentemente en una cacofonía de voces.
+
+%%%%
+catoblepas
+
+ VAR0   ruge ferozmente, los ojos bajaron.
+
+ VAR1   Stomps con un accidente en el   VAR2   .
+
+VISUAL:   VAR3    rompe   VAR4     pie en el   VAR5   .
+
+VISUAL:  VAR6    rams the   VAR7    con   VAR8     cabeza fuertemente.
+
+Respira.
+
+ VAR10    snuffles en desafío.
+
+%%%%
+cognitogaunt
+
+VISUAL: VAR0   brilla con la incandescencia de noches de larga data.
+
+#
+ VAR1   se queja constantemente sobre las estrellas que aún no tienen razón.
+
+ VAR2   murmura sobre las locuras de las constelaciones mortales.
+
+ VAR3   murmura malos rumores del estado actual de los cielos.
+
+ VAR4   musa sobre cómo la carne se desperdicia en los mortales.
+
+ VAR5   se maravilla sobre la delgadez de las mentes mortales.
+
+ VAR6   burla los temas de la próxima concordia astral.
+
+w:1
+ VAR7   escribe con frustración sobre no encontrar aún soluciones para supernovas.
+
+ VAR8   crece que las estrellas no pertenecen a nadie sino a las estrellas.
+
+ VAR9  se aferra a estar hecho de Rot y la luz de las estrellas.
+
+Douglas Adams
+ VAR10    grouses that life is wasted on the living.
 
 %%%%
 silenced cognitogaunt
@@ -6706,7 +8123,7 @@ VISUAL: VAR0   brilla con la incandescencia de noches de larga data.
 %%%%
 friendly cognitogaunt
 
- VAR0 
+VAR0
 
 %%%%
 confused cognitogaunt
@@ -6714,7 +8131,64 @@ confused cognitogaunt
 NO
 
 %%%%
+crystal guardian
+
+VISUAL:  VAR0    glitters, inmutable e inevitable, en la luz de la mazmorra.
+
+w:5
+VISUAL:Tú ve su reflejo fracturado en   VAR1    contorsión y escritura.   VAR2  
+
+%%%%
+death cob
+
+w:1
+La hierba de la muerte hace una broma cursi.
+
+w:1999
+No
+
+%%%%
+death yak
+
+ VAR0 
+
+%%%%
+deep elf high priest
+
+ VAR0 
+################################################################################################################################################################################################################################################################
+
+%%%%
 deep elf sorcerer
+
+VAR0
+
+%%%%
+dream sheep
+
+"Baaaas" con calvicie.
+
+ VAR1   "Baaaas" con sueño.
+
+%%%%
+default electric golem
+
+SOUND:  VAR0   grietas y boquillas.
+
+%%%%
+erythrospite
+
+VISUAL:  VAR0    trobs al latido de tu corazón.
+
+%%%%
+frilled lizard
+
+ VAR0    se desarrolla   VAR1   frill gigante.
+
+ VAR2                 .
+
+%%%%
+hell lord
 
  VAR0 
 
@@ -6725,7 +8199,7 @@ w:1
  VAR0 
 
 w:2
- VAR1  
+ VAR1
 
 %%%%
 iron imp
@@ -6734,7 +8208,7 @@ w:1
  VAR0 
 
 w:2
- VAR1  
+ VAR1
 
 %%%%
 shadow imp
@@ -6743,7 +8217,7 @@ w:1
  VAR0 
 
 w:2
- VAR1  
+ VAR1
 
 %%%%
 white imp
@@ -6752,6 +8226,29 @@ w:1
  VAR0 
 
 w:2
+ VAR1
+
+%%%%
+default ice statue
+
+VISUAL:  VAR0   glitters refrigerantemente en la luz de la mazmorra.
+
+%%%%
+kobold blastminer
+
+VISUAL:  VAR0    murciélagos lejos en el delgado humo envolviendo   VAR1   cañón.
+
+VISUAL:  VAR2   Los cañones sacuden y bengalas con un resplandor rojo.
+
+#
+No
+
+%%%%
+Killer Klown
+
+ VAR0 
+
+w:5
  VAR1  
 
 %%%%
@@ -6806,6 +8303,20 @@ VISUAL:  VAR2  comienza a atarte en un animal de globo.
 ## Killer Klown ##
 
 %%%%
+laughing skull
+
+ VAR0      en el inevitable destino del olvido.
+
+ VAR2     VAR3   En cómo la historia Will olvida a todos los presentes.
+
+ VAR4     VAR5   en la falta de misericordia o dignidad de §NT§1.
+
+# Kill Six Billion Demons
+ VAR6     VAR7    en la naturaleza ineludible de la violencia.
+
+No
+
+%%%%
 friendly laughing skull
 
 @laughing skull@
@@ -6815,7 +8326,7 @@ No
 %%%%
 laughing skull triumphant
 
- VAR0   se desmorona a pedazos de pura alegría.
+VAR0   se desmorona a pedazos de pura alegría.
 
 %%%%
 _laughs_
@@ -6826,6 +8337,140 @@ chuckles harshly
 
 w:6
 gibbers darkly
+
+%%%%
+moth of wrath
+
+VISUAL:  VAR0    ondas graves   VAR1    antennae.
+
+%%%%
+obsidian bat
+
+VISUAL: VAR0   entra en la oscuridad de the Dungeon por un momento.
+
+w:40
+No
+
+%%%%
+default obsidian statue
+
+VISUAL: VAR0    se desliza en la oscuridad de the Dungeon por un momento.
+
+%%%%
+default orange crystal statue
+
+VISUAL:  VAR0    glitters topaz en el dim dungeon light.
+
+%%%%
+default hoarfrost cannon
+
+El agua gotea del cañón   VAR0 .
+
+VISUAL: Una niebla fría se eleva de   VAR1  .
+
+ VAR2  hace un débil ruido de rectificado.
+
+%%%%
+nekomata
+
+ LUA1     VAR4  
+
+ LUA2     VAR5  
+
+ LUA3       
+
+Terry Pratchett
+w:1
+ VAR7   dice, "No son sólo demonios los que despolan todo lo que no pueden tener."
+
+%%%%
+default profane servitor
+
+NO
+
+%%%%
+protean progenitor
+
+VISUAL:  VAR0  forma [briefly TEN][ripples durablewavers] con profundo agotamiento.
+
+VISUAL:  VAR1   [tres nidos en la vida eternasix fanged toleranine smoke] ojos blink lentamente.
+
+# Una mash-up de varias otras líneas de diálogo monstruo.
+VISUAL:  VAR2  [glitters sometidacrackles], [sighs sometidagrumbles], y [beckons habitstomps].
+
+VISUAL:  VAR3  unfurls and squashes hidden [antennae imperspinnerets sometidapseudopods].
+
+#
+No
+
+%%%%
+friendly protean progenitor
+
+@protean progenitor@
+
+w:30
+No
+
+%%%%
+raven
+
+w:100
+No.
+
+w:2
+¡Nunca más
+
+%%%%
+reaper
+
+ VAR0  susurros, "El tiempo está arriba,   VAR1   !"
+
+VISUAL:   VAR2      becas a   VAR3   .
+
+VISUAL:  VAR4  sonríe sin labios.
+
+ VAR5   grita   VAR6  , "He venido por ti,   VAR7   !"
+
+ VAR8   grita   VAR9  , "¡La muerte te espera!"
+
+ VAR10   dice   VAR11  , "Todo el mundo tiene que morir en algún momento, y tu tiempo es ahora."
+
+VISUAL:  VAR12     dibuja un dedo a través de la garganta   VAR13   .
+
+ VAR14   grita   VAR15   , "¡Debes morir ahora!"
+
+ VAR16   grita   VAR17   , "Die,   VAR18   !"
+
+%%%%
+silenced silent spectre
+
+VISUAL:          gestos para estar tranquilo.
+
+VISUAL:  VAR1   suena como si estuviera en un viento.
+
+VISUAL:  VAR2    te mira con   VAR3  ojos fantasmales.
+
+VISUAL:  VAR4   se desvanece dentro y fuera de la visibilidad.
+
+VISUAL:   VAR5      en la oscuridad.
+
+VISUAL:  VAR6    Grisas lentamente.
+
+%%%%
+thermic dynamo
+
+VISUAL:  VAR0   revienta y látigo.
+
+VISUAL:  VAR1    sussis y brillos.
+
+%%%%
+tormentor
+
+w:1
+ VAR0 
+
+w:9
+ VAR1  
 
 %%%%
 _tormentor_
@@ -6878,6 +8523,18 @@ _tormentor_rare_
 ## END _tormentor_ ##
 
 %%%%
+weeping skull
+
+w:7
+ VAR0 
+
+w:1
+ VAR1  
+
+w:3
+No
+
+%%%%
 _weeping_skull_common_
 
 @The_monster@ @_weeps_@ for your inevitable fate. @player_only@
@@ -6908,7 +8565,7 @@ w:1
 %%%%
 weeping skull triumphant
 
- VAR0   se desmorona a pedazos de culpa pura.
+VAR0   se desmorona a pedazos de culpa pura.
 
 %%%%
 _weeps_
@@ -6918,6 +8575,18 @@ moans
 wails
 
 sobs
+
+%%%%
+arcanist
+
+#
+ VAR0 
+
+w:1
+Sobre los ocultistas.
+
+w:9
+No
 
 %%%%
 occultist
@@ -6930,6 +8599,20 @@ Sobre los arcanistas.
 
 w:9
 No
+
+%%%%
+yak
+
+ VAR0   snorts and paws the   VAR1   .
+
+%%%%
+_good_god_
+
+Zin
+
+the Shining One
+
+Elyvilon
 
 %%%%
 _holy_being_
@@ -6958,12 +8641,17 @@ neutral good god 'cap-A'
 No.
 
 w:5
- VAR0 
+ VAR0
 
 %%%%
 friendly good god 'cap-A'
 
- VAR0 
+VAR0
+
+%%%%
+default 'cap-A'
+
+NO
 
 %%%%
 neutral good god 'Å'
@@ -6971,12 +8659,17 @@ neutral good god 'Å'
 No.
 
 w:5
- VAR0 
+ VAR0
 
 %%%%
 friendly good god 'Å'
 
- VAR0 
+VAR0
+
+%%%%
+default 'Å'
+
+NO
 
 %%%%
 holy_being_pacification
@@ -6996,11 +8689,41 @@ Te saluda.
 %%%%
 holy_being_pacification_speech
 
- VAR0   te grita: "¡Continúe tu búsqueda, mortal!"
+VAR0   te grita: "¡Continúe tu búsqueda, mortal!"
 
  VAR1   te dice: "¡Adelante, siervo de Elyvilon!"
 
  VAR2   te dice: "Cuidado, mortal"
+
+%%%%
+good god '&'
+
+#
+ VAR0 
+
+w:1
+ VAR1    grita   VAR2   , "            no te protegerá,   VAR4  !"
+
+w:1
+ VAR5  gritos   VAR6   , "                                                                                                                                                                                                                                             
+
+w:1
+ VAR8   grita   VAR9   , "                                                                                                                                                                                                                                              
+
+%%%%
+_orc_shouts_
+
+grunts
+
+@_shouts_@
+
+complains
+
+cheers
+
+jeers
+
+curses
 
 %%%%
 _loudly_or_repeatedly_
@@ -7042,6 +8765,45 @@ w:2
 @The_monster@ sings a few bars from the Orcish anthem.
 
 %%%%
+_orc_heathen_
+
+heathen
+
+infidel
+
+unbeliever
+
+heretic
+
+apostate
+
+%%%%
+orc
+
+# Quédate en silencio la mayor parte del tiempo
+w:19
+No.
+
+w:1
+ VAR0 
+
+%%%%
+friendly orc
+
+@default friendly humanoid@
+
+w:5
+ VAR0 
+
+%%%%
+friendly related orc
+
+@default friendly humanid@
+
+w:5
+ VAR0 
+
+%%%%
 _orc_says_to_foe_
 
 shouts @at_foe@
@@ -7071,6 +8833,32 @@ _says_or_shouts_
 says
 
 shouts
+
+%%%%
+related unbeliever orc
+
+# hostile orcs should not be too talkative
+w:60
+No.
+
+w:1
+ VAR0 
+
+w:5
+ VAR1  
+
+%%%%
+related beogh orc
+
+# hostile orcs should not be too talkative
+w:60
+No.
+
+w:1
+ VAR0 
+
+w:5
+ VAR1  
 
 %%%%
 _hostile_orc_beogh_believer_speech_
@@ -7145,6 +8933,23 @@ _hostile_orc_beogh_believer_speech_rare_
 VISUAL:@The_monster@ shakes @possessive@ head.
 
 VISUAL:@The_monster@ stares at you quizzically. @player_only@
+
+%%%%
+friendly related beogh orc
+
+Como estarán constantemente a tu alrededor, no dejes que hablen demasiado.
+#
+No.
+
+# Discurso amistoso general #
+w:1
+@default friendly humanoid@
+
+w:2
+ VAR0 
+
+w:12
+ VAR1  
 
 %%%%
 _friendly_beogh_speech_
@@ -7226,9 +9031,20 @@ VISUAL:@The_monster@ looks @at_foe/around@ nervously.
 @The_monster@ @_mutters_@, "When this is all over, I'm going to start a fungus farm."
 
 %%%%
+related beogh orc high priest
+
+No.
+
+w:5
+ VAR0 
+
+w:3
+@related Beogh orc@
+
+%%%%
 orc high priest
 
- VAR0 
+VAR0 
 
 w:1
  VAR1  
@@ -7250,7 +9066,7 @@ w:3
 %%%%
 orc sorcerer
 
- VAR0 
+VAR0 
 
 w:1
  VAR1  
@@ -7259,15 +9075,53 @@ w:1
 No
 
 %%%%
+related beogh Blorkula the orcula
+
+# Comporta como el Blork normal
+@Blorkula la orcula@
+
+# Con algunos mensajes fantasmales #
+w:4
+@related Beogh orc@
+
+%%%%
+related beogh Urug
+
+# Comportarse como lo normal #
+ VAR0 
+
+# with some Beogh-hostile messages strewn in
+w:4
+@related Beogh orc@
+
+%%%%
+beogh_converted_orc_reaction_sight
+
+ VAR0   te mira con asombro y rodillas.
+
+ VAR1   relaja   VAR2   Luchando contra la postura y sonríe a tú.
+
+ VAR3    cae sobre las rodillas   VAR4   ante ti.
+
+%%%%
 beogh_converted_orc_speech_sight
 
- VAR0   grita: "   VAR1  es uno de nosotros!"
+VAR0   grita: "   VAR1  es uno de nosotros!"
 
  VAR2   grita: "Debe haberte enviado puramente Beogh!"
 
 ¿Eres nuestro salvador?
 
  VAR4   dice, "Estoy tan contento aquí ahora."
+
+%%%%
+beogh_converted_orc_reaction_battle
+
+Se rinde.
+
+ VAR1    cae a las rodillas   VAR2  .
+
+ VAR3   levanta   VAR4   las manos en rendición.
 
 %%%%
 beogh_converted_orc_speech_battle
@@ -7288,19 +9142,70 @@ beogh_converted_orc_speech_vengeance
  VAR2   dice, "Merezco la muerte, pero Beogh es misericordioso!"
 
 %%%%
-beogh_converted_orc_speech_battle_follower
+beogh_converted_orc_resurrection
+
+ VAR0   grita: "¡Me salvaste!"
+
+ VAR1   dice, "Realmente eres el Mesías."
+
+ VAR2  Gracias por traer   VAR3  a la vida.
+
+ VAR4   dice, "Sabía que podía confiar en ti."
+
+ VAR5   dice, "Ahora puedo vivir para luchar otro día."
+
+%%%%
+beogh_converted_orc_reaction_battle_follower
 
  VAR0 
+
+%%%%
+beogh_converted_orc_speech_battle_follower
+
+VAR0
 
 %%%%
 beogh_converted_orc_speech_vengeance_follower
 
- VAR0 
+VAR0
+
+%%%%
+orc_priest_apostate
+
+El sacerdote grita: "¡Disloyal sinvergüenza, deja mi vista!"
+
+El sacerdote gruñe, "¡Te perdonaré sólo si te escapas! ¡Begone!"
+
+El sacerdote maldice: "¡Tu espectáculo de piedad sin fe me da asco!"
+
+El sacerdote se queja, "Beogh puede perdonarte, pero yo no!"
+
+El sacerdote grita: "¡Tuviste tu oportunidad, escoria apóstata!"
+
+%%%%
+orc_priest_preaching
+
+ VAR0   grita, "Beogh ofrece misericordia incluso a personas como tú. ¡Únete a nosotros y renace!"
+
+El Panteón no merece la lealtad de nadie. ¡Muéstrenos el verdadero camino!"
+
+ VAR2   grita, "Dentro a Beogh y te dejaremos vivir!"
+
+ VAR3  amenaza, "La ira de Beogh es tan vasta como la misericordia de Beogh. ¡Haz tu elección!"
+
+%%%%
+orc_apostle_yield
+
+ VAR0   grita, "¡Yo cedo! ¡Realmente eres el elegido!"
+
+ VAR1   grita: "¡Yo cedo! ¡La victoria es tuya!"
+
+ VAR2    cae a   VAR3   rodillas y se presenta.
 
 %%%%
 orc_apostle_dismissed
 
- VAR0   dice, "Yo Will nunca te olvido!"
+VAR0   dice, "Yo Will nunca te olvido!"
 
  VAR1   hojas para difundir la palabra de Beogh a la superficie.
 
@@ -7329,7 +9234,7 @@ VISUAL:  VAR7    wobbles insteadily, pero te da un pulgar hacia arriba.
 %%%%
 friendly bfb orc
 
- VAR0   grita, "¡Vengeencia por los caídos!"
+VAR0   grita, "¡Vengeencia por los caídos!"
 
  VAR1   grita: "¡Blood llama a la sangre!"
 
@@ -7344,6 +9249,42 @@ friendly bfb orc
  VAR9   grita, "¡Ojo por ojo, diente por diente, vida por vida!"
 
  VAR10    grita, "¡Retornacer su dolor sobre ellos cien veces!"
+
+%%%%
+cherub
+
+ VAR0   canta alabanza a la Shining One, en armonía de cuatro partes.
+
+¡Roares de cabeza de león!
+
+- ¿Qué?
+
+ VAR3  canta alabanzas a Zin.
+
+ VAR4   canta alabanza a Elyvilon.
+
+%%%%
+zin angel
+
+w:40
+ VAR0   recites   VAR1 
+
+ VAR2    recites   VAR3      VAR4  
+
+ VAR5   predica sobre   VAR6  
+
+ VAR7      VAR8      VAR9     conferencia sobre   VAR10  
+
+ VAR11   explica detalladamente sobre   VAR12  
+
+ VAR13   explica la importancia de   VAR14  
+
+ VAR15                                                                                                                                                                                                                                                            
+
+ VAR19      VAR20      VAR21     habla sobre   VAR22  
+
+w:5
+ VAR23   habla de   VAR24  
 
 %%%%
 _recites_start_
@@ -7390,6 +9331,93 @@ the books of the Law.
 the sacred Law of Zin.
 
 %%%%
+_important_subject_
+
+# law
+w:50
+@_axioms_of_law_@
+
+the eternal Law.
+
+obedience to the Law.
+
+the one true way.
+
+# purity
+purity of body and mind.
+
+preserving your bodily integrity.
+
+keeping your body clean and pure.
+
+proper care of body and soul.
+
+# mutations
+avoiding mutations.
+
+just saying no to mutations.
+
+# respecting intelligent beings
+proper burial practice.
+
+# demons
+not dealing with demons.
+
+rejecting the service of demons.
+
+# talismans
+not transforming your body with [talismans|baubles].
+
+shunning all [talismans|baubles].
+
+%%%%
+_recite_subject_
+
+w:120
+@_important_subject_@
+
+# first, law and order
+w:80
+@_axioms_of_law_@
+
+the Law and the prophets.
+
+the importance of the Law.
+
+# anti-mutation
+mutations, and how to avoid them.
+
+potions of mutation - the devil's brew!
+
+neqoxecs and zykzyls - may they all be destroyed!
+
+# respecting intelligent beings
+a proper diet respecting intelligent beings.
+
+# necromancy and evil
+the evils of necromancy.
+
+# chaotic acts, esp. Nemelex Xobeh
+the lawlessness of gambling.
+
+undead, and why they are evil.
+
+# the gods
+the fall of Yredelemnul.
+
+the reprobation of Lugonu.
+
+the alliance of Zin and the Shining One.
+
+the alliance of Zin and Elyvilon.
+
+the lawlessness of @random_god_chaotic@.
+
+the evilness of @random_god_evil@.
+
+the goodness of @random_god_good@.
+
+%%%%
 confused zin angel
 
 Incoherentemente.
@@ -7412,9 +9440,91 @@ VISUAL:  VAR3   gestos furiosos por todos lados.
 VISUAL:  VAR4    coquetea con ira justa.
 
 %%%%
+deformed humanoid
+
+VISUAL:  VAR0   aullido de dolor.
+
+VISUAL:  VAR1  vails in agony.
+
+Llora.
+
+VISUAL:  VAR3    sobs.
+
+ VAR4   grita, "¡El dolor, el dolor!"
+
+VISUAL: VAR5  comienza a toser sangre.
+
+ VAR6   grita: "¡Por favor, mátame!"
+
+w:1
+VISUAL:  VAR7   comienza hiperventilando.
+
+Retornos en agonía.
+
+VISUAL:  VAR9    mira vacantly en   VAR10   manos horriblemente deformadas.
+
+ VAR11   pregunta: "¿Qué me ha pasado?"
+
+ VAR12   pregunta: "¿Qué me ha hecho?"
+
+VISUAL:  VAR13   ora por ayuda.
+
+ VAR14  dice, "Creo que morí... creo que estoy muerto..."
+
+w:3
+¡Qué picante! ¡Es picante, picazón, picazón! ¡Siempre pica!"
+
+VISUAL:  VAR16    gurgles, incapaz de formar palabras.
+
+w:1
+ VAR17   grita, "Tengo mi venganza sobre el monstruo que hizo esto!"
+
+ VAR18   mumbles, "Took all my skin, all gone, all gone..."
+
+ VAR19   dice, "Yo era hermosa una vez. Ahora mírame."
+
+VISUAL:   VAR20          tentáculos.
+
+VISUAL: Una docena de ojos blink abierto en   VAR22  pecho.
+
+VISUAL: extraños apéndices brotan desde   VAR23    atrás.
+
+VISUAL:  VAR24     Lashes   VAR25     tail.
+
+VISUAL:  VAR26   De repente brota dos cuernos grandes!
+
+w:3
+VISUAL:  VAR27   La carne secreta un moco grueso.
+
+VISUAL: Los ojos huecos y ciegos aparecen en la cabeza   VAR28  .
+
+VISUAL:Las úlceras estimulantes florecen bajo los párpados   VAR29  .
+
+ VAR30   te ruega que mates   VAR31   .
+
+VISUAL:  VAR32    mira   VAR33   cuerpo y llora sin lágrimas.
+
+# Pungent Stench
+ VAR34   grita, "sólo soy una creación enferma, extraña y desfavorecida."
+
+%%%%
+Gozag bribe
+
+ VAR0             , luego se vuelve, jangling una bolsa de monedas.
+
+%%%%
 Gozag permabribe
 
- VAR0               codicioso, jangling a coin purse.
+VAR0               codicioso, jangling a coin purse.
+
+%%%%
+spectator
+
+ VAR0 
+
+# Hay muchos espectadores en cada duelo, así que no seas demasiado ruidoso.
+w:70
+No
 
 %%%%
 _spectator_speech_
@@ -7440,5 +9550,141 @@ VISUAL:@The_monster_possessive@ armour gleams in the torchlight.
 
 w:1
 VISUAL:@The_monster@, chosen of Okawaru, glows resplendent with favour.
+
+%%%%
+goblin sharper
+
+VISUAL:  VAR0   fiddles with   VAR1     altar portátil.
+
+VISUAL:   VAR2      se encoge una de las cubiertas   VAR3   .
+
+VISUAL:   VAR4      aficionan algunas cartas de una de las cubiertas   VAR5   .
+
+VISUAL:  VAR6   La cubierta brilla brevemente con un arco iris de colores extraños.
+
+Kenny Rogers, "El jugador"
+ VAR7    canta, "Saber cuándo sostenerlos, saber cuándo doblarlos..."
+
+ VAR8    alabanzas   VAR9   .
+
+Sonríes. "¡Cuántas cartas! ¡Traido a tú por   VAR11   !"
+
+ VAR12   rechaza el seguro.
+
+#
+ VAR13  
+
+#
+ VAR14  
+
+#
+ VAR15  
+
+W:10
+ VAR 16  
+
+w:5
+ VAR17   dibuja   VAR18   . "¡Espera, esto no pertenece aquí!"
+
+w:5
+ VAR19   dibuja   VAR20   . "Espera, ¿de dónde vino esto?"
+
+w:5
+ VAR21   fusiona una tarjeta y la deja caer. "¡Whoops!"
+
+w:1
+ VAR22   dice, "Yo quería ser un asistente, pero   VAR23  tenía otros planes!"
+
+%%%%
+_deck_of_oddities_card_
+
+the Bargain
+
+the Curse
+
+Famine
+
+Focus
+
+the Feast
+
+the Genie
+
+the Helix
+
+Xom
+
+%%%%
+_misplaced_card_
+
+the Ace of Spades
+
+the Joker
+
+the Old Maid
+
+# Tarot
+the Hanged Man
+
+# Tarot via the Simpsons
+the Happy Squirrel
+
+# Uno
+Wild Draw Four
+
+%%%%
+_deck_of_destruction_line_
+
+@The_monster@ draws Degeneration. "So many ways to mutate things!"
+
+@The_monster@ draws the Orb. "Orbs of destruction hurt!"
+
+@The_monster@ draws Pain. "Necromancy hurts!"
+
+@The_monster@ draws the Storm. "Thunder and lightning everywhere!"
+
+@The_monster@ draws Vitriol. "Acid hurts!"
+
+@The_monster@ draws Wild Magic. "So many ways magic can go wrong!"
+
+%%%%
+_deck_of_escape_line_
+
+@The_monster@ draws the Cloud. "No fresh air for enemies!"
+
+@The_monster@ draws the Elixir. "Healing and magic? Woohoo!"
+
+@The_monster@ draws Exile. "The Abyss is a horrible place!"
+
+@The_monster@ draws the Tomb. "I don't want to be sealed in with no windows!"
+
+# Kenny Rogers, "The Gambler"
+@The_monster@ draws Velocity. "Know when to walk away, know when to run."
+
+%%%%
+_deck_of_summoning_line_
+
+@The_monster@ draws the Dance. "Hope the weapon's aim is true!"
+
+@The_monster@ draws the Elements. "Elemental beasts everywhere!"
+
+@The_monster@ draws the Illusion. "I have a twin now!"
+
+@The_monster@ draws the Pentagram. "Hope the demon is friendly!"
+
+@The_monster@ draws the Rangers. "New friends who can shoot!"
+
+@The_monster@ draws the Swarm. "Bees, bees everywhere!"
+
+%%%%
+_deck_of_punishment_line_
+
+@The_monster@ draws the Swine. "I'm a pig now!"
+
+@The_monster@ draws Torment. "Half my health gone? Yikes!"
+
+@The_monster@ draws the Wraith. "Draining hurts!"
+
+@The_monster@ draws Wrath. "So many ways gods can punish you!"
 
 %%%%

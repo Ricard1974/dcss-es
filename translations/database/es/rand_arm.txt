@@ -1,0 +1,2167 @@
+######################################################
+# Randart Names
+# -------------
+# rand_arm.txt: keywords for randart ARMOUR
+#
+# This file contains the lists of keywords (and their
+# weights) for most of the keywords used for randart
+# armour. You will find others in rand_wpn.txt and
+# rand_all.txt, respectively.
+#
+# See the explanation in the main file, randname.txt,
+# for more details.
+######################################################
+%%%%
+_armour_animal_
+
+# microorganisms
+Amoeba
+Silencio
+Tardigrado
+Silencio
+Ant
+Silencio
+Mariposa
+Silencio
+Cicada
+Silencio
+Cockroach
+Silencio
+Cricket
+Silencio
+Ladybird
+Silencio
+Locust
+Silencio
+Louse
+Silencio
+Mantidfly
+Silencio
+Tick
+Silencio
+Centipede
+Silencio
+Cuttlefish
+Silencio
+Gastropo
+Silencio
+Slug
+Silencio
+Snail
+Silencio
+Trilobite
+Silencio
+Worm
+Silencio
+Barnacle
+
+Clam
+Silencio
+Langosta
+Silencio
+Quahog
+Silencio
+Tarantula
+Silencio
+Frog
+Silencio
+Komodo Dragon
+Silencio
+Lagarto
+Silencio
+Salamandra
+Silencio
+Serpiente
+Silencio
+Turtle
+Silencio
+Barracuda
+Silencio
+Catfish
+Silencio
+Cichlid
+Silencio
+Mackerel
+Silencio
+Marlin
+Silencio
+Salmón
+Silencio
+Sturgeon
+Silencio
+Sunfish
+Silencio
+Trout
+Silencio
+Atún
+
+# insects
+Albatross
+Silencio
+Águila
+Silencio
+Falcon
+Silencio
+Heron
+Silencio
+Meadowlark
+Silencio
+Nightingale
+Silencio
+Raven
+Silencio
+Robin
+Silencio
+Shrike
+Silencio
+Gorrión
+Silencio
+Swan
+Silencio
+Turtledove
+Silencio
+Bull
+Silencio
+Camelopard
+Silencio
+Catamount
+Silencio
+Delfines
+Silencio
+Echidna
+Silencio
+Elefante
+Silencio
+Hart
+Silencio
+Hippo
+
+Kangaroo
+Silencio
+León
+Silencio
+Monkey
+Silencio
+Okapi
+Silencio
+Stag
+Silencio
+Stallion
+Silencio
+Zebra
+Silencio
+Circus Animal
+Silencio
+El tío de Monkey
+Silencio
+Centaur
+Silencio
+Cockatrice
+Silencio
+Chimera
+Silencio
+Dragon
+Silencio
+Griffon
+Silencio
+Hecatoncheires
+Silencio
+Hippogriff
+Silencio
+Kraken
+Silencio
+Leogriff
+Silencio
+Nuckelavee
+Silencio
+Pooka
+
+Quinotaur
+Silencio
+Sea Goat
+Silencio
+Skiapode
+Silencio
+Unicornio
+Silencio
+Akabeko
+Silencio
+Baku
+Silencio
+Byakko
+Silencio
+Ikuchi
+Silencio
+Kappa
+Silencio
+Kitsune
+Silencio
+Kodama
+Silencio
+Oni
+Silencio
+Shishi.
+Silencio
+Tsukumogami
+Silencio
+Carbunclo
+Silencio
+Cherruve
+Silencio
+Cuero
+Silencio
+Curupira
+Silencio
+Ebigane
+Silencio
+Gasogonaga
+
+Mpinguari
+Silencio
+Tapire-iauara
+Silencio
+Biloko
+Silencio
+Guiamala
+Silencio
+Impundulu
+Silencio
+Isitwalangcengce
+Silencio
+Nkala
+Silencio
+Zankallala
+Silencio
+Bakunawa
+Silencio
+Minokawa
+Silencio
+Giraffataur
+Silencio
+Elephantaur
+Silencio
+Mertaur
+Silencio
+Merwolf
+Silencio
+Platytaur
+Silencio
+Rhinotaur
+Silencio
+Taurataur
+Silencio
+Treeataur
+Silencio
+Wereyak
+Silencio
+Zebrataur
+
+Chupacabra
+Silencio
+Dropbear
+Silencio
+Jackalope
+Silencio
+Jersey Devil
+Silencio
+Skvader
+Silencio
+Snallygaster
+Silencio
+Tatzelwurm
+Silencio
+Wild Haggis
+Silencio
+Yeti
+Silencio
+Daffodils
+Silencio
+Margaritas
+Silencio
+Lilacs
+Silencio
+Periwinkles
+Silencio
+Purple Dead-Nettles
+Silencio
+Tulipanes
+Silencio
+Violetas
+Silencio
+el jardín
+Silencio
+el Horehound
+Silencio
+el Lily
+Silencio
+el Lotus Blossom
+
+la Rosa
+Silencio
+el cardo
+Silencio
+Alphagorgon
+Silencio
+Slorg
+Silencio
+Ocho Boll Weevils
+Silencio
+Grue
+Silencio
+Ocelot caliente
+Silencio
+Jabberwock
+Silencio
+Were-rabbit
+Silencio
+Wumpus
+Silencio
+Malas sensaciones
+Silencio
+Bitterness
+Silencio
+Decepción
+Silencio
+Título
+Silencio
+Fallo
+Silencio
+Insecurity
+Silencio
+Irritación menor
+Silencio
+Negación
+Silencio
+Servitude
+Silencio
+Submission
+
+Vexa
+Silencio
+Apatía
+Silencio
+Boredom
+Silencio
+Ennui
+Silencio
+Inacción
+Silencio
+Lethargy
+Silencio
+Desnutrición de la vida
+Silencio
+Negligence
+Silencio
+Oblivion
+Silencio
+Omisión
+Silencio
+Inquietidad
+Silencio
+los Doldrums
+Silencio
+Amelioration
+Silencio
+Awe
+Silencio
+Belleza
+Silencio
+Birdsong
+Silencio
+Cleverness
+Silencio
+Índice
+Silencio
+Creatividad
+Silencio
+Curiosidad
+
+Libertad
+Silencio
+Diversión
+Silencio
+Felicidad
+Silencio
+Joy
+Silencio
+Conocimiento
+Silencio
+Hojas
+Silencio
+Liberty
+Silencio
+Vida
+Silencio
+Lucidity
+Silencio
+Mirth
+Silencio
+Música
+Silencio
+Nuevos descubrimientos
+Silencio
+Satisfacción
+Silencio
+Sorpresa
+Silencio
+Tender Moments
+Silencio
+Maravilla
+Silencio
+el Bien
+Silencio
+la hoja
+Silencio
+Compulsión Divina
+Silencio
+Intervención Divina
+
+Intercesión
+Silencio
+Miracles
+Silencio
+Salvación
+Silencio
+la mano invisible
+Silencio
+la Voluntad de los Dioses
+Silencio
+Protección completa
+Silencio
+La puerta de la muerte
+Silencio
+Defensa
+Silencio
+Exclusión
+Silencio
+Fortificación
+Silencio
+Impermeabilidad
+Silencio
+Inviolabilidad
+Silencio
+Refuge
+Silencio
+Repulsión
+Silencio
+Escudo
+Silencio
+el blindado uno
+Silencio
+el Bulwark
+Silencio
+la Puerta
+Silencio
+el Salvador
+Silencio
+el muro de piedra
+
+el Unbroken
+Silencio
+los intocables
+Silencio
+el Ward
+Silencio
+Resistencia a la muerte
+Silencio
+Disfrase
+Silencio
+Modabilidad
+Silencio
+Fullness
+Silencio
+Grace.
+Silencio
+Gravitas
+Silencio
+Impresionante
+Silencio
+Resistencia al menos
+Silencio
+Polaco
+Silencio
+Privacidad
+Silencio
+Custodia protectora
+Silencio
+Resiliencia
+Silencio
+Shadows and Fog
+Silencio
+Fuerza supletoria
+Silencio
+Inexistencia de peso
+Silencio
+Absencia
+Silencio
+Anaestesia
+
+# invertebrates
+Baldness
+Silencio
+Compresión
+Silencio
+Decompresión
+Silencio
+Salidas dramáticas
+Silencio
+Los dientes del pato
+Silencio
+Senderos de Forking
+Silencio
+Good Intentions
+Silencio
+Hadjma
+Silencio
+Peluquería
+Silencio
+Hedging
+Silencio
+Hubris
+Silencio
+Incorporation
+Silencio
+Exposición indecente
+Silencio
+Indemnización
+Silencio
+Responsabilidad limitada
+Silencio
+Pérdida
+Silencio
+Amor y muerte
+Silencio
+Mezcal
+Silencio
+Pathos
+Silencio
+Philately
+
+Plástico
+Silencio
+Pobres excusas
+Silencio
+Catastrofes de precisión
+Silencio
+Espacio
+Silencio
+Terror
+Silencio
+Las malditas bendiciones
+Silencio
+Demasiados cocineros
+Silencio
+Secretos desconocidos
+Silencio
+Vlad
+Silencio
+Razón
+Silencio
+el Arcane
+Silencio
+el Armadillo
+Silencio
+el Marksman ciego
+Silencio
+la Tierra
+Silencio
+el Fruto Eterno
+Silencio
+el Loofah
+Silencio
+el Viejo y Reckless
+Silencio
+la cebolla
+Silencio
+la esquina rosa
+Silencio
+el Plethaurus
+
+el camino menos viajado
+Silencio
+El verdadero Faraón
+Silencio
+el Desempleado
+Silencio
+el Vacuo
+Silencio
+Blue Moon
+Silencio
+Comet
+Silencio
+Constelaciones
+Silencio
+Evening Star
+Silencio
+Luna de cosecha
+Silencio
+Sol de medianoche
+Silencio
+Luna
+Silencio
+Morning Star
+Silencio
+Northern Lights
+Silencio
+Planetas
+Silencio
+Pleiades
+Silencio
+Estrellas
+Silencio
+Sol
+Silencio
+Luna Negra
+Silencio
+Chimes
+Silencio
+Pan-Flutes
+
+Trompetas
+Silencio
+el Acuerdo
+Silencio
+el Bagpipe
+Silencio
+las campanas
+Silencio
+el Fiddle
+Silencio
+la Fife
+Silencio
+la gripe
+Silencio
+el Gusle
+Silencio
+la cosecha
+Silencio
+el Kazoo
+Silencio
+el Kettle-Drum
+Silencio
+el Lute
+Silencio
+el Trombone
+Silencio
+Demonios
+Silencio
+Demonios más grandes
+Silencio
+Demonios menores
+Silencio
+Temporeros
+Silencio
+Vampiric Thralls
+Silencio
+el Archifiend
+Silencio
+el Príncipe de Demonio
+
+el Diablo
+Silencio
+El Defensor del Diablo
+Silencio
+el equipo del diablo
+Silencio
+el Maligno
+Silencio
+el Fiend
+Silencio
+las Furias
+Silencio
+el Imp
+Silencio
+el diablo de hierro
+Silencio
+el Lich-sworn
+Silencio
+el pequeño diablo
+Silencio
+el Príncipe de la Oscuridad
+Silencio
+el Tormentor
+Silencio
+el Villain
+Silencio
+Cielos azules
+Silencio
+Boiling Hail
+Silencio
+Vientos Chill
+Silencio
+Cubierta de nube
+Silencio
+Dust Devils
+Silencio
+Viento aullido
+Silencio
+Lightning Storm
+
+Perpetual Drought
+Silencio
+Breezes agradables
+Silencio
+Tranquila.
+Silencio
+Lluvias suaves
+Silencio
+Spring Thaw
+Silencio
+el Blizzard
+Silencio
+la Primera Nieve
+Silencio
+el Huracán
+Silencio
+la tormenta Thunderstorm
+Silencio
+Aprendiz
+Silencio
+Apothecary
+Silencio
+Baker
+Silencio
+Barber Surgeon
+Silencio
+Bard
+Silencio
+Beekeeper
+Silencio
+Beggar
+Silencio
+Blacksmith
+Silencio
+Buccaneer
+Silencio
+Butcher
+Silencio
+Candlemaker
+
+Carpintero
+Silencio
+Cartwright
+Silencio
+Cobbler
+Silencio
+Cooper
+Silencio
+Ditch-Digger
+Silencio
+Engineer
+Silencio
+Farmer
+Silencio
+Farrier
+Silencio
+Fisher
+Silencio
+Fletcher
+Silencio
+Furrier
+Silencio
+Gardener
+Silencio
+Goldsmith
+Silencio
+Gravedigger
+Silencio
+Guardian
+Silencio
+Guild-Master
+Silencio
+Guilds
+Silencio
+Hunter
+Silencio
+Journeyman
+Silencio
+Learner
+
+# arachnids and clams
+Merchant
+Silencio
+Miller
+Silencio
+Minstrel
+Silencio
+Moneychanger
+Silencio
+Monk
+Silencio
+Pirata
+Silencio
+Playwright
+Silencio
+Sailor
+Silencio
+Scribe
+Silencio
+Silversmith
+Silencio
+Soldado
+Silencio
+Stonemason
+Silencio
+Tanner
+Silencio
+Maestro
+Silencio
+Pensador
+Silencio
+Undertaker
+Silencio
+Watchman
+Silencio
+Weaver
+Silencio
+Wheelwright
+Silencio
+Dados, bolsa y botella
+
+Diversión y juegos
+Silencio
+Juegos de Parlour
+Silencio
+el juego Afoot
+Silencio
+el Juego de Reyes
+Silencio
+el Gran Juego
+Silencio
+Siga al líder
+Silencio
+Ocultar y buscar
+Silencio
+Hopscotch
+Silencio
+Leapfrog
+Silencio
+Mumblety Peg
+Silencio
+Peek-a-Boo
+Silencio
+el rey de la colina
+Silencio
+Trucos de cartas
+Silencio
+Hangman
+Silencio
+Rompecabezas
+Silencio
+Mármoles
+Silencio
+Noughts and Crosses
+Silencio
+Snakes and Ladders
+Silencio
+Whack-A-Mole
+Silencio
+los dados
+
+el Juego de la Vida
+Silencio
+Coronación
+Silencio
+Democracia
+Silencio
+Novilidad
+Silencio
+Royalty
+Silencio
+Soberana
+Silencio
+la Ban
+Silencio
+el Burgomaster
+Silencio
+el voto de fundición
+Silencio
+el Castellan
+Silencio
+la Ciudad
+Silencio
+los Comunes
+Silencio
+el País
+Silencio
+la Corona
+Silencio
+el Doge
+Silencio
+la Duquesa
+Silencio
+el Duque
+Silencio
+el Imperio
+Silencio
+el Failed Coup
+Silencio
+el Greedy
+
+el Rey
+Silencio
+el Komtur
+Silencio
+el Mutiny
+Silencio
+la Oligarquía
+Silencio
+los campesinos
+Silencio
+el Príncipe
+Silencio
+el Príncipe
+Silencio
+la Princesa
+Silencio
+la Reina
+Silencio
+el Rabble
+Silencio
+República
+Silencio
+los Suburbios
+Silencio
+el Townfolk
+Silencio
+el Voivode
+Silencio
+Filth
+Silencio
+Grot
+Silencio
+Grottiness
+Silencio
+Slovenliness
+Silencio
+Bedevilment
+Silencio
+Taboos rotos
+
+Gestures
+Silencio
+Magia
+Silencio
+Frases amarrados
+Silencio
+Sorcery
+Silencio
+Palabras del poder
+Silencio
+el Arcane
+Silencio
+Crawling
+Silencio
+Desastres
+Silencio
+Dogmatismo
+Silencio
+Fiestas
+Silencio
+Vamos rápido
+Silencio
+Feliz Babbling
+Silencio
+Hedge Mago
+Silencio
+Imperfección
+Silencio
+Inevitabilidad
+Silencio
+Hambre insaciable
+Silencio
+Seguro
+Silencio
+Misanthropy
+Silencio
+Perfidia
+Silencio
+Monstruos del tiempo
+
+# amphibians and reptiles
+Prueba y error
+Silencio
+Inequívoca
+Silencio
+Especies indeseables
+Silencio
+Espacio residual
+Silencio
+Decisiones incorrectas
+Silencio
+@ card @ de @ suit @
+Silencio
+el hombre colgado
+Silencio
+el Sendero Perdido
+Silencio
+el Troll de la Luna
+Silencio
+el Orb
+Silencio
+The Orb Guardian
+Silencio
+el Otro Mundo
+Silencio
+la Victim Sacrifica
+Silencio
+el Ligero Bent
+Silencio
+el rey de la tormenta
+Silencio
+Ravioli
+Silencio
+Spaghetti
+Silencio
+Tortelloni
+Silencio
+Farfalle
+Silencio
+Rotini
+
+Vermicelli
+Silencio
+Macaroni
+Silencio
+Strozzapreti
+Silencio
+el Pastamancer
+Silencio
+Albóndigas
+Silencio
+Dos.
+Silencio
+Tres.
+Silencio
+Cuatro
+Silencio
+Cinco
+Silencio
+Seis
+Silencio
+Siete
+Silencio
+Ocho
+Silencio
+9
+Silencio
+Diez
+Silencio
+Página
+Silencio
+Caballero
+Silencio
+Reina
+Silencio
+Rey
+Silencio
+Ace
+Silencio
+Copas
+
+Pentáculos
+Silencio
+Espadas
+Silencio
+Wands
+Silencio
+Contraptación maldita
+Silencio
+Earthly Heaven
+Silencio
+Olvídalo.
+Silencio
+El amigo de Hero
+Silencio
+Put-Me-On
+Silencio
+Trusted Companion
+
+Salamander
+
+Serpent
+
+Turtle
+
+# fish
+Barracuda
+
+Catfish
+
+Cichlid
+
+Mackerel
+
+Marlin
+
+Salmon
+
+Sturgeon
+
+Sunfish
+
+Trout
+
+Tuna
+
+# birds
+Albatross
+
+Eagle
+
+Falcon
+
+Heron
+
+Meadowlark
+
+Nightingale
+
+Raven
+
+Robin
+
+Shrike
+
+Sparrow
+
+Swan
+
+Turtledove
+
+# mammals
+Bull
+
+Camelopard
+
+Catamount
+
+Dolphin
+
+Echidna
+
+Elephant
+
+Hart
+
+Hippo
+
+Kangaroo
+
+Lion
+
+Monkey
+
+Okapi
+
+Stag
+
+Stallion
+
+Zebra
+
+# not strictly an animal... :)
+Circus Animal
+
+Monkey's Uncle
+
+# classical mythical animals
+Centaur
+
+Cockatrice
+
+Chimera
+
+Dragon
+
+Griffon
+
+Hecatoncheires
+
+Hippogriff
+
+Kraken
+
+Leogriff
+
+Nuckelavee
+
+Pooka
+
+Quinotaur
+
+Sea Goat
+
+Skiapode
+
+Unicorn
+
+# Iapon
+
+Akabeko
+
+Baku
+
+Byakko
+
+Ikuchi
+
+Kappa
+
+Kitsune
+
+Kodama
+
+Oni
+
+Shishi
+
+Tsukumogami
+
+# South America
+
+Carbunclo
+
+Cherruve
+
+Cuero
+
+Curupira
+
+Ebigane
+
+Gasogonaga
+
+Mpinguari
+
+Tapire-iauara
+
+# Africa
+
+Biloko
+
+Guiamala
+
+Impundulu
+
+Isitwalangcengce
+
+Nkala
+
+Zankallala
+
+# South East Asia
+
+Bakunawa
+
+Minokawa
+
+# Unlikely hybrids
+
+Giraffataur
+
+Elephantaur
+
+Mertaur
+
+Merwolf
+
+Platytaur
+
+Rhinotaur
+
+Taurataur
+
+Treeataur
+
+Wereyak
+
+Zebrataur
+
+# modern mythical animals
+Chupacabra
+
+Dropbear
+
+Jackalope
+
+Jersey Devil
+
+Skvader
+
+Snallygaster
+
+Tatzelwurm
+
+Wild Haggis
+
+Yeti
+
+%%%%
+_flower_name_
+Daffodils
+
+Daisies
+
+Lilacs
+
+Periwinkles
+
+Purple Dead-Nettles
+
+Tulips
+
+Violets
+
+the Garden
+
+the Horehound
+
+the Lily
+
+the Lotus Blossom
+
+the Rose
+
+the Thistle
+
+%%%%
+# non-Crawl critters
+_critter_name_
+Alphagorgon
+
+Slorg
+
+# from the crawl.akrasiac.org patch.
+Eight Boll Weevils
+
+Grue
+
+Hot Ocelot
+
+Jabberwock
+
+w:1
+Were-rabbit
+
+Wumpus
+%%%%
+_discomfort_and_inaction_
+
+# discomfort
+Bad Feelings
+
+Bitterness
+
+Disappointment
+
+Entitlement
+
+Failure
+
+Insecurity
+
+Minor Irritation
+
+Negation
+
+Servitude
+
+Submission
+
+Vexation
+
+# inaction
+Apathy
+
+Boredom
+
+Ennui
+
+Inaction
+
+Lethargy
+
+Lifelessness
+
+Negligence
+
+Oblivion
+
+Omission
+
+Restlessness
+
+the Doldrums
+
+%%%%
+_good_or_divine_
+
+# good things
+Amelioration
+
+Awe
+
+Beauty
+
+Birdsong
+
+Cleverness
+
+Contentment
+
+Creativity
+
+Curiosity
+
+Freedom
+
+Fun
+
+Happiness
+
+Joy
+
+Knowledge
+
+Leaves
+
+Liberty
+
+Life
+
+Lucidity
+
+Mirth
+
+Music
+
+New Discoveries
+
+Satisfaction
+
+Surprise
+
+Tender Moments
+
+Wonder
+
+the Good
+
+the Leaf
+
+# divine events
+Divine Compulsion
+
+Divine Intervention
+
+Intercession
+
+Miracles
+
+Salvation
+
+the Invisible Hand
+
+the Will of the Gods
+
+%%%%
+# in contrast to "_wacky_armour_name_" these do have some
+# connection to armour and protection
+_armour_name_shielding_
+Complete Protection
+
+Death's Door
+
+Defence
+
+Exclusion
+
+Fortification
+
+Impermeability
+
+Inviolability
+
+Refuge
+
+Repulsion
+
+Shielding
+
+the Armoured One
+
+the Bulwark
+
+the Gate
+
+the Saviour
+
+the Stone Wall
+
+the Unbroken
+
+the Untouchables
+
+the Ward
+
+%%%%
+# other armour properties (beside protection)
+_armour_property_name_
+Death Resistance
+
+Disguise
+
+Fashionability
+
+Fullness
+
+Grace
+
+Gravitas
+
+Impressiveness
+
+Least Resistance
+
+Polish
+
+Privacy
+
+Protective Custody
+
+Resilience
+
+Shadows and Fog
+
+Supple Strength
+
+Weightlessness
+
+%%%%
+_wacky_armour_name_
+Absence
+
+Anaesthesia
+
+Baldness
+
+Compression
+
+Decompression
+
+Dramatic Exits
+
+Duck's Teeth
+
+Forking Paths
+
+Good Intentions
+
+Hadjma
+
+Hairiness
+
+Hedging
+
+Hubris
+
+Incorporation
+
+Indecent Exposure
+
+Indemnity
+
+Limited Liability
+
+Loss
+
+Love and Death
+
+Mezcal
+
+Pathos
+
+Philately
+
+Plasticity
+
+Poor Excuses
+
+Precision Catastrophes
+
+Space
+
+Terror
+
+Thrice Damned Blessings
+
+Too Many Cooks
+
+Untold Secrets
+
+Vlad
+
+Weirdness
+
+the Arcane
+
+the Armadillo
+
+the Blind Marksman
+
+the Earth
+
+the Eternal Fruit
+
+the Loofah
+
+the Old and Reckless
+
+the Onion
+
+the Pink Corner
+
+# Schlock Mercenary, March 5, 2010
+the Plethaurus
+
+the Road Less Travelled
+
+the True Pharaoh
+
+the Unemployed Unperson
+
+the Vacuum
+
+%%%%
+# Lemuel's suggestions
+_celestial_bodies_
+w:5
+Blue Moon
+
+Comet
+
+Constellations
+
+Evening Star
+
+w:5
+Harvest Moon
+
+w:5
+Midnight Sun
+
+Moon
+
+Morning Star
+
+Northern Lights
+
+Planets
+
+Pleiades
+
+Stars
+
+Sun
+
+# astrological
+Black Moon
+%%%%
+_instrument_name_
+Chimes
+
+Pan-Flutes
+
+Trumpets
+
+the Accordion
+
+the Bagpipe
+
+the Bells
+
+the Fiddle
+
+the Fife
+
+the Flute
+
+the Gusle
+
+the Harp
+
+the Kazoo
+
+the Kettle-Drum
+
+the Lute
+
+the Trombone
+
+%%%%
+_evil_being_
+Demons
+
+Greater Demons
+
+Lesser Demons
+
+Tempters
+
+Vampiric Thralls
+
+w:5
+the Archfiend
+
+the Demon Prince
+
+the Devil
+
+the Devil's Advocate
+
+the Devil's Team
+
+the Evil One
+
+the Fiend
+
+the Furies
+
+the Imp
+
+the Iron Devil
+
+the Lich-sworn
+
+the Little Devil
+
+the Prince of Darkness
+
+the Tormentor
+
+the Villain
+
+%%%%
+_weather_name_
+Blue Skies
+
+Boiling Hail
+
+Chill Winds
+
+Cloud Cover
+
+Dust Devils
+
+Howling Wind
+
+Lightning Storm
+
+Perpetual Drought
+
+Pleasant Breezes
+
+Quiet Fog
+
+Soft Rains
+
+Spring Thaw
+
+the Blizzard
+
+the First Snow
+
+the Hurricane
+
+the Thunderstorm
+
+%%%%
+_profession_name_
+Apprentice
+
+Apothecary
+
+Baker
+
+Barber Surgeon
+
+Bard
+
+Beekeeper
+
+Beggar
+
+Blacksmith
+
+Buccaneer
+
+Butcher
+
+Candlemaker
+
+Carpenter
+
+Cartwright
+
+Cobbler
+
+Cooper
+
+Ditch-Digger
+
+Engineer
+
+Farmer
+
+Farrier
+
+Fisher
+
+Fletcher
+
+Furrier
+
+Gardener
+
+Goldsmith
+
+Gravedigger
+
+Guardian
+
+Guild-Master
+
+Guilds
+
+Hunter
+
+Journeyman
+
+Learner
+
+Merchant
+
+Miller
+
+Minstrel
+
+Moneychanger
+
+Monk
+
+Pirate
+
+Playwright
+
+Sailor
+
+Scribe
+
+Silversmith
+
+Soldier
+
+Stonemason
+
+Tanner
+
+Teacher
+
+Thinker
+
+Undertaker
+
+Watchman
+
+Weaver
+
+Wheelwright
+
+%%%%
+# something for Xom
+_game_name_
+
+# general games
+Dice, Bag, and Bottle
+
+Fun and Games
+
+Parlour Games
+
+the Game Afoot
+
+the Game of Kings
+
+the Great Game
+
+# children's games
+Follow the Leader
+
+Hide-and-Seek
+
+Hopscotch
+
+Leapfrog
+
+Mumblety Peg
+
+Peek-a-Boo
+
+the King of the Hill
+
+# board games etc.
+Card Tricks
+
+Hangman
+
+Jigsaw
+
+Marbles
+
+Noughts and Crosses
+
+Snakes and Ladders
+
+Whack-A-Mole
+
+the Dice
+
+the Game of Life
+
+%%%%
+_politics_name_armour_
+Coronation
+
+Democracy
+
+Nobility
+
+Royalty
+
+Sovereignty
+
+the Ban
+
+the Burgomaster
+
+the Cast Vote
+
+the Castellan
+
+the City
+
+the Commoners
+
+the Country
+
+the Crown
+
+the Doge
+
+the Duchess
+
+the Duke
+
+the Empire
+
+the Failed Coup
+
+the Greedy
+
+the King
+
+the Komtur
+
+the Mutiny
+
+the Oligarchy
+
+the Peasants
+
+the Prince
+
+the Princeling
+
+the Princess
+
+the Queen
+
+the Rabble
+
+the Republic
+
+the Suburbs
+
+the Townfolk
+
+the Voivode
+
+%%%%
+_other_armour_name_
+
+#unpleasantness
+Filth
+
+w:5
+Grot
+
+w:5
+Grottiness
+
+Slovenliness
+
+# magic
+Bedevilment
+
+Broken Taboos
+
+Gestures
+
+Magic
+
+Muttered Phrases
+
+Sorcery
+
+Words of Power
+
+the Arcane
+
+# other
+Crawling
+
+Disaster
+
+Dogmatism
+
+Feasting
+
+Going Fast
+
+Happy Babbling
+
+Hedge Wizardry
+
+Imperfection
+
+Inevitability
+
+Insatiable Hunger
+
+Insurance
+
+Misanthropy
+
+Perfidy
+
+Time Monsters
+
+Trial and Error
+
+Unambiguity
+
+Undesirable Species
+
+Wasted Space
+
+Wrong Decisions
+
+the @_card_@ of @_suit_@
+
+the Hanged Man
+
+the Lost Path
+
+the Moon Troll
+
+the Orb
+
+the Orb Guardian
+
+the Other World
+
+the Sacrificial Victim
+
+the Slightly Bent
+
+the Storm King
+
+#pasta
+Ravioli
+
+Spaghetti
+
+Tortelloni
+
+Farfalle
+
+Rotini
+
+Vermicelli
+
+Macaroni
+
+Strozzapreti
+
+w:1
+the Pastamancer
+
+# sometimes pasta-adjacent
+Meatballs
+%%%%
+_card_
+
+Two
+
+Three
+
+Four
+
+Five
+
+Six
+
+Seven
+
+Eight
+
+Nine
+
+Ten
+
+Page
+
+Knight
+
+Queen
+
+King
+
+Ace
+%%%%
+_suit_
+
+Cups
+
+Pentacles
+
+Swords
+
+Wands
+%%%%
+# "something" rather than of Something
+_plain_armour_name_
+Damnable Contraption
+
+Earthly Heaven
+
+Forget-Me-Not
+
+Hero's Friend
+
+Put-Me-On
+
+Trusted Companion
+
+%%%%

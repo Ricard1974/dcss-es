@@ -1,4 +1,10 @@
 %%%%
+tough skin mutation
+
+Su epidermis se ha endurecido, proporcionando una pequeña cantidad de protección. Cada nivel
+de esta mutación proporciona +1 AC.
+
+%%%%
 shaggy fur mutation
 
 Tú está cubierto de piel, proporcionando una pequeña cantidad de protección. Cada nivel
@@ -215,6 +221,14 @@ lo que hace más fácil golpear y revelarlo si es invisible. Cada nivel de esto
 la mutación aumenta la probabilidad de que esto ocurra.
 
 %%%%
+horns mutation
+
+Tú tiene cuernos en su cabeza, lo que le permite tratar de sonar enemigos al lanzar
+ataques de melee, pero impidiendo que use cascos. Cada nivel de esta mutación
+aumenta daño de sus ataques de gore. El tercer nivel de esta mutación
+le impide usar cualquier tipo de cabezal.
+
+%%%%
 beak mutation
 
 Tú tiene un pico para una boca, lo que le permite peck a los enemigos al lanzar la melee
@@ -330,6 +344,11 @@ armadura. Esto no tiene efecto en la protección proporcionada por los encantami
 el nivel de esta mutación hace que tus pseudopodos sean más grandes y más fuertes.
 
 %%%%
+steam resistance mutation
+
+Eres inmune al daño causado por el aliento de vapor y las nubes de vapor.
+
+%%%%
 mutation resistance mutation
 
 Su código genético es inusualmente estable, haciendo menos probable que tú Will sea
@@ -438,6 +457,12 @@ el proceso. Si tienes no queda magia para dibujar, sus varitas funcionan como
 normal.
 
 %%%%
+regeneration mutation
+
+Sanas rápido. Cada nivel de esta mutación aumenta la tasa a la que se
+sanar.
+
+%%%%
 inhibited regeneration mutation
 
 No sanas con el tiempo mientras que los enemigos están a la vista. Otras fuentes de curación,
@@ -492,6 +517,16 @@ subdued magic mutation
 
 Sus hechizos son ligeramente más fáciles de lanzar (probabilidad y severidad reducidas),
 pero menos poderoso. Cada nivel de esta mutación aumenta los efectos.
+
+%%%%
+teleportitis mutation
+
+Periódicamente teletransporte hacia monstruos hostiles. Te sientes...
+desestabilizando varios giros antes de que esto suceda, y puede suprimirlo
+temporalmente leyendo un pergamino de teletransporte.
+
+Cada nivel de esta mutación aumenta la frecuencia con la que empiezas a
+teletransporte.
 
 %%%%
 deformed body mutation
@@ -582,6 +617,13 @@ meek mutation
 
 Todos tus ataques son menos eficaces, lidiando menos daño y siendo un poco
 menos exacto. Este efecto empeora con cada nivel de esta mutación.
+
+%%%%
+demonic guardian mutation
+
+Cuando el estás dañó, existe la posibilidad de que un guardián demoníaco Will se apresure a ayudar
+Tú. Cuanto mayor sea el daño hecho y más cerca estás a la muerte, mayor
+las probabilidades. Cada nivel de esta mutación aumenta la fuerza de sus tutores.
 
 %%%%
 powered by pain mutation
@@ -733,6 +775,12 @@ Eres inmune a las nubes de congelación.
 flame cloud immunity mutation
 
 Eres inmune a las nubes de la llama.
+
+%%%%
+spit poison mutation
+
+Puede escupir veneno con <input>$cmd[CMD USE ABILITY]</input>. El segundo nivel
+de esta mutación intensifica el veneno de un solo glob en una nube grande.
 
 %%%%
 in touch with death mutation
@@ -916,6 +964,12 @@ treasure sense mutation
 Tú tiene un cuchillo increible para saber dónde se pueden encontrar los elementos. Mientras exploras
 the Dungeon, localizaciones cercanas que no puedes ver directamente Will ganar un
 marcador para artículos no descubiertos.
+
+%%%%
+gelatinous body mutation
+
+Tu cuerpo es goma, y tus enemigos como pegamento. Cada nivel de esta mutación
+conferencias +1 AC y +1 EV.
 
 %%%%
 eyeballs mutation
@@ -1174,6 +1228,13 @@ Su sigilo se aumenta en un 50% mientras que Rampaging y cada vez que con éxito
 apuñalar a un enemigo, su próximo movimiento de Rampage se vuelve instantáneo.
 
 %%%%
+vampire fangs mutation
+
+Cuando realizas un ataque de puñalada contra un monstruo vivo con sangre, curas para
+una parte del daño total tratado. Cuando estás al 50% de su HP max o menos,
+esto tiene una oportunidad de 2/3 para ocurrir en todos los ataques de melee.
+
+%%%%
 bloodcurse mutation
 
 Cuando matas a un monstruo vivo con un ataque de apuñalas, pueden levantarse de nuevo para servir
@@ -1370,6 +1431,13 @@ de gritar. Criaturas que fallan en un cheque de Willpower Will se despierten inc
 más tiempo.
 
 %%%%
+Gehenna destruction mutation
+
+Su habilidad de destrucción de una correa está habilitada por Gehenna. Eres capaz de chocar
+tornillos de magma en lugar de frío, y tus tornillos de fuego pueden despojar sus
+Resistencia al fuego de las víctimas.
+
+%%%%
 Cocytus destruction mutation
 
 Su habilidad de destrucción de una correa está habilitada por Cocytus. Eres capaz de chocar
@@ -1388,6 +1456,14 @@ Dis destruction mutation
 
 Su habilidad de destrucción de una correa está habilitada por Dis. Eres capaz de hurl bolts
 de ácido corrosivo y espinillas metálicas en lugar de energía negativa.
+
+%%%%
+Mark of the Tyrant mutation
+
+Sus sirvientes infernales tienen una duración más larga, y puedes convocar aún más fuerte
+de invocaciones muy altas (a costo de la piedad adicional). Cuando matas
+enemigos, un sirviente al azar puede ganar uno de: Haste, Might, Regeneración, o
+Brilliance.
 
 %%%%
 Mark of Carnage mutation
@@ -1468,6 +1544,13 @@ Te otorga el vaso de habilidad de la risa, permitiéndote transformarte en un
 poderoso avatar demoníaco con gran aumento de la delincuencia y defensa para un corto
 período de tiempo, a cambio de ser arrastrado hacia el Crucible de la Carne
 después y hecho para luchar por su libertad.
+
+%%%%
+renounce potions mutation
+
+Se niega a beber pociones en combate a menos que se lesione gravemente. Mientras que los enemigos están
+su línea de visión (y por varios giros después), tú Will no puede
+beber cualquier cosa a menos que su HP sea inferior al 50% de su máximo.
 
 %%%%
 renounce scrolls mutation
@@ -1567,6 +1650,11 @@ no armour mutation
 No puedes llevar armaduras.
 
 %%%%
+inability to train dodging mutation
+
+Su habilidad Dodging es 0 y no puedes entrenan la habilidad.
+
+%%%%
 inability to train armour mutation
 
 Tu capacidad en Armaduras es cero, y no puedes aumentarlo.
@@ -1625,6 +1713,13 @@ Su habilidad de Translocaciones es 0 y no puedes entrenan la habilidad.
 no forgecraft magic mutation
 
 Su habilidad de Forgecraft es 0 y no puedes entrenan la habilidad.
+
+%%%%
+lethargy bane
+
+Cubre el terreno lentamente - moverse a nuevas posiciones le lleva un 30% más tiempo que
+normal. Esto no tiene efecto en otros tipos de acciones, como ataque o casting
+hechizos.
 
 %%%%
 heatstroke bane

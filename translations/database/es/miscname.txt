@@ -270,3 +270,74 @@ Escuchas a tus seres queridos llorando en eterna y desesperada desesperación...
 ¡Escuchas tu propia voz despertando miserablemente!
 
 %%%%
+%%%%
+_great_adj_
+
+_great_adj_
+
+astounding
+
+awesome
+
+breathtaking
+
+fabled
+
+fabulous
+
+w:5
+fantabulous
+
+glorious
+
+incredible
+
+legendary
+
+magnificent
+
+majestic
+
+marvelous
+
+splendid
+
+stupendous
+
+sublime
+
+terrific
+
+transcendent
+
+wondrous
+
+%%%%
+_halloween_things_
+
+_halloween_things_
+
+demonic hallucinations
+
+disembodied spirits
+
+ghosts and spectres
+
+grim spectres
+
+horrible apparitions
+
+phantasmagorical visions
+
+%%%%
+_lowly_
+
+_lowly_
+
+newt
+
+slug
+
+toad
+
+worm

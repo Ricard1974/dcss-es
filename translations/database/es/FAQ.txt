@@ -1,4 +1,12 @@
 %%%%
+T:html
+
+Dungeon Crawl Stone Soup - Preguntas frecuentes
+################################################################################################################################################################################################################################################################
+# Las preguntas de los principiantes sobre jugar el juego.
+################################################################################################################################################################################################################################################################
+
+%%%%
 Q:goal
 
 ¿Cuál es exactamente el objetivo de este juego?
@@ -249,6 +257,11 @@ y recibir mensajes.
 
 Véase http://crawl.develz.org/ para encontrar un servidor en línea. El sitio web también lista
 recursos de discusión comunitaria para Discord, Reddit y IRC.
+
+%%%%
+Q:version
+
+Cuando Will el desarrollo alcanza la versión "estable" 1.0?
 
 %%%%
 A:version

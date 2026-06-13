@@ -396,7 +396,7 @@ Wanderer player ghost
 %%%%
 '&'
 
- VAR0 
+VAR0
 
 %%%%
 'cap-G'
@@ -430,6 +430,14 @@ glowing orange brain
 VISUAL:  VAR0    gira   VAR1     atención hacia ti.
 
 %%%%
+imp
+
+# Shout one half the time, taunt the other half.
+ VAR0 
+
+SOUND:  VAR1                        
+
+%%%%
 moth of wrath
 
 VISUAL:  VAR0    Las cerdas de piel en rabia mientras te observa.
@@ -437,17 +445,17 @@ VISUAL:  VAR0    Las cerdas de piel en rabia mientras te observa.
 %%%%
 iron imp
 
- VAR0 
+VAR0
 
 %%%%
 shadow imp
 
- VAR0 
+VAR0
 
 %%%%
 white imp
 
- VAR0 
+VAR0 
 ################################################################################################################################################################################################################################################################
 # Shouts for specific uniques
 ################################################################################################################################################################################################################################################################
@@ -457,6 +465,11 @@ Polyphemus
 
 # This would also work for other monstruos that are surrounded by allies.
 ¡Ataque, mis mascotas! ¡Ataque!"
+
+%%%%
+Player sphinx riddle lines
+
+################################################################################################################################################################################################################################################################
 
 %%%%
 _riddle_adj_
@@ -520,16 +533,16 @@ You challenge @the_monster@ with @_riddle_adj_@ riddle
 %%%%
 Sphinx riddle success
 
- VAR0  .
+VAR0  .
 
 %%%%
 Sphinx riddle failure
 
- VAR0        
+VAR0
 
 %%%%
 Sphinx riddle failure acknowledged
 
- VAR0        
+VAR0
 
 %%%%
