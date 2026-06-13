@@ -1,0 +1,45 @@
+# Traducciones de UI de DCSS - Menús y pantallas de personaje
+# Formato: Texto Inglés|Texto Español
+#
+# Las claves deben coincidir EXACTAMENTE con las cadenas del código fuente,
+# incluidos espacios, puntuación y caracteres especiales.
+# El separador es | (pipe).
+# ============================================================================
+# CREACIÓN DE PERSONAJE (newgame.cc)
+# ============================================================================
+
+# Pantalla de selección de especie/trasfondo
+# ----------------------------------------------------------------------------
++ - Recommended species|+ - Raza recomendada
++ - Recommended background|+ - Trasfondo recomendado
+# - Recommended character|# - Personaje recomendado
+% - List aptitudes|% - Listar aptitudes
+? - Help|? - Ayuda
+Opens the help screen.|Abre la pantalla de ayuda.
+Lists the numerical skill train aptitudes for all races.|Muestra las aptitudes numéricas de entrenamiento para todas las razas.
+Shuffles through random recommended character combinations until you accept one.|Baraja combinaciones recomendadas de personaje hasta que aceptes una.
+Shuffles through random character combinations until you accept one.|Baraja combinaciones aleatorias de personaje hasta que aceptes una.
+
+# Pantalla de nombre
+# ----------------------------------------------------------------------------
+Esc - Quit|Esc - Salir
+* - Random name|* - Nombre aleatorio
+Enter - Begin!|Intro - ¡Empezar!
+That's a silly name!|¡Ese nombre no vale!
+What is your name today? |¿Cuál es tu nombre hoy? 
+You have an existing game under this name; really overwrite? [Y/n]|Ya tienes una partida con este nombre; ¿sobrescribir? [Y/n]
+
+# Diálogo de confirmación de combinación
+# ----------------------------------------------------------------------------
+Do you want to play this combination? [Y/n/q]|¿Quieres jugar con esta combinación? [Y/n/q]
+
+# Pantalla de semilla personalizada
+# ----------------------------------------------------------------------------
+Seed: |Semilla: 
+Fully pregenerate the dungeon|Generar la mazmorra por completo
+Choose 0 for a random seed. [Tab]/[Shift-Tab] to cycle input focus.|Elige 0 para una semilla aleatoria. [Tab]/[Mayús-Tab] para cambiar el foco.
+
+# ============================================================================
+# MENÚS GENÉRICOS (menu.cc)
+# ============================================================================
+Select what (regex)?|¿Seleccionar qué? (regex)
