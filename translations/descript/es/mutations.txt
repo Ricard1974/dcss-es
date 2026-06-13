@@ -962,7 +962,7 @@ Para compensar, estás capaz de curarse a sí mismo a través de la
 treasure sense mutation
 
 Tú tiene un cuchillo increible para saber dónde se pueden encontrar los elementos. Mientras exploras
-the Dungeon, localizaciones cercanas que no puedes ver directamente Will ganar un
+la Mazmorra, localizaciones cercanas que no puedes ver directamente Will ganar un
 marcador para artículos no descubiertos.
 
 %%%%
@@ -1034,7 +1034,7 @@ y los buenos adoradores de Dios toman más.
 %%%%
 explore regen mutation
 
-Estás vigorizado por el descubrimiento de lo desconocido. Mientras exploras the Dungeon,
+Estás vigorizado por el descubrimiento de lo desconocido. Mientras exploras la Mazmorra,
 tus heridas Will sanar y tu magia Will reponer.
 
 %%%%

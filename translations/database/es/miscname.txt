@@ -73,67 +73,67 @@ Un sentido cruel de la maldad se precipita a través de su entorno como
 %%%%
 welcome_spam
 
-Will tú prevalece donde otros fallaron? Will you find the Orb of Zot?
+Will tú prevalece donde otros fallaron? Will you find el Orbe de Zot?
 
-El corazón de esta mazmorra contiene el artefacto   VAR0  , the Orb de Zot.
+El corazón de esta mazmorra contiene el artefacto   VAR0  , el Orbe de Zot.
 
-Will Tú es el que recupera el   VAR1   Orb de Zot de the Depths?
+Will Tú es el que recupera el   VAR1   Orb de Zot de las Profundidades?
 
-It is said that the Orb of Zot exists deep within this dungeon.
+It is said that el Orbe de Zot exists deep within this dungeon.
 
 ¿Está destinado a encontrar el   VAR2    Orb de Zot, o a morir intentando?
 
-Todo el mundo que buscaba the Orb de Zot ha fracasado. Will ¿eres diferente?
+Todo el mundo que buscaba el Orbe de Zot ha fracasado. Will ¿eres diferente?
 
-Dicen que the Orb de Zot está dentro de esta mazmorra, pero dicen muchas cosas.
+Dicen que el Orbe de Zot está dentro de esta mazmorra, pero dicen muchas cosas.
 
  VAR3  Orb of Zot se encuentra muy abajo, como si esperara que lo encuentres.
 
-A continuación se encuentra the Orb de Zot, rumoreado para ser lo suficientemente poderoso para resucitar a un dios ...
+A continuación se encuentra el Orbe de Zot, rumoreado para ser lo suficientemente poderoso para resucitar a un dios ...
 
-the Orb of Zot is coveted for many reasons. Will ¿Lo tomas por tu cuenta?
+el Orbe de Zot is coveted for many reasons. Will ¿Lo tomas por tu cuenta?
 
-Un vizier esmirante le dijo que the Orb de Zot está justo dentro de esta mazmorra.
+Un vizier esmirante le dijo que el Orbe de Zot está justo dentro de esta mazmorra.
 
-Si regresas sin encontrar the Orb de Zot, hasta ahora, ¡se acabó!
+Si regresas sin encontrar el Orbe de Zot, hasta ahora, ¡se acabó!
 
-Es un largo camino hasta the Orb de Zot, pero eso no debería ser ningún problema.
+Es un largo camino hasta el Orbe de Zot, pero eso no debería ser ningún problema.
 
 %%%%
 welcome_spam dungeon descent
 
-Will ¿desciendes donde otros fallaron? Will you find the Orb of Zot?
+Will ¿desciendes donde otros fallaron? Will you find el Orbe de Zot?
 
 Will Tú es el que desciende y encuentra el   VAR0   Orb de Zot?
 
 ¿Estás destinado a descender al   VAR1    Orb de Zot, o a morir intentando?
 
-Te sientes atraído a descender a las profundidades insondables para the Orb de Zot...
+Te sientes atraído a descender a las profundidades insondables para el Orbe de Zot...
 
  VAR2  Orb of Zot se encuentra abajo, esperando que tú descienda y lo encuentre.
 
-Si desciendes sin encontrar the Orb de Zot, hasta ahora abajo, ¡se acabó!
+Si desciendes sin encontrar el Orbe de Zot, hasta ahora abajo, ¡se acabó!
 
 %%%%
 welcome_spam Halloween
 
  VAR0  ¡Ten cuidado! Halloween esta noche.
 
-Los monstruos aquí no son grandes fans de truco o trato. Si no te dan the Orb de Zot, tendrás que tomarlo.
+Los monstruos aquí no son grandes fans de truco o trato. Si no te dan el Orbe de Zot, tendrás que tomarlo.
 
-Un terrible geas te ha enviado después de the Orb de Zot. ¡Qué noche tan horrible para tener una maldición!
+Un terrible geas te ha enviado después de el Orbe de Zot. ¡Qué noche tan horrible para tener una maldición!
 
-Al descender en busca de the Orb,   VAR1   rebaño alrededor de tú. ¡Este lugar está embrujado!
+Al descender en busca de el Orbe,   VAR1   rebaño alrededor de tú. ¡Este lugar está embrujado!
 
-Escuchas una hechicera, y de repente llegas al the Dungeon. Si no encuentras the Orb de Zot, te convertirás en un   VAR2  !
+Escuchas una hechicera, y de repente llegas al la Mazmorra. Si no encuentras el Orbe de Zot, te convertirás en un   VAR2  !
 
-Si quieres encontrar the Orb de Zot, necesitarás un disfraz mucho mejor que eso.
+Si quieres encontrar el Orbe de Zot, necesitarás un disfraz mucho mejor que eso.
 
-Tú espera que este lugar tiene the Orb de Zot, porque seguro que no tiene ningún caramelo.
+Tú espera que este lugar tiene el Orbe de Zot, porque seguro que no tiene ningún caramelo.
 
-Incontables aventureros han entrado the Dungeon buscando the Orb de Zot, pero siempre hay espacio para uno más...
+Incontables aventureros han entrado la Mazmorra buscando el Orbe de Zot, pero siempre hay espacio para uno más...
 
-Tú siente the Orb de Zot llamando a tú... con horror, tú se da cuenta de que la llamada viene de dentro the Dungeon!
+Tú siente el Orbe de Zot llamando a tú... con horror, tú se da cuenta de que la llamada viene de dentro la Mazmorra!
 
 %%%%
 hell_effect_quiet

@@ -140,7 +140,7 @@ ralentizando su movimiento un poco.
 dagger "Morg"
 
 Una daga oxidada fea. Hace muchos años era propiedad de un poderoso sabio
-llamado Boris. Se perdió en the Dungeon mientras buscaba the Orb.
+llamado Boris. Se perdió en la Mazmorra mientras buscaba el Orbe.
 
 %%%%
 scythe "Finisher"
@@ -212,7 +212,7 @@ que tenía sus vidas tomadas para tomar aún más bajo su nuevo dueño.
 morningstar "Eos"
 
 Una estrella de la mañana, brillante con la luz del amanecer. It
-ilumina los recesos de the Dungeon, revelando las maquinaciones de aquellos que
+ilumina los recesos de la Mazmorra, revelando las maquinaciones de aquellos que
 preferiría permanecer invisible.
 
 %%%%
@@ -923,7 +923,7 @@ trabajo.
 %%%%
 Charlatan's Orb
 
-Este orb es la obra de un maestro artificio, contratado para recuperar the Orb, que
+Este orb es la obra de un maestro artificio, contratado para recuperar el Orbe, que
 valoró su vida más que su integridad profesional. Mientras que este falso
 recrea fielmente el resplandor extraño y las propiedades de la verdadera
 orb, el poder que otorga es artificial y sólo accesible para los evokers calificados.

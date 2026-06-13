@@ -706,7 +706,7 @@ tutorial5 dungeon_overview
 
 ¡Adelante está un altar a Trog el Wrathful! Trog es sólo uno de muchos dioses. En un
 juego real, puedes check <input>$cmd[CMD DISPLAY OVERMAP] </input><localtiles>
-o <input>click the Dungeon botón de sobremapa</input> en el comando
+o <input>click la Mazmorra botón de sobremapa</input> en el comando
 panel</localtiles> para una lista de todos los altares y otras características interesantes
 encontrado hasta ahora.
 
@@ -786,7 +786,7 @@ A <input>haga clic derecho</input> en la ficha del jugador Will también subir l
 <input>$cmd[CMD REST]</input> esperar y descansar hasta 100 vueltas
 
 <yellow>Otros comandos</yellow>
-<input>$cmd[CMD DISPLAY OVERMAP]</input> mostrar un resumen de the Dungeon
+<input>$cmd[CMD DISPLAY OVERMAP]</input> mostrar un resumen de la Mazmorra
 <input>$cmd[CMD DISPLAY COMMANDS]/§AG25 § search the description database
 
 %%%%

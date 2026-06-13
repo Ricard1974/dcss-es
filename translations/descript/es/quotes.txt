@@ -59,7 +59,7 @@ Pero los conquistamos, y los matamos.”
 -Thomas Love Peacock, “The War Song of Dinas Vawr”. 1829.
 
 %%%%
-A gateway back into the Dungeon
+A gateway back into la Mazmorra
 
 ¡Oh Progenie del Cielo! ¡Trunos empíricos!
 Con razón tiene profundo silencio y demur
@@ -68,7 +68,7 @@ Y duro, que fuera del infierno conduce a la luz.”
 -John Milton,  Paradise Lost . 1674 (2nd Ed.).
 
 %%%%
-A gateway leading deeper into the Abyss.
+A gateway leading deeper into el Abismo.
 
 <Abyss>
 
@@ -131,7 +131,7 @@ Pero la multitud pidió más”
 -Procul Harum, “A Whiter Shade of Pale”. 1967.
 
 %%%%
-A one-way gate to the infinite horrors of the Abyss
+A one-way gate to the infinite horrors of el Abismo
 
 “Y si miras por mucho tiempo en un Abyss, el Abysstambién mira hacia ti.”
 -Friedrich Nietzsche,  Beyond Good and Evil , Aphorism 146. 1886.
@@ -249,22 +249,22 @@ A staircase to the Ecumenical Temple
 <Temple>
 
 %%%%
-A staircase to the Elven Halls
+A staircase to los Salones Élficos
 
 <Elven Halls>
 
 %%%%
-A staircase to the Orcish Mines
+A staircase to las Minas Orcas
 
 <Orcish Mines>
 
 %%%%
-A staircase to the Shoals
+A staircase to los Bajos
 
 <Shoals>
 
 %%%%
-A staircase to the Tomb
+A staircase to la Tumba
 
 “Una tumba ahora le basta para quien el mundo no era suficiente.”
 -Alexander el epitafio del Grande.
@@ -402,7 +402,7 @@ vuestros caminos, y derramad las viales de la ira de Dios sobre la tierra.
 %%%%
 Tomb
 
-“En the Depths de cada corazón, hay una tumba y una mazmorra, aunque el
+“En las Profundidades de cada corazón, hay una tumba y una mazmorra, aunque el
 las luces, la música y el revelaje arriba pueden hacernos olvidar su existencia,
 y los enterrados, o prisioneros a los que se esconden. Pero a veces, y a menudo
 a medianoche, esos receptáculos oscuros están abiertos. En una hora como ésta,
@@ -428,7 +428,7 @@ Alistair's Walking Alembic spell
 A pesar de su apariencia inmutable, es ampliamente considerado el más popular de Alistair
 trabajo; innumerables variaciones de este hechizo se pueden encontrar en las bibliotecas superficiales,
 personalizado para preparar todo desde el pulido del suelo hasta la sopa vegetal. En el
-profundidades de the Dungeon, sin embargo, la mayoría de los magos favorecen la utilidad de combate de la
+profundidades de la Mazmorra, sin embargo, la mayoría de los magos favorecen la utilidad de combate de la
 iteración clásica.
 
 %%%%
@@ -3273,7 +3273,7 @@ No antes lo había atrapado, disolvándole toda su pena
 como niebla de refrescante sueño derramada alrededor de él allí—
 su poderoso marco era caluroso de acusar a Héctor
 recto y duro a las paredes de Windswept Troy -
-que the ghost of "Patrocluso arrasado"
+que el fantasma de "Patrocluso arrasado"
 Era como el hombre de la vida, cada característica,
 la misma construcción alta y los ojos finos y la voz
 y las mismas túnicas que solían vestir su cuerpo.
@@ -3794,7 +3794,7 @@ Niño,  The English and Scottish Popular Ballads . 1898.
 merfolk impaler
 
 ¡Diablos! ¡Que Neptune te mate, Winslow! HAAARK! Hark Triton, hark!
-Bellow, pídele a nuestro padre que el rey del mar se levante de the Depths completo en su furia!
+Bellow, pídele a nuestro padre que el rey del mar se levante de las Profundidades completo en su furia!
 Olas negras teemiendo con sal para ahogar esta boca joven con pungente
 límpiate, para ahogarte, engordando tus órganos hasta que te pongas azul y hinchado con
 bilge y brine y no puede gritar más - sólo cuando él, coronado en la polla
@@ -4528,7 +4528,7 @@ Trans. Ruth White, 1969.
 %%%%
 swamp drake
 
-“Sweet es the Swamp con sus secretos,
+“Sweet es el Pantano con sus secretos,
 Hasta que nos encontremos con una serpiente;
 'T es entonces que suspiramos por casas,
 Y nuestra salida
@@ -4543,7 +4543,7 @@ Y el engaño es donde va.
 swamp worm
 
 El tonto, como creo, al borde del abismo,
-Prone by the Swamp or the marsh's side,
+Prone by el Pantano or the marsh's side,
 ¿Acaso, como yo, al final se regocijó?
 Puesto que la voz de la muerte debe ser Su verdadera voz.”
 -Arthur Edward Waite, “Al final de las cosas”. 1906.

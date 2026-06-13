@@ -32,7 +32,7 @@ Antaeus
 
 Una vez que un héroe entre los titanes, Antaeus se puso celoso de la reina titana. In
 combate único que desafió y mató a ella, y por este crimen fue exiliado y
-descendió a the Hells. Encontrar a los habitantes de ese lugar sin coincidencia para su
+descendió a los Infiernos. Encontrar a los habitantes de ese lugar sin coincidencia para su
 Might, Antaeus tore from its substance a fourth Hell, Cocytus, a realm born of
 Un asco congelado.
 
@@ -44,7 +44,7 @@ Media araña por la maldición de un rival celoso. Salió de su pueblo, encontr�
 santuario por un tiempo entre el jorogumo antes de que un enemigo amargo la obligó a
 huye una vez más.
 
-Ahora vaga por otros rincones de the Dungeon con un pequeño retinue de leales
+Ahora vaga por otros rincones de la Mazmorra con un pequeño retinue de leales
 estudiantes en remolque, buscando un nuevo dominio en el que pueden hacer girar su sin pares
 tapices en paz.
 
@@ -58,7 +58,7 @@ fuego.
 Asterion
 
 Una vez un rey infame por librar campañas de sangre, Asterion fue exiliado a
-the Depths of the Dungeon for his crimes. Aquí se acecha en su frescura,
+las Profundidades of la Mazmorra for his crimes. Aquí se acecha en su frescura,
 soñando con un nuevo reino. En su deseo de poder, el rey minotauro se volvió hacia
 la adoración de Makhleb, y Makhleb le ha recompensado con horror
 destructivo Might.
@@ -71,7 +71,7 @@ Un potente y beligerante Ifrit. (¿Acaso los hay de otra clase?)
 %%%%
 Bai Suzhen
 
-A weary Draconian with foreign and watery scales. Ella ha llegado a the Dungeon
+A weary Draconian with foreign and watery scales. Ella ha llegado a la Mazmorra
 en esperanzas de resucitar a su marido mortal; una causa noble, por un ser una vez
 conocido por pelear con santos e inundar templos desafortunados. Si es presionado
 a sus límites, ella Will revela su verdadera forma, la mera vista de la cual golpeó
@@ -102,7 +102,7 @@ bendecido y maldecido en igual medida - concedió la capacidad de prever desastr
 pero sólo aquellos que ella era impotente para prevenir.
 
 Eventualmente conducido de su tierra natal como un harbinger de las mismas plagas que ella había
-pasó toda la vida warning contra, ella ha llegado a the Dungeon en sus últimos días
+pasó toda la vida warning contra, ella ha llegado a la Mazmorra en sus últimos días
 con la esperanza de evitar una última catástrofe.
 
 %%%%
@@ -187,7 +187,7 @@ caro mayal y su mente despierta.
 Enchantress
 
 Primero y más temeroso de su clase, el Enchantress rige sobre los esparcidores de
-the Dungeon. Lleva un traje opalescente hecho de piel de dragón que brilla
+la Mazmorra. Lleva un traje opalescente hecho de piel de dragón que brilla
 con muchos colores.
 
 %%%%
@@ -216,7 +216,7 @@ del honor.
 Fannar
 
 Un hechicero de escoba, envuelto en túnicas de alto cargo. Ellos susurran
-sonríemente a ellos mismos mientras acechan the Dungeon, siguiendo cristales de hielo a través de los
+sonríemente a ellos mismos mientras acechan la Mazmorra, siguiendo cristales de hielo a través de los
 aire detrás de ellos.
 
 %%%%
@@ -307,7 +307,7 @@ Jeremiah
 
 Jeremías era un soñador pacífico, propenso a las siestas improvisadas. Se deslizaron en
 soñando con un viejo y odioso
-el poder los obliga al servicio. Ahora Jeremías tropieza a través de the Dungeon,
+el poder los obliga al servicio. Ahora Jeremías tropieza a través de la Mazmorra,
 buscando el precioso sueño que Will restaurar el poder de su maestro,
 inseguro si todavía despiertan o duermen. Sus sueños se filtran en la realidad
 la forma de una corriente constante de mariposas.
@@ -322,7 +322,7 @@ molestada.
 %%%%
 Jorgrun
 
-Un mago enano, particularmente bien dotado de the Dungeon alrededor de él. Él
+Un mago enano, particularmente bien dotado de la Mazmorra alrededor de él. Él
 wields powerful magia de tierra in combat.
 
 %%%%
@@ -375,9 +375,9 @@ para la presa para agitar su apetito sin fondo.
 Lodul
 
 Un emisario ogro de la Orden Ironbound, enviado para encontrar y detener intrusos antes
-entran en the Vaults. Fiercely carismático, ha reunido a un pequeño ejército de su
+entran en las Bóvedas. Fiercely carismático, ha reunido a un pequeño ejército de su
 parientes, superándolos con el rayo de largo alcance que lleva en su espalda.
-(La gran bolsa de monedas que tomó de the Vaults también es bastante persuasivo.)
+(La gran bolsa de monedas que tomó de las Bóvedas también es bastante persuasivo.)
 
 %%%%
 Lom Lobon
@@ -402,7 +402,7 @@ Maggie
 
 En un tiempo distante, Maggie fue aprendiz a los horribles Caballeros del Infierno - pero ella
 Creció impaciente. En busca de un atajo a la fama y la fortuna (y algo corto
-en la imaginación), entró the Dungeon y se puso a matar a un dragón. Ahora
+en la imaginación), entró la Mazmorra y se puso a matar a un dragón. Ahora
 habiendo matado a uno, Maggie no ve ninguna razón para parar.
 
 %%%%
@@ -461,7 +461,7 @@ Natasha
 
 Un gato mágico que se mueve rápido. Una vez que un mago poderoso es familiar, Natasha era
 abandonado después de que su amo fue consumido por las fuerzas muy necrométicas que buscaba
-para controlar. Ahora ella patrulla the Dungeon, tomando una venganza sangrienta con hechizo
+para controlar. Ahora ella patrulla la Mazmorra, tomando una venganza sangrienta con hechizo
 y garra sobre cualquier aventurero que cruce su camino.
 
 Este gato no tiene nueve vidas, pero una muerte no va a ser suficiente
@@ -479,7 +479,7 @@ Nergalle
 
 Una orca desgarrada y marchitada que ha dedicado su vida a la crónica de la sangre
 historia de su gente. Ella afirma conocer los nombres y hechos de cada último orc
-que perdió su vida en su gran éxodo en the Dungeon, e incluso si esto es
+que perdió su vida en su gran éxodo en la Mazmorra, e incluso si esto es
 una mentira, sin embargo parece estar en una base de primer nombre con muchos de ellos.
 
 Más que cualquier otro orco que aún respira, conoce la sangre y la sacrifica.
@@ -556,7 +556,7 @@ Una rana de tamaño inusual, con una pequeña corona encaramada incongruentement
 Robin
 
 Un hobgoblin de montaña, recientemente viene en busca de la legendaria Orb. No
-tonto o imprudente lo suficiente para entrar en the Depths de the Dungeon solo,
+tonto o imprudente lo suficiente para entrar en las Profundidades de la Mazmorra solo,
 Robin ha construido un pequeño ejército de mineros. Competidores potenciales Will rápidamente
 encontrar una corriente de Screaming duendes volando hacia ellos!
 
@@ -664,7 +664,7 @@ Vv
 
 Uno de los Stoneborn, formaron aeones indecibles hace con el mando supremo sobre la roca.
 Su gente se refugia profundamente dentro de la tierra viva, así que lo que sea que haya forzado a Vv
-en la apertura opresiva de the Dungeon debe ser muy grave. Pero lo que sea
+en la apertura opresiva de la Mazmorra debe ser muy grave. Pero lo que sea
 No está hablando...
 
 %%%%
@@ -703,7 +703,7 @@ incombustible.
 Zenata
 
 Un artillero, su carne mezclada en acero tan suavemente que es difícil
-Dile dónde termina uno y el otro comienza. Ella entró the Dungeon para buscar
+Dile dónde termina uno y el otro comienza. Ella entró la Mazmorra para buscar
 los secretos de un antiguo culto de larga duración, dijo haber exaltado el metal sobre
 carne. El precio del conocimiento era su humanidad - un precio que pagó con entusiasmo.
 
@@ -924,7 +924,7 @@ de la muerte en una ráfaga de llama insensata.
 bes kemwar
 
 Un espíritu pequeño de gusano peludo, fingiendo dentro y fuera de este plano. Cada regional
-variante inflige diferentes enfermedades menores: las encontradas en the Dungeon
+variante inflige diferentes enfermedades menores: las encontradas en la Mazmorra
 porque la magia de uno se debilita.
 
 %%%%
@@ -1043,7 +1043,7 @@ Cada tesseracta está inextricablemente ligada a la otra, y destruye una Will
 destruir ambos (y expulsar a todas las criaturas que han acuñado a esta realidad,
 así como aturdiendo incluso aquellos que no tienen). Pero mientras estén
 permitido existir, no hay ningún fin a las fuerzas que buscan mantenerte alejado
-the Orb.
+el Orbe.
 
 %%%%
 brain worm
@@ -1096,7 +1096,7 @@ bullfrog
 
 Un anfibio inusualmente agresivo que persigue su presa con saltos rápidos.
 Su croak es fuerte y distintivo, pero a diferencia de sus contrapartes más pequeñas sobre
-tierra, the Dungeon bullfrog es tan grande como suena.
+tierra, la Mazmorra bullfrog es tan grande como suena.
 
 %%%%
 bunyip
@@ -1578,7 +1578,7 @@ poniéndolos a Sleep.
 drowned soul
 
 Una aparición fría y hueca de los muertos ahogados, encadenada por algunos persistentes
-apego al the Depths en el que pereció. Se apresura a abrazar a los vivos,
+apego al las Profundidades en el que pereció. Se apresura a abrazar a los vivos,
 compartir los últimos momentos de su destino acuoso con lo que toque.
 
 %%%%
@@ -2003,7 +2003,7 @@ morir en batalla que dejar cualquier cosa a un intruso.
 guardian sphinx
 
 Un temible híbrido envejecido con la cabeza de una mujer, el cuerpo de un león, y las alas de
-un águila. Guarda solemnemente los templos y tesoros de the Dungeon con un
+un águila. Guarda solemnemente los templos y tesoros de la Mazmorra con un
 multitud de maledicciones de la mente.
 
 %%%%
@@ -2353,7 +2353,7 @@ por tácticas mal manejadas.
 kobold blastminer
 
 A Kobold, listo con múltiples armamentos para defenderse de los muchos
-peligros de the Depths. El cañón lleno de blastmote sobre su hombro lleva sus
+peligros de las Profundidades. El cañón lleno de blastmote sobre su hombro lleva sus
 marca del fabricante, y es ferozmente leal; Will fuego para ninguno otro.
 
 %%%%
@@ -2558,7 +2558,7 @@ morphogenic ooze
 
 Un miro multihuido de carne podrida y lodos fluctuantes, luchando y fracasando
 para más coherencia que cualquier otro slime. Como un portador fresco de la ruina
-contagioso que overtook the Slime Pits, puede impartir a otros el mismo
+contagioso que overtook las Fosas de Moco, puede impartir a otros el mismo
 horrible destino. Aunque no sea una transformación permanente para tú, la
 la soldadura de armas y armadura, así como el debilitamiento severo de los hechizos,
 Haz que sea letal.
@@ -2740,7 +2740,7 @@ oni incarcerator
 
 Un retenedor infame y dudoso de Gehenna. Estos inmensos e indomables Oni
 teje sus armas a través de la realidad misma para alcanzar y capturar a los innumerables
-almas condenadas adeudadas a the Hells sobre sus muertes.
+almas condenadas adeudadas a los Infiernos sobre sus muertes.
 
 %%%%
 ophan
@@ -2994,7 +2994,7 @@ polterguardian
 Muchos poltergeistas son ferozmente territoriales sobre los dominios que eligen
 perseguir, pero estos han extendido esa protección incluso a las personas que comparten
 su dominio con ellos. Algunos dicen que deben ser las almas persistentes de aquellos que
-custodiado the Vaults en la vida; otros sugieren la Orden Ironbound simplemente reclutado
+custodiado las Bóvedas en la vida; otros sugieren la Orden Ironbound simplemente reclutado
 ellos en causa común. Lo que sea cierto, su propia presencia alberga a otros
 criaturas de los misiles, causando el hongo y el hechizo por igual para alejarse del camino en el
 el último momento.
@@ -3016,7 +3016,7 @@ DevTeam.
 protean progenitor
 
 Un humanoide gargantuano de forma fracturada de los eones cuando los mares eran pero
-sopa primordial. Los muchos manipuladores de the Dungeon una vez se escabulló de
+sopa primordial. Los muchos manipuladores de la Mazmorra una vez se escabulló de
 estos seres insondablemente antiguos, y cuando ellos mismos finalmente cesan,
 sus restos Will dan a luz una última vez a monstruos furiosos.
 
@@ -3077,7 +3077,7 @@ inteligente y cruel.
 %%%%
 rat
 
-Un roedor sucio que ha crecido grande y agresivo en el entorno the Dungeon.
+Un roedor sucio que ha crecido grande y agresivo en el entorno la Mazmorra.
 
 %%%%
 raiju
@@ -3201,7 +3201,7 @@ y decaimiento a todo lo que toca.
 rusted inspector
 
 Una vez construido para monitorear las entidades mutadas
-invadiendo en the Vaults y desde hace mucho tiempo abandonado. Mientras que todavía puede humedecer
+invadiendo en las Bóvedas y desde hace mucho tiempo abandonado. Mientras que todavía puede humedecer
 magia más no deseada, una falta de mantenimiento adecuado ha llevado a que se recubre
 con una óxido místico altamente corrosivo.
 
@@ -3331,7 +3331,7 @@ restos.
 shadowghast
 
 Una aparición que se disfraza como una sombra inofensiva. Attuned to the
-dim light of the Dungeon, it can slip in and out of sight at Will, moving
+dim light of la Mazmorra, it can slip in and out of sight at Will, moving
 rápidamente de una piscina de sombra a la siguiente antes de golpear infaliblemente en la
 manchas ciegas de aquellos que no pueden verlo.
 
@@ -3371,7 +3371,7 @@ que lo llamó.
 shadow turret
 
 Una silueta extrañamente estática cuya forma sugiere un cañón grande. Aunque usa
-sin pólvora, the Depths de sus bragas de aburrimiento enojado con cada disparo, como si
+sin pólvora, las Profundidades de sus bragas de aburrimiento enojado con cada disparo, como si
 recordando la ardiente luz de su encendido.
 
 %%%%
@@ -3453,7 +3453,7 @@ Un esqueleto obligado a deshacerse del ejercicio de la necromancía.
 sky beast
 
 Una extraña criatura aérea formada de nubes carnosas y plumas eléctricas. It
-ordena las corrientes de viento débil de the Dungeon con cada huelga, que Will
+ordena las corrientes de viento débil de la Mazmorra con cada huelga, que Will
 buffet sus víctimas en dramática correlación con la cantidad de aire abierto alrededor
 dijo presa.
 
@@ -3928,7 +3928,7 @@ experimento de cría. Maldición.
 %%%%
 undertaker
 
-the Dungeon's vast repositories of the dead and the unholy realms thereafter
+la Mazmorra's vast repositories of the dead and the unholy realms thereafter
 ambos requieren restauración y reorganización regulares, mucho más allá de la coordinación
 de los muertos inquietos. Estas construcciones de recolección de cadáveres se extienden por la
 tierra y comando divisiones de manos zombificadas para ayudarles a robar
@@ -3987,7 +3987,7 @@ gota.
 %%%%
 vault guard
 
-Un guardián fuertemente armado y blindado de the Vaults.
+Un guardián fuertemente armado y blindado de las Bóvedas.
 
 %%%%
 vault sentinel
@@ -4076,7 +4076,7 @@ erupción en las corrientes de hechizos auto-flotantes y libres.
 %%%%
 wandering mushroom
 
-Un hongo grande y carnoso que vaga lentamente alrededor de the Dungeon. Es ambos.
+Un hongo grande y carnoso que vaga lentamente alrededor de la Mazmorra. Es ambos.
 innatamente curioso e increíblemente tímido, persiguiendo los objetos de su curiosidad sólo
 cuando fuera de vista. Esporas nocivas derivan alrededor de su capa.
 
@@ -4164,7 +4164,7 @@ Un fuerte canino salvaje, con dientes afilados y un apetito saludable.
 wolf spider
 
 Una araña de caza rápida peluda con mandíbulas viciosas, el tamaño de un lobo.
-Vagando the Dungeon en busca de presa, que mata con su veneno mortal.
+Vagando la Mazmorra en busca de presa, que mata con su veneno mortal.
 
 %%%%
 worldbinder
@@ -4190,7 +4190,7 @@ con el trastorno del Abyss.
 wyrmhole
 
 Un pequeño y extraño pliegue serpentino en el espacio y el tiempo. Scholars once
-el fácil acceso de the Dungeon a múltiples reinos es debido a los
+el fácil acceso de la Mazmorra a múltiples reinos es debido a los
 túnelización de dragones translocaciones sin descubrir. Ya sea o no esto
 verdaderas, distantes estrellas se mottle las interminables longitudes de este drake, y las dimensiones se doblan a
 su capricho.

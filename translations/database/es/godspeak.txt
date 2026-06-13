@@ -92,7 +92,7 @@ Xom brevemente toca su entorno.
 
 Xom se queja del paisaje.
 
-Xom altera the Dungeon alrededor tuyo.
+Xom altera la Mazmorra alrededor tuyo.
 
 %%%%
 Xom scenery open_door
@@ -127,7 +127,7 @@ Xom scenery cache_of_meat
 
 Xom [ofertas torturas] algunos aperitivos.
 
-Xom prepara un banquete formado de su sendero de la carnicería a través de the Dungeon.
+Xom prepara un banquete formado de su sendero de la carnicería a través de la Mazmorra.
 
 %%%%
 Xom scenery cache_of_baked_goods
@@ -698,7 +698,7 @@ Oíste la risa maníaca de Xom.
 %%%%
 Xom send in the clones
 
-Xom siente que debería haber más de ustedes para compartir con the Dungeon.
+Xom siente que debería haber más de ustedes para compartir con la Mazmorra.
 
 Xom Destruye suavemente un espejo sobre su [   VAR0  previo    VAR1  ].
 
@@ -755,7 +755,7 @@ w:30
 
 "No, he cambiado de opinión."
 
-Xom te lleva de vuelta a la silenciosa comparable de the Dungeon.
+Xom te lleva de vuelta a la silenciosa comparable de la Mazmorra.
 
 %%%%
 Xom revert other banishment
@@ -764,7 +764,7 @@ Xom revert other banishment
 
 "¡No lo haces!"
 
-Xom te lleva de vuelta a la silenciosa comparable de the Dungeon.
+Xom te lleva de vuelta a la silenciosa comparable de la Mazmorra.
 
 %%%%
 Xom chaos upgrade
@@ -797,7 +797,7 @@ w:30
 Xom reforma la tierra.
 
 w:1
-Xom revela la gran verdad aniquiladora a las paredes del the Dungeon!
+Xom revela la gran verdad aniquiladora a las paredes del la Mazmorra!
 
 %%%%
 Xom blink monsters
@@ -1083,7 +1083,7 @@ Xom tira de un cercano   VAR2   .
 
 "¡Tag, tú lo eres!"
 
-Xom altera the Dungeon alrededor tuyo.
+Xom altera la Mazmorra alrededor tuyo.
 
 %%%%
 Xom good enchant monster
@@ -1549,12 +1549,12 @@ Sif Muna welcome
 Conozco muchos secretos...
 
 %%%%
-the Shining One penance
+el Resplandeciente penance
 
 El Shining One dice: Ser un mártir puede lavar su pecado!
 
 %%%%
-the Shining One welcome
+el Resplandeciente welcome
 
 El Shining One dice: ¡Llevad las fuerzas de la luz a la victoria!
 

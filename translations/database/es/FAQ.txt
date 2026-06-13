@@ -15,9 +15,9 @@ Q:goal
 A:goal
 
 R: Para sobrevivir y ganar, obviamente. Para esto es necesario encontrar el orbe podado
-de Zot en profundidad en the Dungeon y traerlo de vuelta a la superficie. Para entrar
+de Zot en profundidad en la Mazmorra y traerlo de vuelta a la superficie. Para entrar
 reino de Zot, primero tendrá que recoger tres runas que se encuentran en varios
-ramas del the Dungeon.
+ramas del la Mazmorra.
 
 Sin embargo, si eres nuevo en el juego, no deberías preocuparte por esto. Sólo
 tratar de profundizar lo más profundo posible y divertirse explorando los muchos lados
@@ -230,7 +230,7 @@ Q:randart
 %%%%
 A:randart
 
-A: Aparte de los elementos estándar que encontrarán acostados en the Dungeon, tú
+A: Aparte de los elementos estándar que encontrarán acostados en la Mazmorra, tú
 Might tambiÃ©n tropezaron sobre artefactos que vienen en dos variedades:
 
 * randart: un artefacto aleatorio, generalmente un arma, armadura o joyería, con

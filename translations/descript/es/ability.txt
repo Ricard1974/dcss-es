@@ -325,7 +325,7 @@ sólo una vez.
 %%%%
 Recall Undead Harvest ability
 
-Recuerda a tus seguidores no muertos de cualquier lugar en the Dungeon a tu inmediata
+Recuerda a tus seguidores no muertos de cualquier lugar en la Mazmorra a tu inmediata
 alrededores.
 
 %%%%
@@ -558,7 +558,7 @@ Invocaciones de habilidad. Su salud actual y puntos de magia Will también aumen
 proporcionalmente.
 
 %%%%
-Depart the Abyss ability
+Depart el Abismo ability
 
 Te transporta fuera de la Abyss, devolviéndolo a la ubicación desde la cual tú
 entró.
@@ -577,7 +577,7 @@ Abismo para causar destrucción. Esto no funcionará en niveles ya corruptos o e
 el propio Abismo.
 
 %%%%
-Enter the Abyss ability
+Enter el Abismo ability
 
 Te transportas al reino de Lugonu instantáneamente... a costa de reducir
 permanentemente tus máximos de vida y magia. El esfuerzo asociado a esta
@@ -627,7 +627,7 @@ prueba divina.
 %%%%
 Recall Apostles ability
 
-Recuerda a tus apóstoles de cualquier parte en the Dungeon a tu inmediata
+Recuerda a tus apóstoles de cualquier parte en la Mazmorra a tu inmediata
 alrededores.
 
 %%%%
@@ -729,7 +729,7 @@ monstruo no muerto corpóreo golpeó en un slime neutral.
 %%%%
 Oozemancy ability
 
-Se llama ooze ácido de las paredes de the Dungeon alrededor de tú, enemigos dañinos
+Se llama ooze ácido de las paredes de la Mazmorra alrededor de tú, enemigos dañinos
 dependiendo del número de paredes delgadas que permanecen adyacentes.
 
 %%%%
@@ -1022,7 +1022,7 @@ El aumento general se determina por el tamaño de su donación.
 %%%%
 Recall Ancestor ability
 
-Recuerda tu antepasado desde cualquier parte de the Dungeon hasta tu inmediata
+Recuerda tu antepasado desde cualquier parte de la Mazmorra hasta tu inmediata
 alrededores.
 
 %%%%
@@ -1152,7 +1152,7 @@ la condenación ellos mismos, están completamente sin mancha por la condenació
 escalas de habilidad con la habilidad Evocations.
 
 %%%%
-Evoke the Staff of Olgreb ability
+Evoke el Bastón de Olgreb ability
 
 Causa la fundición para irradiar energía tóxica, infligiendo continuamente veneno
 todo en la línea de la vista mientras dure el aura. El poder de esto

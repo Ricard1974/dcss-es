@@ -3,7 +3,7 @@ welcome
 
 <white>¡Bienvenido a Dungeon Crawl! </white>
 
-Su objetivo es dirigir su <w> LUA0       LUA1 </w> de forma segura a través de the Depths de the Dungeon, recuperando la fábula Orb de
+Su objetivo es dirigir su <w> LUA0       LUA1 </w> de forma segura a través de las Profundidades de la Mazmorra, recuperando la fábula Orb de
 Zot y devolverlo a la superficie. En el principio, sin embargo, dejar el descubrimiento
 Sé tu objetivo principal. Trate de acariciar lo más profundo posible pero ten cuidado; tiburones de muerte
 alrededor de cada esquina.
@@ -121,7 +121,7 @@ Entrar</input> Will continuar.
 %%%%
 finished stashes
 
-Tú puede buscar entre todos los elementos existentes en the Dungeon con el
+Tú puede buscar entre todos los elementos existentes en la Mazmorra con el
 <input>$cmd[CMD SEARCH STASHES]</input> command. Por ejemplo,
 <input>$cmd[CMD SEARCH STASHES]</input> <w> "dagger"</w> Will list all daggers,
 y te permite viajar a ellos. Incluso puede buscar características de mazmorra, como
@@ -164,7 +164,7 @@ Recursos descritos en http://crawl.develz.org/
 HINT_CONVERT Ashenzari
 
 Acabas de convertirte en adorar <w>Ashenzari</w>. A diferencia de otros dioses,
-Ashenzari sólo se preocupa por las maldiciones. Mientras exploras the Dungeon, Ashenzari Will
+Ashenzari sólo se preocupa por las maldiciones. Mientras exploras la Mazmorra, Ashenzari Will
 ofrecer maldiciones, guardar un artículo sobre ti. Los artículos más malditos que llevas, más
 Ashenzari Will mejorar sus habilidades y de otro modo ayudarle.
 
@@ -182,14 +182,14 @@ Te has convertido en adorar <w>Ru</w>. A diferencia de otros dioses, Ru subvenci
 piedad a cambio de sacrificios permanentes, como perder el
 habilidad para entrenar ciertas habilidades, o perder permanentemente una mano. Cuanto más piedad
 tienes, las mayores habilidades Ru Will Grant, y las más poderosas
-habilidades Will se convierten. Ru Will ofrecen más sacrificios mientras exploras the Depths
-de the Dungeon.
+habilidades Will se convierten. Ru Will ofrecen más sacrificios mientras exploras las Profundidades
+de la Mazmorra.
 
 %%%%
 HINT_CONVERT Uskayaw
 
 Acabas de convertirte en adorar <w>Uskayaw</w>. A diferencia de otros dioses,
-Uskayaw El favor no se puede ganar gradualmente a medida que explora the Dungeon o slay
+Uskayaw El favor no se puede ganar gradualmente a medida que explora la Mazmorra o slay
 monstruos. En cambio, la piedad con Uskayaw se gana rápidamente en combate mientras se trata
 daño. Cuanto más tiempo permanezcas en combate y más daño trates, más
 mayores los poderes que se ofrecen. Una vez que el combate termina, Uskayaw's favour Will
@@ -550,7 +550,7 @@ También escudos.
 %%%%
 HINT_MALEVOLENCE
 
-Mientras exploras the Dungeon y revelas nuevas fichas, las fuerzas malévolas de
+Mientras exploras la Mazmorra y revelas nuevas fichas, las fuerzas malévolas de
 mazmorra puede causarle cosas malas. Cuando esto suceda,
 pausar, pensar cuidadosamente, y estar listo para usar consumibles o habilidades. Lucha contra
 ¡Sobrevivir!"
@@ -625,7 +625,7 @@ recoger artículos interesantes, y parar si un monstruo o una característica de
 %%%%
 HINT_DONE_EXPLORE
 
-Hey, has terminado de explorar the Dungeon en este nivel! Puedes buscar
+Hey, has terminado de explorar la Mazmorra en este nivel! Puedes buscar
 escaleras desde el mapa de nivel (<w>$cmd[CMD DISPLAY MAP]</w>) pulsando <w> titulada</w>.
 El cursor Will salta a la escalera más cercana, y pulsando <w>. </w> or
 <w>Enter</w> su carácter puede moverse allí, también. Cada nivel de Crawl tiene tres

@@ -165,7 +165,7 @@ _rare_chatter_
 
 @Your_weapon@ asks, "Do you need to see the manual?"
 
-@Your_weapon@ asks, "Have you heard of the Orb of Zot?"
+@Your_weapon@ asks, "Have you heard of el Orbe de Zot?"
 
 @Your_weapon@ moans, "I feel dizzy."
 
@@ -323,7 +323,7 @@ a distante "Zot"!
 
 el lejano rugido de una rana enfurecida.
 
-############## Otros ruidos, generalmente no encontrados en the Dungeon ################################################################################################################################################################################################################################################################
+############## Otros ruidos, generalmente no encontrados en la Mazmorra ################################################################################################################################################################################################################################################################
 Un golpe.
 
 una voz llamando tu nombre.
@@ -1397,10 +1397,10 @@ w:1
 @The_weapon@ sings, in a rumbling basso, "...its glittering glow hides... runes of riches..."
 
 w:1
-@The_weapon@ sings, in a mocking tenor, "As you command, I will willingly lead you - steeply down: shall we journey to the Orb?"
+@The_weapon@ sings, in a mocking tenor, "As you command, I will willingly lead you - steeply down: shall we journey to el Orbe?"
 
 w:1
-@The_weapon@ sings, in a rumbling basso, "But for all the world... I will not surrender the Orb!"
+@The_weapon@ sings, in a rumbling basso, "But for all the world... I will not surrender el Orbe!"
 
 w:1
 @The_weapon@ sings, in a mocking tenor, "Then shall we swing down... through the sulphurous cleft?"
@@ -1564,7 +1564,7 @@ w:1
 
 # This would need the ability to have conditionals based on branch.
 #w:1
-#@The_weapon@ sings, in a mocking tenor, "Here is the Swamp: through the pale mist - what fiery sparks are flashing?"
+#@The_weapon@ sings, in a mocking tenor, "Here is el Pantano: through the pale mist - what fiery sparks are flashing?"
 
 ###############################################################################
 # synonyms used above

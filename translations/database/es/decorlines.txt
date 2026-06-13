@@ -87,12 +87,12 @@ Tú ve   VAR0  en la fuente.
 %%%%
 Ashenzari peaceful fountain_blue
 
-Intentas explorar la fuente, pero las magias de the Dungeon te rechazan.
+Intentas explorar la fuente, pero las magias de la Mazmorra te rechazan.
 
 %%%%
 Ashenzari fountain_blue
 
-Obtienes breves visiones del pasado de the Dungeon en la reflexión de la fuente.
+Obtienes breves visiones del pasado de la Mazmorra en la reflexión de la fuente.
 
 %%%%
 Beogh fountain_blue
@@ -389,7 +389,7 @@ Apagas los ojos de los ojos inmundos en la fuente.
 %%%%
 The Shining One fountain_blood
 
-Vos calladamente juras vengar a las pobres criaturas desangradas por esta fuente.
+Tú calladamente juras vengar a las pobres criaturas desangradas por esta fuente.
 ################################################################################################################################################################################################################################################################
 
 %%%%

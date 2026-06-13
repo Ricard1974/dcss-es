@@ -79,7 +79,7 @@ Garc the Great
 Plog the Peerless
 
 # Funny option for rumours that "Dead [deliberately not Undead] Wendell"
-# deserves life, death, or undeath; or worships the Shining One.
+# deserves life, death, or undeath; or worships el Resplandeciente.
 Dead Wendell
 
 Lady Dreamflight
@@ -416,11 +416,11 @@ of a group of potion makers practising healing others
 # Non-religious version of Ru below.
 of a group of ascetics despising their bodies and discussing sacrifices
 
-# Non-religious version of the Shining One below.
+# Non-religious version of el Resplandeciente below.
 of a group of [crusaders|moralists] [discussing|opposing] evil in the world
 
 # Non-religious version of Lugonu below.
-of a varied group of people discussing their experiences in the Abyss
+of a varied group of people discussing their experiences in el Abismo
 
 %%%%
 _graffiti_mass_meeting_religious_
@@ -467,9 +467,9 @@ of a group of Ashenzari worshippers practising scrying on things
 
 of a group of Ru worshippers despising their bodies and discussing sacrifices
 
-of a group of worshippers of the Shining One [discussing|opposing] evil in the world
+of a group of worshippers of el Resplandeciente [discussing|opposing] evil in the world
 
-of a group of [Lugonu worshippers|mad acolytes of Lugonu] discussing their experiences in the Abyss
+of a group of [Lugonu worshippers|mad acolytes of Lugonu] discussing their experiences in el Abismo
 
 of a group of orcs promoting Beogh's word
 
@@ -618,7 +618,7 @@ glorifying @random_god@ and blaspheming @random_god@
 
 # No entries for Ignis or Jiyva here. Ignis has one worshipper in the
 # Cinder Acolyte player, and Jiyva has one (sincere) worshipper in the
-# Royal Jelly who is brainless and tied to the Slime Pits. More
+# Royal Jelly who is brainless and tied to las Fosas de Moco. More
 # importantly, if the player kills Jiyva, Jiyva will no longer show up
 # in @random_god@ or @random_god_chaotic@, which will make detailed
 # graffiti praising Jiyva (which won't use @random_god@ or
@@ -664,9 +664,9 @@ admiring Ashenzari and talking about how curses and bondage are blessings when t
 
 paying homage to Ru and talking about how all of reality is not what you think it is
 
-giving adulation to the Shining One and talking about how honourably removing evil from the world is essential
+giving adulation to el Resplandeciente and talking about how honourably removing evil from the world is essential
 
-flattering Lugonu and talking about how Lugonu and the forces of the Abyss will soon rule over all
+flattering Lugonu and talking about how Lugonu and the forces of el Abismo will soon rule over all
 
 w:1
 glorifying an unknown god
@@ -690,13 +690,13 @@ talking about how Beogh is with them and not those other heretic orcs
 %%%%
 _graffiti_rumour_
 
-speculating about the powers of the Orb of Zot
+speculating about the powers of el Orbe de Zot
 
-talking about how the Orb of Zot will [save|destroy] everyone and everything
+talking about how el Orbe de Zot will [save|destroy] everyone and everything
 
-talking about how everyone is mistaken and the Orb of Zot is really the [Cube|Egg|Pyramid] of Zot
+talking about how everyone is mistaken and el Orbe de Zot is really the [Cube|Egg|Pyramid] of Zot
 
-telling of a secret passageway straight from here to the Orb of Zot
+telling of a secret passageway straight from here to el Orbe de Zot
 
 counting down the days until the world ends
 
@@ -803,9 +803,9 @@ _graffiti_vengeance_
 
 @_graffiti_author_any_@ swears vengeance on @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
 
-the ghost of @_graffiti_author_any_@ still haunts @_graffiti_author_any_@
+el fantasma de @_graffiti_author_any_@ still haunts @_graffiti_author_any_@
 
-the ghost of @_graffiti_author_any_@ still haunts @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
+el fantasma de @_graffiti_author_any_@ still haunts @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
 
 # Vengeance is more common among orcs.
 
@@ -817,9 +817,9 @@ the ghost of @_graffiti_author_any_@ still haunts @_graffiti_author_any_@ for @_
 
 @_graffiti_author_orc_@ swears vengeance on @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
 
-the ghost of @_graffiti_author_orc_@ still haunts @_graffiti_author_any_@
+el fantasma de @_graffiti_author_orc_@ still haunts @_graffiti_author_any_@
 
-the ghost of @_graffiti_author_orc_@ still haunts @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
+el fantasma de @_graffiti_author_orc_@ still haunts @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
 
 %%%%
 _graffiti_vengeance_reason_

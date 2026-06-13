@@ -8,11 +8,11 @@ en enviar a los mejores campeones como tú a estas pruebas de locura.
 Reportedly, there is some structure to the mess, as Lugonu seems to concoct
 esquemas alrededor de este lugar y sus habitantes.
 
-Portals to the Abyss are found abundantely in the Depths.
+Portals to el Abismo are found abundantely in las Profundidades.
 
 El Abyss consta de siete niveles infinitos. La runa abissal de Zot puede ser
 encontrado desde el tercer nivel en adelante, y es más común a mayores profundidades.
-Portals back to the Dungeon are disperseed throughout the Abyss, and are found
+Portals back to la Mazmorra are disperseed throughout el Abismo, and are found
 más comúnmente a mayores profundidades o mientras lleva la runa abissal.
 
 Matar monstruos Will acariciar la sustancia del Abyss, eventualmente generando un
@@ -39,7 +39,7 @@ de guerreros humanoides bien armados.
 %%%%
 Bazaar
 
-Mientras algunos comerciantes se instalan en the Dungeon, otros viajan en caravanas de
+Mientras algunos comerciantes se instalan en la Mazmorra, otros viajan en caravanas de
 lugar a lugar. Los bazares de estos comerciantes itinerantes cuentan con una serie de
 diferentes tiendas y a menudo tienen mejor stock que los sedentarios, a veces
 incluso en un trato.
@@ -64,14 +64,14 @@ los torturadores demoníacos de este reino.
 %%%%
 Crypt
 
-the Crypt es un enorme depósito para los antiguos muertos. El aire es frío y
+la Cripta es un enorme depósito para los antiguos muertos. El aire es frío y
 fetid, las paredes frías y húmedas. Los huesos están extendidos liberalmente por todas partes, y
 cada ruido hace eco con preocupación, violando el silencio de la tumba.
 
 %%%%
 Depths
 
-the Depths es la parte más profunda de the Dungeon apropiada, sujeta a la
+las Profundidades es la parte más profunda de la Mazmorra apropiada, sujeta a la
 influencia corruptora del Reino de Zot sin ser considerado parte de él.
 
 %%%%
@@ -136,13 +136,13 @@ El humo acrid hace que los pergaminos no estén listos.
 %%%%
 Gulch
 
-Como el Dungeon superior tiene su sistema de drenaje Sewer, también lo hace the Vaults. Éstos
+Como el Dungeon superior tiene su sistema de drenaje Sewer, también lo hace las Bóvedas. Éstos
 gulches sirven como un espacio de contención para la basura acumulada, varios
 experimentos abandonados, plagas de arrastre desórdenes, y los particularmente rotos
 cadáveres de intrusos. Una gran cantidad de energía mutagénica emana de
 la escoria mística y las aguas mohosas que corren a través de ella, tal que incluso cruzar
 su umbral Will muta temporalmente nuevos invitados. Aún así, el bien conocido
-las defensas de the Vaults nunca descartarían ningún frente de seguridad potencial: leve
+las defensas de las Bóvedas nunca descartarían ningún frente de seguridad potencial: leve
 mantenimiento a través de guardias castigados manejan apenas suficiente dirección para enviar tales
 monstruosidades del gulch a cualquiera que se atrevería a tratar de extraer riquezas ocultas de
 tales cámaras sucias.
@@ -150,10 +150,10 @@ tales cámaras sucias.
 %%%%
 Hell
 
-the Vestibule of Hell es custodiado por Geryon, junto con varios denigres
-cada uno de the Hells ellos mismos.
+el Vestíbulo del Infierno es custodiado por Geryon, junto con varios denigres
+cada uno de los Infiernos ellos mismos.
 
-Portals to the Vestibule of Hell se encuentran abundantemente en the Depths.
+Portals to el Vestíbulo del Infierno se encuentran abundantemente en las Profundidades.
 
 %%%%
 Ice Cave
@@ -177,19 +177,19 @@ o los bancos de arena y uno a los fosos cenagosos.
 %%%%
 Necropolis
 
-Mientras que muchos locales de the Dungeon están dedicados a la larga interrelación
+Mientras que muchos locales de la Mazmorra están dedicados a la larga interrelación
 muertos inquietos, aquellos cuyos restos están frescos o perdidos se recogen en el
 cámaras ceremoniales flotantes de la Necrópolis. Cada alma está consagrada y
 tendidos por el personal de mantenimiento recreando sus vidas y sus momentos
 de la muerte, ayudando a los visitantes a despedirse de los difuntos. Con el advenimiento
-aventureros que buscan the Orb de Zot, estos reinos han sido reutilizados: tales
+aventureros que buscan el Orbe de Zot, estos reinos han sido reutilizados: tales
 Los fantasmas están cegados por la rabia e imposible de controlar, así que ambos y sus
 Las posesiones robadas están selladas en estos reinos de reconciliación.
 
 %%%%
 Orcish Mines
 
-the Orcish Mines son el hogar de los orcos que se han establecido en the Dungeon, sus
+las Minas Orcas son el hogar de los orcos que se han establecido en la Mazmorra, sus
 Aliados humanoides, y montones de oro recién mirado. Entrenando comerciantes que
 vender a todos los clientes ha establecido puestos comerciales entre los orcos y sus hermanos
 para hacer buen uso de ese oro.
@@ -209,10 +209,10 @@ Pandemonium es un reino infinito de dolor y sufrimiento. Mientras que hay muchos
 tesoros que se encuentran dentro, están protegidos por demonios crueles e incluso
 Señores de demonios crueles.
 
-Portals to Pandemonium se encuentran abundantemente en the Depths.
+Portals to Pandemonium se encuentran abundantemente en las Profundidades.
 
 Pandemonium es infinito. Cada área de Pandemonium tiene una pequeña posibilidad
-que contiene un portal de vuelta a the Dungeon, ya sea directamente o a través del Abyss.
+que contiene un portal de vuelta a la Mazmorra, ya sea directamente o a través del Abyss.
 
 No menos de cinco runas de Zot se pueden encontrar en §NT§:
 • la runa ardiente reside en el reino resplandeciente de Cerebov
@@ -234,16 +234,16 @@ moho en las húmedas cuevas.
 %%%%
 Shoals
 
-Las exóticas playas subterráneas de the Shoals componen algunas islas pequeñas en una
+Las exóticas playas subterráneas de los Bajos componen algunas islas pequeñas en una
 mar aparentemente interminable. Los Merfolk lo han hecho su casa, junto a muchos
 criaturas marinas temidas.
 
-Una mazmorra solo cuenta con una de las ramas the Shoals y Swamp.
+Una mazmorra solo cuenta con una de las ramas los Bajos y Swamp.
 
 %%%%
 Slime Pits
 
-the Slime Pits son el reino amorfo de ácidos, gelatinas y delgados. Incluso el
+las Fosas de Moco son el reino amorfo de ácidos, gelatinas y delgados. Incluso el
 paredes gotean con ácido doloroso. Cualquier rastro de seres inteligentes ha sido
 disuelto. Sin embargo, hay rumores de grandes tesoros en el fondo, escondidos con seguridad
 en cámaras secretas sin entrada.
@@ -259,18 +259,18 @@ Una mazmorra solo contiene uno de la rama Hoyo de Serpientes y la rama Nido de A
 %%%%
 Spider Nest
 
-Las cavernas desmoronadas en la web de the Spider Nest están llenas de venenosas
+Las cavernas desmoronadas en la web de el Nido de Araña están llenas de venenosas
 artrópodos y surtidos espeluznantes.
 
-Una mazmorra presenta sólo una de las ramas the Spider Nest y Snake Pit.
+Una mazmorra presenta sólo una de las ramas el Nido de Araña y Snake Pit.
 
 %%%%
 Swamp
 
-Un desperdicio pantanoso, the Swamp está lleno de ooze, mucama, moscas y grandes
+Un desperdicio pantanoso, el Pantano está lleno de ooze, mucama, moscas y grandes
 Esclavizando monstruos carnívoros.
 
-Una mazmorra presenta sólo una de las ramas the Swamp y Shoals.
+Una mazmorra presenta sólo una de las ramas el Pantano y Shoals.
 
 %%%%
 Tartarus
@@ -290,7 +290,7 @@ exploración no concede piedad para explorar el Templo.
 %%%%
 Tomb
 
-the Tomb de los Antiguos es un lugar de condenación, de horrores animados por los
+la Tumba de los Antiguos es un lugar de condenación, de horrores animados por los
 La necromancia más viles. La lista de los que han regresado de este lugar de puro
 La muerte es muy corta.
 
@@ -308,7 +308,7 @@ mucho tiempo muerto, e incluso mientras vivo nunca ofreció una garantía de dev
 %%%%
 Vaults
 
-the Vaults se dice que es el hogar de grandes tesoros y males sellados por igual, sus
+las Bóvedas se dice que es el hogar de grandes tesoros y males sellados por igual, sus
 origen conocido sólo a sus guardianes: la Orden Ironbound. Los intrusos enfrentan un
 organizada defensa de maniobras entrenadas, armas y arcana, construcciones animadas,
 aliados coaccionados, y bestias domesticadas, todo en causa común.
@@ -342,16 +342,16 @@ y los aventureros más hábiles han alcanzado sus fines en uno. Mientras que un 
 seguridad Will estar presente en cada nivel, una vez dejado, un Ziggurat no puede
 reingresó.
 
-One Ziggurat is guaranteed in the Depths. Tales cuentan de un artículo mágico encontrado
+One Ziggurat is guaranteed in las Profundidades. Tales cuentan de un artículo mágico encontrado
 en el fondo de cada Ziggurat, otorgando acceso a un nuevo Ziggurat a su vez. Tal
-también se dice que un artículo se encuentra en el fondo de the Tomb de los Antiguos. Cada uno
+también se dice que un artículo se encuentra en el fondo de la Tumba de los Antiguos. Cada uno
 tiempo un Ziggurat es conquistado por salir de la planta final, después
 ziggurats Will se vuelve cada vez más peligroso y lucrativo.
 
 %%%%
 Zot
 
-El Reino de Zot es una región de the Dungeon que es tan aterrador, tan llena de
+El Reino de Zot es una región de la Mazmorra que es tan aterrador, tan llena de
 locura, frenesí y lunático, que se ha bloqueado de forma segura contra el azar
 Intrusos. Sólo los aventureros más dementes se atreverían a reunir lo necesario
 claves, romper el sello y penetrar más profundamente — todo en la vana esperanza de una fábula

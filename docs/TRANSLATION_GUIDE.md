@@ -84,6 +84,16 @@ Algunas descripciones contienen código Lua embebido entre `{{` y `}}`.
 - Traducir solo los strings literales dentro del código
 - Asegurarse de que `return` devuelve el texto en español
 
+### Marcas de color `<...>`
+
+El juego usa marcas de color con `<...>` para resaltar texto:
+
+- `<lightred>peligroso</lightred>`
+- `<green>seguro</green>`
+
+Estas marcas NO deben traducirse. El script `translate_batch.py` las protege
+automáticamente con placeholders `§AG0§` antes de enviar el texto a LibreTranslate.
+
 ## Reglas de formato
 
 1. `%%%%` al inicio y entre cada entrada
@@ -92,5 +102,36 @@ Algunas descripciones contienen código Lua embebido entre `{{` y `}}`.
 4. La traducción a continuación
 5. Sin espacios al final de las líneas
 6. UTF-8 sin BOM
-7. Archivos ordenados alfabéticamente por clave
-8. Las comillas se dejan en su idioma original (no traducir citas)
+7. Las comillas se dejan en su idioma original (no traducir citas)
+8. El orden de las entradas debe coincidir con el upstream (NO ordenar alfabéticamente)
+
+## Errores comunes
+
+- **"nunca falta"** → debe ser **"nunca falla"**
+- **"usted"** → debe ser **"tú"** (tuteo, no voseo ni usted)
+- **"danar"** → debe ser **"dañar"** (LibreTranslate a veces se come la ñ)
+- **Marcas `<...>` mutiladas** → ejecutar `scripts/fix_angle_refs.py`
+
+## Uso de herramientas
+
+### Traducción automática con LibreTranslate
+
+```bash
+# Traducir todo lo que falte
+python3 scripts/translate_batch.py --missing
+
+# Archivo específico
+python3 scripts/translate_batch.py --file spells.txt
+```
+
+### Validar formato
+
+```bash
+python3 scripts/check_translations.py
+```
+
+### Corregir referencias `<...>` dañadas
+
+```bash
+python3 scripts/fix_angle_refs.py translations/descript/es/
+```

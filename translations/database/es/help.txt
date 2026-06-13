@@ -86,7 +86,7 @@ rango de caracteres regex.
 <w>rPois</w> encuentra todos los elementos con una resistencia rPois.
 <w>rC++</w> encuentra todos los elementos con una resistencia rC++.
 <w>+3</w> encuentra todos los elementos con un hechizo +3.
-<w>/Lair.*axe</w> y §AG22axe " Lair</w> ambos muestran todos los ejes en the Lair.
+<w>/Lair.*axe</w> y §AG22axe " Lair</w> ambos muestran todos los ejes en la Guarida.
 
 Algunos atajos:
 <w>.</w> lista todo a su nivel actual.

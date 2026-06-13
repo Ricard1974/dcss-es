@@ -72,7 +72,7 @@ Tire de la parte superior o grupo de artículos similares de una pila distante a
 cerca de la lanzador. Con bajo poder, los elementos Might no se mueven hasta el
 La posición del caster.
 
-Artículos mágicos extremadamente poderosos, como the Orb de Zot, pueden resistir activamente
+Artículos mágicos extremadamente poderosos, como el Orbe de Zot, pueden resistir activamente
 la atracción de este hechizo.
 
 %%%%
@@ -416,7 +416,7 @@ El hechizo representa la mitad de la armadura de los defensores y la resistencia
 Charm spell
 
 Causa una criatura de otro modo hostil para luchar en el lado de la lanzador por un tiempo.
-Los aventureros, establecidos en su búsqueda de the Orb, sufren en cambio confusión momentánea.
+Los aventureros, establecidos en su búsqueda de el Orbe, sufren en cambio confusión momentánea.
 
 %%%%
 Chaos Breath spell
@@ -508,7 +508,7 @@ sus alrededores.
 Corona spell
 
 Causa un halo de luz brillante para rodear y delinear eficazmente a una criatura.
-Este resplandor compensa la atmósfera oscura, de mosto de the Dungeon, y hace que el
+Este resplandor compensa la atmósfera oscura, de mosto de la Mazmorra, y hace que el
 criatura afectada apreciablemente más fácil de golpear.
 
 %%%%
@@ -872,8 +872,8 @@ criatura, ambos Will toman daño adicional.
 %%%%
 Forceful Invitation spell
 
-Invoca a algunas criaturas de uno de the Snake Pit, the Spider Nest, the Swamp,
-the Shoals, the Elven Halls, the Vaults, o the Crypt; la rama específica
+Invoca a algunas criaturas de uno de el Foso de las Serpientes, el Nido de Araña, el Pantano,
+los Bajos, los Salones Élficos, las Bóvedas, o la Cripta; la rama específica
 varía con la casta.
 
 %%%%
@@ -1698,8 +1698,8 @@ sus objetivos, sin embargo debido a su enorme inercia, especialmente los oposito
 puede ser capaz de superarlos. Los orbes necesitan tiempo para estabilizarse, y un
 nascent orb Will trato reducido daño.
 
-Los residentes de the Dungeon pueden mantener the Orb hasta que impacte a
-blanco, pero cuando es lanzado por tú the Orb Will disipate al dejar su línea de
+Los residentes de la Mazmorra pueden mantener el Orbe hasta que impacte a
+blanco, pero cuando es lanzado por tú el Orbe Will disipate al dejar su línea de
 Mira.
 
 %%%%
@@ -1822,7 +1822,7 @@ cerca del jugador.
 Plane Rend spell
 
 Invoca algunas de las mayores amenazas de uno de los Pits de Slime, el Elven
-Halls, the Vaults, the Crypt, the Tomb of Ancients, or the Realm of Zot; the
+Halls, las Bóvedas, la Cripta, la Tumba of Ancients, or el Reino de Zot; the
 rama específica varía con cada elenco del hechizo.
 
 %%%%

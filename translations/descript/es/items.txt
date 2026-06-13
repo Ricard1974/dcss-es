@@ -472,7 +472,7 @@ aspectos.
 %%%%
 book of the earth
 
-Una guía para sacar inmenso poder de the Depths de la tierra. El original era
+Una guía para sacar inmenso poder de las Profundidades de la tierra. El original era
 escrito como una colaboración entre los enanos de la colina y los enanos de la montaña, pero
 su compilación fue cortada cuando una ola masiva de terremotos hundió la colina
 La civilización de los enanos en ruinas.
@@ -524,7 +524,7 @@ el resto del libro ha sido completamente vaporizado.
 %%%%
 book of the tundra
 
-Un tomo helada que describía hechizos heladas, un poco acortado. the Vaults are
+Un tomo helada que describía hechizos heladas, un poco acortado. las Bóvedas are
 dijo que mantuviera el texto completo, pero los guardianes de ese lugar guardan a sus
 tesoros celosos.
 
@@ -911,17 +911,17 @@ El área de efecto y duración aumenta con la habilidad Evocations.
 %%%%
 gem
 
-Una piedra de belleza y valor casi inconmensurable fuera de the Dungeon.
+Una piedra de belleza y valor casi inconmensurable fuera de la Mazmorra.
 Dentro de sus confines, es absolutamente inútil.
 
 Zot acapara estas gemas celosamente, y Will a pesar de los golpes pronto después de una
-aventurero entra en la rama de the Dungeon en la que descansan. Aún así, una muy
+aventurero entra en la rama de la Mazmorra en la que descansan. Aún así, una muy
 aventurero de movimiento rápido Might tomar uno primero y mantener sus preciosos fragmentos.
 Zot no puede rastrear gemas fuera de sus ramas de casa, así que con verdaderamente asombroso
 Velocidad, será posible abstenerse con uno todavía intacto... pero tal
 La hazaña es difícil de crédito, y probablemente sin sentido además.
 
-Una vez que the Orb de Zot se toma, Zot Will no puede romper ninguna gema.
+Una vez que el Orbe de Zot se toma, Zot Will no puede romper ninguna gema.
 
 %%%%
 giant club
@@ -1055,7 +1055,7 @@ Will enjambre para defender su colmena.
 %%%%
 horn of Geryon
 
-El cuerno de Geryon, guardián de the Vestibule of Hell. Tiene
+El cuerno de Geryon, guardián de el Vestíbulo del Infierno. Tiene
 poder para sacar bestias demoníacas. Con alta habilidad Evocations, it Will call
 mayor número de bestias, con menor probabilidad de que esas bestias sean hostiles.
 
@@ -1245,7 +1245,7 @@ mossy gem
  REF0 
 
 Aunque gotea con barro y mucama, todavía una dignidad peculiar se adhiere a
-esta gema. El pueblo de the Swamp, que primero llevaba esta piedra, luchó
+esta gema. El pueblo de el Pantano, que primero llevaba esta piedra, luchó
 contra probabilidades insuperables. Fallaron, pero hay mucho que admirar incluso en
 la ruina de sus esfuerzos.
 
@@ -1464,7 +1464,7 @@ física de quien la beba.
 %%%%
 potion of moonshine
 
-Un alcohol potente, destilado en un rincón dudoso de the Dungeon. Bebiendo.
+Un alcohol potente, destilado en un rincón dudoso de la Mazmorra. Bebiendo.
 reduce la precisión del imbiber, la evasión y el éxito de la ortografía por un tiempo.
 
 %%%%
@@ -1926,7 +1926,7 @@ shimmering gem
  REF0 
 
 Energías extrañas fluyen suavemente a lo largo de la superficie de esta gema, guiada por la
-arquema que primero construyó the Elven Halls. Incontables generaciones de elfos
+arquema que primero construyó los Salones Élficos. Incontables generaciones de elfos
 acuñado para aprender de ella, pero su mayor búsqueda era siempre la perfección
 de esta pieza de arte.
 
@@ -1936,13 +1936,13 @@ shining gem
  REF0 
 
 Muchos son los tesoros de la Orden Ironbound, pero ninguno más viejo ni más precioso
-que esta joya de acero. the Vaults fueron forjados primero para sostenerlo, y ninguno
+que esta joya de acero. las Bóvedas fueron forjados primero para sostenerlo, y ninguno
 que miraba dentro de sus profundidades podría fallar la elección.
 
 %%%%
 shop voucher
 
-Un cupón bueno para un artículo de cualquier precio de cualquier tienda en the Dungeon, para ser
+Un cupón bueno para un artículo de cualquier precio de cualquier tienda en la Mazmorra, para ser
 utilizado automáticamente cuando podrías haga una compra que exceda sus fondos. Cómo
 generoso! No hay reembolsos. Un cupón por compra por cliente. Oferta limitada
 disponibilidad. Vacío si está desfavorecido o alterado de otro modo. Válido sólo dentro del
@@ -1976,8 +1976,8 @@ smoky gem
 
  REF0 
 
-Swirls of dark smoke seem to lurk in the Depths of this gem. Incontable oscuro
-los hechos se hicieron en the Dungeon incluso antes de Zot incautado y rehecho, y sus
+Swirls of dark smoke seem to lurk in las Profundidades of this gem. Incontable oscuro
+los hechos se hicieron en la Mazmorra incluso antes de Zot incautado y rehecho, y sus
 El terrible residuo ahora taintiza cada pista de belleza atrapada dentro de sus confines.
 
 %%%%
@@ -2065,7 +2065,7 @@ starry gem
 
  REF0 
 
-Luces extrañas mezcle dentro de the Depths de esta gema. De lo extraño que es
+Luces extrañas mezcle dentro de las Profundidades de esta gema. De lo extraño que es
 made, and from what distant land did it travel?
 
 %%%%

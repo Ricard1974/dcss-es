@@ -694,7 +694,7 @@ _confused_humanoid_rare_
 
 VISUAL:@The_monster@ shakes.
 
-VISUAL:@The_monster@ suddenly looks very angry at the Dungeon.
+VISUAL:@The_monster@ suddenly looks very angry at la Mazmorra.
 
 @The_monster@ asks @foe,@ "Who are you?"
 
@@ -1126,7 +1126,7 @@ VISUAL: VAR1   toma una postura de lucha.
 
 ¿Llamas a ese combate?
 
-¿Crees que eres capaz de encontrar the Orb? Lo tenía, ya sabes. Entonces lo di para que pudiera robarlo de nuevo."
+¿Crees que eres capaz de encontrar el Orbe? Lo tenía, ya sabes. Entonces lo di para que pudiera robarlo de nuevo."
 
 %%%%
 Short Blades player ghost
@@ -2345,7 +2345,7 @@ VAR0   dice, "¿Tú preguntaría tales trivialidades de uno que ha resuelto la m
 %%%%
 Cassandra
 
- VAR0   dice, "Un terrible destino espera a todos los que buscan the Orb - y el vuestro peor de todos."   VAR1  
+ VAR0   dice, "Un terrible destino espera a todos los que buscan el Orbe - y el vuestro peor de todos."   VAR1  
 
  VAR2    te hace ver, "Abandonen tu búsqueda, para que no nos encuentre un terrible final".   VAR3  
 
@@ -3006,7 +3006,7 @@ VISUAL:  VAR7   patea una roca y los cocos.
 
  VAR12   dice, "Pedí instrucciones a la runa, pero me arrodillaron".
 
- VAR13   dice, "Prefiero the Lair de las Bestias, ser honesto. Al menos los animales no se quejan."
+ VAR13   dice, "Prefiero la Guarida de las Bestias, ser honesto. Al menos los animales no se quejan."
 
  VAR14   dice, "Odio tanto a los quejas"
 
@@ -3072,7 +3072,7 @@ Me gusta la sopa de tortuga. Odio las tortugas".
 
  VAR3  dice, "Todavía no he visto ningún pirata. Odio a los piratas".
 
- VAR4   dice, "Al menos este lugar no huele tan mal como the Swamp."
+ VAR4   dice, "Al menos este lugar no huele tan mal como el Pantano."
 
  VAR5   dice, "Las sirenas están empezando a lastimar mis oídos."
 
@@ -3219,7 +3219,7 @@ Vaults Donald
 w:50
  VAR0 
 
- VAR1   dice, "the Vaults? Deberían haberlo llamado los Dumps".
+ VAR1   dice, "las Bóvedas? Deberían haberlo llamado los Dumps".
 
  VAR2   dice, "No te molestes, sólo hay basura en el fondo."
 
@@ -3235,7 +3235,7 @@ w:50
 
  VAR8   dice, "Vi un dragón antes, pero no me acercaba demasiado - parecía bastante mercurial."
 
- VAR9   dice, "¿Por qué hay politergeistas que protegen este lugar, pero no the Crypt?"
+ VAR9   dice, "¿Por qué hay politergeistas que protegen este lugar, pero no la Cripta?"
 
 %%%%
 Crypt Donald
@@ -3347,7 +3347,7 @@ w:50
 
  VAR6    dice, "¿Qué es un "Guardia del Orbe", de todos modos?"
 
- VAR7   dice, "Orbes of fire, orbs of destruction, the Orb de Zot... ¿qué hay con todos los orbes?"
+ VAR7   dice, "Orbes of fire, orbs of destruction, el Orbe de Zot... ¿qué hay con todos los orbes?"
 
  VAR8  dice, "Odio los orbes."
 
@@ -3365,7 +3365,7 @@ w:50
 
  VAR15   dice, "¿Por qué las paredes cambian de color cada piso? ¿Se quedaron sin pintura?"
 
- VAR16   dice, "¿Qué impide que los guardias sólo roben the Orb ellos mismos?"
+ VAR16   dice, "¿Qué impide que los guardias sólo roben el Orbe ellos mismos?"
 
  VAR17   dice, "Espero que no me encuentre con ningún orbe de hielo aquí abajo!"
 
@@ -3381,7 +3381,7 @@ orb Donald
 w:25
  VAR0 
 
- VAR1   dice, "Gracias por llevar the Orb de Poder para mí."
+ VAR1   dice, "Gracias por llevar el Orbe de Poder para mí."
 
 ¿No es pesado? Podría dar un giro."
 
@@ -3397,7 +3397,7 @@ w:25
 
  VAR8   dice, "¿Estás seguro de que es el verdadero Orb, y no una imitación barata?"
 
- VAR9   dice, "Tienes the Orb. ¿ valió la pena?"
+ VAR9   dice, "Tienes el Orbe. ¿ valió la pena?"
 
 ################################################################################################################################################################################################################################################################
 
@@ -3428,7 +3428,7 @@ w:50
  VAR11   dice, "¿No podrías conseguir más por tu dinero con Gozag?"
 
 %%%%
-the Shining One Donald
+el Resplandeciente Donald
 
 w:50
  VAR0 
@@ -3765,7 +3765,7 @@ w:50
 
 Dice: "Ah. Eso explica dónde fueron todos los artículos."
 
- VAR4   dice, "¿Vas a abrir una granja de jalea cuando encuentres the Orb?"
+ VAR4   dice, "¿Vas a abrir una granja de jalea cuando encuentres el Orbe?"
 
  VAR5   dice, "Odio cuando los jellies toman un nivel."
 
@@ -3981,7 +3981,7 @@ w:50
 
  VAR2   dice, "¿Qué estás con todos esos gadgets, algún tipo de tienda de empeños?"
 
- VAR3   dice, "¿Qué harías con the Orb, de todos modos? ¿Experimento en él?"
+ VAR3   dice, "¿Qué harías con el Orbe, de todos modos? ¿Experimento en él?"
 
  VAR4   dice, "Bet puedes't [analyse habitinvent] su salida de este."
 
@@ -3999,7 +3999,7 @@ w:50
 
  VAR3   dice: "Si tu antepasado fuera tan duro y poderoso, ¿cómo es que están muertos?"
 
- VAR4   dice, "¿Podrías recordar dónde está the Orb?"
+ VAR4   dice, "¿Podrías recordar dónde está el Orbe?"
 
  VAR5   dice, "¿Historias fantasma? ¡Estoy tan asustada!"
 
@@ -4071,7 +4071,7 @@ _generic_Donald_
 
 @The_monster@ says, "This is such a pointless quest."
 
-@The_monster@ says, "They wouldn't let me join their adventuring club without the Orb."
+@The_monster@ says, "They wouldn't let me join their adventuring club without el Orbe."
 
 @The_monster@ says, "I hate this place."
 
@@ -4099,7 +4099,7 @@ _generic_Donald_
 
 @The_monster@ says, "The air in here stinks. I hate that."
 
-@The_monster@ says, "I bet the Orb isn't even all that great."
+@The_monster@ says, "I bet el Orbe isn't even all that great."
 
 @The_monster@ says, "So, what is this Orb thing, anyway?"
 
@@ -4200,7 +4200,7 @@ w:100
 No.
 
 w:1
- VAR0   dice, "Banished to the Abyss. Odio eso."
+ VAR0   dice, "Banished to el Abismo. Odio eso."
 
 %%%%
 Donald triumphant
@@ -4961,7 +4961,7 @@ VAR0   dice, "Lo único más molesto que un adorador es un proselitista."
  VAR1
 
 %%%%
-the Shining One Frederick triumphant
+el Resplandeciente Frederick triumphant
 
 VAR0   dice, "El aventurero que brilla dos veces más que las quemaduras brillantes fuera dos veces más rápido."
 
@@ -5980,7 +5980,7 @@ _Louise_common_
 
 @The_monster@ says, "Want to take a trip?"
 
-@The_monster@ says, "Even the Abyss couldn't kill me! What makes you think you can?"
+@The_monster@ says, "Even el Abismo couldn't kill me! What makes you think you can?"
 
 @The_monster@ says, "Powers from beyond reality are at my beck and call!"
 
@@ -6043,7 +6043,7 @@ VISUAL:@The_monster@ gives @reflexive@ a magical halo, but it quickly sputters o
 %%%%
 _Maggie_rare_
 
-@The_monster@ says @to_foe@, "If you die in the Dungeon, but nobody's around to see it, does it really matter?"
+@The_monster@ says @to_foe@, "If you die in la Mazmorra, but nobody's around to see it, does it really matter?"
 
 @The_monster@ says @to_foe@, "Did Master Lance send you?"
 
@@ -6913,7 +6913,7 @@ VISUAL:@The_monster@ checks @possessive@ coin pouch and frowns.
 
 @The_monster@ says, "I'm sure they'll be treated well, anyway."
 
-@The_monster@ says, "I'm sure the Orcish Mines are around here somewhere..."
+@The_monster@ says, "I'm sure las Minas Orcas are around here somewhere..."
 
 @The_monster@ says, "I knew I should've brought a map."
 
@@ -7249,7 +7249,7 @@ w:7
 
  VAR0   dice   VAR1  , "Aquí, eres un orco o no eres nadie".
 
- VAR2   dice   VAR3  , "En the Orcish Mines, orcs kill the likes of YOU!"
+ VAR2   dice   VAR3  , "En las Minas Orcas, orcs kill the likes of YOU!"
 
 %%%%
 _Saint Roka generic_
@@ -8346,7 +8346,7 @@ VISUAL:  VAR0    ondas graves   VAR1    antennae.
 %%%%
 obsidian bat
 
-VISUAL: VAR0   entra en la oscuridad de the Dungeon por un momento.
+VISUAL: VAR0   entra en la oscuridad de la Mazmorra por un momento.
 
 w:40
 No
@@ -8354,7 +8354,7 @@ No
 %%%%
 default obsidian statue
 
-VISUAL: VAR0    se desliza en la oscuridad de the Dungeon por un momento.
+VISUAL: VAR0    se desliza en la oscuridad de la Mazmorra por un momento.
 
 %%%%
 default orange crystal statue
@@ -8545,7 +8545,7 @@ _weeping_skull_common_
 @The_monster@ grieves for the multitudes of fallen [empires|civilisations].
 
 # Itsumaden
-@The_monster@ begs for proper burials for the Dungeon's restless dead.
+@The_monster@ begs for proper burials for la Mazmorra's restless dead.
 
 %%%%
 _weeping_skull_rare_
@@ -8556,7 +8556,7 @@ _weeping_skull_rare_
 @The_monster@ asks how much longer can this world bear the weight of past lives.
 
 w:5
-@The_monster@ mourns the many lost in the orcish exodus to the Dungeon.
+@The_monster@ mourns the many lost in the orcish exodus to la Mazmorra.
 
 # The shrieker shrieks.
 w:1
@@ -8610,7 +8610,7 @@ _good_god_
 
 Zin
 
-the Shining One
+el Resplandeciente
 
 Elyvilon
 
@@ -9407,7 +9407,7 @@ the fall of Yredelemnul.
 
 the reprobation of Lugonu.
 
-the alliance of Zin and the Shining One.
+the alliance of Zin and el Resplandeciente.
 
 the alliance of Zin and Elyvilon.
 
@@ -9637,7 +9637,7 @@ _deck_of_destruction_line_
 
 @The_monster@ draws Degeneration. "So many ways to mutate things!"
 
-@The_monster@ draws the Orb. "Orbs of destruction hurt!"
+@The_monster@ draws el Orbe. "Orbs of destruction hurt!"
 
 @The_monster@ draws Pain. "Necromancy hurts!"
 
@@ -9656,7 +9656,7 @@ _deck_of_escape_line_
 
 @The_monster@ draws Exile. "The Abyss is a horrible place!"
 
-@The_monster@ draws the Tomb. "I don't want to be sealed in with no windows!"
+@The_monster@ draws la Tumba. "I don't want to be sealed in with no windows!"
 
 # Kenny Rogers, "The Gambler"
 @The_monster@ draws Velocity. "Know when to walk away, know when to run."

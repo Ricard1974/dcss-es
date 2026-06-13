@@ -184,7 +184,7 @@ seguidores más devotos con libros de hechizo exclusivos de su legendaria
 biblioteca.
 
 %%%%
-the Shining One
+el Resplandeciente
 
 El Resplandeciente es una poderosa deidad en una cruzada contra todo mal. A sus
 seguidores y aliados les puede conceder varias bendiciones mientras vayan
@@ -207,7 +207,7 @@ hechizos.
 %%%%
 Uskayaw
 
-Uskayaw el Reveller es un dios de la danza extática. In the Dungeon, Uskayaw
+Uskayaw el Reveller es un dios de la danza extática. In la Mazmorra, Uskayaw
 aprecia la pasión y el ritmo del combate, premiando a los seguidores de cada uno
 golpean y por el daño que hacen a sus enemigos. Cuanto más tiempo
 baile continúa, los mayores poderes Uskayaw ofrece. Cuando termine el baile,
@@ -270,7 +270,7 @@ a habilidades específicas, pero el equipo maldecido normalmente no puede encant
 Sólo se eliminará destrozándolo para siempre. Mientras los adoradores equipan más maldecidos
 equipo, Ashenzari Will otorgar conocimiento creciente de la mazmorra circundante.
 Eventualmente, Ashenzari Will revelan lo invisible, conceder Clarity de la mente, y
-protege a los adoradores de las fuerzas malévolas de the Dungeon.
+protege a los adoradores de las fuerzas malévolas de la Mazmorra.
 
 %%%%
 Beogh powers
@@ -306,7 +306,7 @@ que escuelas de magia habían estado utilizando.
 Más devotos devotos ganan adicionalmente la capacidad de cambiar lugares con sus
 sombra para engañar a los enemigos, agarrar las sombras de otros seres para liberar su magia en
 el nombre del adorador, y finalmente derribar una noche tan oscura que esconde todo
-Denizens of the Dungeon uno del otro.
+Denizens of la Mazmorra uno del otro.
 
 %%%%
 Elyvilon powers
@@ -337,7 +337,7 @@ Los monstruos son convertidos en oro sobre la muerte. Otros monstruos pueden ser
 distraído por imaginaciones de gran riqueza. Stalwarts puede comprar ayuda inmediata
 en forma de pociones, y también puede pagar para atraer a los comerciantes a
 mazmorra. Los adherentes particularmente bien cuidados pueden sobornar a los habitantes de una rama
-de the Dungeon to turn a blind eye to their presence, or even to change their
+de la Mazmorra to turn a blind eye to their presence, or even to change their
 lealtad.
 
 %%%%
@@ -357,7 +357,7 @@ sus talentos de vida.
 Ignis powers
 
 Los seguidores pueden armarse en llamas, llamar a un enjambre de foxfires contra sus
-foes, o dejar Ignis' calor elevarlos a otro nivel de the Dungeon. Sin embargo, el
+foes, o dejar Ignis' calor elevarlos a otro nivel de la Mazmorra. Sin embargo, el
 llamas de la energía Ignis sólo sostienen un número limitado de
 invocaciones antes de que sólo se mantengan las brasas. No importa lo agotado, Ignis
 Will siempre otorgar resistencia a los seguidores al fuego.
@@ -365,12 +365,12 @@ Will siempre otorgar resistencia a los seguidores al fuego.
 %%%%
 Jiyva powers
 
-Jiyva Will rellenar gradualmente the Dungeon con jellies. Estos y cualquier otro tipo
+Jiyva Will rellenar gradualmente la Mazmorra con jellies. Estos y cualquier otro tipo
 slimes Will consumir rápidamente artículos cercanos, así como consumir lentamente artículos de
-en otro lugar del the Dungeon. A medida que se extienden deslizando más de the Dungeon, Jiyva
+en otro lugar del la Mazmorra. A medida que se extienden deslizando más de la Mazmorra, Jiyva
 Will otorgar a los seguidores una salud cada vez más rápida y regeneración mágica, y Will
 empezar a mutarlos para reflejar mejor la imagen de Jiyva. Followers Will later become
-capaz de sacar ooze ácido de las paredes de the Dungeon, y para girar
+capaz de sacar ooze ácido de las paredes de la Mazmorra, y para girar
 monstruos para deslizarse con un toque.
 
 %%%%
@@ -456,7 +456,7 @@ Aliados elementales.
 %%%%
 Ru powers
 
-Ru Will ofrecen a los seguidores una serie de sacrificios mientras viajan the Dungeon. On
+Ru Will ofrecen a los seguidores una serie de sacrificios mientras viajan la Mazmorra. On
 aceptar estos sacrificios, seguidores Will gradualmente ganar un aura de inmenso
 Poder. Este aura Will inicialmente causan enemigos que intentan dañarlos para falsificar
 y se arrastre con males. Después de hacer más sacrificios, seguidores
@@ -475,7 +475,7 @@ más allá de su actual entrenamiento mágico. Con el tiempo, seguidores devotos
 recibir libros de hechizos que contienen una amplia gama de hechizos.
 
 %%%%
-the Shining One powers
+el Resplandeciente powers
 
 Los seguidores del Shining One están rodeados de un halo que revela sus
 enemigos para ellos. Seguidores Will ganar poder matando seres malvados, y con
@@ -586,7 +586,7 @@ Los delincuentes contra Cheibriados Will encuentran que sus movimientos permanec
 la atención de Cheibriados permanece sobre ellos, y puede tener cualquier precipitación mágica
 Despojado. También pueden ser más lentos, ser puestos a Sleep, o ser
 ajustado por el volumen sin paralelo del inevitable paso del tiempo anillo
-a lo largo de the Dungeon.
+a lo largo de la Mazmorra.
 
 %%%%
 Dithmenos wrath
@@ -665,7 +665,7 @@ colocándolos cuando menos se esperaba.
 Lugonu wrath
 
 Lugonu's ire renders the barrier between reality and the Abyssweak and
-permeable. Warps espaciales, hurling victims across the Dungeon, or even directly
+permeable. Warps espaciales, hurling victims across la Mazmorra, or even directly
 en el Abyss. Lugonu también llega y envía a los habitantes caóticos
 el Abyss contra las víctimas, con veteranos aventureros que enfrentan los mayores horrores
 de la Abyss. Lugonu no perdona fácilmente, y Will no permite ex-combatientes
@@ -726,7 +726,7 @@ los encantos se desentrañaron. Casting hechizos, también, se vuelve poco confi
 peligroso.
 
 %%%%
-the Shining One wrath
+el Resplandeciente wrath
 
 La ira del Shining One es directa e inconfundible. Sus víctimas encuentran
 ellos mismos tropezaron con fuego santo y se pusieron con guerreros santos. Sinners Will be

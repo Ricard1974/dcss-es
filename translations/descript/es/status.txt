@@ -703,7 +703,7 @@ la salud máxima se drena cuando se daña.
 %%%%
 Orb status
 
-Estás cerca (o tal vez sosteniendo) the Orb de Zot, cuyas energías perturban
+Estás cerca (o tal vez sosteniendo) el Orbe de Zot, cuyas energías perturban
 magia de translocación. Teleportación Will tarda más y los desplazamientos de parpadeo pueden
 transporte a corta distancia de su destino previsto.
 

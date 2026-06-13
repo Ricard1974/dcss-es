@@ -12,7 +12,7 @@ Eones. Orando en ella Will convertirlos a un dios desconocido, y la deidad del a
 Will aprecia mucho la conversión en tan antiguo un sitio de adoración.
 
 %%%%
-A glowing golden altar of the Shining One
+A glowing golden altar of el Resplandeciente
 
 Un altar de El Resplandeciente, hecho del oro más puro y de un resplandor que
 casi ciega.
@@ -134,7 +134,7 @@ gigantes y cubierto con marcas de sangre.
 A hide-covered altar of Uskayaw
 
 Un altar para Uskayaw el Reveller. Parece ser hueco y cubierto en un escondite,
-dándole una superficie resonante. Carvings on the side represent grouped figures that
+dándole una superficie resonante. Tallados en el lateral representan figuras agrupadas that
 podría ser bailar o amar o luchar.
 
 %%%%
@@ -323,7 +323,7 @@ a ella.
 %%%%
 A shop
 
-Una tienda en the Dungeon, más allá de la vista del mundo anterior, manejada por un secreto
+Una tienda en la Mazmorra, más allá de la vista del mundo anterior, manejada por un secreto
 y comprador reclusivo que no puede negociado con, no concede reembolsos, y
 está interesado en nada puedes tiene que vender. Algunas tiendas de antigüedades de halcón
 procedencia desconocida, y ofrecer poca insinuación sobre la calidad o naturaleza de su
@@ -343,14 +343,14 @@ Una escalera que conduce hacia atrás.
 A metal staircase leading down
 
 Una escalera que conduce a las grandes bóvedas que contienen la columna de plata de Zot,
-cuya riqueza atrae a los más poderosos campeones de todo the Dungeon a su
+cuya riqueza atrae a los más poderosos campeones de todo la Mazmorra a su
 defensa.
 
 %%%%
 A metal staircase leading up
 
 Una escalera que conduce desde las grandes bóvedas que contienen la columna de plata de Zot,
-cuya riqueza atrae a los más poderosos campeones de todo the Dungeon a su
+cuya riqueza atrae a los más poderosos campeones de todo la Mazmorra a su
 defensa.
 
 %%%%
@@ -370,7 +370,7 @@ Una escalera de piedra que conduce hacia atrás.
 %%%%
 A tree
 
-Un árbol grande. Mientras que en la mayoría de los lugares la luz tenue de the Dungeon no es brillante
+Un árbol grande. Mientras que en la mayoría de los lugares la luz tenue de la Mazmorra no es brillante
 suficiente para sostener grandes plantas, hay lugares donde, con la gracia de
 Fedhas, árboles tan grandes como los de la superficie pueden crecer bajo tierra.
 
@@ -411,7 +411,7 @@ bastante fácil. Sin embargo, es demasiado fuerte para ser irrompible a mano.
 %%%%
 An escape hatch in the floor
 
-Una escotilla de escape de un solo camino cargada en el piso the Dungeon, permitiendo la
+Una escotilla de escape de un solo camino cargada en el piso la Mazmorra, permitiendo la
 aventurero por adversarios para intercambiar los peligros de este nivel para los
 peligros del siguiente.
 
@@ -550,7 +550,7 @@ escaleras en otro lugar en el nivel donde llegan.
 The orb dais
 
 Un pedestal elevado sobre el cual descansa la fábula Orb de Zot. Más antiguo que incluso
-the Dungeon itself, it cannot be destroyed or transform by any means.
+la Mazmorra itself, it cannot be destroyed or transform by any means.
 
 %%%%
 A statue of an orb of fire
@@ -597,7 +597,7 @@ Una puerta que Will te permite volver de donde viniste.
 %%%%
 A gate leading out of Pandemonium
 
-Una puerta que conduce a the Dungeon.
+Una puerta que conduce a la Mazmorra.
 
 %%%%
 A gate leading to another region of Pandemonium
@@ -610,32 +610,32 @@ A one-way gate leading to the halls of Pandemonium
 Una puerta que conduce a los interminables pasillos de Pandemonium.
 
 %%%%
-A staircase to the Depths
+A staircase to las Profundidades
 
-Una escalera que conduce a the Depths.
+Una escalera que conduce a las Profundidades.
 
 %%%%
-A gate to the Realm of Zot
+A gate to el Reino de Zot
 
 Esta puerta va al Reino de Zot.
 
 %%%%
-A gateway back into the Dungeon
+A gateway back into la Mazmorra
 
 Una puerta que permite una hazaña popularmente pensado ser imposible: escapar del infierno
 vivo.
 
 %%%%
-A gateway leading out of the Abyss
+A gateway leading out of el Abismo
 
 Un portal para salir de este maldito sitio, que palpita y se desliza en un
 escenario siempre cambiante.
 
 %%%%
-A gateway leading deeper into the Abyss
+A gateway leading deeper into el Abismo
 
 Una puerta de entrada extrañamente tranquila en medio del paisaje rugiente de la Abyss. Lleva
-más adelante en the Depths del Abyss.
+más adelante en las Profundidades del Abyss.
 
 %%%%
 A gateway to a ziggurat
@@ -650,7 +650,7 @@ Una puerta de entrada que conduce a Gehenna.
 %%%%
 A gateway leading out of Gehenna
 
-Una puerta de entrada que conduce a the Vestibule of Hell.
+Una puerta de entrada que conduce a el Vestíbulo del Infierno.
 
 %%%%
 A gateway to Hell
@@ -688,62 +688,62 @@ A gateway leading out of Cocytus
 <A gateway leading out of Gehenna>
 
 %%%%
-A hole to the Spider Nest
+A hole to el Nido de Araña
 
-Un pasaje que conduce a the Spider Nest.
+Un pasaje que conduce a el Nido de Araña.
 
 %%%%
-A one-way gate to the infinite horrors of the Abyss
+A one-way gate to the infinite horrors of el Abismo
 
 Una puerta de entrada que conduce a la Abyss.
 
 %%%%
-A crawl-hole back to the Lair
+A crawl-hole back to la Guarida
 
-Un pasaje que lleva a the Lair de las Bestias.
-
-%%%%
-An exit through the horrors of the Abyss
-
-Una puerta que conduce a the Dungeon a través de la locura del Abyss.
+Un pasaje que lleva a la Guarida de las Bestias.
 
 %%%%
-A staircase back to the Dungeon
+An exit through the horrors of el Abismo
 
-Una escalera que conduce a la familiaridad de the Dungeon.
+Una puerta que conduce a la Mazmorra a través de la locura del Abyss.
 
 %%%%
-A staircase back to the Lair
+A staircase back to la Mazmorra
 
-Una escalera que conduce al the Lair de las Bestias.
+Una escalera que conduce a la familiaridad de la Mazmorra.
+
+%%%%
+A staircase back to la Guarida
+
+Una escalera que conduce al la Guarida de las Bestias.
 
 %%%%
 A staircase back to the Mines
 
-Una escalera que conduce a the Orcish Mines.
+Una escalera que conduce a las Minas Orcas.
 
 %%%%
-A staircase back to the Vaults
+A staircase back to las Bóvedas
 
-Una escalera que conduce a the Vaults.
+Una escalera que conduce a las Bóvedas.
 
 %%%%
 A staircase leading out of the dungeon
 
-Esta escalera conduce de nuevo de the Dungeon.
+Esta escalera conduce de nuevo de la Mazmorra.
 
-Una escalera que sale de the Dungeon. Escalando estas escaleras Will termina tu
-búsqueda, ya sea que lleves the Orb contigo o no.
-
-%%%%
-A staircase back to the Crypt
-
-Una escalera que conduce a the Crypt.
+Una escalera que sale de la Mazmorra. Escalando estas escaleras Will termina tu
+búsqueda, ya sea que lleves el Orbe contigo o no.
 
 %%%%
-A staircase to the Crypt
+A staircase back to la Cripta
 
-Una escalera que conduce a the Crypt.
+Una escalera que conduce a la Cripta.
+
+%%%%
+A staircase to la Cripta
+
+Una escalera que conduce a la Cripta.
 
 %%%%
 A staircase to the Ecumenical Temple
@@ -751,47 +751,47 @@ A staircase to the Ecumenical Temple
 Una escalera que conduce al Templo Ecuménico.
 
 %%%%
-A staircase to the Elven Halls
+A staircase to los Salones Élficos
 
-Una escalera que conduce a the Elven Halls.
-
-%%%%
-A staircase to the Lair
-
-Una escalera que conduce a the Lair de Bestias.
+Una escalera que conduce a los Salones Élficos.
 
 %%%%
-A staircase to the Orcish Mines
+A staircase to la Guarida
 
-Una escalera que conduce a the Orcish Mines.
-
-%%%%
-A staircase to the Shoals
-
-Una escalera que conduce a the Shoals.
+Una escalera que conduce a la Guarida de Bestias.
 
 %%%%
-A staircase to the Slime Pits
+A staircase to las Minas Orcas
 
-Una escalera que conduce a the Slime Pits.
-
-%%%%
-A staircase to the Snake Pit
-
-Una escalera que conduce a the Snake Pit.
+Una escalera que conduce a las Minas Orcas.
 
 %%%%
-A staircase to the Swamp
+A staircase to los Bajos
 
-Una escalera que conduce a the Swamp.
-
-%%%%
-A staircase to the Tomb
-
-Una escalera que conduce a the Tomb de los Antiguos.
+Una escalera que conduce a los Bajos.
 
 %%%%
-A gate to the Vaults
+A staircase to las Fosas de Moco
+
+Una escalera que conduce a las Fosas de Moco.
+
+%%%%
+A staircase to el Foso de las Serpientes
+
+Una escalera que conduce a el Foso de las Serpientes.
+
+%%%%
+A staircase to el Pantano
+
+Una escalera que conduce a el Pantano.
+
+%%%%
+A staircase to la Tumba
+
+Una escalera que conduce a la Tumba de los Antiguos.
+
+%%%%
+A gate to las Bóvedas
 
 Esta puetra va a las bóvedas. Ten cuidado porque no puedes salir sin una runa
 de Zot, y la runa plata en el quinto piso está muy guardado.
@@ -867,7 +867,7 @@ A runed translucent door
 
 Una puerta, cubierta de escritura escénica, hecha de madera mágicamente translúcida. Tiene
 fue creado para sellar un gran peligro o un tesoro glorioso. Tú puede romper el
-corre por abrirla como cualquier otra puerta, pero criaturas de the Dungeon Will no
+corre por abrirla como cualquier otra puerta, pero criaturas de la Mazmorra Will no
 Me atrevo a intentarlo.
 
 %%%%
@@ -1056,7 +1056,7 @@ allies Will evite pisarlo.
 %%%%
 A net trap
 
-Un gran lanzador neto oculto colgando del techo de the Dungeon. Encantado por
+Un gran lanzador neto oculto colgando del techo de la Mazmorra. Encantado por
 el poder de Zot, cada vez que una criatura inteligente camina aquí - si amigo
 o enemigo - la red Will tierra sólo en tú.
 
@@ -1149,7 +1149,7 @@ Un portal que conduce a un Ice Cave. El arco se está derritiendo gradualmente.
 A glacial archway
 
 Un portal que conduce a un chasis glacial, mucho más peligroso que las cavernas heladas
-encontrado en el menor alcance de the Dungeon. El arco se derrite gradualmente
+encontrado en el menor alcance de la Mazmorra. El arco se derrite gradualmente
 lejos.
 
 %%%%
@@ -1486,7 +1486,7 @@ A mystic cage
 
 Una robusta jaula de metal, inscrita con magias crípticas. Lo que sea que haya tenido una vez...
 si la persona, la bestia o el experimento - fue evidentemente ya liberado en respuesta
-a intrusos como tú infiltrando the Dungeon.
+a intrusos como tú infiltrando la Mazmorra.
 
 %%%%
 An arcane conduit
@@ -1556,7 +1556,7 @@ An enigmatic dynamo
 
 Una construcción metálica inofensiva pero robusta, arcane tanto en fuente de energía como en
 propósito. Lo que analice, procese, potencia o produzca no puede
-evaluado o accedido por intrusos como tú infiltrando the Dungeon.
+evaluado o accedido por intrusos como tú infiltrando la Mazmorra.
 
 %%%%
 A nascence circuit
@@ -1611,7 +1611,7 @@ sin romper sus botellas abiertas.
 %%%%
 A djembe set
 
-Un conjunto de tambores cuyo ritmo sirve como recreación pacífica aquí en the Depths de
+Un conjunto de tambores cuyo ritmo sirve como recreación pacífica aquí en las Profundidades de
 la tierra.
 
 %%%%
@@ -1623,7 +1623,7 @@ de una gran cruzada.
 %%%%
 a skull pike
 
-Los huesos son una visión común en the Dungeon, pero los cráneos quedan impalados en un arbusto
+Los huesos son una visión común en la Mazmorra, pero los cráneos quedan impalados en un arbusto
 la manera en exhibición envía un mensaje más deliberado a los transpasadores: el pique tiene
 habitación para una calavera más, y quien la haya preparado está feliz de ayudar a aliviar su
 propietario suyo.
@@ -1648,14 +1648,14 @@ Un arreglo delicado, destrozado en pedazos y consignado a Slow hambre.
 A weapon-inlaid floor
 
 Las incrustaciones elvish decorativas de armas marcan aquí el Salón de las Blades, donde
-muchas de las armas más agudas de the Dungeon se originan, mágicamente animadas
+muchas de las armas más agudas de la Mazmorra se originan, mágicamente animadas
 demostrar su propia letalidad en los ladrones.
 
 %%%%
 An orcish standard
 
 Una bandera de Beogh, levantada para demostrar que esta fortificación pertenece a algún brazo de
-the Dungeon's orcish military.
+la Mazmorra's orcish military.
 
 %%%%
 A silver wall
@@ -1684,7 +1684,7 @@ Un antiguo sarcófago. Parece estar vacío.
 A heavily etched metal wall
 
 Un muro de metal grabado con murales que representan, en gran y espantoso detalle,
-exactamente qué Will se hace a alguien atrapado robando de the Vaults.
+exactamente qué Will se hace a alguien atrapado robando de las Bóvedas.
 
 %%%%
 A heavily etched crystal wall
@@ -1730,7 +1730,7 @@ Una entrada de la oposición.
 %%%%
 An exit from the tutorial
 
-Una salida de the Dungeon, dejando que termines esta lección.
+Una salida de la Mazmorra, dejando que termines esta lección.
 
 %%%%
 haloed

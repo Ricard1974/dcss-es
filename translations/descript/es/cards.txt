@@ -7,7 +7,7 @@ Cubra las suelas de las botas.
 Dibujar esta tarjeta puede otorgar gran velocidad a los aliados o terrible lentitud a los enemigos.
 
 %%%%
-the Tomb card
+la Tumba card
 
 Esta carta representa una cripta real con su entrada sellada por una losa de piedra.
 
@@ -76,7 +76,7 @@ La tarjeta representa una rueda de hierro, amenazante con picos y oxidado con sa
 Dibujar esta tarjeta desata un hechizo de ataque necromótico.
 
 %%%%
-the Orb card
+el Orbe card
 
 La tarjeta representa una figura rodeada de orbes flotantes y brillantes de energía.
 

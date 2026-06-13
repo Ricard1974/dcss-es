@@ -1517,7 +1517,7 @@ el cementerio
 
 el Charnel House
 
-the Crypt
+la Cripta
 
 Maldito
 
@@ -1543,7 +1543,7 @@ el Ossuary
 
 el Sarcófago
 
-the Tomb
+la Tumba
 
 el Undead
 
