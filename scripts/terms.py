@@ -1475,6 +1475,8 @@ POST_PROCESS = [
     (r"resistente por", "resistente a"),
     (r"inmune por", "inmune a"),
     (r"vulnerable por", "vulnerable a"),
+    # LT traduce "never misses" como "nunca falta" en vez de "nunca falla"
+    (r"nunca falta([\s,;.])", r"nunca falla\1"),
     (r"vulnerabilidad por", "vulnerabilidad a"),
     # LT confunde "armour" como "amor"
     (r"\bamor\b", "armadura"),

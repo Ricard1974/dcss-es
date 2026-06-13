@@ -1,10 +1,4 @@
 %%%%
-//high-tier stab monstatus
-
-//<blue>Los ataques haces contra esta critura hacerán daño muy aumentado, especialmente si realizados con una espada corta.</blue>
-//
-
-%%%%
 ablaze with memories monstatus
 
 Esta criatura ha ganado temporalmente la capacidad de lanzar hechizos específicos.
@@ -44,7 +38,7 @@ Esta criatura no puede moverse, actuar, bloquear o esquivar. Cualquier acción h
 despertarlo, aunque melee ataca contra él (incluso por otros monstruos) Will trato
 aumento del daño.
 
- REF0 
+ REF0
 
 %%%%
 berserk monstatus
@@ -66,7 +60,7 @@ lugares equivocados.
 También puede tropezar y eventualmente perder la pista de su objetivo, especialmente
 si tiene poca inteligencia.
 
- REF0 
+ REF0
 
 %%%%
 bound in place monstatus
@@ -82,25 +76,25 @@ puntos de experiencia, pero Will ser lanzado inmediatamente a su realidad origin
 tan pronto como el tesseract sea destruido.
 
 %%%%
-catching her breath monstatus
-
- REF0 
-
-%%%%
-catching his breath monstatus
-
- REF0 
-
-%%%%
 catching its breath monstatus
 
 Esta criatura ha usado una capacidad de respiración recientemente y no puede utilizarla de nuevo para un
 poco tiempo.
 
 %%%%
+catching his breath monstatus
+
+REF0
+
+%%%%
+catching her breath monstatus
+
+REF0
+
+%%%%
 catching their breath monstatus
 
- REF0 
+REF0
 
 %%%%
 chanting recall monstatus
@@ -128,7 +122,13 @@ Esta criatura no puede bloquear o utilizar hechizos o habilidades y Will tropeza
 al azar, atacando cualquier cosa que choca con - ser amigo o enemigo o a veces incluso
 ellos mismos.
 
- REF0 
+ REF0
+
+%%%%
+contaminated monstatus
+
+Esta criatura ha sido contaminada por la energía transmutacional y sufre Will
+daño significativo cada tercera vez que se les inflige tal energía.
 
 %%%%
 constricted by roots monstatus
@@ -144,12 +144,6 @@ Esta criatura está siendo constreñida por cadáveres desgarrados desde abajo
 tierra, que reduce su evasión e inflige algún daño cada vuelta. También puede
 evitar que se muevan, aunque cada intento de hacerlo tiene la oportunidad de romper esto
 Efecto por completo.
-
-%%%%
-contaminated monstatus
-
-Esta criatura ha sido contaminada por la energía transmutacional y sufre Will
-daño significativo cada tercera vez que se les inflige tal energía.
 
 %%%%
 control wrested from you monstatus
@@ -209,12 +203,6 @@ la fuente de la maldición lo golpea con un melee ataque.
 %%%%
 damage-immune at range monstatus
 
-Esta criatura no sufre ningún daño de ninguna fuente que no está actualmente adyacente a
-(incluyendo las nubes, si su creador no es adyacente).
-
-%%%%
-damage-immune at range monstatus
-
 Esta criatura no daña por ningún medio a menos que la fuente original de eso
 el daño está adyacente a ellos. Los efectos secundarios no peligrosos ocurren normalmente.
 
@@ -236,7 +224,7 @@ superar la fuerza de voluntad de su objetivo, y ocasionalmente ser más débil d
 %%%%
 dormant monstatus
 
- REF0 
+REF0
 
 %%%%
 doubled in vigour monstatus
@@ -266,7 +254,7 @@ Esta criatura está atrapada en una red, reduciendo enormemente su evasión y pr
 de bloquear. Cualquier intento que haga para moverse o atacar Will lucha contra
 la red, que eventualmente puede destruirla. Spellcasting no tiene consecuencias.
 
- REF0 
+ REF0
 
 %%%%
 entangled in a web monstatus
@@ -276,7 +264,7 @@ evitando que se bloquee. Cualquier intento que haga para moverse o atacar Will
 lucha contra la web, que eventualmente puede destruirla. Spellcast es
 sin problemas.
 
- REF0 
+ REF0
 
 %%%%
 exposed monstatus
@@ -346,7 +334,7 @@ de la fuente del grapnel Will siempre golpeó y tratar daño ligeramente aumenta
 %%%%
 heavily contaminated monstatus
 
- REF0 
+REF0
 
 %%%%
 heavily drained monstatus
@@ -354,12 +342,6 @@ heavily drained monstatus
 Esta criatura ha sido muy drenada, bajando la precisión de su melee
 ataques, el poder de sus hechizos y propiedades especiales de ataque, y hacer
 son más vulnerables a muchos efectos de estatus.
-
-%%%%
-high-tier stab monstatus
-
-■blue Melee ataca a esta criatura Will reparto mucho mayor daño,
-especialmente si se hace con una hoja corta
 
 %%%%
 idealised monstatus
@@ -434,13 +416,6 @@ usar hechizos o habilidades y Will tropezar alrededor al azar, atacando cualquie
 se choca con - ser amigos o enemigos o a veces incluso ellos mismos.
 
 %%%%
-low-tier stab monstatus
-
-■blue Los ataques de Melee contra esta criatura tienen una oportunidad (proporcional para
-su robo y habilidad de arma) de atraparlo fuera de la guardia y tratar
-aumento del daño, especialmente si se hace con una hoja corta
-
-%%%%
 magic disrupted monstatus
 
 Los hechizos y habilidades mágicas de esta criatura han sido interrumpidos y pueden fracasar cuando
@@ -474,16 +449,16 @@ minion monstatus
 Esta criatura ha sido creada por la magia y Will deja de ser una vez que su creador muere.
 
 %%%%
-misshapen and mutated monstatus
-
-El AC de esta criatura se reduce en 8 y su precisión, poder de hechizo, daño de marca, y
-la fuerza de voluntad se reduce moderadamente.
-
-%%%%
 missing a shadow monstatus
 
 La sombra de esta criatura ha sido arrancada y no puede afectada
 por Aphotic Marionette de nuevo.
+
+%%%%
+misshapen and mutated monstatus
+
+El AC de esta criatura se reduce en 8 y su precisión, poder de hechizo, daño de marca, y
+la fuerza de voluntad se reduce moderadamente.
 
 %%%%
 more vulnerable to fire monstatus
@@ -508,19 +483,19 @@ not watching you monstatus
 
 Esta criatura ha sido brevemente distraída por otra cosa.
 
- REF0 
+ REF0
 
 %%%%
 paralysed monstatus
 
 Esta criatura no es capaz de mover, actuar, bloquear o atajar ataques.
 
- REF0 
+ REF0
 
 %%%%
 paralysed with fear monstatus
 
- REF0 
+REF0
 
 %%%%
 partially charged monstatus
@@ -535,22 +510,22 @@ Esta criatura Will nunca te ataca y puede atacar a otras criaturas hostiles
 tú, pero Will no le siguen ni obedecen instrucciones directas.
 
 %%%%
-petrified monstatus
-
-Esta criatura no es capaz de mover, actuar, bloquear o atajar ataques. Al ser hecho
-de piedra, también toma 50% menos daño, gana inmunidad a energía negativa y
-veneno, pero se vuelven vulnerables a la deconstrucción.
-
- REF0 
-
-%%%%
 petrifying slowly monstatus
 
 Esta criatura Will pronto se petrificó completamente. Su movimiento y sus acciones
 50% más lento y es casi incapaz de esquivar ataques, aunque también toma 33%
 menos daño.
 
- REF0 
+ REF0
+
+%%%%
+petrified monstatus
+
+Esta criatura no es capaz de mover, actuar, bloquear o atajar ataques. Al ser hecho
+de piedra, también toma 50% menos daño, gana inmunidad a energía negativa y
+veneno, pero se vuelven vulnerables a la deconstrucción.
+
+ REF0
 
 %%%%
 poisoned monstatus
@@ -628,25 +603,25 @@ Esta criatura se ha curado en una bola, aumentando su velocidad de movimiento y 
 daño al 100% hasta la próxima vez que ataca algo (o se vuelve incapaz de moverse).
 
 %%%%
-sharing her pain monstatus
-
- REF0 
-
-%%%%
-sharing his pain monstatus
-
- REF0 
-
-%%%%
 sharing its pain monstatus
 
 Esta criatura Will inflige una porción de todo daño que sufre a los aliados cercanos,
 con aquellos más cercanos a recibir una mayor cantidad.
 
 %%%%
+sharing his pain monstatus
+
+REF0
+
+%%%%
+sharing her pain monstatus
+
+REF0
+
+%%%%
 sharing their pain monstatus
 
- REF0 
+REF0
 
 %%%%
 sheltered from injuries monstatus
@@ -709,14 +684,19 @@ Un fragmento del alma de esta criatura ha sido extraído en un abismo del alma,
 previniendo un mayor uso de este hechizo hasta que el wisp se reúna con ellos de nuevo.
 
 %%%%
+spells empowered monstatus
+
+Los hechizos de esta criatura se fortalecen y Will los echan con más frecuencia.
+
+%%%%
 spells diminished monstatus
 
 Los hechizos de esta criatura se debilitan significativamente.
 
 %%%%
-spells empowered monstatus
+stilling the winds monstatus
 
-Los hechizos de esta criatura se fortalecen y Will los echan con más frecuencia.
+Esta criatura está impidiendo que cualquier nube sea creada en el piso actual.
 
 %%%%
 stampeding monstatus
@@ -724,11 +704,6 @@ stampeding monstatus
 Esta criatura se mueve en una sola dirección a velocidad increíble. Cualquier enemigo
 corren hacia Will ser empujados hacia atrás y atacado con 50% de daño de bonificación y
 mayor precisión.
-
-%%%%
-stilling the winds monstatus
-
-Esta criatura está impidiendo que cualquier nube sea creada en el piso actual.
 
 %%%%
 strong monstatus
@@ -832,12 +807,6 @@ una habilidad natural. Siempre que lo hacen, hay 33% de probabilidades de que Wi
 a un lugar cercano al azar.
 
 %%%%
-unable to breathe monstatus
-
-Esta criatura no puede respirar y no puede lanzar hechizos o invocar la ayuda divina.
-También requiere daño de asfixia menor cada vuelta.
-
-%%%%
 unable to see you monstatus
 
 Esta criatura no puede verte porque estás invisible. Su precisión
@@ -847,7 +816,7 @@ hechizos que funde a veces pueden estar dirigidos a los lugares equivocados.
 También puede tropezar alrededor y eventualmente perder la pista de tú, especialmente si
 tiene poca inteligencia.
 
- REF0 
+ REF0
 
 %%%%
 unable to translocate monstatus
@@ -888,6 +857,21 @@ very poisoned monstatus
 Esta criatura está envenenada y Will daña cada vuelta.
 
 %%%%
+unable to breathe monstatus
+
+Esta criatura no puede respirar y no puede lanzar hechizos o invocar la ayuda divina.
+También requiere daño de asfixia menor cada vuelta.
+
+%%%%
+damage-immune at range monstatus
+
+Esta criatura no daña por ningún medio a menos que la fuente original de eso
+el daño está adyacente a ellos. Los efectos secundarios no peligrosos ocurren normalmente.
+
+(La fuente de daño de nubes y monstruos similares a los proyectiles, como foxfires,
+es siempre considerado como cualquier criatura primero los creó.)
+
+%%%%
 weak monstatus
 
 Los ataques de esta critura hacen 33% menos daño.
@@ -909,5 +893,18 @@ withering away monstatus
 
 Esta criatura Will muere en unos pocos giros.
 ## Not real statuss, but common clauses to add to some others
+
+%%%%
+low-tier stab monstatus
+
+<blue> Los ataques contra esta criatura tienen una oportunidad (proporcional a
+su robo y habilidad de arma) de atraparlo fuera de la guardia y tratar
+aumento del daño, especialmente si se hace con una hoja corta. </blue>
+
+%%%%
+high-tier stab monstatus
+
+<blue>Melee ataca contra esta criatura Will tratar gran aumento de daño,
+especialmente si se hace con una hoja corta. </blue>
 
 %%%%

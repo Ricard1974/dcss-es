@@ -1,4 +1,12 @@
 %%%%
+tutorial intro
+
+Puede releer todos los mensajes en cualquier momento con
+<input>$cmd[CMD REPLAY MESSAGES]</input>. Además, pulse <input>Espacio</input>
+<localtiles> o <input>izquierda click</input> con el ratón</localtiles> para limpiar el
+<cyan>--more--</cyan> prompts.
+
+%%%%
 tutorial death
 
 Morirás...
@@ -9,48 +17,29 @@ artículo, huyendo, descansando entre peleas, o evitando el combate por completo
 ¡Sigue intentándolo, eventualmente prevalecerás!
 
 %%%%
-tutorial intro
+tutorial1 go_on
 
-Puedes volver a leer los mensajes en cualquier momento mediante
-<input>$cmd[CMD_REPLAY_MESSAGES]</input>. Pulsa la tecla <input>Espacio</input>
-para marcar como leídas las notificaciones <cyan>--more--</cyan> que aparezcan.
-
-%%%%
-tutorial1 autoexplore
-
-Explorar manualmente puede volverse tedioso después de un rato, así que también
-es posible hacerlo de una forma automática. Prueba a pulsar la tecla
-<input>$cmd[CMD_EXPLORE]</input>.
-
-%%%%
-tutorial1 autoexplore_announce
-
-La exploración automática se detendrá para anunciar objetos y estructuras del
-calabozo. Para viajar directamente hacia las escaleras, puedes <localtiles>
-<input>hacer clic</input> sobre ellas, o </localtiles>pulsar
-<input>$cmd[CMD_DISPLAY_MAP] << Enter</input>.
-
-%%%%
-tutorial1 close_door
-
-Para cerrar una puerta abierta, presione > > cmd[CMD CLOSE DOOR]Seguido/introcedente.
+¡Lo estás haciendo muy bien! Ahora, explora un poco hasta que llegues al
+siguiente cuadrado azul.
 
 %%%%
 tutorial1 diagonal
 
 ################################################################################################################################################################################################################################################################
-Muévete diagonalmente con el acolchado número de entrada (entrada numlock on/off) realizadolocaltiles título, escrito/localtiles título <console título/console indicando claves relacionadas con el título/input contactos recomendado/input título recomendadoconsole confidencial.
+Mover diagonalmente con el <input> numera pad</input> (try Numlock on/off) <localtiles>,</localtiles> <console> o </console><input>vi keys</input><console>§.</console><localtiles>, o <input>mouse</input>.</localtiles>
 
-Numpad: < > > > Número: > > > Número: > > > Número: > > > > > Número: > > > > > Ratón: > > >
+Numpad: <w>7 8 9</w> vi-keys: <w> $cmd[CMD MOVE UP LEFT] $cmd[CMD MOVE UP] $cmd[CMD MOVE UP RIGHT]§AG17<localtiles> Mouse: §AG19</w> en el suelo</localtiles>
 \ sufrimiento/
-< > > > > $cmd[CMD MOVE LEFT] seleccion/w Intitulado.
+<w>4</w>-<w>.§AG25-AG§6AG27§ <w> $cmd[CMD MOVE LEFT]</w>-<w>.</w>-<w>$cmd[CMD MOVE RIGHT] </w>
 / Subtítulos\ /
-[CMD MOVE DOWN RIGHT] $cmd [CMD MOVE DOWN LEFT] $cmd[CMD MOVE DOWN] $cmd[CMD MOVE DOWN RIGHT]
+<w>1 2 3</w> <w> $cmd[CMD MOVE DOWN LEFT] $cmd[CMD MOVE DOWN] $cmd[CMD MOVE DOWN RIGHT]</w>
 
 %%%%
-tutorial1 door
+tutorial1 shiftmove
 
-Para abrir una puerta cerrada, intenta moverte sobre ella.
+Una manera más rápida de “correr” a través de un pasillo es presionar <input> Shift</input>
+junto con el <input>§number pad</input> (try Numlock on/off) o <input>vi
+Teclas</input>.
 
 %%%%
 tutorial1 downstairs
@@ -58,6 +47,27 @@ tutorial1 downstairs
 Cuando estés sobre unas escaleras descendentes, puedes pasar al siguiente nivel
 mediante <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> o haciendo
 <input>Shift-clic</input> sobre tu personaje</localtiles>.
+
+%%%%
+tutorial1 levelmap
+
+¿Qué es esto? Para averiguar dónde estás, <tiles>tiene un vistazo a la
+<w>minimap</w> a la derecha de la pantalla. </tiles><localtiles> Puedes tener una
+ver más de cerca una parte del mapa con un <input> derecho del ratón</input> y
+también puede viajar allí con un <input>left click</input>. </localtiles><webtiles>
+Puede </webtiles>§AG12 § Entrar en la vista de sobremapa con
+<input>$cmd[CMD DISPLAY MAP]AG14§ y luego mover el cursor alrededor para mirar
+alrededor del nivel. También puede viajar donde quiera que su cursor esté apuntando
+apremiante <input>.</input> o <input>Enter</input>. Prensa <input>Escape</input>
+para volver al modo de juego normal. </nomouse>
+
+%%%%
+tutorial1 autoexplore
+
+Explorar manualmente puede ser tedioso después de un tiempo, así que Might desea dejar que
+sucede automáticamente. Pruébalo pulsando <input>$cmd[CMD EXPLORE] </input>
+<localtiles>, o haciendo clic en 'autoexplore', el primer botón en el comando
+bar debajo del minimap.</localtiles>.
 
 %%%%
 tutorial1 exclusion
@@ -72,75 +82,14 @@ Sin embargo, puedes reanudar la exploración automática mediante
 exclusiones.
 
 %%%%
-tutorial1 exit
+tutorial1 autoexplore_announce
 
-################################################################################################################################################################################################################################################################
-1 resumen: Movimiento realizado/blanco
-
-> > >
-Numpad: < > > > Número: > > > Número: > > > > Número: > > > > Número: > >
-\ sufrimiento/
-< > > > > [CMD MOVE LEFT] [CMD MOVE LEFT]] Señala/w fue]
-/ Subtítulos\ /
-[CMD MOVE DOWN RIGHT] [CMD MOVE DOWN RIGHT] $cmd[CMD MOVE DOWN] $cmd[CMD MOVE DOWN RIGHT]
-
-▪inputación Cambio + dirección efectuada/input titulada te mueve varios cuadrados en esta dirección.
-También se puede mover por יinput tituladaclicking observado/inputjero en algún lugar a la vista o en el неленноminimap interpretado/w contactos.
-
-неленногонныхиныхинитанинининанининининанинининаниниенининанинининанининининанинининия / нулененинининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининини
-[CMD GO UPSTAIRS] [CMD GO UPSTAIRS]
-[CMD GO DOWNSTAIRS] seleccion/input titulada entrar en el siguiente nivel
-[CMD DISPLAY MAP]] Se realizó un viaje de entrada/introducción/introducción/introducción de entrada $cmd[CMD DISPLAY MAP] se realizó el viaje de contacto/introducción al nivel superior más cercano
-
-se puede abrir caminando en ellos
-[CMD CLOSE DOOR] seleccion/input titulada cerrar una puerta abierta
-
-< > > > >
-haga clic en el botón "Nomouse"
-[CMD DISPLAY MAP] se llevó a cabo el registro de entrada en el mapa de nivel, viajando con la opción "input título"Enter seleccionado/input relativo
-[CMD EXPLORE]
-
-%%%%
-tutorial1 go_on
-
-¡Lo estás haciendo muy bien! Ahora, explora un poco hasta que llegues al
-siguiente cuadrado azul.
-
-%%%%
-tutorial1 levelmap
-
-¿Qué es esto? Para averiguar dónde estás, неtiles confiarhave un vistazo a la
-√Īominimap made/w contacto a la derecha de la pantalla. Puedes tener una
-ver más de cerca una parte del mapa con un ratón de  ofinput
-también se puede viajar allí con un clic en el botón de entrada / entrada.
-Tú puede hacer /webtiles {Nomouse]
-[CMD DISPLAY MAP] seleccionó/introcede] y luego se mueve el cursor alrededor para mirar
-alrededor del nivel. También puede viajar donde quiera que su cursor esté apuntando
-pulsar нелинанинилинин. Seguido/inputado o ненниениениениенниеннаниенниени o наениениениение.
-para volver al modo de juego normal
-
-%%%%
-tutorial1 newlevel
-
-¡Un nuevo nivel! Para empezar, dirígete hacia esa puerta a la derecha.
-
-Además, recuerda: Puedes volver a leer los mensajes viejos mediante
-<input>$cmd[CMD_REPLAY_MESSAGES]</input>.
-
-%%%%
-tutorial1 shiftmove
-
-Una manera más rápida de “correr” a través de un pasillo es presionar ■input Cambios/inputados
-junto con el acolchado número de entrada / entrada (Número de entrada / salida) o
-claves realizadas/input titulada.
-
-%%%%
-tutorial1 start
-
-En esta lección vas a aprender a moverte en el juego y como explorar un nivel.
-Puedes moverte <localtiles>haciendo clic en algún lugar con tu
-<input>Ratón</input>, o </localtiles>pulsando las <input>teclas de
-dirección</input>.
+Autoexplore Will para cuando vea primero elementos o características de mazmorra, como estos
+escaleras. Para viajar directamente a las escaleras, puedes
+<localtiles><input>click</input> on them; or puedes</localtiles>press
+<input>$cmd[CMD DISPLAY MAP]</input> para introducir la vista general del mapa, entonces
+<input><<</input> para mover el cursor a las escaleras superiores más cercanas, y
+<input>Enter</input> para ir allí.
 
 %%%%
 tutorial1 tutorial_end
@@ -153,11 +102,22 @@ Para salir del curso, simplemente baja por estas escaleras mediante
 pregunta de confirmación con una <input>Y</input> mayúscula.
 
 %%%%
-tutorial1 upstairs
+tutorial1 newlevel
 
-Cuando estés sobre unas escaleras ascendentes, puedes volver al nivel previo
-mediante <input>$cmd[CMD_GO_UPSTAIRS]</input><localtiles> o haciendo
-<input>Shift-clic</input> sobre tu personaje</localtiles>.
+¡Un nuevo nivel! Para empezar, dirígete hacia esa puerta a la derecha.
+
+Además, recuerda: Puedes volver a leer los mensajes viejos mediante
+<input>$cmd[CMD_REPLAY_MESSAGES]</input>.
+
+%%%%
+tutorial1 door
+
+Para abrir una puerta cerrada, intenta moverte sobre ella.
+
+%%%%
+tutorial1 close_door
+
+Para cerrar una puerta abierta, pulse <input>$cmd[CMD CLOSE DOOR]</input>.
 
 %%%%
 tutorial1 water
@@ -166,82 +126,48 @@ Observa como eres capaz de atravesar las aguas superficiales pero no las
 profundas.
 
 %%%%
-tutorial2 boomerangs
+tutorial1 upstairs
 
-¡Ahora, para el combate extendido! Recoge estos boomerangs con
-[CMD PICKUP] [CMD PICKUP] se realizó/input título] o se hizo con el título obtenido/introducción:
-■input ratiomouseclick realizado/input título, seleccionado/localtiles confianza y continuar.
-
-%%%%
-tutorial2 compare_monster_desc
-
-# Los comandos del teclado se saltan en locales para Clarity.
-Examinar estos monstruos (traducidoslocaltiles confianzavia ▪input confianzamouseover buscado/input título recomendado/localtiles
-[CMD LOOK AROUND] Señala/introducir el modo de examen,
-y luego se hizo con el título $cmd[CMD TARGET CYCLE FORWARD]
-monstruos obtenidos/nomousado]
-y comparar sus descripciones (traducidoslocaltiles confiarwith ▪input estrechamentenohaga clic en
-[CMD TARGET DESCRIBE] Seleccionando/inputando el título
-ellos en el modo de examen realizado / nomouse confianza)
-para averiguar cuál de estas jaulas es más seguro para luchar.
+Cuando estés sobre unas escaleras ascendentes, puedes volver al nivel previo
+mediante <input>$cmd[CMD_GO_UPSTAIRS]</input><localtiles> o haciendo
+<input>Shift-clic</input> sobre tu personaje</localtiles>.
 
 %%%%
-tutorial2 darts
-
-¡Ahora, toca el combate a distancia! Toma esos dardos mediante
-<input>$cmd[CMD_PICKUP]</input><localtiles> o haciendo <input>clic con el
-ratón</input> sobre ellos,</localtiles> y continua.
-
-%%%%
-tutorial2 downstairs
-
-¡Bien hecho! Después de descansar hasta recuperar todos tus puntos de vida,
-avanza al siguiente nivel mediante
-
-%%%%
-tutorial2 exit
+tutorial1 exit
 
 ################################################################################################################################################################################################################################################################
-> Blanco >Tutorial 2 resumen: Combate
+<white>Tutorial 1 resumen: Movimiento</white>
 
-< > > > > > > > >
-[CMD PICKUP] recoger an item
-[CMD EQUIP] seleccion/input titulada equip un elemento buscadolocaltiles titulado
-Tú también puede hacer esto por יinput tituladaclicking observado/input relativo al arma en su inventario.
-[CMD QUIVER ITEM] seleccion/input] ajusta tu cuestionario
+<yellow>Movement commands</yellow>
+Numpad: <w>7 8 9</w> vi-keys: <w>$cmd[CMD MOVE UP LEFT] $cmd[CMD MOVE UP] $cmd[CMD MOVE UP RIGHT]</w>
+\ sufrimiento/
+<w>4</w>-<w>.§AG11-<w>6AG13§ <w>$cmd[CMD MOVE LEFT] </w>-<w>.</w>-§AG18$cmd[CMD MOVE RIGHT]</w>
+/ Subtítulos\ /
+<w>1 2 3</w> <w>$cmd[CMD MOVE DOWN LEFT] $cmd[CMD MOVE DOWN] $cmd[CMD MOVE DOWN RIGHT]</w>
 
-неленннелилинитанитинанитинанининихинанитинитининиенитининиенинининиениминининаниниенитиниениениенининиенититинининититинининитиениенананититининининининититининининининининититинитиениниенитенитениениенананититинининитининититининининининининититинититит
-Identificar a un monstruo
-< > > > > > > >
-[CMD LOOK AROUND] se refiere a un monstruo
-[CMD LOOK AROUND]$cmd[CMD TARGET DESCRIBE] [CMD TARGET DESCRIBE] [CMD LOOK AROUND]
-[CMD PRIMARY ATTACK] [CMD PRIMARY ATTACK]]
-[CMD FIRE]$cmd[CMD TARGET SELECT] seleccion/inputadora de fuego con un monstruo pre-punteado
-Identificar el botón de fuego de entrada / entrada de entrada,
-[CMD FIRE]$cmd[CMD TARGET CYCLE FORWARD]Seguido/inputado objetivo otro monstruo indicando los locales
-También puede disparar un misil por ■input título haciendo clic sobre él / entrada de confianza, luego confirmando el objetivo con ■input título Enter seleccionado/input título.
+<input>Shift + direction</input> te mueve varios cuadrados en esta dirección. <localtiles>
+También puede moverse por <input>clicking</input> en algún lugar a la vista o en el <w>minimap</w>. </localtiles>
 
-Identificar a los demás
-[CMD WAIT] [CMD WAIT] Secuencia/input] Espera y descansa un solo giro
-[CMD REST] [CMD REST]] Se puede esperar y descansar hasta 100 vueltas
+<yellow>Staircases</yellow>
+<input>$cmd[CMD GO UPSTAIRS]
+<input>$cmd[CMD GO DOWNSTAIRS]</input> entrar en el siguiente nivel
+<input>$cmd[CMD DISPLAY MAP] arrendamiento</input>/<input>$cmd[CMD DISPLAY MAP]<<</input> viaje a las escaleras superiores más cercanas
 
-%%%%
-tutorial2 explore
+<yellow>Puertas</yellow> se puede abrir caminando hacia ellos
+<input>$cmd[CMD CLOSE DOOR]§AG45 cerrar una puerta abierta
 
-¡Encuentra la salida! Recuerda que puedes explorar automáticamente usando
-<input>$cmd[CMD_EXPLORE]</input>.
+<yellow>Travel</yellow><localtiles>
+mouseclick en el <w>minimap</w></localtiles>
+<input>$cmd[CMD DISPLAY MAP]AG54§ entrar en el mapa de nivel, viajar con <input>Enter</input></nomouse>
+<input>$cmd[CMD EXPLORE]§AG59 autoexplore
 
 %%%%
-tutorial2 firing
+tutorial2 pickup_weapon
 
-# FIXME: Longitud por la pista para elegir el objetivo.
-Firing arrows from your wielded shortbow works a bit differently from throw boomerangs.
-Usar < > > > [CMD PRIMARY ATTACK] = > > > >
-- No. Puedes cambiar el monstruo objetivo presionando
-[CMD TARGET CYCLE FORWARD]) seleccionó/inputió mientras estaba en modo de destino. El gusano es
-inofensivo detrás de la lava, así que concéntrate en el muñeco que puede dispararte.
-Una vez más, confirme su elección con ■input ratio$cmd[CMD TARGET SELECT]
-■input título Enter seleccionado/input título.
+Recoger este arma<localtiles> haciendo clic en él en el panel de inventario, y
+y luego lo limpió haciendo clic en él otra vez. Alternativamente, recogerlo arriba</localtiles>
+con <input>$cmd[CMD PICKUP]</input>o <input>g</input> y luego doblarlo con
+<input>$cmd[CMD EQUIP]</input>.
 
 %%%%
 tutorial2 melee
@@ -250,25 +176,19 @@ Para atacar a un monstruo con tus puños o con un arma que hayas empuñado
 previamente, simplemente intenta caminar sobre él.
 
 %%%%
-tutorial2 newlevel
-
-Recuerda: Puedes volver a leer los mensajes viejos con
-
-%%%%
-tutorial2 pickup_weapon
-
-Recoge este arma asignadolocaltiles confianza haciendo clic en él en el panel de inventario, y
-y luego lo limpió haciendo clic en él otra vez. Alternativamente, elijalo hacia arriba
-con ■input título $cmd[CMD PICKUP] seleccionado/inputilo o неinput acordadog seleccionado/input ratio y luego se dobla con
-[CMD EQUIP] se realizó/input].
-
-%%%%
 tutorial2 resting
 
-¡Muy bien! Puedes recuperar cualquier cantidad de puntos de vida que hayas
-perdido descansando con <input>$cmd[CMD_REST]</input>. Este descanso puede
-durar hasta 100 turnos por cada pulsación, pero algunos eventos importantes
-podrían interrumpirlo.
+¡Muy bien! Puede sanar descansando con <input>$cmd[CMD REST] </input>
+<localtiles>, o haciendo clic en el botón 'resto' en la barra de comandos debajo de la
+minimap</localtiles>. Este Will te hace descansar hasta que tu salud esté llena, pero
+Will ser interrumpido por acontecimientos importantes.
+
+%%%%
+tutorial2 wait
+
+En lugar de irrumpir la habitación y ser enjaulado por monstruos, §GT§ también retroceda
+y esperar (con <input>$cmd[CMD WAIT</input><localtiles> o por
+<input>clicking</input> en su carácter</localtiles>) para que ellos vengan a tú.
 
 %%%%
 tutorial2 resting_reminder
@@ -276,10 +196,36 @@ tutorial2 resting_reminder
 Recuerda, puedes descansar pulsando <input>$cmd[CMD_REST]</input>.
 
 %%%%
-tutorial2 start
+tutorial2 compare_monster_desc
 
-En esta lección vas a aprender un poco acerca de los monstruos y el combate. Lo
-primero, ¡necesitamos un arma! Ve y recoge una que está cerca de ti.
+# Los comandos del teclado se saltan en locales para Clarity.
+Examinar estos monstruos (<localtiles>via <input>mouseover</input></localtiles>
+<nomouse>por pulsar <input>$cmd[CMD LOOK AROUND]</input> para entrar en modo de examen,
+y luego <input>$cmd[CMD TARGET CYCLE FORWARD]</input> para recorrer cerca
+monstruos</nomouse>)
+y comparar sus descripciones (<localtiles>with <input>derechomouseclickAG12§</localtiles>§
+<nomouse> por pulsar <input>$cmd[CMD TARGET DESCRIBE]</input> al seleccionar
+ellos en modo de examen §</nomouse>)
+para averiguar cuál de estas jaulas es más seguro para luchar.
+
+%%%%
+tutorial2 downstairs
+
+¡Bien hecho! Después de descansar a la salud plena continúan al siguiente nivel con
+<input>$cmd[CMD GO DOWNSTAIRS] </input><localtiles> or by <input>click</input>en su carácter</localtiles>.
+
+%%%%
+tutorial2 newlevel
+
+Recuerde: puede releer mensajes antiguos con
+<input>$cmd[CMD REPLAY MESSAGES]</input>.
+
+%%%%
+tutorial2 boomerangs
+
+¡Ahora, para el combate extendido! Recoge estos boomerangs con
+<input>$cmd[CMD PICKUP]</input>o <input>g</input><localtiles>, o por
+<input>mouseclick</input>,</localtiles> y continuar.
 
 %%%%
 tutorial2 throwing
@@ -290,9 +236,32 @@ inventorio</localtiles>. Confirma el objetivo seleccionado que ha sido
 seleccionado automáticamente, pulsando <input>$cmd[CMD_TARGET_SELECT]</input> o
 
 %%%%
+tutorial2 wield_bow
+
+Toma este arco y empuñalo con <input>$cmd[CMD_WIELD_WEAPON]</input>
+<localtiles> o haciéndole <input>clic</input> con el ratón</localtiles>.
+
+%%%%
+tutorial2 firing
+
+# FIXME: Longitud por la pista para elegir el objetivo.
+Firing arrows from your wielded shortbow works a bit differently from throw boomerangs.
+Use <input>$cmd[CMD PRIMARY ATTACK] </input><localtiles> o <input>mouseclick</input></localtiles>. Puedes cambiar el monstruo objetivo presionando
+<input>$cmd[CMD TARGET CYCLE FORWARD]</input> mientras que en modo de destino. El gusano es
+inofensivo detrás de la lava, así que concéntrate en el muñeco que puede dispararte.
+De nuevo, confirme su elección con <input>$cmd[CMD TARGET SELECT]</input> or
+<input>Enter</input>.
+
+%%%%
 tutorial2 travel_reminder
 
-Recuerda que es posible explorar de forma automatizada usando
+Recuerde que puedes autoexplore utilizando <input>$cmd[CMD EXPLORE]</input>.
+
+%%%%
+tutorial2 explore
+
+¡Encuentra la salida! Recuerda que puedes explorar automáticamente usando
+<input>$cmd[CMD_EXPLORE]</input>.
 
 %%%%
 tutorial2 tutorial_end
@@ -301,25 +270,31 @@ tutorial2 tutorial_end
 del curso, simplemente baja esas escaleras.
 
 %%%%
-tutorial2 wait
+tutorial2 exit
 
-En lugar de entrar de lleno en la sala, donde podrías verte rodeado de
-monstruos por todas partes, da algunos pasos hacia atrás y espera (con
-<input>$cmd[CMD_WAIT]</input>) a que ellos vengan a ti.
+################################################################################################################################################################################################################################################################
+<white>Tutorial 2 resumen: Combat</white>
 
-%%%%
-tutorial2 wield_bow
+<yellow>Ases<console> <cyan>)</cyan></console></yellow>
+<input>$cmd[CMD PICKUP]</input>recoger an item
+<input>$cmd[CMD EQUIP]§AG11 equipar un artículo<localtiles>
+También puede hacer esto por <input>clicking</input> sobre el arma en su inventario. </localtiles>
+<input>$cmd[CMD QUIVER ITEM]§AG17 ajustar el quiver
 
-Toma este arco y empuñalo con <input>$cmd[CMD_WIELD_WEAPON]</input>
-<localtiles> o haciéndole <input>clic</input> con el ratón</localtiles>.
+<yellow>Monstruos§AG19<localtiles>
+§AG21 §-mouseover</input> examinar un monstruo
+<input>haga clic derecho</input> leer una descripción más detallada§AG25<nomouse>
+<input>$cmd[CMD LOOK AROUND]</input> examinar un monstruo
+<input>$cmd[CMD LOOK AROUND]$cmd[CMD TARGET DESCRIBE]</input> leer una descripción más detallada</nomouse>
+<input>$cmd[CMD PRIMARY ATTACK]
+<input>$cmd[CMD FIRE]$cmd[CMD TARGET SELECT]</input> Fire quiver at pre-targeted monstruo
+§AG36 §-shift-tab</input>, <input>pAG39§ quiver fuego al monstruo más cercano
+<input>$cmd[CMD FIRE]$cmd[CMD TARGET CYCLE FORWARD] §AG41 § target another monstruo<localtiles>
+También puede disparar un misil por §AG43 §clicking</input> en él, luego confirmando el objetivo con <input>Enter</input>.</localtiles>
 
-%%%%
-tutorial3 amulet
-
-Para ponerse una pieza de joyería usa <input>$cmd[CMD_WEAR_JEWELLERY]</input>
-<localtiles> o haz <input>clic con el ratón</input> en el panel de
-inventario</localtiles>. La identidad de algunas joyas se desvelará al
-ponérserlas, pero otras requerirán ser identificadas de otra manera.
+<yellow>Resting</yellow>
+</cyan>0§$cmd[CMD WAIT]</cyan>1§ esperar y descansar un solo giro
+</cyan>2§$cmd[CMD REST]</cyan>3§ esperar y descansar hasta 100 vueltas
 
 %%%%
 tutorial3 armour
@@ -329,31 +304,47 @@ Toma esas botas mediante <input>$cmd[CMD_PICKUP]</input> y póntelas mediante
 con el ratón</input> sobre ellas en el panel de inventario.</localtiles>
 
 %%%%
-tutorial3 artefact_armour
-
-Reemplazar unrandart con un verdadero randart. Necesidades algunas de salvaguardia contra
-# Cosas que tirarían el tutorial de los carriles (fragile, Contam...)
-Los artículos con los nombres de usuario no utilizados son objetos. Artefactos pueden tener una serie de
-propiedades especiales. Algunos artefactos únicos (como este manto) son siempre
-identificado y puede tener propiedades especiales que no se pueden encontrar en cualquier otro lugar!
-Otros se generan con una selección aleatoria de propiedades, y son
-no identificado hasta que pises sobre ellos. Intenta equipar este manto con
-[CMD EQUIP] seleccionado/introducción obtenidoslocaltiles confianza o se hizo con el título Cursomousehaga clic/input
-en el panel de inventario realizado / localtiles confianza.
-
-%%%%
-tutorial3 autoexplore_reminder
-
-Recuerda, puedes explorar automáticamente el nivel con
-<input>$cmd[CMD_EXPLORE]</input><localtiles> o haciendo <input>click</input>
-en el botón de comando "autoexplorar" en el <w>panel de comandos</w>
-</localtiles>
-
-%%%%
 tutorial3 autopickup
 
 Algunos tipos de objetos<tiles>, marcados con un recuadro verde,</tiles> son
 recogidos de forma automática cuando pases por encima de ellos.
+
+%%%%
+tutorial3 scroll
+
+Muchos artículos no son identificados cuando los encuentras. Una manera de descubrir qué son
+hacer es usarlos. Trate de leer este pergamino con <input>$cmd[CMD READ] </input>
+<localtiles> o con <input>mouseclick</input> en el inventario
+panel</localtiles>.
+
+%%%%
+tutorial3 scroll_noautopickup
+
+La recolección automática no funcionará si hay algún monstruo alrededor. Tus
+opciones son, o bien tomar el pergamino mediante
+<input>$cmd[CMD_PICKUP]</input><localtiles> o haciendo <input>clic con el
+ratón</input> sobre tu personaje,</localtiles> o bien luchar contra los
+enemigos que haya cerca de ti y recorgerlo después.
+
+%%%%
+tutorial3 ego_weapon
+
+Un artículo descrito como <lightblue>runed</lightblue> or
+<lightblue>glowing</lightblue> Will ser siempre encantado, o tener especial
+propiedades, o ambas. Una vez que tú pise encima de tal artículo, sus propiedades Will
+se te revela.
+
+%%%%
+tutorial3 inventory
+
+# TODO: Debe dar mensajes tutoriales dentro del inventario para encontrar el arma.
+# Tal vez también debería haber una lección separada para destacar los comandos
+# en la pantalla de descripción del elemento.
+Para ver la descripción de su nuevo arma, encontrar y seleccionarlo en su
+inventario (<input>$cmd[CMD DISPLAY INVENTORY]</input>). <localtiles> Puedes
+también <input>mouseover</input> o <input> click derecho</input> it in the inventory
+panel. </localtiles>Nota que todos los comandos del artículo también funcionan desde el elemento
+Pantallas de descripción.
 
 %%%%
 tutorial3 battle
@@ -361,6 +352,14 @@ tutorial3 battle
 Una vez que has logrado envenenar a un monstruo, a veces es mejor
 Retirarse y dejar que el veneno haga el trabajo. No olvides retirarte para sanar también, si
 necesario.
+
+%%%%
+tutorial3 downstairs
+
+¡Bien luchado! Si es necesario, descansa con <input>$cmd[CMD_REST]</input>, y
+luego baja por las escaleras con <input>$cmd[CMD_GO_DOWNSTAIRS]</input>
+<localtiles> o haciendo <input>Shift-clic</input> sobre tu
+personaje</localtiles>.
 
 %%%%
 tutorial3 command_help
@@ -373,12 +372,54 @@ encuentra a la derecha de la pantalla, y sobre el cual puedes hacer clic.
 pasados mediante <input>$cmd[CMD_REPLAY_MESSAGES]</input>.
 
 %%%%
-tutorial3 downstairs
+tutorial3 trap
 
-¡Bien luchado! Si es necesario, descansa con <input>$cmd[CMD_REST]</input>, y
-luego baja por las escaleras con <input>$cmd[CMD_GO_DOWNSTAIRS]</input>
-<localtiles> o haciendo <input>Shift-clic</input> sobre tu
-personaje</localtiles>.
+Los trapos pueden tener una variedad de efectos desagradables, tales como alertar monstruos o
+teletransportarte en peligro. Algunas trampas son permanentes y Will siempre ser
+revelado como parte del mapa, pero otras trampas se pueden desencadenar explorando nuevos
+azulejos, y no existirá después de ser disparado. Si no hay manera, lo harás.
+tiene que desencadenar la trampa y lidiar con las consecuencias.
+
+%%%%
+tutorial3 potion
+
+Para beber una de estas pociones emplea <input>$cmd[CMD_QUAFF]</input>
+<localtiles> o haz <input>clic con el ratón</input></localtiles>.
+
+%%%%
+tutorial3 artefact_armour
+
+Reemplazar unrandart con un verdadero randart. Necesidades algunas de salvaguardia contra
+# Cosas que tirarían el tutorial de los carriles (fragile, Contam...)
+Los artículos con <w>nombres inusuales</w> son artefactos. Artefactos pueden tener una serie de
+propiedades especiales. Algunos artefactos únicos (como este manto) son siempre
+identificado y puede tener propiedades especiales que no se pueden encontrar en cualquier otro lugar!
+Otros se generan con una selección aleatoria de propiedades, y son
+no identificado hasta que pises sobre ellos. Intenta equipar este manto con
+<input>$cmd[CMD EQUIP] </input><localtiles> o <input>mouseclick</input>en el panel de inventario</localtiles>.
+
+%%%%
+tutorial3 wand_fire
+
+Puedes evocar varas mediante <input>$cmd[CMD_EVOKE]</input><localtiles> o
+haciendo <input>clic con el ratón</input> en el panel de
+inventario</localtiles>.
+
+%%%%
+tutorial3 wand_digging
+
+Un varita de excavación puede destruir paredes de roca. Uso
+<input>$cmd[CMD LOOK AROUND] [$cmd[CMD TARGET DESCRIBE]</input> <localtiles>or
+<input>mouseover</input>/<input>haga clic derecho</input></localtiles>para comprobar la pared
+tipos.
+
+%%%%
+tutorial3 amulet
+
+Para ponerse una pieza de joyería usa <input>$cmd[CMD_WEAR_JEWELLERY]</input>
+<localtiles> o haz <input>clic con el ratón</input> en el panel de
+inventario</localtiles>. La identidad de algunas joyas se desvelará al
+ponérserlas, pero otras requerirán ser identificadas de otra manera.
 
 %%%%
 tutorial3 drop
@@ -388,12 +429,14 @@ El amuleto es inútil; quizás quieras tirarlo <input>$cmd[CMD_DROP]</input>
 inventario</localtiles>
 
 %%%%
-tutorial3 ego_weapon
+tutorial3 gold
 
-Un artículo descrito como: "lightblue"
-"Iluminar" Will siempre ser encantada, o tener especial
-propiedades, o ambas. Una vez que tú pise encima de tal artículo, sus propiedades Will
-se te revela.
+Puedes gastar el oro en las tiendas. El oro no pesa y no puede ser depositado.
+
+%%%%
+tutorial3 shop
+
+Las tiendas venden objetos diversos, pero no comprarán objetos de nadie.
 
 %%%%
 tutorial3 enter_shop
@@ -405,31 +448,12 @@ Para entrar en esta tienda, presiona <input>$cmd[CMD_GO_UPSTAIRS]</input>
 descripción pulsando <input>!</input>.
 
 %%%%
-tutorial3 exit
+tutorial3 autoexplore_reminder
 
-:nowrap
-<yellow>Comandos para usar objetos</yellow>
-  <input>$cmd[CMD_PICKUP]</input>  recoger un objeto
-  <input>$cmd[CMD_WEAR_ARMOUR]</input>  ponerse una pieza de una armadura
-  <input>$cmd[CMD_READ]</input>  leer un pergamino
-  <input>$cmd[CMD_WIELD_WEAPON]</input>  empuñar un arma
-  <input>$cmd[CMD_QUAFF]</input>  beber una poción
-  <input>$cmd[CMD_EVOKE]</input>  invocar una varita
-  <input>$cmd[CMD_WEAR_JEWELLERY]</input>  ponerse joyería
-  <input>$cmd[CMD_REMOVE_JEWELLERY]</input>  quitarse joyería
-  <input>$cmd[CMD_DROP]</input>  depositar un objeto
-  Los comandos para usar objetos también están disponibles en el menú del inventario (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>), así como las descripciones de los mismos.<localtiles>
-  Y por supuesto, <input>los clics con el ratón</input> también funcionan.</localtiles>
-
-<yellow>Otros comandos</yellow>
-  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> muestra la ayuda sobre comandos
-  <input>$cmd[CMD_RESISTS_SCREEN]</input>  muestra información acerca del personaje
-  <input>$cmd[CMD_USE_ABILITY]</input>  usar una habilidad
-  <input>$cmd[CMD_EXPLORE]</input>  explorar de forma automatizada
-  <input>$cmd[CMD_SEARCH_STASHES]</input>  buscar objetos o lugares que hayan sido vistos previamente<localtiles>
-  Varios de estos comandos también pueden ser ejecutados cliqueando en el <w>panel de comandos</w>.</localtiles>
-
-                   <cyan>Presiona <input>cualquier tecla</input> para limpiar esta pantalla...</cyan>
+Recuerda, puedes explorar automáticamente el nivel con
+<input>$cmd[CMD_EXPLORE]</input><localtiles> o haciendo <input>click</input>
+en el botón de comando "autoexplorar" en el <w>panel de comandos</w>
+</localtiles>
 
 %%%%
 tutorial3 go_shopping
@@ -439,27 +463,10 @@ tutorial3 go_shopping
 # El botón de búsqueda en el panel de comandos de alguna manera cuando este mensaje es
 # visto.
 ¡Ahora tienes suficiente oro para hacer compras serias! La forma más rápida de volver a
-la tienda lo está buscando. Tipo < > > > Tipo > >
-y luego entrar en "Se hizo referencia/w título". Seleccione el resultado para comenzar a viajar.
-También puede hacer clic en el botón de búsqueda en el panel de comandos o
-utilizar el minimap para volver a la tienda
-
-%%%%
-tutorial3 gold
-
-Puedes gastar el oro en las tiendas. El oro no pesa y no puede ser depositado.
-
-%%%%
-tutorial3 inventory
-
-# TODO: Debe dar mensajes tutoriales dentro del inventario para encontrar el arma.
-# Tal vez también debería haber una lección separada para destacar los comandos
-# en la pantalla de descripción del elemento.
-Para ver la descripción de su nuevo arma, encontrar y seleccionarlo en su
-inventario (realizado)(CMD DISPLAY INVENTORY]) realizado/inputado. > > Puedes
-También se realizó en el inventario el título especificado/input título o el botón derecho haga clic en
-panel. Identificado/localtiles Observe que todos los comandos del elemento también funcionan desde el elemento
-Pantallas de descripción.
+la tienda lo está buscando. Tipo <input>$cmd[CMD SEARCH STASHES] </input>,
+y luego entrar “<w>shop§</w>”. Seleccione el resultado para comenzar a viajar. <localtiles>
+También puede <input>click</input> en el botón de búsqueda en el panel de comandos, o
+use el minimap para volver a la tienda. </localtiles>
 
 %%%%
 tutorial3 optional_battle
@@ -470,191 +477,42 @@ alcanzar la otra salida en la isla. En cualquier caso, es posible que sea una
 buena idea comprar algunos objetos, si no los has comprado todavía.
 
 %%%%
-tutorial3 potion
-
-Para beber una de estas pociones emplea <input>$cmd[CMD_QUAFF]</input>
-<localtiles> o haz <input>clic con el ratón</input></localtiles>.
-
-%%%%
-tutorial3 scroll
-
-Muchos objetos no están identificados al encontrarlos. Una manera de averiguar
-para que sirven es usarlos. Prueba a leer este pergamino con
-<input>$cmd[CMD_READ]</input><localtiles> o haciendo <input>clic con el
-ratón</input> sobre él en el panel de inventario.
-
-%%%%
-tutorial3 scroll_noautopickup
-
-La recolección automática no funcionará si hay algún monstruo alrededor. Tus
-opciones son, o bien tomar el pergamino mediante
-<input>$cmd[CMD_PICKUP]</input><localtiles> o haciendo <input>clic con el
-ratón</input> sobre tu personaje,</localtiles> o bien luchar contra los
-enemigos que haya cerca de ti y recorgerlo después.
-
-%%%%
-tutorial3 shop
-
-Las tiendas venden objetos diversos, pero no comprarán objetos de nadie.
-
-%%%%
-tutorial3 start
-
-En esta lección vas a aprender acerca de los objetos y de como usarlos.
-
-%%%%
-tutorial3 trap
-
-Los trapos pueden tener una variedad de efectos desagradables, tales como alertar monstruos o
-teletransportarte en peligro. Algunas trampas son permanentes y Will siempre ser
-revelado como parte del mapa, pero otras trampas se pueden desencadenar explorando nuevos
-azulejos, y no existirá después de ser disparado. Si no hay manera, lo harás.
-tiene que desencadenar la trampa y lidiar con las consecuencias.
-
-%%%%
 tutorial3 tutorial_end
 
 ¡Bien hecho! Para salir del curso, simplemente desciende estas escaleras.
 
 %%%%
-tutorial3 wand_digging
-
-Un varita de excavación puede destruir paredes de roca. Uso
-[CMD LOOK AROUND] [$cmd[CMD TARGET DESCRIBE] Identificables
-> > ################################################################################################################################################################################################################################################################
-tipos.
-
-%%%%
-tutorial3 wand_fire
-
-Puedes evocar varas mediante <input>$cmd[CMD_EVOKE]</input><localtiles> o
-haciendo <input>clic con el ratón</input> en el panel de
-inventario</localtiles>.
-
-%%%%
-tutorial4 aiming_clouds
-
-Mephitic Cloud cubre un área en gases nocivos cuando se funde, y tú será capaz de
-ver el área que afecta a medida que se dirige. Trate de atrapar a varios enemigos en un
-una sola nube para ser más eficiente con tu magia.
-
-%%%%
-tutorial4 displace_allies
-
-¿Notaste puedes cambiar posiciones con tus aliados moviéndose en ellos?
-Entre otras cosas, desplazar a una criatura amistosa puede ser una buena manera de escapar
-una pelea.
-
-%%%%
-tutorial4 exit
+tutorial3 exit
 
 Una sola pantalla recapitulando todos los comandos.
 ################################################################################################################################################################################################################################################################
-■blanco títuloTutorial 4 resumen: Magia
+<white>Tutorial 3 resumen: Temas</white>
 
-comandos identificados/yellow titulada
-[CMD MEMORISE SPELL] Señala un nuevo hechizo
-[CMD DISPLAY SPELLS] seleccionado/inputado Comprobación del hechizo
-[CMD CAST SPELL] [CMD CAST SPELL] seleccionado/input]
-También se pueden aprender nuevos hechizos a través de la pestaña "Nota de memorización"
-Tú puede lanzar hechizos memorizados a través de ■input estrechamenteleftclick observado/input relativo, y leer sus descripciones y comprobar su proficiencia de hechizos por ■input relativomouseover observado/input usuario o ■input título correctamentehaga clic en:
-[CMD QUIVER ITEM] seleccion/input] ajusta tu cuestionario
+<yellow>Ellos comandos</yellow>
+<input>$cmd[CMD PICKUP]</input>recoger an item
+<input>$cmd[CMD DROP]</input> drop an item
+<input>$cmd[CMD EQUIP]</input>equipa armadura, armas y joyas
+<input>$cmd[CMD UNEQUIP]</input> armadura inequip, armas y joyas
+<input>$cmd[CMD READ]§AG§13 leer un rollo
+<input>$cmd[CMD QUAFF]§AG15 § quaff a potion
+<input>$cmd[CMD EVOKE]</input> evocar una varita
 
-[CMD REST] se llevó a cabo hasta 100 vueltas para recuperar puntos de magia y salud
-[CMD SHOUT]
-[CMD UNEQUIP] [CMD UNEQUIP]
+Los comandos de uso y (un)equip también están disponibles en las descripciones de elementos del menú del inventario (<input>$cmd[CMD DISPLAY INVENTORY]</input>). <localtiles>
+Y por supuesto, <input>mouseclicks</input> también funcionan. </localtiles>
 
-%%%%
-tutorial4 forget_spell
-
-Obtener niveles de experiencia y aumentar su habilidad de Spellcasting le da hechizo
-ranuras para gastar en hechizos. También puede hacer un hechizo memorizado
-espacio para uno nuevo leyendo un pergamino de amnesia. Lea el desplazamiento (con
-[CMD READ] seleccionado/introcediendo]
-■input tituladaclicking obtenidos/input título en él identificado/localtiles confianza), y luego seleccionar el hechizo que desea
-para olvidar. Puedes relear los hechizos olvidados de tu biblioteca de hechizos más tarde, como
-mientras tienes ranuras de hechizo disponibles.
-
-%%%%
-tutorial4 heavy_armour
-
-Dividir despegar en un objeto separado.
-La armadura pesada realmente dificulta la ortografía. Trata de poner el correo y el escudo
-(con нелинилининиханиенны CMD EQUIP)
-■input tituladaclicking obtenidos/input confianza en ellos identificados/localtiles confianza), y comparar su ortografía
-tasas de fracasos con ■input titulada$cmd[CMD DISPLAY SPELLS]
-■inputcción/inputencia tus hechizos memorizados realizados/localtiles confianza. Puedes tomar
-armaduras de nuevo con <input titulada$cmd[CMD UNEQUIP] seleccionadas/input tituladalocaltiles título o,
-de nuevo, a través de ■input ratiomousehaga clic/input contacto/localtiles confianza.
-
-%%%%
-tutorial4 memorise2
-
-Después de olvidar uno de sus viejos hechizos para hacer espacio, memorizar este nuevo hechizo
-[CMD MEMORISE SPELL] se realizó/inputó]
-> >
-baldosas realizadas/localtiles confianza. ¡Entonces prueba tu nuevo hechizo y llama a algunos aliados demoníacos!
-
-%%%%
-tutorial4 meph_reminder
-
-No te olvides de memorizar tu nuevo hechizo disponible, presionando
-[CMD MEMORISE SPELL] seleccion/input titulada Loglocaltiles confianza o por
-> >
-azulejos realizados/localtiles confianza!
-
-%%%%
-tutorial4 mephitic_cloud
-
-La nube mefática es un hechizo de nivel 3, así que puedes no lo memorice todavía. Para nivelar
-rápidamente, aquí hay más dummies de entrenamiento — sin piedras para tirar esta vez.
-
-En el nivel de experiencia 3, tú será capaz de aumentar una de sus estadísticas — eligiendo
-■input título I identificado/input relativolligence Will ayuda a su ortografía aún más.
-
-%%%%
-tutorial4 order_allies
-
-¡Intente dejar que sus aliados hagan el asesinato! Si es necesario, puedes ordene sobre ellos
-con ■input título $cmd [CMD SHOUT] Seguido/input. Antes de abrir esta puerta, puedes quiere
-espera con ■input título $cmd[CMD WAIT] Seguido/input confianza hasta que sus aliados hayan atrapado
-arriba contigo. Su citación Will sólo se queda por un corto tiempo, así que no
-Espera demasiado tiempo, o llama a algunos nuevos antes de comenzar una pelea.
-
-%%%%
-tutorial4 resting_reminder
-
-Asegúrese de estás a plena salud y puntos de magia antes de entrar en una nueva área.
-Si es necesario, descanse con <input titulada$cmd[CMD REST] realizado/introducción obtenidoslocaltiles confianza o por
-> >
-
-Tú sólo puede convocar un número limitado de aliados a la vez de cualquier hechizo dado,
-así que trate de aprovechar una amplia gama de hechizos. Por ejemplo, tu citación
-imps son resistentes al veneno, por lo que puedes fundir Mephitic Cloud para luchar junto con
-sin daño a tus aliados.
-
-%%%%
-tutorial4 ring_power
-
-Ponga en este anillo con <input titulada$cmd[CMD EQUIP] seleccionadas/input tituladarlocaltiles reales o
-por יinput confiarclicking efectuado/inputilo en el panel de inventarios realizado/localtiles confianza, y luego
-descansa en tu nuevo potencial completo.
-
-%%%%
-tutorial4 spell_success
-
-Para comprobar su eficacia del hechizo, pulse <input título$cmd[CMD DISPLAY SPELLS]
-■localtiles confianza o <input confianzamouseover observado/input ratio sobre su memorizado
-hechizos realizados/localtiles confianza. Compare sus tasas de falla de hechizo antes y después de usar
-este anillo.
+§AG24 § Other</yellow>
+<input>$cmd[CMD DISPLAY COMMANDS]? </input> acceso al comando help
+<input>$cmd[CMD EXPLORE]§AG29 explore automatically§
+<input>$cmd[CMD SEARCH STASHES]</input> búsqueda de artículos/features previamente vistos<localtiles>
+Varios de estos comandos también se pueden ejecutar haciendo clic en el panel <w>command</w>.</localtiles>
 
 %%%%
 tutorial4 spellbook
 
 Puedes memorizar un hechizo de tu biblioteca de hechizos con
-[CMD MEMORISE SPELL] seleccion/input titulada Loglocaltiles confianza o por
-> >
-baldosas realizadas/localtiles confianza. En el nivel de experiencia 1, sólo se ofrecen hechizos de nivel 1
+<input>$cmd[CMD MEMORISE SPELL]
+<input>haciendo clic </input> en la pestaña de memorización y seleccionando el hechizo
+Tile</localtiles>. En el nivel de experiencia 1, sólo se ofrecen hechizos de nivel 1
 Tú. Este Will cambia a medida que ganas experiencia. Para encontrar nuevos hechizos, encontrar y elegir
 arriba libros de hechizos, y los hechizos Will se añaden a su biblioteca.
 
@@ -664,29 +522,131 @@ tutorial4 spellcasting
 ## Tiles memorisation: click on a spellbook in the inventory Might be
 ## más fácil de comprender; podría dejar la pestaña de memorización para ser descubierto por
 ## El jugador por su cuenta.
-Para lanzar un hechizo, primero memorizarlo con  meinput título]$cmd[CMD MEMORISE SPELL] seleccionado/input título.
-Tú puede entonces fundirlo con <input titulada$cmd[CMD CAST SPELL]Seguido/introcedentes obtenidoslocaltiles confiar o por
-■input título haciendo clic en el título de ortografía realizado/localtiles.
+Para lanzar un hechizo, primero memorizarlo con <input>$cmd[CMD MEMORISE SPELL]</input>.
+Luego se puede fundir con <input>$cmd[CMD CAST SPELL] </input><localtiles> or by
+<input>clicking</input> on the spell tile</localtiles>.
 
-Presione нелинилининиеннный[CMD CAST SPELL]Seguido/inputilo, luego pulse нелиниенилининиханихилиный?
+Presionar <input>$cmd[CMD CAST SPELL§]</input>, luego presiona <input>? §AG11 § to get a
 lista de tus hechizos.
 
 %%%%
 tutorial4 spellquivering
 
 Los hechizos, como la munición, se muestran en la ranura del quiver, por lo que puedes uso
-[CMD QUIVER ITEM] seleccionó/inputadora para preparar un hechizo en el concurso. Uso
-[CMD FIRE] [CMD FIRE] seleccionado/input título] o se hizo con el nombre de usuario para despedir al usuario actual
+<input>$cmd[CMD QUIVER ITEM]</input> para preparar un hechizo en el concurso. Uso
+<input>$cmd[CMD FIRE]</input> or <input>shift-tab</input> to fire the currently
 un hechizo a prueba.
 
 Una vez estás de puntos de magia, retiro y descanso para recuperarlos con
-[CMD REST] [CMD REST]] seleccion/input Cursolocaltiles confianza o por iereinput tituladaing
-icono de descanso en el panel de comandos seleccionado/localtiles.
+<input>$cmd[CMD REST] </input><localtiles> or by <input>click</input>
+restar icono en el panel de comando</localtiles>.
 
 %%%%
-tutorial4 start
+tutorial4 ring_power
 
-En esta lección vas a aprender acerca de como memorizar e invocar hechizos.
+Ponga en este anillo con <input>$cmd[CMD EQUIP] </input><localtiles> or
+por <input>clicking</input> it in the inventory panel</localtiles>, and then
+descansa en tu nuevo potencial completo.
+
+%%%%
+tutorial4 undead
+
+# TODO: Esto es más como las pistas de cosas del modo. No estoy seguro de si hay algún daño,
+# y la interfaz del ratón es buena.
+A diferencia de la mayoría de los monstruos, zombis y esqueletos no regeneran la salud.
+<localtiles> También puede intentar re-producir el último hechizo que utilizó
+pulsando <input>Ctrl+leftclick</input> en el monstruo. </localtiles>
+
+%%%%
+tutorial4 spell_success
+
+Para comprobar su eficacia del hechizo, pulse <input>$cmd[CMD DISPLAY SPELLS] </input>
+<localtiles> or <input>mouseover</input> over your memorised
+hechizos</localtiles>. Compare sus tasas de falla de hechizo antes y después de usar
+este anillo.
+
+%%%%
+tutorial4 mephitic_cloud
+
+La nube mefática es un hechizo de nivel 3, así que puedes no lo memorice todavía. Para nivelar
+rápidamente, aquí hay más dummies de entrenamiento — sin piedras para tirar esta vez.
+
+En el nivel de experiencia 3, tú será capaz de aumentar una de sus estadísticas — eligiendo
+<input>I</input>ntelligence Will ayudan a su ortografía aún más.
+
+%%%%
+tutorial4 meph_reminder
+
+No te olvides de memorizar tu nuevo hechizo disponible, presionando
+<input>$cmd[CMD MEMORISE SPELL]
+<input>haciendo clic </input> en la pestaña de memorización y seleccionando el hechizo
+Tile</localtiles>!
+
+%%%%
+tutorial4 aiming_clouds
+
+Mephitic Cloud cubre un área en gases nocivos cuando se funde, y tú será capaz de
+ver el área que afecta a medida que se dirige. Trate de atrapar a varios enemigos en un
+una sola nube para ser más eficiente con tu magia.
+
+%%%%
+tutorial4 forget_spell
+
+Obtener niveles de experiencia y aumentar su habilidad de Spellcasting le da hechizo
+ranuras para gastar en hechizos. También puede <w>olvidar un hechizo memorizado</w> para hacer
+espacio para uno nuevo leyendo un pergamino de amnesia. Lea el desplazamiento (con
+<input>$cmd[CMD READ]</input><localtiles> o
+<input>clicking</input> on it</localtiles>), y luego seleccionar el hechizo que desee
+para olvidar. Puedes relear los hechizos olvidados de tu biblioteca de hechizos más tarde, como
+mientras tienes ranuras de hechizo disponibles.
+
+%%%%
+tutorial4 memorise2
+
+Después de olvidar uno de sus viejos hechizos para hacer espacio, memorizar este nuevo hechizo
+con <input>$cmd[CMD MEMORISE SPELL]</input><localtiles> or by
+<input>haciendo clic </input> en la pestaña de memorización y seleccionando el hechizo
+Tile</localtiles>. ¡Entonces prueba tu nuevo hechizo y llama a algunos aliados demoníacos!
+
+%%%%
+tutorial4 displace_allies
+
+¿Notaste puedes cambiar posiciones con tus aliados moviéndose en ellos?
+Entre otras cosas, desplazar a una criatura amistosa puede ser una buena manera de escapar
+una pelea.
+
+%%%%
+tutorial4 order_allies
+
+¡Intente dejar que sus aliados hagan el asesinato! Si es necesario, puedes ordene sobre ellos
+con <input>$cmd[CMD SHOUT]</input>. Antes de abrir esta puerta, puedes quiere
+espera con <input>$cmd[CMD WAIT]</input> hasta que tus aliados hayan atrapado
+arriba contigo. Su citación Will sólo se queda por un corto tiempo, así que no
+Espera demasiado tiempo, o llama a algunos nuevos antes de comenzar una pelea.
+
+%%%%
+tutorial4 heavy_armour
+
+Dividir despegar en un objeto separado.
+La armadura pesada realmente dificulta la ortografía. Trata de poner el correo y el escudo
+(con <input>$cmd[CMD EQUIP]</input><localtiles>
+<input>clicking</input> on them</localtiles>), y compare su ortografía
+tasas de fracaso con <input>$cmd[CMD DISPLAY SPELLS]</input>§ o por
+<input>mouseover</input>0 § your memorised spells</input>1§. Puedes tomar
+armadura de nuevo con </input>2§$cmd[CMD UNEQUIP] </input>3§</input>4§ or,
+de nuevo, vía </input>5§mouseclick</input>6</input>7§.
+
+%%%%
+tutorial4 resting_reminder
+
+Asegúrese de estás a plena salud y puntos de magia antes de entrar en una nueva área.
+Si es necesario, descanse con <input>$cmd[CMD REST]</input><localtiles> o por
+<input>mouseclick</input> en el panel de comando</localtiles>.
+
+Tú sólo puede convocar un número limitado de aliados a la vez de cualquier hechizo dado,
+así que trate de aprovechar una amplia gama de hechizos. Por ejemplo, tu citación
+imps son resistentes al veneno, por lo que puedes fundir Mephitic Cloud para luchar junto con
+sin daño a tus aliados.
 
 %%%%
 tutorial4 tutorial_end
@@ -695,91 +655,44 @@ tutorial4 tutorial_end
 estas escaleras.
 
 %%%%
-tutorial4 undead
+tutorial4 exit
 
-# TODO: Esto es más como las pistas de cosas del modo. No estoy seguro de si hay algún daño,
-# y la interfaz del ratón es buena.
-A diferencia de la mayoría de los monstruos, zombis y esqueletos no regeneran la salud.
-Identificables También puede intentar re-producir el último hechizo que utilizó
-pulsar нелиниенильнинильнительный Haga clica / entrada del monstruo
+Una sola pantalla recapitulando todos los comandos.
+################################################################################################################################################################################################################################################################
+<white>Tutorial 4 resumen: Magic</white>
 
-%%%%
-tutorial5 altar
+<yellow>Spellcasting commands</yellow>
+<input>$cmd[CMD MEMORISE SPELL]
+<input>$cmd[CMD DISPLAY SPELLS]</input> check spell proficiency
+<input>$cmd[CMD CAST SPELL]</input>cast§ a spell<localtiles>
+También puede aprender nuevos hechizos a través de la pestaña de memorización <w></w>.
+Puede lanzar hechizos memorizados a través de <input>leftclick§AG14, y leer sus descripciones y comprobar su eficacia del hechizo por <input>mouseover</input> o <input>rightclick</input></localtiles>§
+<input>$cmd[CMD QUIVER ITEM]§AG21 ajustar el quiver
 
-Tú puede orar en un altar con ■input título $cmd[CMD GO DOWNSTAIRS]
-■localtiles confianza (o por <input título contiguo haciendo clic en el título/input contacto con tu personaje)
-para tener una idea de lo que un dios te ofrece, y para unirte a la fe. Si
-pulsar <input título!
-< > > > > > > > > > }
-descripción más detallada.
-
-Confirme su elección con ■inputpropiosJ realizados/input título o iereinput ratioEnter seleccionado/input.
-
-%%%%
-tutorial5 berserk
-
-Contra enemigos particularmente difíciles, te puede interesar usar el poder de
-Trog Furia mediante <input>$cmd[CMD_USE_ABILITY]</input><localtiles> o a
-través del <w>panel de comandos</w></localtiles>.
-
-%%%%
-tutorial5 berserk2
-
-Ponerte hecho una furia también es muy útil cuando te enfrentes a varios
-oponentes, siempre que no te quedes exhausto antes de acabar con todos ellos.
-
-%%%%
-tutorial5 burn_book
-
-A Trog le encantará que quemes ese libro (con
-<input>$cmd[CMD_USE_ABILITY]</input><localtiles> o mediante el <w>panel de
-comandos</w></localtiles>). En algunas ocasiones, podría ser preferible
-esperar (con <input>$cmd[CMD_WAIT]</input>) a que un monstruo pase por
-encima del libro antes de hacerlo arder.
+<input>$cmd[CMD REST]</input> descansar hasta 100 vueltas para recuperar puntos de magia y salud
+<input>$cmd[CMD SHOUT]</input>
+<input>$cmd[CMD UNEQUIP]§AG27 § take off equipment
 
 %%%%
 tutorial5 dungeon_overview
 
 ¡Adelante está un altar a Trog el Wrathful! Trog es sólo uno de muchos dioses. En un
-juego real, puedes check ■input título$cmd[CMD DISPLAY OVERMAP]
-o > >
-panel realizado/localtiles confiar para una lista de todos los altares y otras características interesantes
+juego real, puedes check <input>$cmd[CMD DISPLAY OVERMAP] </input><localtiles>
+o <input>click the Dungeon botón de sobremapa</input> en el comando
+panel</localtiles> para una lista de todos los altares y otras características interesantes
 encontrado hasta ahora.
 
 %%%%
-tutorial5 exhaustion
+tutorial5 altar
 
-A Berserker rabia es realmente agotador. Después de que termine, no puedes Berserk otra vez
-por un corto tiempo y se ralentizan. Es mejor descansar con
-[CMD REST] [CMD REST]] se realizó/intrometerse (o a través de
-Se hizo un panel de contacto realizado/w título) realizado/localtiles confiar hasta que el sientesse ajuste de nuevo.
+Puedes orar en un altar con <input>$cmd[CMD GO DOWNSTAIRS] </input>
+<localtiles> (o por <input>izquierda haciendo clic </input> en su carácter)</localtiles>
+para tener una idea de lo que un dios te ofrece, y para unirte a la fe. Si
+tú presiona <input>!</input><localtiles> or
+<input>haga clic derecho§AG10</localtiles> on the religion screen, puedes ver un
+descripción más detallada.
 
-%%%%
-tutorial5 exit
-
-Una sola pantalla recapitulando todos los comandos.
-################################################################################################################################################################################################################################################################
-■blanco títuloTutorial 5 resumen: Religión
-
-> > >
-[CMD GO DOWNSTAIRS] se ora en un altar para unirse a un dios
-[CMD USE ABILITY] [CMD USE ABILITY]]
-[CMD DISPLAY RELIGION] seleccionado/inputado consultar su posición religiosa seleccionalocaltiles título
-A ■input correctamentehaga clic en el título del jugador en la ficha Will también levante la pantalla de la religión.
-
-Identificar a los demás
-[CMD WAIT] [CMD WAIT] Secuencia/input] Espera y descansa un solo giro
-[CMD REST] [CMD REST]] Se puede esperar y descansar hasta 100 vueltas
-
-Identificado Otros comandos realizados / amarillo
-[CMD DISPLAY OVERMAP] seleccion/input titulada muestra una visión general de the Dungeon
-[CMD DISPLAY COMMANDS]/según la base de datos de la descripción
-
-%%%%
-tutorial5 piety_on_kill
-
-Algunos dioses realmente aprecian que mates monstruos en su nombre. ¡Qué
-empiece la masacre!
+Confirme su elección con <input>J</input> o <input>Enter</input>.
 
 %%%%
 tutorial5 religion
@@ -793,15 +706,31 @@ derecho del ratón</input>,</localtiles> verás una descripción más detallada 
 tu dios.
 
 %%%%
-tutorial5 sacrificing
+tutorial5 piety_on_kill
 
-Para ofrecerle cadáveres a Trog, reza mediante <input>$cmd[CMD_PRAY]</input>
-<localtiles> o usando el <w>panel de comandos</w></localtiles>. ¡Inténtalo!
+Algunos dioses realmente aprecian que mates monstruos en su nombre. ¡Qué
+empiece la masacre!
 
 %%%%
-tutorial5 start
+tutorial5 berserk
 
-En esta lección vas a aprender acerca de los dioses y de como usar sus poderes.
+Contra enemigos particularmente difíciles, te puede interesar usar el poder de
+Trog Furia mediante <input>$cmd[CMD_USE_ABILITY]</input><localtiles> o a
+través del <w>panel de comandos</w></localtiles>.
+
+%%%%
+tutorial5 exhaustion
+
+A Berserker rabia es realmente agotador. Después de que termine, no puedes Berserk otra vez
+por un corto tiempo y se ralentizan. Es mejor descansar con
+<input>$cmd[CMD REST]</input><localtiles> (o vía
+<w>command panel</w>)</localtiles> hasta sientes ajuste de nuevo.
+
+%%%%
+tutorial5 berserk2
+
+Ponerte hecho una furia también es muy útil cuando te enfrentes a varios
+oponentes, siempre que no te quedes exhausto antes de acabar con todos ellos.
 
 %%%%
 tutorial5 tutorial_end
@@ -810,5 +739,26 @@ tutorial5 tutorial_end
 ya estás preparado para el juego auténtico. ¡Buena suerte!
 
 Para salir del curso, simplemente desciende estas escaleras.
+
+%%%%
+tutorial5 exit
+
+Una sola pantalla recapitulando todos los comandos.
+################################################################################################################################################################################################################################################################
+<white>Tutorial 5 resumen: Religión</white>
+
+<yellow>Religious commands</yellow>
+<input>$cmd[CMD GO DOWNSTAIRS]</input> orar en un altar para unirse a un dios
+<input>$cmd[CMD USE ABILITY]</input> utilizar una habilidad divina
+<input>$cmd[CMD DISPLAY RELIGION]</input> ver su posición religiosa<localtiles>
+A <input>haga clic derecho</input> en la ficha del jugador Will también subir la pantalla de la religión. §AG13 §
+
+<yellow>Resting</yellow>
+<input>$cmd[CMD WAIT]</input> esperar y descansar un solo giro
+<input>$cmd[CMD REST]</input> esperar y descansar hasta 100 vueltas
+
+<yellow>Otros comandos</yellow>
+<input>$cmd[CMD DISPLAY OVERMAP]</input> mostrar un resumen de the Dungeon
+<input>$cmd[CMD DISPLAY COMMANDS]/§AG25 § search the description database
 
 %%%%

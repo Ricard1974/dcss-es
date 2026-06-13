@@ -143,15 +143,15 @@ Twists el aire alrededor de una criatura para hacer daño y tratar de tirar de e
 más cerca de la lanzador.
 
 %%%%
+Berserker Rage spell
+
+<Berserk ability>
+
+%%%%
 Berserk Other spell
 
 Causa un aliado cercano a Fly en una rabia Berserk. Going Berserk temporarily
 aumenta la salud, la velocidad y los daños tratados en la melee.
-
-%%%%
-Berserker Rage spell
-
-■Berserk habilidad
 
 %%%%
 Bestow Arms spell
@@ -218,16 +218,16 @@ Transforma la fundición en un rayo penetrante, y transloca la
 Caster al destino del perno.
 
 %%%%
-Bolster spell
-
-Aumenta la forma física de la lanzador, aumentando enormemente el daño que tratan en
-melee y su resistencia a todos los elementos.
-
-%%%%
 Bolt of Antimagic spell
 
 Dispara un perno penetrante de antimágico ontológicamente paradójico, drenando su
 reservas de magia de las víctimas.
+
+%%%%
+Bolster spell
+
+Aumenta la forma física de la lanzador, aumentando enormemente el daño que tratan en
+melee y su resistencia a todos los elementos.
 
 %%%%
 Bolt of Cold spell
@@ -314,7 +314,7 @@ o de otra manera criatura inmóvil.
 %%%%
 Brothers in Arms spell
 
-*Hermanos en habilidad de armas
+<Brothers in Arms ability>
 
 %%%%
 Cage of Brambles spell
@@ -396,7 +396,13 @@ La línea de visión de la casta Will termina el efecto.
 %%%%
 Caustic Breath spell
 
-#Caustic Breath ability #
+<Caustic Breath ability>
+
+%%%%
+Chain of Chaos spell
+
+Crea un arco de caos puro, golpeando criaturas cercanas con impredecible
+Efectos. El arco puede tocar la casta sin dañarlos.
 
 %%%%
 Chain Lightning spell
@@ -407,21 +413,15 @@ Sí. Los arcos secundarios tienen rango limitado y hacen poco daño a la lanzado
 El hechizo representa la mitad de la armadura de los defensores y la resistencia a la electricidad.
 
 %%%%
-Chain of Chaos spell
+Charm spell
 
-Crea un arco de caos puro, golpeando criaturas cercanas con impredecible
-Efectos. El arco puede tocar la casta sin dañarlos.
+Causa una criatura de otro modo hostil para luchar en el lado de la lanzador por un tiempo.
+Los aventureros, establecidos en su búsqueda de the Orb, sufren en cambio confusión momentánea.
 
 %%%%
 Chaos Breath spell
 
 Exhala una gran nube de vapores llena de la esencia misma del caos.
-
-%%%%
-Charm spell
-
-Causa una criatura de otro modo hostil para luchar en el lado de la lanzador por un tiempo.
-Los aventureros, establecidos en su búsqueda de the Orb, sufren en cambio confusión momentánea.
 
 %%%%
 Cigotuvi's Putrefaction spell
@@ -449,15 +449,15 @@ Cold Breath spell
 Exhala una explosión enfocada de aire helado.
 
 %%%%
-Combustion Breath spell
-
-#Combustion Breath ability #
-
-%%%%
 Concentrate Venom spell
 
 Intensifica el veneno natural del monstruo objetivo. Muertos venenosos y escupidos
 se hace lo suficientemente intenso como para Slow y asfixia.
+
+%%%%
+Combustion Breath spell
+
+<Combustion Breath ability>
 
 %%%%
 Confuse spell
@@ -645,16 +645,16 @@ alguien cercano a blink lejos de la casta. La posibilidad de parpadear depende d
 la distancia de la lanzador, siendo casi seguro cuando directamente adyacente.
 
 %%%%
-Dispel Undead Range spell
-
-Harms una criatura no muerta grandemente interfiriendo con las fuerzas que la obligan
-juntos.
-
-%%%%
 Dispel Undead spell
 
 Harms una criatura no muerta adyacente grandemente interfiriendo con las fuerzas
 unirlo.
+
+%%%%
+Dispel Undead Range spell
+
+Harms una criatura no muerta grandemente interfiriendo con las fuerzas que la obligan
+juntos.
 
 %%%%
 Dispersal spell
@@ -686,11 +686,6 @@ atacar a un amigo cercano y enemigo igual antes de recuperar sus ingenios.
 Este hechizo se puede romper prematuramente por la muerte de su casta.
 
 %%%%
-Doom Bolt spell
-
-Dispara un perno penetrante de malicia accursada que inflige a Doom.
-
-%%%%
 Doomsaying spell
 
 Foretells a terrible futuro, infligiendo Doom igual a la mitad de lo que tomaría
@@ -701,6 +696,18 @@ sellado.
 
 Sólo se puede lanzar una sola vez, pero incluso matar al mensajero en su Sleep
 Will no evitar lo que el destino tiene guardado para tú.
+
+%%%%
+Doom Bolt spell
+
+Dispara un perno penetrante de malicia accursada que inflige a Doom.
+
+%%%%
+Oblivion Howl spell
+
+Libera un aullido penetrante que atrapa y hace eco en las mentes de las víctimas. Mientras tanto
+esos ecos engendran, criaturas de pesadilla Will escuchar y rastrearlos a sus
+fuente. Sólo puede ser usado una vez por una criatura dada.
 
 %%%%
 Dragon's Call spell
@@ -802,6 +809,13 @@ enredados Will ser dolorosamente restringido hasta que escapen o las raíces se 
 lejos. Las raíces Will sólo brotan de terreno sólido.
 
 %%%%
+Flay spell
+
+Abre dolorosas heridas ilusionarias en el cuerpo del objetivo, que desaparecen después
+un corto tiempo o en la muerte de la casta. Esto no puede matar directamente, y es
+ineficaz contra objetivos no naturales.
+
+%%%%
 Fire Breath spell
 
 Respira una explosión de fuego contra una criatura dirigida.
@@ -842,13 +856,6 @@ Flashing Balestra spell
 Una sola alma de dentro de la armería salta, golpeando con su arma y
 entonces cavar independientemente por un corto tiempo antes de regresar al maelstrom
 una vez más.
-
-%%%%
-Flay spell
-
-Abre dolorosas heridas ilusionarias en el cuerpo del objetivo, que desaparecen después
-un corto tiempo o en la muerte de la casta. Esto no puede matar directamente, y es
-ineficaz contra objetivos no naturales.
 
 %%%%
 Fleetfoot spell
@@ -1007,7 +1014,7 @@ rápido y golpe con mayor Might.
 %%%%
 Galvanic Breath spell
 
-#Galvanic Breath ability #
+<Galvanic Breath ability>
 
 %%%%
 Gell's Gavotte spell
@@ -1040,7 +1047,7 @@ importa si vivir o construir, se consume y no se hace en el proceso.
 %%%%
 Glacial Breath spell
 
-#Glacial Breath ability #
+<Glacial Breath ability>
 
 %%%%
 Glaciate spell
@@ -1081,6 +1088,11 @@ sólo se puede reponer causando la muerte de un número suficiente de vidas
 seres.
 
 %%%%
+Infernal Servant spell
+
+Invoca a un demonio mayor.
+
+%%%%
 Greater Ensnare spell
 
 Dispara una corriente de frotar a una criatura, enredándolas en una red pegajosa y
@@ -1095,15 +1107,15 @@ no afectado. Debido al fuerte impacto y los bordes de corte, la mitad de su dañ
 evita la resistencia fría.
 
 %%%%
+Haste Other spell
+
+Acelera las acciones de un aliado cercano.
+
+%%%%
 Harpoon Shot spell
 
 Dispara una larga y flexible masa de púas. La víctima enredada Will sea
 Sacó adyacente a la lanzador o collide con cualquier cosa que bloquee el camino.
-
-%%%%
-Haste Other spell
-
-Acelera las acciones de un aliado cercano.
 
 %%%%
 Haste spell
@@ -1116,11 +1128,6 @@ Haunt spell
 Llama a los espectros y fantasmas para perseguir el objetivo del castor. Sólo atacan
 la criatura que están persiguiendo, y Will disipa rápidamente una vez su objetivo
 muere. El número de espectros invocados aumenta con poder de hechizo.
-
-%%%%
-Heal Other spell
-
-Cura un aliado cercano.
 
 %%%%
 Hellfire Court spell
@@ -1137,6 +1144,28 @@ autónomamente lanzando gotas de magma a los enemigos de la lanzador como lo hac
 Cuando llega al final de su camino, o se obstruye en su movimiento por otro
 criatura, que Will se hunden de nuevo en la lava, y el chasm Will sello en sí mismo cerrado
 poco después.
+
+%%%%
+Heal Other spell
+
+Cura un aliado cercano.
+
+%%%%
+Hunting Call spell
+
+Inspira aliados cercanos para acelerar su movimiento.
+
+%%%%
+Hurl Damnation spell
+
+<Hurl Damnation ability>
+
+%%%%
+Hurl Sludge spell
+
+Conjura una explosión enfocada de lodos altamente tóxicos, envenenando a la víctima y
+drenando sus alrededores. El lodo daña y envenena a todos los monstruos,
+incluso aquellos resistentes al veneno.
 
 %%%%
 Hoarfrost Bullet spell
@@ -1174,23 +1203,6 @@ peligrosas para las criaturas no muertas y demoníacas, y no tienen efecto en la
 criaturas.
 
 %%%%
-Hunting Call spell
-
-Inspira aliados cercanos para acelerar su movimiento.
-
-%%%%
-Hurl Damnation spell
-
-* Capacidad de condenación humana
-
-%%%%
-Hurl Sludge spell
-
-Conjura una explosión enfocada de lodos altamente tóxicos, envenenando a la víctima y
-drenando sus alrededores. El lodo daña y envenena a todos los monstruos,
-incluso aquellos resistentes al veneno.
-
-%%%%
 Hurl Torchlight spell
 
 Hurls a gout of umbral torchlight which deals irresistible damage to living,
@@ -1222,11 +1234,6 @@ Ill Omen spell
 
 Bendece el telar del destino contra un objetivo, infligiendo a Doom significativa. No.
 ser utilizado si hay alguna obstrucción entre la lanzador y su objetivo.
-
-%%%%
-Infernal Servant spell
-
-Invoca a un demonio mayor.
 
 %%%%
 Infestation spell
@@ -1261,14 +1268,14 @@ es golpeado, y explosivamente liberado tras la muerte. El tamaño de la explosi�
 depende del tamaño del objetivo.
 
 %%%%
-Invisibility Other spell
-
-Se vuelve un aliado cercano invisible.
-
-%%%%
 Invisibility spell
 
 Hace invisible la casta.
+
+%%%%
+Invisibility Other spell
+
+Se vuelve un aliado cercano invisible.
 
 %%%%
 Iron Shot spell
@@ -1321,11 +1328,12 @@ dañino, que Will se aloja en ellos, permitiendo que la próxima melee ataque la
 realiza contra ellos para golpear con la precisión perfecta y un pequeño bono de asesinato.
 
 %%%%
-Kiss of Death spell
+Volatile Blastmotes spell
 
-Conjura un fragmento de la esencia de la lanzador y lo retorce en un fragmento
-de la muerte, drenando dolorosamente a la víctima. La casta también, Will encuentra su salud
-reducido, hasta que obtengan suficiente experiencia para recuperarse.
+Trae una nube de blastmotes volátiles alrededor de la lanzador. Estas explotan
+en contacto con llama abierta o con criaturas - incluyendo cualquier caster tonto
+¡Lo suficiente como para mentirles! La explosión es concusiva, golpeando al lado
+criaturas lejos. El daño hecho aumenta con el poder del hechizo.
 
 %%%%
 Landbreaker spell
@@ -1548,16 +1556,6 @@ Estas nubes pueden causar confusión en cualquier criatura no resistente al vene
 Las criaturas más duras y experimentadas tienen menos probabilidades de ser afectadas.
 
 %%%%
-Mercury Arrow spell
-
-Conjura una flecha de mercurio elemental que trata directamente daño de veneno a
-lo que sea que golpee y también puede debilitar sus ataques de melee por un corto tiempo.
-
-La fuerza física de la flecha inflige una pequeña cantidad de daño incluso a aquellos
-inmune al veneno, y el efecto debilitante puede salpicarse a objetivos adyacentes y
-ignora la resistencia al veneno.
-
-%%%%
 Mesmerise spell
 
 Intenta entrar a todos los enemigos a la vista. Los aventureros que no resisten Will
@@ -1608,17 +1606,20 @@ Minor Healing spell
 Cura una pequeña cantidad de daño al cuerpo de la lanzador.
 
 %%%%
-Momentum Strike spell
-
-Culpa a un objetivo con energía prestada del movimiento futuro de la lanzador. Para
-un corto tiempo después, la lanzador Will se deja inmóvil - incapaz de caminar, Fly
-alrededor, deslizamiento, etc. Sólo criaturas fútiles pueden lanzar este hechizo.
-
-%%%%
 Monstrous Menagerie spell
 
 Invoca una poderosa criatura exótica a la ayuda de la lanzador: un manticore, un
 lindwurm, o un marauder de esfinge.
+
+%%%%
+Mercury Arrow spell
+
+Conjura una flecha de mercurio elemental que trata directamente daño de veneno a
+lo que sea que golpee y también puede debilitar sus ataques de melee por un corto tiempo.
+
+La fuerza física de la flecha inflige una pequeña cantidad de daño incluso a aquellos
+inmune al veneno, y el efecto debilitante puede salpicarse a objetivos adyacentes y
+ignora la resistencia al veneno.
 
 %%%%
 Mourning Wail spell
@@ -1631,7 +1632,7 @@ su salud máxima.
 %%%%
 Mud Breath spell
 
-*Mud Breath ability
+<Mud Breath ability>
 
 %%%%
 Murky Legion spell
@@ -1670,7 +1671,7 @@ se desgasta.
 %%%%
 Noxious Breath spell
 
-Noxious Breath ability
+<Noxious Breath ability>
 
 %%%%
 Noxious Cloud spell
@@ -1680,14 +1681,7 @@ Crea una gran nube de gases nocivos, que puede causar confusión.
 %%%%
 Nullifying Breath spell
 
-#Nullifying Breath ability #
-
-%%%%
-Oblivion Howl spell
-
-Libera un aullido penetrante que atrapa y hace eco en las mentes de las víctimas. Mientras tanto
-esos ecos engendran, criaturas de pesadilla Will escuchar y rastrearlos a sus
-fuente. Sólo puede ser usado una vez por una criatura dada.
+<Nullifying Breath ability>
 
 %%%%
 Olgreb's Toxic Radiance spell
@@ -2054,18 +2048,18 @@ Impartir sellos en puertas y escaleras cercanas, evitando a los no aliados con
 la casta de atravesarlos.
 
 %%%%
-Searing Breath spell
-
-Respira una explosión de fuego a una criatura dirigida, dejando una nube de llamas a
-el punto final.
-
-%%%%
 Searing Ray spell
 
 Dispara un rayo perforante continuo de energía arcana de las manos del caster. Así que...
 mientras el caster mantenga el foco en el hechizo y lo suministra con magia
 poder (esperando en su lugar y no tomando ninguna otra acción), el ray Will
 seguir el objetivo de la lanzador si debe moverse.
+
+%%%%
+Searing Breath spell
+
+Respira una explosión de fuego a una criatura dirigida, dejando una nube de llamas a
+el punto final.
 
 %%%%
 Seismic Stomp spell
@@ -2088,6 +2082,11 @@ Seracfall spell
 Curiosamente colapsa un simulacro cercano en una gran masa de hielo, que
 explota en el impacto. El hielo afecta incluso a las criaturas resistentes al frío, debido
 al fuerte impacto y los bordes de corte.
+
+%%%%
+Shadowball spell
+
+Arrolla una bola de sombras agitadoras, que explota en una pequeña zona.
 
 %%%%
 Shadow Beam spell
@@ -2152,11 +2151,6 @@ Shadow Turret spell
 
 Forma una torreta estacionaria de sombra solidificada que dispara repetidamente sobre la
 Los enemigos de Caster.
-
-%%%%
-Shadowball spell
-
-Arrolla una bola de sombras agitadoras, que explota en una pequeña zona.
 
 %%%%
 Shatter spell
@@ -2328,7 +2322,7 @@ Escupe lava a una criatura dirigida. La mitad de su daño evita la resistencia a
 %%%%
 Spit Poison spell
 
-*Spit Poison ability
+<Spit Poison ability>
 
 %%%%
 Splinterfrost Shell spell
@@ -2385,7 +2379,7 @@ Tira una bola de vapor caliente hacia una criatura dirigida.
 %%%%
 Steam Breath spell
 
-Identificar la capacidad de aliento del equipo
+<Steam breath ability>
 
 %%%%
 Sticks to Snakes spell
@@ -2518,6 +2512,11 @@ Summon Greater Demon spell
 Llama a uno de los mayores demonios de Pandemonium para servir a la lanzador.
 
 %%%%
+Summon Sin Beast spell
+
+Invoca a una bestia mortal del pecado.
+
+%%%%
 Summon Hell Sentinel spell
 
 Invoca a un Centinela del Infierno, un edificio nocturno de odio animado.
@@ -2603,11 +2602,6 @@ Potencia de la palanca aumenta la durabilidad del huevo y la fuerza del sismosau
 dentro, pero no el tiempo que se necesita para la escotilla.
 
 %%%%
-Summon Sin Beast spell
-
-Invoca a una bestia mortal del pecado.
-
-%%%%
 Summon Small Mammal spell
 
 Invoca una rata, un murciélago o un quókka a la ayuda del caster. Potencia de la explosión aumenta
@@ -2622,6 +2616,12 @@ Invoca una o más arañas.
 Summon Tzitzimitl spell
 
 Invoca un tzitzimitl, un demonio de enfermedad y desesperación.
+
+%%%%
+Ufetubi Swarm spell
+
+Invoca a un grupo de Berserk ufetubi; demonios menores irritantes que Will rápidamente enjambre
+y rodear a los enemigos de la lanzador.
 
 %%%%
 Summon Undead spell
@@ -2708,7 +2708,14 @@ Crea un arco penetrante de electricidad.
 %%%%
 Trog's Hand spell
 
-* § § § § § Capacidad de mano
+<Trog's Hand ability>
+
+%%%%
+Kiss of Death spell
+
+Conjura un fragmento de la esencia de la lanzador y lo retorce en un fragmento
+de la muerte, drenando dolorosamente a la víctima. La casta también, Will encuentra su salud
+reducido, hasta que obtengan suficiente experiencia para recuperarse.
 
 %%%%
 Tukima's Dance spell
@@ -2719,12 +2726,6 @@ el terreno poco después.
 
 Ciertos potentes artefactos no pueden ser animados, y cualquier propiedad que
 requiere habilidad en evocaciones Will no ser activo.
-
-%%%%
-Ufetubi Swarm spell
-
-Invoca a un grupo de Berserk ufetubi; demonios menores irritantes que Will rápidamente enjambre
-y rodear a los enemigos de la lanzador.
 
 %%%%
 Upheaval spell
@@ -2759,6 +2760,18 @@ para pasar varios giros no haciendo más que atacar espacios cercanos (ya sean a
 los espacios están vacíos o incluso contienen sus aliados).
 
 %%%%
+Virulence spell
+
+Hace que una criatura dirigida sea más vulnerable al veneno.
+
+%%%%
+Momentum Strike spell
+
+Culpa a un objetivo con energía prestada del movimiento futuro de la lanzador. Para
+un corto tiempo después, la lanzador Will se deja inmóvil - incapaz de caminar, Fly
+alrededor, deslizamiento, etc. Sólo criaturas fútiles pueden lanzar este hechizo.
+
+%%%%
 Vhi's Electric Charge spell
 
 Envia el dolor de casta a un enemigo cercano elegido, lanzando una alta precisión
@@ -2780,11 +2793,6 @@ pasar a través de criaturas, trampas y terreno dañino, y desplazar criaturas e
 su destino.
 
 %%%%
-Virulence spell
-
-Hace que una criatura dirigida sea más vulnerable al veneno.
-
-%%%%
 Vitrify spell
 
 Renders la estructura corporal de una criatura tan frágil y frágil como el vidrio, aumentando
@@ -2796,14 +2804,6 @@ Vitrifying Gaze spell
 Irresistiblemente hace la estructura corporal de una criatura tan frágil y frágil como
 vidrio, aumentando el daño que sacan de todas las fuentes. Requiere línea de
 vista pero no línea de fuego.
-
-%%%%
-Volatile Blastmotes spell
-
-Trae una nube de blastmotes volátiles alrededor de la lanzador. Estas explotan
-en contacto con llama abierta o con criaturas - incluyendo cualquier caster tonto
-¡Lo suficiente como para mentirles! La explosión es concusiva, golpeando al lado
-criaturas lejos. El daño hecho aumenta con el poder del hechizo.
 
 %%%%
 Volley of Thorns spell

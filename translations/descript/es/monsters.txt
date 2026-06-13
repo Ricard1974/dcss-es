@@ -4,31 +4,726 @@ __(_suffix_examine
 Ha sido encantada para que dance en el aire y pueda atacar por su cuenta.
 
 %%%%
-__cap-N_suffix
+Aizul
+
+En una ocasión fue la principal serpiente guardiana de un legendario tesoro,
+pero cayó en desgracia al saquear unos ladrones el tesoro mientras que dormía.
+Ahora se desliza por el calabozo buscando venganza contra cualquier aspirante a
+saqueador. Es un consumado hechicero, pero en el combate cuerpo a cuerpo no es
+más peligroso que otros de su misma especie.
+
+%%%%
+Amaemon
+
+Amaemon siempre sabía que era diferente, pero todavía era una sorpresa horrible cuando
+su herencia demoníaca se manifestó. Cuando su cuerpo se torció, Amaemon fue obligado a huir
+lejos de la superficie. El paso del tiempo sólo le ha dejado más obsesionado con
+lo que ha perdido - consumido por veneno físico y espiritual.
+
+%%%%
+Antaeus
+
+Una vez que un héroe entre los titanes, Antaeus se puso celoso de la reina titana. In
+combate único que desafió y mató a ella, y por este crimen fue exiliado y
+descendió a the Hells. Encontrar a los habitantes de ese lugar sin coincidencia para su
+Might, Antaeus tore from its substance a fourth Hell, Cocytus, a realm born of
+Un asco congelado.
+
+%%%%
+Arachne
+
+Una vez un talentoso tejedor humano, Arachne se transformó en un monstruoso
+Media araña por la maldición de un rival celoso. Salió de su pueblo, encontró
+santuario por un tiempo entre el jorogumo antes de que un enemigo amargo la obligó a
+huye una vez más.
+
+Ahora vaga por otros rincones de the Dungeon con un pequeño retinue de leales
+estudiantes en remolque, buscando un nuevo dominio en el que pueden hacer girar su sin pares
+tapices en paz.
+
+%%%%
+Asmodeus
+
+Uno de los archi-demonios que moran las profundidades del Infierno, envuelto en
+fuego.
+
+%%%%
+Asterion
+
+Una vez un rey infame por librar campañas de sangre, Asterion fue exiliado a
+the Depths of the Dungeon for his crimes. Aquí se acecha en su frescura,
+soñando con un nuevo reino. En su deseo de poder, el rey minotauro se volvió hacia
+la adoración de Makhleb, y Makhleb le ha recompensado con horror
+destructivo Might.
+
+%%%%
+Azrael
+
+Un potente y beligerante Ifrit. (¿Acaso los hay de otra clase?)
+
+%%%%
+Bai Suzhen
+
+A weary Draconian with foreign and watery scales. Ella ha llegado a the Dungeon
+en esperanzas de resucitar a su marido mortal; una causa noble, por un ser una vez
+conocido por pelear con santos e inundar templos desafortunados. Si es presionado
+a sus límites, ella Will revela su verdadera forma, la mera vista de la cual golpeó
+su marido muerto. Los aventureros tal vez deseen que hayan tenido tanta suerte!
+
+%%%%
+Blorkula the orcula
+
+Una vez un vampiro pandillero y embriagado con una extraña obsesión con el color,
+Blorkula fue ofrecido azufre por un misionero de Beogh y se convirtió en un portly y
+orc vigoroso con una extraña obsesión con el color.
+
+Maneja la magia teñida con cada tono del arco iris, y ha dominado el arte
+de dividir su propia forma entre sus muchos colores para evitar golpes de muerte - aunque
+incluso debe descansar un tiempo antes de hacerlo una segunda vez.
+
+%%%%
+Boris
+
+Un antiquísimo lich. El aire alrededor de su sombría figura chisporrotea
+energía maligna.
+
+%%%%
+Cassandra
+
+Como mujer joven, Cassandra se unió al servicio de Ashenzari y fue
+bendecido y maldecido en igual medida - concedió la capacidad de prever desastres,
+pero sólo aquellos que ella era impotente para prevenir.
+
+Eventualmente conducido de su tierra natal como un harbinger de las mismas plagas que ella había
+pasó toda la vida warning contra, ella ha llegado a the Dungeon en sus últimos días
+con la esperanza de evitar una última catástrofe.
+
+%%%%
+Cerebov
+
+Un violento y furibundo demonio, Cerebov aparece como un gigantesco humano
+cubierto por una resplandeciente armadura dorada y empuñando una enorme espada
+retorcida.
+
+%%%%
+Chuck
+
+A Chuck, el gigante de piedra, le encantan las rocas. ¡Mientras más grandes,
+mejor! Con el paso de los años, ha amasado una buena colección, incluyendo
+algunas muy raras y encantadas.
+
+%%%%
+Crazy Yiuf
+
+Un viejo y raquítico gnoll con una larga barba plateada, que empuña un bastón
+largo y lleva una capa. ¡Parece salido de la mitología! Espera, ¿lleva la barba
+sujetada mediante ganchos sobre sus orejas?
+
+%%%%
+Dispater
+
+El señor de la Ciudad de Hierro de Dis.
+
+%%%%
+Dissolution
+
+Los Fosos Cenagosos solían albergar una pujante civilización, y Disolución era
+el profeta de su dios. Cuando la ciudad fue asaltada por su actuales moradores,
+solo Disolución consiguió salvarse, ya que él fue el único que abrazó la fe del
+Dios Mucilaginoso. Disolución se convirtió en una tremenda masa de efluvios
+ácidos, pero conservó su inteligencia. Rebosa de odio hacia cualquier cosa que
+tenga forma.
+
+%%%%
+Donald
 
 {{
-    if you.race() == "Naga" then
-        return "Te parece particularmente atractiva."
+    local descript = "Un aventurero al igual que tú, que intenta encontrar el
+Orbe."
+
+    if you.race() ~= "Merfolk" and you.race() ~= "Octopode" then
+        descript = descript .. " A diferencia de ti, y a"
     else
-        return "Te parece extraña y repulsiva."
+        descript = descript .. " A"
+    end
+
+    descript = descript .. " pesar de odiarla, se zambulle en el agua " ..
+                           "como una gallina."
+
+    return descript
+}}
+
+%%%%
+Dowan
+
+Un apuesto pero vanidoso elfo con talento para la magia y poco más. Sus
+habilidades son el perfecto complemento para la destreza en el combate de su
+hermana gemela Duvessa.
+
+%%%%
+Duvessa
+
+Una luchadora élfica aparentemente corriente, que es un genio en muchas formas
+de combate, aunque también demasiado confiada, por esta misma razón. Dowan, su
+hermano gemelo, le complementa con sus habilidades mágicas.
+
+%%%%
+Edmund
+
+Un celoso hermano menor de Sigmund (de hecho, el menor de nueve hermanos). No
+tiene ninguno de los talentos de Sigmund para la magia, pero lo compensa con su
+destreza para la lucha y una astuta mente para el dinero. Está más que
+dispuesto a probar su superioridad matando a desventurados aventureros con su
+caro mayal y su mente despierta.
+
+%%%%
+Enchantress
+
+Primero y más temeroso de su clase, el Enchantress rige sobre los esparcidores de
+the Dungeon. Lleva un traje opalescente hecho de piel de dragón que brilla
+con muchos colores.
+
+%%%%
+Ereshkigal
+
+Un terrible archi-demonio que domina el mortal inframundo del Tártaro.
+
+%%%%
+Erica
+
+Una aventura salvaje. Ella es muy orgullosa de un Octopode, y brandishes
+su capacidad venenosa y talentos camuflados con fuerza cruel.
+
+%%%%
+Erolcha
+
+Una maga ogresa especialmente astuta.
+
+%%%%
+Eustachio
+
+Un aprendiz de convocador con un bigote ondeante. Tiene ideas divertidas acerca
+del honor.
+
+%%%%
+Fannar
+
+Un hechicero de escoba, envuelto en túnicas de alto cargo. Ellos susurran
+sonríemente a ellos mismos mientras acechan the Dungeon, siguiendo cristales de hielo a través de los
+aire detrás de ellos.
+
+%%%%
+Frances
+
+Una fuerte guerrera que una vez derrotó a un poderoso señor del Pandemonio en
+combate, pasando a tener control de su reino y vasallos. La batalla le dejó una
+cicatriz profunda en su rostro, que exhibe como una medalla al valor más que
+como un motivo de vergüenza.
+
+%%%%
+Frederick
+
+Un esbelto mago-guerrero que lleva un monóculo dorado y busca un oponente digno
+de él. Probablemente no cumples los requisitos.
+
+%%%%
+Gastronok
+
+Una voraz babosa sorprendentemente inteligente, dedicada a devorar todo y a
+todo aquél que se encuentre a su paso, con un sombrero puntiagudo que lleva
+desenfadadamente encima de su cabeza. Consiguió el sombrero de la misma forma
+que consiguió su inteligencia y su conocimiento de la magia: consumiendo a su
+antiguo propietario, un poderoso mago.
+
+%%%%
+Geryon
+
+Un enorme, tres cabezas, ala de arque-demonio, guardián de los cuatro infiernos. Leyendas
+dice que su cuerno de plata puede llamar a bestias terribles para ayudarlo en la batalla.
+
+%%%%
+Gloorx Vloq
+
+Una sombría figura inmersa en profundas tinieblas.
+
+%%%%
+Grinder
+
+Un ineficiente diablillo de las sombras que previamente trabajaba como
+torturador en uno de los círculos menores del Infierno. Tiene tendencia a
+quejarse y a decir comentarios inanes.
+
+%%%%
+Grum
+
+Un gnoll de aspecto duro, que viste la piel de uno de sus antiguos perros de
+guerra.
+
+%%%%
+Grunn
+
+Un salvajemente retorcido Gnoll en el servicio eterno de Ereshkigal, señor de
+Tartarus. La leyenda tiene que él vendió su alma para devolver su más querida caza
+perro a la vida. Si ese sabueso es miembro de su paquete actual, nadie puede decir.
+
+%%%%
+Harold
+
+Un cazador de recompensas de mediana edad, contratado para asesinarte. Tiene
+prisa.
+
+%%%%
+Ignacio
+
+Un mortal no puede convertirse en demonio mientras que los dioses no
+intervengan, y esto fue lo que le sucedió a Ignacio cuando Makhleb vio su amor
+a su trabajo y le sonrió. Ahora está destinado a seguir con lo que le divertía
+por toda la eternidad.
+
+Aunque su nueva forma tiene varias cuchillas enormes saliendo de sus apéndices
+de demonio, todavía conserva su hacha favorita y está dispuesto a hacerte
+probar su filo.
+
+%%%%
+Ijyb
+
+Un pequeño y retorcido goblin que viste harapos azules.
+
+%%%%
+Ilsuiw
+
+Un mortal Merfolk alambrado, que utiliza su dominio sobre las mareas para dibujar
+aventureros involuntarios a sus muertes.
+
+%%%%
+Jeremiah
+
+Jeremías era un soñador pacífico, propenso a las siestas improvisadas. Se deslizaron en
+soñando con un viejo y odioso
+el poder los obliga al servicio. Ahora Jeremías tropieza a través de the Dungeon,
+buscando el precioso sueño que Will restaurar el poder de su maestro,
+inseguro si todavía despiertan o duermen. Sus sueños se filtran en la realidad
+la forma de una corriente constante de mariposas.
+
+%%%%
+Jessica
+
+Una malvada aprendiz de hechicera. Entró en el calabozo esperando encontrar un
+lugar tranquilo y apartado donde pudiera estudiar las artes oscuras sin ser
+molestada.
+
+%%%%
+Jorgrun
+
+Un mago enano, particularmente bien dotado de the Dungeon alrededor de él. Él
+wields powerful magia de tierra in combat.
+
+%%%%
+Jory
+
+El que fuera una vez un simple granjero, Jory se vio transformado en un
+poderoso no-muerto. A través de los incontables siglos desprovisto de vida ha
+entrenado sus habilidades en combate y en magia, amasado grandes riquezas y
+muchas posesiones.
+
+%%%%
+Joseph
+
+Parece un mercenario.
+
+%%%%
+Josephina
+
+Un necromante temeroso que siguió su artesanía más allá de los límites de la carne y
+vida. Su búsqueda del conocimiento demoníaco dejó su cuerpo arruinado, pero los poderes que ella
+Ganó le permitió reconstruir sus extremidades perdidas de hielo brillante.
+
+%%%%
+Josephine
+
+Un formidable necromancer, comprometido con su artesanía incluso después de dejarla envejecida,
+descomponerse, y media muerte ella misma.
+
+%%%%
+Khufu
+
+Un emperador increíblemente poderoso en el camino a la diosa. Murió bastante tiempo.
+pero no ve ninguna razón por la que debería detenerlo.
+
+%%%%
+Kirke
+
+Un maestro de transformación y traición. Tenga cuidado, o puedes sea el siguiente cerdo
+para unirse a su manada!
+
+%%%%
+Lernaean hydra
+
+Una bestia enorme, más poderosa de hidras, infame en el mito y la leyenda. Corrientes
+a través del agua más rápido que un humano puede correr, intercambiando árboles a un lado como
+Eran palillos. Sus muchas cabezas esclavista y rocia constantemente mientras caza
+para la presa para agitar su apetito sin fondo.
+
+%%%%
+Lodul
+
+Un emisario ogro de la Orden Ironbound, enviado para encontrar y detener intrusos antes
+entran en the Vaults. Fiercely carismático, ha reunido a un pequeño ejército de su
+parientes, superándolos con el rayo de largo alcance que lleva en su espalda.
+(La gran bolsa de monedas que tomó de the Vaults también es bastante persuasivo.)
+
+%%%%
+Lom Lobon
+
+Un antiguo y extrañamente sereno demonio. Te mira fríamente con el enorme y
+luminoso ojo que tiene en el centro de su frente.
+
+%%%%
+Louise
+
+Un hechicero inusualmente acorazado.
+
+%%%%
+Mara
+
+Este demonio alto y poderoso es Mara, Señor de las Ilusiones, poderoso entre los soñadores.
+Es capaz de crear ilusiones intrincadamente detalladas, tan reales que son
+casi tan mortal como las criaturas que imitan.
+
+%%%%
+Maggie
+
+En un tiempo distante, Maggie fue aprendiz a los horribles Caballeros del Infierno - pero ella
+Creció impaciente. En busca de un atajo a la fama y la fortuna (y algo corto
+en la imaginación), entró the Dungeon y se puso a matar a un dragón. Ahora
+habiendo matado a uno, Maggie no ve ninguna razón para parar.
+
+%%%%
+Margery
+
+Una grácil y flexible hechicera. Apenas está vestida, aunque lo poco que lleva
+parece armadura de dragón de la más alta calidad, garantizando alta protección.
+Y distraer a humanoides masculinos también tiene su valor en combate, además.
+
+%%%%
+Maurice
+
+Un astuto y conspirador ladrón.
+
+%%%%
+Menkaure
+
+Un justo y noble soberano de un antiguo y poderoso reino, momificado tras su
+temprana muerte. Sus fieles sacerdotes le infundieron gran y poderosa magia,
+pretendiendo concederle la vida eterna. Ahora ha quedado olvidado y reducido a
+vendajes enmohecidos y huesos secos y quebradizos.
+
+%%%%
+Mennas
+
+Hubo una vez un sacerdote humano llamado Mennas. Viajó a lo largo y a lo ancho
+predicando la palabra de Zin a cualquiera que quisiera escuchar, yendo incluso
+tan lejos como para adentrarse en tierras orcas, predicando a los orcos sobre
+leyes y misericordia. A los orcos no les hizo gracia alguna. Le pidieron que
+jurara que Beogh era el único dios verdadero y cuando Mennas permaneció callado
+le cortaron la lengua.
+
+Tanto si este ángel es o no el mismo Mennas es un misterio, pero parece que le
+cueste hablar.
+
+%%%%
+Mlioglotl
+
+Un príncipe demonio poseía una vez un hambre de poder que era excepcional incluso por
+los estándares de su tipo. Traicionó su reino a Lugonu, y su recompensa fue
+para convertirse en esta masa retorcida de corrupción, ahora conocida sólo como Mlioglotl.
+
+%%%%
+Mnoleg
+
+Una figura extrañamente luminosa, danzando en los remolinos de aire del
+Pandemonio.
+
+%%%%
+Murray
+
+Un cráneo demoníaco rodando a lo largo del suelo.
+
+%%%%
+Natasha
+
+Un gato mágico que se mueve rápido. Una vez que un mago poderoso es familiar, Natasha era
+abandonado después de que su amo fue consumido por las fuerzas muy necrométicas que buscaba
+para controlar. Ahora ella patrulla the Dungeon, tomando una venganza sangrienta con hechizo
+y garra sobre cualquier aventurero que cruce su camino.
+
+Este gato no tiene nueve vidas, pero una muerte no va a ser suficiente
+para ponerla para siempre.
+
+%%%%
+Nellie
+
+Una elefante muy inteligente que viajaba formando parte de un circo. Una noche
+oscura se escapó de su cadena y desapareció en el Pandemonio, para no ser vista
+nunca más.
+
+%%%%
+Nergalle
+
+Una orca desgarrada y marchitada que ha dedicado su vida a la crónica de la sangre
+historia de su gente. Ella afirma conocer los nombres y hechos de cada último orc
+que perdió su vida en su gran éxodo en the Dungeon, e incluso si esto es
+una mentira, sin embargo parece estar en una base de primer nombre con muchos de ellos.
+
+Más que cualquier otro orco que aún respira, conoce la sangre y la sacrifica.
+tomó para hacer de este lugar un refugio para su tipo. Ella Will no brook it being
+inculcado por cualquiera, menos por ti.
+
+%%%%
+Nessos
+
+Un guerrero centauroso, experto en guerra y engaño. Mataron una poderosa hidra, y
+Ahora su sangre mortal gotea de sus flechas.
+
+%%%%
+Nikola
+
+Un científico brillante obsesionado con la electricidad. En su tentativa de
+perfeccionar su golem eléctrico, se vio envuelto en un terrible accidente, y
+ahora fluctúa en diferentes fases de la realidad.
+
+%%%%
+Nobody
+
+Un vengador perdido del tiempo, no se levantó de la muerte de un solo individuo sino de
+muchos - sus huesos fusionados entre los jóvenes y los ancianos y diferentes
+especie por completo. Ya sean todas las víctimas de una sola masacre o
+mil almas desechadas durante mil años es imposible de decir ahora;
+La historia no los recuerda.
+
+Pero una cosa es clara: ellos Will luchan para cambiar eso hasta cada último recuerdo
+han dejado quemaduras lejos.
+
+%%%%
+Norris
+
+Un culto al agua relajado con un bronceado saludable y una voz relajante. Él
+no le importa si es tú o el que muere — “ambos” probablemente sería el
+mejor opción.
+
+%%%%
+Pargi
+
+Un troll inusualmente delgado.
+
+Sientes algo en la boca de tu estómago.
+
+%%%%
+Parghit
+
+Un trol inusualmente fuerte, su grueso marco escarpado por muchos contra-los-odds
+victorias. He has been wounded so many times that his body has adapted, and now
+cura casi al instante. Su collar de garras es un recuerdo de aquellos que
+Lo subestimó.
+
+%%%%
+Pikel
+
+Un sabio Kobold temería a las fuerzas del infierno, y ciertamente no establecería un
+comercio transdimensional altamente lucrativo en almas condenadas. Pero Pikel es mejor
+conocido por su látigo que su sabiduría, atormentando sin piedad sus cargos piadosos
+mientras los ferries a sus compradores.
+
+%%%%
+Polyphemus
+
+Un pastor cíclope, celoso guardián de su rebaño al que vigila con incansable
+fervor mediante su único ojo masivo.
+
+%%%%
+Prince Ribbit
+
+Una rana de tamaño inusual, con una pequeña corona encaramada incongruentemente sobre su cabeza.
+
+%%%%
+Robin
+
+Un hobgoblin de montaña, recientemente viene en busca de la legendaria Orb. No
+tonto o imprudente lo suficiente para entrar en the Depths de the Dungeon solo,
+Robin ha construido un pequeño ejército de mineros. Competidores potenciales Will rápidamente
+encontrar una corriente de Screaming duendes volando hacia ellos!
+
+%%%%
+Roxanne
+
+Una estatua de zafiro impresionantemente realista de un famoso sabio de tierra que desapareció
+después de un ataque catastrófico con un talismán mágico.
+
+%%%%
+Rupert
+
+Un tipo con muy malos modos cuyos rugidos causan la envidia incluso de los
+ogros.
+
+%%%%
+Saint Roka
+
+Un poderoso señor de la guerra. Algunos orcos llegan incluso a decir que él es
+El Elegido de Beogh.
+
+%%%%
+Sigmund
+
+La pesadilla de todos los aventureros jóvenes, Sigmund combina ilusiones de
+grandeza con sucias tácticas.
+
+%%%%
+Snorg
+
+Un troll particularmente corpulento con poco temperamento y una importante
+tripa. Sin ningún interés en el Orbe, Snorg se deleita con el sin fin de
+aventureros — esto es, platos fáciles — a los que atrae.
+
+%%%%
+Sprozz
+
+Un antiguo aprendiz de apicultor con un ambicioso sueño: modernizar todo
+industria mundial de apicultura con la seguridad suave del metal resistente a enfermedades.
+Sus métodos pueden ser cuestionables y sus objetivos dudosos, pero su prototipo
+Stinger todavía se ve muy fuerte...
+
+%%%%
+Sojobo
+
+Reina de la Tengu, con habilidad legendaria en la espada, tácticas y magia.
+Los narradores dicen que una vez atrapado una tempestad en una botella y la mantuvo
+como un talismán.
+
+%%%%
+Sonja
+
+Una grácil asesina kobold. ¡Admira sus airosas piruetas, emocionate con sus
+atrevidos saltos! El espacio alrededor del filo de su arma parece fluctuar
+ligeramente por un momento... o, ¿es que realmente fluctua?
+
+Su sombrío cuerpo de can, ocultado amablemente por el holgado atuendo de color
+verde, contrasta con sus decididos ojos, que otean las inmediaciones desde la
+sombra creada por el borde superior de su capa del color del berilo. Las fosas
+nasales que se asoman en la punta de su hocico palpitan de entusiasmo.
+
+%%%%
+Terence
+
+Un violento asesino que mata tanto por placer como por interés, Terence se vio
+obligado a esconderse después de que uno de sus trabajos le saliera torcido, y
+no puede permitir que alguien que le haya visto salga vivo del calabazo — hay
+una recompensa por su cabeza, después de todo.
+
+%%%%
+Tiamat
+
+El avatar terrenal de Tiamat, deidad de la humanidad del dragón, aquí encarnado como un poderoso
+Draconian guerrero. Sus básculas parecen brillar y cambiar el color mientras miras.
+
+%%%%
+Urug
+
+Un tosco y larguirucho orco. Urug perdió un ojo en un combate contra una
+harpía, y juró exterminarlas a todas. Desgraciadamente, la visión con el ojo
+que le queda no es muy buena y te ha confundido con una de ellas.
+{{
+    if you.can_smell() then
+        return "Huele fatal."
+    else
+        return ""
     end
 }}
 
 %%%%
-__cap-T_suffix
+Wiglaf
 
-Sientes algo en la boca de tu estomago.
-
-%%%%
-accursed
-
-Los acosados son los que llegaron antes. Han venido para asegurarte de compartir
-su destino.
+Un enano cantante usando un sombrero de aspecto estúpido. Él te mira adormecidamente, como si
+decidir exactamente cuánto delito debe llevar a la forma en que estás mirando
+Es.
 
 %%%%
-acid blob
+Vashnia
 
-Un amasijo de carne infecta y con pústulas que gotea ácido.
+Una elite Marknaga que lidera un equipo experto de punteros. Ella es
+particularmente hábil en la magia de translocación.
+
+%%%%
+Vv
+
+Uno de los Stoneborn, formaron aeones indecibles hace con el mando supremo sobre la roca.
+Su gente se refugia profundamente dentro de la tierra viva, así que lo que sea que haya forzado a Vv
+en la apertura opresiva de the Dungeon debe ser muy grave. Pero lo que sea
+No está hablando...
+
+%%%%
+Xak'krixis
+
+Han pasado siglos desde que los forasteros tuvieron acceso a la caverna
+bibliotecas de los formicidas, pero sus emisarios todavía son vistos de vez en cuando
+tiempo - encuestar otras tierras para recursos o descubrimientos científicos que Might
+ayudar a la colonia.
+
+Este estudio de las fibras mágicas excretadas por las arañas de orbe ya ha liderado
+a un avance alquímico, permitiéndoles formar prismas fulminantes tales que
+sus explosiones están dirigidas a enemigos solos. Alas, su entusiasmo por
+llevar a cabo una prueba de campo se desploma mal para su salud.
+
+%%%%
+Xtahua
+
+Un antiguo y poderoso dragón. Su abrasado cuerpo cubierto con peñascos de lava
+endurecida se eleva sobre el suelo del calabozo, dejando tras de sí una estela
+con un penetrante olor a azufre. Un conjunto de enormes garras resaltan en las
+terminaciones de sus extremidades, y sus filos, aunque algo mellados después
+haber sido usados por tanto tiempo, parecen capaces de despedazar a un hombre
+en un simple instante. La calidez que emana de su sola presencia calienta el
+aire hasta hacerlo insoportable, y hace que las estructuras visibles en el
+calabozo se arqueen ligeramente, como si del mismísimo sol del verano se
+tratara.
+
+Xtahua se fue volviendo cada vez más resentido, al verse atrapado en el
+calabozo después de una agotadora batalla con un aventurero hace siglos. La
+mayoría de su razones para seguir viviendo se han reducido simplemente a la de
+hacer arder cualquier cosa que merodee por estas salas con una pasión
+incombustible.
+
+%%%%
+Zenata
+
+Un artillero, su carne mezclada en acero tan suavemente que es difícil
+Dile dónde termina uno y el otro comienza. Ella entró the Dungeon para buscar
+los secretos de un antiguo culto de larga duración, dijo haber exaltado el metal sobre
+carne. El precio del conocimiento era su humanidad - un precio que pagó con entusiasmo.
+
+%%%%
+Serpent of Hell gehenna
+
+Un dragón enorme, regodeante, de tres cabezas, envuelto en condenación. Es
+poseído por la esencia misma de Gehenna y su fuego eterno.
+
+%%%%
+Serpent of Hell cocytus
+
+Un enorme dragón blanco de tres cabezas, cubierto de fragmentos de hielo brillante,
+totalmente poseído por el frío de noche de Cocytus.
+
+%%%%
+Serpent of Hell dis
+
+Una enorme bestia de tres cabezas con el valor de espadas de un ejército para los dientes. Cada uno de
+sus escamas es un escudo con un borde razored.
+
+%%%%
+Serpent of Hell tartarus
+
+Parece que tres pares de lurid magenta ojos colgando en la oscuridad, los
+Esbozo de un gran dragón sinuoso es apenas perceptible detrás. Su malicia
+Es palpable.
 
 %%%%
 acid dragon
@@ -50,21 +745,6 @@ plano como un remolino que a menudo se disipa  y se vuelve a formar poco
 después.
 
 %%%%
-air elementalist statue
-
-Una delicada estatua de un Tengu mirando por el aire. Se ve bastante
-insustancial.
-
-%%%%
-Aizul
-
-En una ocasión fue la principal serpiente guardiana de un legendario tesoro,
-pero cayó en desgracia al saquear unos ladrones el tesoro mientras que dormía.
-Ahora se desliza por el calabozo buscando venganza contra cualquier aspirante a
-saqueador. Es un consumado hechicero, pero en el combate cuerpo a cuerpo no es
-más peligroso que otros de su misma especie.
-
-%%%%
 alderking
 
 Un monarca de un anciano negro afeitado, medio respetado y medio
@@ -84,14 +764,6 @@ alligator snapping turtle
 Una tortuga mordedora particularmente grande y desagradable. Al igual que su
 parentela de menor tamaño, es capaz de alcanzarte y morderte desde cierta
 distancia, y se esconderá en su caparazón cuando se vea amenazada.
-
-%%%%
-Amaemon
-
-Amaemon siempre sabía que era diferente, pero todavía era una sorpresa horrible cuando
-su herencia demoníaca se manifestó. Cuando su cuerpo se torció, Amaemon fue obligado a huir
-lejos de la superficie. El paso del tiempo sólo le ha dejado más obsesionado con
-lo que ha perdido - consumido por veneno físico y espiritual.
 
 %%%%
 anaconda
@@ -136,21 +808,6 @@ Al volar, da la sensación de ser muy ligero y bastante ágil, a pesar de la
 pesada armadura que lleva.
 
 %%%%
-Antaeus
-
-Una vez que un héroe entre los titanes, Antaeus se puso celoso de la reina titana. In
-combate único que desafió y mató a ella, y por este crimen fue exiliado y
-descendió a the Hells. Encontrar a los habitantes de ese lugar sin coincidencia para su
-Might, Antaeus tore from its substance a fourth Hell, Cocytus, a realm born of
-Un asco congelado.
-
-%%%%
-antique champion
-
-Un esqueleto insondablemente caro. Tiene innumerables sigiles grabados en sus
-huesos y pulsos con una presencia fantasmal.
-
-%%%%
 apis
 
 Un plácido toro sagrado de Elyvilon. ¡Cuidado, servidores del mal, ya que con
@@ -163,30 +820,11 @@ Un cangrejo opalescente con ojos negros de chorro, y las neblinas caóticas effu
 mandibles. Los rumores afirman que esta especie está esperando el fin del tiempo.
 
 %%%%
-Arachne
-
-Una vez un talentoso tejedor humano, Arachne se transformó en un monstruoso
-Media araña por la maldición de un rival celoso. Salió de su pueblo, encontró
-santuario por un tiempo entre el jorogumo antes de que un enemigo amargo la obligó a
-huye una vez más.
-
-Ahora vaga por otros rincones de the Dungeon con un pequeño retinue de leales
-estudiantes en remolque, buscando un nuevo dominio en el que pueden hacer girar su sin pares
-tapices en paz.
-
-%%%%
 arcanist
 
 Un mago amante del espectáculo y la destrucción. Ellos desprecian la cobardía de otros
 magos, que se esconden de sus enemigos en lugar de simplemente sacarlos de
 existencia.
-
-%%%%
-archer statue
-
-Una estatua de un hermoso arquero elven, esculpida en mármol más fino. Tiene una
-arco arriba, y parece ser mágicamente animado, dejando que use el arco para
-intrusos de enigma con flechas.
 
 %%%%
 armour echo
@@ -198,12 +836,6 @@ permitiendo que su armadura proteja su portador de una manera más agresiva que
 Armour lo hace habitualmente.
 
 %%%%
-Asmodeus
-
-Uno de los archi-demonios que moran las profundidades del Infierno, envuelto en
-fuego.
-
-%%%%
 aspiring flesh
 
 Los restos divididos y retorcidos de un progenitor proteico, luchando desesperadamente
@@ -212,32 +844,9 @@ Will ser más fuerte y más rápido que cualquier criatura encontrada en otro lu
 mazmorra.
 
 %%%%
-Asterion
-
-Una vez un rey infame por librar campañas de sangre, Asterion fue exiliado a
-the Depths of the Dungeon for his crimes. Aquí se acecha en su frescura,
-soñando con un nuevo reino. En su deseo de poder, el rey minotauro se volvió hacia
-la adoración de Makhleb, y Makhleb le ha recompensado con horror
-destructivo Might.
-
-%%%%
-Azrael
-
-Un potente y beligerante Ifrit. (¿Acaso los hay de otra clase?)
-
-%%%%
 azure jelly
 
 Una masa de citoplasma azulado y extremadamente frío, envuelta en escarcha.
-
-%%%%
-Bai Suzhen
-
-A weary Draconian with foreign and watery scales. Ella ha llegado a the Dungeon
-en esperanzas de resucitar a su marido mortal; una causa noble, por un ser una vez
-conocido por pelear con santos e inundar templos desafortunados. Si es presionado
-a sus límites, ella Will revela su verdadera forma, la mera vista de la cual golpeó
-su marido muerto. Los aventureros tal vez deseen que hayan tenido tanta suerte!
 
 %%%%
 ball lightning
@@ -358,27 +967,10 @@ block of ice
 Un bloque de hielo en forma de estatua, pero no funcionaba con manos vivas.
 
 %%%%
-Blorkula the orcula
-
-Una vez un vampiro pandillero y embriagado con una extraña obsesión con el color,
-Blorkula fue ofrecido azufre por un misionero de Beogh y se convirtió en un portly y
-orc vigoroso con una extraña obsesión con el color.
-
-Maneja la magia teñida con cada tono del arco iris, y ha dominado el arte
-de dividir su propia forma entre sus muchos colores para evitar golpes de muerte - aunque
-incluso debe descansar un tiempo antes de hacerlo una segunda vez.
-
-%%%%
 bog body
 
 Una figura no muerta conservada por las aguas bragas de un bog, y reanimada por
 algo de magia desconocida.
-
-%%%%
-bog mummy
-
-Una figura no muerta conservada por las aguas bragas de un bog. Ha comenzado a
-Decay fuertemente, y parece frágil.
 
 %%%%
 boggart
@@ -408,12 +1000,6 @@ Una poderosa abominación sin muerte, unida de los huesos rotos de muchos
 dragones por poderosa magia necromética. La desesperación colectiva de tal
 dragones consagrados le da a este horror su propio arma de aliento inquebrantable, en
 nubes desgarradoras de la miseria.
-
-%%%%
-Boris
-
-Un antiquísimo lich. El aire alrededor de su sombría figura chisporrotea
-energía maligna.
 
 %%%%
 boulder
@@ -474,20 +1060,6 @@ Una araña gigante hinchada con huevos. Su incontable descendencia siempre está
 Llama.
 
 %%%%
-bullfrog
-
-Un anfibio inusualmente agresivo que persigue su presa con saltos rápidos.
-Su croak es fuerte y distintivo, pero a diferencia de sus contrapartes más pequeñas sobre
-tierra, the Dungeon bullfrog es tan grande como suena.
-
-%%%%
-bunyip
-
-Una bestia que come carne que usa sus extremidades y cola intercambiablemente. Se mueve
-con velocidad alarmante, pero debe pausarse para reorganizarse después de cada ataque.
-Sus gritos distintivos llevan lejos y ancho.
-
-%%%%
 burial acolyte
 
 Un sacerdote enmascarado al servicio de Kikubaaqudgha, bien visto en rituales corales
@@ -508,16 +1080,24 @@ no muy denso, permitiendo tanto la magia como los misiles pasar a través de no 
 Sin embargo, está firmemente arraigada, y requiere un esfuerzo significativo para destruir.
 
 %%%%
+bullfrog
+
+Un anfibio inusualmente agresivo que persigue su presa con saltos rápidos.
+Su croak es fuerte y distintivo, pero a diferencia de sus contrapartes más pequeñas sobre
+tierra, the Dungeon bullfrog es tan grande como suena.
+
+%%%%
+bunyip
+
+Una bestia que come carne que usa sus extremidades y cola intercambiablemente. Se mueve
+con velocidad alarmante, pero debe pausarse para reorganizarse después de cada ataque.
+Sus gritos distintivos llevan lejos y ancho.
+
+%%%%
 butterfly
 
 Una mariposa grande y de color brillante con alas bellamente modeladas,
 fluir incongruentemente a través de la oscuridad de la cueva.
-
-%%%%
-cacodemon
-
-Un demonio maníaco, rebosante de poder acumulado. Su risa espantosa rara vez
-cesa, incluso en el calor de la batalla.
 
 %%%%
 cactus giant
@@ -526,27 +1106,16 @@ Un coloso de piel verde, espinoso, con un cofre de barril y una sed
 batalla. Cualquier enemigo que lo golpee en melee Will tenga suerte de vivir para lamentarlo.
 
 %%%%
+cacodemon
+
+Un demonio maníaco, rebosante de poder acumulado. Su risa espantosa rara vez
+cesa, incluso en el calor de la batalla.
+
+%%%%
 cane toad
 
 Un horrible sapo cuyo espeso escondite despiadado está cubierto de glándulas venenosas. A diferencia de su
 parientes más pequeños sobre el suelo, este morador es el tamaño de un lobo.
-
-%%%%
-captured wizard
-
-Un mago de ojos salvajes cuya lengua ha sido cortada, frenéticamente murmurando y
-agitando sus brazos pero incapaz de lanzar un solo hechizo.
-
-%%%%
-Cassandra
-
-Como mujer joven, Cassandra se unió al servicio de Ashenzari y fue
-bendecido y maldecido en igual medida - concedió la capacidad de prever desastres,
-pero sólo aquellos que ella era impotente para prevenir.
-
-Eventualmente conducido de su tierra natal como un harbinger de las mismas plagas que ella había
-pasó toda la vida warning contra, ella ha llegado a the Dungeon en sus últimos días
-con la esperanza de evitar una última catástrofe.
 
 %%%%
 catoblepas
@@ -581,13 +1150,6 @@ Un centauro musculoso y curtido en numerosas batallas, equipado con buenas
 armas y capaz de usarlas hábilmente.
 
 %%%%
-Cerebov
-
-Un violento y furibundo demonio, Cerebov aparece como un gigantesco humano
-cubierto por una resplandeciente armadura dorada y empuñando una enorme espada
-retorcida.
-
-%%%%
 cerulean imp
 
 Un pequeño y ingenioso demonio menor. Sus alas, mucho más grandes que su cuerpo esgrimido, eran
@@ -598,12 +1160,6 @@ chaos spawn
 
 Un ser de caos puro, su forma está constantemente cambiando, creciendo y luego perdiendo
 ojos, bocas, garras y tentáculos. corrompe todo lo que toca.
-
-%%%%
-charred statue
-
-Una estatua que ha sido impregnada de llama, permitiéndole hacer uso de simple
-Conjuramientos basados en incendios.
 
 %%%%
 cherub
@@ -622,20 +1178,6 @@ restos de una antigua arquema: se deleita en difundir la desgracia y beber
 sangre en su nueva forma aérea.
 
 %%%%
-Chuck
-
-A Chuck, el gigante de piedra, le encantan las rocas. ¡Mientras más grandes,
-mejor! Con el paso de los años, ha amasado una buena colección, incluyendo
-algunas muy raras y encantadas.
-
-%%%%
-Cigotuvi's Monster
-
-Una creación aterradora que parece haberse construido de las partes del cuerpo
-de todas las criaturas monstruosas imaginable, con tentáculos llenos
-su forma.
-
-%%%%
 clockroach
 
 Una plaga común de mazmorras que combina las peores características de un insecto de estafa
@@ -645,18 +1187,18 @@ El tiempo fluye extrañamente alrededor de ella, rebobinando cualquier lesión i
 la fuente de ellos está lo suficientemente cerca como para ser atrapado en su tiempo.
 
 %%%%
-clockwork bee
-
-Un insecto mecánico alimentado por un conjunto intrincado de engranajes y resortes. Es
-vicioso y resiliente al daño, pero su reloj naturalmente se desploma como
-atentados, eventualmente dejando que no pueda moverse hasta que su creador lo eche de nuevo.
-
-%%%%
 cognitogaunt
 
 Un cadáver sin cabeza, animado no por la necromancia convencional sino por el
 malicia de luto de estrellas muertas. Sus ojos psíquicos, flotando desvinculadamente de sus
 Movimientos del cuerpo, sin descanso a través de la mente de sus víctimas.
+
+%%%%
+clockwork bee
+
+Un insecto mecánico alimentado por un conjunto intrincado de engranajes y resortes. Es
+vicioso y resiliente al daño, pero su reloj naturalmente se desploma como
+atentados, eventualmente dejando que no pueda moverse hasta que su creador lo eche de nuevo.
 
 %%%%
 colossal amoeba
@@ -666,24 +1208,11 @@ amenaza Will hace que se someta a mitosis armada rápida, rápidamente abrumador
 comidas potenciales en una ola de marea citoplasmática.
 
 %%%%
-conjurer statue
-
-Una estatua capaz de aprovechar el más poderoso de conjuraciones puras jamás ideadas por
-Iskenderun.
-
-%%%%
 crawling flesh cage
 
 Un avance moderno en la experimentación arcana, esta célula de prisión móvil
 arma los fragmentos vivientes de cosas feas una vez escapadas, extendiendo el alcance
 de sus zarcillos para romper múltiples enemigos a la vez desde una distancia.
-
-%%%%
-Crazy Yiuf
-
-Un viejo y raquítico gnoll con una larga barba plateada, que empuña un bastón
-largo y lleva una capa. ¡Parece salido de la mitología! Espera, ¿lleva la barba
-sujetada mediante ganchos sobre sus orejas?
 
 %%%%
 creeping inferno
@@ -763,6 +1292,13 @@ dardos elegantes, usando una vejiga oculta para lanzarlos con notables
 rango y potencia.
 
 %%%%
+deathcap
+
+Un hongo siniestro y mortal sofocado con energía negativa. Mientras que parasitario en
+la vida, la muerte le ha concedido la capacidad de absorber sus nutrientes directamente de
+la fuerza de vida de los demás.
+
+%%%%
 death cob
 
 Un terrible poco muerto de maíz. Mira, este fue probablemente un error. Somos
@@ -790,13 +1326,6 @@ death yak
 
 Un pariente más grande y más fuerte del yak de mazmorra común. Sus ojos rojos.
 Con hambre de carne viva.
-
-%%%%
-deathcap
-
-Un hongo siniestro y mortal sofocado con energía negativa. Mientras que parasitario en
-la vida, la muerte le ha concedido la capacidad de absorber sus nutrientes directamente de
-la fuerza de vida de los demás.
 
 %%%%
 deep elf annihilator
@@ -885,11 +1414,6 @@ deep troll shaman
 Un trol profundo bendecido con el poder divino para fortalecer y acelerar a sus parientes.
 
 %%%%
-deformed humanoid
-
-Una pobre criatura que se ve horriblemente deformada.
-
-%%%%
 demigod
 
 Una figura humana con un aura del poder traicionando su ascendencia divina.
@@ -900,12 +1424,6 @@ demonic crawler
 Una criatura insectoide infernal, alimentada por un poder infernal que constantemente
 renueva sus segmentos elegantes. Nada menos que un golpe letal Will detenerlo
 por mucho tiempo.
-
-%%%%
-demonic plant
-
-Una burla demoníaca de una planta, cubierta de misteriosos apéndices y obra
-tentáculos. Parece ser inofensivo.
 
 %%%%
 demonspawn
@@ -941,28 +1459,15 @@ es descendido de. Está dedicada al combate marcial, perturbando la magia de su
 Foes como se celebra fuera de un conflicto interminable.
 
 %%%%
-destroyer
-
-Los destructores comienzan a descender sobre ti. Vienen en número y con ira,
-abadón, sin fondo y abismo. Traen tu condena y Will
-festín en tus restos.
-
-%%%%
-diamond obelisk
-
-Un obelisco imponente rodeado de una poderosa tormenta.
-
-%%%%
 diamond sawblade
 
 Un disco serrado forjado de material de afeitado. Gira en el lugar en el alto
 velocidad, trituración por la carne y el metal por igual.
 
 %%%%
-dimme
+diamond obelisk
 
-Una criatura terrible con ascendencia demoníaca. Su presencia es horrorosa, pero
-sobrenaturalmente convincente.
+Un obelisco imponente rodeado de una poderosa tormenta.
 
 %%%%
 dire elephant
@@ -971,56 +1476,23 @@ Un enorme paquidermo, más salvaje y más feroz que los elefantes normales, con 
 esconderse, piernas poderosas y un recuerdo por el que morir.
 
 %%%%
-Dispater
-
-El señor de la Ciudad de Hierro de Dis.
-
-%%%%
-Dissolution
-
-Los Fosos Cenagosos solían albergar una pujante civilización, y Disolución era
-el profeta de su dios. Cuando la ciudad fue asaltada por su actuales moradores,
-solo Disolución consiguió salvarse, ya que él fue el único que abrazó la fe del
-Dios Mucilaginoso. Disolución se convirtió en una tremenda masa de efluvios
-ácidos, pero conservó su inteligencia. Rebosa de odio hacia cualquier cosa que
-tenga forma.
-
-%%%%
 djinni
 
 Un espíritu elemental formado por fuego sin humo.
 
 %%%%
-Donald
+oblivion hound
 
-{{
-    local descript = "Un aventurero al igual que tú, que intenta encontrar el
-Orbe."
-
-    if you.race() ~= "Merfolk" and you.race() ~= "Octopode" then
-        descript = descript .. " A diferencia de ti, y a"
-    else
-        descript = descript .. " A"
-    end
-
-    descript = descript .. " pesar de odiarla, se zambulle en el agua " ..
-                           "como una gallina."
-
-    return descript
-}}
+Un lapdog demonio de la reina de Tartarus, obligado a cazar a sus enemigos. La primera
+el tiempo que un enemigo escucha su aullido, Will eco en su mente, llamando marica nocturna
+criaturas para cazarlos. Los que sobreviven tienen el pequeño consuelo de ser
+inoculado contra el aullido de ese sabueso.
 
 %%%%
 dormant clockwork bee
 
 Un insecto mecánico alimentado por un conjunto intrincado de engranajes y resortes. Tiene
 huye del poder y sólo puede ser resonado por su creador moviéndose en él.
-
-%%%%
-Dowan
-
-Un apuesto pero vanidoso elfo con talento para la magia y poco más. Sus
-habilidades son el perfecto complemento para la destreza en el combate de su
-hermana gemela Duvessa.
 
 %%%%
 draconian
@@ -1073,13 +1545,6 @@ vivir ha torcido lentamente sus restos en una forma monstruosa, capaz de
 marcando armas y propagando maldiciones terribles.
 
 %%%%
-dread
-
-Una afrenta a la existencia, un vacío en el que sólo hay tormento y condenación.
-Su forma extraña es desgarrada y retorcida, negra y hueca. Es infalible.
-pensamiento racional, sabiendo sólo el odio y el deseo de profanar tu alma.
-
-%%%%
 dread lich
 
 Un lich que ha hecho pactos terribles con fuerzas demoníacas para aumentar su oscuridad
@@ -1106,23 +1571,10 @@ Un demonio connivado nacido de las pesadillas de magos dormidos. Se deleita en
 codificar los miedos imaginados de los mortales en realidad.
 
 %%%%
-drunken dwarf
-
-Un enano que parece estar trabajando como un probador de calidad de ale, y está disfrutando del
-trabajo demasiado.
-
-%%%%
 dryad
 
 Un espíritu de naturaleza, ligado al bosque en el que reside. Es capaz de
 exhortar a los árboles a defender contra las incursiones.
-
-%%%%
-Duvessa
-
-Una luchadora élfica aparentemente corriente, que es un genio en muchas formas
-de combate, aunque también demasiado confiada, por esta misma razón. Dowan, su
-hermano gemelo, le complementa con sus habilidades mágicas.
 
 %%%%
 dwarf
@@ -1135,25 +1587,6 @@ earth elemental
 Un espíritu sacado del plano elemental de la tierra. Existe en este mundo como un
 flujo sinuoso de silencia y piedra, capaz de fluir suavemente a través de sólido
 Rock.
-
-%%%%
-earth elementalist statue
-
-Una estatua llana de un enano que despega un pico. Parece increíblemente pesado.
-
-%%%%
-easy sensed monster
-
-Un monstruo débil cuya presencia ha sido revelada por el poder de Ashenzari.
-
-%%%%
-Edmund
-
-Un celoso hermano menor de Sigmund (de hecho, el menor de nueve hermanos). No
-tiene ninguno de los talentos de Sigmund para la magia, pero lo compensa con su
-destreza para la lucha y una astuta mente para el dinero. Está más que
-dispuesto a probar su superioridad matando a desventurados aventureros con su
-caro mayal y su mente despierta.
 
 %%%%
 efreet
@@ -1179,15 +1612,15 @@ Una parte de un inmenso y escamoso apéndice. Golpea y pulsa como no
 otro ser viviente.
 
 %%%%
-electric eel
-
-Un tipo de pescado capaz de generar un poderoso campo eléctrico.
-
-%%%%
 electric golem
 
 Una figura animada hecha completamente de electricidad, creada en algunos demente
 El experimento del mago.
+
+%%%%
+electric eel
+
+Un tipo de pescado capaz de generar un poderoso campo eléctrico.
 
 %%%%
 eleionoma
@@ -1228,13 +1661,6 @@ Un escorpión gigante con un enorme barb en su cola goteando mortal veneno. Es
 uno de los mayores arachnids conocidos.
 
 %%%%
-Enchantress
-
-Primero y más temeroso de su clase, el Enchantress rige sobre los esparcidores de
-the Dungeon. Lleva un traje opalescente hecho de piel de dragón que brilla
-con muchos colores.
-
-%%%%
 endoplasm
 
 Un glob de lodo gris que de alguna manera ha desarrollado una conciencia rudimentaria y
@@ -1246,22 +1672,6 @@ entropy weaver
 
 Un humanoide gaunt con chitin pálido y agitado. Sus extremidades son capaces de
 movimiento sorprendentemente rápido y terminar en talones de afeitar.
-
-%%%%
-Ereshkigal
-
-Un terrible archi-demonio que domina el mortal inframundo del Tártaro.
-
-%%%%
-Erica
-
-Una aventura salvaje. Ella es muy orgullosa de un Octopode, y brandishes
-su capacidad venenosa y talentos camuflados con fuerza cruel.
-
-%%%%
-Erolcha
-
-Una maga ogresa especialmente astuta.
 
 %%%%
 erythrospite
@@ -1277,12 +1687,6 @@ ettin
 
 Un gigante de dos cabezas, más fuerte que la mayoría, y capaz de aterrizar golpes devastadores dejó
 y con sus dos armas enormes.
-
-%%%%
-Eustachio
-
-Un aprendiz de convocador con un bigote ondeante. Tiene ideas divertidas acerca
-del honor.
 
 %%%%
 Executioner
@@ -1301,13 +1705,6 @@ eye of draining
 Un horror persistente, raro y antinatural incluso entre ojos servidores, irradiando
 energías calvasas. Ellos monitorean el flujo de la vida caótica y la muerte siempre presente
 para el divino Jiyva.
-
-%%%%
-Fannar
-
-Un hechicero de escoba, envuelto en túnicas de alto cargo. Ellos susurran
-sonríemente a ellos mismos mientras acechan the Dungeon, siguiendo cristales de hielo a través de los
-aire detrás de ellos.
 
 %%%%
 faun
@@ -1353,12 +1750,6 @@ Un espíritu sacado del plano elemental del fuego, que existe en este mundo como
 una brillante columna de llamas ardientes.
 
 %%%%
-fire elementalist statue
-
-Una estatua ornately trabajada de un orc sosteniendo una antorcha aloft, de negro
-basalto. El aire alrededor brilla.
-
-%%%%
 fire giant
 
 Un gigante con piel obsidiana y una manguera salvaje de pelo rojo brillante, sosteniendo a loft a
@@ -1371,11 +1762,6 @@ fire vortex
 Una nube agitada de llama. Después de golpear a un enemigo, se desintegra.
 
 %%%%
-flame-cult kobold
-
-Un Kobold que ha sido encantado de explotar en un incendio.
-
-%%%%
 flayed ghost
 
 Una horrible criatura no muerta flotante, el espíritu angustiado de una víctima torturada,
@@ -1383,15 +1769,18 @@ con la piel rota colgando de un cuerpo emaciado. Acecha incansablemente a los
 mazmorra, infligiendo la angustia que sentía en la vida sobre los que aún vivían.
 
 %%%%
-flesh golem
+fravashi
 
-Un montículo animado de carne mal formada, esculpido sobre un esqueleto de hierro.
+Un remanente benéfico de los innumerables caballeros mortales que sirven al Shining One.
+El papel de sus anfitriones en la jerarquía divina es guiar y dirigir sus legiones
+en la guerra moral justa, aunque también pueden invocar a esos mortales
+defenderse.
 
 %%%%
-fleshlord
+frilled lizard
 
-Uno de los mejores sirvientes del Meatlord. Es muscular, ágil y lleno de
-malevolencia.
+Un lagarto con una franja gigante y colorida doblada alrededor de su cuello. Se llama
+su impresionante frasco en sus víctimas mientras se acuesta con ira.
 
 %%%%
 formicid
@@ -1412,28 +1801,6 @@ Un poco de gas pantano en llamas. Will quema la primera cosa hostil
 toca y luego disipa.
 
 %%%%
-Frances
-
-Una fuerte guerrera que una vez derrotó a un poderoso señor del Pandemonio en
-combate, pasando a tener control de su reino y vasallos. La batalla le dejó una
-cicatriz profunda en su rostro, que exhibe como una medalla al valor más que
-como un motivo de vergüenza.
-
-%%%%
-fravashi
-
-Un remanente benéfico de los innumerables caballeros mortales que sirven al Shining One.
-El papel de sus anfitriones en la jerarquía divina es guiar y dirigir sus legiones
-en la guerra moral justa, aunque también pueden invocar a esos mortales
-defenderse.
-
-%%%%
-Frederick
-
-Un esbelto mago-guerrero que lleva un monóculo dorado y busca un oponente digno
-de él. Probablemente no cumples los requisitos.
-
-%%%%
 freezing wraith
 
 Forma esquelética incorpórea rodeada de una nube de aire congelado, probablemente la
@@ -1441,27 +1808,11 @@ restos de un aventurero desafortunado. Ahora flota lentamente a través de
 mazmorra, buscando compartir su destino con otros.
 
 %%%%
-friendly sensed monster
-
-Un monstruo amistoso cuya presencia ha sido   LUA0   .
-
-%%%%
-frilled lizard
-
-Un lagarto con una franja gigante y colorida doblada alrededor de su cuello. Se llama
-su impresionante frasco en sus víctimas mientras se acuesta con ira.
-
-%%%%
 frost giant
 
 Un gigante con piel azul y pelo como hielo y nieve. Sus ojos son tan sombríos como
 Cielos de invierno. Marcha en la batalla con un gran hacha y frosty
 ráfagas de frío.
-
-%%%%
-frost-covered statue
-
-Una estatua de un mago, con helada constantemente formando a través de su superficie.
 
 %%%%
 fulminant prism
@@ -1490,27 +1841,6 @@ gargoyle
 Una estatua de granito de un horrible monstruo alado, de alguna manera traído a la vida.
 
 %%%%
-Gastronok
-
-Una voraz babosa sorprendentemente inteligente, dedicada a devorar todo y a
-todo aquél que se encuentre a su paso, con un sombrero puntiagudo que lleva
-desenfadadamente encima de su cabeza. Consiguió el sombrero de la misma forma
-que consiguió su inteligencia y su conocimiento de la magia: consumiendo a su
-antiguo propietario, un poderoso mago.
-
-%%%%
-Geryon
-
-Un enorme, tres cabezas, ala de arque-demonio, guardián de los cuatro infiernos. Leyendas
-dice que su cuerno de plata puede llamar a bestias terribles para ayudarlo en la batalla.
-
-%%%%
-ghost
-
-Los restos de un monstruo que existió en una versión anterior, pero desde entonces ha sido
-Retirada.
-
-%%%%
 ghost crab
 
 Un cangrejo torcido por proximidad a energía negativa. Apariciones del swirl muerto
@@ -1523,11 +1853,6 @@ Un vile depredador interdimensional que se alimenta de la fuerza vital de los se
 Se asemeja a una enorme y espinosa polilla.
 
 %%%%
-ghost-faced bat
-
-Un murciélago con un visado espectral.
-
-%%%%
 ghoul
 
 Un cadáver decaído, reanimado y aterrado con un hambre terrible. Desea
@@ -1535,34 +1860,10 @@ nada más que alimentarse de la carne de los vivos, y Will cayó sus víctimas c
 sus garras viciosas.
 
 %%%%
-giant anaconda
-
-▪anaconda
-
-%%%%
-giga bat
-
-Un enorme bate hinchado.
-
-%%%%
 glass eye
 
 Un globo ocular flotante formado por vidrio vivo. Sólo la divina Jiyva podría formar
 un servidor tan curioso.
-
-%%%%
-globe of annihilation
-
-Una esfera rugiente de energías destructivas intensas, extraída de la tela de la
-Demonios. persigue un objetivo designado inexorablemente, creciendo en tamaño como
-viaja. Si choca con una criatura o una pared, explota Will
-violentamente - aunque su creador está protegido de la destrucción salvaje desatada
-como lo hace.
-
-%%%%
-Gloorx Vloq
-
-Una sombría figura inmersa en profundas tinieblas.
 
 %%%%
 glowing orange brain
@@ -1576,14 +1877,6 @@ glowing shapeshifter
 
 A Shapeshifter que ha perdido el control sobre sus transformaciones, y es
 constantemente cambiando de forma.
-
-%%%%
-glowmurk ghast
-
-Una aparición estremecedora y brillante de los muertos ahogados, repetidamente
-llamó a este avión por un experimento místico cruel. It Will share its memories
-y experiencias de ahogamiento en aguas contaminadas con lo que toque primero,
-Entonces disipa.
 
 %%%%
 gnoll
@@ -1605,6 +1898,23 @@ Un comandante de un paquete de gnolls. Las cicatrices en su cuerpo obstruido dan
 ganó su rango.
 
 %%%%
+globe of annihilation
+
+Una esfera rugiente de energías destructivas intensas, extraída de la tela de la
+Demonios. persigue un objetivo designado inexorablemente, creciendo en tamaño como
+viaja. Si choca con una criatura o una pared, explota Will
+violentamente - aunque su creador está protegido de la destrucción salvaje desatada
+como lo hace.
+
+%%%%
+glowmurk ghast
+
+Una aparición estremecedora y brillante de los muertos ahogados, repetidamente
+llamó a este avión por un experimento místico cruel. It Will share its memories
+y experiencias de ahogamiento en aguas contaminadas con lo que toque primero,
+Entonces disipa.
+
+%%%%
 goblin
 
 Un humanoide corto, impaciente y poco amistoso. Los duendes primero aparecieron sólo unos pocos
@@ -1619,12 +1929,6 @@ una carrera de armas experimental para la hegemonía goblin. Algunos voluntarios
 con otras especies, una alianza que ha permitido capturar y tamar wyverns.
 Desde lo alto de sus majestuosos montes de dragón, estos duendes se jactan rápidamente
 y asaltar a los que intruden en el dominio de sus aliados.
-
-%%%%
-goblin sharper
-
-Un duende recién convertido a Nemelex Xobeh. Todavía está aprendiendo sobre todo
-tarjetas y, afortunadamente, no está inclinado a usarlas en su contra.
 
 %%%%
 golden dragon
@@ -1645,27 +1949,11 @@ Una rana de tamaño excepcional, para una rana. Pone su presa con su lengua
 desde una distancia para cubrirlos en sus jugos de estómago ácidos.
 
 %%%%
-grandmaster elementalist
-
-- no
-
-%%%%
 great orb of eyes
 
 Una bola levitante, cubierta de ojos malignos y acolchada con eldritch
 energías. Muchos es el aventurero de la extremidad por su terrible
 Ojos.
-
-%%%%
-greater air elemental
-
-Un espíritu poderoso del plano elemental del aire, rodeado de un
-vórtice mortal de la helada.
-
-%%%%
-greater orb of eyes
-
-<great orb of eyes
 
 %%%%
 green death
@@ -1681,26 +1969,6 @@ Un humanoide musculoso a escala verde con cola reptiliana y alas pequeñas.
 grey draconian
 
 Un humanoide musculoso a escala gris con cola reptiliana y alas pequeñas.
-
-%%%%
-Grinder
-
-Un ineficiente diablillo de las sombras que previamente trabajaba como
-torturador en uno de los círculos menores del Infierno. Tiene tendencia a
-quejarse y a decir comentarios inanes.
-
-%%%%
-Grum
-
-Un gnoll de aspecto duro, que viste la piel de uno de sus antiguos perros de
-guerra.
-
-%%%%
-Grunn
-
-Un salvajemente retorcido Gnoll en el servicio eterno de Ereshkigal, señor de
-Tartarus. La leyenda tiene que él vendió su alma para devolver su más querida caza
-perro a la vida. Si ese sabueso es miembro de su paquete actual, nadie puede decir.
 
 %%%%
 guardian mummy
@@ -1729,12 +1997,6 @@ forzado a trabajar noche y día para anclarlos al mundo. Incluso después de la 
 de los gemelos divinos, trabaja para resucitar sus maestros caídos.
 
 %%%%
-Harold
-
-Un cazador de recompensas de mediana edad, contratado para asesinarte. Tiene
-prisa.
-
-%%%%
 harpy
 
 Una criatura como pájaro con un rostro humano que recorre las costas sin fin, temida
@@ -1747,10 +2009,10 @@ Un pedazo ordinario de armadura, mantenido en su agarre embrujado. Puede atacar 
 enemigos, pero debes regresar a tu lado si alguna vez te alejas demasiado lejos de ella.
 
 %%%%
-Head Instructor
+sin beast
 
-Un poderoso guerrero-mage que instruye a estudiantes aspirantes en física, mágica,
-y combate antimagical.
+Un bruto terrible de un demonio - tanto animal como persona. Nacido del residuo
+de depravación mortal, se sumerge en la malicia y la magia por igual.
 
 %%%%
 hell hog
@@ -1781,12 +2043,6 @@ Hell Sentinel
 
 Un imponente monolito construido y poseído por fuerzas demoníacas. Unos mil
 ojos miran lascivamente por las rendijas de su armadura dentada y espinosa.
-
-%%%%
-Hellbinder
-
-Un poderoso hechizo coronado en energías arcanas, murmurando profana
-encantamientos.
 
 %%%%
 hellephant
@@ -1854,11 +2110,6 @@ Una rara versión celestial de un animal sucia, dice ser un angelical
 ser quien sucumbió a la magia hostil.
 
 %%%%
-hornet
-
-Una hormiga zumbida con un hormiguero vicioso goteando con veneno paralítico.
-
-%%%%
 hound
 
 Un perro de caza temeroso, lamer y alerta.
@@ -1881,20 +2132,10 @@ trolls', son lo suficientemente largos para hacer lo mismo. Sólo un arma marcad
 cauterizar la herida y evitar que crezcan más cabezas.
 
 %%%%
-ice bat
-
-Una criatura no muerta en forma de murciélago, hecha de hielo.
-
-%%%%
 ice beast
 
 Una criatura terrible, formada de nieve y hielo cristalino. Sus pies dejan los charcos
 de agua helada en el suelo.
-
-%%%%
-Ice Devil
-
-Un demonio tan grande como una humana. Es cubierto en hielo.
 
 %%%%
 ice devil
@@ -1919,32 +2160,9 @@ Un ídolo imponente de un dios ártico sin nombre, tallado en glistente azul pro
 hielo. Freezing vapours swirl sobre él, y un escalofrío impregna el aire.
 
 %%%%
-Ignacio
-
-Un mortal no puede convertirse en demonio mientras que los dioses no
-intervengan, y esto fue lo que le sucedió a Ignacio cuando Makhleb vio su amor
-a su trabajo y le sonrió. Ahora está destinado a seguir con lo que le divertía
-por toda la eternidad.
-
-Aunque su nueva forma tiene varias cuchillas enormes saliendo de sus apéndices
-de demonio, todavía conserva su hacha favorita y está dispuesto a hacerte
-probar su filo.
-
-%%%%
 iguana
 
 Un lagarto verde con mandíbulas fuertes y dientes afilados, apreciado por su carne.
-
-%%%%
-Ijyb
-
-Un pequeño y retorcido goblin que viste harapos azules.
-
-%%%%
-Ilsuiw
-
-Un mortal Merfolk alambrado, que utiliza su dominio sobre las mareas para dibujar
-aventureros involuntarios a sus muertes.
 
 %%%%
 imperial myrmidon
@@ -1983,21 +2201,10 @@ Un enorme monolito oxidado, más grande que cualquier otra especie de gigante. S
 un golpe increíble.
 
 %%%%
-Iron Golem
-
-Una estatua grande, pesada y muy robusta, dada el poder de movimiento por
-esotéricos (y posiblemente a base de calabaza) medios.
-
-%%%%
 iron golem
 
 Una estatua grande, ponderada y muy sólida de metal, dada la potencia de
 Locomoción a través de algunos medios esotéricos.
-
-%%%%
-Iron Imp
-
-Un demonio feo y pequeño con piel metálica.
 
 %%%%
 iron imp
@@ -2037,17 +2244,17 @@ Orden Ironbound para reparar y aumentar los muchos constructos que ayudan a prot
 Vaults.
 
 %%%%
-ironbound preserver
-
-Una figura imponente y musculosa, capaz de salvaguardar a sus aliados desinteresadamente
-aceptar una parte de las lesiones infligidas sobre ellos.
-
-%%%%
 ironbound thunderhulk
 
 Una figura bruta, rápidamente acorazada en pedazos de cuero y metal para combatir
 un intruso temeroso. En su espalda es una antigua, arcana 'lugar de luz', que
 llama al trueno en enemigos distantes, aunque no puede alcanzar objetivos cercanos.
+
+%%%%
+ironbound preserver
+
+Una figura imponente y musculosa, capaz de salvaguardar a sus aliados desinteresadamente
+aceptar una parte de las lesiones infligidas sobre ellos.
 
 %%%%
 jackal
@@ -2061,23 +2268,6 @@ jelly
 Una masa pulsante de protoplasma ácido.
 
 %%%%
-Jeremiah
-
-Jeremías era un soñador pacífico, propenso a las siestas improvisadas. Se deslizaron en
-soñando con un viejo y odioso
-el poder los obliga al servicio. Ahora Jeremías tropieza a través de the Dungeon,
-buscando el precioso sueño que Will restaurar el poder de su maestro,
-inseguro si todavía despiertan o duermen. Sus sueños se filtran en la realidad
-la forma de una corriente constante de mariposas.
-
-%%%%
-Jessica
-
-Una malvada aprendiz de hechicera. Entró en el calabozo esperando encontrar un
-lugar tranquilo y apartado donde pudiera estudiar las artes oscuras sin ser
-molestada.
-
-%%%%
 jiangshi
 
 Un tórax vampírico atado en servidumbre por rituales esotéricos. Aunque su rígida
@@ -2085,42 +2275,10 @@ las extremidades le dan un dato incómodo, se mueve con velocidad sorprendente, 
 las víctimas y alejando su esencia de vida con sus garras viciosas.
 
 %%%%
-Jorgrun
-
-Un mago enano, particularmente bien dotado de the Dungeon alrededor de él. Él
-wields powerful magia de tierra in combat.
-
-%%%%
 jorogumo
 
 Un espíritu de araña que toma la apariencia de un humano. Teje magias mortales a
 incapacitar y matar a su presa.
-
-%%%%
-Jory
-
-El que fuera una vez un simple granjero, Jory se vio transformado en un
-poderoso no-muerto. A través de los incontables siglos desprovisto de vida ha
-entrenado sus habilidades en combate y en magia, amasado grandes riquezas y
-muchas posesiones.
-
-%%%%
-Joseph
-
-Parece un mercenario.
-
-%%%%
-Josephina
-
-Un necromante temeroso que siguió su artesanía más allá de los límites de la carne y
-vida. Su búsqueda del conocimiento demoníaco dejó su cuerpo arruinado, pero los poderes que ella
-Ganó le permitió reconstruir sus extremidades perdidas de hielo brillante.
-
-%%%%
-Josephine
-
-Un formidable necromancer, comprometido con su artesanía incluso después de dejarla envejecida,
-descomponerse, y media muerte ella misma.
 
 %%%%
 juggernaut
@@ -2136,12 +2294,6 @@ Una araña que teje telas entre sus patas delanteras y salta en su presa,
 ensnarlos. La velocidad con la que salta es casi sobrenatural.
 
 %%%%
-Khufu
-
-Un emperador increíblemente poderoso en el camino a la diosa. Murió bastante tiempo.
-pero no ve ninguna razón por la que debería detenerlo.
-
-%%%%
 killer bee
 
 Una abeja gigante, llevando un barbo mortal que puede picar repetidamente.
@@ -2152,12 +2304,6 @@ Killer Klown
 Una figura cómica llena de vida y de risas. Parece muy contento de verte...
 ¿pero acaso hay algo levemente malicioso en su proceder? ¿Su cara tiene pintura
 roja o es algo menos agradable?
-
-%%%%
-Kirke
-
-Un maestro de transformación y traición. Tenga cuidado, o puedes sea el siguiente cerdo
-para unirse a su manada!
 
 %%%%
 knight
@@ -2175,17 +2321,17 @@ sabe con seguridad de dónde vienen los kobolds, pero los viejos demonios, espí
 y extraños magos han sido sugeridos como culpables.
 
 %%%%
+kobold brigand
+
+A Kobold que es más grande y más duro que el Kobold ordinario, con un penchant
+por tácticas mal manejadas.
+
+%%%%
 kobold blastminer
 
 A Kobold, listo con múltiples armamentos para defenderse de los muchos
 peligros de the Depths. El cañón lleno de blastmote sobre su hombro lleva sus
 marca del fabricante, y es ferozmente leal; Will fuego para ninguno otro.
-
-%%%%
-kobold brigand
-
-A Kobold que es más grande y más duro que el Kobold ordinario, con un penchant
-por tácticas mal manejadas.
 
 %%%%
 kobold demonologist
@@ -2225,13 +2371,6 @@ ese desafío sanidad. Cada uno varía en velocidad, fuerza o resiliencia por
 la naturaleza de cualquier desafortunado se usó para hacerlo.
 
 %%%%
-large bag of meat
-
-Una de las legiones de abominaciones creadas por los escultores de la carne. Es...
-Hulk hinchada pulsa y tropieza constantemente con fuegos accursados. Parece como si
-podría explotar en un torrente de viscera en cualquier momento.
-
-%%%%
 laughing skull
 
 Una calavera veloz que se mete con la malicia de los muertos. Fond of
@@ -2249,14 +2388,6 @@ lemure
 
 Un alma accursada mágicamente ligada a la servidumbre infernal para el mejor postor.
 Si su maestro es asesinado, será liberado Will, dejando este reino con gratitud.
-
-%%%%
-Lernaean hydra
-
-Una bestia enorme, más poderosa de hidras, infame en el mito y la leyenda. Corrientes
-a través del agua más rápido que un humano puede correr, intercambiando árboles a un lado como
-Eran palillos. Sus muchas cabezas esclavista y rocia constantemente mientras caza
-para la presa para agitar su apetito sin fondo.
 
 %%%%
 lich
@@ -2283,20 +2414,6 @@ Un hechizo, esperando lanzarse en el primer enemigo que entra en su rango. Una v
 Sí, se disipará en el éter.
 
 %%%%
-Lodul
-
-Un emisario ogro de la Orden Ironbound, enviado para encontrar y detener intrusos antes
-entran en the Vaults. Fiercely carismático, ha reunido a un pequeño ejército de su
-parientes, superándolos con el rayo de largo alcance que lleva en su espalda.
-(La gran bolsa de monedas que tomó de the Vaults también es bastante persuasivo.)
-
-%%%%
-Lom Lobon
-
-Un antiguo y extrañamente sereno demonio. Te mira fríamente con el enorme y
-luminoso ojo que tiene en el centro de su frente.
-
-%%%%
 lost soul
 
 El eco de un alma inmortal. Aunque los recuerdos de su ser viviente son
@@ -2305,41 +2422,12 @@ se apodera del paso de otras almas, perdiendo los últimos vestigios de su ser
 en los recuerdos de la vida de otro.
 
 %%%%
-Louise
-
-Un hechicero inusualmente acorazado.
-
-%%%%
-lunar statue
-
-*Zot estatua
-
-%%%%
 lurking horror
 
 Una masa sin forma de energía negativa, obligada a traer terrible tormento una vez
 fuerzas que lo sostienen juntos se disuelven. La presencia alienígena de intrusos a los
 Abyss es seguro de desentrañarlo, pero parece perversamente atraído hacia ellos; todavía,
 Parece de alguna manera reacio a moverse mientras se observa.
-
-%%%%
-mad acolyte of Lugonu
-
-Un devoto seguidor de Lugonu, impulsado loco por años de vida en el Abyss.
-
-%%%%
-Maggie
-
-En un tiempo distante, Maggie fue aprendiz a los horribles Caballeros del Infierno - pero ella
-Creció impaciente. En busca de un atajo a la fama y la fortuna (y algo corto
-en la imaginación), entró the Dungeon y se puso a matar a un dragón. Ahora
-habiendo matado a uno, Maggie no ve ninguna razón para parar.
-
-%%%%
-malarious merfolk avatar
-
-Un joven Merfolk que se ve profundamente enfermo, pero todavía es capaz de bespelling su
-público.
 
 %%%%
 mana viper
@@ -2354,20 +2442,6 @@ manticore
 Una horrible raza cruzada, con las características de un humano y un león, con gran
 alas como murciélagos. Sus cerdas de cola con puntas que se pueden soltar en el potencial
 presa.
-
-%%%%
-Mara
-
-Este demonio alto y poderoso es Mara, Señor de las Ilusiones, poderoso entre los soñadores.
-Es capaz de crear ilusiones intrincadamente detalladas, tan reales que son
-casi tan mortal como las criaturas que imitan.
-
-%%%%
-Margery
-
-Una grácil y flexible hechicera. Apenas está vestida, aunque lo poco que lleva
-parece armadura de dragón de la más alta calidad, garantizando alta protección.
-Y distraer a humanoides masculinos también tiene su valor en combate, además.
 
 %%%%
 marrowcuda
@@ -2388,72 +2462,11 @@ sus recuerdos se han convertido en neblina, algo profundo aún los obliga a
 servir y sacrificar - no importa el costo.
 
 %%%%
-master elementalist
-
-Un mago dementedo que ordena las fuerzas primarias del universo.
-
-%%%%
-Maurice
-
-Un astuto y conspirador ladrón.
-
-%%%%
-meat beast
-
-Una de las legiones de abominaciones creadas por los escultores de la carne. Ablaze
-con frenesí demoníaca, se cierne y pisotea con ferocidad inigualable. Su piel es
-flayed, exponiendo los tendones glistentes y sinew debajo, y los dientes
-dentro de su mandíbula cavernosa están manchados de sangre.
-
-%%%%
-meat berserker
-
-Una de las legiones de abominaciones creadas por los escultores de la carne. Su forma
-es grande y musculoso. Se mueve rápidamente y con furia impetuoso, la suela
-pensó dentro de su ser rendiéndolos aparte con gran fervor. A medida que pasa,
-crea un din cacofónico.
-
-%%%%
-meat hydra
-
-Una de las legiones de abominaciones creadas por los escultores de la carne. Cada uno de
-sus ocho cuellos es desatendido y alargado, conectado a un cuerpo colosal
-y goteando con ichor. Sus muchas cabezas se derraman sangre mientras se revuelven
-convulsionando en la agonía, ya que trae tormento a sí mismo y cualquier otra cosa que
-ve su mal visado.
-
-%%%%
-megabat
-
-Un enorme bate negro.
-
-%%%%
 meliai
 
 Un híbrido nymphal, con un torso alado de un humano en la parte superior del abdomen picante
 de abeja. Los meliai sirven bajo muchos roles: sacerdotisas de la naturaleza, enfermeras a
 los divinos, y los campeones guerreros para sus colmenas.
-
-%%%%
-Menkaure
-
-Un justo y noble soberano de un antiguo y poderoso reino, momificado tras su
-temprana muerte. Sus fieles sacerdotes le infundieron gran y poderosa magia,
-pretendiendo concederle la vida eterna. Ahora ha quedado olvidado y reducido a
-vendajes enmohecidos y huesos secos y quebradizos.
-
-%%%%
-Mennas
-
-Hubo una vez un sacerdote humano llamado Mennas. Viajó a lo largo y a lo ancho
-predicando la palabra de Zin a cualquiera que quisiera escuchar, yendo incluso
-tan lejos como para adentrarse en tierras orcas, predicando a los orcos sobre
-leyes y misericordia. A los orcos no les hizo gracia alguna. Le pidieron que
-jurara que Beogh era el único dios verdadero y cuando Mennas permaneció callado
-le cortaron la lengua.
-
-Tanto si este ángel es o no el mismo Mennas es un misterio, pero parece que le
-cueste hablar.
 
 %%%%
 merfolk
@@ -2490,28 +2503,10 @@ merfolk siren
 Un engañoso Merfolk cuya voz puede fusionar a los oyentes.
 
 %%%%
-microbat
-
-Un bate que, a pesar de su nombre, no es más pequeño que un megabat.
-
-%%%%
 minotaur
 
 Un humano musculoso grande con la cabeza de un toro. Hace su hogar en un
 Gauntlet donde espera a los retadores dignos.
-
-%%%%
-Mlioglotl
-
-Un príncipe demonio poseía una vez un hambre de poder que era excepcional incluso por
-los estándares de su tipo. Traicionó su reino a Lugonu, y su recompensa fue
-para convertirse en esta masa retorcida de corrupción, ahora conocida sólo como Mlioglotl.
-
-%%%%
-Mnoleg
-
-Una figura extrañamente luminosa, danzando en los remolinos de aire del
-Pandemonio.
 
 %%%%
 molten gargoyle
@@ -2534,12 +2529,6 @@ Una serpiente cruzada, mezclando rasgos de dragones menores e innumerables otros
 criaturas que la naturaleza nunca pretendía interceder. Sus muchas extremidades aturdidas
 lucha para impulsar su cuerpo recubierto, mientras que su cabeza desbordada
 golpea con la presión de chocar con las armas respiratorias.
-
-%%%%
-moon troll
-
-Una raza extraña de troll inteligente, brillando con poder misterioso de más allá
-este mundo que lo protege del daño excepto a un rango cercano.
 
 %%%%
 morphogenic ooze
@@ -2580,11 +2569,6 @@ Un antiguo siervo de un dios olvidado, embalsamado y maldecido para entrar
 la muerte por toda la eternidad.
 
 %%%%
-Murray
-
-Un cráneo demoníaco rodando a lo largo del suelo.
-
-%%%%
 mutant beast
 
 Una criatura extraña, torcida y atormentada por exceso de exposición a la radiación mágica.
@@ -2616,11 +2600,6 @@ y magias simples que le permiten esnipear a objetivos en casi cualquier
 obstrucción.
 
 %%%%
-naga warlord
-
-▪Naga guerrero
-
-%%%%
 naga warrior
 
 Un temible guerrero se aferraba a la robusta armadura y usaba un arma poderosa.
@@ -2639,35 +2618,18 @@ que lo quitó de su casa. Estos horrores son a menudo el resultado de error
 convocar hechizos y haber matado a muchos aspirantes magos.
 
 %%%%
-nargun
-
-Una antigua criatura de piedra que ha vivido entre estas cuevas congeladas desde antes
-Antaeus rent Cocytus into being. Tolera a sus nuevos vecinos con aflicción,
-preferir la compañía de sus enemigos petrificados. Las verduras de hielo impregnan su
-carne de piedra congelada.
-
-%%%%
 nascent plasmodium
 
 Una colonia de moldes slime en una fase temprana de su ciclo de vida. Aún no lo suficientemente maduro
 para reproducirse, todavía puede defenderse disparando globs de ácido potente.
 
 %%%%
-nasty sensed monster
+nargun
 
-Un monstruo muy peligroso cuya presencia ha sido revelada por el poder
-Ashenzari.
-
-%%%%
-Natasha
-
-Un gato mágico que se mueve rápido. Una vez que un mago poderoso es familiar, Natasha era
-abandonado después de que su amo fue consumido por las fuerzas muy necrométicas que buscaba
-para controlar. Ahora ella patrulla the Dungeon, tomando una venganza sangrienta con hechizo
-y garra sobre cualquier aventurero que cruce su camino.
-
-Este gato no tiene nueve vidas, pero una muerte no va a ser suficiente
-para ponerla para siempre.
+Una antigua criatura de piedra que ha vivido entre estas cuevas congeladas desde antes
+Antaeus rent Cocytus into being. Tolera a sus nuevos vecinos con aflicción,
+preferir la compañía de sus enemigos petrificados. Las verduras de hielo impregnan su
+carne de piedra congelada.
 
 %%%%
 necromancer
@@ -2689,76 +2651,10 @@ con una estupidez brillante. Tiene un profundo desprecio por los humanoides mort
 compasión patrocinio para gatos mortales, y suficiente místico Might para subyugar ambos.
 
 %%%%
-Nellie
-
-Una elefante muy inteligente que viajaba formando parte de un circo. Una noche
-oscura se escapó de su cadena y desapareció en el Pandemonio, para no ser vista
-nunca más.
-
-%%%%
 neqoxec
 
 Un demonio de forma extraña, pulsando y cambiando con energías mutagénicas, su vientre
 devorado con los cerebros devorados de sus víctimas.
-
-%%%%
-Nergalle
-
-Una orca desgarrada y marchitada que ha dedicado su vida a la crónica de la sangre
-historia de su gente. Ella afirma conocer los nombres y hechos de cada último orc
-que perdió su vida en su gran éxodo en the Dungeon, e incluso si esto es
-una mentira, sin embargo parece estar en una base de primer nombre con muchos de ellos.
-
-Más que cualquier otro orco que aún respira, conoce la sangre y la sacrifica.
-tomó para hacer de este lugar un refugio para su tipo. Ella Will no brook it being
-inculcado por cualquiera, menos por ti.
-
-%%%%
-Nessos
-
-Un guerrero centauroso, experto en guerra y engaño. Mataron una poderosa hidra, y
-Ahora su sangre mortal gotea de sus flechas.
-
-%%%%
-Nikola
-
-Un científico brillante obsesionado con la electricidad. En su tentativa de
-perfeccionar su golem eléctrico, se vio envuelto en un terrible accidente, y
-ahora fluctúa en diferentes fases de la realidad.
-
-%%%%
-Nobody
-
-Un vengador perdido del tiempo, no se levantó de la muerte de un solo individuo sino de
-muchos - sus huesos fusionados entre los jóvenes y los ancianos y diferentes
-especie por completo. Ya sean todas las víctimas de una sola masacre o
-mil almas desechadas durante mil años es imposible de decir ahora;
-La historia no los recuerda.
-
-Pero una cosa es clara: ellos Will luchan para cambiar eso hasta cada último recuerdo
-han dejado quemaduras lejos.
-
-%%%%
-Norris
-
-Un culto al agua relajado con un bronceado saludable y una voz relajante. Él
-no le importa si es tú o el que muere — “ambos” probablemente sería el
-mejor opción.
-
-%%%%
-oblivion hound
-
-Un lapdog demonio de la reina de Tartarus, obligado a cazar a sus enemigos. La primera
-el tiempo que un enemigo escucha su aullido, Will eco en su mente, llamando marica nocturna
-criaturas para cazarlos. Los que sobreviven tienen el pequeño consuelo de ser
-inoculado contra el aullido de ese sabueso.
-
-%%%%
-observer
-
-Ves a los invisibles, miras y miran hacia atrás. Susurran y ríen,
-Griten y lloran, te miran con desprecio y te miran en adoración. Ellos
-son los observadores, son el juez de su valía y Will decide su fin.
 
 %%%%
 obsidian bat
@@ -2805,45 +2701,10 @@ Una planta muy peligrosa que se alimenta de depredadores rociando vitriol corros
 a ellos. Incluso los aventureros experimentados dan a las plantas de oklob una gran profundidad.
 
 %%%%
-oklob plant conjurer
-
-▪oklob planta annihilator
-
-%%%%
-oklob plant demonologist
-
-▪oklob planta annihilator
-
-%%%%
-oklob plant meteorologist
-
-▪oklob planta annihilator
-
-%%%%
-oklob plant shifter
-
-▪oklob planta annihilator
-
-%%%%
-oklob plant summoner
-
-▪oklob planta annihilator
-
-%%%%
 oklob sapling
 
 Una planta joven de Oklob. Es más frágil que el espécimen maduro, pero el ácido
 Es tan mortal.
-
-%%%%
-oklob sapling priest
-
-Una planta de oklob inmaduro que parece estar murmurando algunas orisones... ¿Qué?
-
-%%%%
-oklob sapling wizard
-
-▪oklob planta annihilator
 
 %%%%
 oni
@@ -2878,13 +2739,6 @@ mentes de cualquiera que se acerque.
 orange demon
 
 Un demonio de color ámbar con cola de púas no a diferencia de un escorpión.
-
-%%%%
-orb golem
-
-Un golem metálico con energías mágicas. Debe haber sido creado por
-un mago realmente desviado, o posiblemente alguien que vio a los monstruos
-se encuentra en el Reino de Zot.
 
 %%%%
 Orb Guardian
@@ -3005,21 +2859,6 @@ Un formidable señor demonio habitando los interminables pasillos de Pandemonium
 es diferente, con su propio conjunto de puntos fuertes y débiles.
 
 %%%%
-Parghit
-
-Un trol inusualmente fuerte, su grueso marco escarpado por muchos contra-los-odds
-victorias. He has been wounded so many times that his body has adapted, and now
-cura casi al instante. Su collar de garras es un recuerdo de aquellos que
-Lo subestimó.
-
-%%%%
-Pargi
-
-Un troll inusualmente delgado.
-
-Sientes algo en la boca de tu estómago.
-
-%%%%
 peacekeeper
 
 Un constructo humanoide de cuatro patas, encargado de recapturar prisioneros fugados y
@@ -3070,26 +2909,6 @@ une las almas de sus aliados cuando mueren, permitiéndoles luchar después de l
 como simulacra.
 
 %%%%
-phase bat
-
-Un extraño y brillante murciélago que atraviesa más dimensiones que el promedio
-bat.
-
-%%%%
-phase spider
-
-Una araña de otro mundo que puede mover distancias cortas y medias por brevemente
-cambiar entre los planos de la realidad, para ensarmar mejor su presa.
-
-%%%%
-Pikel
-
-Un sabio Kobold temería a las fuerzas del infierno, y ciertamente no establecería un
-comercio transdimensional altamente lucrativo en almas condenadas. Pero Pikel es mejor
-conocido por su látigo que su sabiduría, atormentando sin piedad sus cargos piadosos
-mientras los ferries a sus compradores.
-
-%%%%
 pile of debris
 
 Un trabajo de piedra muy roto, rodeado de escombros.
@@ -3106,7 +2925,7 @@ mago ausente.
 pillar of rime
 
 Una aguja de hielo extrañamente tenebroso, sus frágiles zarcillos alcanzando el cielo como
-los dedos de una mano estirada.   LUA0 
+los dedos de una mano estirada.   LUA0
 
 %%%%
 pillar of salt
@@ -3158,23 +2977,6 @@ criaturas de los misiles, causando el hongo y el hechizo por igual para alejarse
 el último momento.
 
 %%%%
-Polyphemus
-
-Un pastor cíclope, celoso guardián de su rebaño al que vigila con incansable
-fervor mediante su único ojo masivo.
-
-%%%%
-Prince Ribbit
-
-Una rana de tamaño inusual, con una pequeña corona encaramada incongruentemente sobre su cabeza.
-
-%%%%
-pristine statue
-
-Una estatua de porfiria esculpidamente esculpida de un arquero a punto de lanzar un perno,
-con una palanca completa en la cadera.
-
-%%%%
 profane servitor
 
 Un ser blasfemo que fue un ángel de la Shining One. Ahora está de pie
@@ -3196,15 +2998,15 @@ estos seres insondablemente antiguos, y cuando ellos mismos finalmente cesan,
 sus restos Will dan a luz una última vez a monstruos furiosos.
 
 %%%%
-purple draconian
-
-Un humanoide musculoso a escala púrpura con cola reptiliana y alas pequeñas.
-
-%%%%
 putrid mouth
 
 Un espíritu hambriento cuya boca es un foso de Rot, emitiendo vapores viles. Su putrid
 la vaca no puede comer la comida que encuentra, por lo que geme con rabia y hambre desparada.
+
+%%%%
+purple draconian
+
+Un humanoide musculoso a escala púrpura con cola reptiliana y alas pequeñas.
 
 %%%%
 queen bee
@@ -3243,12 +3045,6 @@ Un sacerdote retorcido, unas túnicas una vez finas ahora llenas de sal y polvo.
 los dioses, ahora depende de construcciones para protegerse.
 
 %%%%
-raiju
-
-Un sabueso profundamente antinatural, rompiendo con la electricidad. Viaja en paquetes,
-y cubre grandes distancias al irrumpir en un rayo viviente.
-
-%%%%
 rakshasa
 
 Un demonio maneater, bestial y malformado, en busca de poder oculto y
@@ -3261,11 +3057,10 @@ rat
 Un roedor sucio que ha crecido grande y agresivo en el entorno the Dungeon.
 
 %%%%
-raven
+raiju
 
-Un corvicio negro con un pico desagradable y una reputación de heraldo mala suerte.
-La mayoría de los ornitólogos consideran este estereotipo sin base; el resto sigue siendo
-recuperarse de una serie de accidentes increíblemente improbables.
+Un sabueso profundamente antinatural, rompiendo con la electricidad. Viaja en paquetes,
+y cubre grandes distancias al irrumpir en un rayo viviente.
 
 %%%%
 reaper
@@ -3284,6 +3079,18 @@ víctimas con barbs dolorosos.
 red draconian
 
 Un humanoide a escala roja con cola reptiliana y alas pequeñas.
+
+%%%%
+hornet
+
+Una hormiga zumbida con un hormiguero vicioso goteando con veneno paralítico.
+
+%%%%
+raven
+
+Un corvicio negro con un pico desagradable y una reputación de heraldo mala suerte.
+La mayoría de los ornitólogos consideran este estereotipo sin base; el resto sigue siendo
+recuperarse de una serie de accidentes increíblemente improbables.
 
 %%%%
 redback
@@ -3337,14 +3144,6 @@ de los mismos lodos que le dieron a luz, buscando presa exótica de la cual
 a la magia de la novela.
 
 %%%%
-Robin
-
-Un hobgoblin de montaña, recientemente viene en busca de la legendaria Orb. No
-tonto o imprudente lo suficiente para entrar en the Depths de the Dungeon solo,
-Robin ha construido un pequeño ejército de mineros. Competidores potenciales Will rápidamente
-encontrar una corriente de Screaming duendes volando hacia ellos!
-
-%%%%
 rock fish
 
 Un extraño pez de piedra que nada a través de roca sólida con la misma facilidad
@@ -3358,17 +3157,6 @@ Sólo consume el metal y el hueso de sus víctimas, usándolos para reforzar
 incluso más lejos.
 
 %%%%
-rotten bat
-
-Un murciélago que supera su fecha de venta.
-
-%%%%
-Roxanne
-
-Una estatua de zafiro impresionantemente realista de un famoso sabio de tierra que desapareció
-después de un ataque catastrófico con un talismán mágico.
-
-%%%%
 Royal Jelly
 
 Una cosa gelatina particularmente rica y dorada. Los gelatinas más pequeños nadan y pulsan
@@ -3379,12 +3167,6 @@ royal mummy
 
 Un faraón antiguo, embalsamado y maldecido a la muerte, ahora capaz de grande y
 Terribles hazañas de magia.
-
-%%%%
-Rupert
-
-Un tipo con muy malos modos cuyos rugidos causan la envidia incluso de los
-ogros.
 
 %%%%
 rust devil
@@ -3406,12 +3188,6 @@ sacred lotus
 Una floración grande y vívida que brota plácidamente sobre la superficie del agua. El
 cuna de los pétalos del loto brillan con eternidad y elegancia - mientras que es
 totalmente inofensivo, tomaría un esfuerzo inmenso para destruirlo.
-
-%%%%
-Saint Roka
-
-Un poderoso señor de la guerra. Algunos orcos llegan incluso a decir que él es
-El Elegido de Beogh.
 
 %%%%
 salamander
@@ -3453,12 +3229,6 @@ carapace, su cola está teñida por una picadura venenosa, y sus antebrazos son
 equipado con un par de garras afiladas.
 
 %%%%
-scourge
-
-Una gran forma serpentina con piel cruda y enferma, bilis y pus,
-salpicando veneno y luz.
-
-%%%%
 scrapshell chimera
 
 Un motor vivo de carne animal acuática fusionado con una masa colosal de embrujado
@@ -3479,15 +3249,6 @@ scrub nettle
 
 Un arbusto irritable. Se trata de cualquier cosa que Might se enciende sobre ella por
 lanzando algunos de sus innumerables cabellos de hormigueo tóxico.
-
-%%%%
-sculptor of flesh
-
-Un artesano de la vida, el escultor aparece como una forma esquelética. Tiene seis
-brazos largos que terminan en manos mangleses con dedos rotos, sobre los cuales se arrastra
-como una araña. Su cráneo es anormalmente grande y lleno de agujeros. Sus huesos
-enrojecido y fracturado, inscrito con los hechizos impíos que teje para ensamblar
-sus títeres.
 
 %%%%
 sea snake
@@ -3516,40 +3277,10 @@ el recién nacido puede dar a todos menos a los más ambiciosos de los monstruos
 comida más fácil.
 
 %%%%
-sensed monster
-
-Un monstruo hostil cuya presencia ha sido detectada.
-
-%%%%
 seraph
 
 Un siervo de seis años de los buenos dioses, del rango más alto del angelical
 anfitriones. Sus ojos se queman con fuego divino.
-
-%%%%
-Serpent of Hell cocytus
-
-Un enorme dragón blanco de tres cabezas, cubierto de fragmentos de hielo brillante,
-totalmente poseído por el frío de noche de Cocytus.
-
-%%%%
-Serpent of Hell dis
-
-Una enorme bestia de tres cabezas con el valor de espadas de un ejército para los dientes. Cada uno de
-sus escamas es un escudo con un borde razored.
-
-%%%%
-Serpent of Hell gehenna
-
-Un dragón enorme, regodeante, de tres cabezas, envuelto en condenación. Es
-poseído por la esencia misma de Gehenna y su fuego eterno.
-
-%%%%
-Serpent of Hell tartarus
-
-Parece que tres pares de lurid magenta ojos colgando en la oscuridad, los
-Esbozo de un gran dragón sinuoso es apenas perceptible detrás. Su malicia
-Es palpable.
 
 %%%%
 servant of whispers
@@ -3572,6 +3303,14 @@ Una silueta sin rasgos de su propio cuerpo, moviéndose independientemente a tra
 poder divino de Dithmenos. No importa cuántas veces se golpee, es Will
 reforma en sí misma, porque una sombra es inextinguible siempre y cuando lo castigue
 restos.
+
+%%%%
+shadowghast
+
+Una aparición que se disfraza como una sombra inofensiva. Attuned to the
+dim light of the Dungeon, it can slip in and out of sight at Will, moving
+rápidamente de una piscina de sombra a la siguiente antes de golpear infaliblemente en la
+manchas ciegas de aquellos que no pueden verlo.
 
 %%%%
 shadow demon
@@ -3619,14 +3358,6 @@ Una sombra esquelética malvada, colgando en el aire. Se desacelera el
 fuerza de vida de seres vivos.
 
 %%%%
-shadowghast
-
-Una aparición que se disfraza como una sombra inofensiva. Attuned to the
-dim light of the Dungeon, it can slip in and out of sight at Will, moving
-rápidamente de una piscina de sombra a la siguiente antes de golpear infaliblemente en la
-manchas ciegas de aquellos que no pueden verlo.
-
-%%%%
 shambling mangrove
 
 Un manglar gruñón, poseído de salpiencia y una disposición cantante. Es...
@@ -3668,18 +3399,6 @@ en sí mismo, tratando el daño y empujarlos hacia atrás.
 No bloquea la línea de fuego de sus aliados.
 
 %%%%
-sickly merfolk siren
-
-Un joven Merfolk que se ve bastante enfermo, pero todavía tiene el poder de fundir su
-víctimas.
-
-%%%%
-Sigmund
-
-La pesadilla de todos los aventureros jóvenes, Sigmund combina ilusiones de
-grandeza con sucias tácticas.
-
-%%%%
 silent spectre
 
 Un espÃ ritu espantoso que trae un silencio descaradamente a la zona que la rodea,
@@ -3692,22 +3411,10 @@ simulacrum
 Una réplica helada de un monstruo, animado por magias heréticas.
 
 %%%%
-sin beast
-
-Un bruto terrible de un demonio - tanto animal como persona. Nacido del residuo
-de depravación mortal, se sumerge en la malicia y la magia por igual.
-
-%%%%
 sixfirhy
 
 Una pequeña criatura vile que se mueve en ráfagas, parando luego atreviéndose con
 velocidad de relámpago. Se pulveriza como va.
-
-%%%%
-skeletal bat
-
-Un esqueleto de murciélago sin la decencia de mentir inmóvil como murciélagos muertos se supone
-a.
 
 %%%%
 skeletal warrior
@@ -3795,20 +3502,6 @@ Una testudina beligerante con un carapace blindado. Su cuello es sorprendente
 extensible y puede llegar y picar desde lejos.
 
 %%%%
-Snorg
-
-Un troll particularmente corpulento con poco temperamento y una importante
-tripa. Sin ningún interés en el Orbe, Snorg se deleita con el sin fin de
-aventureros — esto es, platos fáciles — a los que atrae.
-
-%%%%
-Sojobo
-
-Reina de la Tengu, con habilidad legendaria en la espada, tácticas y magia.
-Los narradores dicen que una vez atrapado una tempestad en una botella y la mantuvo
-como un talismán.
-
-%%%%
 solar ember
 
 Un foso de luz intensa y calor manifestado por un escarabajo del sol. Está ligada a
@@ -3817,18 +3510,6 @@ otra vez cuando se apaga.
 
 Algunos mitos incluso afirman que el sol que brilla sobre el mundo exterior era
 una vez llevado por un escarabajo.
-
-%%%%
-Sonja
-
-Una grácil asesina kobold. ¡Admira sus airosas piruetas, emocionate con sus
-atrevidos saltos! El espacio alrededor del filo de su arma parece fluctuar
-ligeramente por un momento... o, ¿es que realmente fluctua?
-
-Su sombrío cuerpo de can, ocultado amablemente por el holgado atuendo de color
-verde, contrasta con sus decididos ojos, que otean las inmediaciones desde la
-sombra creada por el borde superior de su capa del color del berilo. Las fosas
-nasales que se asoman en la punta de su hocico palpitan de entusiasmo.
 
 %%%%
 soul eater
@@ -3862,11 +3543,6 @@ vortices.
 spatial vortex
 
 Un giro locamente cambiante en el tejido de la realidad.
-
-%%%%
-spectator
-
-A follower of Okawaru, granted the honour of spectating a duel to the death.
 
 %%%%
 spectral thing
@@ -3912,11 +3588,6 @@ spriggan air mage
 Una mágica dependencia Spriggan bendecida con los secretos de los vientos.
 
 %%%%
-spriggan baker
-
-A Spriggan que ha dominado las artes culinarias.
-
-%%%%
 spriggan berserker
 
 Un Spriggan relativamente poderoso que se hunde imprudentemente en combate.
@@ -3939,14 +3610,6 @@ spriggan rider
 
 A Spriggan que ha domado a una hornet como su montaje, y se encarga de proteger
 el Spriggan fens and cairns from intruders.
-
-%%%%
-Sprozz
-
-Un antiguo aprendiz de apicultor con un ambicioso sueño: modernizar todo
-industria mundial de apicultura con la seguridad suave del metal resistente a enfermedades.
-Sus métodos pueden ser cuestionables y sus objetivos dudosos, pero su prototipo
-Stinger todavía se ve muy fuerte...
 
 %%%%
 stack of scrap
@@ -3996,13 +3659,6 @@ Un pedazo de granito esculpido con ojos rojos brillantes. Aunque está arraigada
 base, todavía puede mover partes de sí mismo.
 
 %%%%
-Statue of Wucad Mu
-
-Una estatua hecha de un cristal naranja de vidrio fino. Representa un místico conocido como
-Wucad Mu, que dominaba los asuntos de la mente, y está impregnado con Wucad Mu
-poderes de combate mental.
-
-%%%%
 steam dragon
 
 Un dragón gris relativamente pequeño, con un cuero escamoso de aspecto resistente y vapor
@@ -4039,11 +3695,6 @@ Una extraña contracción mecánica, todo el suyo y pops. Las sombras parecen ba
 en su superficie reflectante.
 
 %%%%
-sulphuric acid blob
-
-identificado
-
-%%%%
 sun demon
 
 Una figura demoníaca brillando con el calor y la furia de una estrella caída.
@@ -4074,18 +3725,18 @@ swamp worm
 Un gusano muy delgado, adepto para atravesar pantanos y pantanos.
 
 %%%%
+tarantella
+
+Una araña pequeña pero muy temida. Su tacto solo hace que las víctimas entren
+un baile frenético.
+
+%%%%
 tainted leviathan
 
 Antes incluso los antiguos liches dominaban la vida y la muerte, un grupo de
 Los titanes intentaron liberarse de la mortalidad mediante la fuerza bruta.
 Casi tuvieron éxito antes de Rot los arrastró a Ereshkigal. Un brillo de su
 antiguos restos de belleza, a pesar del hedor.
-
-%%%%
-tarantella
-
-Una araña pequeña pero muy temida. Su tacto solo hace que las víctimas entren
-un baile frenético.
 
 %%%%
 telencephalon
@@ -4144,49 +3795,16 @@ Una mandíbula exuberante brotó en una masa de tentáculos sinuosos. Al detecta
 tentáculos Lunge hacia fuera, arrastrando a las víctimas directamente a su gullet de espera.
 
 %%%%
-Terence
+thrashing horror
 
-Un violento asesino que mata tanto por placer como por interés, Terence se vio
-obligado a esconderse después de que uno de sus trabajos le saliera torcido, y
-no puede permitir que alguien que le haya visto salga vivo del calabazo — hay
-una recompensa por su cabeza, después de todo.
+Una masa vertiginosa de carne amarilla. Golpea erráticamente, monstruos escalofriantes
+bajo el peso de sus impactos.
 
 %%%%
-The Captor
+titan
 
-Los que entran no escapan.
-
-%%%%
-The Defiler
-
-Su escudo está emblazado con imágenes de llamas infernales.
-
-%%%%
-The Meatlord
-
-Ustedes contemplan la encarnación de la suciedad, la corrupción y la depravación: el Meatlord. Su
-cuerpo foul está hinchado al extremo, filtrando fluido viscoso y el hedor de
-muerte. Su cabeza es la de un jabalí con ojos abultados y tusks divididos en dos, su
-bengalas y onzas mientras él ronca y chilla a la vista de tú, y sus
-boca es un grifo sin dientes que drools piscinas de sangre y vómitos adelante
-restos repugnantes. Su cuello está estirado y afloja hacia adelante, su piel agitada
-Hacia abajo. Su inmensa tripa dobla y distorsiona como las larvas dentro esperan a sus
-liberación repugnante. Sus piernas son masas de carne irreconocibles, cubiertas de
-protrusiones y golpes. Tu mente se inclina ante la vista de este horrible
-forma, y tus sentidos comienzan a cerrarse en un intento de preservar tu cordura
-mientras te ahogas en el olor opresivo.
-
-%%%%
-The Servant
-
-Su glaive es una luz con las llamas del infierno.
-
-%%%%
-The Unspeakable
-
-Ustedes escuchan los ecos de los planetas detrás del rugido ensordecedor de las estrellas como
-enfoques. Es la mandíbula de la Abyss. Trae el caos arrastrado de
-dentro. Es la última vista que ves.
+Un humanoide enorme, relámpago y relámpago. Es inusualmente grande y
+poderoso, incluso entre gigantes.
 
 %%%%
 thermic dynamo
@@ -4203,24 +3821,6 @@ criaturas con sus espinas de afeitar.
 
 Cuando se lesiona o se acerca por enemigos, incluso puede levantar estos brambles como un
 barricada alrededor de sí misma.
-
-%%%%
-thrashing horror
-
-Una masa vertiginosa de carne amarilla. Golpea erráticamente, monstruos escalofriantes
-bajo el peso de sus impactos.
-
-%%%%
-Tiamat
-
-El avatar terrenal de Tiamat, deidad de la humanidad del dragón, aquí encarnado como un poderoso
-Draconian guerrero. Sus básculas parecen brillar y cambiar el color mientras miras.
-
-%%%%
-titan
-
-Un humanoide enorme, relámpago y relámpago. Es inusualmente grande y
-poderoso, incluso entre gigantes.
 
 %%%%
 toadstool
@@ -4249,21 +3849,9 @@ aventureros incansables, dejándoles presa fácil por su aterrador, siempre cruj
 Radulae.
 
 %%%%
-tough sensed monster
-
-Un monstruo algo peligroso cuya presencia ha sido revelada por el poder de
-Ashenzari.
-
-%%%%
 training dummy
 
 Un maniquí utilizado para la práctica de la batalla.
-
-%%%%
-trivial sensed monster
-
-Un monstruo trivialmente débil cuya presencia ha sido revelada por el poder de
-Ashenzari.
 
 %%%%
 troll
@@ -4281,13 +3869,6 @@ two-headed ogre
 
 Un enorme ogro con dos cabezas encima de su cuerpo hinchado. Es capaz de sostener
 un arma en cada mano gigante.
-
-%%%%
-tyrant
-
-Una masa colosal de huesos y cráneos, una tumba caminando. Oíste chillidos.
-grita mientras se acerca, rompiendo los huesos con cada paso de trituración,
-resucitarse en un eterno malestar.
 
 %%%%
 tyrant leech
@@ -4309,6 +3890,13 @@ Un demonio menor conversador y tímido. Se deleitan al pasar y
 atrasando su presa.
 
 %%%%
+undying armoury
+
+Una tempestad agitada de almas y acero: caballeros y herreros y
+armadores, todos vinculados a las armas que una vez tuvieron en la vida. Luchar uno es como
+luchando contra todo un ejército.
+
+%%%%
 ugly thing
 
 Un cosa horrible. Según la leyenda, es el otro mundo de un mago
@@ -4324,31 +3912,10 @@ tierra y comando divisiones de manos zombificadas para ayudarles a robar
 carriona, y también puede crear violentamente nuevos cuerpos para tales fines.
 
 %%%%
-undying armoury
-
-Una tempestad agitada de almas y acero: caballeros y herreros y
-armadores, todos vinculados a las armas que una vez tuvieron en la vida. Luchar uno es como
-luchando contra todo un ejército.
-
-%%%%
 unseen horror
 
 Una criatura raramente vista por alguien; aquellos pocos que han visto uno prefieren
 No lo había hecho. Se mueve erráticamente.
-
-%%%%
-Urug
-
-Un tosco y larguirucho orco. Urug perdió un ojo en un combate contra una
-harpía, y juró exterminarlas a todas. Desgraciadamente, la visión con el ojo
-que le queda no es muy buena y te ha confundido con una de ellas.
-{{
-    if you.can_smell() then
-        return "Huele fatal."
-    else
-        return ""
-    end
-}}
 
 %%%%
 ushabti
@@ -4395,20 +3962,9 @@ rebelde y pestilente insecto sin muerte, buscando Drain sus víctimas al último
 gota.
 
 %%%%
-Vashnia
-
-Una elite Marknaga que lidera un equipo experto de punteros. Ella es
-particularmente hábil en la magia de translocación.
-
-%%%%
 vault guard
 
 Un guardián fuertemente armado y blindado de the Vaults.
-
-%%%%
-vault guard captain
-
-- no
 
 %%%%
 vault sentinel
@@ -4430,12 +3986,6 @@ Un muy cosa horrible. Según la leyenda, es el otro mundo desove de un
 El experimento de crianza del mago. ¡Doble cabrón!
 
 %%%%
-vile
-
-Una figura emaciada rebosante de condenación y peste. Su apariencia
-significa el fin de los días.
-
-%%%%
 vine stalker
 
 Una criatura simbiótica extraña, compuesta de una vid carnívora mágicamente combinada
@@ -4450,20 +4000,21 @@ comprar allí e incluso el contacto momentáneo con él puede dejar grandes hech
 disminuido.
 
 %%%%
-Vv
-
-Uno de los Stoneborn, formaron aeones indecibles hace con el mando supremo sobre la roca.
-Su gente se refugia profundamente dentro de la tierra viva, así que lo que sea que haya forzado a Vv
-en la apertura opresiva de the Dungeon debe ser muy grave. Pero lo que sea
-No está hablando...
-
-%%%%
 walking alembic
 
 Una manufactura alquímica portátil y capaz de combatir que utiliza la fricción
 combate melee para elaborar una variedad de pociones útiles. Cuando se ha construido lo suficiente
 calor para completar su síntesis, Will automáticamente dispensa el acabado
 pociones a aliados cercanos y desmoronarse.
+
+%%%%
+walking earthen tome
+
+Un libro de hechizos que ha pasado demasiado tiempo sin ser leído. Se desborda con magia,
+formando una armadura gruesa de su unión, piernas de sus páginas, y periódicamente
+erupción en las corrientes de hechizos auto-flotantes y libres.
+
+Está recubierto con polvo imposiblemente antiguo.
 
 %%%%
 walking crystal tome
@@ -4482,15 +4033,6 @@ formando una armadura gruesa de su unión, piernas de sus páginas, y periódica
 erupción en las corrientes de hechizos auto-flotantes y libres.
 
 Su cubierta lleva el icono de un dios olvidado por mucho tiempo, todavía plenamente poseído de la ira.
-
-%%%%
-walking earthen tome
-
-Un libro de hechizos que ha pasado demasiado tiempo sin ser leído. Se desborda con magia,
-formando una armadura gruesa de su unión, piernas de sus páginas, y periódicamente
-erupción en las corrientes de hechizos auto-flotantes y libres.
-
-Está recubierto con polvo imposiblemente antiguo.
 
 %%%%
 walking frostbound tome
@@ -4516,15 +4058,15 @@ innatamente curioso e increíblemente tímido, persiguiendo los objetos de su cu
 cuando fuera de vista. Esporas nocivas derivan alrededor de su capa.
 
 %%%%
+warg
+
+Un lobo particularmente mal parecido, generalmente encontrado en la compañía de orcos.
+
+%%%%
 war gargoyle
 
 Un tipo raro de gárgola, construido a partir de una estatua de acero sólido e imbuido con
 fuerza viciosa, velocidad y aliento armado.
-
-%%%%
-warg
-
-Un lobo particularmente mal parecido, generalmente encontrado en la compañía de orcos.
 
 %%%%
 water elemental
@@ -4532,12 +4074,6 @@ water elemental
 Un espíritu sacado del plano elemental del agua. Existe en este mundo como
 parte de un cuerpo de agua y puede envolver a otros seres en su forma, privándolos
 de aliento y voz.
-
-%%%%
-water elementalist statue
-
-Una estatua suave de una hermosa Merfolk bañarse en una fuente, esculpida
-Travertino cremoso y rosado. brilla suavemente en la luz.
 
 %%%%
 water moccasin
@@ -4584,13 +4120,6 @@ Un antiguo guerrero, mantenido en un estado de eterna muerte por su deseo de mor
 con honor en batalla.
 
 %%%%
-Wiglaf
-
-Un enano cantante usando un sombrero de aspecto estúpido. Él te mira adormecidamente, como si
-decidir exactamente cuánto delito debe llevar a la forma en que estás mirando
-Es.
-
-%%%%
 will-o-the-wisp
 
 Una entidad gaseosa de guante verde, parpadeando y pulsando irregularmente a medida que salta
@@ -4602,18 +4131,6 @@ wind drake
 
 Un pequeño pero poderoso dragón, particularmente adepto entre sus parientes para manipular
 las corrientes de aire que la rodean. Puede exhalar fuertes ráfagas de viento.
-
-%%%%
-witch
-
-Un viejo y antinaturalmente feo humano, usando túnicas manchadas con lo que parece
-ser aceite de pantano, hollín de cauldron e ingredientes de la cerveza.
-
-%%%%
-withered plant
-
-Una planta cuya vida ha sido drenada, pero con su forma física todavía
-intacto. Parece que murió hace muchos   LUA0  .
 
 %%%%
 wolf
@@ -4634,21 +4151,10 @@ volviéndose a la niebla. Cuando se amenaza, llama a las criaturas desterradas
 el vacío entre las realidades, usándolas para defenderse.
 
 %%%%
-worm
-
-Un annelido gigante, brillando con el limo, con dientes inusualmente grandes.
-
-%%%%
 wraith
 
 Una nube de niebla negra que rodea una forma esquelética insustancial. Sus ojos se queman
 brillante con malevolencia y hambre para la esencia de la vida, en la que se alimenta.
-
-%%%%
-wretched soul
-
-Un espectro, luchando por dejar el mundo mortal en el que está encarcelado. It
-drena la vida y la vida de todos los que entra en contacto.
 
 %%%%
 wretched star
@@ -4671,38 +4177,6 @@ wyvern
 
 Una criatura como dragón con una cola larga y aguda. Aunque más pequeño y
 menos formidable que los verdaderos dragones, sin embargo es un enemigo con el que ser contado.
-
-%%%%
-Xak'krixis
-
-Han pasado siglos desde que los forasteros tuvieron acceso a la caverna
-bibliotecas de los formicidas, pero sus emisarios todavía son vistos de vez en cuando
-tiempo - encuestar otras tierras para recursos o descubrimientos científicos que Might
-ayudar a la colonia.
-
-Este estudio de las fibras mágicas excretadas por las arañas de orbe ya ha liderado
-a un avance alquímico, permitiéndoles formar prismas fulminantes tales que
-sus explosiones están dirigidas a enemigos solos. Alas, su entusiasmo por
-llevar a cabo una prueba de campo se desploma mal para su salud.
-
-%%%%
-Xtahua
-
-Un antiguo y poderoso dragón. Su abrasado cuerpo cubierto con peñascos de lava
-endurecida se eleva sobre el suelo del calabozo, dejando tras de sí una estela
-con un penetrante olor a azufre. Un conjunto de enormes garras resaltan en las
-terminaciones de sus extremidades, y sus filos, aunque algo mellados después
-haber sido usados por tanto tiempo, parecen capaces de despedazar a un hombre
-en un simple instante. La calidez que emana de su sola presencia calienta el
-aire hasta hacerlo insoportable, y hace que las estructuras visibles en el
-calabozo se arqueen ligeramente, como si del mismísimo sol del verano se
-tratara.
-
-Xtahua se fue volviendo cada vez más resentido, al verse atrapado en el
-calabozo después de una agotadora batalla con un aventurero hace siglos. La
-mayoría de su razones para seguir viviendo se han reducido simplemente a la de
-hacer arder cualquier cosa que merodee por estas salas con una pasión
-incombustible.
 
 %%%%
 yak
@@ -4734,12 +4208,347 @@ Un demonio alado cubierto de escamas metálicas brillantes. Tiene una legión de
 a su mando, que impulsa a la furia salvaje.
 
 %%%%
-Zenata
+zombie
 
-Un artillero, su carne mezclada en acero tan suavemente que es difícil
-Dile dónde termina uno y el otro comienza. Ella entró the Dungeon para buscar
-los secretos de un antiguo culto de larga duración, dijo haber exaltado el metal sobre
-carne. El precio del conocimiento era su humanidad - un precio que pagó con entusiasmo.
+Un cadáver levantado a la muerte por la necromancia.
+
+%%%%
+zykzyl
+
+Un demonio nacido de la envidia mortal, su carne ondulando con una humedad enfermiza
+cuando se mueva. Es impulsado por un deseo singular de reducir toda la belleza a un
+forma tan horrible como la suya.
+
+%%%%
+ghost
+
+Los restos de un monstruo que existió en una versión anterior, pero desde entonces ha sido
+Retirada.
+
+%%%%
+sensed monster
+
+Un monstruo hostil cuya presencia ha sido detectada.
+
+%%%%
+trivial sensed monster
+
+Un monstruo trivialmente débil cuya presencia ha sido revelada por el poder de
+Ashenzari.
+
+%%%%
+easy sensed monster
+
+Un monstruo débil cuya presencia ha sido revelada por el poder de Ashenzari.
+
+%%%%
+tough sensed monster
+
+Un monstruo algo peligroso cuya presencia ha sido revelada por el poder de
+Ashenzari.
+
+%%%%
+nasty sensed monster
+
+Un monstruo muy peligroso cuya presencia ha sido revelada por el poder
+Ashenzari.
+
+%%%%
+friendly sensed monster
+
+Un monstruo amistoso cuya presencia ha sido   LUA0   .
+
+%%%%
+Head Instructor
+
+Un poderoso guerrero-mage que instruye a estudiantes aspirantes en física, mágica,
+y combate antimagical.
+
+%%%%
+Hellbinder
+
+Un poderoso hechizo coronado en energías arcanas, murmurando profana
+encantamientos.
+
+%%%%
+Statue of Wucad Mu
+
+Una estatua hecha de un cristal naranja de vidrio fino. Representa un místico conocido como
+Wucad Mu, que dominaba los asuntos de la mente, y está impregnado con Wucad Mu
+poderes de combate mental.
+
+%%%%
+moon troll
+
+Una raza extraña de troll inteligente, brillando con poder misterioso de más allá
+este mundo que lo protege del daño excepto a un rango cercano.
+
+%%%%
+lunar statue
+
+<zot statue>
+
+%%%%
+air elementalist statue
+
+Una delicada estatua de un Tengu mirando por el aire. Se ve bastante
+insustancial.
+
+%%%%
+antique champion
+
+Un esqueleto insondablemente caro. Tiene innumerables sigiles grabados en sus
+huesos y pulsos con una presencia fantasmal.
+
+%%%%
+archer statue
+
+Una estatua de un hermoso arquero elven, esculpida en mármol más fino. Tiene una
+arco arriba, y parece ser mágicamente animado, dejando que use el arco para
+intrusos de enigma con flechas.
+
+%%%%
+bog mummy
+
+Una figura no muerta conservada por las aguas bragas de un bog. Ha comenzado a
+Decay fuertemente, y parece frágil.
+
+%%%%
+captured wizard
+
+Un mago de ojos salvajes cuya lengua ha sido cortada, frenéticamente murmurando y
+agitando sus brazos pero incapaz de lanzar un solo hechizo.
+
+%%%%
+charred statue
+
+Una estatua que ha sido impregnada de llama, permitiéndole hacer uso de simple
+Conjuramientos basados en incendios.
+
+%%%%
+Cigotuvi's Monster
+
+Una creación aterradora que parece haberse construido de las partes del cuerpo
+de todas las criaturas monstruosas imaginable, con tentáculos llenos
+su forma.
+
+%%%%
+conjurer statue
+
+Una estatua capaz de aprovechar el más poderoso de conjuraciones puras jamás ideadas por
+Iskenderun.
+
+%%%%
+deformed humanoid
+
+Una pobre criatura que se ve horriblemente deformada.
+
+%%%%
+demonic plant
+
+Una burla demoníaca de una planta, cubierta de misteriosos apéndices y obra
+tentáculos. Parece ser inofensivo.
+
+%%%%
+dimme
+
+Una criatura terrible con ascendencia demoníaca. Su presencia es horrorosa, pero
+sobrenaturalmente convincente.
+
+%%%%
+drunken dwarf
+
+Un enano que parece estar trabajando como un probador de calidad de ale, y está disfrutando del
+trabajo demasiado.
+
+%%%%
+earth elementalist statue
+
+Una estatua llana de un enano que despega un pico. Parece increíblemente pesado.
+
+%%%%
+fire elementalist statue
+
+Una estatua ornately trabajada de un orc sosteniendo una antorcha aloft, de negro
+basalto. El aire alrededor brilla.
+
+%%%%
+flesh golem
+
+Un montículo animado de carne mal formada, esculpido sobre un esqueleto de hierro.
+
+%%%%
+frost-covered statue
+
+Una estatua de un mago, con helada constantemente formando a través de su superficie.
+
+%%%%
+ghost-faced bat
+
+Un murciélago con un visado espectral.
+
+%%%%
+giga bat
+
+Un enorme bate hinchado.
+
+%%%%
+goblin sharper
+
+Un duende recién convertido a Nemelex Xobeh. Todavía está aprendiendo sobre todo
+tarjetas y, afortunadamente, no está inclinado a usarlas en su contra.
+
+%%%%
+greater air elemental
+
+Un espíritu poderoso del plano elemental del aire, rodeado de un
+vórtice mortal de la helada.
+
+%%%%
+ice bat
+
+Una criatura no muerta en forma de murciélago, hecha de hielo.
+
+%%%%
+flame-cult kobold
+
+Un Kobold que ha sido encantado de explotar en un incendio.
+
+%%%%
+mad acolyte of Lugonu
+
+Un devoto seguidor de Lugonu, impulsado loco por años de vida en el Abyss.
+
+%%%%
+malarious merfolk avatar
+
+Un joven Merfolk que se ve profundamente enfermo, pero todavía es capaz de bespelling su
+público.
+
+%%%%
+master elementalist
+
+Un mago dementedo que ordena las fuerzas primarias del universo.
+
+%%%%
+megabat
+
+Un enorme bate negro.
+
+%%%%
+microbat
+
+Un bate que, a pesar de su nombre, no es más pequeño que un megabat.
+
+%%%%
+spectator
+
+A follower of Okawaru, granted the honour of spectating a duel to the death.
+
+%%%%
+oklob plant conjurer
+
+<oklob plant annihilator>
+
+%%%%
+oklob plant demonologist
+
+<oklob plant annihilator>
+
+%%%%
+oklob plant meteorologist
+
+<oklob plant annihilator>
+
+%%%%
+oklob plant shifter
+
+<oklob plant annihilator>
+
+%%%%
+oklob plant summoner
+
+<oklob plant annihilator>
+
+%%%%
+oklob sapling priest
+
+Una planta de oklob inmaduro que parece estar murmurando algunas orisones... ¿Qué?
+
+%%%%
+oklob sapling wizard
+
+<oklob plant annihilator>
+
+%%%%
+orb golem
+
+Un golem metálico con energías mágicas. Debe haber sido creado por
+un mago realmente desviado, o posiblemente alguien que vio a los monstruos
+se encuentra en el Reino de Zot.
+
+%%%%
+phase bat
+
+Un extraño y brillante murciélago que atraviesa más dimensiones que el promedio
+bat.
+
+%%%%
+phase spider
+
+Una araña de otro mundo que puede mover distancias cortas y medias por brevemente
+cambiar entre los planos de la realidad, para ensarmar mejor su presa.
+
+%%%%
+pristine statue
+
+Una estatua de porfiria esculpidamente esculpida de un arquero a punto de lanzar un perno,
+con una palanca completa en la cadera.
+
+%%%%
+rotten bat
+
+Un murciélago que supera su fecha de venta.
+
+%%%%
+sickly merfolk siren
+
+Un joven Merfolk que se ve bastante enfermo, pero todavía tiene el poder de fundir su
+víctimas.
+
+%%%%
+skeletal bat
+
+Un esqueleto de murciélago sin la decencia de mentir inmóvil como murciélagos muertos se supone
+a.
+
+%%%%
+spriggan baker
+
+A Spriggan que ha dominado las artes culinarias.
+
+%%%%
+water elementalist statue
+
+Una estatua suave de una hermosa Merfolk bañarse en una fuente, esculpida
+Travertino cremoso y rosado. brilla suavemente en la luz.
+
+%%%%
+witch
+
+Un viejo y antinaturalmente feo humano, usando túnicas manchadas con lo que parece
+ser aceite de pantano, hollín de cauldron e ingredientes de la cerveza.
+
+%%%%
+withered plant
+
+Una planta cuya vida ha sido drenada, pero con su forma física todavía
+intacto. Parece que murió hace muchos   LUA0  .
+
+%%%%
+worm
+
+Un annelido gigante, brillando con el limo, con dientes inusualmente grandes.
 
 %%%%
 zin angel
@@ -4749,11 +4558,6 @@ luz blanca. Su rostro está marcado por un scowl, como si su celo contra cualqui
 El vicio percibió su bondad.
 
 %%%%
-zombie
-
-Un cadáver levantado a la muerte por la necromancia.
-
-%%%%
 zot statue
 
 Una estatua profundamente perturbadora, sacada de un solo pedazo de gabbro oscuro
@@ -4761,10 +4565,169 @@ con cristales diminutos. Es imposible saber si es
 pretendía representar a alguna criatura o personaje, o ser completamente abstracto.
 
 %%%%
-zykzyl
+giant anaconda
 
-Un demonio nacido de la envidia mortal, su carne ondulando con una humedad enfermiza
-cuando se mueva. Es impulsado por un deseo singular de reducir toda la belleza a un
-forma tan horrible como la suya.
+<anaconda>
+
+%%%%
+greater orb of eyes
+
+<great orb of eyes>
+
+%%%%
+naga warlord
+
+<naga warrior>
+
+%%%%
+sulphuric acid blob
+
+<acid blob>
+
+%%%%
+vault guard captain
+
+<vault guard>
+
+%%%%
+grandmaster elementalist
+
+<master elementalist>
+
+%%%%
+large bag of meat
+
+Una de las legiones de abominaciones creadas por los escultores de la carne. Es...
+Hulk hinchada pulsa y tropieza constantemente con fuegos accursados. Parece como si
+podría explotar en un torrente de viscera en cualquier momento.
+
+%%%%
+meat berserker
+
+Una de las legiones de abominaciones creadas por los escultores de la carne. Su forma
+es grande y musculoso. Se mueve rápidamente y con furia impetuoso, la suela
+pensó dentro de su ser rendiéndolos aparte con gran fervor. A medida que pasa,
+crea un din cacofónico.
+
+%%%%
+meat hydra
+
+Una de las legiones de abominaciones creadas por los escultores de la carne. Cada uno de
+sus ocho cuellos es desatendido y alargado, conectado a un cuerpo colosal
+y goteando con ichor. Sus muchas cabezas se derraman sangre mientras se revuelven
+convulsionando en la agonía, ya que trae tormento a sí mismo y cualquier otra cosa que
+ve su mal visado.
+
+%%%%
+meat beast
+
+Una de las legiones de abominaciones creadas por los escultores de la carne. Ablaze
+con frenesí demoníaca, se cierne y pisotea con ferocidad inigualable. Su piel es
+flayed, exponiendo los tendones glistentes y sinew debajo, y los dientes
+dentro de su mandíbula cavernosa están manchados de sangre.
+
+%%%%
+sculptor of flesh
+
+Un artesano de la vida, el escultor aparece como una forma esquelética. Tiene seis
+brazos largos que terminan en manos mangleses con dedos rotos, sobre los cuales se arrastra
+como una araña. Su cráneo es anormalmente grande y lleno de agujeros. Sus huesos
+enrojecido y fracturado, inscrito con los hechizos impíos que teje para ensamblar
+sus títeres.
+
+%%%%
+destroyer
+
+Los destructores comienzan a descender sobre ti. Vienen en número y con ira,
+abadón, sin fondo y abismo. Traen tu condena y Will
+festín en tus restos.
+
+%%%%
+accursed
+
+Los acosados son los que llegaron antes. Han venido para asegurarte de compartir
+su destino.
+
+%%%%
+tyrant
+
+Una masa colosal de huesos y cráneos, una tumba caminando. Oíste chillidos.
+grita mientras se acerca, rompiendo los huesos con cada paso de trituración,
+resucitarse en un eterno malestar.
+
+%%%%
+dread
+
+Una afrenta a la existencia, un vacío en el que sólo hay tormento y condenación.
+Su forma extraña es desgarrada y retorcida, negra y hueca. Es infalible.
+pensamiento racional, sabiendo sólo el odio y el deseo de profanar tu alma.
+
+%%%%
+scourge
+
+Una gran forma serpentina con piel cruda y enferma, bilis y pus,
+salpicando veneno y luz.
+
+%%%%
+observer
+
+Ves a los invisibles, miras y miran hacia atrás. Susurran y ríen,
+Griten y lloran, te miran con desprecio y te miran en adoración. Ellos
+son los observadores, son el juez de su valía y Will decide su fin.
+
+%%%%
+wretched soul
+
+Un espectro, luchando por dejar el mundo mortal en el que está encarcelado. It
+drena la vida y la vida de todos los que entra en contacto.
+
+%%%%
+fleshlord
+
+Uno de los mejores sirvientes del Meatlord. Es muscular, ágil y lleno de
+malevolencia.
+
+%%%%
+vile
+
+Una figura emaciada rebosante de condenación y peste. Su apariencia
+significa el fin de los días.
+
+%%%%
+The Servant
+
+Su glaive es una luz con las llamas del infierno.
+
+%%%%
+The Captor
+
+Los que entran no escapan.
+
+%%%%
+The Defiler
+
+Su escudo está emblazado con imágenes de llamas infernales.
+
+%%%%
+The Meatlord
+
+Ustedes contemplan la encarnación de la suciedad, la corrupción y la depravación: el Meatlord. Su
+cuerpo foul está hinchado al extremo, filtrando fluido viscoso y el hedor de
+muerte. Su cabeza es la de un jabalí con ojos abultados y tusks divididos en dos, su
+bengalas y onzas mientras él ronca y chilla a la vista de tú, y sus
+boca es un grifo sin dientes que drools piscinas de sangre y vómitos adelante
+restos repugnantes. Su cuello está estirado y afloja hacia adelante, su piel agitada
+Hacia abajo. Su inmensa tripa dobla y distorsiona como las larvas dentro esperan a sus
+liberación repugnante. Sus piernas son masas de carne irreconocibles, cubiertas de
+protrusiones y golpes. Tu mente se inclina ante la vista de este horrible
+forma, y tus sentidos comienzan a cerrarse en un intento de preservar tu cordura
+mientras te ahogas en el olor opresivo.
+
+%%%%
+The Unspeakable
+
+Ustedes escuchan los ecos de los planetas detrás del rugido ensordecedor de las estrellas como
+enfoques. Es la mandíbula de la Abyss. Trae el caos arrastrado de
+dentro. Es la última vista que ves.
 
 %%%%

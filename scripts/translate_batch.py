@@ -197,13 +197,43 @@ def protect_patterns(text: str) -> Tuple[str, Dict[str, str]]:
 
     text = re.sub(r"@(\w+)@", protect_var, text)
 
+    # Proteger <referencias> (habilidades, marcas de color, lugares, etc.)
+    # Ej: <Berserk ability>, <lightred>, <Desolation>
+    # Usamos §AG0§ (formato §...§ que LT respeta, como con los términos del juego)
+    def protect_ref_angle(m):
+        nonlocal counter
+        key = f"§AG{counter}§"
+        placeholders[key] = m.group(0)
+        counter += 1
+        return key
+
+    text = re.sub(r"<[^>]+>", protect_ref_angle, text)
+
     return text, placeholders
 
 
 def restore_patterns(text: str, placeholders: Dict[str, str]) -> str:
     """Restaura los patrones protegidos."""
-    for key, value in placeholders.items():
-        text = text.replace(key, value)
+    for key, value in sorted(placeholders.items(), reverse=True):
+        # Intentar coincidencia exacta primero
+        new_text = text.replace(key, value)
+        if new_text != text:
+            text = new_text
+            continue
+        # Si falló, buscar variantes con § rotos (LT tiende a separarlos)
+        m = re.search(r"§?(\w+)\d+§?", key)
+        if m:
+            ph_root = m.group(1)  # ej: "REF", "LUA", "VAR", "AG"
+            ph_id = re.search(r"\d+", key)
+            if ph_id:
+                # Buscar: REF0, REF 0, §REF0, etc.
+                id_num = ph_id.group(0)
+                for pat in [
+                    rf"§?\s*{re.escape(ph_root)}\s*{re.escape(id_num)}\s*§?",
+                    rf"§\s*{re.escape(ph_root)}\s*{re.escape(id_num)}",
+                    rf"{re.escape(ph_root)}\s*{re.escape(id_num)}\s*§",
+                ]:
+                    text = re.sub(pat, value, text)
     return text
 
 
@@ -323,38 +353,41 @@ def translate_batch(
     print(f"\n  🌐 Traduciendo {upstream_file.name}: {len(to_translate)} entradas...")
     translated_count = 0
 
-    # Preparar entries final: mantener existentes + nuevas
-    result_entries = list(existing.items())
+    # Almacenar nuevas traducciones: {key: translated_text}
+    new_translations = {}
 
     for i, (key, value) in enumerate(to_translate):
         if not value.strip():
             # Entrada vacía, mantener como está
-            result_entries.append((key, ""))
+            new_translations[key] = ""
             continue
 
-        # 1. Proteger términos del juego (NO_TRANSLATE + FORCED)
-        game_protected, game_ph, game_trans = protect_game_terms(value)
+        # 1. Proteger patrones especiales PRIMERO (<...>, refs, lua, vars)
+        #    Esto evita que game_terms traduzca contenido DENTRO de <...>
+        protected_text, placeholders = protect_patterns(value)
 
-        # 2. Proteger patrones especiales (refs, lua, vars)
-        protected_text, placeholders = protect_patterns(game_protected)
+        # 2. Proteger términos del juego (NO_TRANSLATE + FORCED) DESPUÉS
+        #    Ya no pueden afectar a lo que está dentro de <...>
+        game_protected, game_ph, game_trans = protect_game_terms(protected_text)
 
         # 3. Traducir con LibreTranslate
-        translated = translate_text(protected_text)
+        translated = translate_text(game_protected)
         if translated is None:
             translated = value  # mantener original si falla
         else:
             translated_count += 1
 
-        # 4. Restaurar patrones especiales
-        translated = restore_patterns(translated, placeholders)
-
-        # 5. Restaurar términos del juego con su traducción correcta
+        # 4. Restaurar términos del juego (inverso: restaurar DESPUÉS de patrones)
+        #    No pueden colarse dentro de <...> porque esos ya están protegidos
         translated = restore_game_terms(translated, game_trans)
+
+        # 5. Restaurar patrones especiales (incluye <...> ya con sus valores originales)
+        translated = restore_patterns(translated, placeholders)
 
         # 6. Post-procesar correcciones de español
         translated = post_process(translated)
 
-        result_entries.append((key, translated))
+        new_translations[key] = translated
 
         # Progreso
         pct = (i + 1) * 100 // len(to_translate)
@@ -365,8 +398,18 @@ def translate_batch(
 
     print(f"\n    ✅ {translated_count} entradas traducidas de {len(to_translate)}")
 
-    # Ordenar alfabéticamente y guardar
-    result_entries.sort(key=lambda x: x[0].lower())
+    # Reconstruir en orden EN: mantener orden upstream, no alfabético
+    # Prioridad: nueva traducción > existente > original EN (fallback)
+    result_entries = []
+    for key, en_value in en_entries:
+        if key in new_translations:
+            result_entries.append((key, new_translations[key]))
+        elif key in existing:
+            result_entries.append((key, existing[key]))
+        else:
+            # Entrada no traducible (ej: _internal_) o nueva sin traducir aún
+            result_entries.append((key, en_value))
+
     write_entries(trans_file, result_entries)
     print(f"    📝 Guardado: {trans_file}")
 
