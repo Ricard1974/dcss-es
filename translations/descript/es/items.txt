@@ -1,53 +1,177 @@
 %%%%
+acid dragon scales
+
+Las escalas de un dragón ácido. Aunque no proporciona a su portador como
+mucha protección como la armadura hecha de las escalas de algunos dragones más grandes, es
+algo más ligero y menos gravado. También es notablemente suave, dejando
+El slime corrosivo fluye como agua.
+
+%%%%
+amulet of chemistry
+
+Un amuleto que permite al usuario extraer pequeñas cantidades de energía mágica
+de cualquier poción que beban y también aumenta el poder de sus hechizos de alquimia.
+El efecto de restauración mágica requiere el amuleto para afinarse al
+el cuerpo del usuario mientras sus reservas de magia están llenas.
+
+%%%%
+amulet of dissipation
+
+Un amuleto que causa contaminación mágica y efectos negativos sobre el estado
+desgaste para expirar dos veces más rápido con el tiempo.
+
+%%%%
+amulet of faith
+
+Un encanto elaborado para llamar la atención de los dioses a su portador. Esta divina
+la atención hace más fácil complacer a su dios, pero su dios Will también tomar más
+aviso de sus transgresiones. El amuleto Will Drain algunos de vuestro divino favor
+cuando se retira.
+
+%%%%
+amulet of guardian spirit
+
+Un amuleto que contiene un espíritu protector que Will causa cualquier daño causado a
+dividir entre las reservas de salud y magia del usuario.
+
+%%%%
 amulet of inaccuracy
 
 Este amuleto hace que su portador sea menos preciso en el combate cuerpo a
 cuerpo, y cuando ataque monstruos mediante ataques a distancia o hechizos.
+
+%%%%
+amulet of magic regeneration
+
+Un amuleto que aumenta la tasa de regeneración mágica del portador. Para
+función, primero debe ajustarse al cuerpo del usuario con reservas completas
+de magia.
+
 %%%%
 amulet of nothing
 
 Un amuleto sin características especiales.
+
+%%%%
+amulet of reflection
+
+Un amuleto que mejora la capacidad de su portador para proteger contra los ataques. Si
+ningún escudo es usado, la fuerza que emite el amuleto puede servir como un escudo débil en
+propio. Independientemente, cualquier ataque variado los bloques de desgaste Will se reflejan
+hacia el atacante.
+
+%%%%
+amulet of regeneration
+
+Un amuleto que aumenta la tasa de regeneración de la salud del usuario. Para
+función, primero debe ajustarse al cuerpo del portador a toda salud.
+
+%%%%
+amulet of the acrobat
+
+Un amuleto que permite al usuario tropezar y rodar para evadir los golpes de sus
+enemigos, pero sólo mientras se mueve y espera. Al adoptar otras medidas
+(incluyendo escaleras de escalada) el amuleto no transmite beneficios.
+
+%%%%
+amulet of wildshape
+
+Un amuleto que mejora la habilidad de su portador con Shapeshifting.
+
 %%%%
 animal skin
 
 La piel de un animal.
+
 %%%%
 apricot
 
 Prunus armeniaca, una suculenta fruta amarillenta o anaranjada.
+
+%%%%
+arbalest
+
+Una gran pieza de maquinaria usada para tornillos de fuego, sujetado con acero y enganchado
+con un parabrisas. Lleva tiempo cargar y disparar.
+
 %%%%
 arrow
 
 Una flecha, hecha para ser disparada con un arco.
-%%%%
-#the_bakery
-baked corpse
 
-Un cadáver horneado. Tibia, muerte y inútil
+%%%%
+athame
+
+Un cuchillo ritual ordenado y embrujado. Incluso el pelado de la Will cuesta un pequeño
+pedazo de su salud, pero golpes hechos con ella contra aquellos que sufren negativo
+estados (excepto el veneno) han aumentado el daño base, hasta +4 para dos
+semejantes dolencias.
+
+%%%%
+azure gem
+
+ REF0 
+
+Tan clara y azul como un cielo sin nubes o un mar sin profundidad, esta gema sostiene su
+secretos encerrados dentro de profundidades impenetrables.
+
 %%%%
 bardiche
 
 Una larga garrocha con una enorme cuchilla en uno de sus extremos.
+
+%%%%
+barding
+
+Armour for the scaly midsections of nagas and centaurs.
+
+%%%%
+battleaxe
+
+Una gran hacha de guerra con una formidable cabeza doble cara.
+
+%%%%
+blade talisman
+
+Un grupo de cuchillas, casi imposible de agarrar sin lesión. Causas
+cuchillas largas de aguja para crecer del cuerpo del portador, permitiéndoles
+realizar rápidos ataques auxiliares de melee e incluso golpes de parry. Tener tantos
+fragmentos de metal dentro del cuerpo reduce la eficacia de armadura corporal,
+pero Shapeshifting habilidad mitiga este efecto, así como aumenta el daño
+tratado.
+
 %%%%
 blessed great sword
 
 Una espada con una larguísima y pesada cuchilla y un gran mango. Ha sido
 mejorada con el poder de El Resplandeciente.
+
 %%%%
 blessed long sword
 
 Una espada con una larga cuchilla. Ha sido mejorada con el poder de El
 Resplandeciente.
+
 %%%%
 blowgun
 
 Un largo y ligero canuto abierto por ambos extremos. Incapaz de hacer un gran
 daño, su principal uso es el de disparar dardos envenenados a distancia. Es muy
 silencioso.
+
 %%%%
 bolt
 
 Un virote para ballesta.
+
+%%%%
+book of air
+
+Una cartilla sobre las magias elementales del aire. El gran héroe minotauro Vuxhurn, dado
+una copia de este libro mientras atrapado en la torre de un mago con un
+perverso sentido del humor, usó sus páginas para construir un brillo rudimentario y
+a la libertad.
+
 %%%%
 book of annihilations
 
@@ -56,69 +180,397 @@ puede sentir el diáfano impacto de la furia arcana contenida en el libro. Es
 codiciado por los brujos, ya que le permite al dotado e ingenioso ordenar la
 destrucción con un simple chasquido de los dedos. Sin embargo, los magos más
 endebles podrían encontrar su perdición al intentar leer este opus.
+
+%%%%
+book of armaments
+
+Un libro que describe varios brazos y armaduras mágicas. Fue escrito en medio
+de una guerra civil particularmente sangrienta, y el texto se hace considerablemente menos
+útil por las frecuentes digresiones de su autor que describen los crímenes cometidos por
+el otro lado.
+
+%%%%
+book of battle
+
+Un trabajo asombrosamente vanidoso y autoagrandante. El autor reclama crédito por un
+amplio intercambio de magias que aumentan el arma, pero parece haber mal entendido o
+malinterpretado la mayoría de ellos. Sólo algunos de los hechizos descritos en el libro
+en realidad trabajo.
+
+%%%%
+book of beasts
+
+Un libro de hechizos se centró en la convocatoria de bestias. Sus páginas son perfectas.
+Dedos de lectores.
+
+%%%%
+book of blasting
+
+Un libro de hechizos usado para lanzar poderosas explosiones. La carpeta de esta edición
+era cuidadoso para remar la cubierta, de modo que si su lector carecía de suficiente precaución,
+el libro, al menos, sobreviviría.
+
+%%%%
+book of blood
+
+Un libro de obras dedicadas a la manipulación de la sangre, tanto la del caster
+y de criaturas con ichor particularmente inusual fluyendo a través de sus venas.
+Algunos dicen que ha sido compuesto por el señor vampiro Jory, pero no está claro
+por qué se dignaría compartir sus secretos con otros.
+
+%%%%
+book of burglary
+
+Un libro que contiene hechizos útiles para el robo, la ruptura y la entrada, y otros
+robo diverso.
+
+%%%%
+book of callings
+
+Texto introductorio sobre la convocatoria mágica de bestias y seres de otros
+reinos.
+
 %%%%
 book of cantrips
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of chaos
+
+Un libro de hechizos que deja el entorno de la lanzador en un estado completo
+desarmar. No está claro por qué alguien escribiría tal cosa, pero está aquí.
+
 %%%%
 book of conjurations
 
 Un libro que contiene una introdución a las artes destructivos de las Conjuraciones.
+
+%%%%
+book of contraptions
+
+Un libro de esquemas y hechizos para construir una variedad de mecanismos elaborados.
+Los evidentes peligros de seguridad implicados con muchos de ellos son relegados a un solo
+nota al pie de página 157, pero a un aventurero emprendedor, que Might ser
+considerado como un revés.
+
+%%%%
+book of cryoformation
+
+Una guía ilustrada para configurar el hielo en formas prácticas y artísticas. An
+entero capítulo se dedica a tablas de impurezas minerales y su efecto en
+color y punto de fusión.
+
+%%%%
+book of dangerous friends
+
+Un libro que describe la creación y el uso de entidades mágicas mejor mantenidas en el brazo
+alcance. O, preferiblemente, incluso más lejos.
+
+%%%%
+book of death
+
+Un manuscrito que contiene hechizos oscuros de Necromancy. Cada página está llena de
+arte grotesco que representa escenas de repugnante decadencia.
+
 %%%%
 book of debilitation
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of decay
+
+Un libro de Necromancía, dictado por el dios Kikubaaqudgha a un desafortunado
+apóstol a lo largo de una fuga de nueve días. Se dice que el necromancer tiene
+terminó el terrible trabajo con la sangre de su propia vida... pero por supuesto que esto es
+sólo una copia, escrita en tinta casi completamente normal.
+
+%%%%
+book of displacement
+
+Un libro de hechizos para acercar a otros, o a veces más lejos, dependiendo del
+el timbre del usuario.
+
 %%%%
 book of dreams
 
 Un libro transparente. La luz se refleja de una forma extraña sobre su
 superficie.
+
+%%%%
+book of duality
+
+Un libro de hechizos ecléctico, mezclado con anécdotas filosóficas ramificantes sobre la
+naturaleza gemela de cada acción. Incluso para el final, no queda claro si
+autor consideró que había cierta pureza espiritual para los hechizos que incorporan
+ofensa y defensa en una sola moción, o si acaban de vivir una vida extremadamente
+presionado por el tiempo.
+
+%%%%
+book of fire
+
+Un libro que contiene hechizos avanzados en la escuela elemental de fuego, robado
+la universidad secreta del djinn.
+
 %%%%
 book of fixed level
 
 Un libro con hechizos mágicos.
+
 %%%%
 book of fixed theme
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of flames
+
+El texto estándar utilizado en academias arcanas por estudiantes de la magia elemental
+de Fuego. Se recomienda usar un par de guantes aislados.
+
+%%%%
+book of frost
+
+Un libro de hechizos mágicos, a menudo utilizado como una introducción a las magias elementales
+de Hielo. Sus páginas se sienten inusualmente frágiles, como si se desmoronara a un toque.
+
 %%%%
 book of geomancy
 
 Un libro con hechizos sencillos que implican el elemento Tierra. Lectores deben
 llevar guantes de jardinería cuando leyéndolo.
+
 %%%%
 book of hexes
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of ice
+
+Un libro de hechizos mágicos avanzados usando el elemento de hielo. Los lectores son
+recomendado para usar un par de guantes calientes.
+
+%%%%
+book of iron
+
+Un antiguo libro de hechizos con metal, cubierto de manchas rojas oscuras. Son ellos
+manchas de oxidación, o ..?
+
+%%%%
+book of lightning
+
+Un libro que se rompe bastante con el poder arcano.
+
+%%%%
+book of maladies
+
+Un catálogo conciso de aflicciones, tanto mágicas como mundanas, a menudo descritas
+con un grado de alegría inquietante. La mayoría de ellos operan en escalas temporales
+también Slow para ser útil para un aventurero, pero unos pocos sonido notablemente eficaz.
+
 %%%%
 book of maledictions
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of metalworking
+
+Un tomo de magia avanzada de Forgecraft. Sus páginas son regularmente incrustadas
+figuras técnicas hechas de elaborada filigrana metálica, tal vez como ilustración
+de la propia habilidad del autor con el arte descrito aquí.
+
+%%%%
+book of minor magic
+
+Un libro de hechizos que contiene una variedad de encantamientos mágicos simples pero útiles.
+Muchos ortógrafos prominentes utilizaron este libro para comenzar sus estudios arcanos.
+
+%%%%
+book of misfortune
+
+Un libro de hechizos dedicado al arte de infligir calamidades creativas en uno
+enemigos. Magos supersticiosos afirman que el libro en sí absorbe mal
+fortuna y llevarla como un encanto de buena suerte, pero los efectos de este
+parece sutil al mejor.
+
+%%%%
+book of movement
+
+Un libro de hechizos que parece saltar al más mínimo toque. Su letra flits
+de la descripción de un hechizo a otro, dando suficiente información para
+entender sólo algunos de ellos, aunque todos parecen relacionarse con el movimiento en algunos
+Por cierto.
+
 %%%%
 book of necromancy
 
 Un polvoriento tomo de magia prohibida.
+
+%%%%
+book of party tricks
+
+Un libro que contiene una variedad de hechizos divertidos garantizados para animar cualquier mago
+fiesta, así como una serie de brindis, chistes y juegos de fiesta.
+
 %%%%
 book of power
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of scorching
+
+Un libro mágico, volado y cubierto por larga exposición al sol del desierto. Sobre
+sus páginas mal tejedas mienten los secretos para infligir los peligros del desierto
+sobre los enemigos de la lanzador.
+
+%%%%
+book of sloth
+
+Un libro escrito perezosamente.
+
 %%%%
 book of spatial translocations
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of spectacle
+
+Un libro cubierto de lentejuelas brillantes. Un espectáculo de luces improvisadas estalló de cada
+página, claramente reservando este libro sólo para los tackiest de magos.
+
+%%%%
+book of spontaneous combustion
+
+Un tomo pesado escrito con tinta inflamable. Se debe tener cuidado hasta la apertura
+pero el poder de los hechizos descritos en ellos es innegable.
+ LUA0 
+
+%%%%
+book of storms
+
+Un libro escrito por el mago Lan Shi, que estaba preocupado con el estudio y
+control de fenómenos naturales. La mayoría de las obras de Shi se han perdido, pero esas
+todavía quedan son tesoros por magos afortunados (o inescrupulosos) suficiente para conseguir
+sus manos en una copia.
+
 %%%%
 book of summonings
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of the dragon
+
+Un libro mágico de hechizos que permiten algún comando sobre los dragones y sus
+aspectos.
+
+%%%%
+book of the earth
+
+Una guía para sacar inmenso poder de the Depths de la tierra. El original era
+escrito como una colaboración entre los enanos de la colina y los enanos de la montaña, pero
+su compilación fue cortada cuando una ola masiva de terremotos hundió la colina
+La civilización de los enanos en ruinas.
+
+%%%%
+book of the fortress
+
+Un libro de hechizos que pretenden hacer su caster tan resistente como una piedra
+Fortaleza. Su cubierta está formada de acero grueso, mágicamente reforzado, haciendo
+el libro irrazonablemente pesado para ningún beneficio obvio.
+
+%%%%
+book of the grave
+
+Un tomo pesado de hechizos necrométicos. Los que lo tocan con frecuencia reportan
+palpable sentido del malestar, como si algo inquieto fuera enterrado entre su
+muy páginas.
+ LUA0 
+
+%%%%
+book of the hunter
+
+Un libro mundano sobre caza. Alguien ha pasado y cubierto el libro
+correcciones y críticas de estafa, cruce de secciones enteras a favor de
+hechizos que cumplen la misma tarea.
+
+%%%%
+book of the moon
+
+Un libro escrito por un mago loco, que se había convencido de que la luna estaba muy por encima
+estaba compuesto, no de luz brillante, sino de roca tan sólida como esa debajo de los pies.
+Muchas de las páginas han sido trazadas más allá del reconocimiento, aparentemente reprimidas por un
+un par de garras poderosas... pero ¿qué haría un troll con un libro de hechizos?
+
+%%%%
+book of the senses
+
+Un trabajo académico, describiendo los sentidos utilizados por las criaturas vivientes para percibir los
+mundo alrededor de ellos. Un puñado de hechizos se incluyen para demostrar los principios
+siendo descrito.
+
+%%%%
+book of the spheres
+
+Un libro que contiene una colección completa de hechizos relacionados con la esfera. Es...
+las páginas finales comienzan a describir un hechizo titulado 'Summon Orb of Zot', pero tristemente,
+el resto del libro ha sido completamente vaporizado.
+
+%%%%
+book of the tundra
+
+Un tomo helada que describía hechizos heladas, un poco acortado. the Vaults are
+dijo que mantuviera el texto completo, pero los guardianes de ese lugar guardan a sus
+tesoros celosos.
+
 %%%%
 book of the warp
 
 Un libro con hechizos mágicos.
+
+%%%%
+book of the wilderness
+
+Un libro retenido de tierras lejanas y desenfrenadas, permitiendo su
+Denizens a ser llamados a servir al lector.
+ LUA0 
+
+%%%%
+book of touch
+
+Un libro que describe hechizos que requieren muy cerca de su objetivo. El
+autor parece haber tenido una baja opinión de sus magos compañeros, y gasta mucho
+del texto que describe la higiene y la etiqueta social necesarias para entrar
+proximidad a otros seres sensibles.
+
+%%%%
+book of transmutation
+
+Un compendio meticuloso de notas de investigación, lleno de fórmulas para descomponer
+y reconstituyendo toda clase de sustancias. Fue escrito por uno de los
+legendarios alquimistas entre los elfos de lodos, antes de esa especie misteriosamente
+desapareció del mundo. El autor parece haber tenido una extraña obsesión con
+convertirse en una mariposa, pero incluso si su objetivo final los eludía, muchos de los
+los hechizos detallados en ellos son, sin embargo, bastante prácticos.
+
 %%%%
 book of unlife
 
 Un libro con hechizos mágicos. Esta lleno de símbolos para contactar con los
 muertos.
+
+%%%%
+book of vapours
+
+Un libro de hechizos mágicos para crear una variedad de nubes, vapores y niebla.
+Es difícil leer, ya que el texto es frecuentemente interrumpido por descripciones
+de nubes insólitas que el autor vio mientras escribía.
+
 %%%%
 book of war chants
 
@@ -126,80 +578,278 @@ Un libro con hechizos útiles para el guerrero. Las versiones contenidas en este
 libro están en forma musical, siguiendo las tradiciones de los escaldos. No
 obstante, desde el punto de vista funcional, son lo mismo que hechizos cuyas
 palabras mágicas son simplemente recitadas.
+
+%%%%
+book of weapons
+
+Un libro de hechizos usados por los rebeldes contra un imperio antiguo y malvado. Los rebeldes
+fueron aplastados, pero este libro fue redescubierto años después, encontrado por paladines de
+la cruzada que finalmente destruyó el imperio y mató a su gemelo inmortal
+soberanos.
+
+%%%%
+book of wicked creation
+
+Un tomo prolongado, describiendo hechizos para varios impíos (o, al menos,
+creaciones. Sería insensato traer ese libro de vuelta al
+el mundo de la superficie - mejor leerlo y descartarlo en una ubicación bien oculta.
+
+%%%%
+book of winter
+
+Un libro de hechizos escrito por la hechicera Ellawe, que buscaba usar su tiempo
+productivamente mientras está atrapado por el clima particularmente duro por más de seis
+meses. Un postscript detalla la sangrienta venganza que tomó después de descubrir
+el mage del tiempo responsable.
+
 %%%%
 book of wizardry
 
 Un libro con hechizos mágicos.
+
+%%%%
+boomerang
+
+Un bastón curvado, plano y de lanzamiento diseñado para regresar a su usuario.
+
 %%%%
 bow
 
 Una pieza curva de madera con una cuerda atada entre sus extremos, diseñada
 para disparar flechas. Hace bastante daño en combate, y alguien con habilidad
 puede usarlo con gran eficiencia.
+
+%%%%
+box of beasts
+
+Una caja llena de las extrañas sobras de un mago depravado mágico
+experimentaciones. Abrirlo Might soltar una amistosa bestia mutante: extraño
+criaturas, cada una con su propia combinación de rasgos. Mayor habilidad con
+Evocaciones Will permiten que las bestias más fuertes sean liberadas.
+
+Hay seis rasgos conocidos:
+* Bat animals Fly and move very quickly, but erratically.
+* Las bestias de fuego resisten y respiran fuego.
+* Las bestias Ox resisten el frío, están acorazadas con piel gruesa, y pueden golpear a los enemigos.
+* Las bestias de choque resisten la electricidad y pueden transformarse en un rayo viviente.
+* Las bestias del Sting resisten el veneno y tienen un ataque al veneno.
+* Las bestias raras pueden ver lo invisible y atacar con restricciones tentáculos.
+
+Por lo que nadie sabe, todas las bestias tienen exactamente dos de estos rasgos.
+
+%%%%
+broad axe
+
+Un hacha con langets, espigas, un haft largo y una cabeza de crescente de un solo color.
+
 %%%%
 buckler
 
 Un pequeño escudo.
+
 %%%%
 centaur barding
 
 Una armadura para que los centauros la lleven sobre su parte equina.
+
 %%%%
 chain mail
 
 Una malla de anillos metálicos entrelazados.
+
 %%%%
 cheese
 
 Un trozo de queso.
+
 %%%%
 choko
 
 Una fruta verde e insípida que crece en una parra.
+
 %%%%
 cloak
 
 Una capa de tela.
+
+%%%%
+club
+
+Un pedazo pesado de madera. Mientras que los clubes son armas bastante primitivas, bajándose
+el cráneo de alguien con uno sigue siendo un medio muy popular y eficaz
+Resolución de controversias.
+
+%%%%
+codex of conductivity
+
+Una colección exhaustiva de notas de investigación sobre los efectos de la electricidad
+todo de aserrín a esnozzcumbers, intercalado con fórmulas de hechizo y
+esquemas técnicos utilizables. La letra del autor se deteriora con asombro.
+la mitad del capítulo sobre Spriggan electrofisiología, llevando a mucho
+especulación sobre su identidad y su sentido de la auto-preservación.
+
+%%%%
+compendium of siegecraft
+
+Un tratado analítico sobre la guerra de asedio, escrito de manera clara y legible.
+A majority of its chapters are concerned with logistics and the maintenance of
+líneas de suministro, pero varios detalles deletrean útiles para romper fortificaciones
+(y también otras, más suaves, cosas).
+
+%%%%
+condenser vane
+
+Un dispositivo mágico que condensa la energía ambiente en varias nubes destructivas.
+Cuando evocan estas nubes se forman alrededor de monstruos hostiles cerca del usuario. El
+la cantidad y la letalidad de estas nubes aumenta con habilidad Evocations. Abajo
+potenciarlo Will crear gases nocivos, y como el poder aumenta esto da paso a
+llamas rugientes, vapores de congelación y gas venenoso. En los más altos niveles de
+nubes de energía, niebla ácida y nubes de miseria atroz se convierten en
+disponible.
+
 %%%%
 corpse
 
 Un cadáver. Muerte y inútil.
+
 %%%%
 crystal plate armour
 
 Una armadura de cristal, increíblemente pesada, pero extremadamente efectiva.
+
+%%%%
+dagger
+
+Un cuchillo de combate de doble filo con un punto afilado.
+
+%%%%
+dart
+
+Un pedazo delgado de metal, normalmente recubierto en alguna sustancia dañina. Cuando se tira
+puede entregar sus toxinas en el torrente sanguíneo de un ser vivo o demoníaco.
+
 %%%%
 decaying skeleton
 
 Un esqueleto en descomposición.
+
+%%%%
+deck of destruction
+
+Una cubierta de cartas mágicas, la mayoría de las cuales chocan la muerte y la destrucción a los enemigos de uno
+(o, si desafortunado, a uno mismo).
+
+%%%%
+deck of escape
+
+Una cubierta de tarjetas mágicas, principalmente tratando con diversas formas de escape.
+
+%%%%
+deck of punishment
+
+Una cubierta de tarjetas mágicas que causan estragos en el usuario.
+
+%%%%
+deck of summoning
+
+Una cubierta de cartas mágicas, representando una gama de criaturas extrañas y maravillosas.
+
 %%%%
 demon blade
 
 Un arma terrible, forjada en las llamas del Infierno.
+
 %%%%
 demon trident
 
 Un arma terrible, moldeada por el fuego y el azufre.
+
 %%%%
 demon whip
 
 Un arma terrible, fabricada en las profundidades del Hades.
+
+%%%%
+dire flail
+
+Un flail con puntas largas y una cabeza pesada.
+
+%%%%
+double sword
+
+Un arma temible con una hoja de afeitado y afeitado.
+
+%%%%
+dragon-coil talisman
+
+Un tallado intrincado, incrustado con diente de dragón y escala.   LUA0 
+
+%%%%
+earthy gem
+
+ REF0 
+
+En lo profundo de esta gema, las hojas fluyentes y las ramas balanceadas parecen acechar. Y
+aquí, un hueso elegido limpio - allí, los ojos de un depredador, mirando con hambre ..?
+
+%%%%
+eel talisman
+
+Un extraño fósil marino, adornado con abalona y perla.
+ LUA0 
+para transformarse en un par de anguilas eléctricas que a veces se descargan
+arcos de electricidad a través de objetivos conectados cuando se utiliza para atacar enemigos. Cuando
+la salud del usuario se vuelve peligrosamente baja, ellos Will descargan aún más
+Tensión violenta.
+
+%%%%
+eggplant
+
+Una berenjena podrida que puedes lanza a los desarrolladores de Crawl. Es un bicho si
+Nunca has visto este mensaje.
+
 %%%%
 eudemon blade
 
 Una gloriosa cuchilla creada en los forjas del Cielo, y poseída por un espíritu
 benigno. Es una de las armas preferidas de los sirvientes de El
 Resplandeciente.
+
 %%%%
 eveningstar
 
 Lo contrario del lucero del alba.
-%%%%
-fire dragon scales
 
-Una armadura mágica confeccionada a partir de las escamas de un dragón que
-exhalaba fuego. Proporciona gran protección contra los efectos del fuego, pero
-hace a su usuario más vulnerable a los efectos del frío.
+%%%%
+everburning encyclopedia
+
+Un libro de hechizos mágicos, meticulosamente organizado, denso y casi completamente
+Negro quemado. Sólo unas pocas páginas siguen siendo legibles, pero el poder dentro todavía
+destruye al lector con un calor parecido al horno.
+
+%%%%
+executioner's axe
+
+Un arma temerosa cubierta de sangre seca y grabados crudos de tortura y
+muerte, con un enorme hacha.
+
+%%%%
+falchion
+
+Una larga espada de un solo filo con una hoja ligeramente curvada.
+
+%%%%
+fen folio
+
+Una colección de hechizos usados por las grandes civilizaciones del pantano.
+
+%%%%
+figurine of a ziggurat
+
+Una pequeña figura hecha de material extraño, formada como una pirámide pisada.
+Es notablemente detallado – casi como una estructura real, vasta, de alguna manera encogido
+más pequeño que una mano humana.
+
 %%%%
 fire dragon hide
 
@@ -207,20 +857,92 @@ La escamosa piel de un auténtico dragón. Puede usarse para elaborar una
 armadura, pero incluso en su actual estado proporciona gran protección contra
 los efectos del fuego, aunque a costa de hacerte más vulnerable a los efectos
 del frío.
+
+%%%%
+fire dragon scales
+
+Una armadura mágica confeccionada a partir de las escamas de un dragón que
+exhalaba fuego. Proporciona gran protección contra los efectos del fuego, pero
+hace a su usuario más vulnerable a los efectos del frío.
+
+%%%%
+flail
+
+Un mace con una cadena corta que conecta la cabeza con el haft.
+
+%%%%
+flux bauble
+
+Un pequeño bauble de vidrio que contiene una sustancia ominosamente brillante. Lo crujimos.
+te inunda con energía transmutacional, dejando tu forma física inestable en un
+nivel fundamental.
+
+En este estado de flujo, tus ataques de melee son mucho más débiles, pero cada huelga Will
+contamina todo lo que golpeas con energía transmutacional - creciendo tan intensa
+en la tercera huelga que Will hace que su cuerpo torcida y deforme,
+infligiendo daños importantes. La falta de certeza en su forma física también
+te hace mucho más difícil de golpear, aunque brillas de una manera que dificulta el robo.
+
+El poder contenido en cada bauble es finito, y una vez que está agotado por
+difundiéndolo a los enemigos, tú Will volver a su forma anterior.
+
+%%%%
+fortress talisman
+
+Una batalla en miniatura, tallada de un pedazo de concha. Transforma el usuario en
+un cangrejo muy blindado, fusionando cualquier armadura corporal que llevan en el
+Concha en el proceso. En esta forma, son Slow-moviendo, pero bien defendidos y
+incluso capaz de manipular un arma en su gran garra principal. A pesar de todo esto
+vracs, están bien adaptados al agua. También pueden respirar nubes de óxido
+a costa de su propio HP, que corroe y debilita a los enemigos.
+
+%%%%
+gell's gravitambourine
+
+Un cobre y tambourine de tungsteno que vibra con entusiasmo en sus manos, como si
+ansioso de ser usado.
+
+Así como la música reúne a la gente, sacudiéndolo con el ritmo adecuado Will
+dibujar un gran grupo de monstruos en un espacio estrecho y mantener cualquier hostil en
+lugar por un corto tiempo con ondas ineludibles de gravedad aplastante.
+
+El área de efecto y duración aumenta con la habilidad Evocations.
+
+%%%%
+gem
+
+Una piedra de belleza y valor casi inconmensurable fuera de the Dungeon.
+Dentro de sus confines, es absolutamente inútil.
+
+Zot acapara estas gemas celosamente, y Will a pesar de los golpes pronto después de una
+aventurero entra en la rama de the Dungeon en la que descansan. Aún así, una muy
+aventurero de movimiento rápido Might tomar uno primero y mantener sus preciosos fragmentos.
+Zot no puede rastrear gemas fuera de sus ramas de casa, así que con verdaderamente asombroso
+Velocidad, será posible abstenerse con uno todavía intacto... pero tal
+La hazaña es difícil de crédito, y probablemente sin sentido además.
+
+Una vez que the Orb de Zot se toma, Zot Will no puede romper ninguna gema.
+
+%%%%
+giant club
+
+Un trozo gigante de madera.
+
 %%%%
 giant spiked club
 
 Un gigantesco trozo de madera, con púas en uno de sus extremos.
+
 %%%%
 glaive
 
 Una garrocha con una enorme y pesada cuchilla en su extremo.
-%%%%
-golden dragon scales
 
-Una armadura mágica elaborada a partir de las escamas de un dragón dorado. Es
-muy pesado y aparatoso, pero proporciona gran protección contra el fuego, el
-frío, y el veneno.
+%%%%
+gold piece
+
+Una montón de brillantes monedas de oro.
+
 %%%%
 golden dragon hide
 
@@ -228,27 +950,150 @@ La gruesa y pesada piel un dragón dorado, cubierta por deslumbrantes escamas
 doradas. Confiere resistencia al fuego, el frío, y el veneno a su usuario, pero
 solamente una pequeña parte de su legendaria protección contra ataques físicos,
 a menos que sea encantado.
-%%%%
-gold piece
 
-Una montón de brillantes monedas de oro.
+%%%%
+golden dragon scales
+
+Una armadura mágica elaborada a partir de las escamas de un dragón dorado. Es
+muy pesado y aparatoso, pero proporciona gran protección contra el fuego, el
+frío, y el veneno.
+
+%%%%
+grand grimoire
+
+Un libro que describe cómo los poderosos entre los citadores pueden doblarse a su Will
+cosas terribles de Betwixt los aviones. Muchos han sido las almas injustificadas,
+sin embargo, que han jugueteado con este tomo y se han vuelto locos por inimaginable
+horrores de fuga.
+
+%%%%
+granite talisman
+
+Un icono de piedra pesada, que lleva el rostro de un rey o dios olvidado.
+Transforma el portador en una estatua de piedra Slow. El cuerpo de piedra del portador es
+inmune al veneno y el miasma, y gana resistencia a la electricidad, negativo
+energía y tormento. La habilidad de injerto aumenta la armadura concedida.
+
 %%%%
 grape
 
 Una pequeña fruta.
+
 %%%%
 great mace
 
 Una enorme y pesada maza.
+
+%%%%
+great sword
+
+Una espada con una hoja muy larga y pesada y un mango largo.
+
+%%%%
+great wizards, vol. ii
+
+Una colección de hechizos de grandes magos a través de la historia. El autor parece
+haber sido extremadamente entusiasta, y cada mago se describe en voluminoso,
+detalle completo.
+
+%%%%
+great wizards, vol. vii
+
+Una colección de hechizos de grandes magos a través de la historia. El autor parece
+para haber estado bastante cansado de su proyecto - las descripciones de los magos son terse
+y mínimo, cumpliendo con el requisito más bajo para la integridad.
+
+%%%%
+halberd
+
+Una polera que consiste en una hoja de hacha cubierta con un pico, montada en un largo
+eje.
+
+%%%%
+hammer
+
+Un arma contundente, esencialmente equivalente a un mace.
+
+%%%%
+hand axe
+
+Un hacha pequeña.
+
+%%%%
+hand cannon
+
+Una máquina que dispara balas metálicas a través de la thaumaturgy aplicada. Algunos encantan a sus
+proyectoiles para caer hacia adelante en lugar de hacia abajo, otros revuelven las manchas con un
+atracción fatal a sus objetivos. Todos son Slow, ruido, y se deslumbran
+humo con cada inyección.
+
+%%%%
+handbook of applied construction
+
+Una introducción práctica a Forgecraft, que abarca los principios básicos y sus
+Aplicaciones comunes.
+
+%%%%
+hat
+
+Un sombrero de tela.
+
 %%%%
 helmet
 
 Una protección metálica para la cabeza.
+
+%%%%
+hive talisman
+
+Una colmena conservada y decorada, todavía goteando con néctar ambrosial. Transforms
+el portador en una colmena viviente, llena del zumbido de innumerables insectos
+trabajando dentro de ellos. El néctar producido dentro aumenta enormemente el desgaste
+salud y regeneración mágica y si se vuelven gravemente heridos, abejas enojadas
+Will enjambre para defender su colmena.
+
+%%%%
+horn of Geryon
+
+El cuerno de Geryon, guardián de the Vestibule of Hell. Tiene
+poder para sacar bestias demoníacas. Con alta habilidad Evocations, it Will call
+mayor número de bestias, con menor probabilidad de que esas bestias sean hostiles.
+
 %%%%
 ice dragon scales
 
 Una armadura de las escamas de un dragón de hielo. Te da gran protección contra los efectos del
 frío, aunque a costa de hacerte más vulnerable a los efectos del fuego.
+
+%%%%
+inkwell talisman
+
+Una pequeña botella llena de tinta mística. Transforma el usuario en un caminar
+Pergamino cuyo cuerpo está tatuado con el conocimiento de cien magos. Ser un ser
+omnibus de técnicas mágicas les da mayor habilidad con todas las escuelas de hechizos,
+que mejora con la habilidad de Shapeshifting, pero la capacidad de la forma de canalizar tal
+la magia es limitada, y no puede lanzar hechizos por encima del nivel 4.
+
+Sus ataques también son muy débiles, pero tienen la oportunidad de restaurar 1 MP cuando ellos
+golpe.
+
+%%%%
+ivory gem
+
+ REF0 
+
+Los espíritus incontables giran alrededor de esta gema, revolviéndola en un escalofrío profundo.
+No bienvenidos en la vida de los dioses buenos, encuentran aquí un cielo propio.
+
+%%%%
+jade gem
+
+ REF0 
+
+Sigilias de fuego queman profundamente dentro de esta gema, símbolo del pacto eterno entre
+Naga y salamandra. Su vínculo es el veneno que azota la impureza
+y la llama que quema impureza.
+
 %%%%
 javelin
 
@@ -263,11 +1108,19 @@ incapaz de usarla."
         return ""
     end
 }}
+
+%%%%
+kite shield
+
+Una pieza de metal diseñada para llevarse atada en un brazo. Es pesada de
+llevar y hace algo más lenta la velocidad a la que se puede atacar.
+
 %%%%
 lajatang
 
 Una exótica y muy efectiva arma de importación. Consiste en una garrocha, con
 cuchillas en forma de media luna en ambos extremos.
+
 %%%%
 large rock
 
@@ -282,232 +1135,692 @@ Un piedra, usada por los gigantes como proyectil. {{
 eres incapaz de usarla."
     end
 }}
+
 %%%%
 leather armour
 
 Una armadura de cuero endurecido.
+
 %%%%
 lemon
 
 Una fruta amarillenta.
+
+%%%%
+lightning rod
+
+Una vara que permite que su peladora dispare explosiones inevitables de relámpago.
+Las evocaciones consecutivas hacen que la descarga sea sostenida, lo que aumenta la
+nivel de potencia hasta cuatro veces y permite que la explosión sea redireccionada para afectar a un
+área. La fuerza de la explosión aumenta con la habilidad Evocations y, para
+voladuras redireccionadas, disminuye con el tamaño del área afectada.
+
+%%%%
+long sword
+
+Una espada con una hoja larga y cortante.
+
 %%%%
 longbow
 
 Un largo y fuerte arco hecho de madera de tejo. Es capaz de hacer un daño
 excelente en combate y un arquero experimentado puede usarlo muy eficazmente.
+
+%%%%
+lupine talisman
+
+Un parche pintado hecho de un pedazo de pelt de lobo. Transforma el usuario en un
+Hombre lobo vicioso, músculos que surgían con instinto depredador. Matar enemigos con
+melee attacks in this form Will dar un bono de apilación a su daño y
+precisión, y matar a bastantes de ellos en una fila Will hace que tú desata un
+vicioso aullido que hace a cualquier vaca vivo en el miedo - y los deja
+susceptible a una devastadora precipitación.
+
 %%%%
 lychee
 
 Una fruta tropical.
+
+%%%%
+mace
+
+Un club corto con cabeza de metal.
+
+%%%%
+manual
+
+Un libro valioso que permite aprender una cierta habilidad más rápido.
+
+%%%%
+maw talisman
+
+Una miniatura, cabeza desechada de una criatura feroz y esperanzadamente extinta.
+Transforma la sección media del usuario en una boca gigante, rociando y listo para devorar
+enemigos. Esta vaca confiere un poderoso ataque de mordedura que escala adicionalmente con el
+la propia fuerza del usuario y puede devorar criaturas muertas para aumentar la temporariidad
+una regeneración. Desafortunadamente, también confiere un hambre tan profunda que
+puede ser difícil alejarse de los enemigos especialmente apetitosos.
+
+%%%%
+maxwell's memoranda
+
+Una colección de esquemas, diagramas y planos del infame Maxwell.
+En medio de mensajes escritos a y por sus muchos mineros, aliados de conveniencia y
+rivales odiados, un lector paciente puede descubrir hechizos de poder electrizante.
+
+%%%%
+medusa talisman
+
+Un pólipo de medusas fósil, inscrito con sigiles. Causa una mane de largo
+hormigueando tendriles para brotar de la cabeza del portador que se echan en las cercanías
+enemigos cuando el portador ataca, envenenandolos. Cuando sienten que su anfitrión es
+la vida está en peligro, incluso pueden convertir a estos enemigos envenenados en piedra.
+
+%%%%
+midnight gem
+
+ REF0 
+
+El nacido de piedra sacó esta gema de las profundidades más profundas de la tierra como
+a gift and a warning: beware Zot! Que ahora está dentro del poder de Zot es seguro
+prueba de la perversidad de los mortales y del destino.
+
+%%%%
+milky-white gem
+
+ REF0 
+
+Smooth como la seda de una araña, blanco como los ojos de una cosa arrastrada que tiene
+vivió demasiado tiempo en la oscuridad, esta gema se mueve con un potencial temeroso. Aún así, a
+cierto ojo, posee una extraña alusión...
+
+%%%%
+morningstar
+
+Un mace con una cabeza cubierta de puntas cortas.
+
+%%%%
+mossy gem
+
+ REF0 
+
+Aunque gotea con barro y mucama, todavía una dignidad peculiar se adhiere a
+esta gema. El pueblo de the Swamp, que primero llevaba esta piedra, luchó
+contra probabilidades insuperables. Fallaron, pero hay mucho que admirar incluso en
+la ruina de sus esfuerzos.
+
+%%%%
+my sojourn through swampland
+
+Mientras se pretende ser el relato personal de un famoso naturalista, él
+se hace evidente al leer que este libro fue compilado de múltiples no relacionados
+fuentes, incluyendo notas de un tramo de un circo mágico. El
+travelogue puede ser ficticio, pero algunos de los diagramas de hechizo cuidadosamente
+transcrito en los márgenes parece bastante real.
+
+%%%%
+necronomicon
+
+Un libro extremadamente raro, poderoso y siniestro. Muchos magos tontos tienen
+trató de estudiar este tomo, sólo para encontrarse enredados dentro de necromantic
+fuerzas que no podían esperar controlar.
+
 %%%%
 orange
 
 Una deliciosa y jugosa fruta anaranjada.
+
+%%%%
+orb
+
+Una esfera de cristal, llevada en lugar de un escudo. Cistillas mágicas dentro
+su interior.
+
 %%%%
 orb of zot
 
 Una vez que llegues a la superficie con este artilugio de valor incalculable,
 habrás completado tu misión.
+
+%%%%
+orcbow
+
+Un arco recurrido, crudo de troll-bone y pelo de peluca. La cueva orcs
+el uso de arquería, así que a diferencia de sus antepasados que habitan en la superficie, muestra la influencia
+de sus aliados elvisos.
+
 %%%%
 pair of boots
 
 Un par de botas.
+
 %%%%
 pair of gloves
 
 Un par de guantes.
-%%%%
-pearl dragon scales
 
-Una armadura mágica elaborada a partir de las fuertes y flexibles escamas de un
-dragón nacarado. Proporciona protección contra la energía negativa.
+%%%%
+parchment
+
+Un breve texto sobre magia, tal vez extraído de un trabajo más grande. Contiene
+conocimiento de un hechizo.
+
+%%%%
+partisan
+
+Una polearma larga con protrusiones afiladas en ambos lados de la punta de lanza.
+
 %%%%
 pearl dragon hide
 
 La escamosa piel de un dragón nacarado. Puede usarse para elaborar una armadura
 propiamente dicha, pero incluso en esta basta forma proporciona protección
 contra la energía negativa.
+
+%%%%
+pearl dragon scales
+
+Una armadura mágica elaborada a partir de las fuertes y flexibles escamas de un
+dragón nacarado. Proporciona protección contra la energía negativa.
+
+%%%%
+phantom mirror
+
+Un espejo de mano que puede crear un reflejo de una criatura cercana, nublando
+en el proceso. La duración de la reflexión aumenta con habilidades evocaciones y
+disminuye con la fuerza de voluntad del objetivo. Es, invariablemente, ligeramente más débil
+que la criatura que refleja.
+
+%%%%
+phial of floods
+
+Un vaso encantador de agua elemental. Eliminar el tapón desata un torrente
+de agua, rompiendo el objetivo e inundando la zona cercana. Si hay criaturas
+envuelto por la ola necesita aire para respirar, no podrán lanzar hechizos hasta
+se recuperan. La fuerza del torrente y la duración de la inundación
+aumentar con habilidad Evocations.
+
+%%%%
+plate armour
+
+Un traje completo de placa de metal sólido: cuirass, pauldrons, vambraces, placa de cintura
+y grietas. Proporciona una excelente protección.
+
 %%%%
 potion of agility
 
 Una poción mágica que incrementa muy considerablemente la destreza y elusividad
 de quien la beba.
+
+%%%%
+potion of ambrosia
+
+Una sustancia extraña, producida por polillas fantasma. Suponiendo que cause regeneración
+de la salud y la magia, junto con el embustero total. Los dos efectos son
+fundamentalmente vinculado – la regeneración termina el momento en que la confusión lo hace.
+
+%%%%
+potion of attraction
+
+Una poción que hace que el bebedor atraiga enemigos, trasladándolos rápidamente más cerca
+para la duración del efecto. El efecto es sorprendentemente sutil e injustificado
+las víctimas pueden Sleep por completo.
+
 %%%%
 potion of berserk rage
 
 Una poción que permite entrar en un estado de trance berserk.
+
 %%%%
 potion of blood
 
 Una poción que contiene la esencia de la vida. Es vital para todos los seres
 vivos, al igual que para algunos no-muertos. Puede proporcionar nutrición para
 los que puedan alimentarse de carne.
+
 %%%%
 potion of brilliance
 
 Una poción mágica que aumenta en gran cantidad la inteligencia y el mana de
 aquél que la beba.
+
+%%%%
+potion of cancellation
+
+Una poción que termina la mayoría de efectos mágicos, buenos o malos, afectando a uno que bebe
+Es. También reduce la contaminación mágica.
+
 %%%%
 potion of confusion
 
 Una poción que confunde tus percepciones y reduce el control de las propias
 acciones.
+
 %%%%
 potion of cure mutation
 
 Una poción que elimina alguna o todas las mutaciones que puedan estar
 afectándote.
+
+%%%%
+potion of curing
+
+Una poción que restaura una pequeña cantidad de salud, y cura veneno y
+confusión.
+
 %%%%
 potion of decay
 
 Un líquido maldito, vil y pútrido que provoca que tu carne se pudra ante tus
 ojos.
+
+%%%%
+potion of enlightenment
+
+Una poción que eleva tanto el cuerpo como la mente de sus bebedores, levantandolos
+desde el suelo y aumentando su Will para resistir las tentaciones del mundo.
+
 %%%%
 potion of experience
 
 Una bebida rarísima y verdaderamente maravillosa.
+
+%%%%
+potion of haste
+
+Una bebida encantada que acelera las acciones de cualquiera que lo bebe.
+
+%%%%
+potion of heal wounds
+
+Un elixir mágico curativo que causa heridas para cerrar y sanar casi
+al instante.
+
 %%%%
 potion of invisibility
 
 Una poción que te oculta de la vista de los demás.
+
+%%%%
+potion of lignification
+
+Una poción que transforma al imbeber en un árbol animado con savia para sangre y
+ramas capaces de sostener armas. Tal árbol tiene una evasión mínima pero aumenta
+salud y armadura natural, y es resistente al veneno, e inmune al tormento y
+ahogarse. Sin embargo, está arraigada en su lugar mientras la transformación dura, y
+no puede teletransportar.
+
+%%%%
+potion of magic
+
+Una valiosa poción que otorga una infusión de energía mágica.
+
 %%%%
 potion of might
 
 Una poción mágica que incrementa en gran cantidad la fuerza y la capacidad
 física de quien la beba.
+
+%%%%
+potion of moonshine
+
+Un alcohol potente, destilado en un rincón dudoso de the Dungeon. Bebiendo.
+reduce la precisión del imbiber, la evasión y el éxito de la ortografía por un tiempo.
+
 %%%%
 potion of mutation
 
 Una poción que te provoca cosas muy extrañas.
+
 %%%%
 potion of resistance
 
 Una poción que te da temporalmente resistencia a los elementos y al veneno.
+
+%%%%
+prismatic gem
+
+ REF0 
+
+brillando con todos los colores del arco iris y algunos otros además, algunos
+considerar esta gema 'un poco tacky'. ¡Excelente!
+
+%%%%
+protean talisman
+
+Un fragmento siempre cambiante de algo primordial; su sustancia parece ser
+undular entre carne y hueso y quizás incluso metal. Un experto suficiente
+Shapeshifter puede estabilizarlo en una forma utilizable - si impredecible -.
+
+(Si tu habilidad de Shapeshifting es al menos 6, tratando de poner esto en Will
+transformarlo en un azar de: Rimehorn, Scarab, Medusa, o Spore talismans.)
+
 %%%%
 quad damage
 
 Un objeto misterioso semejante a una runa de algún tipo. Una vez se evoque,
 hará que el usuario brille azul y añada reverberaciones a cualquier sonido... y
 puede haber otros efectos además.
+
 %%%%
 quarterstaff
 
 Un robusto palo de madera, empleado para el combate.
+
+%%%%
+quick blade
+
+Una daga con un increible encanto sobre ella, permitiendo que golpee dos veces
+por cada golpe que hace su peladora. Se necesita una gran habilidad para utilizar a su completo
+potencial.
+
+%%%%
+quicksilver dragon scales
+
+Las escalas de un dragón veloz. Aunque no proporciona su portador
+con tanta protección como las escalas de algunos dragones más pesados, es un poco
+más ligero y menos gravado. La armadura repele ambos ataques al portador
+fuerza de voluntad y modificación mágica de sí mismo - no puede encantada.
+
+%%%%
+quill talisman
+
+Un trinket espinal que recuerda a un cactus. Causas afiladas para crecer por todas partes
+el cuerpo del portador que puede causar daño a alguien lo suficientemente insensato como para atacarlos
+en melee.
+
 %%%%
 rambutan
 
 Una pequeña pero deliciosa fruta. Como llegó a este calabozo se lo pregunta
 todo el mundo.
+
+%%%%
+rapier
+
+Una espada esbelta y puntiaguda, con un diseño excepcionalmente elegante.
+
+%%%%
+riddle talisman
+
+Una caja de rompecabezas intrincada que contiene un premio no reconocido. Transforma el usuario en
+una esfinge amante del enigma. En esta forma, son   LUA0  , y sus ataques melee causan vientos poderosos para golpear a su enemigo que hace
+aumento del daño por cada espacio abierto junto a ellos. También son maestros
+encantadores, el casting Hex hechizos mucho más fácil e ignorando una parte de su
+El Willpower del enemigo.
+
+Alas, su armadura por los enigmas es tan compulsivo que incluso el más endurecido
+aventurero Will ser incapaz de resistir posándolos a nuevos enemigos que encuentran, no
+importa lo insensato que sea esto.
+
+%%%%
+rimehorn talisman
+
+Un adorno crudo tallado del cuerno de una rara bestia ártica - tan frío al
+tocar ese hielo todavía se aferra a él. Transforma el portador en un yak rime, un duro
+ungulado que es altamente resistente al frío y cuyo aliento es tan frígido que
+Congela las paredes a su alrededor mientras lucha. Estar tan atentado a la ártica
+temperaturas también hace más fácil para el usuario fundir magia de hielo.
+
+%%%%
+ring mail
+
+Un traje de cuero ligero reforzado con una cubierta de anillos de metal. Es
+protector en combate, pero ligeramente incómodo debido al peso añadido.
+
 %%%%
 ring of dexterity
 
 Este anillo aumenta o reduce la destreza de su portador, dependiendo de en qué
 grado ha sido encantado.
+
 %%%%
 ring of evasion
 
 Este anillo hace que su portador sea más o menos capaz de evitar ataques, en
 función de su grado de encantamiento.
+
+%%%%
+ring of flight
+
+Un anillo que otorga a su portador flight.
+
 %%%%
 ring of intelligence
 
 Este anillo aumenta o reduce la habilidad mental de su portador, en función de
 su grado de encantamiento.
+
 %%%%
 ring of magical power
 
 Este anillo incrementa las reservas mágicas de su portador.
+
 %%%%
 ring of poison resistance
 
 Este anillo proporciona protección ante los efectos de los venenos.
+
+%%%%
+ring of positive energy
+
+Un anillo que protege a su portador de los efectos de energía negativa.
+
 %%%%
 ring of protection
 
 Este anillo bien protege a su portador del daño o bien le hace más vulnerable,
 en función de su grado de encantamiento.
+
 %%%%
 ring of protection from cold
 
 Este anillo protege del frío.
+
 %%%%
 ring of protection from fire
 
 Este anillo protege del fuego
+
 %%%%
 ring of protection from magic
 
 Este anillo incrementa la resistencia de su portador contra embrujos adversos.
+
+%%%%
+ring of resist corrosion
+
+Un anillo que protege a su portador de los efectos de ácido y corrosión.
+
 %%%%
 ring of see invisible
 
 Este anillo le permita a su portador ver aquellas cosas que la magia ha
 ocultado.
+
+%%%%
+ring of slaying
+
+Un anillo que aumenta la precisión y daño del portador con armas y
+melee attacks.
+
 %%%%
 ring of strength
 
 Este anillo aumenta o disminuye la fuerza física de su portador, en un grado
 que depende de su poder.
+
 %%%%
 ring of teleportation
 
 Este anillo ocasionalmente activará su poder para teletranspotar a su portador
 a una posición aleatoria, y puede ser evocado deliberadamente para conseguir el
 mismo efecto.
+
+%%%%
+ring of willpower
+
+Un anillo que aumenta la fuerza de voluntad de su portador, protegiendo contra ciertos
+efectos mágicos.
+
 %%%%
 ring of wizardry
 
 Este anillo incrementa la habilidad de su portador para usar hechizos mágicos.
+
+%%%%
+robe
+
+Un vestido exterior grande, suelto, de manga ancha hecho de tela ligera. It
+ofrece poca protección contra el daño físico, pero no obstaculiza la evasión o
+Deletreando.
+
 %%%%
 rune of zot
 
 Un talismán que permite la entrada a los dominios de Zot.
+
+%%%%
+sack of spiders
+
+Una bolsa de seda tejida. Abrirlo Will cubre el área con telas, arañas y otros
+esquiando cosas. Evocaciones de habilidad aumenta la calidad de araña, la cantidad y el atraco.
+
 %%%%
 sacred scourge
 
 Una arma bendita, tejida por los santos en el cielo y odiado por lo impío. Es
 el arma favorita de los sirvientes de El Resplandeciente.
+
+%%%%
+sanguine gem
+
+ REF0 
+
+Los que mataron a la Muerte misma y se enterraron en una tumba propia
+no eran tímidos de sus ambiciones. Fain to seize upon baubles and
+ensombrecido, su Señor viajó a su eterno malestar con esta gema
+en su pecho.
+
+%%%%
+sanguine talisman
+
+Un frasco de sangre rugiente que pulsa con el latido de un corazón invisible. Transforms
+el portador en un temeroso vampiro - una criatura que ata la frontera entre
+vida e inmuerte. Pueden beber la sangre de los vivos para curarse,
+e incluso convertir a los que matan sigilosamente en rábanos vampíricos, pero no sanan
+en presencia de monstruos. En gran esfuerzo, pueden dispersarse en un enjambre de
+murciélagos - para huir o para asaltar a sus enemigos.
+
 %%%%
 scale mail
 
 Un traje de cuero cubierto con placas de metal unidas y superpuestas entre sí
 para proveer protección total, pero a costa de una reducida libertad de
 movimiento.
+
+%%%%
+scarab talisman
+
+Un pequeño cameo dorado de escarabajo. Transforma el portador en una bufanda solar, un
+insecto ardiente que lleva alrededor de una muda de calor y luz sellado fuera
+como un pequeño sol.
+
+Esta embestida solar quema enemigos adyacentes cuando los ataques de escarabajos, y puede ser
+curado por intercambiar con él. Además, los propios mandíbulos del escarabajo pueden reducir
+La resistencia al fuego de los enemigos y los hechizos del fuego son más fáciles para que el usuario pueda fundir.
+
+%%%%
+scarf
+
+Una longitud de tela elegante. En su creación, los encantamientos fueron tejidos en ella,
+y como tal no puede aceptar más encanto.
+
+%%%%
+scimitar
+
+Un espada larga con una hoja amplia y curvada.
+
 %%%%
 scroll of acquirement
 
 Este gran pergamino es capaz de crear un objeto. Quien lo use, deberá elegir el
 tipo de objeto que quiera crear.
+
 %%%%
 scroll of amnesia
 
 Este pergamino permite al lector borrar de forma selectiva uno de los hechizos
 de su memoria para recapturar la energía mágica asociada a él.
+
 %%%%
 scroll of blinking
 
 Este pergamino permite al lector teleportarse a una distancia corta, con un
 control preciso.
+
+%%%%
+scroll of brand weapon
+
+Un pergamino que imbue un arma con una marca aleatoria. Cualquier marca existente Will ser
+reemplazado por otro, y cualquier marca prohibida por su dios actual Will
+no ser elegido. Los artefactos no se pueden marcar de esta manera.
+
+Armas Melee Will comúnmente se marcan con el encendido, congelamiento, pesado,
+Venom o marca de protección (o con la marca especial exclusiva de la categoría
+de arma que se marca), y raramente con el drenaje, electrocución, espectral,
+marca vampiric o caos.
+
+Armas extendidas Will comúnmente se marcan con el encendido, congelación, pesado o
+marca de drenaje, y raramente con la marca de electrocución o caos.
+
+%%%%
+scroll of butterflies
+
+Un pergamino que rodea a su usuario con un flight de hermosas mariposas, soplando
+otras criaturas cercanas con el aplauso de sus alas.
+
 %%%%
 scroll of curse armour
 
 Este pergamino impone una maldición a una de las piezas de armadura equipada.
+
 %%%%
 scroll of curse jewellery
 
 Este pergamino impone una maldición a uno de los amuletos o anillos equipados.
+
 %%%%
 scroll of curse weapon
 
 Este pergamino impone una maldición a un arma empuñada.
+
+%%%%
+scroll of enchant armour
+
+Un pergamino que coloca un hechizo en un pedazo de armadura elegido por el lector.
+Brazalete corporal y cortezas pueden ser encantadas hasta el mismo valor que su base
+calificación de armadura. Bucklers, escudos de kite y escudos de torre pueden ser encantados hasta
++3, +5 o +8, respectivamente, y otra armadura puede ser encantada hasta +2. Magical
+Los artefactos no pueden ser encantados.
+
+%%%%
+scroll of enchant weapon
+
+Un pergamino que coloca un hechizo en un arma elegida por el lector,
+aumentar la precisión y el daño. Las armas pueden ser encantadas hasta +9. Magical
+Los artefactos no pueden ser encantados.
+
 %%%%
 scroll of fear
 
 Este pergamino causa un gran temor a aquellos que están viendo al lector.
+
 %%%%
 scroll of fog
 
 Este pergamino rodea al lector con una densa nube de niebla.
+
 %%%%
 scroll of identify
 
@@ -515,55 +1828,497 @@ Este útil pergamino mágico permite determinar las propiedades mágicas de
 cualquier objeto, y ocasionalmente permitirá múltiples identificaciones.
 
 Si es usado en un mazo de cartas, este pergamino revelará la carta superior.
+
+%%%%
+scroll of immolation
+
+Un pergamino que llena las criaturas alrededor del lector con un inestable
+poderosa llama interior. Este incendio se libera en cualquier momento que las víctimas sean golpeadas, y
+explosivamente liberado tras su muerte. Las criaturas gigantes causan explosiones más grandes.
+
+%%%%
+scroll of noise
+
+Un rollo de broma que crea un ruido fuerte cuando se lee.
+
+%%%%
+scroll of poison
+
+Un pergamino que llena el aire con veneno, cubriendo cada espacio no ocupado en
+vista con vapores tóxicos.
+
+%%%%
+scroll of remove curse
+
+Leyendo este pergamino remueve maldiciones de objetos que estás usando.
+
 %%%%
 scroll of revelation
 
 Este pergamino revela los alrededores del lector. El piso actual está mapeado, y
 todo dentro de una distancia moderada, incluyendo visible e invisible monstruos,
 está revelado por un momento.
-%%%%
-scroll of remove curse
 
-Leyendo este pergamino remueve maldiciones de objetos que estás usando.
+%%%%
+scroll of silence
+
+Un pergamino que elimina todo el sonido cerca del lector. Esto hace pergaminos de lectura,
+casting hechizos, invocando habilidades divinas, o gritando imposible en los
+El lector está cerca.
+
+Ciertos monstruos tienen habilidades mágicas o especiales que Will todavía sean
+usable mientras silenciado.
+
+El efecto comienza con un gran radio, que Will luego encoge, eventualmente
+cubriendo sólo al lector, antes de que se fije.
+
+%%%%
+scroll of summoning
+
+Un pergamino que llama a varias criaturas aliadas tejidas desde la sombra en
+formas de aquellos seres encontrados en las inmediaciones del lector.
+
 %%%%
 scroll of teleportation
 
 Cuando leas este pergamino seras transportado a un lugar aleatorio tras esperar
 un poco.
+
+%%%%
+scroll of torment
+
+Un pergamino que llama a los poderes de la oscuridad para infligir gran dolor a cualquier
+criatura cercana - incluyendo el lector! Esta es la resistencia de todos
+criaturas vivientes y corta toda criatura santa resilencia alrededor de un tercio,
+Aunque nunca es directamente fatal.
+
+%%%%
+scroll of vulnerability
+
+Un pergamino que corta brevemente la fuerza de voluntad del lector y de cualquier ser cercano,
+haciéndolos vulnerables a muchos efectos mágicos. El desplazamiento no puede afectar
+aquellos totalmente inmunes a tales efectos.
+
 %%%%
 scythe
 
 Un ápero de granja, normalmente no apto para el combate.
-%%%%
-kite shield
 
-Una pieza de metal diseñada para llevarse atada en un brazo. Es pesada de
-llevar y hace algo más lenta la velocidad a la que se puede atacar.
+%%%%
+serpent talisman
+
+Una serpiente de jade enrollada alrededor de un huevo fosilizado. Transforma el usuario en un
+anphisbaena - una legendaria serpiente de dos cabezas. Es capaz de usar dos
+pedazos de headgear a la vez y sus poderosas bobinas pueden viento alrededor de enemigos y aplastar
+ellos hasta la muerte, pero su sangre fría lo deja susceptible a ser ralentizado por el frío
+ataques.
+
+%%%%
+shadow dragon scales
+
+Las escalas de un gran dragón umbral. Es más pesado que la mayoría de la escala de dragón
+armaduras, pero su encumbrancia no penaliza el robo del portador. También
+otorga un robo adicional al usuario.
+
+%%%%
+shimmering gem
+
+ REF0 
+
+Energías extrañas fluyen suavemente a lo largo de la superficie de esta gema, guiada por la
+arquema que primero construyó the Elven Halls. Incontables generaciones de elfos
+acuñado para aprender de ella, pero su mayor búsqueda era siempre la perfección
+de esta pieza de arte.
+
+%%%%
+shining gem
+
+ REF0 
+
+Muchos son los tesoros de la Orden Ironbound, pero ninguno más viejo ni más precioso
+que esta joya de acero. the Vaults fueron forjados primero para sostenerlo, y ninguno
+que miraba dentro de sus profundidades podría fallar la elección.
+
+%%%%
+shop voucher
+
+Un cupón bueno para un artículo de cualquier precio de cualquier tienda en the Dungeon, para ser
+utilizado automáticamente cuando podrías haga una compra que exceda sus fondos. Cómo
+generoso! No hay reembolsos. Un cupón por compra por cliente. Oferta limitada
+disponibilidad. Vacío si está desfavorecido o alterado de otro modo. Válido sólo dentro del
+dungeon of Zot and its subsidiary branches. Compra adicional no necesaria.
+
+%%%%
+short sword
+
+Un arma de apuñalamiento personal con un agarre corto.
+
+%%%%
+shortbow
+
+Una pieza curvada de madera y cuerda, para disparar flechas.
+
 %%%%
 sling
 
 Un pedazo de tela y cuero para lanzar piedras, que pueden hacer algo de daño al
 impactar. A diferencia de otros lanzadores, llevar un escudo no hace más lenta
 la tasa de disparos.
+
 %%%%
 sling bullet
 
 Un proyectil pequeño y pesado diseñado específicamente para hondas y más
 efectivo como munición que las piedras. Pueden tener varios encantamientos.
+
+%%%%
+smoky gem
+
+ REF0 
+
+Swirls of dark smoke seem to lurk in the Depths of this gem. Incontable oscuro
+los hechos se hicieron en the Dungeon incluso antes de Zot incautado y rehecho, y sus
+El terrible residuo ahora taintiza cada pista de belleza atrapada dentro de sus confines.
+
 %%%%
 snozzcumber
 
 Un vegetal repulsivo en forma de pepino.
+
+%%%%
+spear
+
+Un arma de caza consistente en un eje de madera con cabeza de metal puntiagudo
+abrochado en un extremo.
+
+%%%%
+spider talisman
+
+Un extraño encanto hecho de exoesqueletos de arachnid de cobertizo unidos con seda.
+Transforma el portador en una araña de salto ágil que puede moverse rápidamente hacia
+Foes e infligir daños graves a cualquier persona que encuentre inconsciente. No puede ser
+enredados por telas, pero sus ataques pueden enredar a sus enemigos en ellos. También puede
+saltar rápidamente lejos de muchos peligros.
+
+%%%%
+spore talisman
+
+Un pequeño encanto hecho de un hongo todavía vivo. Transforma uno del portador
+brazos y partes de su cuerpo inferior en una vibrante masa de hongos multicolores.
+Los ataques de Melee en esta forma pueden liberar esporas que debilitan su objetivo, también
+como causar hongos para brotar en el suelo detrás de ellos que Will liberan sus
+propias roturas de esporas desgarradoras si se permite crecer. Aumenta la habilidad para cambiar la forma
+la durabilidad de estos hongos así como su daño.
+
+%%%%
+staff of air
+
+Un personal que aumenta el poder de los hechizos de aire emitidos por su pelusa, y
+los aísla de la electricidad. Si el wielder es experto en Evocaciones y
+Magia de aire, pueden chocar a los golpeados por él, tratando daño eléctrico que
+aprueba la mitad de la armadura de los defensores.
+
+%%%%
+staff of alchemy
+
+Un personal que aumenta el poder de los hechizos de alquimia lanzados por su wielder, y
+los protege de los efectos del veneno. Si el wielder es experto en
+Evocaciones y Alquimia, pueden envolver a los golpeados por él.
+
+%%%%
+staff of cold
+
+Un personal que aumenta el poder de los hechizos de hielo lanzados por su pelusa, y
+los protege de los efectos del frío. Si el wielder es experto en Evocaciones
+y Magia de hielo, pueden congelar a los golpeados por él.
+
 %%%%
 staff of conjuration
 
 Este bastón aumenta el poder de los conjuros lanzados por su portador.
+
+%%%%
+staff of earth
+
+Un personal que aumenta el poder de los hechizos de la tierra lanzados por su wielder. Si
+wielder es experto en Evocaciones y magia de la Tierra, pueden fracturar el suelo
+debajo de los heridos por ella, tratando daños sustanciales - aunque mucho menos
+criaturas que Fly.
+
+%%%%
+staff of fire
+
+Un personal que aumenta el poder de los hechizos de fuego lanzados por su wielder, y
+los protege de los efectos del fuego. Si el wielder es experto en Evocaciones
+y Magia de fuego, pueden quemar los golpeados por él.
+
+%%%%
+staff of necromancy
+
+Un personal que aumenta el poder de los hechizos necrométicos lanzados por su wielder, y
+los protege de energía negativa. Si el wielder es experto en Evocaciones y
+Necromancía, pueden infligir gran dolor a las almas vivientes que golpean,
+tratar energía negativa daño que daña la armadura.
+
+%%%%
+starry gem
+
+ REF0 
+
+Luces extrañas mezcle dentro de the Depths de esta gema. De lo extraño que es
+made, and from what distant land did it travel?
+
+%%%%
+steam dragon scales
+
+Las escalas de un dragón que respira vapor. A diferencia de las escalas de algunos más grandes
+dragones, no proporciona a su portador mucha protección (más allá de un
+resistencia al vapor de escalada), pero es extremadamente ligero y flexible.
+
+%%%%
+stone
+
+Un pequeño trozo de mineral natural denso pero de otro modo no notable. Puede ser
+arrojado para causar daños menores.
+
+%%%%
+storm dragon scales
+
+Las escalas de un dragón que respira rayos. Es más pesado que la mayoría del dragón.
+armaduras de escala, y da su resistencia al desgaste a descargas eléctricas.
+
+%%%%
+storm talisman
+
+Relámpago atrapado, imposiblemente, en una botella. Deja que el usuario pase por el aire
+como una tempestad llena de rayos. Los ataques de melee del usuario son electrificados
+y golpear a todos los enemigos adyacentes. El portador también vuela, gana inmunidad para envenenar,
+miasma, petrificación, constricción, y Sticky Flame, y también resiste
+electricidad. Pueden lanzarse como un rayo, atravesando
+todo en su camino.
+
 %%%%
 strawberry
 
 Una pequeña pero deliciosa fruta roja.
+
 %%%%
 sultana
 
 Una modesta pasa de uva.
+
+%%%%
+swamp dragon scales
+
+Las escalas de un dragón pantano. Confere resistencia al veneno en su portador.
+
+%%%%
+talisman of death
+
+Un vaso gris-negro, infundido con poder oscuro a través de un ritual enfermizo.
+Transforma al portador en un delito inquebrantable contra la vida misma.
+
+Las fosas golpeadas por las meleas armas o manos del portador se debilitan, ralentizan y se agotan.
+El portador también puede curarse a sí mismo atormentando a los enemigos vivos cercanos;
+la habilidad aumenta la cantidad curada. Además, el portador resiste el frío, ha mejorado
+fuerza de voluntad, y es inmune al veneno, miasma, energía negativa y tormento.
+
+El usuario también gana algunos de los beneficios más dudosos de tener un cuerpo no muerto.
+Son vulnerables a los daños sagrados y Dispel Undead, y no pueden consumir pociones.
+
+%%%%
+the unrestrained analects
+
+Una colección de hechizos que asaltan todo a la vista de la lanzador,
+sin restricciones por limitaciones insignificantes como 'necesitar un tiro claro' o 'concern about
+daño colateral.
+
+%%%%
+there-and-back book
+
+Una recopilación de historias infantiles sobre grandes aventuras, siempre terminando con
+el viajero regresando al lugar que comenzaron. El armadura infundido en su
+páginas por incontables generaciones le ha concedido poder, permitiendo un sabio cualificado
+transportar otros recitando pasajes específicos.
+
+%%%%
+throwing net
+
+Una malla de cuerdas unidas junto con pesos alrededor del borde, utilizado para enredar
+y metas de trampa. Las víctimas que corren pueden destruir la red y romper
+libre, si viven lo suficiente.
+
+%%%%
+tin of tremorstones
+
+Un conjunto de elementales de tierra inactiva y magnética en forma de diminuto, muy pesado
+Pebbles. Cuando se libera, los elementales se dibujan magnéticamente al centro de
+monstruos cercanos, donde literalmente explotan con rabia en su descanso siendo
+perturbado. Los Tremorstones suelen aterrizar ligeramente fuera del objetivo, y el usuario es
+siempre en riesgo de ser golpeado. Sin embargo, la armadura es extremadamente eficaz
+repeliendo los fragmentos ligeros de roca de la explosión de un temblor, así que
+un pelador bien enamorado tiene poco que temer. La habilidad de las evocaciones aumenta
+Número de explosiones.
+
+%%%%
+tower shield
+
+Un pedazo grande de madera y metal, para ser atado en un brazo para defensa.
+
+%%%%
+treatise on traps
+
+Un volumen analítico que examina métodos y materiales para construir
+vertiginoso conjunto de trampas - de aquellos destinados a salvaguardar una despensa de las hormigas a
+que agradaría incluso al arquitecto de mazmorras más sádico.
+
+%%%%
+trident
+
+Una lanza de pesca mejorada con un eje más largo y una cabeza de metal de tres puntas.
+
+%%%%
+triple crossbow
+
+Un arco cruzado con tres cuerdas dispuestas en serie para proporcionar potencia excepcional,
+inicialmente diseñado como un arma de asedio y luego escalado. Se necesita un
+cantidad considerable de tiempo para cargar y disparar.
+
+%%%%
+triple sword
+
+Un arma formidable creada por un maestro artesano. La espada de los tenedores de espada
+en tres grandes filos de afeitar.
+
+%%%%
+trishula
+
+Un bendecido tridente moldeado por la llama de limpieza, con tres puntos simbolizando el
+combinado Might de los tres dioses santos. Es un arma favorecida del Shining
+Los sirvientes de uno.
+
+%%%%
+trismegistus codex
+
+Un libro mágico
+escrito por un
+El mago obsesionado numerológicamente.
+Todo desde la oración
+longitud a general
+organización está estructurada.
+No está claro si
+el autor pensó
+esto fue útil.
+
+%%%%
+troll leather armour
+
+La piel rígida y asquerosa de un troll. mágicamente regenera el desgaste de su portador
+carne, una vez afinada al cuerpo del portador a toda salud.
+
+%%%%
+wand of acid
+
+Un dispositivo mágico que arroja tornillos de ácido corrosivo.
+
+%%%%
+wand of charming
+
+Un dispositivo mágico que hace que una criatura se vuelva feroz, pero brevemente,
+leal al usuario.
+
+%%%%
+wand of digging
+
+Un dispositivo mágico que perfora túneles a través de rocas sin trabajo.
+
+%%%%
+wand of flame
+
+Un dispositivo mágico que lanza pequeñas manchas de llama.
+
+%%%%
+wand of iceblast
+
+Un dispositivo mágico que crea una fuerte explosión de fragmentos de hielo, superando la mitad
+de la resistencia de las víctimas al frío.
+
+%%%%
+wand of light
+
+Un dispositivo mágico que dispara un rayo de luz sellante, hiriendo y cegando
+los golpeados. Sólo los monstruos vivos, no muertos, demoníacos y angélicos pueden ser cegados,
+y monstruos más duros Will recuperar su visión más rápidamente.
+
+%%%%
+wand of mindburst
+
+Un dispositivo mágico que lanza un ataque psíquico a una criatura objetivo. Si
+supera su fuerza de voluntad, 'blows their mind' en una manera violentamente literal,
+traficando daños que superan su armadura por completo. Es inútil contra
+criaturas sin mente.
+
+%%%%
+wand of paralysis
+
+Un dispositivo mágico que puede hacer a una criatura inmóvil, incapaz de mover cualquier
+de sus miembros.
+
+%%%%
+wand of polymorph
+
+Un dispositivo mágico que hace que una criatura sea transmogrificada en otro
+forma. Es especialmente eficaz contra criaturas que cambian la forma.
+
+%%%%
+wand of quicksilver
+
+Un dispositivo mágico que dispara un rayo de energía destructiva, disipando
+Encantamientos sobre criaturas golpeadas.
+
+%%%%
+wand of roots
+
+Un dispositivo mágico que dispara una semilla mágica, enredando su objetivo y adyacente
+enemigos en raíces de árboles de rápido crecimiento. Los enredados Will se inmovilizan y toman
+daño con el tiempo hasta que escapan o las raíces se marchitan. Las raíces Will solamente
+salpicada de tierra firme.
+
+%%%%
+wand of warping
+
+Un dispositivo mágico que crea un breve pero violento grieta en el espacio, dañando
+todo atrapado en su velada y a veces parpadeando a corta distancia.
+
+%%%%
+war axe
+
+Un hacha militar con una larga hendidura y una cabeza de un solo cuerpo.
+
+%%%%
+wellspring talisman
+
+Una pequeña ánfora de la que derrama una cantidad aparentemente interminable de agua.
+Transforma la carne del portador en agua elemental, permitiéndoles moverse flexiblemente
+y alcance para atacar desde una gran distancia, aunque sin la precisión necesaria
+para apuñalar desde el rango. De vez en cuando, incluso pueden causar el agua alrededor de ellos
+para levantarse y ahogar a sus enemigos.
+
+La maleabilidad de este agua incluso les permite conservar los beneficios de sus
+mutaciones físicas, pero los ataques fríos pueden congelarlo sólido y el fuego puede causarlo
+erupción con vapor.
+
+%%%%
+whip
+
+Una larga franja de cuero. Originalmente desarrollada para uso en desacuerdos
+con ganado, este arma simple se utiliza ahora ampliamente para resolver diferencias
+entre todo tipo de criaturas.
+
+%%%%
+young poisoner's handbook
+
+Un libro introductorio para las artes mágicas del veneno. Los lectores se recomiendan
+usa un par de guantes muy gruesos y no absorbentes.
+
 %%%%
