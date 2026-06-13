@@ -1,111 +1,198 @@
-# DCSS — Traducción al español
+# DCSS-es — Dungeon Crawl Stone Soup en español
 
-Traducción al español (de España) de **Dungeon Crawl Stone Soup** v0.34.1.
+Traducción al **español de España** de **Dungeon Crawl Stone Soup** v0.34.1.
 
-## Estado actual
+[![Estado](https://img.shields.io/badge/estado-100%25-success)](https://github.com/tu_usuario/dcss-es)
+[![Versión](https://img.shields.io/badge/dcss-0.34.1-blue)](https://github.com/crawl/crawl)
+[![Licencia](https://img.shields.io/badge/licencia-GPLv2%2B-green)](LICENSE)
 
-| Sección     | EN        | ES      | %         |
-| ----------- | --------- | ------- | --------- |
-| `descript/` | 3.839     | 637     | 16,6%     |
-| `database/` | 2.064     | 0       | 0%        |
-| **Total**   | **5.903** | **637** | **10,8%** |
+---
 
-Última actualización: `python3 scripts/stats.py` para datos actualizados.
+## 📊 Estado
 
-## Estructura del proyecto
+| Sección     | EN        | ES        | %           |
+| ----------- | --------- | --------- | ----------- |
+| `descript/` | 3.825     | 3.871     | **100%** ✅ |
+| `database/` | 2.047     | 2.047     | **100%** ✅ |
+| **Total**   | **5.872** | **5.918** | **100%** 🎉 |
+
+**Todo el texto externo** (descripciones de monstruos, objetos, hechizos, diálogos, nombres de artefactos, etc.) está traducido.
+
+> Pendiente: interfaz de usuario y menús (C++ hardcode, ~3.300 cadenas) — [PLAN.md](docs/PLAN.md)
+
+---
+
+## 🚀 Cómo usar
+
+### Opción 1: Jugar con las traducciones (Linux)
+
+```bash
+# Descargar DCSS 0.34.1 AppImage
+wget https://github.com/crawl/crawl/releases/download/0.34.1/crawl-0.34.1-linux-x86_64.AppImage
+
+# Extraer
+chmod +x crawl-0.34.1-linux-x86_64.AppImage
+./crawl-0.34.1-linux-x86_64.AppImage --appimage-extract
+
+# Clonar este repositorio
+git clone https://github.com/tu_usuario/dcss-es.git
+cd dcss-es
+
+# Copiar traducciones al juego
+bash scripts/instalar.sh --dir ../squashfs-root
+
+# Configurar idioma en ~/.crawl/init.txt
+echo "language = es" >> ~/.crawl/init.txt
+
+# Jugar
+../squashfs-root/usr/bin/crawl
+```
+
+### Opción 2: Usar el lanzador incluido
+
+```bash
+./jugar.sh
+```
+
+El lanzador configura automáticamente `language = es` en `~/.crawl/init.txt`.
+
+---
+
+## 📁 Estructura del proyecto
 
 ```
 dcss-es/
-├── translations/          # Nuestros archivos de traducción
-│   ├── descript/es/       # Descripciones (habilidades, objetos, hechizos...)
-│   └── database/es/       # Diálogos, voces, nombres (pendiente de iniciar)
-├── upstream/              # Referencia de los archivos EN originales
-│   ├── descript/          # Copia snapshot del inglés
-│   └── database/          # Copia snapshot del inglés
-├── scripts/               # Herramientas
-│   ├── stats.py           # Estadísticas de cobertura
-│   ├── extract_entries.py # Extrae entradas sin traducir
-│   ├── sync_template.py   # Sincroniza con cambios del upstream
-│   ├── sort_entries.py    # Ordena entradas alfabéticamente
-│   ├── check_translations.py  # Valida formato y referencia
-│   └── update_upstream.py # Actualiza copias de referencia
-└── docs/                  # Documentación
+├── translations/
+│   ├── descript/es/        # 23 archivos — descripciones del juego
+│   └── database/es/        # 23 archivos — diálogos, voces, nombres
+├── upstream/
+│   ├── descript/           # Originales EN (referencia)
+│   └── database/           # Originales EN (referencia)
+├── scripts/
+│   ├── translate_batch.py   # Traducción masiva con LibreTranslate
+│   ├── stats.py             # Estadísticas de cobertura
+│   ├── terms.py             # Diccionario DCSS-es (1017 términos)
+│   ├── fix_angle_refs.py    # Corrige referencias <...>
+│   ├── actualizar_juego.sh  # Copia traducciones al juego instalado
+│   ├── check_translations.py
+│   ├── extract_entries.py
+│   ├── sort_entries.py
+│   ├── sync_template.py
+│   └── update_upstream.py
+├── docs/
+│   ├── PLAN.md              # Plan de proyecto y hoja de ruta
+│   ├── INSTALL.md           # Guía de instalación detallada
+│   └── TRANSLATION_GUIDE.md # Convenciones de traducción
+├── jugar.sh                 # Lanzador del juego en español
+├── README.md
+└── .gitignore
 ```
 
-## Herramientas
+---
 
-### Estadísticas
+## 📚 Documentación
+
+| Archivo                                                    | Descripción                                            |
+| ---------------------------------------------------------- | ------------------------------------------------------ |
+| [docs/PLAN.md](docs/PLAN.md)                               | Plan de proyecto y hoja de ruta (fases, hitos, estado) |
+| [docs/INSTALL.md](docs/INSTALL.md)                         | Guía de instalación detallada paso a paso              |
+| [docs/TRANSLATION_GUIDE.md](docs/TRANSLATION_GUIDE.md)     | Convenciones de traducción y normas de estilo          |
+| [docs/ARCHIVOS_TRADUCIDOS.md](docs/ARCHIVOS_TRADUCIDOS.md) | Listado completo de los 46 archivos traducidos         |
+
+---
+
+## 🛠 Herramientas
+
+### Estadísticas de cobertura
 
 ```bash
-python3 scripts/stats.py              # Informe completo
-python3 scripts/stats.py --json       # Salida JSON
+python3 scripts/stats.py           # Informe completo
+python3 scripts/stats.py --json    # Salida JSON
 ```
 
-### Extraer entradas sin traducir
+### Traducción automática (requiere LibreTranslate)
 
 ```bash
-python3 scripts/extract_entries.py                     # Todas las secciones
-python3 scripts/extract_entries.py --file spells.txt   # Archivo específico
-python3 scripts/extract_entries.py --output pending/   # Guardar pendientes
-python3 scripts/extract_entries.py --section database  # Sección database
+# Traducir todo lo que falte
+python3 scripts/translate_batch.py --missing
+
+# Archivo específico
+python3 scripts/translate_batch.py --file spells.txt
+
+# Sección database
+python3 scripts/translate_batch.py --section database --missing
 ```
 
-### Sincronizar con upstream
+Requiere [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) corriendo en `localhost:5000`:
 
 ```bash
-python3 scripts/sync_template.py                       # Detectar cambios nuevos
-python3 scripts/sync_template.py --dry-run             # Vista previa
-python3 scripts/sync_template.py --file items.txt      # Archivo específico
+docker run -d -p 5000:5000 libretranslate/libretranslate
 ```
 
-### Ordenar y validar
+### Actualizar juego instalado
 
 ```bash
-python3 scripts/sort_entries.py                        # Ordenar todo
-python3 scripts/sort_entries.py --file items.txt       # Archivo específico
-python3 scripts/check_translations.py                  # Validar todo
-python3 scripts/check_translations.py --fix            # Corregir automático
+bash scripts/actualizar_juego.sh
 ```
 
-### Actualizar referencia EN
+### Validar formato
 
 ```bash
-python3 scripts/update_upstream.py --repo /ruta/al/crawl
+python3 scripts/check_translations.py
 ```
 
-## Flujo de trabajo
+---
 
-1. **Elegir un archivo** — mira `scripts/extract_entries.py --file <archivo>` para ver lo que falta
-2. **Traducir** — edita `translations/descript/es/<archivo>.txt`
-3. **Validar** — `python3 scripts/check_translations.py --file <archivo>`
-4. **Verificar** — `python3 scripts/stats.py` para ver el progreso
-5. **Commit** — cuando esté listo, abrir PR al [repo oficial](https://github.com/crawl/crawl)
+## 🔤 Diccionario de términos (1017 entradas)
 
-### Formato de los archivos
+El archivo `scripts/terms.py` contiene:
 
-```
-%%%%
-Spit Poison ability
+| Categoría    | Cantidad | Propósito                                   |
+| ------------ | -------- | ------------------------------------------- |
+| FORCED_TERMS | 1.017    | Términos que NO deben traducirse libremente |
+| NO_TRANSLATE | 240      | Palabras que deben mantenerse en inglés     |
+| POST_PROCESS | 103      | Correcciones automáticas post-traducción    |
 
-Escupes veneno al monstruo que apuntes.
-%%%%
-```
+Ejemplos de términos protegidos:
 
-- `%%%%` separa cada entrada
-- La primera línea es la **clave** (siempre en inglés)
-- Después de un salto de línea, la **traducción**
-- `[[clave]]` para referencias a otras entradas
-- `{{ código Lua }}` para lógica condicional
-- `#` para comentarios
+- `Deep Elf` → `Elfo Profundo` (traducción exacta)
+- `Orb of Zot` → `Orbe de Zot` (se mantiene)
+- `AC`, `EV`, `SH` → se conservan (siglas del juego)
 
-## Cómo contribuir
+---
 
-1. Haz un fork de [crawl/crawl](https://github.com/crawl/crawl) en GitHub
-2. Traduce archivos en `crawl-ref/source/dat/descript/es/`
-3. Abre un Pull Request
+## 🗺 Plan de desarrollo
 
-O si prefieres, haz PR directamente a este repositorio y sincronizamos.
+| Fase   | Contenido                           | Estado       |
+| ------ | ----------------------------------- | ------------ |
+| **1a** | `descript/` inicial (23 archivos)   | ✅ 100%      |
+| **1b** | `database/` inicial (23 archivos)   | ✅ 100%      |
+| **2**  | C++ hardcode (~3.300 cadenas de UI) | ⏳ Pendiente |
+| **3**  | Revisión humana de calidad          | ⏳ Pendiente |
+| **4**  | PR al repositorio oficial           | ⏳ Pendiente |
 
-## Licencia
+Ver [PLAN.md](docs/PLAN.md) para detalles.
 
-GPLv2+ — igual que Dungeon Crawl Stone Soup.
+---
+
+## 🤝 Cómo contribuir
+
+1. Lee [TRANSLATION_GUIDE.md](docs/TRANSLATION_GUIDE.md) para las convenciones
+2. Revisa qué falta traducir con `python3 scripts/stats.py`
+3. Traduce editando directamente los archivos en `translations/`
+4. Ejecuta `python3 scripts/check_translations.py` para validar
+5. Abre un Pull Request
+
+---
+
+## 📜 Licencia
+
+**GPLv2+** — misma licencia que [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl).
+
+---
+
+## 🙏 Atribuciones
+
+- [Crawl DevTeam](https://github.com/crawl/crawl) — el juego original
+- [LibreTranslate](https://libretranslate.com/) — motor de traducción automática
+- Todos los contribuyentes que ayuden a mejorar esta traducción
