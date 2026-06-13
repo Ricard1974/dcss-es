@@ -51,6 +51,7 @@ content = content.replace(
 
 # Reemplazar cadenas estáticas
 replacements = [
+    # Pantalla de especie/trasfondo
     ('"+ - Recommended species"', 'tr("+ - Recommended species")'),
     ('"+ - Recommended background"', 'tr("+ - Recommended background")'),
     ('"# - Recommended character"', 'tr("# - Recommended character")'),
@@ -61,6 +62,7 @@ replacements = [
         '"Lists the numerical skill train aptitudes for all races."',
         'tr("Lists the numerical skill train aptitudes for all races.")',
     ),
+    # Pantalla de nombre
     ('"Esc - Quit"', 'tr("Esc - Quit")'),
     ('"* - Random name"', 'tr("* - Random name")'),
     ('formatted_string("Enter - Begin!"', 'formatted_string(tr("Enter - Begin!")'),
@@ -80,10 +82,41 @@ replacements = [
         'make_shared<Text>("Do you want to play this combination? [Y/n/q]")',
         'make_shared<Text>(tr("Do you want to play this combination? [Y/n/q]"))',
     ),
+    ('"No player name specified."', 'tr("No player name specified.")'),
+    # Semilla personalizada
     ('"Seed: "', 'tr("Seed: ")'),
     (
         'set_child(make_shared<ui::Text>("Fully pregenerate the dungeon"))',
         'set_child(make_shared<ui::Text>(tr("Fully pregenerate the dungeon")))',
+    ),
+    ('formatted_string("[Enter] Begin!"', 'formatted_string(tr("[Enter] Begin!")'),
+    ('formatted_string("[-] Clear"', 'formatted_string(tr("[-] Clear")'),
+    (
+        'formatted_string("[d] Today\'s daily seed"',
+        'formatted_string(tr("[d] Today\'s daily seed")',
+    ),
+    # Armas
+    ('"+ - Recommended random choice"', 'tr("+ - Recommended random choice")'),
+    ('"* - Random weapon"', 'tr("* - Random weapon")'),
+    ('"Picks a random recommended weapon"', 'tr("Picks a random recommended weapon")'),
+    ('"Picks a random weapon"', 'tr("Picks a random weapon")'),
+    ('"Bksp - Return to character menu"', 'tr("Bksp - Return to character menu")'),
+    (
+        '"Lets you return back to Character choice menu"',
+        'tr("Lets you return back to Character choice menu")',
+    ),
+    ('"Select your old weapon"', 'tr("Select your old weapon")'),
+    ('"You have a choice of weapons."', 'tr("You have a choice of weapons.")'),
+    (
+        '"Play a new game with your previous choice."',
+        'tr("Play a new game with your previous choice.")',
+    ),
+    # Sprint / Tutorial
+    ('"* - Random map"', 'tr("* - Random map")'),
+    ('"Picks a random sprint map"', 'tr("Picks a random sprint map")'),
+    (
+        '"Select your previous sprint map and character"',
+        'tr("Select your previous sprint map and character")',
     ),
 ]
 
