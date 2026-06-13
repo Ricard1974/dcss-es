@@ -1,0 +1,9 @@
+# Traducciones de UI de DCSS - Misceláneo
+# Fuente: misc.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+You spin around.|Giras sobre ti mismo.
+Your stasis prevents you from teleporting.|Tu estasis te impide teletransportarte.
+humor and ridicule to confront the|el humor y el ridículo para confrontar
+power of death.|poder de la muerte.

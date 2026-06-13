@@ -1,0 +1,336 @@
+# Traducciones de UI de DCSS - Habilidades
+# Fuente: skills.cc, skill-menu.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+# --- Nombres de habilidades ---
+Fighting|Combate
+Short Blades|Espadas cortas
+Long Blades|Espadas largas
+Axes|Hachas
+Maces & Flails|Mazas y mayales
+Polearms|Armas de asta
+Staves|Bastones
+Ranged Weapons|Armas a distancia
+Throwing|Proyectiles
+Armour|Armadura
+Dodging|Esquivar
+Stealth|Sigilo
+Shields|Escudos
+Unarmed Combat|Combate sin armas
+Spellcasting|Lanzamiento de hechizos
+Conjurations|Conjuración
+Hexes|Maleficios
+Summonings|Invocaciones
+Necromancy|Nigromancia
+Translocations|Traslocaciones
+Forgecraft|Forja
+Fire Magic|Magia de Fuego
+Ice Magic|Magia de Hielo
+Air Magic|Magia de Aire
+Earth Magic|Magia de Tierra
+Alchemy|Alquimia
+Invocations|Invocación
+Evocations|Evocación
+Shapeshifting|Cambiaformas
+Slings|Hondas
+Crossbows|Ballestas
+Stabbing|Apuñalamiento
+Traps|Trampas
+Charms|Encantamientos
+
+# --- Títulos sin placeholders ---
+Abyssopelagic|Abysopelagic
+Acrobat|Acrobat
+Adventurer|Adventurer
+Agnostic|Agnostic
+Annihilator|Annihilator
+Anointer|Anointer
+Apostate|Apostate
+Apothecary|Apothecary
+Architect of Ages|Arquitecto de Edades
+Archmage|Archmage
+Arsonist|Arsonist
+Ascendant|Ascendente
+Axe Maniac|Hacha Maniac
+Backstabber|Backstabber
+Basher|Basher
+Bewitcher|Bewitcher
+Black Belt|Cinturón negro
+Black Lotus|Loto negro
+Blackguard|Blackguard
+Blademaster|Blademaster
+Blinker|Blinker
+Blocker|Bloqueador
+Blood Saint|Sangre
+Bludgeoner|Bludgeoner
+Bolt Thrower|Tirador virote
+Brawler|Brawler
+Brimstone Smiter|Brimstone Smiter
+Caller|Caller
+Carver|Carver
+Changeling|Cambios
+Chaos Fanatic|Caos Fanatic
+Charlatan|Charlatan
+Charmwright|Charmwright
+Chief of Staff|Jefe de Estado Mayor
+Chiller|Chiller
+Chopper|Chopper
+Chucker|Chucker
+Cleaver|Cleaver
+Cloud Mage|Nube mago
+Cobgoblin|Cobgoblin
+Cogmind|Cogmind
+Conjurer|Conjurador
+Conqueror|Conquistador
+Convoker|Convoker
+Corpseflower|Corpseflower
+Covered|Cubierta
+Covert|Cubierta
+Crack Shot|Crack Shot
+Cruiser|Cruiser
+Cruncher|Cruncher
+Crusher|Crusher
+Cryomancer|Cryomancer
+Cudgeller|Cudgeller
+Cutter|Cutter
+Cutthroat|Cutthroat
+Danse Macabre|Danse Macabre
+Deadly Accurate|Precisión mortal
+Death Knight|Caballero de la Muerte
+Defender|Defender
+Demonologist|Demonologist
+Destroyer|Destructor
+Devastator|Devastator
+Digger|Digger
+Disarmer|Disarmer
+Dissident|Disident
+Ducker|Ducker
+Dungeon Master|Calabozo Master
+Earth Mage|Tierra mago
+Eclecticist|Eclecticist
+Englaciator|Englaciator
+Eviscerator|Eviscerator
+Evocator|Evocator
+Ex Machina|Ex Machina
+Executioner|Executioner
+Fabricator|Fabricador
+Faerie Dragon|Faerie dragón
+Feather|Feather
+Fencer|Fencer
+Fetichist|Fetichist
+Fighter|Guerrero
+Firebug|Firebug
+Fire Dragon|Fuego Dragón
+Fire Storm|Fuego Storm
+Flawless|Impecable
+Forbidden One|Forbidden One
+Frogwright|Frogwright
+Frost Mage|Frost mago
+Gelid|Gelid
+Geomancer|Geomancer
+God-Hated|Dios
+Gouger|Gouger
+Gracecrafter|Gracecrafter
+Grand Master|Gran Maestro
+Grappler|Grappler
+Grasshopper|Grasshopper
+Grave Robber|Tumba Robber
+Gusty|Gusty
+Hawkeye|Hawkeye
+Heavy|Pesado
+Hell Knight|Caballero Infierno
+Hellbinder|Hellbinder
+Herculean|Herculean
+Heretic|Hereje
+Hermetic|Hermetic
+Highly Combustible|Muy combustible
+Holy Roller|Holy Roller
+Hoplite|Hoplite
+Ice Dragon|Dragón de hielo
+Impaler|Impaler
+Imperceptible|Imperceptible
+Impregnable|Impregnable
+Incurious|Incurioso
+Infernalist|Infernalist
+Infuser|Infusor
+Insei|Insei
+Intangible|Intangible
+Invulnerable|Invulnerable
+Iron Dragon|Dragón de hierro
+Iron Golem|Hierro gólem
+Iron Troll|Trol de hierro
+Jinx|Jinx
+Keeper of the Flame|Guardián de la Llama
+Kraken|Kraken
+Laughing Skull|Laughing Skull
+Leviathan|Leviatán
+Light|Luz
+Magician|Mago
+Maledictor|Maledictor
+Marid|Marid
+Martial Artist|Martial Artist
+Master Archer|Maestro Archer
+Mechanist|Mechanist
+Metallomancer|Metallomancer
+Metamorph|Metamor
+Meteorologist|Meteorologist
+Middle|Medio ambiente
+Mimic|Mimic
+Miracle Worker|Miracle Worker
+Miscreant|Miscreant
+Miser|Miser
+Molten|Molten
+Necrodancer|Necrodancer
+Necromancer|Nigromante
+Necromech|Necromech
+Nightshade|Nightshade
+Nimble|Nimble
+Ninja|Ninja
+Pearl Dragon|Perla dragón
+Peltast|Peltast
+Perceptive|Perceptivo
+Petite Mort|Petite Mort
+Petrodigitator|Petrodigitator
+Phalangite|Phalangite
+Pharaoh|Faraón
+Philosopher|Filosofía
+Pinnacle of Evolution|Pinnacle of Evolution
+Poker|Poker
+Polar Vortex|Polar Vortex
+Politician|Politicano
+Polterguardian|Polterguardian
+Portalist|Portalist
+Prestidigitator|Prestidigitator
+Prickly Pangolin|Prickly Pangolin
+Protected|Protegido
+Pulveriser|Pulveriser
+Pyromancer|Pyromancer
+Quickloader|Quickloader
+Quintessent|Quintessent
+Reanimator|Reanimator
+Ripper|Ripper
+Rockslime|Rockslime
+Rolling Thunder|Rolling Thunder
+Royal Mummy|Royal Momia
+Ruffian|Ruffian
+Ruinous|Ruinous
+Ruthless|Ruthless
+Sabretooth|Sabretooth
+Scorcher|Scorcher
+Scout|Scout
+Scratcher|Scratcher
+Sensei|Sensei
+Severer|Severer
+Sharpshooter|Sharpshooter
+Shatterer|Shatterer
+Shield-Bearer|Escudo-Bearer
+Shooter|Shooter
+Siegecrafter|Siegecrafter
+Siren|Siren
+Skirmisher|Skirmisher
+Skinwalker|Skinwalker
+Skullcrusher|Skullcrusher
+Slasher|Slasher
+Slayer|Slayer
+Slicer|Slicer
+Slinger|Slinger
+Slingshot|Slingshot
+Smokeless Flame|Llama sin humo
+Sneak|Sneak
+Sniper|Sniper
+Sorcerer|Hechicero
+Spatial Maelstrom|Maelstrom espacial
+Spear-Bearer|Lanza-Bearer
+Spellbinder|Spellbinder
+Spry|Spry
+Stickfighter|Stickfighter
+Storm Dragon|Tormenta Dragón
+Stormcaller|Stormcaller
+Summoner|Invocador
+Swamp Dragon|Dragón del pantano
+Swashbuckler|Swashbuckler
+Swordfish|Swordfish
+Swordmaster|Swordmaster
+Teletunneler|Teletunneler
+Thanatomancer|Thanatomancer
+Thaumaturge|Thaumaturge
+Thief of Divinity|Ladrón de la Divinidad
+Thrower|Tirador
+Tinkerer|Tinkerer
+Titancaster|Titancaster
+Tortoise|Tortoise
+Toxicologist|Toxicologist
+Trooper|Trooper
+True Ascetic|Verdadero Asceta
+Twirler|Twirler
+Twister|Twister
+Unbeliever|Incrédulo
+Undying Armoury|Armoury indiferente
+Unseen|Unseen
+Vandal|Vandal
+Vexing|Vexting
+Vigilant|Vigilante
+Wallbreaker|Wallbreaker
+Warrior|Guerrero
+Weightless Champion|Campeón sin peso
+Whirler|Whirler
+Who Hides the Stars|Quien esconde las estrellas
+Wishgranter|Wishgranter
+Worldbinder|Worldbinder
+Wrestler|Wrestler
+Yokozuna|Yokozuna
+Zephyrmancer|Zephyrmancer
+
+# --- Títulos con placeholders (@...@) ---
+@Adj@ Arbalest|@Adj@ Arbalesta
+@Adj@ Ballista|@Adj@ Ballista
+@Adj@ Barricade|@Adj@ Barricada
+@Adj@ Blade|@Adj@ Hoja
+@Adj@ Catapult|@Adj@ Catapulta
+@Adj@ Porcupine|@Adj@ Puercoespín
+@Genus_Short@ of Death|@Genus_Short@ de la Muerte
+@Weight@weight Champion|@Weight@campeón
+Marks@genus@|Marcas@genus@
+Merry @Genus@|Alegre @Genus@
+Placeless @Genus@|Sin lugar @Genus@
+Plane @Walker@|Plano @Walker@
+Shapeless @Genus@|Informe @Genus@
+
+# --- Cadenas de interfaz ---
+You cannot train any new skills!|¡No puedes entrenar nuevas habilidades!
+You need to enable at least one skill for training.|Necesitas habilitar al menos una habilidad para entrenar.
+Your training target must be 27 or below!|Tu objetivo de entrenamiento debe ser 27 o menor!
+You can't set training targets!|¡No puedes establecer objetivos de entrenamiento!
+In automatic mode, skills are trained as you use them.|En modo automático, las habilidades se entrenan mientras las usas.
+Focused skills train twice as fast relative to others.|Las habilidades centradas se entrenan el doble de rápido en relación con otras.
+In manual mode, experience is spread evenly across all|En modo manual, la experiencia se extiende uniformemente entre todas las
+Select the skills to train.|Selecciona las habilidades para entrenar.
+Select the skills you want to be trained.|Selecciona las habilidades que quieras entrenar.
+Press the letter of a skill to cycle between|Pulsa la tecla de una habilidad para alternar entre
+Press the letter of a skill to choose whether you want to|Pulsa la tecla de una habilidad para elegir si deseas
+Press <w>?</w> for a general explanation|Pulsa <w>?</w> para una explicación general
+Return to skill selection|Volver a selección de habilidades
+set skill target|establecer objetivo de habilidad
+will not be trained.|no se entrenarán.
+The percentage of incoming experience used|Porcentaje de la experiencia entrante usada
+The percentage of the progress done before reaching next|El porcentaje del progreso antes de alcanzar el siguiente
+The relative cost of raising each skill is in|El coste relativo de subir cada habilidad está en
+The species aptitude is in <white>white</white>.|La aptitud de la especie está en "blanco".
+The chosen skills will be raised to the level shown in|Las habilidades elegidas se subirán al nivel indicado en
+Bonus from skill manuals is in <lightred>red</lightred>.|La bonificación de los manuales de habilidades está en <lightred>rojo</lightred>.
+Skills enhanced by|Habilidades potenciadas por
+Skills reduced by|Habilidades reducidas por
+You feel omnipotent.|Te sientes omnipotente.
+You have gained great experience.|Has ganado una gran experiencia.
+enabled (+) and <white>focused</white> (<white>*</white>)).|habilitado (+) y <white>centrado</white> (<white>*</white>)).
+practise it. Skills marked with '<darkgrey>-</darkgrey>'|Practícala. Las habilidades marcadas con '<darkgrey>-</darkgrey>'
+the Bane of the Dilettante|la Perdición del Diletante
+the Charlatan's Orb|el Orbe del Charlatán
+the Hermit's pendant|el colgante del Ermitaño
+of skilling and the various toggles.|del entrenamiento y los diversos modificadores.
+[<yellow>-</yellow>] clear all targets|[<yellow>-</yellow>] borrar todos los objetivos
+[<yellow>-</yellow>] clear selected target|[<yellow>-</yellow>] borrar objetivo seleccionado
+[<yellow>=</yellow>] set a skill target|[<yellow>=</yellow>] establecer objetivo de habilidad
+Invalid switch state.|Estado de interruptor inválido.
+Invalid view state.|Estado de vista inválido.

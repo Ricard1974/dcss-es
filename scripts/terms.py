@@ -1635,4 +1635,29 @@ POST_PROCESS = [
     # "el suelo" en vez de "la suelo"
     (r"\bdel suelo\b", "del suelo"),
     (r"\bde la suelo\b", "del suelo"),
+    # "en Tú" al final de frase (mal traducido de "on you")
+    (r"\b en Tú\b", " sobre ti"),
+    (r"\b en tú\b", " sobre ti"),
+    # "tú [verbo conjugado en 3ª persona]" → corrección de concordancia
+    (r"\btú puede\b", "puedes"),
+    (r"\btú derrota\b", "derrotas"),
+    (r"\btú[áa]is\b", "tú"),
+    # Verbos con -rr final (LT añade r extra)
+    (r"\bentrenarr\b", "entrenar"),
+    # "trafica" en contexto de cartas
+    (r"\btrafica\b", "reparte"),
+    # "enciende" como "turn on" (attack) en lugar de "vuelve contra"
+    (r"\bte encienden\b", "se vuelven contra ti"),
+    # Mayúscula inicial en mensajes completos (There/You/This que empiezan frase)
+    (r"^no ", "No "),
+    (r"^la ", "La "),
+    (r"^los ", "Los "),
+    (r"^las ", "Las "),
+    (r"^el ", "El "),
+    (r"^tu ", "Tu "),
+    # "Prensa" → "Pulsa" (LT traduce mal "Press" como "Prensa")
+    (r"\bPrensa\b", "Pulsa"),
+    (r"\bprensa\b", "pulsa"),
+    # "para ayudar" → "para ayuda" (LT usa infinitivo donde va sustantivo)
+    (r"para ayudar", "para ayuda"),
 ]

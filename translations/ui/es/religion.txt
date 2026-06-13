@@ -1,0 +1,450 @@
+# Traducciones de UI de DCSS - Religión
+# Fuente: religion.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+#define YRED_SEEN_ZOMBIE_KEY|#define YRED SEEN zombi tecla
+#ifdef DEBUG_RELIGION
+#    define DEBUG_DIAGNOSTICS
+#    define DEBUG_GIFTS
+#    define DEBUG_SACRIFICE
+#    define DEBUG_PIETY
+#endif
+
+#define PIETY_HYSTERESIS_LIMIT 1
+
+#define MIN_IGNIS_PIETY_KEY|#ifdef DEBUG RELIGION
+# define DEBUG DIAGNOSTICS
+# define DEBUG GIFTS
+# define DEBUG sacrificar
+# define DEBUG piedad
+#endif
+
+#define piedad HYSTERESIS LIMIT 1
+
+#define MIN IGNIS piedad tecla
+%s glows horrifically with a foul blackness!|%s brilla horriblemente con una nefasta oscuridad!
+%s goes dull and lifeless in your grasp.|%s va aburrido y sin vida a tu alcance.
+%s regains the memory of %s %s.|%s recupera la memoria de %s %s.
+%s remembers %s %s %s.|%s recuerda %s %s %s %s.
+%s remembers more of %s old skill.|%s recuerda más de %s de habilidad vieja.
+%s removes the imprint of %s from your paragon.|%s elimina la huella de %s de tu paragon.
+%s warns you to remove %s.|%s le advierte a eliminar %s.
+);
+        default:
+            return|);
+default:
+regreso
+);
+    }
+
+    if (long_name)
+    {
+        const string shortname = god_name(which_god, false);
+        const string longname = getMiscString(shortname +|);
+}
+
+si (long name)
+{}
+const string shortname = god name(que god, false);
+const string longname = getMiscString(shortname)
+, and vanishes|, y desaparece
+, false, which_god);
+        }
+        return;
+    }
+
+    simple_god_message(|, false, which god);
+}
+retorno;
+}
+
+simple god message
+, fee);
+        }
+        else
+        {
+            mprf(|, honorarios);
+}
+más
+{}
+mprf(
+, fee, you.gold);
+        }
+        return;
+    }
+    if (you.get_mutation_level(MUT_NO_LOVE) && _god_rejects_loveless(which_god))
+    {
+        simple_god_message(|, tarifa, Tú.oro);
+}
+retorno;
+}
+si (Tú.get mutation nivel(MUT no LOVE)
+...but nothing appears.|...pero nada aparece.
+...but the divine are already as distant as possible.|...pero lo divino ya está lo más distante posible.
+...but the rich have no need for faith.|...pero los ricos no tienen necesidad de fe.
+...but you know Xom will still be watching.|...pero sabes que Xom seguirá vigilando.
+;
+
+        if (is_evil_god(your_god))
+            return|;
+
+si (es evil god(tu god))
+regreso
+;
+                    auto next = it;
+                    next++;
+                    if (next == offers.end())
+                        prompt +=|;
+automático siguiente = it;
+siguiente ;
+if (next == offers.end()))
+prompt =
+;
+                    prompt +=|;
+prompt =
+;
+                }
+                prompt += spell_title(*it);
+                _add_to_old_gifts(*it);
+                take_note(Note(NOTE_OFFERED_SPELL, *it));
+            }
+            prompt +=|;
+}
+prompt = hechizo title(*it);
+add to old gifts(*it);
+take note(Note(NOTE OFFERED hechizo, *it));
+}
+prompt =
+;
+        case 1: return|;
+caso 1: retorno
+;
+        case 2: return|;
+caso 2: retorno
+;
+        case 3: return|;
+caso 3: retorno
+;
+        case 4: return|;
+caso 4: retorno
+;
+        case 5: return|;
+caso 5: retorno
+;
+        case 6: return|;
+caso 6: retorno
+;
+        default: return|;
+default: return
+;
+    const string suffix = gender_name +|;
+const string suffix = gender name
+;
+    if (second_name)
+        name +=|;
+si (segundo nombre)
+nombre =
+;
+    string name = getRandMonNameString(|;
+nombre de la cadena = getRandMonNameString
+;
+    }
+
+    return|;
+}
+
+regreso
+;
+    }
+    return|;
+}
+regreso
+A divine halo surrounds you!|¡Un halo divino te rodea!
+A storm instantly forms around you!|¡Una tormenta te forma instantáneamente a tu alrededor!
+All of your fellow slimes turn on you.|Todos tus compañeros limos te vuelven contra ti.
+All of your followers decide to abandon you.|Todos tus seguidores deciden abandonarte.
+Ashenzari identifies your possessions.|Ashenzari identifica tus posesiones.
+Ashenzari keeps your mind clear.|Ashenzari mantiene tu mente clara.
+Ashenzari no longer protects you from the dungeon's malevolent forces.|Ashenzari ya no te protege de las fuerzas malévolas del calabozo.
+Ashenzari no longer reveals the structure of the nearby dungeon.|Ashenzari ya no revela la estructura del calabozo cercano.
+Ashenzari protects you from the dungeon's malevolent forces.|Ashenzari te protege de las fuerzas malévolas del calabozo.
+Ashenzari reveals the structure of the nearby dungeon.|Ashenzari revela la estructura del calabozo cercano.
+Ashenzari reveals the unseen.|Ashenzari revela los invisibles.
+Ashenzari shows you where magical portals lie.|Ashenzari te muestra dónde están los portales mágicos.
+Ashenzari warns you of distant threats and treasures.\n|Ashenzari te advierte de amenazas y tesoros distantes
+Ashenzari will no longer identify your possesions.|Ashenzari ya no identificará tus possesiones.
+Ashenzari will no longer keep your mind clear.|Ashenzari ya no mantendrá tu mente clara.
+Ashenzari will no longer reveal the unseen.|Ashenzari ya no revelará los invisibles.
+Ashenzari will now identify your possessions.|Ashenzari identificará tus posesiones.
+Ashenzari will now keep your mind clear.|Ashenzari mantendrá tu mente clara.
+Ashenzari will now protect you from the dungeon's malevolent forces.|Ashenzari ahora te protegerá de las fuerzas malévolas del calabozo.
+Ashenzari will now reveal the unseen.|Ashenzari revelará ahora a los invisibles.
+Bad god, no bishop!|¡Mal dios, no hay obispo!
+Beogh will no longer send orc apostles to challenge you in battle.|Beogh ya no enviará a los apóstoles orcos para desafiarte en la batalla.
+Beogh will now send orc apostles to challenge you in battle as you gain piety.|Beogh enviará ahora a los apóstoles de orco para desafiarte en la batalla mientras ganas piedad.
+Beogh will send orc apostles to challenge you in battle as you gain piety.|Beogh enviará a los apóstoles orco para desafiarte en la batalla mientras ganas piedad.
+Cheibriados is now slowing the effects of poison on you.|Cheibriados ahora ralentiza los efectos del veneno sobre ti.
+Cheibriados slows the effects of poison on you.|Cheibriados ralentiza los efectos del veneno sobre ti.
+Cheibriados will no longer slow the effects of poison on you.|Cheibriados ya no ralentizará los efectos del veneno sobre ti.
+Current number of gifts from this god: %d|Número actual de regalos de este dios: %d
+Decreasing penance by %d|Reducción de la penitencia en %d
+Dithmenos no longer quiets all noise in your surroundings.|Dithmenos ya no calla todo el ruido en tus alrededores.
+Dithmenos quiets all noise in your surroundings.|Dithmenos calla todo el ruido en tus alrededores.
+FAKE GOD MONSTER|FALSO DIOS MONSTRUO
+Furious gurgling surrounds you!|¡Un furioso gorgoteo te rodea!
+Gozag turns your defeated foes' bodies to gold.|Gozag convierte tus cuerpos de enemigos derrotados en oro.
+INT_MAX is no good|INT_MAX no es válido
+Jiyva's grace|gracia de Jiyva
+Kikubaaqudgha is no longer ready to enhance your necromancy.|Kikubaaqudgha ya no está listo para mejorar tu necromancía.
+Kikubaaqudgha is now protecting you from necromantic miscasts and death curses.|Kikubaaqudgha ahora te está protegiendo de las maldiciones necrométicas y las maldiciones de muerte.
+Kikubaaqudgha is now protecting you from unholy torment.|Kikubaaqudgha ahora te está protegiendo de un tormento impía.
+Kikubaaqudgha protects you from necromantic miscasts and death curses.|Kikubaaqudgha te protege de las maldiciones necrométicas y las maldiciones de muerte.
+Kikubaaqudgha protects you from unholy torment.|Kikubaaqudgha te protege de un tormento impía.
+Kikubaaqudgha will grant you forbidden knowledge or bloody your weapon with pain... once.|Kikubaaqudgha te concederá conocimiento prohibido o sangre tu arma con dolor... una vez.
+Kikubaaqudgha will grant you forbidden knowledge.|Kikubaaqudgha te concederá conocimiento prohibido.
+Kikubaaqudgha will no longer protect you from necromantic miscasts or death curses.|Kikubaaqudgha ya no te protegerá de las maldiciones necrométicas o maldiciones de muerte.
+Kikubaaqudgha will no longer protect you from unholy torment.|Kikubaaqudgha ya no te protegerá de un tormento impío.
+Lugonu is no longer ready to corrupt your weapon.|Lugonu ya no está listo para corromper tu arma.
+Lugonu may banish nearby foes when other gods try to punish you.|Lugonu puede desterrar enemigos cercanos cuando otros dioses tratan de castigarte.
+Lugonu protects you from the effects of unwielding distortion weapons.|Lugonu te protege de los efectos de las armas de distorsión inquebrantables.
+Lugonu will corrupt your weapon with distortion... once.|Lugonu corromperá tu arma con distorsión... una vez.
+Makhleb's blessing|bendición de Makhleb
+Monster '%s' was already a gift of god '%s', now god '%s'.|Monstruo '%s' ya era un regalo de dios '%s', ahora dios '%s'.
+Okawaru is no longer ready to gift you armour.|Okawaru ya no está listo para regalarte armadura.
+Okawaru is no longer ready to gift you weaponry.|Okawaru ya no está listo para darte armas.
+Okawaru requires that you fight alone, and prevents you from gaining allies.|Okawaru requiere que pelees solo, y te impide ganar aliados.
+Okawaru will gift you throwing weapons as you gain piety.|Okawaru te dará lanzar armas mientras ganas piedad.
+Okawaru will grant you a choice of armour... once.|Okawaru te concederá una opción de armadura... una vez.
+Okawaru will grant you a choice of weapons... once.|Okawaru te concederá una elección de armas... una vez.
+Okawaru will no longer gift you throwing weapons.|Okawaru ya no te regalo lanzar armas.
+Okawaru will now gift you throwing weapons as you gain piety.|Okawaru ahora te regalo lanzar armas mientras ganas piedad.
+Piety decreasing by %d (and %d added to hysteresis)|Cantidad decreciente por %d (y %d añadido a la histeria)
+Piety slowdown due to gift timeout.|Desaceleración por el tiempo de regalo.
+Qazlal grants you and your divine allies immunity to clouds.|Qazlal te otorga inmunidad a las nubes a tus aliados divinos.
+Slime Pits.|Fosas de Moco.
+The Shining One is no longer ready to bless your weapon.|El Resplandeciente ya no está listo para bendecir tu arma.
+The Shining One will bless your weapon with holy wrath... once.|El Resplandeciente bendecirá tu arma con santa ira... una vez.
+The plants of the dungeon cease their|Las plantas de la mazmorra cesan
+The plants of the dungeon turn on you.|Las plantas de la mazmorra se vuelven contra ti.
+The service fee for joining is currently %d gold; you have|la cuota de servicio para unirse es actualmente oro %d; Tú tiene
+The storm surrounding you dissipates.|La tormenta que te rodea te disipa.
+The storm surrounding you is now powerful enough to repel missiles.|La tormenta que te rodea ahora es lo suficientemente poderosa para repeler los misiles.
+The storm surrounding you is now too weak to repel missiles.|La tormenta que te rodea ahora es demasiado débil para repeler los misiles.
+The storm surrounding you is powerful enough to repel missiles.|La tormenta que te rodea es lo suficientemente poderosa para repeler los misiles.
+This will place you under penance!|¡Esto te pondrá bajo penitencia!
+Total number of gifts from this god: %d|Número total de regalos de este dios: %d
+Uskayaw will force your foes to helplessly watch your dance.|Uskayaw forzará a tus enemigos a ver tu baile sin ayuda.
+Uskayaw will force your foes to share their pain.|Uskayaw obligará a tus enemigos a compartir tu dolor.
+Uskayaw will no longer force your foes to helplessly watch your dance.|Uskayaw ya no obligará a tus enemigos a ver tu baile de forma indefensa.
+Uskayaw will no longer force your foes to share their pain.|Uskayaw ya no obligará a tus enemigos a compartir tu dolor.
+Vehumet aids your destructive spells.|Vehumet ayuda a tus hechizos destructivos.
+Vehumet extends the range of your destructive spells.|Vehumet extiende la gama de tus hechizos destructivos.
+Vehumet is now aiding your destructive spells.|Vehumet ahora está ayudando a tus hechizos destructivos.
+Vehumet is now extending the range of your destructive spells.|Vehumet ahora extiende la gama de tus hechizos destructivos.
+Vehumet will no longer aid your destructive spells.|Vehumet ya no ayudará a tus hechizos destructivos.
+Vehumet will no longer extend the range of your destructive spells.|Vehumet ya no extenderá la gama de tus hechizos destructivos.
+You %s the altar of %s.|Cien el altar de %s.
+You adapt resistances upon receiving elemental damage.|Adaptas resistencias al recibir daño elemental.
+You and your allies can gain power from killing the unholy and evil.|Tú y tus aliados pueden ganar el poder de matar al impío y al mal.
+You and your allies can no longer gain power from killing the unholy and evil.|Vosotros y vuestros aliados ya no podéis ganar el poder de matar al impío y al mal.
+You and your allies can now gain power from killing the unholy and evil.|Tú y tus aliados ahora pueden ganar el poder de matar a los impíos y al mal.
+You are now surrounded by a storm.|Ahora estás rodeado por una tormenta.
+You are resistant to fire.|Eres resistente al fuego.
+You are shrouded in an aura of darkness!|¡Estás envuelto en un aura de oscuridad!
+You are surrounded by a storm.|Estás rodeado por una tormenta.
+You bow before the missionary of Beogh.|Te inclinas ante el misionero de Beogh.
+You can no longer %s.|Ya no puedes %s.
+You can now %s.|Ahora puedes %s.
+You can recruit apostles that you defeat into your service.|Puedes reclutar a tu servicio los apóstoles que derrotes.
+You can walk through plants and fire through allied plants.|Puedes caminar a través de plantas y disparar a través de plantas aliadas.
+You drain nearby creatures when transferring your ancestor.|Tú drena criaturas cercanas al transferir tu antepasado.
+You feel a momentary loss of self-confidence.|Siente una pérdida momentánea de confianza en sí mismo.
+You feel as though nothing has changed.|Te sientes como si nada hubiera cambiado.
+You feel the divine grow more distant.|Sientes que lo divino te vuelve más distante.
+You feel the divine notice you fully once more.|Tú siente el aviso divino Tú completamente una vez más.
+You feel%sguilty.|Te sientes mal.
+You have enough gold to %s.|Tienes suficiente oro para %s.
+You have lost your religion!|¡Has perdido tu religión!
+You may now remember your ancestor's life.|Ahora puedes recordar la vida de tu ancestro.
+You no longer drain nearby creatures when transferring your ancestor.|Ya no drenas criaturas cercanas al transferir tu antepasado.
+You no longer exude an aura of power that intimidates your foes.|Ya no exudes un aura de poder que intimida a tus enemigos.
+You now drain nearby creatures when transferring your ancestor.|Ahora drenas criaturas cercanas cuando transfieres tu antepasado.
+You now exude an aura of power that intimidates your foes.|Ahora exudes un aura de poder que intimida a tus enemigos.
+You now have %s.|Ahora tienes %s.
+You pay a service fee of %d gold.|Tú atraviesa una cuota de servicio de oro %d.
+You sense decay.|Sientes descomposición.
+You will no longer adapt resistances upon receiving elemental damage.|Ya no adaptarás resistencias al recibir daño elemental.
+You will now adapt resistances upon receiving elemental damage.|Ahora adaptarás resistencias al recibir daño elemental.
+You will pay for your evil ways, mortal|Pagarás por tus malos caminos, mortal
+You will pay for your transgression, mortal!\|¡Pagarás por tu transgresión, mortal
+You will suffer for embracing such %s|Tú sufrirá por abrazar tales porcentajes
+Your %s burns with power once more.|Sus porcentajes te queman con energía una vez más.
+Your access to %s's decks is revoked.|Tu acceso a cubiertas de %s es revocado.
+Your amulet flashes!|¡Tu amuleto destella!
+Your ancestor manifests to aid you.|Tu antepasado te manifiesta para ayudarte.
+Your apostles are sometimes healed when you deal damage.|Sus apóstoles a veces son curados cuando Tú hace daño.
+Your aura of darkness fades away.|Tu aura de oscuridad te desvanece.
+Your aura of darkness returns!|¡Tu aura de la oscuridad regresa!
+Your aura of power can now strike those that harm you.|Tu aura de poder ahora puede golpear a los que te hacen daño.
+Your aura of power can strike those that harm you.|Tu aura de poder puede golpear a los que te hacen daño.
+Your aura of power no longer strikes those that harm you.|Tu aura de poder ya no golpea a los que te hacen daño.
+Your body glows slightly and disappears.|Tu cuerpo brilla ligeramente y desaparece.
+Your body glows slightly brighter and disappears.|Tu cuerpo brilla ligeramente más y desaparece.
+Your cloak of flame burns out.|Tu capa de llama te quema.
+Your curses shatter.|Tus maldiciones te rompen.
+Your divine halo fades away.|Tu halo divino te desvanece.
+Your divine halo returns!|¡Tu halo divino regresa!
+Your enemies may become distracted by gold.|Tus enemigos pueden distraerse por el oro.
+Your evil deeds will not go unpunished|Tus malas acciones no serán impunes
+Your full life essence returns.|Tu esencia vital completa regresa.
+Your funded stores close, unable to pay|Sus tiendas financiadas cierran, incapaz de pagar
+Your god hates spellcasting!|¡Tu dios odia lanzar conjuros!
+Your god hates this spell!|¡Tu dios odia este conjuro!
+Your resistance to cold fades away.|Tu resistencia al frío te desvanece.
+Your resistance to electricity fades away.|Tu resistencia a la electricidad te desvanece.
+Your resistance to fire fades away.|Tu resistencia al fuego te desvanece.
+Your resistance to physical damage fades away.|Tu resistencia al daño físico te desvanece.
+Your rising flame fizzles out.|Tu llama creciente te apaga.
+Your shadow no longer tangibly mimics your actions.|Tu sombra ya no imita tus acciones.
+Your shadow now sometimes tangibly mimics your actions.|Tu sombra ahora a veces imita tus acciones.
+Your shadow sometimes tangibly mimics your actions.|Tu sombra a veces imita las acciones.
+Your storm dissipates completely.|Tu tormenta te disipa por completo.
+Your storm instantly dissipates.|Tu tormenta te disipa instantáneamente.
+Your summoned allies are dismissed!|¡Tus aliados invocados son despedidos!
+Your vision regains its divine sight.|Tu visión recupera tu visión divina.
+Your water-walking will last only until you reach solid ground.|Tu caminar sobre el agua durará solo hasta que llegues a tierra firme.
+Yredelemnul will gift you temporary undead servants when you light the torch.|Yredelemnul te dará siervos no muertos temporales cuando enciendas la antorcha.
+Yredelemnul will no longer gift you temporary undead servants when you light the torch.|Yredelemnul ya no te dará siervos no muertos temporales cuando enciendas la antorcha.
+Yredelemnul will now gift you temporary undead servants when you light the torch.|Yredelemnul ahora te dará siervos no muertos temporales cuando enciendas la antorcha.
+Zin cleanses your body of Beogh's taint.|Zin limpia tu cuerpo de la mancha de Beogh.
+Zin will cleanse your potions of mutation.|Zin limpiará tus pociones de mutación.
+Zin will no longer cleanse your potions of mutation.|Zin ya no limpiará tus pociones de mutación.
+Zin will now cleanse your potions of mutation.|Zin limpiará tus pociones de mutación.
+a little|un poco
+aid the meek|ayuda a los mansos
+already offers you all the fire that remains!|¡ya te ofrece todo el fuego que queda!
+alters your body.|altera tu cuerpo.
+armour yourself in flame|armadura en llamas
+as your movement quickens|como tu movimiento te apresura
+as your movement slows|como tu movimiento te ralentiza
+banish your foes|desterrar a tus enemigos
+became a worshipper of|te convirtió en un adorador de
+became the Champion of|te convirtió en el campeón de
+become a bug|convertirse en un bicho
+before you are fit to worship.|antes de que estén aptos para adorar.
+begins accelerating your health and magic|comienza a acelerar tu salud y magia
+begins to support your attributes as your|comienza a apoyar tus atributos como tus
+bend time to slow others|doblar el tiempo para frenar a otros
+bind living souls|almas vivientes
+bribe branches to halt enemies' attacks and recruit allies|sobornar ramas para detener ataques de enemigos y reclutar aliados
+briefly move at supernatural speeds|moverse brevemente a velocidades sobrenaturales
+bring forth the wretched and dying|traer a los miserables y moribundos
+burns away your resistance to fire.|quema tu resistencia al fuego.
+call a swarm of foxfires against your foes|llama a un enjambre de foxfires contra tus enemigos
+call upon Zin for vitalisation|llamar a Zin para la vitalización
+call upon Zin to create a sanctuary|llamar a Zin para crear un santuario
+call upon Zin to imprison the lawless|exhortar a Zin a encarcelar a los sin ley
+call upon nature to destroy your foes|llama a la naturaleza para destruir a tus enemigos
+call upon nature's wrath in a wide area around you|llama a la ira de la naturaleza en un área amplia alrededor tuyo
+call upon the Shining One for a divine shield|invocar al Resplandeciente para un escudo divino
+cares for nothing but gold!|¡no importa nada más que oro!
+cares nothing for such trivial demonstrations of your faith.|no cuida de tales manifestaciones triviales de tu fe.
+channel blasts of cleansing flame|explosión de canal de la llama de limpieza
+continues to slow your movements.|continúa retrasando tus movimientos.
+corrupt the fabric of space|corromper el tejido del espacio
+deals you some cards!|te reparte algunas cartas!
+depart the Abyss|salir del Abyss
+depart the Abyss at will|salir del Abyss a voluntad
+does not accept service from beggars like you!|no acepta el servicio de mendigos como tú!
+donate money to Zin|donar dinero a Zin
+encircle yourself with summoned briar patches|encírquese con parches briar convocados
+enforce order|orden de ejecución
+engulf your surroundings in Yredelemnul's grip|tu entorno en el agarre de Yredelemnul
+enter into single combat with a foe|entrar en combate único con un enemigo
+forms a fragment of your life essence|forma un fragmento de tu esencia de vida
+found %d gold, fee %d|encontrado %d de oro, tarifa %d
+fund merchants seeking to open stores in the dungeon|fondos comerciantes que buscan abrir tiendas en la mazmorra
+gain great but temporary skills|adquirir habilidades grandes pero temporales
+gain health from killing|obtener salud de matar
+gain magical power from killing|ganar energía mágica de matar
+gate yourself to the Abyss|compárate con el Abismo
+gather your power into a mighty leap|reunir tu poder en un gran salto
+gift of slime is revoked.|revoque el don del limo.
+give life to nearby clouds|dar vida a nubes cercanas
+grants you a gift!|¡te otorga un regalo!
+grants you a weapon!|¡te otorga un arma!
+grants you bugs!|¡te otorgan bichos!
+grants you throwing weapons!|¡te otorgan armas!
+grow a ballistomycete|crecer un balistomycete
+grow an oklob plant|cultivar una planta de oklob
+has no new spells for you at this time.|no tiene nuevos hechizos para ti en este momento.
+has no use for such trinkets.|no tiene uso para estos trinkets.
+heal and protect your ancestor|curar y proteger tu antepasado
+heal your body and restore your magic|cura tu cuerpo y restaura tu magia
+hurl gouts of umbral torchlight|lanzar chorros de luz de antorcha umbral
+inflict damage on those overly hasty|infligir daños a esos excesivamente precipitados
+into the memory of your ancestor, %s!|en la memoria de tu antepasado, %s!
+invoke the sign of ruin|invocar el signo de la ruina
+light the black torch and reap souls in Yredelemnul's name|encender la antorcha negra y recoger almas en el nombre de Yredelemnul
+lightly attack monsters by moving around them|ataca ligeramente a los monstruos moviéndose alrededor de ellos
+lowers the support of your attributes|reduce el soporte de tus atributos
+merge with and destroy a victim|fusionar y destruir a una víctima
+mislead enemies by swapping places with your shadow|enemigos errando lugares con tu sombra
+move at supernatural speeds|moverse a velocidades sobrenaturales
+movement slows.|el movimiento disminuye.
+offers you knowledge of|le ofrece conocimiento de
+pass through a line of other dancers|pasar por una línea de otros bailarines
+perform airborne attacks|realizar ataques aéreos
+perform damaging attacks by moving towards foes|realizar ataques dañinos moviéndose hacia los enemigos
+perform lunging strikes|realizar huelgas pulmonares
+perform spinning attacks|realizar ataques de spinning
+petition Gozag for potion effects|petición Gozag para efectos de poción
+raises the support of your attributes|aumenta el apoyo de tus atributos
+rally a vengeful horde|una horda vengadora
+recall your ancestor|recuerde tu antepasado
+recall your apostles|recuerda a tus apóstoles
+recall your undead harvest|recuerda tu cosecha no muerta
+recite Zin's Axioms of Law|recitar los Axiomas de la Ley de Zin
+refuses to forgive you so easily!|¡te niega a perdonarte tan fácilmente!
+remember your ancestor's identity|recuerda la identidad de tu antepasado
+restores the support of your attributes.|restaura el soporte de tus atributos.
+rocket upward and away, once|cohete hacia arriba y hacia fuera, una vez
+says: %s!|dice: %s!
+says: An ascetic of your devotion|dice: Un asceta de tu devoción
+says: Farewell. Go and %s with %s.|dice: Adiós. Vaya y % con %s.
+says: How dare you approach in such a loathsome|dice: ¿Cómo te atreves a acercarte a un loco
+says: You must forswear the aid of any and all|dice: Tú debe forzar la ayuda de cualquiera y todos
+seems mollified%s.|parece molido.
+smite your foes|golpea a tus enemigos
+speed up your combat|acelera tu combate
+step out of the flow of time|salir del flujo del tiempo
+stomp with the beat|golpe con el ritmo
+summon a divine warrior|convocar a un guerrero divino
+summon a storm of heavenly clouds|convocar una tormenta de nubes celestiales
+summon a storm of heavenly clouds to empower your attacks|convocar una tormenta de nubes celestiales para empoderar tus ataques
+summon an infernal servant of Makhleb|convocar a un sirviente infernal de Makhleb
+surround yourself with impenetrable night|rodearte de noche impenetrable
+swap creatures with your ancestor|cambiar criaturas con tu antepasado
+that will be used as a format
+ *             string with our string as parameter; it is not used if
+ *             our string begins with a capital letter. IF THIS DOES
+ *             NOT CONTAIN|que te utilizará como formato
+* cuerda con nuestra cadena como parámetro; no te utiliza si
+* nuestra cuerda comienza con una carta capital. Si esto lo hace
+* NOT CONTAIN
+the Shapeless|lo Amorfo
+the all-consuming vengeance of Jiyva|la venganza de Jiyva
+the anger of Yredelemnul|la ira de Yredelemnul
+their debts without your funds.|tus deudas sin tus fondos.
+transform dungeon walls and trees into plant allies|transformar paredes de mazmorras y árboles en aliados de plantas
+unleash Makhleb's destructive might|desatar el poder destructivo de Makhleb
+unleash an enemy's spells as if they were a marionette|desatar los hechizos de un enemigo como si fueran una marioneta
+unsupported object type|tipo de objeto no soportado
+vanquish evil|el mal
+voice booms out: Traitor to your kin!|¡Traidor a tus parientes!
+waives the service fee.|renuncia a la cuota de servicio.
+warp the flow of time around you|agitar el flujo de tiempo a tu alrededor
+welcomes you%s!|¡te da la bienvenida!
+will now unseal the treasures of the|ahora desvelar los tesoros de los
+wreak a terrible wrath on your foes|deslumbra una terrible ira sobre tus enemigos

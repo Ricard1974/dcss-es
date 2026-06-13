@@ -1,0 +1,619 @@
+# Traducciones de UI de DCSS - Inventario
+# Fuente: inventory.cc, item-prop.cc, items.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+
+                                                : _autopickup_item_name(item);
+
+    maybe_bool res = clua.callmaybefn(|:  autopickup item name(item);
+
+tal vez bool res = clua.call possiblyfn(
+
+                    + _origin_monster_name(item) + |origin monstruo name(item)
+
+                  + (item.quantity == 1 ? |(item.quantity == 1 ?
+ (_ for help)|(  para ayuda)
+ + _article_it(item) + |article it(item)
+ + colour + |color
+ + name + |nombre
+ dragon hide|dragón
+ dragon scales|básculas de dragón
+ in a shop |en una tienda
+ is always correct, since gloves and boots also come in pairs.
+    return |siempre es correcto, ya que guantes y botas también vienen en pares.
+regreso
+ to you |a Tú
+ },
+    { STAFF_SUMMONING,   |}
+bastón invocación,
+ },
+#endif
+    { STAFF_AIR,         |}
+#endif
+bastón aire,
+ },
+#endif
+    { STAFF_FIRE,        |}
+#endif
+bastón fuego,
+ },
+#endif
+    { STAFF_NECROMANCY,  |}
+#endif
+{bastón nigromancia,
+) + item.name(DESC_A) + |) item.name(DESC A)
++ _article_it(item)+ |article it(item)
+,
+             you.gold, you.gold != 1 ? |,
+tú, oro, tú, oro?
+,                     9, -110,  500,
+        ard(ARMF_RES_COLD, 2) | ARMF_VUL_FIRE),
+    DRAGON_ARMOUR(PEARL,       |, 9, -110, 500,
+ard(ARMF RES frío, 2) TENIDO ARMF VUL fuego),
+armadura de dragón(perla,
+,                    0,   0,   45,
+        SLOT_HELMET,      SIZE_LITTLE, SIZE_LARGE, true },
+#endif
+
+    { ARM_HAT,                  |, 0, 0, 45,
+SLOT casco, SIZE LITTLE, SIZE LARGE, true },
+#endif
+
+ARM sombrero,
+,                    6,  -50,  400,
+        ARMF_RES_CORR),
+    DRAGON_ARMOUR(QUICKSILVER, |, 6, 50, 400,
+ARMF RES CORR),
+armadura de dragón(QUICKSILVER,
+,                    8,  -90,  500,
+        ard(ARMF_RES_FIRE, 2) | ARMF_VUL_COLD),
+    DRAGON_ARMOUR(ICE,         |8, -90, 500,
+ard(ARMF RES fuego, 2) TENIDO ARMF VUL frío),
+armadura de dragón(hielo,
+,                   5,   0,   400,
+        ARMF_RES_STEAM),
+    DRAGON_ARMOUR(ACID,        |, 5, 0, 400,
+ARMF RES vapor),
+armadura de dragón(ácido,
+,                   7,  -70,  450,
+        ARMF_RES_POISON),
+    DRAGON_ARMOUR(FIRE,        |, 7, 70, 450,
+ARMF RES veneno),
+armadura de dragón(fuego,
+,                  10, -110, 1000,
+        ARMF_RES_NEG),
+    DRAGON_ARMOUR(STORM,       |10, 110, 1000,
+ARMF RES NEG),
+armadura de dragón(STORM,
+,                  10, -150,  650,
+        ARMF_RES_ELEC),
+    DRAGON_ARMOUR(SHADOW,      |, 10, -150, 650,
+ARMF RES ELEC),
+armadura de dragón(sombra,
+,                 11, -150,  650,
+        ARMF_STEALTH),
+    DRAGON_ARMOUR(GOLDEN,      |, 11, -150, 650,
+ARMF sigilo),
+armadura de dragón(GOLDEN,
+,                8,  3, 14,
+        SK_MACES_FLAILS, SIZE_LITTLE, SIZE_LITTLE,
+        DAMV_CRUSHING, 9, 0, 30, M_AND_F_BRANDS },
+    { WPN_FLAIL,             |, 8, 3, 14,
+SK MACES FLAILS, SIZE LITTLE, SIZE LITTLE,
+DAMV aplastante, 9, 0, 30, M AND F BRANDS,
+WPN mayal,
+,               5,  5, 12,
+        SK_STAVES,       SIZE_LITTLE, SIZE_LITTLE,
+        DAMV_CRUSHING, 0, 0, 15, {} },
+    { WPN_QUARTERSTAFF,      |5, 5, 12,
+SK bastones, SIZE LITTLE, SIZE LITTLE,
+DAMV aplastante, 0, 0, 15, {}
+{ WPN bastón largo,
+,               7,  0, 14,
+        SK_RANGED_WEAPONS,   SIZE_LITTLE, SIZE_LITTLE,
+        DAMV_NON_MELEE, 8, 10, 15, RANGED_BRANDS },
+    { WPN_HAND_CANNON,       |, 7, 0, 14,
+SK a distancia armas, SIZE LITTLE, SIZE LITTLE,
+DAMV NON cuerpo a cuerpo, 8, 10, 15, a distancia BRANDS,
+WPN HAND CANNON,
+,              10,  0, 14,
+        SK_MACES_FLAILS, SIZE_LITTLE, SIZE_LITTLE,
+        DAMV_CRUSHING, 8, 10, 35, M_AND_F_BRANDS },
+    { WPN_MORNINGSTAR,       |, 10, 0, 14,
+SK MACES FLAILS, SIZE LITTLE, SIZE LITTLE,
+DAMV aplastante, 8, 10, 35, M AND F BRANDS,
+{ WPN estrella del alba,
+,             11, -3, 15,
+        SK_RANGED_WEAPONS,   SIZE_LITTLE, NUM_SIZE_LEVELS,
+        DAMV_NON_MELEE, 8, 20, 40, RANGED_BRANDS },
+    { WPN_ARBALEST,          |11 -3, 15,
+SK a distancia armas, SIZE LITTLE, NUM SIZE LEVELS,
+DAMV NON cuerpo a cuerpo, 8, 20, 40, a distancia BRANDS,
+WPN arbalesta,
+,             15, -3, 17,
+        SK_POLEARMS,     SIZE_MEDIUM, NUM_SIZE_LEVELS,
+        DAMV_CHOPPING, 5, 15, 100, POLEARM_BRANDS },
+    { WPN_BARDICHE,          |, 15, -3, 17,
+SK Armas de asta, SIZE MEDIUM, NUM SIZE LEVELS,
+DAMV CHOPPING, 5, 15, 100, POLEARM BRANDS,
+WPN BARDICHE,
+,             9,  -70,  500,
+        ARMF_WILLPOWER),
+    DRAGON_ARMOUR(SWAMP,       |, 9, -70, 500,
+ARMF voluntad),
+armadura de dragón(SWAMP,
+,             9,  1, 13,
+        SK_POLEARMS,     SIZE_LITTLE, SIZE_MEDIUM,
+        DAMV_PIERCING, 6, 20, 35, POLEARM_BRANDS },
+    { WPN_HALBERD,           |, 9, 1, 13,
+SK Armas de asta, SIZE LITTLE, SIZE MEDIUM,
+DAMV perforante, 6, 20, 35, POLEARM BRANDS,
+{ WPN alabarda,
+,            11,  0, 15,
+        SK_AXES,       SIZE_LITTLE, SIZE_LITTLE,
+        DAMV_CHOPPING, 7, 25, 35, AXE_BRANDS },
+    { WPN_BROAD_AXE,         |, 11, 0, 15,
+SK Hachas, SIZE LITTLE, SIZE LITTLE,
+DAMV CHOPPING, 7, 25, 35, hacha BRANDS,
+{ WPN hacha ancha,
+,            14,  0, 17,
+        SK_RANGED_WEAPONS,   SIZE_MEDIUM, NUM_SIZE_LEVELS,
+        DAMV_NON_MELEE, 2, 13, 110, RANGED_BRANDS },
+    { WPN_TRIPLE_CROSSBOW,   |, 14, 0, 17,
+SK a distancia armas, SIZE MEDIUM, NUM SIZE LEVELS,
+DAMV NON cuerpo a cuerpo, 2, 13, 110, a distancia BRANDS,
+{ WPN TRIPLE ballesta,
+,           16, -2, 19,
+        SK_RANGED_WEAPONS,   SIZE_LITTLE, NUM_SIZE_LEVELS,
+        DAMV_NON_MELEE, 5, 20, 75, RANGED_BRANDS },
+    { WPN_LONGBOW,           |, 16, -2, 19,
+SK a distancia armas, SIZE LITTLE, NUM SIZE LEVELS,
+DAMV NON cuerpo a cuerpo, 5, 20, 75, a distancia BRANDS,
+WPN arco largo,
+,          0, 1,  2  },
+    { MI_SLING_BULLET,  |, 0, 1, 2 },
+{ MI honda BULLET,
+,          0, 1,  2  },
+    { MI_SLUG,          |, 0, 1, 2 },
+MI SLUG,
+,          0, 12, 3  },
+    { MI_STONE,         |, 0, 12, 3 },
+MI piedra,
+,          13, -2, 16,
+        SK_AXES,       SIZE_LITTLE, SIZE_MEDIUM,
+        DAMV_CHOPPING, 4, 25, 90, AXE_BRANDS },
+    { WPN_BATTLEAXE,         |, 13, -2, 16,
+SK Hachas, SIZE LITTLE, SIZE MEDIUM,
+DAMV CHOPPING, 4, 25, 90, hacha BRANDS,
+{ WPN hacha de batalla,
+,          15, -4, 17,
+        SK_AXES,       SIZE_MEDIUM, NUM_SIZE_LEVELS,
+        DAMV_CHOPPING, 6, 25, 100, AXE_BRANDS },
+    { WPN_EXECUTIONERS_AXE,  |, 15, -4, 17,
+SK Hachas, SIZE MEDIUM, NUM SIZE LEVELS,
+DAMV CHOPPING, 6, 25, 100, hacha BRANDS,
+{ WPN EXECUTIONERS hacha,
+,         0, 1,  2  },
+    { MI_BOLT,          |, 0, 1, 2 },
+MI virote,
+,         2, 8,  1  },
+    { MI_LARGE_ROCK,    |, 2, 8, 1 },
+{ MI LARGE ROCK,
+,         SK_AIR_MAGIC,
+        50, ac_type::half,   BEAM_ELECTRICITY },
+    { STAFF_EARTH,       |SK magia de aire,
+50, CA type:half, BEAM electricidad
+{bastón tierra,
+,        0, 12, 2  },
+    { MI_ARROW,         |, 0, 12, 2
+MI flecha,
+,        BRANCH_SNAKE,   6000 },
+    { GEM_SPIDER,  |, rama serpiente, 6000
+gema araña,
+,        SK_FIRE_MAGIC,
+        63, ac_type::normal, BEAM_FIRE },
+    { STAFF_COLD,        |SK magia de fuego,
+63, CA type:normal, BEAM fuego
+bastón frío,
+,        SK_ICE_MAGIC,
+        63, ac_type::normal, BEAM_COLD },
+    { STAFF_ALCHEMY,     |SK magia de hielo,
+63, CA type:normal, BEAM frío },
+bastón ALCHEMY,
+,       BRANCH_CRYPT,   6000 },
+    { GEM_TOMB,    |, rama CRYPT, 6000
+gema tumba,
+,       BRANCH_DUNGEON, 6000 },
+#if TAG_MAJOR_VERSION == 34
+    { GEM_ORC,     |, rama calabozo, 6000 }
+#if TAG mayor VERSION == 34
+gema orco,
+,       SK_EARTH_MAGIC,
+        63, ac_type::normal, BEAM_MMISSILE },
+#if TAG_MAJOR_VERSION == 34
+    { STAFF_CHANNELLING,  |, SK magia de tierra,
+63, CA type:normal, BEAM MMISSILE },
+#if TAG mayor VERSION == 34
+{bastón CHANNELLING,
+,       SK_NECROMANCY,
+        63, ac_type::normal,   BEAM_NEG },
+    { STAFF_CONJURATION, |SK nigromancia,
+63, CA type:normal, BEAM NEG,
+{bastón conjuración,
+,      10, 20, 30 },
+    { MI_THROWING_NET,  |10, 20, 30,
+{ MI arrojadizo NET,
+,     6, 20, 20 },
+
+#if TAG_MAJOR_VERSION == 34
+    { MI_NEEDLE,        |, 6, 20, 20 },
+
+#if TAG mayor VERSION == 34
+{ MI NEEDLE,
+,     SK_ALCHEMY,
+        63, ac_type::normal, BEAM_POISON },
+#if TAG_MAJOR_VERSION == 34
+    { STAFF_ENERGY,      |SK ALCHEMY,
+63, CA type:normal, BEAM veneno },
+#if TAG mayor VERSION == 34
+bastón ENERGY,
+,    BRANCH_TOMB,    6000 },
+    { GEM_DEPTHS,  |, rama tumba, 6000
+{ gema DEPTHS,
+,   20, 25, 15 },
+    { MI_JAVELIN,       |20, 25, 15,
+MI JAVELIN,
+,  0, 0,  30 },
+    { MI_BOOMERANG,     |, 0, 0, 30 }
+MI BOOMERANG,
+,  BRANCH_ELF,     6000 },
+    { GEM_LAIR,    |, rama elfo, 6000
+gema guarida,
+,  BRANCH_ORC,     6000 },
+#endif
+    { GEM_ELF,     |, rama orco, 6000
+#endif
+{ gema elfo,
+, BRANCH_SPIDER,  6000 },
+
+    { GEM_SLIME,   |, rama araña, 6000
+
+gema limo,
+, SK_CONJURATIONS,
+        50, ac_type::normal, BEAM_MMISSILE },
+#if TAG_MAJOR_VERSION == 34
+    { STAFF_ENCHANTMENT, |SK Conjuraciones,
+50, CA type:normal, BEAM MMISSILE },
+#if TAG mayor VERSION == 34
+{bastón hechizo,
+, _milestone_collectible(item));
+    else if (item.base_type == OBJ_GEMS)
+        mark_milestone(|,  milestone collectible(item));
+si (item.base type == OBJ gemas)
+Mark milestone(
+, _milestone_collectible(item));
+    else if (item_is_orb(item))
+        mark_milestone(|,  milestone collectible(item));
+si (item is orb(item))
+mark milestone(
+, old_slot) : |, old slot ) :
+. If the item matches a rule which adds |. Si el artículo coincide con una regla que añade
+;
+
+        case WPN_ARBALEST:
+        case WPN_TRIPLE_CROSSBOW:
+            return |;
+
+caso WPN arbalesta:
+caso WPN TRIPLE ballesta:
+Regreso
+;
+
+        case WPN_HAND_CANNON:
+            return |;
+
+caso WPN HAND CANNON:
+Regreso
+;
+
+        default:
+            return |;
+
+default:
+regreso
+;
+
+        mprf(|;
+
+mprf(
+;
+
+    if (_origin_is_original_equip(item))
+        return |;
+
+si ( origin is original equipar(item))
+regreso
+;
+                break;
+            case AQ_INVENTED:
+                desc += |;
+ruptura;
+Caso AQ INVENTED:
+desc =
+;
+                break;
+#endif
+            case AQ_WIZMODE:
+                desc += |;
+ruptura;
+#endif
+case AQ WIZMODE:
+desc =
+;
+                break;
+#if TAG_MAJOR_VERSION == 34
+            case AQ_CARD_GENIE:
+                desc += |;
+ruptura;
+#if TAG mayor VERSION == 34
+Caso AQ CARD GENIE:
+desc =
+;
+                switch (specialness)
+                {
+                case 3: colour = |;
+interruptor (especialidad)
+{}
+caso 3: color =
+;
+                }
+                break;
+            }
+        }
+        else if (item.orig_monnum == MONS_DANCING_WEAPON)
+            desc += |;
+}
+ruptura;
+}
+}
+si (item.orig monnum == MONS DANCING arma)
+desc =
+;
+            mprf_nocap(|;
+mprf nocap(
+;
+        else
+        {
+            desc += |;
+más
+{}
+desc =
+;
+        }
+    }
+    else
+        desc += |;
+}
+}
+más
+desc =
+;
+    case OBJ_TALISMANS:
+        return talisman_type_name(sub_type);
+    default:
+        return |;
+caso OBJ TALISMANS:
+talisman type name(sub type);
+default:
+Regreso
+;
+}
+
+void milestone_check(const item_def &item)
+{
+    if (item.base_type == OBJ_RUNES)
+        mark_milestone(|;
+}
+
+golpe check(const item def
+A manual for which skill? |¿Un manual para qué habilidad?
+Are you sure you want to drop |¿Seguro que quieres soltar 
+Are you sure you want to pick up this pile of gold now?|¿Seguro que quieres recoger este montón de oro ahora?
+BUG WARNING: Item didn't seem to be linked at all.|el artículo no parecía estar relacionado en absoluto.
+Buggy Original Equipment: |Buggy Original Equipment:
+No item to drop.|No hay objeto que soltar.
+Now all you have to do is get back out |Ahora solo tienes que salir de nuevo 
+Pick up what? |¿Recoger qué?
+Press } and ! to see all the gems you have collected.|Pulsa } y ! para ver todas las gemas que has recolectado.
+Press } to see all the runes you have collected.|Pulsa } para ver todas las runas que has recolectado.
+Select pick up quantity by entering a number, then select the item|Selecciona cantidad a recoger introduciendo un número, luego selecciona el objeto
+Sorry, no books on that skill today.|Lo siento, no hay libros de esa habilidad hoy.
+That is permanently installed in your exoskeleton.|Eso está instalado permanentemente en tu exoesqueleto.
+That parchment doesn't seem to exist.|Ese pergamino parece no existir.
+There are no items here.|No hay objetos aquí.
+There are no objects that can be picked up here.|No hay objetos que puedas recoger aquí.
+There are several objects here.|Hay varios objetos aquí.
+Things that are here:|Cosas que hay aquí:
+Too many items on level, removing some.|Demasiados artículos a nivel, eliminando algunos.
+Too many items on this level, not dropping the item.|Demasiados artículos en este nivel, no bajando el artículo.
+Unfortunately, you learned nothing new or useful.|Desafortunadamente, no aprendiste nada nuevo o útil.
+What ego type? |¿Qué tipo de ego?
+What parchment spell? |¿Qué conjuro de pergamino?
+Why do we have all these ridiculous brand tables?|¿Por qué tenemos todas estas ridículas mesas de marca?
+You acquired |Has adquirido 
+You bought |Has comprado 
+You can't carry that many items.|No puedes cargar tantos objetos.
+You can't pick that up.|No puedes recoger eso.
+You feel the abyssal rune guiding you out of this place.|Sientes que la runa abismal te guía fuera de este lugar.
+You have collected all the runes! Now go and win!|¡Has recolectado todas las runas! ¡Ahora ve y gana!
+You pick up the Orb of Zot!|¡Recoges el Orbe de Zot!
+You see here |Ves aquí 
+You stumbled upon |Te has topado con 
+You will have to take that off first.|Tendrás que quitarte eso primero.
+You've emptied out Pandemonium! Nothing left here but demons.|¡Has vaciado Pandemonio! No queda nada aquí excepto demonios.
+Your pack is full.|Tu mochila está llena.
+Zot can harm you no longer.|Zot ya no puede hacerte daño.
+[%c] %-10s |[%c]
+a pandemonium lord|un señor del pandemonio
+a player ghost|un fantasma de jugador
+agate ring|anillo de ágata
+ally misc|aliado misc
+ally scroll|pergamino aliado
+amethyst amulet|amuleto de amatista
+animal skin|piel de animal
+area misc|área misc
+beam wand|varita de rayo
+beryl amulet|amuleto de berilo
+blade talisman|talismán de hoja
+blast wand|varita de explosión
+blue amulet|amuleto azul
+bone amulet|amuleto de hueso
+bone ring|anillo de hueso
+bone wand|varita de hueso
+brass amulet|amuleto de latón
+brass ring|anillo de latón
+brass wand|varita de latón
+bronze amulet|amuleto de bronce
+bronze ring|anillo de bronce
+bronze wand|varita de bronce
+buggy chunk|trozo bug
+buggy fruit|fruta bug
+buggy jelly|gelatina bug
+buggy pizza|pizza bug
+buggy ration|ración bug
+buggy talisman|talismán bug
+cabochon amulet|amuleto de cabujón
+cabochon ring|anillo de cabujón
+cameo amulet|amuleto de camafeo
+centaur barding|bardaje de centauro
+chain mail|cota de malla
+citrine amulet|amuleto de citrino
+control misc|control misc
+copper amulet|amuleto de cobre
+copper ring|anillo de cobre
+copper wand|varita de cobre
+coral ring|anillo de coral
+crystal plate armour|armadura de placas de cristal
+damnation bolt|virote de condenación
+demon blade|hoja demoníaca
+demon trident|tridente demoníaco
+demon whip|látigo demoníaco
+diamond amulet|amuleto de diamante
+diamond ring|anillo de diamante
+dire flail|mayal terrible
+double sword|espada doble
+dragon-coil talisman|talismán de espiral de dragón
+eel talisman|talismán de anguila
+emerald amulet|amuleto de esmeralda
+emerald ring|anillo de esmeralda
+eudemon blade|hoja eudemónica
+filigree amulet|amuleto de filigrana
+fluorescent amulet|amuleto fluorescente
+fluorescent wand|varita fluorescente
+fortress talisman|talismán de fortaleza
+found the Orb of Zot!|encontraste el Orbe de Zot!
+garnet amulet|amuleto de granate
+garnet ring|anillo de granate
+giant club|gran garrote
+giant spiked club|gran garrote con púas
+gilded ring|anillo dorado
+glass ring|anillo de vidrio
+glass wand|varita de vidrio
+gold wand|varita de oro
+golden amulet|amuleto de oro
+golden ring|anillo de oro
+granite ring|anillo de granito
+granite talisman|talismán de granito
+great mace|gran maza
+great sword|espada grande
+hand axe|hacha de mano
+hex wand|varita de maleficio
+hive talisman|talismán de colmena
+huge item subtype|subtipo enorme
+inkwell talisman|talismán de tintero
+invalid missile type|tipo de misiles inválidos
+iron ring|anillo de hierro
+iron wand|varita de hierro
+it isn't in the monster's inventory.|no está en el inventario del monstruo.
+item color invalid|color inválido
+item has uninitialized rnd|artículo tiene rnd no inicializado
+item held by an invalid monster|artículo mantenido por un monstruo inválido
+ivory ring|anillo de marfil
+ivory wand|varita de marfil
+jade amulet|amuleto de jade
+jade ring|anillo de jade
+jasper amulet|amuleto de jaspe
+kite shield|escudo cometa
+lapis lazuli amulet|amuleto de lapislázuli
+lead wand|varita de plomo
+leather armour|armadura de cuero
+long sword|espada larga
+lupine talisman|talismán de lobo
+malachite amulet|malachite amuleto
+marble ring|anillo de mármol
+maw talisman|talismán de fauces
+medusa talisman|talismán de medusa
+moonstone ring|anillo de piedra lunar
+of the dungeon!|de la mazmorra!
+old blowgun|vieja escopeta
+old cutlass|viejo cutlas
+old double sword|vieja espada doble
+old falchion|viejo alfanje
+old fustibalus|viejo fustibalus
+old great sword|vieja espada
+old hammer|viejo martillo
+old long sword|vieja espada larga
+old scimitar|vieja cimitarra
+old scythe|viejo cigarro
+old spiked flail|viejo caracola
+old triple sword|vieja espada triple
+onyx ring|anillo de ónice
+opal ring|anillo de ópalo
+pearl amulet|amuleto de perla
+pearl ring|anillo de perla
+peridot amulet|amuleto de peridoto
+peridot ring|anillo de peridoto
+plate armour|armadura de placas
+platinum amulet|amuleto de platino
+protean talisman|talismán proteico
+quick blade|hoja rápida
+quill talisman|talismán de pluma
+removed troll hide|oculto de Trol
+riddle talisman|talismán de acertijo
+rimehorn talisman|talismán de cuerno de hielo
+ring mail|cota de anillas
+ruby amulet|amuleto de rubí
+ruby ring|anillo de rubí
+rune of zot|runa de zot
+sacred scourge|azote sagrado
+sanguine talisman|talismán sanguíneo
+sapphire amulet|amuleto de zafiro
+sapphire ring|anillo de zafiro
+scale mail|armadura de escamas
+scarab talisman|talismán de escarabajo
+serpent talisman|talismán de serpiente
+short sword|espada corta
+silver amulet|amuleto de plata
+silver ring|anillo de plata
+silver wand|varita de plata
+sling bullet|balín de honda
+soapstone amulet|amuleto de esteatita
+spider talisman|talismán de araña
+spore talisman|talismán de espora
+steel amulet|amuleto de acero
+steel ring|anillo de acero
+storm talisman|talismán de tormenta
+talisman of death|talismán de muerte
+tourmaline ring|anillo de turmalina
+tower shield|escudo torre
+triple sword|espada triple
+troll leather armour|armadura de cuero de trol
+undefined item|ítem no definido
+unided item of a type that can't be|elemento no identificado de un tipo que no puede
+weird detected item|elemento detectado raro
+weird item subtype and no info|elemento raro subtipo y no info
+wellspring talisman|talismán de manantial
+wooden ring|anillo de madera
+wooden wand|varita de madera
+zirconium amulet|amuleto de circonio

@@ -1,0 +1,430 @@
+# Traducciones de UI de DCSS - Comandos
+# Fuente: command.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+
+                     << item_name
+<<|<<
+c)
+<w>1 2 3      % % %|<w>1 2 3      % % %
+<w>7 8 9      % % %|<w>7 8 9      % % %
+(also <w>/ Dir.</w>)\n|(also <w>/ Dir.</w>)\n
+and quit the game\n|y dejar el juego
+in view\n|en la vista
+pickup part of a single stack\n|parte de la recogida de una sola pila\n
+(Because of compatibility mode, <darkgrey>darkgrey on black renders as blue</darkgrey>.)\n|(Because of compatibility mode, <darkgrey>darkgrey on black renders as blue</darkgrey>.)\n
+(press twice for pick up menu)\n|(presiona dos veces para recoger el menú)\n
+(use <w>%</w> to assign slots)|(use <w>%</w> to assign slots)
+<bg:darkgrey><darkgrey>1               2</darkgrey></bg:darkgrey>\n|<bg:darkgrey><darkgrey>1               2</darkgrey></bg:darkgrey>\n
+<bg:darkgrey><darkgrey>1          2</darkgrey></bg:darkgrey>\n|<bg:darkgrey><darkgrey>1          2</darkgrey></bg:darkgrey>\n
+<bg:darkgrey><darkgrey>Block 1</darkgrey></bg:darkgrey>|<bg:darkgrey><darkgrey>Block 1</darkgrey></bg:darkgrey>
+<bg:darkgrey>Block 2</bg:darkgrey>\n|<bg:darkgrey>Block 2</bg:darkgrey>\n
+Carry it to the surface and win!\n|Llevarlo a la superficie y ganar
+pick up to add to library)|recoger para añadir a la biblioteca)
+pick up to add to spell library)|recoger para añadir a la biblioteca de hechizos)
+(overridden by TERM)|(publicado por TERM)
+(seed may be affected by game upgrades)|(la semilla puede verse afectada por las actualizaciones del juego)
++ command_name +|comando name
++ help +|ayuda
++ untag_tiles_console(desc) +|untag tiles console(desc)
+)
+s +=|)
+s =
+) + Version::Long
++|) Versión:
+
+) == 0)
+command_name +=|) == 0)
+comando name =
+);
+
+_add_insert_commands(cols, 0,|);
+
+add insert comandos(collos, 0,
+);
+
+    cols.add_formatted(
+            0,
+|);
+
+cols.add formatted(
+0,
+,
+);
+    if (!crawl_state.game_started)
+    {
+        cols.add_formatted(0,
+|);
+si (!crawl state.game started)
+{}
+cols.add formatted(0,
+,
+);
+    if (!fp)
+return|);
+si (!fp)
+regreso
+);
+    }
+    show_keyhelp_menu(formatted_lines);
+}
+
+void show_specific_help(const string &key)
+{
+    show_specific_helps({ key });
+}
+
+void show_levelmap_help()
+{
+show_specific_help(|);
+}
+show keyhelp menú(formatted lines);
+}
+
+void show specific help(const string)
++headers[page] :|headers[page] :
+,
+                       false);
+_add_insert_commands(cols, 0,|,
+falso);
+add insert comandos(collos, 0,
+,
+            false);
+
+_add_insert_commands(cols, 0,|,
+falso);
+
+add insert comandos(collos, 0,
+,
+            false);
+
+    _add_insert_commands(cols, 1,
+|,
+falso);
+
+add insert comandos(collos, 1,
+,
+,
+            false);
+
+    cols.add_formatted(
+            0,
+|,
+falso);
+
+cols.add formatted(
+0,
+,
+,
+#else
+|,
+#else
+
+,
+#endif
+};
+
+static string _get_version_information()
+{
+string result = string(|,
+#endif
+};
+
+cadena estática  get version información()
+{}
+resultado de la cadena = cadena
+, 2);
+
+    cols.add_formatted(
+            0,
+|, 2);
+
+cols.add formatted(
+0,
+,
+, 2);
+
+    cols.add_formatted(
+            1,
+|, 2);
+
+cols.add formatted(
+1,
+,
+, 2);
+    cols.add_formatted(
+            0,
+|, 2);
+cols.add formatted(
+0,
+,
+, false);
+estr <<|estr <<
+estr
+, false);
+cols.add_formatted(0,|, falso);
+cols.add formatted(0,
+, false);
+    }
+    cols.add_formatted(0,
+|, falso);
+}
+cols.add formatted(0,
+,
+, false);
+    }
+    else
+    {
+        cols.add_formatted(0,
+|, falso);
+}
+más
+{}
+cols.add formatted(0,
+,
+, {});
+_add_insert_commands(cols, 0,|*
+add insert comandos(collos, 0,
+;
+
+            if (num >= (int)items.size())
+            {
+estr <<|estr <<
+
+si (num >= (int)items.size()))
+{}
+estr
+;
+
+result +=|;
+
+resultado =
+;
+
+string result =|;
+
+resultado de la cadena =
+;
+                entries.emplace_back(estr.str());
+                continue;
+            }
+
+            if (items[num].is_overflow)
+estr <<|estr <<
+entries.emplace back(estr.str());
+continuar;
+}
+
+si (temas[num].is overflow)
+estr
+;
+            else if (items[num].melded)
+estr <<|estr <<
+si (temas [num]. fundido)
+estr
+;
+result +=|;
+resultado =
+;
+        result += Version::history();
+result +=|;
+result = Version::history();
+Resultado =
+;
+    for (unsigned int i = cmd_len; i < space_to_colon; ++i)
+line +=|;
+for (unsigned int i = cmd len; i > espacio to colon; i)
+línea =
+;
+line +=|;
+línea =
+;
+    }
+
+result +=|;
+}
+
+resultado =
+;
+    }
+    else
+    {
+result +=|;
+}
+más
+{}
+resultado =
+;
+    }
+    if (Version::history_size() > 1)
+    {
+result +=|;
+}
+si (Versión::history size()
+{}
+Resultado =
+</brown> : </console>|</brown> : </console>
+</lightcyan> : </console>|</lightcyan> : </console>
+</lightcyan> : books (<w>%</w>emorise, <w>%</w>ap, <w>%</w>ap,\n|</lightcyan> : books (<w>%</w>emorise, <w>%</w>ap, <w>%</w>ap,\n
+</red> : </console>|</red> : </console>
+</red> : amulets (<w>%</w>ut on and <w>%</w>emove)|</red> : amulets (<w>%</w>ut on and <w>%</w>emove)
+</w>: get debugging information about a portal\n|</w>: get debugging information about a portal\n
+<brown>|<brown>
+<console><lightgrey>/</lightgrey> : </console>|<console><lightgrey>/</lightgrey> : </console>
+<console><lightred>percent</lightred> : </console>|<console><lightred>percent</lightred> : </console>
+<h>Additional help:\n|<h>Additional help:\n
+<h>Dungeon Crawl Help\n|<h>Dungeon Crawl Help\n
+<h>Dungeon Interaction and Information:\n|<h>Dungeon Interaction and Information:\n
+<h>Examine surroundings ('<w>x</w><h>' in main):\n|<h>Examine surroundings ('<w>x</w><h>' in main):\n
+<h>Firing mode ('<w>f</w><h>' in main):\n|<h>Firing mode ('<w>f</w><h>' in main):\n
+<h>Game Saving and Quitting:\n|<h>Game Saving and Quitting:\n
+<h>Inventory management:\n|<h>Inventory management:\n
+<h>Item Interaction:\n|<h>Item Interaction:\n
+<h>Non-Gameplay Commands / Info\n|<h>Non-Gameplay Commands / Info\n
+<h>Other Gameplay Actions:\n|<h>Other Gameplay Actions:\n
+<h>Player Character Information:\n|<h>Player Character Information:\n
+<h>Targeting (zap wands, cast spells, etc.):\n|<h>Targeting (zap wands, cast spells, etc.):\n
+<h>Wizard targeting commands:</h>\n|<h>Wizard targeting commands:</h>\n
+<lightgreen>}</lightgreen> : miscellaneous items (e<w>%</w>oke)|<lightgreen>}</lightgreen> : miscellaneous items (e<w>%</w>oke)
+<lightgrey>/</lightgrey> : wands (e<w>%</w>oke)|<lightgrey>/</lightgrey> : wands (e<w>%</w>oke)
+<lightmagenta>0</lightmagenta> : the Orb of Zot\n|<lightmagenta>0</lightmagenta> : the Orb of Zot\n
+<lightred>percent</lightred> : talismans (e<w>%</w>oke)|<lightred>percent</lightred> : talismans (e<w>%</w>oke)
+<w>!</w> : fire, don't stop, ignore range\n|<w>!</w> : fire, don't stop, ignore range\n
+<w>%#</w>: Drop exact number of items|<w>%#</w>: Drop exact number of items
+<w>%</w>/<w>%</w>    : Open/Close door|<w>%</w>/<w>%</w>    : Open/Close door
+<w>%</w>/<w>%</w>    : use staircase|<w>%</w>/<w>%</w>    : use staircase
+<w>%</w>/<w>%</w> : Equip or Unequip an item|<w>%</w>/<w>%</w> : Equip or Unequip an item
+<w>%</w>/<w>%</w> : Put on or Remove jewellery|<w>%</w>/<w>%</w> : Put on or Remove jewellery
+<w>%</w>/<w>%</w> : Wear or Take off armour|<w>%</w>/<w>%</w> : Wear or Take off armour
+<w>%</w>/<w>%</w> : zoom out/in|<w>%</w>/<w>%</w> : zoom out/in
+<w>(</w> : cycle to previous suitable action\n|<w>(</w> : cycle to previous suitable action\n
+<w>)</w> : cycle to next suitable action.\n|<w>)</w> : cycle to next suitable action.\n
+<w>+</w> : cycle monsters forward (also <w>=</w>)\n|<w>+</w> : cycle monsters forward (also <w>=</w>)\n
+<w>,</w>: bring down the monster to 1 hp\n|<w>,</w>: bring down the monster to 1 hp\n
+<w>-</w> : cycle monsters backward\n|<w>-</w> : cycle monsters backward\n
+<w>.</w> : fire, stop at target\n|<w>.</w> : fire, stop at target\n
+<w>.</w> : move to cursor (also <w>Enter</w>, <w>Del</w>)\n|<w>.</w> : move to cursor (also <w>Enter</w>, <w>Del</w>)\n
+<w>:</w> : show/hide beam path\n|<w>:</w> : show/hide beam path\n
+<w><<</w>/<w>></w> : cycle through up/down stairs\n|<w><<</w>/<w>></w> : cycle through up/down stairs\n
+<w>@</w> : fire, stop at target, ignore range\n|<w>@</w> : fire, stop at target, ignore range\n
+<w>Ctrl-(</w>: place a mimic\n|<w>Ctrl-(</w>: place a mimic\n
+<w>Ctrl-B</w>: banish monster\n|<w>Ctrl-B</w>: banish monster\n
+<w>Ctrl-C</w> : cycle through beam paths\n|<w>Ctrl-C</w> : cycle through beam paths\n
+<w>Ctrl-H</w>: heal the monster fully\n|<w>Ctrl-H</w>: heal the monster fully\n
+<w>Ctrl-K</w>: kill monster\n|<w>Ctrl-K</w>: kill monster\n
+<w>Ctrl-X</w> : list all things in view\n|<w>Ctrl-X</w> : list all things in view\n
+<w>D</w>: get debugging information about the monster\n|<w>D</w>: get debugging information about the monster\n
+<w>Dir.</w>: move cursor in that direction\n|<w>Dir.</w>: move cursor in that direction\n
+<w>Enter</w> : fire (<w>Space</w>, <w>Del</w>, <w>f</w>)\n|<w>Enter</w> : fire (<w>Space</w>, <w>Del</w>, <w>f</w>)\n
+<w>Esc</w> : cancel (also <w>Space</w>, <w>x</w>)\n|<w>Esc</w> : cancel (also <w>Space</w>, <w>x</w>)\n
+<w>F12</w> : read messages (online play only)|<w>F12</w> : read messages (online play only)
+<w>F</w>: cycle monster friendly/good neutral/neutral/hostile\n|<w>F</w>: cycle monster friendly/good neutral/neutral/hostile\n
+<w>M</w>: cause spell miscast for monster or player\n|<w>M</w>: cause spell miscast for monster or player\n
+<w>P</w>: apply divine blessing to monster\n|<w>P</w>: apply divine blessing to monster\n
+<w>Q</w> : choose fire action.\n|<w>Q</w> : choose fire action.\n
+<w>S</w>: make monster a summoned monster\n|<w>S</w>: make monster a summoned monster\n
+<w>Shift-Dir.</w> : fire straight-line beam\n|<w>Shift-Dir.</w> : fire straight-line beam\n
+<w>Tab</w> : cycle through shops and portals\n|<w>Tab</w> : cycle through shops and portals\n
+<w>^</w> : cycle through traps\n|<w>^</w> : cycle through traps\n
+<w>_</w> : cycle through altars\n|<w>_</w> : cycle through altars\n
+<w>e</w> : create/remove travel exclusion\n|<w>e</w> : create/remove travel exclusion\n
+<w>g</w> : pick up item at cursor\n|<w>g</w> : pick up item at cursor\n
+<w>m</w>: move monster or player\n|<w>m</w>: move monster or player\n
+<w>o</w>: give item to monster\n|<w>o</w>: give item to monster\n
+<w>p</w> : fire at Previous target (also <w>f</w>)\n|<w>p</w> : fire at Previous target (also <w>f</w>)\n
+<w>r</w> : move cursor to you\n|<w>r</w> : move cursor to you\n
+<w>s</w>: force monster to shout or speak\n|<w>s</w>: force monster to shout or speak\n
+<w>v</w> : describe monster under cursor\n|<w>v</w> : describe monster under cursor\n
+<w>w</w>: calculate shortest path to any point on the map\n|<w>w</w>: calculate shortest path to any point on the map\n
+<w>~</w>: polymorph monster to specific type\n|<w>~</w>: polymorph monster to specific type\n
+<yellow>$</yellow> : gold (<w>%</w> counts gold)|<yellow>$</yellow> : gold (<w>%</w> counts gold)
+Abandon the current character|Abandonar al personaje actual
+Clear main and level maps|Limpiar mapa principal y de nivel
+Drop an item|Soltar un objeto
+Drop the last item(s) you picked up|Soltar el último objeto recogido
+Fire the currently quivered action|Disparar la acción enfundada actual
+Foreground palette:\n|Paleta de primer plano:\n
+Frequently Asked Questions|Preguntas Frecuentes
+Game is non-seeded.|La partida no tiene semilla.
+Many commands have context sensitive|Muchos comandos tienen ayuda sensible al contexto
+Memorise a spell from your library|Memorizar un conjuro de tu biblioteca
+Most keys from examine surroundings work.\n|la mayoría de las llaves de examinar el trabajo en el entorno.\n
+No answer found in the FAQ! Please submit a|no hay respuesta encontrada en el FAQ! Sírvase presentar una solicitud
+No questions found in FAQ! Please submit a bug report!|No se encontraron preguntas en FAQ! ¡Por favor envía un informe de error!
+Option `bold_brightens_foreground`: force\n\n|Opción `bold brightens foreground`: force\n\n
+Quaff a potion|Beber una poción
+Read a scroll|Leer un pergamino
+Redraw screen|Redibujar pantalla
+Save and exit without query|Guardar y salir sin preguntar
+Save game and exit|Guardar partida y salir
+Some keys fire at the target. <w>Ctrl-X</w> only\n|Some keys fire at the target. <w>Ctrl-X</w> only\n
+Stone Soup|Stone Soup
+The following two spans should have continuous shading between 1 and 2:\n|los siguientes dos lapsos deben tener una formación continua entre 1 y 2:\n
+The webtiles client will display 16 colors.\n\n|el cliente webtiles mostrará 16 colores.\n\n
+These two blocks should have the same background:|Estos dos bloques deberían tener el mismo fondo:
+To move in a direction or to attack, \n|Para moverse en una dirección o para atacar, \n
+Wield an item (<w>-</w> for none)|Wield an item (<w>-</w> for none)
+You can read descriptions of your|Puedes leer descripciones de tus
+\nCurrent terminal options (see the Options Guide for details):\n|\nOpciones de terminal actual (ver la Guía de Opciones para detalles):\n
+\nFull palette:\n|\nPaleta completa:\n
+\nPalette with menu highlight:\n|\nPaleta con resalte de menú:\n
+abilities (<w>%!</w>).|abilities (<w>%!</w>).
+add note (use <w>%:</w> to read notes)|add note (use <w>%:</w> to read notes)
+amulets (<w>%</w>ut on and <w>%</w>emove)|amulets (<w>%</w>ut on and <w>%</w>emove)
+annotate the dungeon level|anotar el nivel de la mazmorra
+attack with wielded item|atacar con objeto empuñado
+books (<w>%</w>emorise, <w>%</w>ap, <w>%</w>ap,\n|books (<w>%</w>emorise, <w>%</w>ap, <w>%</w>ap,\n
+bug report!|informe de error!
+cast spell, abort without targets|lanzar conjuro, abortar sin objetivos
+cast spell, no matter what|lanzar conjuro, cueste lo que cueste
+character overview|resumen del personaje
+current spells (<w>%</w>), skills (<w>%?</w>) and|current spells (<w>%</w>), skills (<w>%?</w>) and
+display character status|mostrar estado del personaje
+display experience info|mostrar información de experiencia
+display gold in possession|mostrar oro en posesión
+display worn armour|mostrar armadura equipada
+display worn jewellery|mostrar joyas equipadas
+dump character to file|volcar personaje a archivo
+eVoke wand and miscellaneous item|eVocar varita y objeto misceláneo
+eXamine level map (<w>%?</w> for help)|eXamine level map (<w>%?</w> for help)
+eXamine surroundings/targets|eXaminar alrededores/objetivos
+edit macros|editar macros
+edit player doll|editar muñeco del personaje
+examine occupied tile and|examinar la ficha ocupada y
+form of targeting), <w>%</w>, and <w>%</w>.\n|form of targeting), <w>%</w>, and <w>%</w>.\n
+game menu|menú del juego
+help, among them <w>%</w>, <w>%</w>, <w>%</w> (or any|help, among them <w>%</w>, <w>%</w>, <w>%</w> (or any
+inscribe item|inscribir objeto
+list all memorised spells|listar todos los conjuros memorizados
+lists eligible targets. By default,\n|listas de objetivos elegibles. Por defecto,\n
+mute/unmute sound effects|silenciar/activar efectos de sonido
+on) or vi keys:\n|activado) or vi keys:\n
+pick up items (also <w>g</w>)|pick up items (also <w>g</w>)
+quick add macro|añadir macro rápido
+range is respected and beams don't stop.\n|rango es respetado y las vigas no paran.\n
+re-do previous command|repetir comando anterior
+read messages (online play only)|leer mensajes (solo online)
+reassign inventory/spell letters|reasignar letras de inventario/conjuros
+repeat next command # of times|repetir siguiente comando # veces
+select action to be Quivered|seleccionar acción para Enfundar
+select an item and Fire it|seleccionar un objeto y Dispararlo
+show Abilities/mutations|mostrar Habilidades/mutaciones
+show Inventory list|mostrar lista de Inventario
+show Previous messages|mostrar Mensajes anteriores
+show dungeon Overview|mostrar Vista general de mazmorra
+show item knowledge|mostrar conocimiento de objetos
+show religion screen|mostrar pantalla de religión
+show runes collected|mostrar runas recolectadas
+show skill screen|mostrar pantalla de habilidades
+show your spell library|mostrar tu biblioteca de conjuros
+staves (<w>%</w>ield)|staves (<w>%</w>ield)
+swap between most recent quiver actions|alternar entre acciones enfundadas recientes
+talismans (e<w>%</w>oke)|talismans (e<w>%</w>oke)
+tell allies (<w>%t</w> to shout)|tell allies (<w>%t</w> to shout)
+toggle auto-pickup|alternar recogida automática
+toggle view layers|alternar capas de vista
+use special Ability (<w>%!</w> for help)|use special Ability (<w>%!</w> for help)
+use the numpad (try Numlock off and \n|utilizar el numpado (entrada nulock desactivado y \n
+wands (e<w>%</w>oke)|wands (e<w>%</w>oke)
+wield item a, or switch to b|empuñar objeto a, o cambiar a b

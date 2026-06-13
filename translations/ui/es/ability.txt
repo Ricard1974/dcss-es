@@ -1,0 +1,306 @@
+# Traducciones de UI de DCSS - Habilidades
+# Fuente: ability.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+# --- Nombres de habilidades ---
+Ancestor Identity|Identidad del Ancestro
+Ancestor Life: Battlemage|Vida del Ancestro: Mago de Batalla
+Ancestor Life: Hexer|Vida del Ancestro: Hechicero
+Ancestor Life: Knight|Vida del Ancestro: Caballero
+Aphotic Marionette|Marioneta Afótica
+Apocalypse|Apocalipsis
+Banish|Desterrar
+Bat Swarm|Enjambre de Murciélagos
+Bend Time|Doblar el Tiempo
+Berserk|Berserker
+Bestial Takedown|Derribo Bestial
+Bind Soul|Atar Alma
+Blinkbolt|Rayoteletransporte
+Blood for Blood|Sangre por Sangre
+Brand Self #1|Marca Personal #1
+Brand Self #2|Marca Personal #2
+Brand Self #3|Marca Personal #3
+Brand Weapon With Distortion|Marca Arma con Distorsión
+Brand Weapon With Holy Wrath|Marca Arma con Ira Sagrada
+Brand Weapon With Pain|Marca Arma con Dolor
+Breathe Poison Gas|Exhalar Gas Venenoso
+Breathe Rust|Exhalar Óxido
+Bribe Branch|Sobornar Rama
+Brothers in Arms|Hermanos de Armas
+Build terrain|Construir terreno
+Cacophony|Cacofonía
+Call Merchant|Llamar Mercader
+Caustic Breath|Aliento Cáustico
+Channel Magic|Canalizar Magia
+Cleansing Flame|Llama Purificadora
+Clear terrain to floor|Allanar terreno
+Combustion Breath|Aliento de Combustión
+Convert to Beogh|Convertir a Beogh
+Corrupt|Corromper
+Curse Item|Maldecir Objeto
+Deal Four|Repartir Cuatro
+Depart the Abyss|Abandonar el Abismo
+Dig|Excavar
+Disaster Area|Zona de Desastre
+Dismiss Apostle #1|Despedir Apóstol #1
+Dismiss Apostle #2|Despedir Apóstol #2
+Dismiss Apostle #3|Despedir Apóstol #3
+Divine Exegesis|Exégesis Divina
+Divine Shield|Escudo Divino
+Divine Vigour|Vigor Divino
+Donate Gold|Donar Oro
+Draw Destruction|Robar Destrucción
+Draw Escape|Robar Escape
+Draw Out Power|Extraer Poder
+Draw Stack|Robar Montón
+Draw Summoning|Robar Invocación
+Duel|Duelo
+Elemental Force|Fuerza Elemental
+End Transformation|Terminar Transformación
+Enkindle|Encender
+Enter the Abyss|Entrar al Abismo
+Evoke Blink|Evocar Parpadeo
+Evoke Damnation|Evocar Condena
+Evoke Invisibility|Evocar Invisibilidad
+Evoke the Staff of Olgreb|Evocar el Bastón de Olgreb
+Fathomless Shackles|Grilletes Insondables
+Fiery Armour|Armadura de Fuego
+Finesse|Fineza
+Forget Spell|Olvidar Conjuro
+Foxfire Swarm|Enjambre de Fuego Fatuo
+Galvanic Breath|Aliento Galvánico
+Glacial Breath|Aliento Glacial
+Globe of Annihilation|Globo de Aniquilación
+Golden Breath|Aliento Dorado
+Grand Finale|Gran Final
+Grow Ballistomycete|Cultivar Ballistomycete
+Grow Oklob|Cultivar Oklob
+Heal Other|Curar a Otro
+Heal Self|Curarse
+Heal Wounds|Curar Heridas
+Heavenly Storm|Tormenta Celestial
+Heroism|Heroísmo
+Hop|Saltar
+Hurl Damnation|Lanzar Condena
+Hurl Torchlight|Lanzar Luz de Antorcha
+Idealise|Idealizar
+Imbue Servitor|Imbuir Servidor
+Imprint Weapon|Imprimir Arma
+Imprison|Aprisionar
+Infernal Legion|Legión Infernal
+Infernal Servant|Sirviente Infernal
+Invent Gizmo|Inventar Artilugio
+Jump|Saltar
+Light the Black Torch|Encender la Antorcha Negra
+Line Pass|Paso en Línea
+Mud Breath|Aliento de Barro
+Noxious Breath|Aliento Nocivo
+Nullifying Breath|Aliento Anulador
+Oozemancy|Cienomancia
+Overgrow|Crecer en Exceso
+Potion Petition|Petición de Poción
+Power Leap|Salto Poderoso
+Primordial Nightfall|Oscuridad Primordial
+Purification|Purificación
+Recall Ancestor|Recordar Ancestro
+Recall Apostles|Recordar Apóstoles
+Recall Undead Harvest|Recordar Cosecha Muerta
+Receive Armour|Recibir Armadura
+Receive Forbidden Knowledge|Recibir Conocimiento Prohibido
+Receive Weapon|Recibir Arma
+Recite|Recitar
+Recruit Apostle|Reclutar Apóstol
+Reject Sacrifices|Rechazar Sacrificios
+Renounce Religion|Renunciar Religión
+Rising Flame|Llama Ascendente
+Sacrifice Arcana|Sacrificar Arcano
+Sacrifice Artifice|Sacrificar Artificio
+Sacrifice Courage|Sacrificar Coraje
+Sacrifice Drink|Sacrificar Bebida
+Sacrifice Durability|Sacrificar Durabilidad
+Sacrifice Essence|Sacrificar Esencia
+Sacrifice Experience|Sacrificar Experiencia
+Sacrifice Forms|Sacrificar Formas
+Sacrifice Health|Sacrificar Salud
+Sacrifice Love|Sacrificar Amor
+Sacrifice Nimbleness|Sacrificar Agilidad
+Sacrifice Purity|Sacrificar Pureza
+Sacrifice Resistance|Sacrificar Resistencia
+Sacrifice Skill|Sacrificar Habilidad
+Sacrifice Stealth|Sacrificar Sigilo
+Sacrifice Words|Sacrificar Palabras
+Sacrifice a Hand|Sacrificar una Mano
+Sacrifice an Eye|Sacrificar un Ojo
+Sanctuary|Santuario
+Serpent's Lash|Látigo de la Serpiente
+Set terrain to build|Preparar terreno para construir
+Shadowslip|Deslizamiento Sombrío
+Shaft Self|Autodesplomarse
+Shatter the Chains|Romper las Cadenas
+Sign of Ruin|Signo de Ruina
+Siphon Essence|Sifonar Esencia
+Slimify|Afinar
+Slouch|Encorvarse
+Smiting|Castigar
+Spit Poison|Escupir Veneno
+Stack Five|Apilar Cinco
+Steam Breath|Aliento de Vapor
+Step From Time|Salir del Tiempo
+Stomp|Pisotón
+Summon Divine Warrior|Invocar Guerrero Divino
+Temporal Distortion|Distorsión Temporal
+Transference|Transferencia
+Triple Draw|Triple Robo
+Trog's Hand|Mano de Trog
+Unearth Wretches|Desenterrar Miserables
+Unleash Destruction|Desatar Destrucción
+Upheaval|Sacudida
+Vessel of Slaughter|Recipiente de Matanza
+Vitalisation|Vitalización
+Wall Jump|Salto de Pared
+Wall of Briars|Muro de Espinas
+Watery Grave|Tumba Acuática
+Word of Chaos|Palabra de Caos
+
+# --- Otras cadenas ---
+ Invocations -    |Invocaciones -
+ will bless one of your weapons.|bendecirá una de tus armas.
+ will bloody one of your weapons with pain.|sangrará a una de tus armas con dolor.
+ will brand one of your weapons with the |marcará una de tus armas con
+,
+                                slouch_damage_for_speed());
+        case ABIL_IGNIS_FOXFIRE:
+            return |,
+slouch daño for celeridad());
+caso ABIL IGNIS FOXFIRE:
+Regreso
+,
+                 you.hands_act(|,
+Tú.hands act
+;
+
+    if (damage_str != |;
+
+si (daño str!=
+;
+
+    return |;
+
+regreso
+;
+        const string prefix = |;
+prefijo de cadena de const =
+A dragon answers your prayer!|¡Un dragón responde a tu oración!
+Ability - describe what?            |Capacidad - describir qué?
+Ability - do what?                  |Capacidad - ¿Hacer qué?
+Any gift you received here would fall and be lost!|Cualquier regalo que haya recibido aquí caería y se perdería!
+Are you sure you want to shaft yourself?|¿Estás seguro de que quieres echarte?
+Are you sure?|¿Estás seguro?
+Brand Self|atributo Self
+Confirm evoke|Confirme evocar
+Cost                            Failure|Costo
+Damage: dice|Daño: dados
+Dismiss Apostle|el apóstol despido
+Makhleb denies you. Endure the Crucible first!|Makhleb te niega. Endure el Crucible primero!
+Night has already fallen.|la noche ya ha caído.
+No ability|Sin habilidad
+No description found.\n|No Hay descripción encontrada
+Nothing ails you!|¡Nada te duele!
+Really renounce your faith, foregoing its fabulous benefits?|¿De verdad renuncias a tu fe, renunciando a tus fabulosos beneficios?
+Really use |Uso real
+Sacrifices cannot be taken back.\n|los sacrificios no se pueden recuperar
+Select an artefact weapon to imprint upon your Paragon.|Seleccione un arma de artefacto para imprimir en tu Paragon.
+Sorry, you can't do that.|Lo siento, no puedes hacer eso.
+That deck is empty!|¡la cubierta está vacía!
+The black torch is already ablaze!|¡la antorcha negra ya está en llamas!
+The black torch is unlit!|¡la antorcha negra no está iluminada!
+There are no victims visible. Siphon anyway?|No hay víctimas visibles. ¿Usar Sifonar de todas formas?
+There is no water in range!|¡no hay agua en rango!
+There is nothing to wall jump against here.|No hay ninguna pared contra la que saltar.
+There isn't enough space to grow briars here.|No Hay suficiente espacio para cultivar briares aquí.
+There's already a sanctuary in place on this level.|Ya hay un santuario en este nivel.
+There's no appreciative audience!|¡no hay audiencia apreciativa!
+This ability costs: |Esta habilidad cuesta:
+Use which ability? (? or * to list) |¿Utilizar qué habilidad? (? o * a lista)
+Weird ability return type|Tipo de retorno de habilidad rara
+You already have the maximum number of followers. Dismiss one first.|Ya tienes el número máximo de seguidores. Descargue uno primero.
+You are already a vessel of slaughter!|¡Ya eres un recipiente de masacre!
+You are already burning your memories away!|¡Ya estás quemando tus recuerdos!
+You are already calling forth ooze!|¡Ya estás llamando a limo!
+You are already engaged in single combat!|¡Ya estás en combate único!
+You are already engulfed in a heavenly storm!|¡Ya estás envuelto en una tormenta celestial!
+You are already invisible!|¡Ya eres invisible!
+You are already invoking Yredulemnul's grip!|¡Ya estás invocando el agarre de Yredulemnul!
+You are already lashing out.|Ya te estás agotando.
+You are already making a cacophony!|¡Ya estás haciendo una cacofonía!
+You are healed.|Estás curado.
+You are not zealous enough to affect this audience!|¡no eres lo suficientemente celoso como para afectar a este público!
+You are too exhausted to lash out.|Estás demasiado agotada para lavarte.
+You are too terrified to wall jump!|¡Estás demasiado aterrorizado para saltar en la pared!
+You aren't haunting any armour at the moment!|¡no estás persiguiendo ninguna armadura!
+You aren't in the Abyss!|¡no estás en el Abyss!
+You begin to rise into the air.|Empiezas a subirte al aire.
+You call down Yredelemnul's inexorable grip.|Derriba el inexorable agarre de Yredelemnul.
+You can now deal lightning-fast blows.|Ahora puedes hacer golpes rápidos.
+You can't do that.|No Puedes hacer eso.
+You can't heal while in death's door.|No Puedes curarte mientras estás en la puerta de la muerte.
+You can't rise from this level without the Orb!|¡no puedes subir de este nivel sin el Orbe!
+You can't rise from this level!|¡no puedes subir de este nivel!
+You can't see any clouds you can empower.|No Puedes ver ninguna nube que puedas empoderar.
+You can't see any nearby targets.|No Puedes ver objetivos cercanos.
+You cannot banish yourself!|¡no puedes desterrarte!
+You channel some magical energy.|Canalizas energía mágica.
+You clear your throat and prepare to recite.|Limpias la garganta y te preparas para recitar.
+You don't have any memories left to burn.|No Te quedan recuerdos para quemar.
+You don't have enough experience to sacrifice.|No Tienes suficiente experiencia para sacrificarte.
+You don't have enough innate magic capacity.|No Tienes suficiente capacidad mágica innata.
+You exhale a blast of poison gas.|Exhala una explosión de gas venenoso.
+You extend your mandibles.|Extendes tus mandíbulas.
+You fail to use your ability.|No Puedes usar tu habilidad.
+You feel more confident with your borrowed prowess.|Te sientes más confiado con tu prótesis prestada.
+You feel stolen life flooding into you from an unseen source!|¡Te sientes robada de una fuente invisible!
+You feel stolen life flooding into you!|¡Te sientes robada la vida inundada en ti!
+You feel the orb feeding on your energy!|¡Sientes el orbe alimentando tu energía!
+You gain the combat prowess of a mighty hero.|Ganas la fuerza de combate de un poderoso héroe.
+You have already been granted divine vigour!|¡Ya te han concedido el vigor divino!
+You have already called for blood!|¡Ya has pedido sangre!
+You have exhausted your breath weapon. Slay more foes!|Has agotado tu arma respiratoria. ¡Mata a más enemigos!
+You have no need to draw out power.|No Tienes que sacar el poder.
+You have nothing to donate!|¡no tienes nada que donar!
+You invoke the name of Kikubaaqudgha!|¡Invocas el nombre de Kikubaaqudgha!
+You must be standing atop the corpse of a fallen apostle!|¡Debes estar parado sobre el cadáver de un apóstol caído!
+You must recover your energy before doing this again.|Debes recuperar tu energía antes de hacer esto otra vez.
+You must recover your energy before scattering into bats again.|Debes recuperar tu energía antes de dispersarte en los murciélagos otra vez.
+You must recover your energy before unleashing another cacophony.|Debes recuperar tu energía antes de desencadenar otra cacofonía.
+You must stoke the torch's fire more first.|Debe aturdir el fuego de la antorcha más primero.
+You retract your mandibles.|Retractas tus mandíbulas.
+You scatter into a swarm of vampire bats!|¡Te dispersas en un enjambre de murciélagos de vampiros!
+You send your armour flying and begin to make an unholy cacophony!|¡Envias tu armadura volando y empiezas a hacer una cacofonía inesperada!
+You're already here!|¡Ya estás aquí!
+You're already rising!|¡Ya estás subiendo!
+You're too exhausted to draw out your power.|Estás demasiado agotada para sacar tu poder.
+You're too exhausted to power leap.|Estás demasiado agotada para saltar el poder.
+You're too exhausted to unleash your apocalyptic power.|Estás demasiado agotada para liberar tu poder apocalíptico.
+Your [hand(s)] get{s} new energy.|Tu nueva energía.
+Your apostles are all alive!|¡Tus apóstoles están vivos!
+Your flames flare with remembrance!|¡Tus llamas brillan con recuerdo!
+Your legs are too worn out to hop.|Tus piernas están demasiado gastadas para saltar.
+Your magical essence is drained by the effort!|¡Tu esencia mágica es drenada por el esfuerzo!
+Your muscles tense, ready for explosive movement...|Tus músculos tensos, listos para el movimiento explosivo...
+\nAfter this sacrifice, you will find that |\nDespués de este sacrificio, encontrarás que 
+\nGold   : |\nGold :
+\nHP     : |\nHP :
+\nIf you make this sacrifice, your powers granted by Ru |\nSi haces este sacrificio, tus poderes concedidos por Ru
+\nMP     : |\nMP :
+\nPiety  : |\nPiety :
+assemble a masterpiece.|ensambla una obra maestra.
+between ability selection and description.|entre la selección de capacidades y la descripción.
+corruption of the Abyss.|corrupción del Abismo.
+invalid ability|habilidad inválida
+invoke Cleansing Flame|invocar la Llama Limpiadora
+new energy.|nueva energía.
+no special abilities|no habilidades especiales
+not susceptible|no susceptible
+sacrifice, and you may gain new powers as well.\n\n|sacrificio, y puedes ganar nuevos poderes también.\n\n
+will become stronger in proportion to the value of the |será más fuerte en proporción al valor del

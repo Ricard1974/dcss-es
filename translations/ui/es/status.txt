@@ -1,0 +1,133 @@
+# Traducciones de UI de DCSS - Estados del personaje
+# Fuente: duration-data.h
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+-Berserk|-Berserk
+-Breath|-Aliento
+-DDoor|-PMMuerte
+Agi|Agi
+Berserk|Berserker
+Brill|Brill
+Conf|Conf
+Corona|Corona
+DChan|CanM
+DDoor|PMMuerte
+Dim|Merma
+Exh|Agot
+Fear|Miedo
+Fire|Fuego
+Fragile|Frágil
+Fusillade|Ráfaga
+Liquid|Líq
+Might|Fuerza
+Ooze|Cieno
+Para|Parál
+Petr|Petrif
+Pray|Rezo
+Quad|Quad
+Resist|Resist
+Shackles|Grill
+Slime|Moco
+Stealth|Sigilo
+Stone|Piedra
+Swift|Rápi
+Tele|Telet
+Touch|Toque
+Vexed|Veja
+Vit|Vit
+Vortex|Vórtice
+Will/2|Vol/2
+Quad Damage is wearing off.|El daño cuádruple se está desvaneciendo.
+You are about to teleport.|Estás a punto de teletransportarte.
+You are agile.|Eres ágil.
+You are armoured with a cloak of flame.|Estás armado con una capa de llamas.
+You are brilliant.|Eres brillante.
+You are calling forth ooze from nearby walls.|Estás convocando cieno de las paredes cercanas.
+You are channelling the dead.|Estás canalizando a los muertos.
+You are channelling the inexorable grasp of Yredelemnul.|Estás canalizando el agarre inexorable de Yredelemnul.
+You are chanting a vengeful prayer.|Estás entonando una plegaria vengativa.
+You are confused.|Estás confundido.
+You are covered in liquid fire.|Estás cubierto de fuego líquido.
+You are divinely vitalised.|Estás divinamente vigorizado.
+You are especially stealthy.|Eres especialmente sigiloso.
+You are exhausted.|Estás agotado.
+You are fragile as glass.|Eres frágil como el cristal.
+You are imbued with divine vigour.|Estás imbuido de vigor divino.
+You are in the eye of a polar vortex.|Estás en el ojo de un vórtice polar.
+You are mighty.|Eres poderoso.
+You are no longer berserk.|Ya no estás berserker.
+You are paralysed.|Estás paralizado.
+You are petrified.|Estás petrificado.
+You are possessed by a berserker rage.|Estás poseído por una furia berserker.
+You are protected by a layer of icy armour.|Estás protegido por una capa de armadura de hielo.
+You are resistant to the elements.|Eres resistente a los elementos.
+You are short of breath.|Te falta el aliento.
+You are sleeping.|Estás durmiendo.
+You are standing in death's doorway.|Estás en el umbral de la muerte.
+You are terrified.|Estás aterrorizado.
+You are turning to stone.|Te estás convirtiendo en piedra.
+You are unable to berserk.|No puedes enfurecerte.
+You are unable to enter death's door.|No puedes cruzar el umbral de la muerte.
+You are unleashing a barrage of alchemical reagents.|Estás desatando una lluvia de reactivos alquímicos.
+You are vexed.|Estás vejado.
+You are weak-willed.|Eres débil de voluntad.
+You can move swiftly.|Puedes moverte rápidamente.
+You feel a little less agile now.|Te sientes un poco menos ágil ahora.
+You feel a little less clever now.|Te sientes un poco menos listo ahora.
+You feel a little less mighty now.|Te sientes un poco menos poderoso ahora.
+You feel less confused.|Te sientes menos confundido.
+You feel less exhausted.|Te sientes menos agotado.
+You feel less fragile.|Te sientes menos frágil.
+You feel less slimy.|Te sientes menos baboso.
+You feel less stealthy.|Te sientes menos sigiloso.
+You feel your willpower return.|Sientes que tu fuerza de voluntad regresa.
+You have got your breath back.|Has recuperado el aliento.
+You radiate silence.|Irradias silencio.
+You start to feel less resistant.|Empiezas a sentirte menos resistente.
+You step away from death's doorway.|Te alejas del umbral de la muerte.
+You stop calling forth ooze.|Dejas de convocar cieno.
+Your fear fades away.|Tu miedo se desvanece.
+Your fiery armour burns out.|Tu armadura de fuego se apaga.
+Your hearing returns.|Tu oído regresa.
+Your life is in your own %s again!|¡Tu vida está en tus propias %s de nuevo!
+Your prayer is nearing its end.|Tu plegaria está llegando a su fin.
+Your resistance to elements expires.|Tu resistencia a los elementos expira.
+Your slime is starting to congeal.|Tu moco está empezando a coagularse.
+Your spell have diminished power.|Tus conjuros tienen poder disminuido.
+Your spells return to their normal power.|Tus conjuros vuelven a su poder normal.
+Your time is quickly running out!|¡Tu tiempo se acaba rápidamente!
+Your unholy channel expires.|Tu canalización profana expira.
+Your unholy channel is weakening.|Tu canalización profana se debilita.
+about to teleport|a punto de teletransportarse
+berserk cooldown|recarga de berserker
+blood for blood|sangre por sangre
+breath weapon|arma de aliento
+calling ooze|convocando cieno
+chanting a vengeful prayer|entonando una plegaria vengativa
+confusing by touch|confundiendo al tocar
+confusing touch|toque confuso
+death channel|canal de muerte
+death channelling|canalizando la muerte
+deaths door|puerta de la muerte
+deaths door cooldown|recarga de puerta de la muerte
+diminished spells|conjuros disminuidos
+divine stamina|vigor divino
+divine vigour|vigor divino
+divinely vigorous|divinamente vigoroso
+especially stealthy|especialmente sigiloso
+fathomless shackles|grilletes insondables
+fiery armour|armadura de fuego
+fragile (+50% incoming damage)|frágil (+50% daño recibido)
+icy armour|armadura de hielo
+in a vortex|en un vórtice
+in death's door|en la puerta de la muerte
+liquid fire|fuego líquido
+lit by a corona|iluminado por una corona
+lowered wl|voluntad reducida
+on berserk cooldown|en recarga de berserker
+on death's door cooldown|en recarga de puerta de la muerte
+on fire|en llamas
+quad damage|daño cuádruple
+raining reagents|lloviendo reactivos
+short of breath|sin aliento
