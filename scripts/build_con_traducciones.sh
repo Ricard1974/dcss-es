@@ -30,6 +30,12 @@ echo ""
 echo "🔧 Aplicando infraestructura de UI translation..."
 git apply "$PROJECT_DIR/patches/0001-ui-translation-infra-full.diff"
 
+# ── 2b. Añadir names.txt a la lista de archivos cargados en translation.cc
+echo ""
+echo "🔧 Añadiendo names.txt a la lista de carga..."
+sed -i '/"misc.txt"/a \    "names.txt",' translation.cc
+echo "  ✓ names.txt añadido a s_ui_files"
+
 # ── 3. Añadir translation.o a la lista de objetos ──
 echo ""
 echo "🔧 Añadiendo translation.o a Makefile.obj..."
