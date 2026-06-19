@@ -80,6 +80,11 @@ Summoner|Invocador
 Wanderer|Vagabundo
 Warper|Deformador
 
+# --- Grupos de especies ---
+Simple|Simple
+Intermediate|Intermedio
+Advanced|Avanzado
+
 # --- Grupos de clases ---
 Warrior|Guerrero
 Zealot|Fanático

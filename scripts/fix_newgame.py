@@ -83,6 +83,34 @@ def main():
             print("OK: Choose 0 / cycle focus")
             break
 
+    # 5. Añadir tr() a los nombres de especies y clases en _add_group_item
+    # species_group::attach: species::name(this_species) -> tr(species::name(this_species))
+    old = "species::name(this_species),"
+    new = "tr(species::name(this_species)),"
+    if old in content:
+        content = content.replace(old, new)
+        print("OK: species::name -> tr(species::name) en _add_group_item")
+    else:
+        print(f"SKIP: {old[:40]} (not found in newgame.cc)")
+
+    # job_group::attach: get_job_name(job) -> tr(get_job_name(job))
+    old = "get_job_name(job),"
+    new = "tr(get_job_name(job)),"
+    if old in content:
+        content = content.replace(old, new)
+        print("OK: get_job_name -> tr(get_job_name) en _add_group_item")
+    else:
+        print(f"SKIP: get_job_name not found")
+
+    # 6. Añadir tr() a _add_group_title (Simple/Intermediate/Advanced, grupos)
+    old = "auto text = make_shared<Text>(formatted_string(name, LIGHTBLUE));"
+    new = "auto text = make_shared<Text>(formatted_string(tr(name), LIGHTBLUE));"
+    if old in content:
+        content = content.replace(old, new)
+        print("OK: _add_group_title con tr(name)")
+    else:
+        print(f"SKIP: _add_group_title (not found)")
+
     with open(filepath, "w") as f:
         f.write(content)
 
