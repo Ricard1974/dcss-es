@@ -69,24 +69,31 @@ git checkout -- command.cc 2>/dev/null || true
 python3 "$PROJECT_DIR/scripts/fix_command.py" command.cc
 echo "  ✓ command.cc modificado"
 
-# ── 8. Copiar archivos de traducción ──
+# ── 8. Aplicar tr() calls a message.cc (traducción de mensajes del juego) ──
+echo ""
+echo "🔧 Aplicando tr() calls a message.cc..."
+sed -i '/^#include "stringutil.h"/a #include "translation.h"' message.cc
+sed -i '/^static bool _doing_c_message_hook = false;/a \    text = tr(text);' message.cc
+echo "  ✓ message.cc modificado (_mpr traduce todos los mensajes)"
+
+# ── 9. Copiar archivos de traducción ──
 echo ""
 echo "📝 Copiando traducciones UI..."
 mkdir -p dat/ui/es/
 cp "$PROJECT_DIR/translations/ui/es/"*.txt dat/ui/es/
 echo "  ✓ $(ls dat/ui/es/*.txt | wc -l) archivos copiados"
 
-# ── 9. Generar cabeceras ──
+# ── 10. Generar cabeceras ──
 echo ""
 echo "⚙️  Generando cabeceras..."
 python3 util/gen-all.py 2>&1 | grep -v "Error:"
 
-# ── 10. Compilar ──
+# ── 11. Compilar ──
 echo ""
 echo "🔨 Compilando (esto tarda unos minutos)..."
 make -j$(nproc) 2>&1 | tail -10
 
-# ── 11. Verificar ──
+# ── 12. Verificar ──
 if [ -f crawl ]; then
     echo ""
     echo "✅ Compilación exitosa!"
