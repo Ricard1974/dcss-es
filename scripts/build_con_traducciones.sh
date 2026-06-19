@@ -76,7 +76,14 @@ sed -i '/^#include "stringutil.h"/a #include "translation.h"' message.cc
 sed -i '/^static bool _doing_c_message_hook = false;/a \    text = tr(text);' message.cc
 echo "  ✓ message.cc modificado (_mpr traduce todos los mensajes)"
 
-# ── 9. Copiar archivos de traducción ──
+# ── 9. Aplicar tr() calls a cio.cc (wrapcprintf - panel derecho de stats) ──
+echo ""
+echo "🔧 Aplicando tr() calls a cio.cc..."
+sed -i '1i #include "translation.h"' cio.cc
+sed -i '/^string buf = vmake_stringf(s, args);$/a\    buf = tr(buf);' cio.cc
+echo "  ✓ cio.cc modificado (wrapcprintf traduce panel derecho y otros)"
+
+# ── 10. Copiar archivos de traducción ──
 echo ""
 echo "📝 Copiando traducciones UI..."
 mkdir -p dat/ui/es/
