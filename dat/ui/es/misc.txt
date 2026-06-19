@@ -1,0 +1,27 @@
+# Traducciones de UI de DCSS - Misceláneo
+# Fuente: misc.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+You spin around.|Giras sobre ti mismo.
+Your stasis prevents you from teleporting.|Tu estasis te impide teletransportarte.
+humor and ridicule to confront the|el humor y el ridículo para confrontar
+power of death.|poder de la muerte.
+
+Press <w>?</w> for a list of commands and other information.|Pulsa <w>?</w> para obtener una lista de comandos y más información.
+You found |Has encontrado 
+
+# ============================================================================
+# Ayuda y pantalla de contenido manual (command.cc)
+# Estas claves coinciden con el texto formateado que aparece en la pantalla
+# de ayuda (tecla ?).
+# ============================================================================
+Dungeon Crawl Help|Ayuda de Mazmorras de Piedra Sopa
+Manual|Manual
+Aptitudes|Aptitudes
+Quickstart|Guía rápida
+Macros|Macros
+Options|Opciones
+Tiles|Fichas
+Key help|Ayuda de teclas
+

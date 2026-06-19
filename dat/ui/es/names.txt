@@ -1,0 +1,120 @@
+
+# Nombres de especies, clases y dioses
+Abyssal Knight|Caballero del Abismo
+Air Elementalist|Elementalista de Aire
+Alchemist|Alquimista
+Armataur|Armatauro
+Artificer|Artífice
+Ashenzari|Ashenzari
+Barachi|Barachi
+Beogh|Beogh
+Berserker|Berserker
+Black Draconian|Draconiano Negro
+Brigand|Bandolero
+Buggy|Defectuoso
+Centaur|Centauro
+Chaos Knight|Caballero del Caos
+Cheibriados|Cheibriados
+Cinder Acolyte|Acólito de Ceniza
+Coglin|Coglin
+Conjurer|Conjurador
+Death Knight|Caballero de la Muerte
+Deep Dwarf|Enano Profundo
+Deep Elf|Elfo Profundo
+Delver|Excavador
+Demigod|Semidiós
+Demonspawn|Engendro Demoníaco
+Dithmenos|Dithmenos
+Djinni|Djinn
+Draconian|Draconiano
+Earth Elementalist|Elementalista de Tierra
+Elyvilon|Elyvilon
+Enchanter|Encantador
+Fedhas|Fedhas
+Felid|Félido
+Fighter|Guerrero
+Fire Elementalist|Elementalista de Fuego
+Forgewright|Forjador
+Formicid|Fórmicido
+Gargoyle|Gárgola
+Ghoul|Ghul
+Gladiator|Gladiador
+Gnoll|Gnoll
+Gozag|Gozag
+Green Draconian|Draconiano Verde
+Grey Draconian|Draconiano Gris
+Halfling|Mediano
+Healer|Curandero
+Hedge Wizard|Mago Rustico
+Hepliaklqana|Hepliaklqana
+Hexslinger|Lanzador de Maldiciones
+High Elf|Alto Elfo
+Hill Orc|Orco de las Colinas
+Human|Humano
+Hunter|Cazador
+Ice Elementalist|Elementalista de Hielo
+Ignis|Ignis
+Jester|Bufón
+Kikubaaqudgha|Kikubaaqudgha
+Kobold|Kobold
+Lava Orc|Orco de Lava
+Lugonu|Lugonu
+Makhleb|Makhleb
+Mayflytaur|Efímero
+Merfolk|Hombre Pez
+Meteoran|Meteorano
+Minotaur|Minotauro
+Monk|Monje
+Mottled Draconian|Draconiano Moteado
+Mountain Dwarf|Enano de Montaña
+Mummy|Momia
+Naga|Naga
+Necromancer|Nigromante
+Nemelex Xobeh|Nemelex Xobeh
+No God|Sin Dios
+Octopode|Octópodo
+Okawaru|Okawaru
+Oni|Oni
+Pakellas|Pakellas
+Pale Draconian|Draconiano Pálido
+Poltergeist|Poltergeist
+Priest|Sacerdote
+Purple Draconian|Draconiano Púrpura
+Qazlal|Qazlal
+Reaver|Saqueador
+Red Draconian|Draconiano Rojo
+Revenant|Espectro
+Ru|Ru
+Shapeshifter|Cambiaformas
+Sif Muna|Sif Muna
+Skald|Escaldo
+Sludge Elf|Elfo de los Cienos
+Spriggan|Spriggan
+Stalker|Acechador
+Summoner|Invocador
+Tengu|Tengu
+Trog|Trog
+Troll|Trol
+Uskayaw|Uskayaw
+Vampire|Vampiro
+Vehumet|Vehumet
+Vine Stalker|Acechador Enredadera
+Wanderer|Errante
+Warper|Deformador
+White Draconian|Draconiano Blanco
+Wu Jian|Wu Jian
+Xom|Xom
+Yellow Draconian|Draconiano Amarillo
+Yredelemnul|Yredelemnul
+Zin|Zin
+an unknown god|un dios desconocido
+dry fountain|fuente seca
+escape hatch in the ceiling|escotilla de escape en el techo
+escape hatch in the floor|escotilla de escape en el suelo
+fountain|fuente
+nameless|sin nombre
+random|aleatorio
+staircase leading out of the dungeon|escalera que sale de la mazmorra
+stone staircase leading down|escalera de piedra que baja
+stone staircase leading up|escalera de piedra que sube
+the Shining One|el Resplandeciente

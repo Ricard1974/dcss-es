@@ -1,0 +1,80 @@
+# Traducciones de UI de DCSS - Barra de estado
+# Fuente: output.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+# Las claves deben coincidir EXACTAMENTE con las del código fuente,
+# incluyendo espacios en blanco.
+# ============================================================================
+
+# Línea 345: cprintf("XL Next");
+XL Next|Sig. NX
+
+# Línea 348: cprintf("Place");
+Place|Lugar
+
+# Línea 358: cprintf("Noise");
+Noise|Ruido
+
+# Línea 2315: entry.cprintf("HP:   "); (3 espacios)
+HP:   |PS:   
+
+# Línea 2317: entry.cprintf("Health: ");
+Health: |Salud: 
+
+# Línea 2335: entry.cprintf("MP:   "); (3 espacios)
+MP:   |PM:   
+
+# Línea 2337: entry.cprintf("Magic:  "); (2 espacios)
+Magic:  |Magia:  
+
+# Línea 2359: entry.cprintf("Gold: ");
+Gold: |Oro: 
+
+# Línea 2361: entry.cprintf("Gold:   "); (3 espacios)
+Gold:   |Oro:   
+
+# Línea 2371: entry.cprintf("AC: ");
+AC: |CA: 
+
+# Línea 2381: entry.cprintf("EV: ");
+EV: |EV: 
+
+# Línea 2391: entry.cprintf("SH: ");
+SH: |ER: 
+
+# Línea 2401: entry.cprintf("Str: ");
+Str: |Fue: 
+
+# Línea 2411: entry.cprintf("Int: ");
+Int: |Int: 
+
+# Línea 2421: entry.cprintf("Dex: ");
+Dex: |Des: 
+
+# Línea 2431: entry.cprintf("XL:     "); (5 espacios)
+XL:     |NX:     
+
+# Línea 2439: entry.cprintf("   Next: "); (3 espacios delante)
+   Next: |   Sig.: 
+
+# Línea 2449: entry.cprintf("God:    "); (4 espacios)
+God:    |Dios:    
+
+# Línea 2466: entry.cprintf("Spells: ");
+Spells: |Hechizos: 
+
+# Línea 2479: entry.cprintf("Lives:  "); (2 espacios)
+Lives:  |Vidas:  
+
+# Línea 2485: entry.cprintf("   Deaths: "); (3 espacios delante)
+   Deaths: |   Muertes: 
+
+# Línea 721: cprintf(total_slots > 8 ? "Eq: " : "Equip: ");
+Eq: |Eq: 
+Equip: |Equipo: 
+
+# Otras cadenas existentes que ya funcionaban
+Contam: |Contam: 
+Doom: |Condena: 
+Gd |O 
+Silenced  |Silenciado  

@@ -1,0 +1,97 @@
+# Traducciones de UI de DCSS - Combate
+# Fuente: fight.cc, melee-attack.cc, ranged-attack.cc, attack.cc, throw.cc
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+'s weak point|punto débil de
+, but do no damage|, pero sin causar daño
+@The_monster@ is blinded by the light from your cloak!|@The_monster@ es cegado por la luz de tu capa!
+@The_monster@ is temporarily struck blind!|@The_monster@ es cegado temporalmente!
+@The_monster_possessive@ sight is seared by the starlight!|La vista de @The_monster_possessive@ es abrasada por la luz estelar
+@The_monster_possessive@ vision is obscured by starry radiance!|La visión de @The_monster_possessive@ está oscurecida por el resplandor estrellado
+A spider bursts forth from the wound!|¡Una araña sale de la herida!
+Blorkula the orcula|Blorkula la orcula
+No action selected|Ninguna acción seleccionada
+Something buggy happens! Please report this.|¡Algo extraño ocurre! Por favor, informa de esto.
+The flame cauterises the wound!|¡La llama cauteriza la herida!
+The grapnel guides your strike.|El arpón guía tu golpe.
+The ice beast melts!|¡el monstruo de hielo se derrite!
+The last of your unstable energy dissipates and|Tu energía inestable restante se disipa y
+This attack would place you under penance!|¡Este ataque te colocaría bajo penitencia!
+This could place you under penance!|¡Esto podría ponerte bajo penitencia!
+You are confused and cannot control your aim.|Estás confundido y no puedes controlar tu objetivo.
+You become untethered in space!|¡Flotas sin control en el espacio!
+You draw in some of the released energy.|Absorbes algo de la energía liberada.
+You emit a cloud of foul miasma!|¡Emites una nube de miasma pútrido!
+You feel devious.|Te sientes astuto.
+You feel invigorated.|Te sientes vigorizado.
+You feel the transmutational energy in your body is nearly spent.|Sientes que la energía de transmutación en tu cuerpo está a punto de agotarse.
+You furiously retaliate!|¡Te vengas furiosamente!
+You have nothing you can fire or use right now.|No tienes nada que puedas disparar o usar ahora mismo.
+You hear a bow twang.|Oyes el zumbido de un arco.
+You hear a crossbow thunk.|Oyes el golpe de una ballesta.
+You hear a hand cannon's boom.|Oyes el estruendo de un cañón de mano.
+You hear a sling whirr.|Oyes el zumbido de una honda.
+You hear a triple crossbow go thunk-thunk-thunk.|Oyes una triple ballesta hacer clunk-clunk-clunk.
+You let out a blood-chilling howl!|¡Dejas escapar un aullido que hiela la sangre!
+You raise your head to howl, but no sound comes out.|Alzas la cabeza para aullar, pero no sale ningún sonido.
+You revel in your kill!|¡Te deleitas en tu matanza!
+Your autodazzler retaliates!|¡Tu autodazzler contraataca!
+Your divine stamina protects you from poison!|¡Tu vigor divino te protege del veneno!
+Your doom draws closer.|Tu condena se acerca.
+Your spellmotor activates!|¡Tu motor de conjuros se activa!
+a chunk of|un trozo de
+and shatters for extra damage|y se astilla causando daño adicional
+becomes untethered in space!|flota sin control en el espacio!
+begins to glow.|comienza a brillar.
+being knocked back|ser empujado hacia atrás
+can blink free|puede teletransportarse
+emitting a toxic aura|emitiendo un aura tóxica
+enters a blood-rage!|¡entra en una furia sangrienta!
+glows dangerously bright.|brilla peligrosamente.
+grows two more!|¡crece dos más!
+immune to nets|inmune a redes
+in the middle of a polar vortex|en medio de un vórtice polar
+into a bloody pulp|en una pulpa sangrienta
+into a gooey mess|en un amasijo pegajoso
+into fine dust|en polvo fino
+into the darkness|en la oscuridad
+is burned by acid!|¡se quema por ácido!
+is burned by your cloak of flames.|eres abrasado por tu capa de llamas.
+is struck blind.|es cegado.
+is struck by your quills.|es golpeado por tus púas.
+is struck by your spines.|es golpeado por tus espinas.
+is very cold.|está muy frío.
+like a drum|como un tambor
+like a gong|como un gong
+like a grape|como una uva
+like a ham|como un jamón
+like a kebab|como un kebab
+like a pancake|como una tortita
+like a pig|como un cerdo
+like a pillowcase|como una funda de almohada
+like a pincushion|como un acerico
+like a punching bag|como un saco de boxeo
+like a ripe choko|como un chayote maduro
+like a sieve|como un colador
+like a turkey|como un pavo
+like an ant|como una hormiga
+like an anvil|como un yunque
+like an onion|como una cebolla
+like the proverbial ant|como la hormiga proverbial
+like the proverbial ham|como el jamón proverbial
+like the proverbial pig|como el cerdo proverbial
+looks very invigorated.|parece muy vigorizado.
+potentially stumble back|puede retroceder
+prevents your attack.|evita tu ataque.
+protects your body from unnatural transformation!|protege tu cuerpo de la transformación antinatural!
+quick blade \|hoja rápida \
+raining down reagents|dejando caer reactivos
+spewing a noxious bog|vomitando una ciénaga nociva
+start to liquefy|empezar a licuarse
+tastes blood and grows stronger!|saborea la sangre y se vuelve más fuerte!
+the Royal Jelly|la Jalea Real
+whirl of blades|torbellino de cuchillas
+with an invisible shield|con un escudo invisible
+you return to your previous form.|vuelves a tu forma anterior.
+your the Royal Jelly|tu Jalea Real
