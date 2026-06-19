@@ -186,3 +186,56 @@ use special Ability (<w>%!</w> for help)|usar Habilidad especial (<w>%!</w> ayud
 use the numpad (try Numlock off and \n|usa el teclado numérico (prueba Numlock apagado y \n
 wands (e<w>%</w>oke)|varitas (e<w>%</w>vocar)
 wield item a, or switch to b|empuñar objeto a, o cambiar a b
+
+# ============================================================================
+# Pantalla de ayuda (?)
+# Las cadenas se traducen línea por línea en column_composer::add_formatted()
+# ============================================================================
+# Columna izquierda - Título e instrucciones
+<h>Dungeon Crawl Help|<h>Ayuda de Mazmorras de Piedra Sopa
+Press one of the following keys to|Pulsa una de las siguientes teclas para
+obtain more information on a certain|obtener más información sobre un
+aspect of Dungeon Crawl.|aspecto de Mazmorras de Piedra Sopa.
+
+# Teclas de acceso rápido
+<w>?</w>: List of commands|<w>?</w>: Lista de comandos
+<w>^</w>: Quickstart Guide|<w>^</w>: Guía rápida
+
+# Notas y volcado del personaje
+<w>:</w>: Browse character notes|<w>:</w>: Notas del personaje
+<w>#</w>: Browse character dump|<w>#</w>: Volcado del personaje
+<darkgrey>:: Browse character notes</darkgrey>|<darkgrey>:: Notas del personaje</darkgrey>
+<darkgrey>#: Browse character dump</darkgrey>|<darkgrey>#: Volcado del personaje</darkgrey>
+
+<w>~</w>: Macros help|<w>~</w>: Ayuda de macros
+<w>&</w>: Options help|<w>&</w>: Ayuda de opciones
+<w>%</w>: Table of aptitudes|<w>%</w>: Tabla de aptitudes
+<w>/</w>: Lookup description|<w>/</w>: Consultar descripción
+<w>Q</w>: FAQ|<w>Q</w>: FAQ
+<w>V</w>: Version information|<w>V</w>: Información de versión
+<w>!</w>: Display diagnostics|<w>!</w>: Diagnósticos
+<w>Home</w>: This screen|<w>Inicio</w>: Esta pantalla
+
+# Columna derecha - Manual Contents
+<h>Manual Contents|<h>Contenido del Manual
+<w>*</w>       Table of contents|<w>*</w>       Índice
+<w>A</w>.      Overview|<w>A</w>.      Visión general
+<w>B</w>.      Starting Screen|<w>B</w>.      Pantalla de inicio
+<w>C</w>.      Attributes and Stats|<w>C</w>.      Atributos y Estadísticas
+<w>D</w>.      Exploring the Dungeon|<w>D</w>.      Explorar la mazmorra
+<w>E</w>.      Experience and Skills|<w>E</w>.      Experiencia y Habilidades
+<w>F</w>.      Monsters|<w>F</w>.      Monstruos
+<w>G</w>.      Items|<w>G</w>.      Objetos
+<w>H</w>.      Spellcasting|<w>H</w>.      Lanzar hechizos
+<w>I</w>.      Targeting|<w>I</w>.      Apuntado
+<w>J</w>.      Religion|<w>J</w>.      Religión
+<w>K</w>.      Mutations|<w>K</w>.      Mutaciones
+<w>L</w>.      Licence, Contact, History|<w>L</w>.      Licencia, Contacto, Historia
+<w>M</w>.      Macros, Options, Performance|<w>M</w>.      Macros, Opciones, Rendimiento
+<w>N</w>.      Philosophy|<w>N</w>.      Filosofía
+<w>1</w>.      List of Character Species|<w>1</w>.      Lista de Razas
+<w>2</w>.      List of Character Backgrounds|<w>2</w>.      Lista de Clases
+<w>3</w>.      List of Skills|<w>3</w>.      Lista de Habilidades
+<w>4</w>.      List of Keys and Commands|<w>4</w>.      Lista de Teclas y Comandos
+<w>5</w>.      Inscriptions|<w>5</w>.      Inscripciones
+<w>6</w>.      Dungeon sprint modes|<w>6</w>.      Modos de sprint
