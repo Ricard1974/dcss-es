@@ -164,3 +164,17 @@ Contam: |Contam:
 Doom: |Condena: 
 Gd |O 
 Silenced  |Silenciado  
+
+# Etiquetas cortas del panel derecho (sin espacio, usadas por CPRINTF)
+AC:|CA:
+EV:|EV:
+SH:|ER:
+Str:|Fue:
+Int:|Int:
+Dex:|Des:
+
+# Etiquetas del panel derecho (con dos puntos y espacio)
+XL: |NX: 
+Next: |Sig.: 
+Place: |Lugar: 
+Noise: |Ruido: 
