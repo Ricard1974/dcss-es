@@ -96,7 +96,13 @@ sed -i '1i #include "translation.h"' libunix.cc
 python3 "$PROJECT_DIR/scripts/fix_libunix.py" libunix.cc
 echo "  ✓ libunix.cc modificado (cprintf global traduce menús, etc.)"
 
-# ── 11. Aplicar tr() calls a startup.cc (modos de juego del menú principal) ──
+# ── 11. Aplicar tr() a _add_command en command.cc (descripciones de teclas) ──
+echo ""
+echo "🔧 Aplicando tr() en _add_command..."
+sed -i 's/line += ": " + untag_tiles_console(desc) + "\\n";/line += ": " + tr(untag_tiles_console(desc)) + "\\n";/' command.cc
+echo "  ✓ command.cc modificado (_add_command traduce descripciones)"
+
+# ── 12. Aplicar tr() calls a startup.cc (modos de juego del menú principal) ──
 echo ""
 echo "🔧 Aplicando tr() calls a startup.cc..."
 sed -i 's/label->set_text(formatted_string(entry.label, WHITE));/label->set_text(formatted_string(tr(entry.label), WHITE));/' startup.cc
@@ -109,17 +115,17 @@ mkdir -p dat/ui/es/
 cp "$PROJECT_DIR/translations/ui/es/"*.txt dat/ui/es/
 echo "  ✓ $(ls dat/ui/es/*.txt | wc -l) archivos copiados"
 
-# ── 13. Generar cabeceras ──
+# ── 14. Generar cabeceras ──
 echo ""
 echo "⚙️  Generando cabeceras..."
 python3 util/gen-all.py 2>&1 | grep -v "Error:"
 
-# ── 14. Compilar ──
+# ── 15. Compilar ──
 echo ""
 echo "🔨 Compilando (esto tarda unos minutos)..."
 make -j$(nproc) 2>&1 | tail -10
 
-# ── 15. Verificar ──
+# ── 16. Verificar ──
 if [ -f crawl ]; then
     echo ""
     echo "✅ Compilación exitosa!"
