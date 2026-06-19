@@ -27,9 +27,9 @@ Apéndices
 6. Modos de impresión Dungeon
 
 
-------
+------------------------------------------------------------------------
 A. Examen general
-------
+------------------------------------------------------------------------
 
 Crawl es un juego divertido en la gran tradición de juegos similares como Rogue,
 Hack y Moria. El objetivo es viajar profundamente en una cueva subterránea
@@ -68,9 +68,9 @@ para juegos fuera de línea, y otros recursos comunitarios:
 
 http://crawl.develz.org/
 
-------
+------------------------------------------------------------------------
 B. STARTING SCREEN
-------
+------------------------------------------------------------------------
 
 En la pantalla de inicio Crawl, se le presentará con varios modos de juego, un
 lista de juegos guardados (si hay), y se le pedirá que escriba un nombre para su
@@ -176,9 +176,9 @@ da un general, si terse, vista general de su equipo y la mayoría de atributos
 Ctrl... O
 da una visión general de las partes de la mazmorra que ha descubierto hasta ahora
 
-------
+------------------------------------------------------------------------
 C. ATRIBUCIONES Y SITUACIONES
-------
+------------------------------------------------------------------------
 
 La zona de puestos a la derecha del mapa de juego muestra mucha información.
 Comienza con el nombre y el título del personaje (determinado por el
@@ -331,9 +331,9 @@ A veces los personajes podrán usar habilidades especiales, por ejemplo, las de 
 habilidad para escupir veneno o el poder mágico para volver invisible
 bufanda de invisibilidad. Estos se acceden a través del comando 'a'.
 
-------
+------------------------------------------------------------------------
 D. EXPLORACIÓN DEL DUNGEON
-------
+------------------------------------------------------------------------
 
 Movimiento
 ================================================================================================================================================================================================================================================================
@@ -597,9 +597,9 @@ correctamente, o porque desea disminuir la cantidad de escritura necesaria),
 puede usar teclados y macros. Ver macros guide.txt en los docs/
 directorio, o leerlo desde el menú de ayuda en el juego.
 
-------
+------------------------------------------------------------------------
 E. EXPERIENCE AND SKILLS
-------
+------------------------------------------------------------------------
 
 Cuando matas monstruos, ganas puntos de experiencia (XP). Cuando llegues
 suficiente XP, usted gana un nivel de experiencia, haciendo su carácter más
@@ -653,9 +653,9 @@ De vez en cuando puede encontrar un manual de una habilidad que le permite hacer
 rápido progreso en esta esfera. Cuando lo recoges, la experiencia solía
 practicar la habilidad dada tendrá dos veces el efecto habitual por un tiempo.
 
-------
+------------------------------------------------------------------------
 F. MONSTERS
-------
+------------------------------------------------------------------------
 
 En las cavernas de Crawl encontrarás una gran variedad de criaturas, la mayoría
 de los cuales se muestran por mayúsculas o pequeñas letras del alfabeto. Muchos de
@@ -729,9 +729,9 @@ Son prevenidos por el silencio, pero no afectados por el antímago.
 * Los discursos son lanzados usando palabras mágicas memorizadas. Son ambos.
 prevenido por el silencio y afectado por el antimagismo.
 
-------
+------------------------------------------------------------------------
 G. ITEMS
-------
+------------------------------------------------------------------------
 
 En las mazmorras de Crawl hay muchos tipos diferentes de normal y
 artículos mágicos para ser encontrados y utilizados. Algunos de ellos son útiles, algunos son
@@ -1065,9 +1065,9 @@ encantamiento, en cambio):
 : armaduras de cuero: teñido;
 : otras armaduras: bordadas.
 
-------
+------------------------------------------------------------------------
 H. SPELLCASTING
-------
+------------------------------------------------------------------------
 
 Los hechizos mágicos son una parte muy importante de sobrevivir en la mazmorra. Cada uno
 el carácter puede hacer uso de hechizos mágicos.
@@ -1126,9 +1126,9 @@ daño potencialmente letal).
 ¡Ten cuidado con los enemigos que usan magia! Algunos de ellos pueden usar la magia también
 como tú, si no mejor, y a menudo lo usas inteligentemente.
 
-------
+------------------------------------------------------------------------
 I. TARGETING
-------
+------------------------------------------------------------------------
 
 Al lanzar o disparar algo, evocando varitas, o echando ciertas
 hechizos, te piden una dirección. Hay varias maneras de decirle a Crawl
@@ -1171,9 +1171,9 @@ sensible a veces), se le pedirá confirmación.
 Finalmente, la tecla ':' le permite ocultar el camino de su
 hechizo/wand/missile.
 
-------
+------------------------------------------------------------------------
 J. RELIGION
-------
+------------------------------------------------------------------------
 
 Hay un número de dioses, demonios y otros poderes surtidos que harán
 aceptar la adoración de tu personaje, y a veces dar favores en
@@ -1205,9 +1205,9 @@ ejemplo, los dioses buenos no aceptarán devotos demoníacos o no muertos.
 Si desea comenzar el juego con una religión, elija su fondo
 de Berserker, Caos Knight, o Cinder Acolyte.
 
-------
+------------------------------------------------------------------------
 K. MUTATIONS
-------
+------------------------------------------------------------------------
 
 El Dungeon contiene muchas fuentes de radiación mutagénica y mágica
 contaminación, lo que puede causar que su carácter obtenga semipermanente
@@ -1252,9 +1252,9 @@ Algunas mutaciones son sólo temporales y se disiparán después de matar más
 enemigos. Estos están listados en púrpura en la lista de mutaciones, y marcados como
 temporal.
 
-------
+------------------------------------------------------------------------
 L. LICENCIA, CONTACTO, HISTORIA
-------
+------------------------------------------------------------------------
 
 Consulte la licencia.txt para obtener información sobre las licencias de Crawl. La mayoría del juego
 componentes están licenciados en la versión 2 o posterior del GNU General Public
@@ -1331,9 +1331,9 @@ https://crawl.develz.org/wordpress/the-dawn-of-stone-soup
 El desarrollo de Crawl continúa hasta hoy, con un equipo de muchos
 desarrolladores y cientos de colaboradores.
 
-------
+------------------------------------------------------------------------
 M. MACROS, OPTIONS, PERFORMANCE
-------
+------------------------------------------------------------------------
 
 Crawl soporta las teclas de redefinición a través de mapas clave. Esto es útil cuando tu
 El diseño del teclado hace que una clave sea incómoda para usar. También puede definir macros:
@@ -1367,9 +1367,9 @@ Ser
 especialmente útil si juega en un servidor remoto)
 - intenta jugar en modo consola en lugar de fichas
 
-------
+------------------------------------------------------------------------
 N. PHILOSOPHY (PAS DE FAQ)
-------
+------------------------------------------------------------------------
 
 En pocas palabras: Este juego pretende ser una mazmorra táctica con temática de fantasía
 Arrastre. Nos esforzamos por que la estrategia sea también una preocupación, y para exquisita
@@ -1560,9 +1560,9 @@ escapar con éxito es emocionante para cualquiera.
 Apéndices
 ################################################################################################################################################################################################################################################################
 
-------
+------------------------------------------------------------------------
 1. LIST OF CHARACTER SPECIES
-------
+------------------------------------------------------------------------
 
 Las especies se clasifican, aproximadamente, por lo difícil y complejo que son
 aprender a jugar, en tres categorías: *Simple*, *Avanzado*, y
@@ -2094,9 +2094,9 @@ son mejores en el aire y la magia del fuego, y no tienen deficiencias en otros
 escuelas. Respiran el vapor de observación y, como su púrpura
 primos, tienen una ligera ventaja en Evocations.
 
-------
+------------------------------------------------------------------------
 2. LIST OF CHARACTER BACKGROUNDS
-------
+------------------------------------------------------------------------
 
 En su búsqueda, usted juega como uno de un gran número de diferentes tipos de
 personajes. Aunque cada uno tiene sus propias fortalezas y debilidades, algunos son
@@ -2286,9 +2286,9 @@ Los alquimistas comienzan con el conocimiento de la magia venenosa, que es extre
 útil en los niveles más bajos del Dungeon donde pocas criaturas son
 inmune a ella.
 
-------
+------------------------------------------------------------------------
 3. LISTA DE SKILLS
-------
+------------------------------------------------------------------------
 
 Aquí hay una descripción de las habilidades que puede tener. Puedes comprobar tu
 las habilidades actuales con el comando 'm', y allí se relacionan entre el progreso
@@ -2436,9 +2436,9 @@ Esta habilidad te permite usar varitas mucho más eficazmente, en términos de a
 daño y precisión. Análogamente, otros artículos que tienen evocables
 poderes funcionan mejor para los personajes entrenados en esta habilidad.
 
-------
+------------------------------------------------------------------------
 4. LIST OF KEYS AND COMMANDS
-------
+------------------------------------------------------------------------
 
 Pantalla principal
 ================================================================================================================================================================================================================================================================
@@ -3054,9 +3054,9 @@ Ctrl-X
 Lista todos los objetivos válidos. Usted puede seleccionar un objetivo de la lista para mover
 el cursor a ese objetivo.
 
-------
+------------------------------------------------------------------------
 5. INSCRIPCIONES
-------
+------------------------------------------------------------------------
 
 Puede utilizar el { comando para inscribir manualmente los elementos; alternativamente, usted
 también puede inscribirse al ver los artículos del inventario (haciendo presión
@@ -3183,9 +3183,9 @@ Slay+3 (+3 a la precisión y el daño del combate de la melee y el combate exten
 Para obtener más información, examine un artículo (por seleccionarlo en su
 i) inventario); cada propiedad de un artefacto se enumerará y describirá.
 
-------
+------------------------------------------------------------------------
 6. DUNGEON SPRINT MODES
-------
+------------------------------------------------------------------------
 
 Las huellas de Dungeon son variantes cortas y de ritmo más rápido de Crawl que apuntan a más
 de un estilo de juego "coffee break". Se puede acceder desde el principal
