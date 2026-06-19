@@ -1,0 +1,174 @@
+CUADRO DE APTITUDES
+
+Las tres tablas siguientes describen todas las aptitudes de las diversas especies
+para las diversas habilidades. Conocimiento, ni explícito ni implícito, de estos
+no son necesarios para ganar en Crawl. La información cualitativa detrás
+esta hoja (es decir, qué especies son buenas en qué tareas)
+otras dos formas:
+- Lea la sección de especies en el manual sobre fortalezas y debilidades.
+- Mira qué combinaciones de especies y fondo se recomiendan.
+
+-- no aptitude (no puede aprender esta habilidad en absoluto)
+-5 abysmal aptitude
+-4 terrible aptitude (learning half as fast as at 0 aptitude)
+-3 muy deficiente aptitude
+-2 mala aptitud
+-1 aptitud ligeramente desfavorecida
+0 aptitud estándar
++1 aptitud ligeramente favorecida
++2 fuerte aptitude
++3 aptitud muy fuerte
++4 aptitude excepcional (aprendizaje dos veces más rápido que a 0 aptitude)
++5 aptitud excepcional
+
+Hay cuatro valores especiales: HP, MP, Experience y Willpower.
+- El valor HP indica el porcentaje de puntos de impacto obtenidos por experiencia
+nivel, 100% siendo el estándar humano.
+- El valor MP indica un modificador aditivo fijo a los puntos mágicos.
+- El valor de la experiencia indica la cantidad de experiencia que debe obtenerse
+orden de ganar un nuevo nivel de experiencia, +0 siendo el estándar humano. Éstos
+los valores utilizan la misma escala que las habilidades.
+- El valor de Willpower indica resistencia a muchos efectos mágicos por
+nivel de experiencia, +3 siendo el estándar humano.
+
+Las abreviaturas utilizadas para las habilidades son:
+
+Destrezas generales, Experiencia Melee y Rango Combat Spellcasting y Magic
+------ ----- ----
+Arma - Armour Fgt - Espejo de lucha - Spellcasting
+Ddg - Dodging Coj - Conjurations
+Sth - Stealth MюF - Maces & Flails Hex - Hexes
+Shd - Shields Axs - Axes Sum - Invocaciones
+Shp - Shapeshifting Pla - Polearms Nec - Necromancy
+Stv - Staves Frg - Forgecraft
+Inv - Invocations UC - Unrmed Combat Trl - Translocations
+Evo - Evocations
+Thr - Tirando SBl - Corta Blades Fir - Fire Magic
+LBl - Hielo de hoja larga - Magia de hielo
+HP - hit points Rng - Ranged Weapons Air - Air Magic
+MP - puntos mágicos Oír - Tierra Mágica
+Exp - experiencia Alc - Alchemy
+WL - fuerza de voluntad
+
+
+Arm Ddg Sth Shd Shp Inv Evo Thr HP MP Exp WL
+----
+Humanos 0 0 +1 0 -1 +1 0 +0% 0 +3
+Armataur +3 -3 +2 +1 -2 0 -1 +10% 0 -1 +3
+Barachi +2 +1 0 +1 0 -1 +1 0 +0% 0 0 +3
+Coglin -1 -1 -1 -3 -2 -2 +3 -1 +0% 0 +5
+Demigod -1 -1 0 -1 -2 -- -1 -1 +10% +2 -2 +4
+Demonspawn -1 -1 0 -1 -2 +3 0 -1 +0% 0 -1 +3
+Djinni 0 +1 –1 0 -2 0 -2 -10% 0 +1 +4
+Draconian -- -1 0 -1 +1 0 -1 +10% 0 -1 +3
+Negro -1 0 -1 +1 0 -1 +10% 0 -1 +3
+Verde -1 0 -1 +1 0 -1 +10% 0 -1 +3
+Grey -- -1 0 -1 +1 0 -1 +10% 0 -1 +3
+Pale -- -1 0 -1 +1 +1 -1 +10% 0 -1 +3
+Púrpura -1 0 -1 +1 +1 -1 +10% 0 -1 +3
+Rojo -1 0 -1 +1 0 -1 +10% 0 -1 +3
+White -- -1 0 -1 +1 0 -1 +10% 0 -1 +3
+Amarillo -1 0 -1 +1 0 -1 +10% 0 -1 +3
+Enano de montaña +1 -3 -2 +1 -2 +3 +1 -2 +10% 0 -1 +4
+Deep Elf -2 +2 +3 -2 0 +1 +1 0 -20% +2 -1 +4
+Felid -- +3 +4 -- -2 0 +1 -- -30% +1 -1 +6
+Formicid +1 -1 +3 +3 0 +2 +1 0 +0% 0 +1 +4
+Gargoyle +1 -2 +2 +1 -3 +1 -1 -1 -20% 0 +3
+Gnoll +8 +8 +8 +8 +7 +9 +8 +8 +0% 0 +3
+Kobold -2 +2 +4 -2 -1 +1 +2 +1 -20% 0 +1 +3
+Merfolk -3 +3 +2 0 +2 +1 0 +0% 0 0 +3
+Minotauro +2 +1 -1 +2 -3 0 -1 0 +10% -1 +3
+Mami -2 -2 -1 -2 -- -1 -2 -2 +0% 0 -1 +5
+Naga -1 -2 +5 -1 -1 +1 0 -1 +20% 0 +5
+Octopode - 0 +4 0 -1 +1 0 -10% 0 +3
+Oni -1 -1 -2 -1 -1 +2 -2 0 +30% 0 +4
+Poltergeist -- +1 +5 -1 -- -1 -1 +2 -10% 0 +4
+Revenant -1 -1 +2 -1 -- +1 -1 +10% +1 -1 +3
+Spriggan -3 +3 +5 -3 +2 0 +3 0 -30% +1 -1 +7
+Tengu +1 +1 +1 0 -2 -1 0 -20% +1 0 +3
+Troll -2 -2 -5 -1 -1 -1 -3 -1 +30% -1 -1 +3
+Vine Stalker -2 -2 +3 -1 -1 0 -1 -1 -30% +1 0 +5
+----
+Arm Ddg Sth Shd Shp Inv Evo Thr HP MP Exp WL
+
+
+Fgt M capaF Axs Pla Stv UC SBl LBl Rng
+----
+Human 0 0 0 0 0 0 0 0
+Armataur -1 -1 -2 -2 -1 -1 -1 -1 -3
+Barachi +2 +1 +1 0 +1 +1 +1 +2 0
+Coglin 0 -1 0 -1 -1 -1 -1 0 -1
+Demigod -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Demonspawn 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Djinni 0 -2 -2 -2 -1 0 -1 -1 -2
+Draconian +1 0 0 0 0 0 0 -1
+Negro +1 0 0 0 0 0 0 -1
+Verde +1 0 0 0 0 0 0 -1
+Grey +1 0 0 0 0 0 0 -1
+Pale +1 0 0 0 0 0 0 -1
+Púrpura +1 0 0 0 0 0 -1
+Rojo +1 0 0 0 0 0 0 0 -1
+White +1 0 0 0 0 0 0 -1
+Amarillo +1 0 0 0 0 0 0 -1
+Enano de montaña +1 +2 +2 0 +1 0 -2 -1 -2
+Deep Elf -2 -3 -2 -3 0 -2 0 -1 +3
+Felid 0 -- -- -- -- 0 -- --
+Formicid +1 0 0 0 0 0 0 0 0
+Gargoyle +1 0 -1 -1 0 -1 -1 0
+Gnoll +8 +8 +8 +8 +8 +8 +8 +8 +8 +8
+Kobold +1 -1 -2 -2 -1 0 +3 -2 +3
+Merfolk +1 -2 -2 +4 -2 +1 +2 +1 -2
+Minotauro +2 +2 +2 +2 +2 +1 +1 +2 +1
+Mami 0 -2 -2 -2 -2 -2 -2 -2 -2 -2
+Naga 0 0 0 0 0 0 0 0 -1
+Octopode 0 0 0 0 0 0 0 0
+Oni +3 0 0 0 0 -1 -1 -1 -3
+Poltergeist -1 -2 -1 -1 -2 -3 +1 0 -2
+Revenant +1 -1 -1 -1 -1 +1 -1 -1 -1 -3
+Spriggan -2 -3 -2 -3 -3 -2 +1 -2 0
+Tengu 0 +1 +1 +1 +1 +1 +1 +1 +1 +1
+Troll -2 -1 -2 -2 -2 0 -2 -2 -4
+Vine Stalker -1 -1 -1 -1 -1 0 -1 -1 -1 -1
+----
+Fgt M capaF Axs Pla Stv UC SBl LBl Rng
+
+
+Spc Coj Hex Sum Nec Trl Frg Fir Ice Air Ear Alc
+-...
+Humano -1 0 0 0 0 0 0 0 0 0
+Armataur -2 -1 -1 -2 -2 0 -2 -1 -1 -1 -1 -1
+Barachi 0 +1 +1 +2 -1 +1 +1 +1 +2 +1 0 +1
+Coglin -2 -1 -1 0 0 +2 -1 -1 -1 +1
+Demigod -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Demonspawn -1 0 0 +1 -1 -1 -1 -1 -1 -1 0
+Djinni +11 +11 +11 +11 +11 +11 +11 +11 +11 +11 +11 +11 +11 +11 +11 +11 +11 +11
+Draconian -1 0 -1 0 0 0 0 0 0 0
+Negro -1 0 -1 0 0 0 0 0 +2 -2 0
+Verde -1 0 -1 0 0 0 0 0 0 +2
+Grey -1 0 -1 0 0 0 0 0 -2 +2 0
+Pale -1 0 -1 0 0 0 +1 0 +1 0
+Púrpura +1 0 +1 0 0 0 0 0 0 0
+Rojo -1 0 -1 0 0 0 +2 -2 0 0 0
+White -1 0 -1 0 0 0 -2 +2 0 0 0
+Amarillo -1 0 -1 0 0 0 +2 0 0 0 0 0
+Mountain Dwarf -2 -1 0 -2 +1 -2 +2 -1 -3 +1 -2
+Elfo profundo +3 +1 +3 +1 +2 +1 +1 +1 +1 +1 +1 +1 +1
+Felid -1 -1 +4 0 +4 -1 -1 -1 -1 -1 -1 -1
+Formicida 0 -1 +2 0 +2 0 0 0 -2 +2 +3
+Gargoyle -1 +1 -1 -1 -2 -1 -1 0 -2 +2 -2
+Gnoll +8 +6 +6 +6 +6 +6 +6 +6 +6 +6 +6 +6 +6 +6 +6 +6
+Kobold 0 0 0 0 0 0 0 0 0 0 0 0
+Merfolk -1 -2 0 -2 -2 0 -3 +1 -2 +3
+Minotauro -4 -3 -4 -3 -3 -3 -2 -3 -3 -3 -3 -2 -3
+Mami +2 –2 –1 –2 0 –2 –2 –2 –2 –2 –2 –2 –2
+Naga -1 0 0 0 0 0 0 0 0 +2
+Octopode -1 0 0 0 0 0 0 0 0 0 +1
+Oni +1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Poltergeist -1 -3 +4 0 +1 0 -1 -1 +1 +1 -1 +1
+Revenant -1 -1 -2 -1 0 -1 -2 -2 +1 -2 +1 -1
+Spriggan +2 -3 +2 -2 -1 +4 -2 -2 -2 -1 -1 +1
+Tengu -1 +3 -3 +2 +1 -2 +1 -1 +3 -3 -1
+Troll -5 -3 -4 -3 -2 -3 -3 -3 -3 -4 -1 -3
+Vine Stalker 0 0 0 0 0 0 0 0 0
+-...
+Spc Coj Hex Sum Nec Trl Frg Fir Ice Air Ear Alc

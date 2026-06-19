@@ -1,0 +1,145 @@
+Guía de inicio rápido de Crawl
+================================================================================================================================================================================================================================================================
+
+Copyright 1999 Linley Henzell
+
+
+Así que, quieres empezar a jugar a Crawl inmediatamente sin molestarte con el
+¿Manual? Lea esto, la guía para comenzar Crawl con un mínimo de preparación.
+
+Sugiero imprimirlo y seguir sus instrucciones mientras juega su
+primeros juegos (también se puede presionar `?` dos veces mientras juega para una lista de
+comandos). Usted también debe probar el modo tutorial; sólo toma unos pocos
+minutos.
+
+Cuando tengas más tiempo, puedes leer `crawl manual.txt` en los docs/
+directorio para información más detallada.
+
+INTRODUCCIÓN A LA CRAWL
+---
+
+Crawl es un juego grande y muy aleatorio de exploración subterránea en una fantasía
+mundo de magia y violencia frecuente. Su búsqueda es viajar a las profundidades
+del Dungeon (que es diferente cada vez que juegas) y recuperar el Orbo de
+Zot.
+
+Crawl es un RPG del tipo 'rogue-like', uno de los descendientes de Rogue. Es...
+los gráficos son simples pero altamente informativos, diseñados para ser entendidos en un
+la mirada, y el control se ejerce en gran medida a través de comandos de una tecla.
+
+Empieza a salir.
+------------
+
+Después de comenzar el programa será recibido con un mensaje pidiendo su
+nombre. No pases demasiado tiempo con esto, ya que tu primer personaje **no**
+último muy largo (lo siento, pero es verdad).
+
+A continuación se le dan menús de especies y fondos de los cuales elegir.
+Un enano de montaña, minotauro o troll Fighter es una buena apuesta. Los elfos son bastante
+frágiles, los humanos son bastante promedio en todo, y las especies más raras son
+en su mayoría demasiado difícil para los jugadores principiantes. Finalmente, se le puede dar una opción
+armas. Sugiero un hacha (los ejes son divertidos).
+
+Ahora estás en el juego. La pantalla del juego tiene tres partes:
+
+- el Mapa ocupa la parte superior izquierda de la pantalla. En su propio centro
+la señal "@" (o la ficha doll del jugador) que te representa. Las partes brillantes de
+el Mapa son las partes que se pueden ver, mientras que los lugares que han visitado
+antes pero no se puede ver ahora están oscurecidos.
+- el cuadro Mensaje es la gran parte de la pantalla debajo del mapa. Describe
+eventos como suceden y te hace preguntas de vez en cuando.
+- el área de Stats (a la derecha del Mapa) contiene varios indicadores
+su salud y habilidades.
+
+EXPLORACIÓN
+-----
+
+Trate de caminar alrededor, usando el teclado numérico (desactivado y encendido) o
+las teclas Rogue (`hjklyubn`). Presionar `o` activará el auto-explore, que será
+moverse hasta que un enemigo sea visto, o algún otro acontecimiento notable (por ejemplo, encontrar un conjunto de
+escaleras) ocurre.
+
+Si quieres saber qué representa un determinado personaje en la pantalla, puedes
+utilizar el comando `x` (examina) para obtener una descripción corta, y luego `v` para conseguir
+más información. Usas los comandos `O`, `C` para abrir o cerrar puertas, y los
+" (up) y " título " (down) ordenan subir escaleras.
+
+El Dungeon se vuelve más peligroso (pero más interesante!) mientras bajas. Si tú
+perderse usted puede acceder a un mapa de todo el nivel que usted está en con el `X`
+comando, que utiliza toda la pantalla.
+
+ITEMS
+---
+
+Después de caminar por un tiempo, sin duda encontrará algunos elementos
+acostado alrededor (también se puede encontrar algunos monstruos; para ayudar a tratar
+con ellos saltar a la sección Monstruos). Puedes recoger objetos con el `g`
+(get) or `,` commands and drop them again with `d` (drop), and the `i`
+El comando te muestra lo que llevas. Mientras examina su
+inventario, presione la clave de cualquier artículo para ver más información sobre él, y para listar
+comandos disponibles.
+
+Hay varios tipos diferentes de elementos:
+
+- ** Armas**, representadas por la señal. Anularlos con el `w` (wield)
+Comando.
+- *El tumor* Usarlo, o quitarlo, con el comando `W` (Wear).
+Las armaduras más pesadas dan más protección, pero pueden dificultar su capacidad de esquivar,
+lanzar hechizos o armas de fuego.
+- **La comunicación** (que tiene la señal). Tíralo con `f` y `F` (fuego).
+*Wands** (`/`), **Scrolls** (`?`) and **Potions** (`!`) can be very
+valioso, pero tienen usos limitados (scrolls y pociones sólo se pueden utilizar una vez
+cada una de las varitas contiene sólo un cierto número de cargos). Wands are e`V`oked,
+Los pergaminos son `r`ead y las pociones son `q`uaffed. Por desgracia, no lo harás.
+primero saber lo que hace un pergamino o poción; sólo será descrito por su
+apariencia física. Pero una vez que has usado, por ejemplo, una poción de curado,
+reconocerás en el futuro todas las pociones de curación.
+- ** Los anillos** (`=`) y **Amulets** (`'') proporcionan diversos efectos sobre todo útiles.
+Se ponen con `P` (enciende) y se pueden retirar con `R`.
+- ** Dinero** (`$`) se puede utilizar para comprar cosas en tiendas.
+
+Hay algunos otros tipos de artículos, pero descubrirás estos mientras juegas.
+
+MONSTERS
+---
+
+También se encontrará con monstruos (la mayoría de los cuales están representados por cartas de
+el alfabeto). Puedes atacar a un monstruo tratando de entrar en la plaza.
+está ocupando. Pressing Tab se moverá automáticamente hacia " ataque cercano
+monstruos.
+
+Cuando estás herido pierdes puntos de éxito (displayado cerca de la cima de las estadísticas
+lista); estos retornos gradualmente a través del proceso natural
+sanando. Si pierdes todo tu cuerpo mueres.
+
+Para sobrevivir, tendrá que desarrollar algunas tácticas básicas:
+
+- Descansa entre encuentros. Los comandos `s`, ``, delete or keypad-5 le hacen
+descansar por un turno, mientras que pulsar '5' o Shift-and-keypad-5 te hacen descansar
+por un tiempo más largo (dejarás de descansar cuando esté completamente curado).
+- Nunca pelees más de un monstruo si puedes ayudarlo. Siempre de vuelta en
+corredor para que te peleen uno a uno.
+- ítems consumados como pergaminos y pociones no te harán ningún bien cuando estés
+muerto, y la mayoría son más eficaces cuando se utiliza al comienzo de una lucha dura
+que cuando estás cerca de la muerte. Intente identificar algunos por delante del tiempo por 'despertar'
+uno de una pila mientras en un lugar seguro.
+- Recuerda usar proyectiles antes de involucrar monstruos en combate cercano.
+- Aprenda cuándo escapar de las cosas que no puede manejar - esto es importante!
+A menudo es prudente saltar un nivel peligroso. Pero no exageres esto.
+
+DEATH
+---
+
+Antes de mucho, probablemente terminarás muerto.
+
+La muerte en Crawl es permanente; no puedes simplemente recargar un juego guardado y empezar
+Otra vez donde te fuiste. El comando " S " (salvar) existe sólo para dejar que se vaya
+un juego a través y volver a él más tarde. Quitting (`Ctrl-Q`) lets
+abandonas un personaje si ni siquiera te molestan para ayudarlos a escapar vivos.
+
+Bueno, eso es todo para el guía de arranque rápido. Esto te ayudará a través de tu
+primeros juegos, pero Crawl es extremadamente (algunos dirían excesivamente) complejo
+y no se puede describir adecuadamente en un documento tan breve. Así que cuando te sientes
+listo para empezar a jugar con magia, habilidades y religiones, navegar por el manual.
+
+¡Feliz Crawling!

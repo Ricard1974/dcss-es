@@ -62,24 +62,31 @@ sed -i 's/"Select what (regex)?"/tr("Select what (regex)?").c_str()/' menu.cc
 sed -i 's/newlines.push_back(formatted_string::parse_string(seg, colour));/newlines.push_back(formatted_string::parse_string(tr(seg), colour));/' menu.cc
 echo "  ✓ menu.cc modificado (tr() línea por línea en add_formatted)"
 
-# ── 7. Copiar archivos de traducción ──
+# ── 7. Aplicar tr() calls a command.cc (carga archivos de ayuda localizados) ──
+echo ""
+echo "🔧 Aplicando carga de ayuda localizada a command.cc..."
+git checkout -- command.cc 2>/dev/null || true
+python3 "$PROJECT_DIR/scripts/fix_command.py" command.cc
+echo "  ✓ command.cc modificado"
+
+# ── 8. Copiar archivos de traducción ──
 echo ""
 echo "📝 Copiando traducciones UI..."
 mkdir -p dat/ui/es/
 cp "$PROJECT_DIR/translations/ui/es/"*.txt dat/ui/es/
 echo "  ✓ $(ls dat/ui/es/*.txt | wc -l) archivos copiados"
 
-# ── 8. Generar cabeceras ──
+# ── 9. Generar cabeceras ──
 echo ""
 echo "⚙️  Generando cabeceras..."
 python3 util/gen-all.py 2>&1 | grep -v "Error:"
 
-# ── 9. Compilar ──
+# ── 10. Compilar ──
 echo ""
 echo "🔨 Compilando (esto tarda unos minutos)..."
 make -j$(nproc) 2>&1 | tail -10
 
-# ── 10. Verificar ──
+# ── 11. Verificar ──
 if [ -f crawl ]; then
     echo ""
     echo "✅ Compilación exitosa!"
