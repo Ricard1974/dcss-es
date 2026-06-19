@@ -239,3 +239,57 @@ aspect of Dungeon Crawl.|aspecto de Mazmorras de Piedra Sopa.
 <w>4</w>.      List of Keys and Commands|<w>4</w>.      Lista de Teclas y Comandos
 <w>5</w>.      Inscriptions|<w>5</w>.      Inscripciones
 <w>6</w>.      Dungeon sprint modes|<w>6</w>.      Modos de sprint
+
+# ============================================================================
+# Pantalla de ayuda de teclas (? desde el juego) - Columna 0 (Movimiento, etc.)
+# ============================================================================
+<h>Movement:|<h>Movimiento:
+To move in a direction or to attack,|Para moverte en una dirección o atacar,
+use the numpad (try Numlock off and|usa el teclado numérico (prueba Numlock apagado y
+on) or vi keys:|encendido) o las teclas vi:
+<h>Rest:|<h>Descanso:
+wait a turn (also <w>s</w>, <w>Del</w>)|esperar un turno (también <w>s</w>, <w>Supr</w>)
+rest and long wait; stops when|descansar y esperar; se detiene cuando
+Health or Magic become full or|la Salud o la Magia se llenan o
+something is detected. If Health|se detecta algo. Si la Salud
+and Magic are already full, stops|y la Magia ya están llenas, se para
+when 100 turns over (<w>numpad-5</w>)|cuando pasan 100 turnos (<w>num-5</w>)
+<h>Extended Movement:|<h>Movimiento extendido:
+auto-explore|autoexplorar
+interlevel travel|viaje entre niveles
+Find items|Buscar objetos
+set Waypoint|fijar punto de ruta
+<w>/ Dir.</w>, <w>Shift-Dir.</w>: long walk|<w>/ Dir.</w>, <w>Mayús-Dir.</w>: caminar lejos
+<w>* Dir.</w>, <w>Ctrl-Dir.</w> : attack without move|<w>* Dir.</w>, <w>Ctrl-Dir.</w> : atacar sin moverte
+<h>Autofight:|<h>Combate automático:
+<w>Tab</w>          : attack nearest monster,|<w>Tabulador</w>: atacar al monstruo más cercano,
+               moving if necessary|               moviéndote si es necesario
+<w>Shift-Tab</w>, <w>p</w> : trigger quivered action;|<w>Mayús-Tab</w>, <w>p</w>: acción enfundada;
+               if targeted, aims at|               si está apuntado, apunta al
+               nearest monster|               monstruo más cercano
+<h>Item types (and common commands)|<h>Tipos de objeto (y comandos comunes)
+
+# ============================================================================
+# Pantalla de ayuda de teclas - Columna 1 (Guardar, Información, etc.)
+# ============================================================================
+<h>Game Saving and Quitting:|<h>Guardar y salir:
+S      : Save game and exit|S      : Guardar y salir
+Ctrl-S : Save and exit without query|Ctrl-S : Guardar y salir sin preguntar
+Ctrl-Q : Abandon the current character|Ctrl-Q : Abandonar al personaje actual
+                and quit the game|                y salir del juego
+<h>Player Character Information:|<h>Información del personaje:
+@ : display character status|@ : mostrar estado del personaje
+m : show skill screen|m : mostrar pantalla de habilidades
+% : character overview|% : resumen del personaje
+^ : show religion screen|^ : mostrar pantalla de religión
+A : show Abilities/mutations|A : mostrar Habilidades/mutaciones
+\ : show item knowledge|\ : mostrar conocimiento de objetos
+M : show your spell library|M : mostrar biblioteca de conjuros
+} : show runes collected|} : mostrar runas recolectadas
+[ : display worn armour|[ : mostrar armadura equipada
+" : display worn jewellery|" : mostrar joyería equipada
+$ : display gold in possession|$ : mostrar oro en posesión
+E : display experience info|E : mostrar info de experiencia
+<h>Dungeon Interaction and Information:|<h>Interacción con la mazmorra:
+O/C    : Open/Close door|O/A    : Abrir/Cerrar puerta
+</>    : use staircase|< >    : usar escaleras
