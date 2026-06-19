@@ -131,3 +131,36 @@ on fire|en llamas
 quad damage|daño cuádruple
 raining reagents|lloviendo reactivos
 short of breath|sin aliento
+
+# ============================================================================
+# Etiquetas de la barra de estado
+# Fuente: output.cc (formatted_string::cprintf)
+# ============================================================================
+
+XL Next|Sig. NX
+Place|Lugar
+Noise|Ruido
+HP:   |PS:   
+Health: |Salud: 
+MP:   |PM:   
+Magic:  |Magia:  
+Gold: |Oro: 
+Gold:   |Oro:   
+AC: |CA: 
+EV: |EV: 
+SH: |ER: 
+Str: |Fue: 
+Int: |Int: 
+Dex: |Des: 
+XL:     |NX:     
+   Next: |   Sig.: 
+God:    |Dios:    
+Spells: |Hechizos: 
+Lives:  |Vidas:  
+   Deaths: |   Muertes: 
+Eq: |Eq: 
+Equip: |Equipo: 
+Contam: |Contam: 
+Doom: |Condena: 
+Gd |O 
+Silenced  |Silenciado  

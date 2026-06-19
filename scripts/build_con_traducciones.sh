@@ -59,7 +59,8 @@ echo ""
 echo "🔧 Aplicando tr() calls a menu.cc..."
 sed -i '/^#include "stringutil.h"/a #include "translation.h"' menu.cc
 sed -i 's/"Select what (regex)?"/tr("Select what (regex)?").c_str()/' menu.cc
-echo "  ✓ menu.cc modificado"
+sed -i 's/newlines.push_back(formatted_string::parse_string(seg, colour));/newlines.push_back(formatted_string::parse_string(tr(seg), colour));/' menu.cc
+echo "  ✓ menu.cc modificado (tr() línea por línea en add_formatted)"
 
 # ── 7. Copiar archivos de traducción ──
 echo ""
