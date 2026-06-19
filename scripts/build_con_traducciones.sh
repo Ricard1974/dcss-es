@@ -83,24 +83,31 @@ sed -i '1i #include "translation.h"' cio.cc
 sed -i '/^string buf = vmake_stringf(s, args);$/a\    buf = tr(buf);' cio.cc
 echo "  ✓ cio.cc modificado (wrapcprintf traduce panel derecho y otros)"
 
-# ── 10. Copiar archivos de traducción ──
+# ── 10. Aplicar tr() calls a libunix.cc (cprintf global - menús, etc.) ──
+echo ""
+echo "🔧 Aplicando tr() calls a libunix.cc..."
+sed -i '1i #include "translation.h"' libunix.cc
+python3 "$PROJECT_DIR/scripts/fix_libunix.py" libunix.cc
+echo "  ✓ libunix.cc modificado (cprintf global traduce menús, etc.)"
+
+# ── 11. Copiar archivos de traducción ──
 echo ""
 echo "📝 Copiando traducciones UI..."
 mkdir -p dat/ui/es/
 cp "$PROJECT_DIR/translations/ui/es/"*.txt dat/ui/es/
 echo "  ✓ $(ls dat/ui/es/*.txt | wc -l) archivos copiados"
 
-# ── 10. Generar cabeceras ──
+# ── 12. Generar cabeceras ──
 echo ""
 echo "⚙️  Generando cabeceras..."
 python3 util/gen-all.py 2>&1 | grep -v "Error:"
 
-# ── 11. Compilar ──
+# ── 13. Compilar ──
 echo ""
 echo "🔨 Compilando (esto tarda unos minutos)..."
 make -j$(nproc) 2>&1 | tail -10
 
-# ── 12. Verificar ──
+# ── 14. Verificar ──
 if [ -f crawl ]; then
     echo ""
     echo "✅ Compilación exitosa!"

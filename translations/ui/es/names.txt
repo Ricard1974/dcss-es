@@ -1,0 +1,116 @@
+# Traducciones de nombres para DCSS
+# Formato: Texto Inglés|Texto Español
+# ============================================================================
+
+# --- Especies ---
+Human|Humano
+Gnoll|Gnoll
+Minotaur|Minotauro
+Merfolk|Tritón
+Gargoyle|Gárgola
+Mountain Dwarf|Enano de Montaña
+Draconian|Draconiano
+Troll|Troll
+Deep Elf|Elfo Profundo
+Armataur|Armatauro
+Kobold|Kobold
+Revenant|Revenante
+Demonspawn|Engendro Demoníaco
+Djinni|Djinn
+Spriggan|Spriggan
+Tengu|Tengu
+Oni|Oni
+Barachi|Barachi
+Coglin|Coglin
+Vine Stalker|Acechador de Enredaderas
+Poltergeist|Poltergeist
+Demigod|Semidiós
+Formicid|Formícido
+Naga|Naga
+Octopode|Octópodo
+Felid|Félido
+Mummy|Momia
+Ghoul|Ghul
+Halfling|Mediano
+High Elf|Elfo Alto
+Hill Orc|Orco de las Colinas
+Lava Orc|Orco de Lava
+Vampire|Vampiro
+Centaur|Centauro
+Deep Dwarf|Enano Profundo
+Mottled Draconian|Draconiano Moteado
+Black Draconian|Draconiano Negro
+Green Draconian|Draconiano Verde
+Grey Draconian|Draconiano Gris
+Pale Draconian|Draconiano Pálido
+Purple Draconian|Draconiano Púrpura
+Red Draconian|Draconiano Rojo
+White Draconian|Draconiano Blanco
+Yellow Draconian|Draconiano Amarillo
+Centaur|Centauro
+Mayflytaur|Efímero
+Meteoran|Meteorano
+Sludge Elf|Elfo de Cieno
+
+# --- Clases ---
+Air Elementalist|Elementalista de Aire
+Alchemist|Alquimista
+Artificer|Artífice
+Berserker|Berserker
+Brigand|Bandolero
+Chaos Knight|Caballero del Caos
+Cinder Acolyte|Acólito de Ceniza
+Conjurer|Conjurador
+Delver|Excavador
+Earth Elementalist|Elementalista de Tierra
+Enchanter|Encantador
+Fighter|Guerrero
+Fire Elementalist|Elementalista de Fuego
+Forgewright|Forjador
+Gladiator|Gladiador
+Hedge Wizard|Brujo de Seto
+Hexslinger|Lanzador de Maldiciones
+Hunter|Cazador
+Ice Elementalist|Elementalista de Hielo
+Monk|Monje
+Necromancer|Nigromante
+Reaver|Saqueador
+Shapeshifter|Cambiaformas
+Summoner|Invocador
+Wanderer|Vagabundo
+Warper|Deformador
+
+# --- Grupos de clases ---
+Warrior|Guerrero
+Zealot|Fanático
+Adventurer|Aventurero
+Warrior-mage|Guerrero Mago
+Mage|Mago
+
+# --- Modos de juego (menú principal) ---
+Dungeon Crawl|Mazmorras de Piedra Sopa
+Choose Game Seed|Elegir Semilla de Juego
+Tutorial for Dungeon Crawl|Tutorial de Mazmorras de Piedra Sopa
+Hints Mode for Dungeon Crawl|Modo Pistas de Mazmorras de Piedra Sopa
+Dungeon Descent|Descenso a la Mazmorra
+Dungeon Sprint|Sprint de Mazmorra
+Instructions|Instrucciones
+The Arena|La Arena
+High Scores|Puntuaciones Altas
+
+# --- Descripciones de modos de juego ---
+Dungeon Crawl: The main game: full of monsters, items, gods and danger!|Mazmorras de Piedra Sopa: El juego principal: lleno de monstruos, objetos, dioses y peligro.
+Play with a chosen custom dungeon seed.|Juega con una semilla de mazmorra personalizada.
+Tutorial that covers the basics of Dungeon Crawl survival.|Tutorial que cubre lo básico para sobrevivir en Mazmorras de Piedra Sopa.
+A mostly normal game that provides more advanced hints than the tutorial.|Un juego casi normal que ofrece pistas más avanzadas que el tutorial.
+Mode with a branching, one-way path through the Dungeon.|Modo con un camino ramificado de un solo sentido a través de la Mazmorra.
+Hard, fixed single level game mode.|Modo de juego difícil de un solo nivel fijo.
+Help menu.|Menú de ayuda.
+Pit computer controlled teams versus each other!|¡Enfrenta equipos controlados por el ordenador entre sí!
+View the high score list.|Ver la lista de puntuaciones altas.
+
+# --- Otras cadenas de la UI del menú ---
+New Game|Nueva Partida
+Enter your name:|Introduce tu nombre:
+Choices:|Opciones:
+Saved games:|Partidas guardadas:
