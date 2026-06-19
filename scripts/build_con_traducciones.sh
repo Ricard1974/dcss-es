@@ -30,7 +30,13 @@ echo ""
 echo "🔧 Aplicando infraestructura de UI translation..."
 git apply "$PROJECT_DIR/patches/0001-ui-translation-infra-full.diff"
 
-# ── 3. Aplicar tr() calls a newgame.cc y menu.cc ──
+# ── 3. Aplicar tr() calls a format.cc ──
+echo ""
+echo "🔧 Aplicando tr() calls a format.cc..."
+sed -i '/^#include "viewchar.h"/a #include "translation.h"' format.cc
+sed -i 's/ops.push_back(s);/ops.push_back(tr(s));/' format.cc
+
+# ── 4. Aplicar tr() calls a newgame.cc y menu.cc ──
 echo ""
 echo "🔧 Aplicando tr() calls a newgame.cc..."
 sed -i '/^#include "english.h"/a #include "translation.h"' newgame.cc
@@ -65,7 +71,7 @@ sed -i 's/"Select what (regex)?"/tr("Select what (regex)?").c_str()/' menu.cc
 echo ""
 echo "📝 Copiando traducciones UI..."
 mkdir -p dat/ui/es/
-cp "$PROJECT_DIR/translations/ui/es/menu.txt" dat/ui/es/
+cp "$PROJECT_DIR/translations/ui/es/"*.txt dat/ui/es/
 
 # ── 5. Generar cabeceras ──
 echo ""
