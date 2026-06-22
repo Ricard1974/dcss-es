@@ -35,7 +35,7 @@ crystal ball of Wucad Mu
 Una esfera de cristal impecable, formada por innumerables mantras. Cuando uno se centra en
 los límites entre 'self' y 'other' a veces parecen borrosos.
 {}
-si usted.race() == "Djinni" entonces
+si tú.race() == "Djinni" entonces
 "Es totalmente inútil para Djinn."
 final
 }%%%%

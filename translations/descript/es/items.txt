@@ -507,7 +507,7 @@ dragon-coil talisman
 Un tallado intrincado, incrustado con diente de dragón y escala. {{{{{{
 desc local = "Transforma el portador en un poderoso"
 
-si usted.race():find("Draconian") entonces
+si tú.race():find("Draconian") entonces
 Dragón. El usuario conserva su color innato.
 "se vuelve resistente al veneno, y su arma respiratoria"
 "La tasa de potencia y recarga se incrementa enormemente."
@@ -529,7 +529,7 @@ eel talisman
 
 Un extraño fósil marino, adornado con abalona y perla.
 {}
-manos locales = usted.hand() .. "s"
+manos locales = tú.hand() .. "s"
 "Causas de las manos del portador
 }
 para transformarse en un par de anguilas eléctricas que a veces se descargan
@@ -740,7 +740,7 @@ Una lanza ligera, diseñada para lanzar. Pasará a través de los objetivos
 golpes, potencialmente golpeando todos los objetivos en su camino hasta alcanzar el máximo
 rango.
 {}
-si usted.race() == "Kobold" o usted.race() == "Spriggan" entonces
+si tú.race() == "Kobold" o tú.race() == "Spriggan" entonces
 "Desafortunadamente, es demasiado largo y incómodo para que tú use."
 final
 }%%%%
@@ -754,8 +754,8 @@ Hojas en ambos extremos.%%%%
 large rock
 
 Una piedra muy grande y muy pesada. {{{
-si usted.race() == "Ogre"
-o usted.race() == "Troll"
+si tú.race() == "Ogre"
+o tú.race() == "Troll"
 entonces
 "Regresa"
 más
@@ -1019,7 +1019,7 @@ riddle talisman
 
 Una caja de rompecabezas intrincada que contiene un premio no reconocido. Transforma el usuario en
 una esfinge amante del enigma. En esta forma, son {{
-si usted.race() == "Felid" entonces
+si tú.race() == "Felid" entonces
 volver "normalmente capaz de usar una capa y barrido (aunque tu" ..
 "el propio tamaño diminutivo evitaría esto"
 más

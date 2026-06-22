@@ -7,3 +7,8 @@ You spin around.|Giras sobre ti mismo.
 Your stasis prevents you from teleporting.|Tu estasis te impide teletransportarte.
 humor and ridicule to confront the|el humor y el ridículo para confrontar
 power of death.|poder de la muerte.
+
+# Mensajes varios del juego
+Why would you want to do that?|¿Por qué querrías hacer eso?
+You enter the shallow water.|Entras en el agua poco profunda.
+Moving in this stuff is going to be slow.|Moverse en esto va a ser lento.

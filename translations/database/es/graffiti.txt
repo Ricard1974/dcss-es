@@ -1084,38 +1084,38 @@ superior
 %%%%
 any_graffiti
 
-graffiti de   VAR0 
+graffiti de VAR0 
 
-graffiti de   VAR1 
+graffiti de VAR1 
 
- VAR2  
+ VAR2 
 
- VAR3  
+ VAR3 
 
- VAR4     VAR5  
+ VAR4 VAR5 
 
- VAR6       
+ VAR6 
 
- VAR8        
+ VAR8 
 
- VAR10        
+ VAR10 
 
- VAR12     VAR13  
+ VAR12 VAR13 
 
- VAR14     VAR15  
+ VAR14 VAR15 
 
- VAR16    diciendo que   VAR17  
-
-w:2
- VAR18   @ graffiti religion not non-orc orc @
+ VAR16 diciendo que VAR17 
 
 w:2
-@ graffiti type with signature  may non-orc @ @ graffiti religion non-orc @
+ VAR18 @ graffiti religion not non-orc orc @
 
 w:2
- VAR19     VAR20  
+@ graffiti type with signature may non-orc @ @ graffiti religion non-orc @
+
+w:2
+ VAR19 VAR20 
 
 w:1
- VAR21     VAR22  
+ VAR21 VAR22 
 
 %%%%

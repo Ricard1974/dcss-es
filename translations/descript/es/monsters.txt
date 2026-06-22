@@ -112,7 +112,7 @@ Donald
 {}
 descript local = "Un aventurero igual que tú, tratando de encontrar el Orb."
 
-si usted.race() ~= "Merfolk" y usted.race() ~= "Octopode" entonces
+si tú.race() ~= "Merfolk" y tú.race() ~= "Octopode" entonces
 descript = descript .. "A diferencia de tú, y d"
 más
 descript = descript .. "D"
@@ -2945,7 +2945,7 @@ Ashenzari.%%%%
 friendly sensed monster
 
 Un monstruo amistoso cuya presencia ha sido
-si usted.god() == "Ashenzari" entonces
+si tú.god() == "Ashenzari" entonces
 "revelado por el poder de Ashenzari"
 más
 "Detectado"
@@ -3151,7 +3151,7 @@ ser aceite de pantano, hollín de cauldron e ingredientes de la cerveza.%%%%
 withered plant
 
 Una planta cuya vida ha sido drenada, pero con su forma física todavía
-intacto. Parece que murió muchos {{ si usted.branch() == "Crypt" o
+intacto. Parece que murió muchos {{ si tú.branch() == "Crypt" o
 tu.branch() == "Tomb" o tu.branch() == "Zot" entonces devuelve "centurios";
 devuelven "años"; terminan hace.%%%%
 worm

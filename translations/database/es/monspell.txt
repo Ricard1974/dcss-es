@@ -1,7 +1,7 @@
 %%%%
 Airstrike cast
 
-VAR0   ondas   VAR1      VAR2    en círculos anchos.
+VAR0 ondas VAR1 VAR2 en círculos anchos.
 
 %%%%
 unseen Airstrike cast
@@ -11,7 +11,7 @@ Oíste soplar viento.
 %%%%
 Blinkbolt cast
 
-VAR0   irrumpe en un rayo viviente!
+VAR0 irrumpe en un rayo viviente!
 
 %%%%
 unseen Blinkbolt cast
@@ -21,52 +21,52 @@ unseen Blinkbolt cast
 %%%%
 branch summon cast prefix
 
-VAR0   llama a las criaturas de
+VAR0 llama a las criaturas de
 
 %%%%
 Call Lost Souls cast
 
-VAR0      ¡Apaga almas inquietos!
+VAR0 ¡Apaga almas inquietos!
 
 %%%%
 Call of Chaos cast
 
-VAR0   ¡Llama a los poderes del caos!
+VAR0 ¡Llama a los poderes del caos!
 
 %%%%
 unseen Call of Chaos cast
 
-VAR0   ¡Llama a los poderes del caos!
+VAR0 ¡Llama a los poderes del caos!
 
 %%%%
 Call Down Lightning cast
 
-La electricidad se rompe del aparato   VAR0  .
+La electricidad se rompe del aparato VAR0 .
 
 %%%%
 Cantrip cast
 
 No pasa nada.
 
- VAR1   comienza a lanzar un bote, ¡pero olvida las palabras!
+ VAR1 comienza a lanzar un bote, ¡pero olvida las palabras!
 
 - ¿Por qué?
 
 Parece más valiente por un momento.
 
- VAR4   busca animada por un momento.
+ VAR4 busca animada por un momento.
 
- VAR5   busca satisfecho por un momento.
+ VAR5 busca satisfecho por un momento.
 
 %%%%
 Conjure Living Spells cast
 
-VAR0   ¡Erupta en un rayo de hechizos vivientes!
+VAR0 ¡Erupta en un rayo de hechizos vivientes!
 
 %%%%
 Creeping Frost cast
 
-VAR0   llama frío frío desde las paredes.
+VAR0 llama frío frío desde las paredes.
 
 %%%%
 Divine Armament cast
@@ -76,52 +76,52 @@ Para darles un arma.
 %%%%
 Druid's Call cast
 
-VAR0    llama a las bestias del salvaje!
+VAR0 llama a las bestias del salvaje!
 
 %%%%
 Eruption cast
 
-VAR0    rends the land under   VAR1   !
+VAR0 rends the land under VAR1 !
 
 %%%%
 Grasping Roots cast
 
-VAR0   llega a las raíces dentro de la tierra.
+VAR0 llega a las raíces dentro de la tierra.
 
 %%%%
 Grasping Roots natural cast
 
-VAR0   dirige sus raíces bajo   VAR1  !
+VAR0 dirige sus raíces bajo VAR1 !
 
 %%%%
 Harpoon Shot cast
 
-VAR0    fuegos a harpoon shot   VAR1      VAR2   .
+VAR0 fuegos a harpoon shot VAR1 VAR2 .
 
 %%%%
 Hellfire Court cast
 
-VAR0            siervos.
+VAR0 siervos.
 
 %%%%
 Hellfire Mortar cast
 
-VAR0    explosión un torrente de magma   VAR1      VAR2   .
+VAR0 explosión un torrente de magma VAR1 VAR2 .
 
 %%%%
 Hoarfrost Bullet cast
 
-VAR0    dispara una salva de fragmentos de hielo.
+VAR0 dispara una salva de fragmentos de hielo.
 
 %%%%
 Hoarfrost Bullet cast finale
 
-VAR0   lanza el último   VAR1      VAR2                 con un ronble shrill.
+VAR0 lanza el último VAR1 VAR2 con un ronble shrill.
 
 %%%%
 Holy Flames cast
 
-VAR0    llama a las llamas benditas!
+VAR0 llama a las llamas benditas!
 
 %%%%
 unseen Holy Flames cast
@@ -131,7 +131,7 @@ unseen Holy Flames cast
 %%%%
 Launch Bomblet cast
 
-VAR0   lanza una bomba.
+VAR0 lanza una bomba.
 
 %%%%
 Legendary Destruction cast
@@ -141,14 +141,14 @@ Legendary Destruction cast
 %%%%
 Major Destruction cast
 
-VAR0   Conjuras una fuerza destructiva en nombre de   VAR1   !
+VAR0 Conjuras una fuerza destructiva en nombre de VAR1 !
 
 %%%%
 Mara Summon cast
 
 Teje una ilusión.
 
- VAR1   shimmers.
+ VAR1 shimmers.
 
 %%%%
 unseen Mara summon cast
@@ -158,16 +158,16 @@ unseen Mara summon cast
 %%%%
 Orb of Destruction orb spider cast
 
-VAR0  escucha un brillante orbe de energía.
+VAR0 escucha un brillante orbe de energía.
 
 %%%%
 Orb of Destruction cast
 
 Conjura un orbe brillante.
 
- VAR1   Conjura un orbe de magia pura.
+ VAR1 Conjura un orbe de magia pura.
 
- VAR2   lanza una bola de magia destructiva.
+ VAR2 lanza una bola de magia destructiva.
 
 %%%%
 unseen Orb of Destruction cast
@@ -177,12 +177,12 @@ Conjura un orbe brillante.
 %%%%
 Phantom Blitz cast
 
-VAR0   oculta una imagen fantasmal y la dispara   VAR1      VAR2   .
+VAR0 oculta una imagen fantasmal y la dispara VAR1 VAR2 .
 
 %%%%
 unseen Phantom Blitz cast
 
-VAR0   escucha una imagen fantasmal y la lanza hacia adelante!
+VAR0 escucha una imagen fantasmal y la lanza hacia adelante!
 
 %%%%
 Phantom Mirror cast
@@ -192,79 +192,79 @@ Teje una ilusión.
 %%%%
 Pyroclastic Surge cast
 
-VAR0   llamadas gotas de llama de la lava!
+VAR0 llamadas gotas de llama de la lava!
 
 %%%%
 Shadow Shot cast
 
-VAR0                           .
+VAR0 .
 
 %%%%
 Siphon Essence cast
 
-VAR0   dibuja almas cercanas en   VAR1   !
+VAR0 dibuja almas cercanas en VAR1 !
 
 %%%%
 Symbol of Torment cast
 
-VAR0   llama a los poderes de la oscuridad!
+VAR0 llama a los poderes de la oscuridad!
 
 %%%%
 unseen Symbol of Torment cast
 
-VAR0   llama a los poderes de la oscuridad!
+VAR0 llama a los poderes de la oscuridad!
 
 %%%%
 Sheza's Dance cast
 
-VAR0   envía armas volando en batalla!
+VAR0 envía armas volando en batalla!
 
- VAR1    gestos, y las armas toman el aire!
+ VAR1 gestos, y las armas toman el aire!
 
 %%%%
 Sojourning Bolt cast
 
-VAR0   respira una ruptura en el espacio-tiempo   VAR1     VAR2   .
+VAR0 respira una ruptura en el espacio-tiempo VAR1 VAR2 .
 
 %%%%
 Sticks to Snakes cast
 
-VAR0   deja ramas gemelas, ¡y ambos se revuelven a la vida!
+VAR0 deja ramas gemelas, ¡y ambos se revuelven a la vida!
 
 %%%%
 Sticky Flame cast
 
-VAR0    sprays   VAR1   con fuego líquido.
+VAR0 sprays VAR1 con fuego líquido.
 
 %%%%
 Stunning Burst cast
 
-VAR0     dispara una explosión de electricidad   VAR1      VAR2   .
+VAR0 dispara una explosión de electricidad VAR1 VAR2 .
 
 %%%%
 Throw Bolas cast
 
-VAR0   hurls a bolas   VAR1     VAR2    .
+VAR0 hurls a bolas VAR1 VAR2 .
 
 %%%%
 Throw Klown Pie cast
 
-VAR0    tartas   VAR1   ferozmente!
+VAR0 tartas VAR1 ferozmente!
 
 %%%%
 Vhi's Electrolunge cast
 
-VAR0    carga hacia adelante con una grieta eléctrica.
+VAR0 carga hacia adelante con una grieta eléctrica.
 
 %%%%
 Wind Blast cast
 
-VAR0   Conjuras una feroz explosión de viento!
+VAR0 Conjuras una feroz explosión de viento!
 
 %%%%
 Word of Recall cast
 
-VAR0  comienza a recitar una palabra de memoria!
+VAR0 comienza a recitar una palabra de memoria!
 ################################################################################################################################################################################################################################################################
 # Estos tienen mensajes de código duro especial.
 ################################################################################################################################################################################################################################################################
@@ -300,7 +300,7 @@ You hear a spitting sound.
 %%%%
 Spit Acid cast
 
-VAR0     escupe ácido   VAR1     VAR2    .
+VAR0 escupe ácido VAR1 VAR2 .
 
 %%%%
 unseen Spit Acid cast
@@ -310,7 +310,7 @@ VAR0
 %%%%
 Acid Splash cast
 
-VAR0     escupe ácido   VAR1     VAR2    .
+VAR0 escupe ácido VAR1 VAR2 .
 
 %%%%
 unseen Acid Splash cast
@@ -320,17 +320,17 @@ VAR0
 %%%%
 Battlecry cast
 
-VAR0   ruge un grito de batalla!
+VAR0 ruge un grito de batalla!
 
 %%%%
 Bolt of Draining natural cast
 
- VAR0   respira   VAR1      VAR2      VAR3   .
+ VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 Cold Breath cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 unseen Cold Breath cast
@@ -340,7 +340,7 @@ VAR0
 %%%%
 Chilling Breath cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 unseen Chilling Breath cast
@@ -352,12 +352,12 @@ VAR0
 
 Spit Lava reparto
 
- VAR0   Spits lava   VAR1     VAR2    .
+ VAR0 Spits lava VAR1 VAR2 .
 
 %%%%
 Ensnare natural cast
 
-VAR0    Expels a string of sticky webbing.
+VAR0 Expels a string of sticky webbing.
 
 %%%%
 unseen Ensnare natural cast
@@ -367,7 +367,7 @@ Una cuerda de frotamiento pegajoso dispara desde el aire delgado.
 %%%%
 Fire Breath cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 unseen Fire Breath cast
@@ -377,32 +377,32 @@ VAR0
 %%%%
 Freeze cast
 
-VAR0     congela   VAR1  .
+VAR0 congela VAR1 .
 
 %%%%
 Lightning Bolt natural cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 Petrifying Cloud cast
 
-VAR0   respira una ciruela de polvo calcificante   VAR1      VAR2   .
+VAR0 respira una ciruela de polvo calcificante VAR1 VAR2 .
 
 %%%%
 Poisonous Cloud natural cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 Quicksilver Bolt natural cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 Searing Breath cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 unseen Searing Breath cast
@@ -412,19 +412,19 @@ VAR0
 %%%%
 Slug Dart cast
 
-VAR0   lanza un dardo   VAR1     VAR2   .
+VAR0 lanza un dardo VAR1 VAR2 .
 
 %%%%
 %
 
 Spit Lava reparto
 
- VAR0   Spits lava   VAR1     VAR2    .
+ VAR0 Spits lava VAR1 VAR2 .
 
 %%%%
 Spit Poison cast
 
-VAR0                                                                                                                                           .
+VAR0 .
 
 %%%%
 unseen Spit Poison cast
@@ -434,27 +434,27 @@ VAR0
 %%%%
 Splinterspray cast
 
-VAR0   abraza un spray de   VAR1     VAR2                                                                                                                                                                                                                                          .
+VAR0 abraza un spray de VAR1 VAR2 .
 
 %%%%
 Steam Ball natural cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 Paralysis Gaze cast
 
-VAR0   mira a través de   VAR1   !
+VAR0 mira a través de VAR1 !
 
 %%%%
 Volley of Thorns cast
 
-VAR0    fuegos a volley of thorns   VAR1      VAR2   .
+VAR0 fuegos a volley of thorns VAR1 VAR2 .
 
 %%%%
 Warning Cry cast
 
-VAR0  ¿Cómo es una frase de warning!
+VAR0 ¿Cómo es una frase de warning!
 
 %%%%
 unseen Warning Cry cast
@@ -464,12 +464,12 @@ unseen Warning Cry cast
 %%%%
 Weakening Gaze cast
 
-VAR0   mira ferozmente a través de   VAR1   !
+VAR0 mira ferozmente a través de VAR1 !
 
 %%%%
 Woodweal cast
 
-VAR0   toca un árbol y dibuja sobre su vitalidad.
+VAR0 toca un árbol y dibuja sobre su vitalidad.
 
 %%%%
 Seismic Stomp cast
@@ -479,12 +479,12 @@ Los pies pesados.
 %%%%
 Hurl Torchlight cast
 
-VAR0   levanta la antorcha negra.
+VAR0 levanta la antorcha negra.
 
 %%%%
 Landbreaker natural cast
 
-VAR0   fractura el suelo con pasos   VAR1   .
+VAR0 fractura el suelo con pasos VAR1 .
 ################################################################################################################################################################################################################################################################
 # Monstruos únicos
 ################################################################################################################################################################################################################################################################
@@ -492,9 +492,9 @@ VAR0   fractura el suelo con pasos   VAR1   .
 %%%%
 Ensnare Arachne cast
 
-VAR0                                                                                                                                                                                                                                                           
+VAR0 
 
- VAR4  El personal dispara una corriente de lavado.
+ VAR4 El personal dispara una corriente de lavado.
 
 %%%%
 unseen Ensnare Arachne cast
@@ -504,15 +504,15 @@ Una corriente de frotamiento dispara desde el aire delgado.
 %%%%
 March of Sorrows Boris cast
 
-VAR0                  Los dolores de las víctimas.
+VAR0 Los dolores de las víctimas.
 
 w:5
- VAR2   rolla    VAR3   Las víctimas [lamentos que sufren].
+ VAR2 rolla VAR3 Las víctimas [lamentos que sufren].
 
 %%%%
 Doomsaying Cassandra cast
 
-VAR0   dice, "He visto tu futuro,   VAR1   ! ¡Regresa antes de que estás se vea por ti mismo!"
+VAR0 dice, "He visto tu futuro, VAR1 ! ¡Regresa antes de que estás se vea por ti mismo!"
 
 %%%%
 Cantrip Dissolution cast
@@ -521,46 +521,46 @@ A un dios ausente.
 
 Los jiggles lloran.
 
- VAR2   wobbles sin rumbo.
+ VAR2 wobbles sin rumbo.
 
- VAR3   dice, "Ven a uno con mi dolor!"
+ VAR3 dice, "Ven a uno con mi dolor!"
 
 w:1
- VAR4   pregunta: "¿Por qué me has abandonado?"
+ VAR4 pregunta: "¿Por qué me has abandonado?"
 
 %%%%
 Summon Eyeballs Dissolution cast
 
-VAR0    gurgles profundamente, una llamada a los compañeros delgados.
+VAR0 gurgles profundamente, una llamada a los compañeros delgados.
 
- VAR1   dice, "   VAR2    ve todo!"
+ VAR1 dice, " VAR2 ve todo!"
 
 %%%%
 Dissolution cast
 
-VAR0    se encara profundamente.
+VAR0 se encara profundamente.
 
 %%%%
 Frances cast
 
 En una lengua terrible.
 
- VAR1  susurra palabras indescriptibles.
+ VAR1 susurra palabras indescriptibles.
 
- VAR2   canta frases tomadas de la boca de un diablo.
+ VAR2 canta frases tomadas de la boca de un diablo.
 
- VAR3   grita una palabra de poder!
+ VAR3 grita una palabra de poder!
 
 %%%%
 Cantrip Gastronok cast
 
-VAR0   burbujas alegremente.
+VAR0 burbujas alegremente.
 
-VISUAL:  VAR1   brilla un brillante tono de cerise.
+VISUAL: VAR1 brilla un brillante tono de cerise.
 
-VISUAL:  VAR2    wobbles crazily.
+VISUAL: VAR2 wobbles crazily.
 
-VISUAL:  VAR3    Los oculares se extienden, luego regresan al tamaño normal.
+VISUAL: VAR3 Los oculares se extienden, luego regresan al tamaño normal.
 
 Te agitas.
 
@@ -576,22 +576,22 @@ Tú siente un repentino impulso para girar sus inexistentes oculares alrededor.
 %%%%
 Gastronok cast targeted
 
-VAR0                      mientras cantas.
+VAR0 mientras cantas.
 
- VAR3                                                                                                                                                                                                                                                           
+ VAR3 
 
- VAR6    lanza un hechizo   VAR7     VAR8   .
+ VAR6 lanza un hechizo VAR7 VAR8 .
 
 %%%%
 Gastronok cast
 
-VAR0                                            mueve palabras extrañas.
+VAR0 mueve palabras extrañas.
 
- VAR2   canta un hechizo, temblando todo el tiempo.
+ VAR2 canta un hechizo, temblando todo el tiempo.
 
- VAR3   murmura algunas palabras extrañas.
+ VAR3 murmura algunas palabras extrañas.
 
- VAR4   lanza un hechizo.
+ VAR4 lanza un hechizo.
 
 %%%%
 Geryon cast
@@ -608,13 +608,13 @@ Smiting Jeremiah cast
 
 Deja salir un llanto retorcido.
 
- VAR1   murmura una invocación arraigada.
+ VAR1 murmura una invocación arraigada.
 
-VISUAL:  VAR2    tira brazos   VAR3    hacia arriba con voz alta.
+VISUAL: VAR2 tira brazos VAR3 hacia arriba con voz alta.
 
- VAR4    grita: "¡Amo, protegeme!"
+ VAR4 grita: "¡Amo, protegeme!"
 
- VAR5   grita: "¡Oh, terrible, destruye mi enemigo!"
+ VAR5 grita: "¡Oh, terrible, destruye mi enemigo!"
 
 %%%%
 Mennas cast
@@ -624,25 +624,25 @@ Los gestos frenéticamente.
 %%%%
 Vanquished Vanguard Nergalle cast
 
-VAR0   : "@orc name@, @orc name@, @orc name@, @orc name@ - to me!"
+VAR0 : "@orc name@, @orc name@, @orc name@, @orc name@ - to me!"
 
 ¡Spectres! ¡Pelea por el hogar que ayudaste a hacer!"
 
 %%%%
 Primal Wave Norris cast
 
-VAR0   invoca la ayuda de algo más allá de la vida contra   VAR1   .
+VAR0 invoca la ayuda de algo más allá de la vida contra VAR1 .
 
- VAR2   Llama tranquilamente la ira de algo pasado de la muerte sobre   VAR3   .
+ VAR2 Llama tranquilamente la ira de algo pasado de la muerte sobre VAR3 .
 
- VAR4   reza al universo para que la paz alcance   VAR5  .
+ VAR4 reza al universo para que la paz alcance VAR5 .
 
 %%%%
 Antimagic Gaze Norris cast
 
-Algo numinoso debajo de las ondas   VAR0  de repente mira a   VAR1   .
+Algo numinoso debajo de las ondas VAR0 de repente mira a VAR1 .
 
- VAR2    Los ojos brillan, abrumadora   VAR3   con visiones de más allá.
+ VAR2 Los ojos brillan, abrumadora VAR3 con visiones de más allá.
 
 %%%%
 Roxanne cast
@@ -652,31 +652,31 @@ Roxanne cast
 %%%%
 silent Berserker Rage Rupert cast
 
-VAR0    vuela en una rabia!
+VAR0 vuela en una rabia!
 
 %%%%
 Berserker Rage Rupert cast
 
-VAR0   ruge locamente y entra en una rabia!
+VAR0 ruge locamente y entra en una rabia!
 
 %%%%
 Rupert cast targeted
 
-VAR0   ruge salvajemente   VAR1     VAR2   .
+VAR0 ruge salvajemente VAR1 VAR2 .
 
- VAR3   grita en voz alta   VAR4     VAR5   .
+ VAR3 grita en voz alta VAR4 VAR5 .
 
 %%%%
 Vv cast
 
 Los gestos claramente.
 
-Sellos   VAR2                 pie.
+Sellos VAR2 pie.
 
-VISUAL:  VAR3   Slams   VAR4     palmas juntas.
+VISUAL: VAR3 Slams VAR4 palmas juntas.
 
 w:3
-VISUAL:  VAR5   hace una elaborada moción de arcing.
+VISUAL: VAR5 hace una elaborada moción de arcing.
 
 %%%%
 unseen Vv cast
@@ -686,18 +686,18 @@ Escuchas el sonido de rock impactante.
 %%%%
 Hellfire Mortar Wiglaf cast
 
-VISUAL:  VAR0   Slams   VAR1    arma contra el suelo.
+VISUAL: VAR0 Slams VAR1 arma contra el suelo.
 
- VAR2   grita   VAR3      VAR4   , "Paste la sangre o la montaña!"
+ VAR2 grita VAR3 VAR4 , "Paste la sangre o la montaña!"
 
- VAR5  Roars   VAR6
+ VAR5 Roars VAR6
 
 %%%%
 Paralyse Xtahua cast
 
-VAR0   ruge abrumadoramente   VAR1     VAR2    !
+VAR0 ruge abrumadoramente VAR1 VAR2 !
 
- VAR3   truenos ferozmente   VAR4     VAR5   !
+ VAR3 truenos ferozmente VAR4 VAR5 !
 
 %%%%
 basilisk cast targeted
@@ -712,47 +712,47 @@ basilisk cast
 %%%%
 bes kemwar cast
 
-VAR0   escribir sobre, y algo escrito dentro de   VAR1   .
+VAR0 escribir sobre, y algo escrito dentro de VAR1 .
 
 %%%%
 Airstrike blizzard demon cast
 
 Lanza con intensidad helada.
 
- VAR1   gestos con relámpago congelado.
+ VAR1 gestos con relámpago congelado.
 
- VAR2    ondas   VAR3        en círculos de oración.
+ VAR2 ondas VAR3 en círculos de oración.
 
 %%%%
 silent blizzard demon cast
 
 Lanza con intensidad helada.
 
- VAR1   gestos con relámpago congelado.
+ VAR1 gestos con relámpago congelado.
 
 %%%%
 blizzard demon cast
 
 Con malicia melancólica.
 
- VAR1   ruge con pesar.
+ VAR1 ruge con pesar.
 
 %%%%
 bombardier beetle cast
 
-VAR0     sprays incendiary fluid   VAR1      VAR2   .
+VAR0 sprays incendiary fluid VAR1 VAR2 .
 
 %%%%
 March of Sorrows bone dragon cast
 
-VAR0   respira [la desesperanza colectiva sufre dolores inagotables]   VAR1     VAR2   .
+VAR0 respira [la desesperanza colectiva sufre dolores inagotables] VAR1 VAR2 .
 
 %%%%
 brain worm cast
 
 La cabeza abultada.
 
- VAR1       la cabeza palpitante pulsa.
+ VAR1 la cabeza palpitante pulsa.
 
 %%%%
 burial acolyte cast
@@ -762,50 +762,50 @@ Un canto funerario.
 %%%%
 Battlecry cherub cast
 
-VAR0   canta un himno poderoso!
+VAR0 canta un himno poderoso!
 
 %%%%
 Beckoning Gale chonchon cast
 
-VAR0    canta mientras aplaude   VAR1     las   VAR2                                                                                                                                                                                                                                   
+VAR0 canta mientras aplaude VAR1 las VAR2 
 
 w:5
- VAR4                            mientras gira y gira.
+ VAR4 mientras gira y gira.
 
 %%%%
 cognitogaunt cast
 
-VAR0   brilla violentamente.
+VAR0 brilla violentamente.
 
 %%%%
 clockroach cast
 
-VAR0    sprays arena de su reloj de arena   VAR1     VAR2   .
+VAR0 sprays arena de su reloj de arena VAR1 VAR2 .
 
 %%%%
 crystal echidna cast targeted
 
-VAR0    flicks its quills   VAR1      VAR2   .
+VAR0 flicks its quills VAR1 VAR2 .
 
 %%%%
 Crystallising Shot crystal guardian cast
 
-VAR0                                         .
+VAR0 .
 
 %%%%
 culicivora cast targeted
 
-VAR0    chitters   VAR1     VAR2   .
+VAR0 chitters VAR1 VAR2 .
 
 %%%%
 curse skull cast
 
-Rattles               .
+Rattles .
 
 %%%%
 silent curse skull cast
 
-Rattles   VAR1    Jaw silently.
+Rattles VAR1 Jaw silently.
 
 %%%%
 unseen curse skull cast
@@ -815,7 +815,7 @@ Escuchas el desorden de los dientes.
 %%%%
 Minor Healing dryad cast
 
-VAR0   se basa en la vitalidad de la naturaleza.
+VAR0 se basa en la vitalidad de la naturaleza.
 
 %%%%
 dryad cast
@@ -825,43 +825,43 @@ Llama al bosque.
 %%%%
 eidolon cast targeted
 
-VAR0   mira piercingly   VAR1     VAR2    .
+VAR0 mira piercingly VAR1 VAR2 .
 
 %%%%
 Lightning Bolt electric golem cast
 
-VAR0   hurls   VAR1     VAR2                                                                                                                                                                                                                                           .
+VAR0 hurls VAR1 VAR2 .
 
 %%%%
 Primal Wave elemental wellspring cast
 
-¡Un torrente de agua se eleva por   VAR0  !
+¡Un torrente de agua se eleva por VAR0 !
 
 %%%%
 Summon Water Elementals elemental wellspring cast
 
-Espíritus de agua derraman de   VAR0  !
+Espíritus de agua derraman de VAR0 !
 
 %%%%
 eye of draining cast
 
-VAR0                                  .
+VAR0 .
 
 %%%%
 flayed ghost cast
 
-VAR0              VAR2    con malicia torturada.
+VAR0 VAR2 con malicia torturada.
 
- VAR3   llora, "¡Sufre como sufrí!"
+ VAR3 llora, "¡Sufre como sufrí!"
 
- VAR4    grita: "¡Siente lo que sentí!"
+ VAR4 grita: "¡Siente lo que sentí!"
 
 %%%%
 silent flayed ghost cast
 
-VAR0   geme en silencio angustia.
+VAR0 geme en silencio angustia.
 
- VAR1    mira   VAR2      VAR3   con malicia torturada.
+ VAR1 mira VAR2 VAR3 con malicia torturada.
 
 %%%%
 formless jellyfish cast
@@ -871,12 +871,12 @@ formless jellyfish cast
 %%%%
 Summon Mortal Champion fravashi cast
 
-VAR0    despide a su campeón.
+VAR0 despide a su campeón.
 
 %%%%
 Stone Arrow gargoyle cast
 
-VAR0   hurls a   VAR1     VAR2                                                                                                                                                                                                                                          .
+VAR0 hurls a VAR1 VAR2 .
 
 %%%%
 ghost moth cast
@@ -886,12 +886,12 @@ Mira alrededor.
 %%%%
 ghost moth cast targeted
 
-VAR0                                                                                                    .
+VAR0 .
 
 %%%%
 unseen ghost moth cast targeted
 
-Te sientes mirando por algo.   VAR0
+Te sientes mirando por algo. VAR0
 
 %%%%
 glowing orange brain cast
@@ -901,17 +901,17 @@ pulsa.
 %%%%
 golden eye cast targeted
 
-VAR0   Blinks   VAR1     VAR2   .
+VAR0 Blinks VAR1 VAR2 .
 
 %%%%
 guardian serpent cast targeted
 
-VAR0    coils   VAR1   y olas   VAR2      cuerpo superior   VAR3       VAR4    .
+VAR0 coils VAR1 y olas VAR2 cuerpo superior VAR3 VAR4 .
 
- VAR5   gestos con   VAR6     tail   VAR7     VAR8   .
+ VAR5 gestos con VAR6 tail VAR7 VAR8 .
 
 w:3
- VAR9   Ojea patrones intrincados con la punta de la lengua   VAR10   .
+ VAR9 Ojea patrones intrincados con la punta de la lengua VAR10 .
 
 %%%%
 guardian serpent cast
@@ -921,12 +921,12 @@ Es un hechizo.
 %%%%
 Fireball hell hog cast
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 Beckoning Gale hippogriff cast
 
-VAR0     alas   VAR1      VAR2                                                                                                                                                                                                                                         .
+VAR0 alas VAR1 VAR2 .
 
 %%%%
 Warning Cry hippogriff cast
@@ -941,17 +941,17 @@ unseen Warning Cry howler monkey cast
 %%%%
 Warning Cry howler monkey cast
 
-VAR0    Hoots y aullidos con increíble vigor!
+VAR0 Hoots y aullidos con increíble vigor!
 
 %%%%
 Blink Range ironbound thunderhulk cast
 
-Las energías extrañas se rompen del aparato   VAR0  .
+Las energías extrañas se rompen del aparato VAR0 .
 
 %%%%
 kobold blastminer cast targeted
 
-VAR0    blasts   VAR1    cannon   VAR2      VAR3   .
+VAR0 blasts VAR1 cannon VAR2 VAR3 .
 
 %%%%
 Awaken Flesh kobold fleshcrafter cast
@@ -963,7 +963,7 @@ Canta y escribe.
 %%%%
 Bolt of Flesh kobold fleshcrafter cast
 
-VAR0                                                                                        .
+VAR0 .
 
 %%%%
 laughing skull cast
@@ -972,14 +972,14 @@ Cackles a pesar de todo.
 
 Gibbers con desprecio.
 
- VAR2    deja salir una mala rabia de risa.
+ VAR2 deja salir una mala rabia de risa.
 
 %%%%
 silent laughing skull cast
 
-VAR0   "Chuetes en silencio.
+VAR0 "Chuetes en silencio.
 
- VAR1   violentamente agitado con glee.
+ VAR1 violentamente agitado con glee.
 
 %%%%
 unseen laughing skull cast
@@ -991,26 +991,26 @@ Oíste riñas escarnéticas.
 %%%%
 manticore cast
 
-VAR0     flicks   VAR1    tail.
+VAR0 flicks VAR1 tail.
 
 %%%%
 Bolt of Magma molten gargoyle cast
 
-VAR0    blasts magma   VAR1     VAR2   !
+VAR0 blasts magma VAR1 VAR2 !
 
 %%%%
 Harpoon Shot mongrel wurm cast
 
-VAR0    hackea un disparo de arpón dirigido   VAR1      VAR2   .
+VAR0 hackea un disparo de arpón dirigido VAR1 VAR2 .
 
- VAR3   media colapsa ya que se tose un tiro de arpón   VAR4                      .
+ VAR3 media colapsa ya que se tose un tiro de arpón VAR4 .
 
 %%%%
 Scorch mongrel wurm cast
 
-VAR0   casi se ahoga a medida que se lanza llamas.
+VAR0 casi se ahoga a medida que se lanza llamas.
 
- VAR1   Expels rasping flames.
+ VAR1 Expels rasping flames.
 
 %%%%
 orange crystal statue cast
@@ -1020,32 +1020,32 @@ Los glitters.
 %%%%
 orange crystal statue cast targeted
 
-VAR0    fija   VAR1     perforando la mirada en   VAR2   .
+VAR0 fija VAR1 perforando la mirada en VAR2 .
 
 %%%%
 orb of fire cast
 
-VAR0   brilla amarillo.
+VAR0 brilla amarillo.
 
- VAR1   brilla magenta brillante.
+ VAR1 brilla magenta brillante.
 
- VAR2   brilla profundamente púrpura.
+ VAR2 brilla profundamente púrpura.
 
- VAR3   brilla rojo.
+ VAR3 brilla rojo.
 
- VAR4   emite una luz roja lúcida.
+ VAR4 emite una luz roja lúcida.
 
 %%%%
 orb of entropy cast
 
 #
- VAR0   [pulses impervibrates].
+ VAR0 [pulses impervibrates].
 
- VAR1    gnaws at the world.
+ VAR1 gnaws at the world.
 
- VAR2   se come en la realidad.
+ VAR2 se come en la realidad.
 
-La existencia se encuentra alrededor   VAR3   .
+La existencia se encuentra alrededor VAR3 .
 
 %%%%
 orb of winter cast
@@ -1055,7 +1055,7 @@ Los glitters con helada.
 - Como una ventisca.
 
 w:30
- VAR2    brilla [icy azul sobrevivir con una luz pálida sobrevivir].
+ VAR2 brilla [icy azul sobrevivir con una luz pálida sobrevivir].
 
 %%%%
 obsidian statue cast
@@ -1065,7 +1065,7 @@ Los ojos brillan brevemente.
 %%%%
 Bolt of Fire ophan cast
 
-VAR0   ¡Aprovecha el poder de limpieza del fuego!
+VAR0 ¡Aprovecha el poder de limpieza del fuego!
 
 %%%%
 unseen Bolt of Fire ophan cast
@@ -1075,7 +1075,7 @@ unseen Bolt of Fire ophan cast
 %%%%
 Force Lance polterguardian cast
 
-VAR0    centra su Will   VAR1     VAR2   .
+VAR0 centra su VAR1 VAR2 .
 
 %%%%
 Ghostly Fireball revenant cast
@@ -1085,12 +1085,12 @@ Lanza con llamas fantasmales.
 %%%%
 Spectral Cloud revenant cast
 
-VAR0   Conjures spectral mists around   VAR1   .
+VAR0 Conjures spectral mists around VAR1 .
 
 %%%%
 Dispel Undead revenant cast
 
-VAR0   gestos violentamente   VAR1     VAR2   .
+VAR0 gestos violentamente VAR1 VAR2 .
 
 %%%%
 Blink Away revenant cast
@@ -1100,92 +1100,92 @@ NO
 %%%%
 Hurl Sludge roaming sludgefish cast
 
-VAR0   tos and spits up spare sludge   VAR1      VAR2   .
+VAR0 tos and spits up spare sludge VAR1 VAR2 .
 
- VAR3    concentrados y lanzamientos de mucago tóxico   VAR4     VAR5   .
+ VAR3 concentrados y lanzamientos de mucago tóxico VAR4 VAR5 .
 
 %%%%
 Bolt of Antimagic roaming sludgefish cast
 
-VAR0   writhes with glee as it focuses its Will   VAR1     VAR2   .
+VAR0 writhes with glee as it focuses its VAR1 VAR2 .
 
- VAR3    burbles colgantes como se manifiesta antimagic crudo   VAR4      VAR5   .
+ VAR3 burbles colgantes como se manifiesta antimagic crudo VAR4 VAR5 .
 
 %%%%
 silent Bolt of Antimagic roaming sludgefish cast
 
-VAR0   escribe con hambre mientras centra su Will   VAR1      VAR2   .
+VAR0 escribe con hambre mientras centra su VAR1 VAR2 .
 
 %%%%
 rusted inspector cast
 
-VAR0   clics fervientemente y silbidos mientras miran   VAR1      VAR2   .
+VAR0 clics fervientemente y silbidos mientras miran VAR1 VAR2 .
 
- VAR3                                                                                                                                                                                                                                                           
+ VAR3 
 
- VAR5   [rumbles impershudders] with under-developed magic as it glares   VAR6      VAR7   .
+ VAR5 [rumbles impershudders] with under-developed magic as it glares VAR6 VAR7 .
 
 %%%%
 silent rusted inspector cast
 
-VAR0   squirms violently as it stares   VAR1     VAR2   .
+VAR0 squirms violently as it stares VAR1 VAR2 .
 
- VAR3                                                                                                                                                                                                                                                           
+ VAR3 
 
- VAR5   shudders with under-developed magic as it glares   VAR6     VAR7   .
+ VAR5 shudders with under-developed magic as it glares VAR6 VAR7 .
 
 %%%%
 Battlecry satyr cast
 
-VAR0   juega una melodía excitante en tubos   VAR1   !
+VAR0 juega una melodía excitante en tubos VAR1 !
 
 %%%%
 Cause Fear satyr cast
 
-VAR0   juega una melodía espantosa en los tubos   VAR1   !
+VAR0 juega una melodía espantosa en los tubos VAR1 !
 
 %%%%
 Sleep satyr cast
 
-VAR0   juega una melodía encantadora en tubos   VAR1   !
+VAR0 juega una melodía encantadora en tubos VAR1 !
 
 %%%%
 Murky Legion scrapshell chimera cast
 
-VAR0   thrashes about, triggering tainted fantasmas!
+VAR0 thrashes about, triggering tainted fantasmas!
 
-¡Los componentes de   VAR1   convulsa como espíritus inmundos se manifiestan!
+¡Los componentes de VAR1 convulsa como espíritus inmundos se manifiestan!
 
- VAR2    screeches thrice-fold llamando a las almas de sus víctimas!
+ VAR2 screeches thrice-fold llamando a las almas de sus víctimas!
 
 %%%%
 silent Murky Legion scrapshell chimera cast
 
-VAR0   thrashes silently as it triggeres tainted fantasmas!
+VAR0 thrashes silently as it triggeres tainted fantasmas!
 
-¡Los componentes de   VAR1   convulsa como espíritus inmundos se manifiestan!
+¡Los componentes de VAR1 convulsa como espíritus inmundos se manifiestan!
 
 %%%%
 Injury Mirror screaming refraction cast
 
-VAR0   brilla con angustia.
+VAR0 brilla con angustia.
 
- VAR1   rattles its vertebrae in radiant agony.
+ VAR1 rattles its vertebrae in radiant agony.
 
 %%%%
 Lee's Rapid Deconstruction screaming refraction cast
 
-Un eco de   VAR0    flickers y vails sin esperanza   VAR1      VAR2   .
+Un eco de VAR0 flickers y vails sin esperanza VAR1 VAR2 .
 
 %%%%
 scrub nettle cast targeted
 
-VAR0    lanza giros tóxicos   VAR1     VAR2   .
+VAR0 lanza giros tóxicos VAR1 VAR2 .
 
 %%%%
 Warning Cry seraph cast
 
-VAR0   grita un warning a los aliados   VAR1   !
+VAR0 grita un warning a los aliados VAR1 !
 
 %%%%
 unseen Warning Cry seraph cast
@@ -1200,39 +1200,39 @@ Se mete en la oscuridad.
 %%%%
 Throw Icicle shard shrike cast
 
-VAR0    escupe un fragmento de hielo   VAR1      VAR2   .
+VAR0 escupe un fragmento de hielo VAR1 VAR2 .
 
 %%%%
 Confuse sphinx marauder cast
 
- VAR0   ruge a[n oscuras vidas perplejiendo] enigma con una lengua extraña.
+ VAR0 ruge a[n oscuras vidas perplejiendo] enigma con una lengua extraña.
 
 %%%%
 Vex sphinx marauder cast
 
-VAR0   screeches a[n impossible tolera nonsensical tolera cliché] enigma en una lengua mística.
+VAR0 screeches a[n impossible tolera nonsensical tolera cliché] enigma en una lengua mística.
 
 %%%%
 Smiting guardian sphinx cast
 
-VAR0   murmura una antigua maldición   VAR1     VAR2    .
+VAR0 murmura una antigua maldición VAR1 VAR2 .
 
 %%%%
 Paralysis guardian sphinx cast
 
-VAR0  susurra un misterioso enigma.
+VAR0 susurra un misterioso enigma.
 
 %%%%
 sphinx cast
 
-VAR0   murmura algunas palabras extrañas.
+VAR0 murmura algunas palabras extrañas.
 
- VAR1    lanza un hechizo.
+ VAR1 lanza un hechizo.
 
 %%%%
 Electrical Bolt shock serpent cast
 
-VAR0   descarga un tendril de electricidad.
+VAR0 descarga un tendril de electricidad.
 
 %%%%
 sun moth cast
@@ -1242,30 +1242,30 @@ Las alas golpearon ferozmente.
 %%%%
 Brain Bite telencephalon cast
 
-VAR0   pulsa en patrones inestables.
+VAR0 pulsa en patrones inestables.
 
- VAR1    giros y brillos en bucles mareados.
+ VAR1 giros y brillos en bucles mareados.
 
 %%%%
 Call Down Lightning telencephalon cast
 
-La electricidad baila a través de los nodos   VAR0  .
+La electricidad baila a través de los nodos VAR0 .
 
- VAR1   baños en energías místicas caprichosas.
+ VAR1 baños en energías místicas caprichosas.
 
 %%%%
 Rebounding Blaze thermic dynamo cast
 
-Un látigo salvaje de fuego dispara desde   VAR0     VAR1                                                                                                                                                                                                                                           
+Un látigo salvaje de fuego dispara desde VAR0 VAR1 
 
- VAR3    sobrecargas   VAR4   y libera el exceso de calor   VAR5            .
+ VAR3 sobrecargas VAR4 y libera el exceso de calor VAR5 .
 
 %%%%
 Rebounding Chill thermic dynamo cast
 
-Un látigo salvaje de hielo dispara desde   VAR0     VAR1                                                                                                                                                                                                      
+Un látigo salvaje de hielo dispara desde VAR0 VAR1 
 
- VAR3   desborda con hielo y ventos exceso de frío   VAR4     VAR5   .
+ VAR3 desborda con hielo y ventos exceso de frío VAR4 VAR5 .
 
 %%%%
 unseen thermic dynamo cast
@@ -1275,32 +1275,32 @@ Escuchas un látigo violento.
 %%%%
 thorn hunter cast
 
-VAR0     llega con   VAR1    raíces.
+VAR0 llega con VAR1 raíces.
 
 %%%%
 thrashing horror cast
 
-VAR0   churns violentamente!
+VAR0 churns violentamente!
 
 %%%%
 undertaker cast targeted
 
-VAR0    llega para   VAR1   .
+VAR0 llega para VAR1 .
 
 %%%%
 Flashing Balestra undying armoury cast
 
-Un arma salta de   VAR0   y pulmones   VAR1      VAR2   !
+Un arma salta de VAR0 y pulmones VAR1 VAR2 !
 
 %%%%
 Death Rattle ushabti cast
 
-VAR0  sacude y rattles.
+VAR0 sacude y rattles.
 
 %%%%
 Warning Cry ushabti cast
 
-VAR0   sacudes y agitaciones desesperadamente!
+VAR0 sacudes y agitaciones desesperadamente!
 
 %%%%
 unseen Warning Cry ushabti cast
@@ -1310,7 +1310,7 @@ unseen Warning Cry ushabti cast
 %%%%
 ushabti cast targeted
 
-VAR0   gestos rígidamente   VAR1     VAR2    .
+VAR0 gestos rígidamente VAR1 VAR2 .
 
 %%%%
 unseen Warning Cry vault sentinel cast
@@ -1320,19 +1320,19 @@ unseen Warning Cry vault sentinel cast
 %%%%
 Warning Cry vault sentinel cast
 
-VAR0   golpea una nota fuerte en un cuerno de señal!
+VAR0 golpea una nota fuerte en un cuerno de señal!
 
 %%%%
 Metal Splinters war gargoyle cast
 
-VAR0    lanzamientos   VAR1     VAR2      VAR3  .
+VAR0 lanzamientos VAR1 VAR2 VAR3 .
 
 %%%%
 weeping skull cast
 
 ¿Por qué?
 
- VAR1    La miseria [comprensiones sobre los flujos de la eternidad].
+ VAR1 La miseria [comprensiones sobre los flujos de la eternidad].
 
 %%%%
 silent weeping skull cast
@@ -1347,7 +1347,7 @@ Oíste chispas.
 %%%%
 Airstrike wind drake cast
 
-VAR0     alas   VAR1      VAR2                                                                                                                                                                                                                                         .
+VAR0 alas VAR1 VAR2 .
 
 %%%%
 Wind Blast wind drake cast
@@ -1357,60 +1357,60 @@ Wind Blast wind drake cast
 %%%%
 Corrupting Pulse wretched star cast
 
-VAR0   pulsos con una luz eldritch!
+VAR0 pulsos con una luz eldritch!
 
 %%%%
 wretched star cast
 
-VAR0   brilla turbulentamente.
+VAR0 brilla turbulentamente.
 
 %%%%
 Grave Claw vampire bloodprince cast
 
-VAR0    llega a la mano   VAR1  .
+VAR0 llega a la mano VAR1 .
 
- VAR2   BAR   dedos.
+ VAR2 BAR dedos.
 
 %%%%
 Ravenous Swarm vampire bloodprince cast
 
 Alas.
 
- VAR2    se extiende   VAR3   brazos anchos.
+ VAR2 se extiende VAR3 brazos anchos.
 
 %%%%
 Dominate Undead vampire bloodprince cast
 
-VAR0   ejerce el peso total de la autoridad   VAR1   .
+VAR0 ejerce el peso total de la autoridad VAR1 .
 
- VAR2   obliga a los muertos a obedecer.
+ VAR2 obliga a los muertos a obedecer.
 
- VAR3  susurros, "Kneel"
+ VAR3 susurros, "Kneel"
 
 %%%%
 Manifold Assault natural cast
 
-VAR0  parece ocupar muchos lugares a la vez.
+VAR0 parece ocupar muchos lugares a la vez.
 
 %%%%
 Acid Ball nascent plasmodium cast
 
-VAR0    squirts acid   VAR1     VAR2    .
+VAR0 squirts acid VAR1 VAR2 .
 
 %%%%
 angel cast targeted
 
- VAR0   derriba la ira de   VAR1   sobre   VAR2   .
+ VAR0 derriba la ira de VAR1 sobre VAR2 .
 
 %%%%
 crab cast targeted
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 dragon cast targeted
 
-VAR0   respira   VAR1      VAR2      VAR3   .
+VAR0 respira VAR1 VAR2 VAR3 .
 
 %%%%
 dragon cast
@@ -1430,7 +1430,7 @@ drake cast targeted
 %%%%
 floating eye cast targeted
 
-VAR0              VAR2    .
+VAR0 VAR2 .
 
 %%%%
 floating eye cast
@@ -1440,12 +1440,12 @@ Mira alrededor.
 %%%%
 unseen floating eye cast targeted
 
-Siente algo mirándote.   VAR0
+Siente algo mirándote. VAR0
 
 %%%%
 living spell cast
 
-VAR0                                                                   .
+VAR0 .
 
 %%%%
 raven cast
@@ -1455,27 +1455,27 @@ Mira hacia el alma.
 %%%%
 malmutate zykzyl cast
 
-VAR0     verlas con envidia de la forma   VAR1   .
+VAR0 verlas con envidia de la forma VAR1 .
 
 %%%%
 enfeeble zykzyl cast
 
-VAR0   rebosa con resentimiento.
+VAR0 rebosa con resentimiento.
 
 %%%%
 bolt of flesh zykzyl cast
 
-VAR0   abraza un pedazo de   VAR1     VAR2                                                                                                                                                                                                                                          .
+VAR0 abraza un pedazo de VAR1 VAR2 .
 
 %%%%
 ostracise cast
 
-VAR0   Congela tu alma fría.
+VAR0 Congela tu alma fría.
 
 %%%%
 polymorphed wizard cast targeted
 
-VAR0                                           .
+VAR0 .
 
 %%%%
 polymorphed wizard cast
@@ -1493,22 +1493,22 @@ Escuchas algunas palabras extrañas y confusas.
 %%%%
 Haste Other priest cast
 
-VAR0   pide   VAR1   para acelerar   VAR2   .
+VAR0 pide VAR1 para acelerar VAR2 .
 
 %%%%
 Heal Other priest cast
 
-VAR0   pide   VAR1   para curar   VAR2   .
+VAR0 pide VAR1 para curar VAR2 .
 
 %%%%
 Might Other priest cast
 
-VAR0   hace un llamamiento   VAR1   para fortalecer   VAR2   .
+VAR0 hace un llamamiento VAR1 para fortalecer VAR2 .
 
 %%%%
 Malign Offering priest cast
 
-VAR0   pronuncia una oración oscura y puntos   VAR1     VAR2    .
+VAR0 pronuncia una oración oscura y puntos VAR1 VAR2 .
 
 %%%%
 Blink magical cast
@@ -1518,48 +1518,48 @@ NO
 %%%%
 priest cast targeted
 
-VAR0   derriba la ira de   VAR1   sobre   VAR2   .
+VAR0 derriba la ira de VAR1 sobre VAR2 .
 
- VAR3    mumble algunas oraciones extrañas a   VAR4   contra   VAR5   .
+ VAR3 mumble algunas oraciones extrañas a VAR4 contra VAR5 .
 
- VAR6   invoca la ayuda de   VAR7   contra   VAR8   .
+ VAR6 invoca la ayuda de VAR7 contra VAR8 .
 
 %%%%
 priest cast
 
-VAR0   reza a   VAR1   .
+VAR0 reza a VAR1 .
 
- VAR2   mumble algunas oraciones extrañas a   VAR3  .
+ VAR2 mumble algunas oraciones extrañas a VAR3 .
 
- VAR4   pronuncia una invocación a   VAR5   .
+ VAR4 pronuncia una invocación a VAR5 .
 
 %%%%
 unseen priest cast targeted
 
-Tú escucha   VAR0     derribar la ira de    VAR1    sobre   VAR2   .
+Tú escucha VAR0 derribar la ira de VAR1 sobre VAR2 .
 
-Tú escucha   VAR3   murmurar algunas oraciones extrañas a   VAR4   contra   VAR5   .
+Tú escucha VAR3 murmurar algunas oraciones extrañas a VAR4 contra VAR5 .
 
-Tú escucha   VAR6   invocar la ayuda de   VAR7    contra   VAR8   .
+Tú escucha VAR6 invocar la ayuda de VAR7 contra VAR8 .
 
 %%%%
 unseen priest cast
 
-Se oyen algunas oraciones extrañas y murmuradas a   VAR0  .
+Se oyen algunas oraciones extrañas y murmuradas a VAR0 .
 
 %%%%
 non-humanoid wizard cast targeted
 
-VAR0                      VAR2   y se asemeja a algunas palabras extrañas.
+VAR0 VAR2 y se asemeja a algunas palabras extrañas.
 
- VAR3    lanza un hechizo   VAR4     VAR5   .
+ VAR3 lanza un hechizo VAR4 VAR5 .
 
 %%%%
 non-humanoid wizard cast
 
-VAR0   murmura algunas palabras extrañas.
+VAR0 murmura algunas palabras extrañas.
 
- VAR1    lanza un hechizo.
+ VAR1 lanza un hechizo.
 
 %%%%
 unseen non-humanoid wizard cast
@@ -1569,20 +1569,20 @@ Escuchas algunas palabras extrañas y confusas.
 %%%%
 wizard cast targeted
 
-VAR0    gestos   VAR1         mientras cantas.
+VAR0 gestos VAR1 mientras cantas.
 
- VAR3                                                                                                                                                                                                                                                           
+ VAR3 
 
- VAR6    lanza un hechizo   VAR7     VAR8   .
+ VAR6 lanza un hechizo VAR7 VAR8 .
 
 %%%%
 wizard cast
 
-VAR0   gestos salvajemente mientras canta.
+VAR0 gestos salvajemente mientras canta.
 
- VAR1   murmura algunas palabras extrañas.
+ VAR1 murmura algunas palabras extrañas.
 
- VAR2   lanza un hechizo.
+ VAR2 lanza un hechizo.
 
 %%%%
 unseen wizard cast
@@ -1592,7 +1592,7 @@ Escuchas algunas palabras extrañas y confusas.
 %%%%
 magical cast targeted
 
-VAR0    gestos   VAR1     VAR2   .
+VAR0 gestos VAR1 VAR2 .
 
 %%%%
 magical cast
@@ -1602,6 +1602,6 @@ gestos.
 %%%%
 beam catchall cast
 
- VAR0                                                                .
+ VAR0 .
 
 %%%%

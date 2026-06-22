@@ -1023,13 +1023,13 @@ Destrucción (que no puede lastimarte u otros aliados).
 
 (Sus sirvientes desencadenan explosiones de cualquiera
 {}
-si usted.get base mutation level("Dis destruction") == 1 entonces
+si tú.get base mutation level("Dis destruction") == 1 entonces
 devuelve "acid o espinillas metálicas"
-si usted.get base mutation level("Tartarus destruction") == 1 entonces
+si tú.get base mutation level("Tartarus destruction") == 1 entonces
 devolver "energía negativa o devastación"
-si usted.get base mutation level("Gehenna destruction") == 1 entonces
+si tú.get base mutation level("Gehenna destruction") == 1 entonces
 "fuego o lava"
-si usted.get base mutation level("Cocytus destruction") == 1 entonces
+si tú.get base mutation level("Cocytus destruction") == 1 entonces
 devolver "frío o hielo"
 final
 })%%%%
@@ -1050,13 +1050,13 @@ en una enorme explosión de su destrucción característica.
 
 (Tus globos de aniquilación desencadenan
 {}
-si usted.get base mutation level("Dis destruction") == 1 entonces
+si tú.get base mutation level("Dis destruction") == 1 entonces
 devuelve "acid o espinillas metálicas"
-si usted.get base mutation level("Tartarus destruction") == 1 entonces
+si tú.get base mutation level("Tartarus destruction") == 1 entonces
 devolver "energía negativa o devastación"
-si usted.get base mutation level("Gehenna destruction") == 1 entonces
+si tú.get base mutation level("Gehenna destruction") == 1 entonces
 "fuego o lava"
-si usted.get base mutation level("Cocytus destruction") == 1 entonces
+si tú.get base mutation level("Cocytus destruction") == 1 entonces
 devolver "frío o hielo"
 final
 })%%%%

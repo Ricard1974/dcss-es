@@ -1,0 +1,349 @@
+###############################################################################
+# Monster titles.
+# Displayed when they first come into view and on their description screen.
+#########
+%%%%
+Agnes title
+
+Agnes el Wanderer
+%%%%
+Aizul title
+
+Aizul el Guardián Descuido
+%%%%
+Amaemon title
+
+Amaemon el veneno diabólico
+%%%%
+Antaeus title
+
+Antaeus, Guardian of Cocytus
+%%%%
+Arachne title
+
+Arachne the Outcast
+%%%%
+Asmodeus title
+
+Asmodeus, Príncipe de Gehenna
+%%%%
+Asterion title
+
+Asterión el rey caído
+%%%%
+Azrael title
+
+Azrael la llama sin sentido
+%%%%
+Bai Suzhen title
+
+Bai Suzhen, Madame White Snake
+%%%%
+Boris title
+
+Boris, Maestro de Vida y Muerte
+%%%%
+Cassandra title
+
+Cassandra el Oráculo condenado
+%%%%
+Cerebov title
+
+Cerebov, Demon Lord of Fire and Steel
+%%%%
+Chuck title
+
+Chuck el Coleccionista
+%%%%
+Crazy Yiuf title
+
+Crazy Yiuf el iluminado
+%%%%
+Dispater title
+
+Despacho, Señor de la Ciudad de Hierro
+%%%%
+Dissolution title
+
+Disolución, sumo sacerdote de Jiyva
+%%%%
+Donald title
+
+Donald el aventurero
+%%%%
+Dowan title
+
+Dowan, Hermano de Duvessa
+%%%%
+Duvessa title
+
+Duvessa, Hermana de Dowan
+%%%%
+Edmund title
+
+Edmund el Younger
+%%%%
+Ereshkigal title
+
+Ereshkigal, Reina de Tartarus
+%%%%
+Erica title
+
+Erica, tempered
+%%%%
+Erolcha title
+
+Erolcha el Cunning
+%%%%
+Eustachio title
+
+Eustachio el Magnífico
+%%%%
+Fannar title
+
+Fannar el corazón frío
+%%%%
+Frances title
+
+Frances, duquesa de Pandemonium
+%%%%
+Frederick title
+
+Frederick el impecable
+%%%%
+Gastronok title
+
+Gastronok el Ponderous
+%%%%
+Geryon title
+
+Geryon, portero del infierno
+%%%%
+Gloorx Vloq title
+
+Gloorx Vloq, Señor demonio de la oscuridad
+%%%%
+Grum title
+
+Grum el cazador
+%%%%
+Grunn title
+
+Grunn el Punished
+%%%%
+Harold title
+
+Harold el tiempo
+%%%%
+Ignacio title
+
+Ignacio, maestro de dolor
+%%%%
+Ilsuiw title
+
+Ilsuiw, Bruja de las mareas
+%%%%
+Ijyb title
+
+Ijyb el Inquisitivo
+%%%%
+Jessica title
+
+Jessica la hechicera del aprendiz
+%%%%
+Jeremiah title
+
+Jeremiah, Barachi Dreamer
+%%%%
+Jorgrun title
+
+Jorgrun Earthshaker
+%%%%
+Jory title
+
+Jory the Bloodstained Count
+%%%%
+Joseph title
+
+Joseph, un mercenario
+%%%%
+Josephina title
+
+Josephina Ice-Lich
+%%%%
+Josephine title
+
+Josephine el necromancer deciéndose
+%%%%
+Khufu title
+
+Khufu el Faraón Indiferente
+%%%%
+Kirke title
+
+Kirke, Weaver of Myths
+%%%%
+Lodul title
+
+Lodul el Thunderous
+%%%%
+Lom Lobon title
+
+Lom Lobon, Demon Lord of Forbidden Knowledge
+%%%%
+Louise title
+
+Louise, la Corrupted
+%%%%
+Maggie title
+
+Maggie el Vainglorious
+%%%%
+Mara title
+
+Mara, Señor de las Ilusiones
+%%%%
+Margery title
+
+Margery el Dragonslayer
+%%%%
+Maurice title
+
+Maurice el ladrón
+%%%%
+Menkaure title
+
+Menkaure, príncipe del polvo
+%%%%
+Mennas title
+
+Mennas, la voz de Zin
+%%%%
+Mlioglotl title
+
+Mlioglotl, el horror sinformado
+%%%%
+Mnoleg title
+
+Mnoleg, Demon Lord of Chaos
+%%%%
+Murray title
+
+Murray the Demonic Talking Skull
+%%%%
+Natasha title
+
+Natasha, Sierva de Vida y Muerte
+%%%%
+Nellie title
+
+Nellie, estrella del espectáculo
+%%%%
+Nergalle title
+
+Nergalle, Lorekeeper of the Fallen
+%%%%
+Nessos title
+
+Nessos el Markscentaur
+%%%%
+Nikola title
+
+Nikola el Inventor Loco
+%%%%
+Nobody title
+
+Nadie, Grudge of the Unmourned
+%%%%
+Norris title
+
+Norris el filósofo
+%%%%
+Parghit title
+
+Parghit the Mighty
+%%%%
+Pargi title
+
+Pargi el Meek
+%%%%
+Pikel title
+
+Pikel, Mercante de Almas
+%%%%
+Polyphemus title
+
+Polyphemus el pastor atento
+%%%%
+Robin title
+
+Robin del brazo fuerte
+%%%%
+Roxanne title
+
+Roxanne, Geomancer Emeritus
+%%%%
+Rupert title
+
+Rupert el Salvaje
+%%%%
+Saint Roka title
+
+San Roka el Mesías
+%%%%
+Sigmund title
+
+Sigmund el Direaded
+%%%%
+Snorg title
+
+Snorg el Insaciable
+%%%%
+Sojobo title
+
+Sojobo, Reina de Tengu
+%%%%
+Sonja title
+
+Sonja, el Asesino Graceioso
+%%%%
+Sprozz title
+
+Sprozz, Apiarist Inventive
+%%%%
+Terence title
+
+Terence the Veteran
+%%%%
+Tiamat title
+
+Tiamat, Avatar del Dragonlord
+%%%%
+Urug title
+
+Urug the Orcish Ballista
+%%%%
+Wiglaf title
+
+Wiglaf el Gunnerdwarf
+%%%%
+Vashnia title
+
+Vashnia el Elite Marksnaga
+%%%%
+Vv title
+
+Vv el exilio
+%%%%
+Xak'krixis title
+
+Xak'krixis, Royal Expeditionary Alchemist
+%%%%
+Xtahua title
+
+Xtahua el Antiguo
+%%%%
+Zenata title
+
+Zenata, Buscador de Sheza
+%%%%

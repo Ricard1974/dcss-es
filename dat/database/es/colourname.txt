@@ -1,0 +1,905 @@
+##########################################################
+# colourname.txt: lookup colour names
+#
+# This file contains a list of names of colours, and of colour-related
+# things such as names of colour patterns.
+#
+# Feel free to add to this list. Like for the other database lists,
+# you may add weights (defaults to w:10) to make certain names more
+# or less likely.
+#
+##########################################################
+%%%%
+rainbow_colour
+
+rojo
+
+naranja
+
+amarillo
+
+verde
+
+azul
+
+indigo
+
+violeta
+%%%%
+# No black, white, or grey here.
+misc_colour
+
+aero
+
+alabastro
+
+alizarin crimson
+
+almendra
+
+amaranto
+
+amaranto rosa
+
+amaranto púrpura
+
+amatista
+
+ametrina
+
+amber
+
+annatto
+
+manzana verde
+
+manzana roja
+
+manzana amarilla
+
+apricot
+
+aqua
+
+aquamarine
+
+alcachofa verde
+
+verde espárrago
+
+atrovirens
+
+aubergine
+
+auburn
+
+aureolin
+
+avocado verde
+
+azure
+
+azurite
+
+bebé azul
+
+banana amarilla
+
+beetroot red
+
+beige
+
+bisque
+
+bistre
+
+anaranjado
+
+sangre naranja
+
+sangre roja
+
+arándanos
+
+blush
+
+bole
+
+bronce
+
+bronce
+
+marrón
+
+marrón ocre
+
+buff
+
+burgundy
+
+burlywood
+
+amber
+
+quemado ocre
+
+naranja quemada
+
+quemado sienna
+
+quemado umber
+
+bizancio
+
+cadmio rojo
+
+verde cadmio
+
+cadmio naranja
+
+cadmio amarillo
+
+cameo rosa
+
+dulce manzana verde
+
+dulce manzana roja
+
+dulce de manzana amarillo
+
+caput mortuum
+
+cardenal rojo
+
+carmine
+
+carnación
+
+carne
+
+zanahoria naranja
+
+cattleya
+
+celadon
+
+celeste
+
+celeste
+
+cerise
+
+cerulean
+
+carbón vegetal
+
+gráfico
+
+gráfico verde
+
+cereza roja
+
+castaño
+
+china azul
+
+chocolate
+
+cosmos de chocolate
+
+cromo verde
+
+cromo naranja
+
+cromo amarillo
+
+cinnabar
+
+canela
+
+cítricos
+
+citrine
+
+citron
+
+azul nublado
+
+cobalto azul
+
+cobalto verde
+
+cobalto violeta
+
+cobalto amarillo
+
+café
+
+celulosa
+
+cobre
+
+coquelicot
+
+coral rosa
+
+cordovan
+
+crema
+
+crimson
+
+crocoite
+
+cyan
+
+ciclámenes
+
+sangre del dragón
+
+pato azul
+
+dun
+
+naranja polvorienta
+
+rosa polvorienta
+
+ébano
+
+ecruc
+
+berenjena
+
+azul eléctrico
+
+electric indigo
+
+electric magenta
+
+púrpura
+
+violeta eléctrica
+
+esmeralda
+
+eminencia
+
+erin
+
+evergreen
+
+fallo
+
+rojo
+
+fandango
+
+fawn
+
+feldgrau
+
+heleno verde
+
+naranja
+
+fuego rojo
+
+flax
+
+flirteo
+
+azul fluorescente
+
+bosque verde
+
+fuchsia
+
+fuchsine
+
+fulvibles
+
+gamboge
+
+garnet
+
+glaucous
+
+goblin blue
+
+bufanda goblin
+
+tierra verde
+
+verde ocre
+
+greenockite
+
+greige
+
+oro
+
+oro ocre
+
+oro amapola
+
+marrón dorado
+
+goldenrod
+
+goshenite
+
+gridelin
+
+grullo
+
+haint azul
+
+hansa amarillo
+
+harlequin
+
+heliodor
+
+heliotrope
+
+hibisco
+
+caliente rosa
+
+cazador verde
+
+cazador naranja
+
+hyacinth
+
+hyacinth azul
+
+icterine
+
+azul imperial
+
+naranja imperial
+
+morado imperial
+
+rojo imperial
+
+amarillo imperial
+
+indanthrone blue
+
+independencia
+
+irresistible
+
+iris
+
+isabelline
+
+verde hiedra
+
+jade
+
+jale
+
+jazmine
+
+jonquil
+
+kachi indigo
+
+khaki
+
+kobicha
+
+kombu verde
+
+labradorita
+
+lapis lazuli
+
+verde laurel
+
+lavender
+
+lavender azul
+
+lavanda púrpura
+
+lavender indigo
+
+lavender magenta
+
+rosa de lavanda
+
+hoja verde
+
+verde
+
+limón amarillo
+
+libertad
+
+lilac
+
+lime verde
+
+liseran morado
+
+lujurioso gallant
+
+loco
+
+magenta
+
+mahogany
+
+malachite
+
+mandarin
+
+violeta manganeso
+
+mango
+
+marigold
+
+azul marino
+
+marmalade
+
+maroon
+
+mauve
+
+mauve taupe
+
+mauveine
+
+maxixe
+
+mazarine
+
+amarillo
+
+medianoche azul
+
+mikado
+
+mindaro
+
+minium
+
+menta verde
+
+morganite
+
+mañana azul
+
+verde
+
+mulberry
+
+mostaza marrón
+
+mostaza verde
+
+mostaza amarilla
+
+myrtle
+
+nattier
+
+azul marino
+
+marina
+
+nickel
+
+nuez moscada
+
+nyanza
+
+ochre
+
+octarina
+
+viejo helio
+
+viejo heliotrope
+
+vieja rosa
+
+verde oliva
+
+olivo drab
+
+oliva ocre
+
+olivine
+
+olo
+
+naranja ocre
+
+orquídea
+
+opiment
+
+oxblood
+
+palatinato
+
+palatinado azul
+
+palatinado morado
+
+melocotón
+
+pera verde
+
+pera amarilla
+
+peridot
+
+periwinkle
+
+persimmon
+
+phlox
+
+azul picoteado
+
+verde
+
+pinar
+
+rosa
+
+lavanda rosa
+
+pistacho
+
+font
+
+ponceau
+
+amapola roja
+
+polvo azul
+
+prase
+
+primrose amarillo
+
+cachorro
+
+calabaza
+
+morado
+
+morado
+
+morado taupe
+
+purpura
+
+purpureus
+
+quartz
+
+quercitron
+
+frambuesa
+
+rosa de frambuesa
+
+realgar
+
+esmeralda roja
+
+rojo ocre
+
+rej
+
+cohete verde
+
+rockmelon
+
+rosa
+
+cuarzo de rosa
+
+rose vale
+
+rúbrica
+
+rubí
+
+rubio azul
+
+rupias
+
+russet
+
+óxido
+
+safflower naranja
+
+saffron
+
+salmón
+
+sanguine
+
+salto verde
+
+zafiro
+
+azul marino
+
+verde
+
+sepia
+
+scarlet
+
+esmeralda
+
+rosa impactante
+
+sienna
+
+plata
+
+rosa de plata
+
+sinopia
+
+skobeloff
+
+cielo azul
+
+cielo magenta
+
+pizarra
+
+azul pizarra
+
+smalt
+
+smaragdine
+
+violeta de brujo
+
+primavera
+
+verde primavera
+
+acero azul
+
+fresa roja
+
+estroncio amarillo
+
+tamarind
+
+tang azul
+
+tangerina
+
+taupe
+
+tawny
+
+té verde
+
+teal
+
+teal azul
+
+teal verde
+
+telemagenta
+
+terracotta
+
+terre verte
+
+esteto
+
+ojo de tigre
+
+titanio amarillo
+
+tomate rojo
+
+topacio
+
+cúrcuma
+
+turquesa
+
+ulfire
+
+ultramarine
+
+umber
+
+vainilla
+
+verdigris
+
+vermilión
+
+verónica
+
+viridian
+
+nogal
+
+sandía verde
+
+sandía roja
+
+wenge
+
+trigo
+
+vino
+
+wisteria
+
+xanthic
+
+xanthous
+
+yam
+
+amarillo ocre
+
+zaffre
+
+zinc amarillo
+
+zinnwaldite
+
+zomp
+
+verde calabacín
+%%%%
+mono_colour
+
+negro
+
+blanco
+
+gris
+%%%%
+any_colour
+
+w:40
+@rainbow_colour@
+
+#
+@misc_colour@
+
+@mono_colour@
+%%%%
+any_pattern
+
+arabesque
+
+flechas
+
+cheques
+
+chevrons
+
+diamantes
+
+llamador
+
+fractales
+
+gingham
+
+herringbone
+
+houndstooth
+
+manchas de leopardo
+
+ogee
+
+ombre
+
+paisley
+
+pinstripes
+
+trenzado
+
+lunares
+
+quatrefoil
+
+rayas
+
+espirales
+
+manchas
+
+cuadrados
+
+estrellas
+
+tartan
+
+triángulos
+
+whorls
+%%%%
+# Any word other than "glowing" itself will work here, as long as it's
+# not already in @_writing_adj_@ in graffiti.txt.
+glowing_adj
+
+brillante
+
+brillante
+
+oscuro
+
+dull
+
+dusky
+
+débil
+
+gleaming
+
+brillante
+
+intenso
+
+luminoso
+
+lúcido
+
+lujurioso
+
+mottled
+
+#
+
+pálida
+
+shimmering
+
+brillando
+
+vívido
+%%%%
+any_glowing_colour
+
+@glowing_adj@ @any_colour@
+%%%%
+# Patterns can be single colour or two colours. There's a chance of the
+# two colours being the same but in practise it happens little enough to
+# just be funny when it does.
+any_colour_pattern
+
+@any_colour@ @any_pattern@
+
+@any_colour@ en @any_colour@ @any_pattern@
+%%%%
+any_glowing_colour_pattern
+
+@any_glowing_colour@ @any_pattern@
+
+@any_glowing_colour@ en @any_colour@ @any_pattern@
+
+@any_colour@ en @any_glowing_colour@ @any_pattern@
+
+@any_glowing_colour@ en @any_glowing_colour@ @any_pattern@

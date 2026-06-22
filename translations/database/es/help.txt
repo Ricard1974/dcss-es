@@ -5,25 +5,25 @@ pick-up
 
 <h>Navigación y selección de artículos</h>
 Utilice las teclas de navegación usuales (<w>arrow</w>, <w>pgdn</w>/<w>pgup</w>, <w>home</w>, <w>end</w>) para seleccionar
-artículos, y <w>Espacio</w>/§AG 16§.§AG17 § toggle whether the selected item Will be picked up or
-Se cayó. Presionando la clave de letra de un artículo Will también para cambiar su estado de recolección / goteo.
+artículos, y <w>Espacio</w>/AG 16. toggle whether the selected item be picked up or
+Se cayó. Presionando la clave de letra de un artículo también para cambiar su estado de recolección / goteo.
 Engranajes, pociones, pergaminos y elementos evocables están en páginas separadas que pueden ser
-conmutado por <w>-left arrow</w> y §AG20right arrow</w> o <w>Tab</w> y <w>Shift-Tab</w>.
+conmutado por <w>-left arrow</w> y right arrow</w> o <w>Tab</w> y <w>Shift-Tab</w>.
 Pulse <w>Retorno</w> para aceptar el conjunto actual de elementos.
 
-Introducir un número antes de seleccionar por carta Will cambiar sólo esa cantidad de
+Introducir un número antes de seleccionar por carta cambiar sólo esa cantidad de
 una pila de elementos.
 
 <h> Expresiones regulares</h>
 Puede presionar <w>Ctrl-F</w> para introducir una palabra (o una expresión regular). Todos coinciden
-ítems Will ser seleccionados.
+ítems ser seleccionados.
 
 <h>Atajos católicos</h>
 Puede seleccionar rápidamente elementos por tipo pulsando:
-<w>!</w> potions <w>(§AG37 weapons <w>)</w> ammunition <w>[</w> armour
-<w>/</w> wands <w> mandatoAG45§ magic staves <w>?</w> rollos <w>:</w> libros
-<w>"</w> amulets <w>=AG53§ anillos <w>}</w> miscellaneous
-Global selects: <w>,</w> select all <w>*§59§ invert all <w>-</w> deselect all
+<w>!</w> potions <w>( weapons <w>)</w> ammunition <w>[</w> armour
+<w>/</w> wands <w> mandato magic staves <w>?</w> rollos <w>:</w> libros
+<w>"</w> amulets <w>= anillos <w>}</w> miscellaneous
+Global selects: <w>,</w> select all <w>*59 invert all <w>-</w> deselect all
 <w>;</w> select last unequipped
 Tenga en cuenta que para el descenso, el comando <w>,</w> utiliza la opción <w>drop filter</w>, que
 reduce la gama de artículos a ser (de)selected. El defecto es todo inútil.
@@ -35,26 +35,26 @@ known-menu
 
 <h>Navigación y selección de artículos</h>
 Utilice las teclas de navegación usuales (<w>arrow</w>, <w>pgdn</w>/<w>pgup</w>, <w>home</w>, <w>end</w>) para seleccionar
-artículos, y <w>Espacio</w>/§AG 16§.§AG17 § toggle the autopickup mode for the selected item type.
-Presionando la clave de letra de un tipo de artículo Will también para cambiar su estado de autopickup.
+artículos, y <w>Espacio</w>/AG 16. toggle the autopickup mode for the selected item type.
+Presionando la clave de letra de un tipo de artículo también para cambiar su estado de autopickup.
 
-§AG18 §Selecting item types</h>
+ Selecting item types</h>
 Tipos de elementos mostrados en gris usan las opciones predeterminadas de autopickup establecidas en su
 archivo de configuración. (Los temas que son inútiles para su carácter se muestran
 en <darkgrey> gris oscuro</darkgrey>.) Seleccionar un tipo de artículo anula esas opciones
 (indicado por <w> white</w> texto), y recorta el artículo entre los estados:
-<w>+</w> Los artículos de este tipo Will se recogen automáticamente.
-<w>-</w> Los artículos de este tipo Will no se recogen automáticamente.
+<w>+</w> Los artículos de este tipo se recogen automáticamente.
+<w>-</w> Los artículos de este tipo no se recogen automáticamente.
 Autopickup también se puede cambiar para todos los artículos desconocidos de una categoría determinada.
 
 <h>Atajos de Categoria</h>
 Puede seleccionar rápidamente todos los tipos de elementos en una categoría determinada pulsando:
-<w>!</w> pociones <w>?§AG33 rollos <w>(</w> ammunition <w>"</w> amulets
-<w>=</w> rings <w>/§AG41 wands <w> 43§ palomas mágicos
-Global selects: <w>*</w> invert all §AG46^§47§ reset all to default
+<w>!</w> pociones <w>? rollos <w>(</w> ammunition <w>"</w> amulets
+<w>=</w> rings <w>/ wands <w> 43 palomas mágicos
+Global selects: <w>*</w> invert all ^47 reset all to default
 
-§AG48 § Viewing unknown and known items</h>
-<w>\</w> y <w>-§AG53 § toggle entre los menús de elementos conocidos y desconocidos. Nota
+ Viewing unknown and known items</h>
+<w>\</w> y <w>- toggle entre los menús de elementos conocidos y desconocidos. Nota
 que ninguna de las características anteriores están disponibles en el menú de elementos desconocidos.
 
 <h>Restoring autopickup defaults</h>
@@ -64,7 +64,7 @@ Ajustes.
 
 <h> Expresiones reglamentarias</h>
 Puede presionar <w>Ctrl-F</w> para introducir una palabra (o una expresión regular).
-Se seleccionan todos los elementos que coincidan Will.
+Se seleccionan todos los elementos que coincidan .
 
 %%%%
 stash-search.prompt
@@ -81,29 +81,29 @@ Algunos ejemplos de cadenas de búsqueda:
 <w>shop</w> enumera todas las tiendas. Presione <w>!</w> y la carta de una tienda para el stock.
 <w>Lair:2</w> encontrar todo lo que se sabe que está en Lair:2.
 <w>/D:[2-4]</w> encuentra todo en los niveles de Dungeon 2-4. Regexes está permitido!
-Note que /D:[3-10] Will no funciona como se desea, ya que [x-y] es un
+Note que /D:[3-10] no funciona como se desea, ya que [x-y] es un
 rango de caracteres regex.
 <w>rPois</w> encuentra todos los elementos con una resistencia rPois.
 <w>rC++</w> encuentra todos los elementos con una resistencia rC++.
 <w>+3</w> encuentra todos los elementos con un hechizo +3.
-<w>/Lair.*axe</w> y §AG22axe " Lair</w> ambos muestran todos los ejes en la Guarida.
+<w>/Lair.*axe</w> y axe " Lair</w> ambos muestran todos los ejes en la Guarida.
 
 Algunos atajos:
 <w>.</w> lista todo a su nivel actual.
 <w>..</w> enumera todos los elementos que conoces.
-<w>0</w> al <w>9§AG31 enumera todos los elementos en el punto de referencia especificado.
+<w>0</w> al <w>9 enumera todos los elementos en el punto de referencia especificado.
 <w>*</w> enumera todos los elementos en todos los puntos.
-<w>@§AG35</w> lists everything matching <<query> on your current level.
-<w>/<<regex><w>0§ lists items matching <w>1§ as a regular expression.
-<w>2§=<w>3<w>4§ lists items containing <w>5§ as a substring.
+<w>@</w> lists everything matching <<query> on your current level.
+<w>/<<regex><w>0 lists items matching <w>1 as a regular expression.
+<w>2=<w>3<w>4 lists items containing <w>5 as a substring.
 
-También puede examinar tiendas y artículos en los resultados de la búsqueda pulsando <w>6§? <w>7§ and
-luego seleccionando el hotkey para el resultado de la búsqueda. Este Will da una descripción
+También puede examinar tiendas y artículos en los resultados de la búsqueda pulsando <w>6? <w>7 and
+luego seleccionando el hotkey para el resultado de la búsqueda. Este da una descripción
 del artículo o el contenido de la tienda.
 
 La cadena de búsqueda es insensible.
 
-<w>8 § Búsqueda por propiedades del artículo:<w>9§
+<w>8 Búsqueda por propiedades del artículo:<w>9
 
 Tú puede buscar nombres de hechizos (como <w>Ignite Poison</w>) para encontrar libros de hechizos
 que contienen el hechizo.
@@ -112,37 +112,37 @@ Puede buscar propiedades de elementos de artefacto (como <w>/prevents.*teleport<
 encontrar artefactos que tengan la propiedad.
 
 Tú puede buscar por algunas propiedades adicionales del artículo: <w>artefact</w> o
-<w>artifact</w> Will encontrar artefactos identificados, <w>ego</w> o <w>
-Will encontrar no-artefactos con una marca y objetos no identificados que pueden ser
-branded, <w>throwable§AG63 Will encontrar cosas puedes tira, <w>dropped</w> Will
-encontrar artículos tienes caído, <w>in shop§AG67 Will encontrar artículos en tiendas, y (si
-la opción autopickup search está habilitada) <w>autopickupAG69§ Will encontrar elementos que
+<w>artifact</w> encontrar artefactos identificados, <w>ego</w> o <w>
+ encontrar no-artefactos con una marca y objetos no identificados que pueden ser
+branded, <w>throwable encontrar cosas puedes tira, <w>dropped</w> 
+encontrar artículos tienes caído, <w>in shop encontrar artículos en tiendas, y (si
+la opción autopickup search está habilitada) <w>autopickup encontrar elementos que
 sería automáticamente recogido.
 
-Nombres de habilidad (como <w>Polearms§AG71 o §AG72Hojas largas</w>) Will encontrar todas las armas que
-Entrena esa habilidad. También puede buscar <w> arma fundida</w> y §AG76 arma ordenada</w>.
+Nombres de habilidad (como <w>Polearms o Hojas largas</w>) encontrar todas las armas que
+Entrena esa habilidad. También puede buscar <w> arma fundida</w> y arma ordenada</w>.
 
-También puede buscar por tipos de elementos tales como <w>book§AG§79 o <w>manual</w> o <w>jewellery</w>.
+También puede buscar por tipos de elementos tales como <w>bookAG79 o <w>manual</w> o <w>jewellery</w>.
 Para ranuras de armadura, use <w>helmet</w> (todos los headgear), <w>gloves</w>, <w>shield</w>, y <w>body</w>.
 Use <w>armour " .body</w> para enumerar todas las piezas de armadura excepto la armadura corporal.
 
-§AG94 §Finding Dungeon Características:</h>
+ Finding Dungeon Características:</h>
 
-Tú puede buscar características de mazmorras por nombre: todas las tiendas Will se encuentran por una búsqueda
-para <w>shop§</w> (incluyendo tiendas que no tienen "shop" en su nombre); otros
-características de mazmorras también se puede encontrar por nombre: <w> trampa dispersaAG99§, <w>altar</w>,
-etc. También puede buscar altares por nombre de la deidad: §AG102ZinAG103§.
+Tú puede buscar características de mazmorras por nombre: todas las tiendas se encuentran por una búsqueda
+para <w>shop</w> (incluyendo tiendas que no tienen "shop" en su nombre); otros
+características de mazmorras también se puede encontrar por nombre: <w> trampa dispersa, <w>altar</w>,
+etc. También puede buscar altares por nombre de la deidad: Zin.
 
 <h>Non-regex operadores:</h>
 
-Tú puede utilizar !! para negar una cadena de búsqueda, " punto para un booleano Y,  durable para
+Tú puede utilizar !! para negar una cadena de búsqueda, " punto para un booleano Y, durable para
 boolean OR, y <<<< > para agrupar.
 
-Por ejemplo, para encontrar anillos (jewellery) pero no §GT§6 tú podría utilizar:
+Por ejemplo, para encontrar anillos (jewellery) pero no GT6 tú podría utilizar:
 <w>ring " sensible !mail</w>
 
-Note que <w>/</w> y <w>=AG112§ se aplican a patrones individuales, no a toda la consulta:
-debe buscar <w>armour " , y/r(C habitF sometida§NTPois AnteriorElec)</w>, no
+Note que <w>/</w> y <w>= se aplican a patrones individuales, no a toda la consulta:
+debe buscar <w>armour " , y/r(C habitF sometidaNTPois AnteriorElec)</w>, no
 <w>/armour " r(C habitF intimidadPoissometidaElec)</w>.
 
 %%%%
@@ -152,8 +152,8 @@ level-map
 <w>Esc</w> : Mapa de nivel de hojas (también <w>Pace</w> o cualquier clave no usada).
 <w>Dir.</w> : Mover el cursor.
 <w>Shift-Dir.</w> : Mover el cursor en pasos más grandes (7 por defecto).
-<w>-</w> o <w>+§AG 16§ : Scroll nivel mapa 20 rejillas arriba o abajo.
-<w>.</w> : Comience el viaje (también <w>Enter§20§ y <w>,</w> y <w>;</w>).
+<w>-</w> o <w>+AG 16 : Scroll nivel mapa 20 rejillas arriba o abajo.
+<w>.</w> : Comience el viaje (también <w>Enter20 y <w>,</w> y <w>;</w>).
 (Moves cursor al último destino de viaje si sigue en @.)
 <w>[</w> o <w>]</w> : Examinar el siguiente nivel superior o inferior.
 (Moves cursor al destino de la escalera si una escalera conocida es
@@ -181,12 +181,12 @@ su radio a #, donde # es un número de 1 a 8.
 <w>O</w> : Ciclo atrasado a través de todos los elementos.
 <w> </w> : Ciclo a través de altares.
 
-§AG71 § Other</h>
+ Other</h>
 <w>v</w> : Examinar el último estado recordado de la baldosa indicada.
 <w>!</w> : Nivel anotado.
 <w>Ctrl-C</w> : Memoria de monstruo claro.
 <w>Ctrl-F</w> : Olvídate del mapa de nivel.
-<w>Ctrl-U</w> : Restaurar el plano olvidado.  LUA0   
+<w>Ctrl-U</w> : Restaurar el plano olvidado. LUA0 
 
 %%%%
 interlevel-travel.branch.prompt
@@ -194,7 +194,7 @@ interlevel-travel.branch.prompt
 <h> Viajes de nivel (elegir una rama):
 Utilice la carta de acceso directo para una rama para seleccionar la rama para viajar.
 
-Una vez que seleccione una rama, tú Will debe ser impulsado para una profundidad en que
+Una vez que seleccione una rama, tú debe ser impulsado para una profundidad en que
 rama (hay más ayuda disponible allí).
 
 <w>Tab</w> : Repita el último viaje internivel.
@@ -203,7 +203,7 @@ rama (hay más ayuda disponible allí).
 <w> titulada</w> : Baja las escaleras más cercanas.
 <w>Ctrl-P</w> : Viaje a un nivel en la rama por encima de éste.
 <w>*</w> : Mostrar puntos de acceso disponibles (si se establece alguno).
-<w>0</w>-<w>9§AG16: Vaya al punto de referencia numerado.
+<w>0</w>-<w>9: Vaya al punto de referencia numerado.
 <w> </w> : Mostrar altares disponibles (si alguno es descubierto).
 
 %%%%
@@ -226,7 +226,7 @@ interlevel-travel.altar.prompt
 Utilice la letra atajo (la inicial de un dios, con TSO siendo reemplazado por 1)
 para seleccionar el altar para viajar.
 
-Una vez que seleccione un dios, tú Will comienza a viajar al altar más cercano.
+Una vez que seleccione un dios, tú comienza a viajar al altar más cercano.
 
 <w>Enter</w> : Repita el último viaje internivel.
 
@@ -251,9 +251,9 @@ la experiencia se utiliza para formar habilidades. La pantalla de habilidad le p
 habilidades para entrenar.
 
 Al presionar su carta, puedes ciclo si y cómo se entrena una habilidad:
-<darkgrey>- deselected</darkgrey> Habilidad Will no se entrena.
-+ seleccionado Skill Will ser entrenado.
-<w>* focalizado</w> Habilidad Will ser ponderado más alto para el entrenamiento.
+<darkgrey>- deselected</darkgrey> Habilidad no se entrena.
++ seleccionado Skill ser entrenado.
+<w>* focalizado</w> Habilidad ser ponderado más alto para el entrenamiento.
 
 Presionar una carta de capital selecciona esa habilidad y deselecciona a todos los demás.
 Este atajo es útil cuando quieres entrenar sólo una habilidad.
@@ -263,18 +263,18 @@ El entrenamiento se puede realizar en dos modos, que se rebosan con la tecla <w>
 - manual: La experiencia se extiende uniformemente a través de todas las habilidades activadas.
 
 In training target mode puedes set skill training targets: target skill levels
-en el que la formación de la habilidad Will se deshabilita automáticamente.
+en el que la formación de la habilidad se deshabilita automáticamente.
 
 Cuán rápido entrenas una habilidad se rige por los siguientes factores:
 - aptitude: Mostrar <white>white</white> en la columna Apt. Los números superiores significan que menos
 se necesita experiencia para avanzar una habilidad. Depende de la especie.
-- manuales de habilidad: Libros raros que dan un bono de aptitud de <lightred>+4§11§ en una habilidad.
+- manuales de habilidad: Libros raros que dan un bono de aptitud de <lightred>+411 en una habilidad.
 
 Por encima de eso, hay algunos efectos que modifican directamente una habilidad, para
 ejemplo de haber entrenado una habilidad relacionada (entrenamiento), o ciertos poderes de dios.
 Las habilidades reducidas se muestran en <magenta>magenta</magenta>, y habilidades mejoradas en <green>green</green>.
 El porcentaje de formación (en <brown>brown</brown>) muestra la cantidad relativa de experiencia
-que Will ser utilizado para entrenar esta habilidad.
+que ser utilizado para entrenar esta habilidad.
 
 Aparte de (de) habilidades selectivas, también tiene las siguientes gafas:
 <w>/</w> : Interruptor entre modos de entrenamiento automático y manual.
@@ -295,20 +295,20 @@ spell-library
 
 Por defecto, la biblioteca de hechizos se abre a la página <w>Memorise</w>; para comenzar a memorizar una
 hechizo, sólo presione su carta. Para leer la descripción de un hechizo, primer cambio a
-el <w>Describir</w> página pulsando <w>Tab§AG§25§, luego presionar la carta del hechizo.
+el <w>Describir</w> página pulsando <w>TabAG25, luego presionar la carta del hechizo.
 
-La mayoría de los caracteres Will no están interesados en memorizar la mayoría de los hechizos que
-acumular en su biblioteca de hechizos; aquí es donde las páginas <w>Mostrar§AG27 y <w>Hide§AG§29
+La mayoría de los caracteres no están interesados en memorizar la mayoría de los hechizos que
+acumular en su biblioteca de hechizos; aquí es donde las páginas <w>Mostrar y <w>HideAG29
 útil. Para ocultar un hechizo de las <w>Memorise</w> y <w>Descripción</w> páginas, pulse su hechizo
 carta de la página <w>Hide</w>. Los hechizos ocultos se pueden mostrar de nuevo desde la página <w>Mostrar</w>.
 
 La opción <w>auto hide spells</w> puede ser útil; cuando está activada, todo recién descubierto
 Los hechizos están ocultos por defecto.
 
-<w>Ctrl-F</w> se puede utilizar para filtrar la lista de hechizos. Cualquier filtro establecido de esta manera Will
+<w>Ctrl-F</w> se puede utilizar para filtrar la lista de hechizos. Cualquier filtro establecido de esta manera 
 persistir hasta que la biblioteca de hechizos esté cerrada y reabierta, o hasta que un nuevo filtro sea
 establecido con <w>Ctrl-F</w>. Si <w>Enter</w> es presionado en el aviso sin entrar ningún texto,
-que Will restablecer el filtro a ninguno.
+que restablecer el filtro a ninguno.
 Puedes filtrar hechizos por nombre y por escuela de hechizos.
 
 %%%%
@@ -317,26 +317,26 @@ wiz-monster
 <h>Crear monstruo especificado</h>
 
 Para crear un monstruo con el equipo predeterminado para su especie, simplemente entre
-el nombre de la especie, como <w>KoboldAG3§ o <w>Yiuf</w>.
+el nombre de la especie, como <w>Kobold o <w>Yiuf</w>.
 
 Se puede dar una hidratación o slymdra un número específico de cabezas llamándola una
 n<w>-headed</w> <w>hydra</w> o n<w>-headed</w> <w>slymdra</w> (con un máximo de 20 cabezas):
 
-§AG14 §four-headed hydra</w>
+ four-headed hydra</w>
 
 Para establecer el color un (muy) cosa horrible toma cuando se crea por primera vez, utilice:
 
-<w>white very cosa horribleAG17§
+<w>white very cosa horrible
 
-Los colores válidos son <w>brown</w>, <w>cyan</w>, <w>green</w>, <w>purple</w>, §AG26</w> y <w>white</w>.
+Los colores válidos son <w>brown</w>, <w>cyan</w>, <w>green</w>, <w>purple</w>, </w> y <w>white</w>.
 
 Una bestia mutante se puede personalizar prefazándola con un nivel de madurez y/o
 conjunto de rasgos separados por el hifeno, como sigue:
 
-§AG30 §mature shock-weird mutant animals</w>
+ mature shock-weird mutant animals</w>
 
-Los niveles de madurez válidos son <w>larval</w>, §AG34juvenile</w>, <w>mature</w>, <w>elder</w> y <w>primal</w>. El
-facetas son <w>sting</w>, §AG44bat</w>, <w>fire</w>, <w>weird</w>, <w>shock</w> y <w>ox</w>.
+Los niveles de madurez válidos son <w>larval</w>, juvenile</w>, <w>mature</w>, <w>elder</w> y <w>primal</w>. El
+facetas son <w>sting</w>, bat</w>, <w>fire</w>, <w>weird</w>, <w>shock</w> y <w>ox</w>.
 
 El tamaño de una criatura slime se puede establecer a otro de lo normal usando los prefijos
 <w>large</w>, <w>muy grande</w>, <w>enormous</w> o <w>titanic</w>:
@@ -349,25 +349,25 @@ miembros de la banda añadiendo la palabra clave <w>band</w> al nombre. Por ejem
 <w>orc warlord band</w>
 
 Especificar <w>band</w> no obliga a las bandas a colocar - pide que el juego
-usa las posibilidades normales de crear una banda. Una banda Will sólo se coloca si allí
+usa las posibilidades normales de crear una banda. Una banda sólo se coloca si allí
 Es espacio para ello.
 
 Un monstruo puede ser dado elementos específicos siguiendo el nombre del monstruo con un
 semicolon y luego con una lista de artículos. Por ejemplo:
 
-<w>orc ; rapier  durable hoja rápida . cota de malla tención armadura de placas</w>
+<w>orc ; rapier durable hoja rápida . cota de malla tención armadura de placas</w>
 
-Will generan un pelado de orc ya sea un rapero o una hoja rápida y usando
+ generan un pelado de orc ya sea un rapero o una hoja rápida y usando
 o cota de malla o armadura de placas. Randarts y objetos del ego sólo se generan
 si se les solicita explícitamente. Tenga en cuenta que cualquier elemento que el monstruo era
-originalmente generado con Will ser eliminado y destruido. Esto se puede utilizar
+originalmente generado con ser eliminado y destruido. Esto se puede utilizar
 forzar a un monstruo a no tener elementos en absoluto:
 
-<w>orc; nada §</w>
+<w>orc; nada </w>
 
-Para más información, véase <cyan>docs/develop/levels/syntax.txt§75§, sección <cyan>ITEMS</cyan>.
+Para más información, véase <cyan>docs/develop/levels/syntax.txt75, sección <cyan>ITEMS</cyan>.
 Cualquier referencia a una barra (<w>/</w>) debe ser reemplazada por una tubería (<w> perpetua</w>) y cualquier coma
-(<w>,</w>) con una parada completa (§AG84.§85§).
+(<w>,</w>) con una parada completa (.85).
 
 La misma sintaxis también se utiliza para crear un tipo específico de arma de baile:
 
@@ -377,18 +377,18 @@ Limitaciones: Si un monstruo recibe un lanzador al azar, no hay manera de forzar
 el tipo de munición para que coincida con el tipo de lanzador. Sin embargo, como caso especial
 arma de baile de lanzadores siempre se genera con alguna munición adecuada.
 
-Puede especificar que un monstruo Will siempre genera un cuerpo usando la etiqueta
-<w>always corpse</w>, o que Willnunca genera un cuerpo con </w>0§never corpse</w>1§.
+Puede especificar que un monstruo siempre genera un cuerpo usando la etiqueta
+<w>always corpse</w>, o que Willnunca genera un cuerpo con </w>0never corpse</w>1.
 
 Por defecto, los monstruos se generan dormidos. Esto se cambia prefijando el
-nombre con </w>2§generate awake</w>3§.
+nombre con </w>2generate awake</w>3.
 
-</w>4§generate awake boulder beetle</w>5 §
+</w>4generate awake boulder beetle</w>5 
 
-Un prefijo de </w>6§patrolling</w>7§ evita que salga de la vista del lugar
+Un prefijo de </w>6patrolling</w>7 evita que salga de la vista del lugar
 donde fue creado.
 
-Tú puede establecer el dios del monstruo usando el </w>8§god</w>9§: especificador como sigue:
+Tú puede establecer el dios del monstruo usando el </w>8god</w>9: especificador como sigue:
 
 <w>orc god:the shining one</w>
 
@@ -397,41 +397,41 @@ con <w>god gift</w>:
 
 <w>orc god:the shining one god gift</w>
 
-Tenga en cuenta que el monstruo Will no se considera un regalo de dios a menos que §AG106god gift</w>
+Tenga en cuenta que el monstruo no se considera un regalo de dios a menos que god gift</w>
 explícitamente establecido.
 
 Puede establecer la facción del monstruo especificando <w>at</w>: uno de:
 
 * <w>att:hostile</w> -- the default
-* <w>att:friendly</w> -- tame, Will follow you
+* <w>att:friendly</w> -- tame, follow you
 * <w>att:neutral</w> -- hostil tanto a ti como al att: monstruos hostiles
-* <w>att:good neutral§AG 117§ -- hostil to att:hostile
-* <w>att:fellow slime§AG 119§ -- tame, no te seguirá
+* <w>att:good neutralAG 117 -- hostil to att:hostile
+* <w>att:fellow slimeAG 119 -- tame, no te seguirá
 
 Los monstruos se pueden dar colores que anulan su color predeterminado:
 
 <w>col: hongo oscuro</w>
 
-Se puede dar el color <w>cada</w>, en cuyo caso se elige un color al azar Will.
+Se puede dar el color <w>cada</w>, en cuyo caso se elige un color al azar .
 
-Puede anular el azulejo del monstruo mostrado usando el <w>tileAG125§: especificador como
+Puede anular el azulejo del monstruo mostrado usando el <w>tile: especificador como
 A continuación:
 
-§AG126 §rat tile:mons giant bat</w>
+ rat tile:mons giant bat</w>
 
 En la versión de los azulejos, esto crearía un monstruo que utiliza el "<cyan>mons giant bat</cyan>"
-azulejo, pero es idéntico a una rata. En el modo ASCII, este Will hace
+azulejo, pero es idéntico a una rata. En el modo ASCII, este hace
 nada.
 
 Si quieres colocar un monstruo aleatorio adecuado para el nivel del mapa es
 generado en, puedes uso
 
-§AG130 §§leanario§AG131 §
+ leanario 
 
-Si quieres colocar un monstruo aleatorio adecuado para algún otro lugar, §GT§8
+Si quieres colocar un monstruo aleatorio adecuado para algún otro lugar, GT8
 usar un lugar: etiqueta en la especie monstruo:
 
-<w>place:AbyssAG133§
+<w>place:Abyss
 
 Utilizando <w>place</w>: implica que quieres un monstruo aleatorio. También puede solicitar
 zombies de monstruos aleatorios adecuados para alguna otra profundidad como (por ejemplo):
@@ -444,38 +444,38 @@ Los modificadores disponibles son <w>zombie</w>, <w>draugr</w>, <w>simulacrum</w
 
 Los monstruos individuales se pueden dar nombres como sigue:
 
-§AG148 §Kobold name:Durwent§AG149
+ Kobold name:Durwent
 
-Este Will hace que el monstruo aparezca como "<cyan>Durwent the KoboldAG151§". Los espacios pueden ser
-colocado en el nombre sustituyéndolos con el símbolo  . Vale la pena notar
-que "§AG152 §AG153</cyan>" Will sea anexado a todos los nombres, que debe ser considerado
+Este hace que el monstruo aparezca como "<cyan>Durwent the Kobold". Los espacios pueden ser
+colocado en el nombre sustituyéndolos con el símbolo . Vale la pena notar
+que " </cyan>" sea anexado a todos los nombres, que debe ser considerado
 cuando se les acerca.
 
 Hay tres modificadores diferentes que se pueden utilizar en un nombre:
-<w>name adjective</w>, §AG157name§ suffix y </w> replace. <w>name adjective</w> hace el
+<w>name adjective</w>, name suffix y </w> replace. <w>name adjective</w> hace el
 El nombre actúa como adjetivo. Por ejemplo:
 
-§AG161Kobold name:ugly name adjective</w>
+Kobold name:ugly name adjective</w>
 
-Will causa "<cyan>Un feo KoboldAG164§", "<cyan>El feo Kobold te golpea</cyan>", etc.
+ causa "<cyan>Un feo Kobold", "<cyan>El feo Kobold te golpea</cyan>", etc.
 
 <w>name suffix</w> hace lo mismo, pero después del nombre base del monstruo:
 
-§AG169Kobold nombre:wearing mittens name suffix</w>
+Kobold nombre:wearing mittens name suffix</w>
 
-Will dar "<cyan>A Kobold usar mittens</cyan>", "<cyan>El Kobold usar mittens golpea tú</cyan>",
+ dar "<cyan>A Kobold usar mittens</cyan>", "<cyan>El Kobold usar mittens golpea tú</cyan>",
 y así sucesivamente.
 
 <w>name replace</w> hace que el nombre base sea reemplazado por el nombre dado, como si el
 monstruo era un único:
 
-§AG177Kobold nombre:Durwent name replaceAG178§
+Kobold nombre:Durwent name replace
 
-Will result in "<cyan>Durwent§AG180" rather than "<cyan>Durwent the Kobold</cyan>". El cadáver Will
+ result in "<cyan>Durwent" rather than "<cyan>Durwent the Kobold</cyan>". El cadáver 
 todavía ser un "<cyan>Kobold cuerpo de Durwent</cyan>".
 
 <w>name species</w> utiliza el nombre para los cadáveres como-es, sin prefijarlo con
-"<cyan>KoboldAG188 §AG189corpse of X</cyan>" para <w>name replace</w>. También evita la etiqueta de nombre habitual
+"<cyan>KoboldAG188 corpse of X</cyan>" para <w>name replace</w>. También evita la etiqueta de nombre habitual
 que muestra sobre monstruos únicos y renombrados en azulejos locales.
 
 En combinación con <w>name replace</w> o <w>name species</w>, hay dos etiquetas adicionales
@@ -484,35 +484,35 @@ que se puede utilizar al renombrar monstruos, pero no darles un verdadero "nombr
 
 Por ejemplo:
 
-§AG201Kobold nombre:goblin name replace</w>
+Kobold nombre:goblin name replace</w>
 
-Will result in "<cyan>goblin hits you</cyan>". Sin embargo, añadir <w>name descriptor</w> del
-arriba banderas Will resultado en "<cyan> El goblin te golpea</cyan>" y en la descripción de la
+ result in "<cyan>goblin hits you</cyan>". Sin embargo, añadir <w>name descriptor</w> del
+arriba banderas resultado en "<cyan> El goblin te golpea</cyan>" y en la descripción de la
 monstruo, "<cyan>A goblin</cyan>".
 
-§AG211Kobold nombre:goblin name replace name descriptor</w>
+Kobold nombre:goblin name replace name descriptor</w>
 
 El <w>name definite</w> flag garantiza que nunca se conoce como "<cyan>a</cyan>" o "<cyan>an</cyan>",
-pero que el objeto definido siempre se utiliza. Por lo tanto, tú Will ver "<cyan>
+pero que el objeto definido siempre se utiliza. Por lo tanto, tú ver "<cyan>
 <cyan>goblin</cyan> <cyan> te da </cyan> , como por arriba, pero también "<cyan>El goblin</cyan>" en su descripción.
-Ajuste <w>name definite</w> Willestablece automáticamente la bandera <w>name descriptor§AG229 §
+Ajuste <w>name definite</w> Willestablece automáticamente la bandera <w>name descriptor 
 por lo tanto significa que:
 
-§AG230Kobold nombre:goblin name replace name definite</w>
+Kobold nombre:goblin name replace name definite</w>
 
 es exactamente lo mismo que:
 
-§AG232Kobold nombre:goblin name replace name descriptor name definite</w>
+Kobold nombre:goblin name replace name descriptor name definite</w>
 
 <w>name zombie</w> se puede utilizar para redefinir monstruos ya zombificados (incluyendo
 draugr, simulacra y espectrals).
 
-Finalmente, <w>name nocorpse</w> Will hacer que el nombre sea completamente ignorado por
+Finalmente, <w>name nocorpse</w> hacer que el nombre sea completamente ignorado por
 cadáveres. Por ejemplo:
 
-§AG238 § name:sad name adjective name nocorpse</w>
+ name:sad name adjective name nocorpse</w>
 
-Will result in "<cyan>a sad wizard</cyan>" que deja "<cyan>a wizard corpse</cyan>".
+ result in "<cyan>a sad wizard</cyan>" que deja "<cyan>a wizard corpse</cyan>".
 
 Para casos en que el espacio en las definiciones es limitado, puedes utilizar abreviado
 formas de estas etiquetas:
@@ -526,42 +526,42 @@ formas de estas etiquetas:
 * <w>name zombie</w> - Propiedad <w>n zom</w>
 * <w>name nocorpse</w> - Propiedad <w>n noc</w>
 
-§AG276 §Overriding Monster Stats</h>
+ Overriding Monster Stats</h>
 
 La personalización de más monstruos se puede hacer utilizando <w>hd</w> y <w>hp</w>. Estas dos etiquetas
 le permite sobreescribir completamente los dados originales y puntos de vida de un
 monstruo:
 
-§AG282 §Kobold hd:20</w>
+ Kobold hd:20</w>
 
 Crea un Kobold con un dado de 20. Como su hp es aleatorizado, basado en su
-hit dados, este Will también será re-rollado. Monstruos con un punto de éxito específico
-valor Will no tiene este cambio de valor.
+hit dados, este también será re-rollado. Monstruos con un punto de éxito específico
+valor no tiene este cambio de valor.
 
 También puede tener un valor específico para puntos de vida:
 
-§AG284Kobold hp:20</w>
+Kobold hp:20</w>
 
 Crea un Kobold con 20 puntos de vida. Esto también es útil para los monstruos (como
 estatuas) que vienen con valores HP no aleatorios.
 
-Los monstruos pueden ser marcados como convocados usando <w>durAG287§ y <w>sum</w> tags. La etiqueta <w>dur</w>
+Los monstruos pueden ser marcados como convocados usando <w>dur y <w>sum</w> tags. La etiqueta <w>dur</w>
 acepta un entero entre 1 y 6 inclusive. La etiqueta <w>sum</w> acepta el nombre de
 a spell (parsed as per the <w>spells</w> tag, described below) or any of <w>clone</w>
-(Rakshasa), <w>animate</w> (de muerte animada), §AG300cha</w> (de caos puro), <w>miscast</w>
-(consumido a partir de un efecto erróneo de hechizo), §AG304ZotAG305§ (resumido por una trampa Zot), <w>wrath</w>
+(Rakshasa), <w>animate</w> (de muerte animada), cha</w> (de caos puro), <w>miscast</w>
+(consumido a partir de un efecto erróneo de hechizo), Zot (resumido por una trampa Zot), <w>wrath</w>
 (consumido por un dios en un acto de retribución), <w>aid</w> (supuesto por un dios en orden
 dar ayuda).
 
 De los hechizos, <w>shadow creatures</w> tiene el efecto más significativo, en que
-monstruos Will disipar en las sombras en lugar de desaparecer en un puño de
-humo. El uso de hechizos que no contienen la suma Will tampoco tiene efecto.
+monstruos disipar en las sombras en lugar de desaparecer en un puño de
+humo. El uso de hechizos que no contienen la suma tampoco tiene efecto.
 
-Etiquetar un monstruo con <w>seen</w> Will invalidar el sistema y forzar a ese monstruo a
+Etiquetar un monstruo con <w>seen</w> invalidar el sistema y forzar a ese monstruo a
 ser marcado como ya visto; esto significa que no generará mensajes tales
-como "<cyan>A Kobold viene a la vista§AG315".§
+como "<cyan>A Kobold viene a la vista".
 
-§AG316 §Overriding Monster Spells</h>
+ Overriding Monster Spells</h>
 
 Los conjuntos de hechizos Monster se pueden sobrescribir con un <w>spells</w>: tag, utilizado como sigue:
 
@@ -571,18 +571,18 @@ Los conjuntos de hechizos Monster se pueden sobrescribir con un <w>spells</w>: t
 (una lista de ranuras de hechizo, que consiste en un nombre de hechizo con espacios reemplazados por
 subraya, una frecuencia de fundición y conjunto de banderas de tragamonedas de hechizos especificados
 Luego con <w>.</w>, con ranuras separadas por <w>;</w>. No debería haber espacios alrededor
-<w>;§AG329 § or after the <w>spells</w>: prefijo)
+<w>; or after the <w>spells</w>: prefijo)
 
 Los nombres de los discursos deben coincidir exactamente con los nombres en <cyan>spl-data.h</w>, con espacios reemplazados
 por subrayados. Frecuencias del hechizo son una (x en 200) oportunidad que ese hechizo
-Will be cast. Las banderas son:
+ be cast. Las banderas son:
 
-* <w>natural</w>, §AG336 §</w>, <w>demonic</w>, <w>wizard</w>, o <w>priest</w> 343§ - la manera en que esto
-El hechizo está siendo lanzado. Magos y sacerdotes pueden ser silenciados y Will desencadenar
-conductas apropiadas (Trog Will apreciar magos asesinos, Beogh Will
+* <w>natural</w>, </w>, <w>demonic</w>, <w>wizard</w>, o <w>priest</w> 343 - la manera en que esto
+El hechizo está siendo lanzado. Magos y sacerdotes pueden ser silenciados y desencadenar
+conductas apropiadas (Trog apreciar magos asesinos, Beogh 
 apreciar la muerte de sacerdotes). Los hechizos mágicos, demoníacos y magos están sujetos
 a efectos antimagicos. Los hechizos naturales no generan ruido.
-* <w>emergencia</w> - el monstruo Will sólo lanzar el hechizo cuando baja en la salud.
+* <w>emergencia</w> - el monstruo sólo lanzar el hechizo cuando baja en la salud.
 * <w>breath</w> - el hechizo es un arma respiratoria, y el uso de ella desencadena un aliento
 tiempo libre durante el cual el hechizo no puede lanzado de nuevo.
 * <w>no silent</w> - el hechizo no se puede utilizar en silencio, incluso si es una habilidad
@@ -594,20 +594,20 @@ otra acción en el mismo turno.
 Tú puede utilizar <w>none</w> especificar que una ranura debe dejar vacía. Puedes forzar una
 monstruo sin hechizo con:
 
-<w>orc wizard hechizos:none§AG357
+<w>orc wizard hechizos:none
 
-§AG358 § Encantamientos de fijación </h>
+ Encantamientos de fijación </h>
 
 Puede darle a un monstruo cualquier número de encantamientos. Puede empezar a molestarse, ciego,
-tener RMsl permanente, etc. La sintaxis es <w>ench: <<name>:<<duration>:§AG363</w> or
-<w>perm ench:<<name>:AG367</w>. Los §AG369 §§AG370</w> y §AG372 §<<duration>§.
+tener RMsl permanente, etc. La sintaxis es <w>ench: <<name>:<<duration>:</w> or
+<w>perm ench:<<name>:AG367</w>. Los </w> y <<duration>.
 omitido.
 
 Por ejemplo:
 
 * <w>orc perm ench:blind perm ench:mad</w>
 * <w>dream ovejas ench:sticky flame</w>
-* <w>stone gigante dur:1 ench:BerserkAG380§
+* <w>stone gigante dur:1 ench:Berserk
 
 %%%%
 macro-menu
@@ -626,13 +626,13 @@ comandos. Esto se puede utilizar para redefinir una tecla de comando, o para def
 llave. mapean una clave para una secuencia de pulsaciones de teclas, y las pulsaciones de teclas se llevan a cabo
 en el submenú.
 
-Ejemplo 1: cartografía <w>e</w> a <w>pAG11§ permitiría que la tecla `e` desencadenar la misma
+Ejemplo 1: cartografía <w>e</w> a <w>p permitiría que la tecla `e` desencadenar la misma
 comando as the `p` key ( which on the default settings is autofire).
 
-Ejemplo 2: cartografía <w>1</w> a la secuencia <w>zaf§AG§15 § permite la tecla `1`
+Ejemplo 2: cartografía <w>1</w> a la secuencia <w>zafAG15 permite la tecla `1`
 lanzar un hechizo que está en la letra `a` con el objetivo predeterminado.
 
-Ejemplo 3: cartografía <w>F1</w> al <w>Q па§19§ permitiría que la tecla F1 quiver el hechizo
+Ejemplo 3: cartografía <w>F1</w> al <w>Q па19 permitiría que la tecla F1 quiver el hechizo
 que está en la carta `a`.
 
 <w>Keymaps</w> son substituciones clave de nivel inferior que reemplazan las teclas por completo
@@ -641,23 +641,23 @@ tratar con diseños de teclado alternativos. Los teclados son contextuales, y
 contexto predeterminado/"regular" se utiliza en cualquier lugar que un contexto no especializado no
 activo. Los macros toman el resultado de los teclados como entrada.
 
-Ejemplo: En algunos diseños de teclado europeos, el símbolo § reemplaza ~. Por lo tanto,
-podría ser útil para keymap § a ~ tanto en los contextos de teclado regular y menú
+Ejemplo: En algunos diseños de teclado europeos, el símbolo reemplaza ~. Por lo tanto,
+podría ser útil para keymap a ~ tanto en los contextos de teclado regular y menú
 para que el menú principal y el menú macro se vuelva un poco más fácil de acceder. (En otros
 diseños, esto se aplica en lugar de 1⁄2.)
 
 Cuando se utiliza para los comandos de mapeo, los teclados pueden tener efectos secundarios inesperados: por ejemplo.
-mapeo <w>1</w> a <w>zaf</w> no se recomienda a través del teclado, porque este Will
+mapeo <w>1</w> a <w>zaf</w> no se recomienda a través del teclado, porque este 
 hacer que sea difícil escribir `1` al entrar en un objetivo de habilidad.
 
 <w>Keycodes</w>: Ambos macros y teclados aceptan códigos clave al describir los
-acción, en la forma de <w>\{n}</w> para introducir el código clave </w>0§n</w>1§. (Use </w>2§\\</w>3§ a
-entrar en una barra de atrás.) Por ejemplo, utilice </w>4§\{9}</w>5§ para introducir el código clave para el
-</w>6§tab</w>7§ botón. Tú puede atar macros y teclados por código clave utilizando </w>8§~~~§39§
+acción, en la forma de <w>\{n}</w> para introducir el código clave </w>0n</w>1. (Use </w>2\\</w>3 a
+entrar en una barra de atrás.) Por ejemplo, utilice </w>4\{9}</w>5 para introducir el código clave para el
+</w>6tab</w>7 botón. Tú puede atar macros y teclados por código clave utilizando </w>8~~~39
 en el menú de edición macro.
 
 <w>Ahorro</w>: Los enlaces editados en este menú se guardan en un archivo .macro en su
-Guardar directorio. Ellos Will serán anulados por configuraciones en su archivo de opciones. See
+Guardar directorio. Ellos serán anulados por configuraciones en su archivo de opciones. See
 el comando `macro` en options guide.txt para más información.
 
 %%%%
@@ -691,8 +691,8 @@ Atad.
 <w>-233</w>: Shift-Tab
 <w>-222</w>: Ctrl-Tab (en algunos teclados)
 <w>-255</w>: Eliminar (en algunos teclados)
-<w>-265</w>: F1 <w>-264AG21§: F2 <w>-263</w>: F3 <w>-262§: F4 <w>-261</w>: F5
-<w>-260</w>: F6 <w>-259AG31§: F7 <w>-258</w>: F8 <w>-257§: F9 <w>-256</w>: F10
+<w>-265</w>: F1 <w>-264: F2 <w>-263</w>: F3 <w>-262: F4 <w>-261</w>: F5
+<w>-260</w>: F6 <w>-259: F7 <w>-258</w>: F8 <w>-257: F9 <w>-256</w>: F10
 
 Los códigos clave hasta F22 están definidos, pero no pueden funcionar en todas las construcciones. (En los webtiles,
 F11 y F12 están reservados.)
@@ -706,20 +706,20 @@ claves de navegación modificadas independientemente del estado de bloqueo.
 
 Claves de navegación:
 
-<w>-245</w>: PgDn <w>-234§45§: Shift-PgDn <w>-223</w>: Ctrl-PgDn
+<w>-245</w>: PgDn <w>-23445: Shift-PgDn <w>-223</w>: Ctrl-PgDn
 <w>-246</w>: PgUp <w>-235</w>: Shift-PgUp <w>-224</w>: Ctrl-PgUp
-<w>-247</w>: Clear <w>-236AG57§: Shift-Clear <w>-225</w>: Ctrl-Clear
-<w>-248</w>: End <w>-237AG63§: Shift-End <w>-226</w>: Ctrl-End
+<w>-247</w>: Clear <w>-236: Shift-Clear <w>-225</w>: Ctrl-Clear
+<w>-248</w>: End <w>-237: Shift-End <w>-226</w>: Ctrl-End
 <w>-249</w>: Home <w>-238</w>: Shift-Home <w>-227</w>: Ctrl-Home
-<w>-250</w>: Insert <w>-239AG75§: Shift-Insert <w>-228</w>: Ctrl-Insert
-<w>-251</w>: Right <w>-240AG81§: Shift-Right <w>-229</w>: Ctrl-Right
-<w>-252</w>: Left <w>-241AG87§: Shift-Left <w>-230</w>: Ctrl-Left
-<w>-253</w>: Down <w>-242AG93§: Shift-Down <w>-231</w>: Ctrl-Down
-<w>-254</w>: Up <w>-243AG99§: Shift-Up <w>-232</w>: Ctrl-Up
+<w>-250</w>: Insert <w>-239: Shift-Insert <w>-228</w>: Ctrl-Insert
+<w>-251</w>: Right <w>-240: Shift-Right <w>-229</w>: Ctrl-Right
+<w>-252</w>: Left <w>-241: Shift-Left <w>-230</w>: Ctrl-Left
+<w>-253</w>: Down <w>-242: Shift-Down <w>-231</w>: Ctrl-Down
+<w>-254</w>: Up <w>-243: Shift-Up <w>-232</w>: Ctrl-Up
 
 Llaves de almohadilla:
 
-<w>-1007</w>: NP7 §AG104-1008</w>: NP8 <w>-1009</w>: NP9
+<w>-1007</w>: NP7 -1008</w>: NP8 <w>-1009</w>: NP9
 <w>-1004</w>: NP4 <w>-1005</w>: NP5 <w>-1006</w>: NP6
 <w>-1001</w>: NP1 <w>-1002</w>: NP2 <w>-1003</w>: NP3
 <w>-1000</w>: NP0

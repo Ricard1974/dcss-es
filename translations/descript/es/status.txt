@@ -92,7 +92,7 @@ Estás brillando con radiación mutagénica. Esto puede infligir mutaciones con 
 explota violentamente. Además, su brillo evita la invisibilidad y reduce
 tu sigilo.
 {}
-local dmg = tú.contam max damage();
+local dmg = usted.contam max damage();
 si dmg
 "\nUna explosión en su nivel actual de contaminación podría..."
 "inflicto a "... daño".
@@ -419,18 +419,18 @@ Dragon status
 {}
 desc local = "Te has transformado en un poderoso"
 
-si usted.race():find("Draconian") entonces
+si tú race():find("Draconian") entonces
 desc = desc .. " dragon"
-si usted.race() ~= "Grey Draconian" entonces
+si tú race() ~= "Grey Draconian" entonces
 desc = desc .. ", aumentando el poder de cualquier ataque al aliento innato"
 final
-si usted.race() == "Red Draconian" entonces
+si tú race() == "Red Draconian" entonces
 desc = desc .. ". Eres muy resistente al fuego y...
 "Resistente al veneno, pero vulnerable al frío"
-si usted.race() == "White Draconian" entonces
+si tú race() == "White Draconian" entonces
 desc = desc .. ". Eres muy resistente al frío y...
 "Resistente al veneno, pero vulnerable al fuego"
-si usted.race() == "Green Draconian" entonces
+si tú race() == "Green Draconian" entonces
 desc = desc .. "y conservar su color innato"
 más
 desc = desc .. ". Retienes tu color innato, y eres...
@@ -482,7 +482,7 @@ nivel de experiencia en lugar de la habilidad de Combate Desarmado.%%%%
 App status
 
 {}
-si usted.race() == "Octopodo" entonces
+si tú race() == "Octopodo" entonces
 "Un espigón vicioso ha crecido de uno de sus tentáculos, "...
 "aumentando el daño de tus ataques de tentáculo extra."
 más
@@ -610,7 +610,7 @@ Estás recordando a tus aliados.%%%%
 Water status
 
 {}
-verbo local = tú.flying() y "flying over" o
+verbo local = usted.flying() y "flying over" o
 you.race() == "Merfolk" y "swimming in" o "standing in"
 feat local = view.feature at(0, 0):gsub(" ", ")
 

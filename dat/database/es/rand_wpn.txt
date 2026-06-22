@@ -1,0 +1,3418 @@
+%%%%
+_power_or_anger_
+
+@_power_name_@
+
+w:7
+@_conflict_name_@
+
+w:7
+@_anger_name_@
+
+%%%%
+_power_name_
+
+Grandes daños
+Silencio
+Dominance
+Silencio
+Domination
+Silencio
+Amistad
+Silencio
+Gloria
+Silencio
+Grandeur
+Silencio
+Hubris
+Silencio
+Intimidación
+Silencio
+Invincibilidad
+Silencio
+Magnificencia
+Silencio
+Mastery
+Silencio
+Podría ser.
+Silencio
+Éxito
+Silencio
+Superioridad
+Silencio
+Triumph
+Silencio
+Victoria
+Silencio
+Wondrous Power
+Silencio
+Brawling
+Silencio
+Conflicto
+Silencio
+Sumario
+
+Discord
+Silencio
+Disenso
+Silencio
+División
+Silencio
+Dudo
+Silencio
+La huelga interna
+Silencio
+Melee
+Silencio
+Hostilidades resumidas
+Silencio
+Tensión
+Silencio
+La ira
+Silencio
+Brutal Revenge
+Silencio
+Respuesta desproporcionada
+Silencio
+Furia
+Silencio
+Hatred
+Silencio
+Indignación
+Silencio
+Outrage
+Silencio
+Righteous Anger
+Silencio
+Furia justa
+Silencio
+Scorn
+Silencio
+Vengeance
+Silencio
+Wrath
+
+extremadamente Mad
+Silencio
+el Absoluto Madman
+Silencio
+el Incandescent
+Silencio
+los Furiosos
+Silencio
+el Howling One
+Silencio
+el Gibberer
+Silencio
+el odiado
+Silencio
+los despreciados
+Silencio
+el Abhorred
+Silencio
+Cruzadas
+Silencio
+Guerra eterna
+Silencio
+Iconoclasm
+Silencio
+Plunder
+Silencio
+Ravage
+Silencio
+Regicidio
+Silencio
+Skirmishing
+Silencio
+Guerra
+Silencio
+el Guerrero condenado
+Silencio
+la Marcha Infinita
+Silencio
+el Guerrero Eterno
+
+el Onslaught
+Silencio
+la Victoria Pírrica
+Silencio
+el Guerrero
+Silencio
+Sangre
+Silencio
+Sangre-Lust
+Silencio
+Sensibilidad
+Silencio
+Diet Blood
+Silencio
+Miedo
+Silencio
+Joyful Slaughter
+Silencio
+Massacring
+Silencio
+Wounding
+Silencio
+Agony
+Silencio
+Hacking y Slashing
+Silencio
+Un placer insuficiente
+Silencio
+Trauma
+Silencio
+Dullness
+Silencio
+Incisión exacta
+Silencio
+Laceración
+Silencio
+Severance
+Silencio
+Truncación
+
+La puerta de la muerte
+Silencio
+Ratón
+Silencio
+el Grave
+Silencio
+death or doom
+Silencio
+Muerte sangrienta
+Silencio
+Cierta muerte
+Silencio
+Muerte
+Silencio
+Muerte exquisita
+Silencio
+Muerte inminente
+Silencio
+Muerte instantánea
+Silencio
+Dolor y muerte
+Silencio
+Muerte dolorosa
+Silencio
+Muerte rápida
+Silencio
+Muerte lenta
+Silencio
+Muerte repentina
+Silencio
+Muerte incierto
+Silencio
+Untimely Demise
+Silencio
+Destrucción
+Silencio
+Disembowelment
+Silencio
+Doom
+
+Evisceración
+Silencio
+Ejecución
+Silencio
+Exterminación
+Silencio
+Extinguimiento
+Silencio
+Peril
+Silencio
+Entierro prematuro
+Silencio
+La angustia
+Silencio
+Desmembramiento
+Silencio
+Increíble dolor
+Silencio
+Tormenta exquisita
+Silencio
+Dolor infinito
+Silencio
+Misery
+Silencio
+Terror
+Silencio
+Woe
+Silencio
+Defensa
+Silencio
+Defensa por delitos
+Silencio
+Expediencia
+Silencio
+Guile
+Silencio
+Delito
+Silencio
+Optimality
+
+Fuerza abrumadora
+Silencio
+Fortalecimiento
+Silencio
+Superioridad estratégica
+Silencio
+Subterfugio
+Silencio
+Medida
+Silencio
+Conatus
+Silencio
+Conciencia
+Silencio
+Valor
+Silencio
+Cariño
+Silencio
+Defiance
+Silencio
+Duty
+Silencio
+Vigilancia eterna
+Silencio
+Fortitud
+Silencio
+Gallantry
+Silencio
+Honorable
+Silencio
+Indomitability
+Silencio
+Integridad
+Silencio
+Prudence
+Silencio
+Propósito
+Silencio
+Recursos humanos
+
+Responsabilidad
+Silencio
+Tenacidad
+Silencio
+True Grit
+Silencio
+Valiance
+Silencio
+Vigilancia
+Silencio
+Absoluto
+Silencio
+Terminación accidental
+Silencio
+Blind Justice
+Silencio
+Capital Punishment
+Silencio
+Castigos corporales
+Silencio
+Cruel Justice
+Silencio
+Exoneración
+Silencio
+Circunstancias atenuantes
+Silencio
+Falsas acusaciones
+Silencio
+Perdón.
+Silencio
+Culpable
+Silencio
+Innocence
+Silencio
+Fallo
+Silencio
+Castigo
+Silencio
+Tender Mercy
+
+Tortfeasance
+Silencio
+Juicio por Ordeal
+Silencio
+Incautación incorrecta
+Silencio
+Augurer
+Silencio
+Fortune-Teller
+Silencio
+Oracle
+Silencio
+Seeker
+Silencio
+Cierre
+Silencio
+Soothsayer
+Silencio
+Sybil
+Silencio
+Visión
+Silencio
+Water Diviner
+Silencio
+Antiguos
+Silencio
+Cobarde
+Silencio
+Enemigo
+Silencio
+Tonto.
+Silencio
+Genius
+Silencio
+Hero
+Silencio
+Jester
+Silencio
+Rey
+
+Madman
+Silencio
+Mensajero
+Silencio
+Pariah
+Silencio
+Filosofía
+Silencio
+sacerdote
+Silencio
+Reina
+Silencio
+Salvador
+Silencio
+Scapegrace
+Silencio
+Scavenger
+Silencio
+Traidor
+Silencio
+Ant
+Silencio
+Barnacle
+Silencio
+Bee
+Silencio
+Blowfly
+Silencio
+Bristletail
+Silencio
+Mariposa
+Silencio
+Caddisfly
+Silencio
+Cangrejo
+Silencio
+Crayfish
+Silencio
+Presuntamente
+
+Dragonfly
+Silencio
+Fuego
+Silencio
+Flea
+Silencio
+Gnat
+Silencio
+Hornet
+Silencio
+June-Bug
+Silencio
+Krill
+Silencio
+Lacewing
+Silencio
+Langosta
+Silencio
+Louse
+Silencio
+Mayfly
+Silencio
+Mosquito
+Silencio
+Moth
+Silencio
+Pill Bug
+Silencio
+Prawn
+Silencio
+Camarones
+Silencio
+Silverfish
+Silencio
+Wasp
+Silencio
+Weta
+Silencio
+Woodlouse
+
+Chaqueta amarilla
+Silencio
+Harvestman
+Silencio
+Escorpión
+Silencio
+Spider
+Silencio
+Tick
+Silencio
+Axolotl
+Silencio
+Caecilian
+Silencio
+Frog
+Silencio
+Hellbender
+Silencio
+Newt
+Silencio
+Olm
+Silencio
+Salamandra
+Silencio
+Siren
+Silencio
+Toad
+Silencio
+Alligator
+Silencio
+Asp
+Silencio
+Crocodile
+Silencio
+Gecko
+Silencio
+Gharial
+Silencio
+Krait
+
+Cuero
+Silencio
+Lagarto
+Silencio
+Python
+Silencio
+Rattlesnake
+Silencio
+Skink
+Silencio
+Terrapin
+Silencio
+Tortoise
+Silencio
+Turtle
+Silencio
+Viper
+Silencio
+Big Fish
+Silencio
+Eel
+Silencio
+Lamprey
+Silencio
+Salmón
+Silencio
+Shark
+Silencio
+Apóstol
+Silencio
+Ártico Tern
+Silencio
+Auk
+Silencio
+Bustard
+Silencio
+Buzzard
+Silencio
+Cardenal
+
+Cassowary
+Silencio
+Dove
+Silencio
+Duck
+Silencio
+Emu
+Silencio
+Flamingo
+Silencio
+Forest Kingfisher
+Silencio
+Fulmar
+Silencio
+Goose
+Silencio
+Guillemot
+Silencio
+Hawk
+Silencio
+Hummingbird
+Silencio
+Hoatzin
+Silencio
+Kiwi
+Silencio
+Kookaburra
+Silencio
+Moa
+Silencio
+Noisy Friarbird
+Silencio
+Ostrich
+Silencio
+Owl
+Silencio
+Pingüino
+Silencio
+Pigeon
+
+Potoo
+Silencio
+Puffin
+Silencio
+Rainbow Bee-Eater
+Silencio
+Razorbill
+Silencio
+Rhea
+Silencio
+Roseate Spoonbill
+Silencio
+Sage Grouse
+Silencio
+Shrike
+Silencio
+Stork
+Silencio
+Swan
+Silencio
+Espléndido Lyrebird
+Silencio
+Tawny Frogmouth
+Silencio
+Vulture
+Silencio
+Ass
+Silencio
+Badger
+Silencio
+Oso
+Silencio
+Boar
+Silencio
+Fox
+Silencio
+Goat
+Silencio
+Rat
+
+Stoat
+Silencio
+Tigre
+Silencio
+Weasel
+Silencio
+Whale
+Silencio
+Wolf
+Silencio
+Eggplant
+Silencio
+Pollo
+Silencio
+Lechuga
+Silencio
+Radish
+Silencio
+Hoja de azúcar
+Silencio
+Shallot
+Silencio
+Tomato
+Silencio
+Turnip
+Silencio
+Whelk
+Silencio
+Mushroom mágico
+Silencio
+Mushroom
+Silencio
+Puffball
+Silencio
+Slime-mould
+Silencio
+Toadstool
+Silencio
+Abomination
+
+Abuso
+Silencio
+Antiguo diablo
+Silencio
+Corrupción
+Silencio
+Debasement
+Silencio
+Defile
+Silencio
+Deformación
+Silencio
+Demonkind
+Silencio
+Mal
+Silencio
+El infierno Wrath
+Silencio
+Infección
+Silencio
+Mutilación
+Silencio
+Nightmares
+Silencio
+Perversión
+Silencio
+Putrescence
+Silencio
+Terror de duelo
+Silencio
+Vitiación
+Silencio
+la Bestia
+Silencio
+la cosa de arrastre
+Silencio
+los muertos
+Silencio
+el Mal Ojo
+
+%%%%
+_conflict_name_
+
+el fantasma
+Silencio
+Los muertos vivientes
+Silencio
+el Lurker
+Silencio
+el Reaper
+Silencio
+el Spectre
+Silencio
+la cosa
+Silencio
+el Undead
+Silencio
+la vida
+Silencio
+el Unspeakable
+Silencio
+el Espectro
+Silencio
+Terremotos
+Silencio
+Cataclismo
+Silencio
+Sequía
+Silencio
+Inundaciones
+Silencio
+Ruination
+Silencio
+el Inferno
+Silencio
+Aniquilación
+Silencio
+Armageddon
+Silencio
+Fimbulwinter
+Silencio
+Ragnarok
+
+World Downfall
+Silencio
+Fin del mundo
+Silencio
+el Apocalipsis
+Silencio
+el fin de los tiempos
+Silencio
+Hambre
+Silencio
+Pestilence
+Silencio
+Plague
+Silencio
+Guerra
+Silencio
+Ambigüedad
+Silencio
+Arbitraje
+Silencio
+Calamity
+Silencio
+Chance
+Silencio
+Cambio
+Silencio
+Confusión
+Silencio
+Reorganización constante
+Silencio
+Contradicción
+Silencio
+Disarray
+Silencio
+Desastres
+Silencio
+Disharmony
+Silencio
+Desintegración
+
+Trastorno
+Silencio
+Disolución
+Silencio
+Distracción
+Silencio
+Extremismo
+Silencio
+Modo de goblin
+Silencio
+Havoc
+Silencio
+Imbalance
+Silencio
+Impermanencia
+Silencio
+Incongruencia
+Silencio
+Mayhem
+Silencio
+Revolt
+Silencio
+Chaos verdaderos
+Silencio
+Tumult
+Silencio
+Turmoil
+Silencio
+Upheaval
+Silencio
+los Extremas
+Silencio
+el Farrago
+Silencio
+el Fray
+Silencio
+Hodge-Podge
+Silencio
+el Mish-Mash
+
+Acuerdo
+Silencio
+Llegada
+Silencio
+Ascent
+Silencio
+Saldo
+Silencio
+Bodily Harmony
+Silencio
+Circularidad
+Silencio
+Conformidad
+Silencio
+Salida
+Silencio
+Decente
+Silencio
+Proporción debida
+Silencio
+Equilibrio
+Silencio
+Equivalencia
+Silencio
+Eternal Harmony
+Silencio
+Paz frágil
+Silencio
+Armonía
+Silencio
+Derecho
+Silencio
+Linearity
+Silencio
+Moderación
+Silencio
+Paz
+Silencio
+Propriety
+
+Simmetría
+Silencio
+el Establecimiento
+Silencio
+la Decisión Final
+Silencio
+el Mediano
+Silencio
+el Medio
+Silencio
+Amortización
+Silencio
+Espíritus animales
+Silencio
+Quiebra
+Silencio
+Colusión
+Silencio
+Intereses compuestos
+Silencio
+Moneda
+Silencio
+Debt
+Silencio
+Deflación
+Silencio
+Demanda
+Silencio
+Dividendos
+Silencio
+Cambio
+Silencio
+Crecimiento
+Silencio
+Ingresos
+Silencio
+Inflación
+Silencio
+Lujo
+
+Profit
+Silencio
+Gestión de riesgos
+Silencio
+Suministro
+Silencio
+Tributación
+Silencio
+Activos valiosos
+Silencio
+Bienestar
+Silencio
+Attainder
+Silencio
+Breach
+Silencio
+Checks and Balances
+Silencio
+Conservatismo
+Silencio
+Defenestración
+Silencio
+Fee Simple
+Silencio
+Freehold
+Silencio
+Breach fundamental
+Silencio
+Gobernanza
+Silencio
+Mayor Utilidad
+Silencio
+Impeachment
+Silencio
+Mandamus
+Silencio
+Demanda popular
+Silencio
+Pobreza
+
+Radicalismo
+Silencio
+Reasignación
+Silencio
+Realismo
+Silencio
+Sequestration
+Silencio
+Terminación
+Silencio
+La riqueza
+Silencio
+el bien común
+Silencio
+El caballo oscuro
+Silencio
+el Demago
+Silencio
+el Imperio
+Silencio
+el pato cojo
+Silencio
+el Mal menor
+Silencio
+el Pueblo Pequeño
+Silencio
+el Pueblo
+Silencio
+la revolución
+Silencio
+la Mayoría silenciosa
+Silencio
+Actus Reus
+Silencio
+Ad Valorem
+Silencio
+Posesión adversa
+Silencio
+Corpus Delicti
+
+Eminent Domain
+Silencio
+In Flagrante Delicto
+Silencio
+Ipse Dixit
+Silencio
+Locus Delicti
+Silencio
+Malum In Se
+Silencio
+Malum Prohibitum
+Silencio
+Mens Rea
+Silencio
+Nolo Contendere
+Silencio
+No obstante Veredicto
+Silencio
+Obiter Dictum
+Silencio
+Res Ipsa Loquitur
+Silencio
+Res Judicata
+Silencio
+Más allá
+Silencio
+Distant Shores
+Silencio
+Mundos Distantes
+Silencio
+Partes desconocidas
+Silencio
+Proximidad
+Silencio
+En algún lugar
+Silencio
+el Reino Bendito
+Silencio
+el desierto
+
+el Ecuador
+Silencio
+el Vacío Eterno
+Silencio
+el Bosque
+Silencio
+el Vale Oculto
+Silencio
+las colinas
+Silencio
+el Mundo Conocido
+Silencio
+la Tierra de Plenty
+Silencio
+el laberinto
+Silencio
+el Nuevo Mundo
+Silencio
+el Viejo Mundo
+Silencio
+el otro lado
+Silencio
+el Pit
+Silencio
+los polacos
+Silencio
+el Mar
+Silencio
+el Shore
+Silencio
+los Spheres
+Silencio
+los Árboles
+Silencio
+los Tundras
+Silencio
+el reino invisible
+Silencio
+el Valle
+
+el Valle de la Muerte
+Silencio
+el volcán
+Silencio
+the Wasteland
+Silencio
+La naturaleza
+Silencio
+el Mundo
+Silencio
+Anoyance
+Silencio
+Ansiedad
+Silencio
+Awkwardness
+Silencio
+Chagrin
+Silencio
+Despertación
+Silencio
+Motivo
+Silencio
+Es un desastre.
+Silencio
+Consternación
+Silencio
+Insatisfacción
+Silencio
+Vergonzoso
+Silencio
+Ejecución Flawed
+Silencio
+Foul Odours
+Silencio
+Frustración
+Silencio
+Gloom
+Silencio
+Inconveniencia
+
+Irritación
+Silencio
+Malaise
+Silencio
+Shame
+Silencio
+Pegatina
+Silencio
+Rashes incómodas
+Silencio
+Insuficiencia
+Silencio
+Urgency
+Silencio
+Absolutismo
+Silencio
+Abstinencia
+Silencio
+Activismo
+Silencio
+Agnosticismo
+Silencio
+Altruismo
+Silencio
+Anarquía
+Silencio
+Asceticismo
+Silencio
+Ateísmo
+Silencio
+Autoteísmo
+Silencio
+Cinicismo
+Silencio
+Desestablecimiento
+Silencio
+Dogma
+Silencio
+Equiitarismo
+
+%%%%
+_anger_name_
+
+@_anger_quality_@
+
+w:3
+@_anger_possessive_@
+
+%%%%
+_anger_quality_
+
+Elitismo
+Silencio
+Ética
+Silencio
+Existencialismo
+Silencio
+Fallacy
+Silencio
+Fanatismo
+Silencio
+Expresión gratuita
+Silencio
+Voluntad libre
+Silencio
+Hedonismo
+Silencio
+Henotheism
+Silencio
+Heresy
+Silencio
+Idealismo
+Silencio
+Kathenotheism
+Silencio
+Levity
+Silencio
+Liberalismo
+Silencio
+Limitación
+Silencio
+Malteísmo
+Silencio
+Monoteismo
+Silencio
+Moralidad
+Silencio
+Mutualismo
+Silencio
+Mysticism
+
+Nihilism
+Silencio
+Optimismo
+Silencio
+Ortodoxia
+Silencio
+Panentheism
+Silencio
+Panteísmo
+Silencio
+Pesimismo
+Silencio
+Politeísmo
+Silencio
+Pragmatismo
+Silencio
+Racionalidad
+Silencio
+Relativismo
+Silencio
+Serendipity
+Silencio
+Escepticismo
+Silencio
+Sofismo
+Silencio
+Stoicismo
+Silencio
+Sindicalismo
+Silencio
+Finitismo teísta
+Silencio
+el Ego
+Silencio
+Análisis
+Silencio
+Articulación
+Silencio
+Cálculo
+
+Circular Logic
+Silencio
+Clasificación
+Silencio
+Contexto
+Silencio
+Evolución
+Silencio
+Experimentación
+Silencio
+Focus
+Silencio
+Gravedad
+Silencio
+Inferencias
+Silencio
+Infinity
+Silencio
+Investigación
+Silencio
+Instinto
+Silencio
+Intuición
+Silencio
+Objetividad
+Silencio
+Patrones
+Silencio
+Salto cuántico
+Silencio
+Razón
+Silencio
+Rotación
+Silencio
+Subjetividad
+Silencio
+Teoría
+Silencio
+Unreason
+
+el Inicio
+Silencio
+el Big Bang
+Silencio
+el Punto de Boiling
+Silencio
+el fin
+Silencio
+la mente
+Silencio
+el Nexus
+Silencio
+Candelabrum
+Silencio
+Vela
+Silencio
+Cadena
+Silencio
+Coin
+Silencio
+Copa
+Silencio
+Egg
+Silencio
+Feather
+Silencio
+Girdle
+Silencio
+Globe
+Silencio
+Horn
+Silencio
+Clave
+Silencio
+Orb
+Silencio
+Pilar
+Silencio
+Objetivo
+
+Anillo
+Silencio
+Scroll
+Silencio
+Nave
+Silencio
+Tent
+Silencio
+Vase
+Silencio
+Vine
+Silencio
+Walnut
+Silencio
+Rueda
+Silencio
+Yoke.
+Silencio
+Cerebro
+Silencio
+Pie
+Silencio
+Mano
+Silencio
+Head
+Silencio
+Corazón
+Silencio
+Kidney
+Silencio
+Mouth
+Silencio
+Throat
+Silencio
+Tooth
+Silencio
+el Hierofant
+Silencio
+los Magistrados
+
+el sabio
+Silencio
+el Guerrero-Mage
+Silencio
+Ash
+Silencio
+Bile
+Silencio
+Bloodstone
+Silencio
+Bodily Humours
+Silencio
+Pan
+Silencio
+Queso
+Silencio
+Cobwebs
+Silencio
+Cristal
+Silencio
+Teares secos
+Silencio
+Dung
+Silencio
+Ichor
+Silencio
+Ungüento
+Silencio
+Oozing Pus
+Silencio
+Documento
+Silencio
+Rubbish
+Silencio
+Salt
+Silencio
+Saltpetre
+Silencio
+Sharkskin
+
+Slime
+Silencio
+Sulfuro
+Silencio
+Terra Cotta
+Silencio
+Dust
+Silencio
+Mana
+Silencio
+Spores
+Silencio
+Levadura
+Silencio
+other  Weapons name
+Silencio
+Broken Luck
+Silencio
+Carnicería
+Silencio
+Jaque mate
+Silencio
+Conversión
+Silencio
+Crawling
+Silencio
+Desertificación
+Silencio
+Puertas
+Silencio
+Espíritu empresarial
+Silencio
+False Hope
+Silencio
+Fulguración
+Silencio
+Gin y Tonic
+Silencio
+Grontol
+
+Hard Scrabble
+Silencio
+Establecimiento interdependiente
+Silencio
+La risa irreprimible
+Silencio
+No Interval
+Silencio
+Prescripción
+Silencio
+Vino tinto
+Silencio
+Res Nullius
+Silencio
+Combustión espontánea
+Silencio
+Terra Nullius
+Silencio
+Trampas
+Silencio
+Deshacerse
+Silencio
+Vodka
+Silencio
+el ojo ciego
+Silencio
+el Briny Deep
+Silencio
+la página vacía
+Silencio
+el Capítulo Final
+Silencio
+el punto Omega
+Silencio
+la Mano Abierta
+Silencio
+el Puño del Faraón
+Silencio
+el Monstruo Real
+
+el Spinneret
+Silencio
+los dos nombres
+Silencio
+inhabilitación
+Silencio
+la Vendetta
+Silencio
+short monster name 
+Silencio
+Acarine
+Silencio
+Bestia
+Silencio
+Escarabajo
+Silencio
+Demonio
+Silencio
+Dragon
+Silencio
+Giant
+Silencio
+Goblin
+Silencio
+Hydra
+Silencio
+Imposible
+Silencio
+Jelly
+Silencio
+Lacertilian
+Silencio
+Newt
+Silencio
+Ogre
+Silencio
+Spider
+Silencio
+Testudina
+
+Killer Bee
+Silencio
+Killer Klown
+Silencio
+Orb Guardian
+Silencio
+bane
+Silencio
+Slayer
+Silencio
+killer name
+Silencio
+Arbiter
+Silencio
+Arcanum
+Silencio
+libro
+Silencio
+Conservador
+Silencio
+Death Rattle
+Silencio
+Lengua del dragón
+Silencio
+Terremoto
+Silencio
+Embalmer
+Silencio
+Eviscerator
+Silencio
+Grim
+Silencio
+Grim Tooth
+Silencio
+Hell-Harrower
+Silencio
+Hellblazer
+Silencio
+Leviticus
+
+Lifebane
+Silencio
+Murmur
+Silencio
+Péndulo
+Silencio
+Sarcophage
+Silencio
+Tormentor
+Silencio
+Transmigrator
+Silencio
+Trog's @ anger quality @
+Silencio
+Ultimatum
+Silencio
+Undertaker
+Silencio
+Widowermaker
+Silencio
+Widowmaker
+Silencio
+Worm
+Silencio
+Worm's Wrath
+Silencio
+Gram
+Silencio
+Aubergine
+Silencio
+Backscratcher
+Silencio
+Bingo
+Silencio
+Blob
+Silencio
+Cepillo
+Silencio
+Bung
+
+Cookie Cutter
+Silencio
+ETAOIN SHRDLU
+Silencio
+Egg
+Silencio
+Fish
+Silencio
+El palillo de dientes gigante
+Silencio
+Globulus
+Silencio
+Grom
+Silencio
+Grum
+Silencio
+Hulk
+Silencio
+Lorem Ipsum
+Silencio
+Mud Pie of Death
+Silencio
+No más hablar
+Silencio
+Omelette
+Silencio
+Ox
+Silencio
+Q
+Silencio
+Raisin
+Silencio
+Rummage
+Silencio
+Arma secreta
+Silencio
+Starlight
+Silencio
+String
+
+%%%%
+_anger_possessive_
+
+Stringbean
+Silencio
+Tattletale
+Silencio
+Thing
+Silencio
+Con dos nombres
+Silencio
+X
+Silencio
+Xom @ xom esteem @
+Silencio
+Z
+Silencio
+Glorpo
+Silencio
+Loopy
+Silencio
+Plojy
+
+the Absolute Madman
+
+the Incandescent
+
+the Furious
+
+the Howling One
+
+the Gibberer
+
+the Hated
+
+the Scorned
+
+the Abhorred
+
+%%%%
+_battle_or_war_
+
+Crusades
+
+Eternal War
+
+Iconoclasm
+
+Plunder
+
+Ravage
+
+Regicide
+
+Skirmishing
+
+War
+
+the Doomed Warrior
+
+the Endless March
+
+the Eternal Warrior
+
+the Onslaught
+
+the Pyrrhic Victory
+
+the Warrior
+
+#killing
+Blood
+
+Blood-Lust
+
+Callousness
+
+Diet Blood
+
+Fear
+
+Joyful Slaughter
+
+Massacring
+
+Wounding
+
+# Don't use "Pain", it's easily confused with the brand
+
+Agony
+
+Hacking and Slashing
+
+Insufficient Pleasure
+
+Trauma
+
+# related to cutting
+
+Dullness
+
+Precise Incision
+
+Laceration
+
+Severance
+
+Truncation
+
+#collateral effects
+Death's Door
+
+Mourning
+
+the Grave
+
+%%%%
+death_or_doom
+
+# Muerte
+Muerte sangrienta
+
+Cierta muerte
+
+Muerte
+
+Muerte exquisita
+
+Muerte inminente
+
+Muerte instantánea
+
+Dolor y muerte
+
+Muerte dolorosa
+
+Muerte rápida
+
+Slow Muerte
+
+Muerte repentina
+
+Muerte incierto
+
+Untimely Demise
+
+# Doom
+Destrucción
+
+Disembowelment
+
+Doom
+
+Evisceración
+
+Ejecución
+
+Exterminación
+
+Extinguimiento
+
+Peril
+
+Entierro prematuro
+
+# dolor y miseria
+
+La angustia
+
+Desmembramiento
+
+Increíble dolor
+
+Tormenta exquisita
+
+Dolor infinito
+
+Misery
+
+Terror
+
+Woe
+
+%%%%
+_strategy_or_justice_
+
+w:2
+@_strategy_name_@
+
+w:4
+@_valour_name_@
+
+w:3
+@_justice_name_@
+
+%%%%
+_strategy_name_
+
+#strategy
+Defence
+
+Defence by Offence
+
+Expedience
+
+Guile
+
+Offence
+
+Optimality
+
+Overwhelming Force
+
+Reinforcement
+
+Strategic Superiority
+
+Subterfuge
+
+%%%%
+_valour_name_
+
+Action
+
+Conatus
+
+Conscience
+
+Courage
+
+Daring
+
+Defiance
+
+Duty
+
+Eternal Vigilance
+
+Fortitude
+
+Gallantry
+
+Honour
+
+Indomitability
+
+Integrity
+
+Prudence
+
+Purpose
+
+Resourcefulness
+
+Responsibility
+
+Tenacity
+
+True Grit
+
+Valiance
+
+Watchfulness
+
+%%%%
+_justice_name_
+
+Absolution
+
+Accidental Termination
+
+Blind Justice
+
+Capital Punishment
+
+Corporal Punishment
+
+Cruel Justice
+
+Exoneration
+
+Extenuating Circumstances
+
+False Accusations
+
+Forgiveness
+
+Guilt
+
+Innocence
+
+Judgement
+
+Punishment
+
+Tender Mercy
+
+Tortfeasance
+
+Trial by Ordeal
+
+Wrongful Imprisonment
+
+%%%%
+_diviner_name_
+
+Augurer
+
+Fortune-Teller
+
+Oracle
+
+Seeker
+
+Seer
+
+Soothsayer
+
+Sybil
+
+Visionary
+
+Water Diviner
+
+%%%%
+_people_name_
+
+Ancients
+
+Coward
+
+Enemy
+
+Fool
+
+Genius
+
+Hero
+
+Jester
+
+King
+
+Madman
+
+Messenger
+
+Pariah
+
+Philosopher
+
+Priest
+
+Queen
+
+Saviour
+
+Scapegrace
+
+Scavenger
+
+Traitor
+
+w:15
+@_diviner_name_@
+
+%%%%
+_weapon_animal_
+
+@_arachnid_name_@
+
+@_crustacean_name_@
+
+@_fish_name_@
+
+@_amphibian_name_@
+
+@_reptile_name_@
+
+@_bird_name_@
+
+@_mammal_name_@
+
+%%%%
+_crustacean_name_
+
+# insects and other crustaceans
+
+Ant
+
+Barnacle
+
+Bee
+
+Blowfly
+
+Bristletail
+
+Butterfly
+
+Caddisfly
+
+Crab
+
+Crayfish
+
+Damselfly
+
+Dragonfly
+
+Firefly
+
+Flea
+
+Gnat
+
+Hornet
+
+June-Bug
+
+Krill
+
+Lacewing
+
+Lobster
+
+Louse
+
+Mayfly
+
+Mosquito
+
+Moth
+
+Pill Bug
+
+Prawn
+
+Shrimp
+
+Silverfish
+
+Wasp
+
+# The largest extant insect, endemic to New Zealand
+Weta
+
+Woodlouse
+
+Yellowjacket
+
+%%%%
+_arachnid_name_
+
+Harvestman
+
+Scorpion
+
+Spider
+
+Tick
+
+%%%%
+_amphibian_name_
+
+Axolotl
+
+Caecilian
+
+Frog
+
+Hellbender
+
+Newt
+
+Olm
+
+Salamander
+
+Siren
+
+Toad
+
+%%%%
+_reptile_name_
+
+Alligator
+
+Asp
+
+Crocodile
+
+Gecko
+
+Gharial
+
+Krait
+
+Leatherback
+
+Lizard
+
+Python
+
+Rattlesnake
+
+Skink
+
+Terrapin
+
+Tortoise
+
+Turtle
+
+Viper
+
+%%%%
+_fish_name_
+
+Big Fish
+
+Eel
+
+Lamprey
+
+Salmon
+
+Shark
+
+%%%%
+_bird_name_
+
+Apostlebird
+
+Arctic Tern
+
+Auk
+
+Bustard
+
+Buzzard
+
+Cardinal
+
+Cassowary
+
+Dove
+
+Duck
+
+Emu
+
+Flamingo
+
+Forest Kingfisher
+
+Fulmar
+
+Goose
+
+Guillemot
+
+Hawk
+
+Hummingbird
+
+Hoatzin
+
+Kiwi
+
+Kookaburra
+
+Moa
+
+Noisy Friarbird
+
+Ostrich
+
+Owl
+
+Penguin
+
+Pigeon
+
+Potoo
+
+Puffin
+
+Rainbow Bee-Eater
+
+Razorbill
+
+Rhea
+
+Roseate Spoonbill
+
+Sage Grouse
+
+Shrike
+
+Stork
+
+Swan
+
+Superb Lyrebird
+
+Tawny Frogmouth
+
+Vulture
+
+%%%%
+_mammal_name_
+
+Ass
+
+Badger
+
+Bear
+
+Boar
+
+Fox
+
+Goat
+
+Rat
+
+w:5
+Stoat
+
+Tiger
+
+w:5
+Weasel
+
+Whale
+
+Wolf
+
+%%%%
+_plant_name_
+
+#plants
+Eggplant
+
+Chickpea
+
+Lettuce
+
+Radish
+
+Sugar Beet
+
+Shallot
+
+Tomato
+
+Turnip
+
+# er...aren't whelks gastropods?
+Whelk
+
+#fungus and similar
+
+w:5
+Magic Mushroom
+
+Mushroom
+
+Puffball
+
+Slime-mould
+
+Toadstool
+
+%%%%
+_evil_stuff_
+
+Abomination
+
+Abuse
+
+Ancient Evil
+
+Corruption
+
+Debasement
+
+Defilement
+
+Deformation
+
+Demonkind
+
+Evil
+
+Hell's Wrath
+
+Infection
+
+Mutilation
+
+Nightmares
+
+Perversion
+
+Putrescence
+
+Shrieking Terror
+
+Vitiation
+
+the Beast
+
+the Crawling Thing
+
+the Dead
+
+the Evil Eye
+
+the Ghost
+
+the Living Dead
+
+the Lurker
+
+the Reaper
+
+the Spectre
+
+the Thing
+
+the Undead
+
+the Unliving
+
+the Unspeakable One
+
+the Wraith
+
+%%%%
+_catastrophe_name_
+
+Earthquakes
+
+Cataclysm
+
+Drought
+
+Floods
+
+Ruination
+
+the Inferno
+
+# Apocalyptic events
+
+Annihilation
+
+Armageddon
+
+Fimbulwinter
+
+Ragnarok
+
+World Downfall
+
+World's End
+
+the Apocalypse
+
+the End of Times
+
+# the Apocalyptic Riders (except Death)
+Famine
+
+Pestilence
+
+Plague
+
+War
+
+%%%%
+_chaos_name_
+
+Ambiguity
+
+Arbitration
+
+Calamity
+
+Chance
+
+Change
+
+Confusion
+
+Constant Reorganisation
+
+Contradiction
+
+Disarray
+
+Disaster
+
+Disharmony
+
+Disintegration
+
+Disorder
+
+Dissolution
+
+Distraction
+
+Extremism
+
+Goblin Mode
+
+Havoc
+
+Imbalance
+
+Impermanence
+
+Incongruity
+
+Mayhem
+
+Revolt
+
+True Chaos
+
+Tumult
+
+Turmoil
+
+Upheaval
+
+the Extremes
+
+the Farrago
+
+the Fray
+
+the Hodge-Podge
+
+the Mish-Mash
+
+%%%%
+_balance_or_order_
+
+Accord
+
+Arrival
+
+Ascent
+
+Balance
+
+Bodily Harmony
+
+Circularity
+
+Conformity
+
+Departure
+
+Descent
+
+Due Proportion
+
+Equilibrium
+
+Equivalence
+
+Eternal Harmony
+
+Fragile Peace
+
+Harmony
+
+Law
+
+Linearity
+
+Moderation
+
+Peace
+
+Propriety
+
+Symmetry
+
+the Establishment
+
+the Final Decision
+
+the Median
+
+the Middle
+
+%%%%
+_economics_or_politics_
+
+# economics
+Amortisation
+
+Animal Spirits
+
+Bankruptcy
+
+Collusion
+
+Compound Interest
+
+Currency
+
+Debt
+
+Deflation
+
+Demand
+
+Dividends
+
+Exchange
+
+Growth
+
+Income
+
+Inflation
+
+Luxury
+
+Profit
+
+Risk Management
+
+Supply
+
+Taxation
+
+Valuable Assets
+
+Welfare
+
+# politics
+Attainder
+
+Breach
+
+Checks and Balances
+
+Conservatism
+
+Defenestration
+
+Fee Simple
+
+Freehold
+
+Fundamental Breach
+
+Governance
+
+Greatest Utility
+
+Impeachment
+
+Mandamus
+
+Popular Demand
+
+Poverty
+
+Radicalism
+
+Reapportionment
+
+Royalism
+
+Sequestration
+
+Termination
+
+Wealth
+
+the Common Good
+
+the Dark Horse
+
+the Demagogue
+
+the Imperium
+
+the Lame Duck
+
+the Lesser Evil
+
+the Little People
+
+the People
+
+the Revolution
+
+the Silent Majority
+
+# Anglo-American common law, though trying not to overlap with
+# _justice_name_: History tells us that law and justice are only
+# tangentially related, anyway.
+
+Actus Reus
+
+Ad Valorem
+
+Adverse Possession
+
+Corpus Delicti
+
+Eminent Domain
+
+In Flagrante Delicto
+
+Ipse Dixit
+
+Locus Delicti
+
+Malum In Se
+
+Malum Prohibitum
+
+Mens Rea
+
+Nolo Contendere
+
+Non Obstante Veredicto
+
+Obiter Dictum
+
+Res Ipsa Loquitur
+
+Res Judicata
+
+%%%%
+_place_name_
+
+Beyond
+
+Distant Shores
+
+Distant Worlds
+
+Parts Unknown
+
+Proximity
+
+Somewhere Else
+
+the Blessed Realm
+
+the Desert
+
+the Equator
+
+the Eternal Void
+
+the Forest
+
+the Hidden Vale
+
+the Hills
+
+the Known World
+
+the Land of Plenty
+
+the Maze
+
+the New World
+
+the Old World
+
+the Other Side
+
+the Pit
+
+the Poles
+
+the Sea
+
+the Shore
+
+the Spheres
+
+the Trees
+
+the Tundras
+
+the Unseen Realm
+
+the Valley
+
+the Valley of Death
+
+the Volcano
+
+the Wasteland
+
+the Wilderness
+
+the World
+
+%%%%
+_discomfort_weapon_
+
+Annoyance
+
+Anxiety
+
+Awkwardness
+
+Chagrin
+
+Desperation
+
+Discomfort
+
+Disgust
+
+Dismay
+
+Dissatisfaction
+
+Embarrassment
+
+Flawed Execution
+
+Foul Odours
+
+Frustration
+
+Gloom
+
+Inconvenience
+
+Irritation
+
+Malaise
+
+Shame
+
+Stickiness
+
+Uncomfortable Rashes
+
+Unpleasantness
+
+Urgency
+
+%%%%
+_philosophy_or_science_
+
+@_philosophy_name_@
+
+@_science_name_@
+
+%%%%
+_philosophy_name_
+
+Absolutism
+
+Abstinence
+
+Activism
+
+Agnosticism
+
+Altruism
+
+Anarchy
+
+Asceticism
+
+Atheism
+
+Autotheism
+
+Cynicism
+
+Disestablishmentarianism
+
+Dogma
+
+Egalitarianism
+
+Elitism
+
+Ethics
+
+Existentialism
+
+Fallacy
+
+Fanaticism
+
+Free Expression
+
+Free Will
+
+Hedonism
+
+Henotheism
+
+Heresy
+
+Idealism
+
+Kathenotheism
+
+Levity
+
+Liberalism
+
+Limitation
+
+Maltheism
+
+Monotheism
+
+Morality
+
+Mutualism
+
+Mysticism
+
+Nihilism
+
+Optimism
+
+Orthodoxy
+
+Panentheism
+
+Pantheism
+
+Pessimism
+
+Polytheism
+
+Pragmatism
+
+Rationality
+
+Relativism
+
+Serendipity
+
+Skepticism
+
+Sophism
+
+Stoicism
+
+Syndicalism
+
+Theistic Finitism
+
+the Ego
+
+%%%%
+_science_name_
+
+Analysis
+
+Articulation
+
+Calculation
+
+Circular Logic
+
+Classification
+
+Context
+
+Evolution
+
+Experimentation
+
+Focus
+
+Gravity
+
+Inference
+
+Infinity
+
+Inquiry
+
+Instinct
+
+Intuition
+
+Objectivity
+
+Patterns
+
+Quantum Leap
+
+Reason
+
+Rotation
+
+Subjectivity
+
+Theory
+
+Unreason
+
+the Beginning
+
+the Big Bang
+
+the Boiling Point
+
+the End
+
+the Mind
+
+the Nexus
+
+%%%%
+_item_name_
+
+# items
+Candelabrum
+
+Candle
+
+Chain
+
+Coin
+
+Cup
+
+Egg
+
+Feather
+
+Girdle
+
+Globe
+
+Horn
+
+Key
+
+Orb
+
+Pillar
+
+Purse
+
+Ring
+
+Scroll
+
+Ship
+
+Tent
+
+Vase
+
+Vine
+
+Walnut
+
+Wheel
+
+Yoke
+
+# body parts
+Brain
+
+Foot
+
+Hand
+
+Head
+
+Heart
+
+Kidney
+
+Mouth
+
+Throat
+
+Tooth
+
+%%%%
+_magic_name_
+
+the Hierophant
+
+the Magi
+
+the Sage
+
+the Warrior-Mage
+
+%%%%
+_substance_name_
+
+Ash
+
+Bile
+
+Bloodstone
+
+Bodily Humours
+
+Bread
+
+Cheese
+
+Cobwebs
+
+Crystal
+
+Dried Tears
+
+Dung
+
+Ichor
+
+Ointment
+
+Oozing Pus
+
+Paper
+
+Rubbish
+
+Salt
+
+Saltpetre
+
+Sharkskin
+
+Slime
+
+Sulphur
+
+Terra Cotta
+
+# these don't really fit
+Dust
+
+Mana
+
+Spores
+
+Yeast
+
+%%%%
+other_weapon_name
+
+Broken Luck
+
+Carnicería
+
+Jaque mate
+
+Conversión
+
+Crawling
+
+Desertificación
+
+Puertas
+
+Espíritu empresarial
+
+False Hope
+
+Fulguración
+
+Gin y Tonic
+
+Grontol
+
+Hard Scrabble
+
+Establecimiento interdependiente
+
+La risa irreprimible
+
+No Interval
+
+Prescripción
+
+Vino tinto
+
+Res Nullius
+
+Combustión espontánea
+
+Terra Nullius
+
+Trampas
+
+Deshacerse
+
+Vodka
+
+el ojo ciego
+
+el Briny Deep
+
+la página vacía
+
+el Capítulo Final
+
+el punto Omega
+
+la Mano Abierta
+
+el Puño del Faraón
+
+el monstruo Real
+
+el Spinneret
+
+los dos nombres
+
+inhabilitación
+
+la Vendetta
+
+%%%%
+short_monster_name_
+
+w:1
+Acarine
+
+Bestia
+
+Escarabajo
+
+Demonio
+
+Dragon
+
+Giant
+
+Goblin
+
+Hydra
+
+Imposible
+
+Jelly
+
+w:1
+Lacertilian
+
+Newt
+
+Ogre
+
+Spider
+
+w:1
+Testudina
+
+%%%%
+_monster_name_
+
+@short_monster_name_@
+
+@player_species@
+
+Killer Bee
+
+Killer Klown
+
+Orb Guardian
+
+%%%%
+_short_killer_name_
+
+bane
+
+slayer
+
+%%%%
+killer_name
+
+'s Bane
+
+'s Curse
+
+La muerte
+
+'s Doom
+
+Es Foe
+
+'s Peril
+
+'s Regret
+
+%%%%
+_long_killer_name_
+
+'s Death Toll
+
+'s Demise
+
+'s Funeral
+
+'s Nightmare
+
+'s Undoing
+
+w:1
+'s Looming Annihilation
+
+%%%%
+_real_weapon_name_
+
+Arbiter
+
+Arcanum
+
+Concordance
+
+Conservator
+
+Death Rattle
+
+Dragon's Tongue
+
+Earthworm
+
+Embalmer
+
+Eviscerator
+
+Grim
+
+Grim Tooth
+
+Hell-Harrower
+
+Hellblazer
+
+Leviticus
+
+Lifebane
+
+Murmur
+
+Pendulum
+
+Sarcophage
+
+Tormentor
+
+Transmigrator
+
+Trog's @_anger_quality_@
+
+Ultimatum
+
+Undertaker
+
+w:5
+Widowermaker
+
+w:5
+Widowmaker
+
+Worm
+
+Worm's Wrath
+
+# Sigmund's sword
+Gram
+
+%%%%
+_joke_weapon_name_
+
+Aubergine
+
+Backscratcher
+
+Bingo
+
+Blob
+
+Brush
+
+Bung
+
+Cookie Cutter
+
+ETAOIN SHRDLU
+
+Egg
+
+Fish
+
+Giant's Toothpick
+
+Globulus
+
+Grom
+
+Grum
+
+Hulk
+
+Lorem Ipsum
+
+Mud Pie of Death
+
+No More Talking
+
+Omelette
+
+Ox
+
+Q
+
+Raisin
+
+Rummage
+
+Secret Weapon
+
+Starlight
+
+String
+
+Stringbean
+
+Tattletale
+
+Thing
+
+With Two Names
+
+X
+
+Xom's @_xom_esteem_@
+
+Z
+
+# These three are from old Crawl code.
+Glorpo
+
+Loopy
+
+Plojy
+
+%%%%
+_plain_weapon_name_
+
+w:15
+@short_monster_name_@@_short_killer_name_@
+
+w:8
+@_monster_name_@@killer_name@
+
+w:2
+@short_monster_name_@@_long_killer_name_@
+
+w:1
+@player_death@
+
+w:15
+@_real_weapon_name_@
+
+w:5
+@_joke_weapon_name_@
+
+%%%%

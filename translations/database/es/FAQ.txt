@@ -33,7 +33,7 @@ No puedo encontrar mis archivos guardados, morgue y volcados de personajes. ¿D�
 A:userdir
 
 Si estás jugando localmente (es decir, no en uno de los servidores), el chardump
-comando Will le dice dónde está escrito el archivo morgue, y esta información es
+comando le dice dónde está escrito el archivo morgue, y esta información es
 también se muestra debajo de la puntuación alta al final de un juego.
 
 El directorio guarda/ se puede encontrar en el mismo directorio que la morgue/uno.
@@ -209,17 +209,17 @@ delgado. Sin embargo, aquí hay algunas pistas generales:
 * Si tieneslo establece, utilice equipo defensivo (armas de protección, etc.).
 
 * Usar teletransportación para terminar en una parte completamente nueva de la Abyss. (Pero sigan
-en mente que la teletransportación Will tarda mucho más en empezar que en el
+en mente que la teletransportación tarda mucho más en empezar que en el
 Dungeon...)
 
 * Considera cambiar tu lealtad a Lugonu, el dios de la Abyss. Sobre
-conversión, tú Will puede escapar de la Abyss inmediatamente (pero puedes
+conversión, tú puede escapar de la Abyss inmediatamente (pero puedes
 enoja a tu dios anterior!).
 
 * Descendiendo más profundamente en el Abyss aumentar la posibilidad de encontrar una salida
 pero también aumenta el peligro que enfrentas.
 
-* Matar enemigos puede crear una puerta de salida, pero la mayoría de los enemigos Will ser
+* Matar enemigos puede crear una puerta de salida, pero la mayoría de los enemigos ser
 demasiado peligroso para luchar; ¡escoge tus batallas cuidadosamente!
 
 %%%%
@@ -261,7 +261,7 @@ recursos de discusión comunitaria para Discord, Reddit y IRC.
 %%%%
 Q:version
 
-Cuando Will el desarrollo alcanza la versión "estable" 1.0?
+Cuando el desarrollo alcanza la versión "estable" 1.0?
 
 %%%%
 A:version
@@ -282,7 +282,7 @@ Q:beta
 %%%%
 A:beta
 
-R: ¡Claro que sí! Puedes jugar "trunk" (lo que Will eventualmente se convierte en el
+R: ¡Claro que sí! Puedes jugar "trunk" (lo que eventualmente se convierte en el
 siguiente versión) online en cualquiera de los servidores en línea; https://crawl.develz.org
 también acoge binarios Windows y Mac puedes descarga. Tenga en cuenta que el tronco puede ser
 buggy, y que muy rara vez un error puede invalidar sus juegos salvados. Si
@@ -341,7 +341,7 @@ Las posibilidades son que lo hará en el juego.
 Tenga en cuenta que su idea tiene una mejor oportunidad de ser aceptada si presenta el
 ramificaciones en juego. ("Cómo hace [adding/removing X] hacer el juego
 mejor?") Una sugerencia de cómo mejorar la interfaz puede entrar sin mucho
-ado, pero otras sugerencias Will probablemente requieren defender " justificarlas.
+ado, pero otras sugerencias probablemente requieren defender " justificarlas.
 
 %%%%
 Q:help
@@ -400,14 +400,14 @@ A:tiles lag
 
 R: Crawl renderiza sus gráficos usando OpenGL y SDL. Porque usa OpenGL.
 depende de un poco de aceleración del hardware para no funcionar lentamente. Si tu
-el sistema no se establece para habilitar esto, entonces Crawl Will corre muy mal.
+el sistema no se establece para habilitar esto, entonces Crawl corre muy mal.
 
 En Windows, el controlador predeterminado que envía con Windows es extremadamente Slow. Hacer
 seguro actualizar su controlador de tarjeta gráfica al último disponible. En Linux,
 Deberías estar seguro de habilitar DRI.
 
 Además de estas sugerencias, puedes también trata de ver si retocando algunas
-opciones Will mejorar el rendimiento. Ver docs/tiles help.txt para más detalles. Si
+opciones mejorar el rendimiento. Ver docs/tiles help.txt para más detalles. Si
 las cosas todavía están muy pervertidas después de todo eso, tú podría probar el no-gráfico
 versión de consola, o esperar una versión futura que no depende de OpenGL.
 

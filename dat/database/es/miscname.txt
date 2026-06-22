@@ -1,0 +1,345 @@
+######################################################
+# Miscellaneous
+# -------------
+# miscname.txt: lookup miscellaneous names
+#
+# This file contains a list of names for miscellaneous things.
+######################################################
+%%%%
+summon_horrible_things
+
+Tu mente se hunde, tocada por los horrores a través del portal.
+
+Te acuestas dentro de tu bobina mortal, acariciada por la locura líquida a través de la puerta de enlace.
+
+# Bal-Sagoth
+El rito de citación parece tomar un peaje no insignificante en su cordura.
+
+Tú tiene una breve visión de un gran paisaje ciclopeano negro con impresionantes paredes estigianas.
+
+Tu visión está oscurecida por glifos calumniados que parecen obrar escamosamente y alterar su forma.
+
+Te sientes inexorablemente doblada por un sin nombre e implacable gloom.
+#-----------
+
+Te rebelas en la agonía porque tu mente está llena de horrores más allá de lo mortal.
+
+Tu mente está seducida por la locura sublime mientras miras a través del portal hacia el más allá.
+
+Te pusiste locamente ante la vista de la monstruosidad del eldritch.
+
+¡Te has apoderado de la locura!
+
+Intentar comprender las profundidades inconocibles del infinito lleva un peaje en tu cordura.
+
+Tus pensamientos son ineludiblemente atormentados por un drone incesante y zumbido.
+
+¡Tu mente se colapsa en locura ante la vista de esta blasfemia contra la creación!
+
+Tu mente se rompe brevemente, aunque apenas logras mantenerte unido.
+
+Tú siente su tenue comprensión de la cordura que empieza a erosionar.
+
+Penetrating susurros de la más profunda herejía sin cesar asaltar sus pensamientos.
+
+Tu mente duele con revulsión ante los horrores ondulantes que has hecho.
+
+Por un momento, tu mente está desnuda ante la infinidad de lo inimaginable.
+
+Tus pulsos de cráneo y tropiezos como palabras pronunciadas en una lengua indescriptible que cruza tu psique.
+
+Un llorón delgado y monótono de fuera del tiempo crece cada vez más fuerte.
+
+Los horrores intachables persisten en el borde de su visión, acercándose cada vez más.
+
+Estás vencido con un inexorable sentimiento de infalible gloom.
+
+Los pensamientos coherentes y razonables te parecen extraños.
+
+Tendriles de locura lloran y se meten en los crevices más oscuros de tu mente.
+
+Luchas para comprender la naturaleza de las fuerzas incomprensibles en el trabajo.
+
+¡Los amigos de pesadilla asaltan sus pensamientos despiertos!
+
+¡Viendo terrores asediando tu cordura!
+
+Las manchas de luminosidad de tu alcance débil.
+%%%%
+harlequin_trap_lines
+
+Extraños ecos gigantescos a través de tu mente como
+
+El rugido de una multitud burlona corre por tu mente como
+
+Una ronda de aplausos ahoga tus pensamientos como
+
+Un sentido cruel de la maldad se precipita a través de su entorno como
+%%%%
+# How great is the Orb of Zot?
+_great_adj_
+
+asombroso
+
+impresionante
+
+impresionante
+
+fábula
+
+fabulosa
+
+w:5
+fantabuloso
+
+glorioso
+
+increíble
+
+legendario
+
+magnífico
+
+majestuoso
+
+maravilloso
+
+espléndido
+
+estupendo
+
+sublime
+
+genial
+
+trascendente
+
+maravilloso
+%%%%
+welcome_spam
+
+¿Prevalirás donde otros fallaron? ¿Encontrarás el Orbo de Zot?
+
+El corazón de esta mazmorra contiene el artefacto @_great_adj_@, el Orbo de Zot.
+
+¿Serás tú el que recupere el @_great_adj_@ Orb de Zot de las profundidades?
+
+Se dice que el Orbo de Zot existe profundamente dentro de esta mazmorra.
+
+¿Estás destinado a encontrar el @_great_adj_@ Orb de Zot, o a morir intentando?
+
+Todo el mundo que buscaba el Orbe de Zot ha fracasado. ¿Serás diferente?
+
+Dicen que el Orbo de Zot está dentro de esta mazmorra, pero dicen muchas cosas.
+
+El @_great_adj_@ Orb de Zot está muy abajo, como si esperara que lo encuentres.
+
+A continuación se encuentra el Orbo de Zot, rumoreado para ser lo suficientemente poderoso para resucitar a un dios...
+
+El Orbo de Zot es codiciado por muchas razones. ¿Lo agarrarás por tu cuenta?
+
+Un vizier esmirante te dijo que el Orbe de Zot está justo dentro de esta calabaza.
+
+Si regresas sin encontrar el Orbo de Zot, hasta ahora, ¡se acabó!
+
+Es un largo camino hacia el Orbe de Zot, pero eso no debería ser ningún problema.
+%%%%
+welcome_spam dungeon descent
+
+¿Desciende donde otros fallaron? ¿Encontrarás el Orbo de Zot?
+
+¿Serás tú el que descienda y encuentre el @_great_adj_@ Orb de Zot?
+
+¿Estás destinado a descender al @_great_adj_@ Orb de Zot, o a morir intentando?
+
+Te sientes atraído a descender a las profundidades insondables para el Orbo de Zot...
+
+El @_great_adj_@ Orb de Zot se encuentra abajo, esperando que tú descienda y lo encuentre.
+
+Si desciendes sin encontrar el Orbo de Zot, hasta ahora, ¡se acabó!
+%%%%
+# things that surround us on Halloween
+_halloween_things_
+
+alucinaciones demoníacas
+
+espíritus desencarnados
+
+fantasmas y espectros
+
+espectáculos sonríes
+
+horribles apariciones
+
+visiones fantasmagóricas
+%%%%
+# things you don't want a witch to turn you into
+_lowly_
+
+newt
+
+slug
+
+toad
+
+gusano
+%%%%
+welcome_spam Halloween
+
+@welcome_spam@ ¡Ten cuidado! Halloween esta noche.
+
+Los monstruos aquí no son grandes fans de truco o trato. Si no te dan el Orbe de Zot, tendrás que tomarlo.
+
+Un terrible geas te ha enviado después del Orbe de Zot. ¡Qué noche tan horrible para tener una maldición!
+
+Mientras desciendes en busca del Orb, el rebaño @_halloween_things_@ alrededor de ti. ¡Este lugar está embrujado!
+
+Escuchas una hechicera, y de repente llegas a la mazmorra. Si no encuentras el Orbe de Zot, ¡te convertirás en un @_lowly_@!
+
+Si quieres encontrar el Orbe de Zot, necesitarás un disfraz mucho mejor que eso.
+
+Espero que este lugar tenga el Orbe de Zot, porque seguro que no tiene ningún caramelo.
+
+Incontables aventureros han entrado en el calabozo buscando el Orbo de Zot, pero siempre hay espacio para uno más...
+
+¡Sientes que el Orbo de Zot te llama... con horror, te das cuenta de que la llamada viene desde dentro de la mazmorra!
+
+%%%%
+hell_effect_quiet
+
+{}
+si tú puede smell() entonces
+"Hueles azufre."
+más
+"Lluvias de piedras preciosas desde arriba."
+final
+}
+
+"¡Abandonen toda esperanza!"
+
+"¡Die, mortal!"
+
+"¡Vete ahora, antes de que sea demasiado tarde!"
+
+"¡Nadie salvará a un desgraciado como tú!"
+
+"¡Arranca mientras puedas, mortal!"
+
+"¡Los pasajeros no son bienvenidos aquí!"
+
+"¡No perdonamos a los que nos ofenden!"
+
+"¡Tenemos esos lugares para mostrarte!"
+
+"¡Te tenemos ahora!"
+
+"¡Vamos a disfrutar viéndote morir!"
+
+"¡Todo lo que busques aquí, sólo encontrarás la muerte!"
+
+"¡No eres bienvenido aquí!"
+
+"¡No perteneces a este lugar!"
+
+"¡Has venido aquí a morir, tonto!"
+
+"¡Deberías haberte ido cuando tenías la oportunidad!"
+
+"¡No deberías haber venido aquí!"
+
+"¡Nunca escaparás!"
+
+"¡No dejarás este lugar!"
+
+Por un momento, todo sale oscuro.
+
+Algo aterrador sucede.
+
+Algo se mueve en las sombras al borde de tu visión.
+
+Tú capta un vistazo de su propio reflejo y son repulsados por lo que tú ve.
+
+Te sientes abandonado y abandonado...
+
+Siente una tug extraña, instándote más profundamente en la boca del Infierno...
+
+Te sientes terrible...
+
+Te sientes como si a nadie le importara si mueres aquí...
+
+Te sientes como si hubieras olvidado algo muy importante...
+
+Te sientes perdido y un largo, largo camino de casa...
+
+Te sientes tan cansada, tan débil... que sería tan agradable acostarte... para siempre...
+
+Te sientes totalmente rodeado, y sin embargo tan completamente solo...
+
+Tienes una premonición de tu propia muerte espantosa.
+
+Tienes una visión de ti mismo siendo atormentado eternamente.
+
+Te arrepientes de venir a este lugar abandonado.
+
+Tú siente una presencia hostil.
+
+Sentís un mal antiguo mirándote...
+
+Siente algo detrás de ti... pero no hay nada allí.
+
+Escudriñas con miedo.
+
+Te mueves con miedo.
+
+De repente sientes todo pequeño y vulnerable.
+
+La sangre te llena la boca. Definitivamente no es tuyo.
+%%%%
+hell_effect_noisy
+
+"¡BEGONE, TRESPASSER!"
+
+"¡TE TENGO AHORA!"
+
+¡Un coro de chillidos hace eco a tu alrededor!
+
+¡Un grito desgarrador llena el aire!
+
+¡Una voz odiosa recita tus secretos más profundos y oscuros!
+
+Una voz angustiada brilla por lo que se siente como la eternidad, entonces es repentinamente cortada.
+
+Escuchas un terrible aullido, creciendo más cerca y más...
+
+Escuchas un grito, y luego termina de repente con un crujiente mojado.
+
+Escuchas palabras abominables que ninguna lengua mortal podría pronunciar...
+
+¡Oyes una cacofonía infernal!
+
+¡Escuchas risas diabólicas!
+
+¡Escuchas descaradamente chillando!
+
+¡Oyes el crujir de dientes!
+
+Escuchas palabras habladas en un lenguaje extraño y terrible...
+
+Escuchas a tus seres queridos suplicando que vuelvas a casa...
+
+Escuchas a tus seres queridos alentándote a renunciar y morir...
+
+¡Oyes a tus seres queridos burlarte por venir aquí!
+
+Escuchas a tus seres queridos lamentando tu muerte trágica y sin sentido...
+
+Escuchas a tus seres queridos llorando en eterna y desesperada desesperación...
+
+¡Escuchas tu propia voz rogando por la muerte!
+
+¡Escuchas tu propia voz riendo maníacamente!
+
+¡Escuchas tu propia voz gritando agonía!
+
+¡Escuchas tu propia voz despertando miserablemente!
+%%%%

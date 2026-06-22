@@ -1,7 +1,7 @@
 %%%%
 imp_taunt
 
-VAR0   , you   VAR1   !
+VAR0 , you VAR1 !
 
 %%%%
 run_or_give_up
@@ -16,10 +16,10 @@ w:1
 demon_taunt
 
 w:1
- VAR0   , you   VAR1   !
+ VAR0 , you VAR1 !
 
 w:2
- VAR2  , you   VAR3   !
+ VAR2 , you VAR3 !
 
 w:3
  VAR4
@@ -27,13 +27,13 @@ w:3
 %%%%
 demon_taunt_special
 
-Tu   VAR0   será mi   VAR1   !
+Tu VAR0 será mi VAR1 !
 
- VAR2   , sabroso   VAR3   !
+ VAR2 , sabroso VAR3 !
 
- VAR4     VAR5   !
+ VAR4 VAR5 !
 
-I   VAR6     VAR7   tu   VAR8    !
+I VAR6 VAR7 tu VAR8 !
 
 %%%%
 run_away
@@ -191,7 +191,7 @@ w:1
 %%%%
 will_or_shall
 
-Will
+
 
 shall
 
@@ -242,7 +242,7 @@ esperanza
 
 fe
 
-Will
+
 
 corazón
 
@@ -292,7 +292,7 @@ boca llena
 %%%%
 generic_insult
 
- VAR0          VAR2  
+ VAR0 VAR2 
 
 %%%%
 insult_adjective1

@@ -1,0 +1,173 @@
+ASSERT(fp) in 'command.cc' at line 1339 failed. (Failed to open 'crawl_manual.txt'!)
+
+Version: Dungeon Crawl Stone Soup 0.34.1
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Seed: 321423481214055697, deterministic pregen: 1
+Command line: ./crawl
+
+RC options:
+restart_after_game = maybe
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 18 stack frames.
+./crawl(_Z17write_stack_traceP8_IO_FILE+0x3e) [0x5fe4b4abcc6e]: write_stack_trace(_IO_FILE*)
+./crawl(_Z13do_crash_dumpv+0x43a) [0x5fe4b4acaeba]: do_crash_dump()
+./crawl(_Z20crash_signal_handleri+0x1e5) [0x5fe4b4abd135]: crash_signal_handler(int)
+/lib/x86_64-linux-gnu/libc.so.6(+0x45330) [0x7b97e6c45330]: 
+/lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c) [0x7b97e6c9eb2c]: 
+/lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e) [0x7b97e6c4527e]: 
+./crawl(+0x4bc28d) [0x5fe4b4aca28d]: 
+./crawl(_Z12AssertFailedPKcS0_iS0_z+0x1a1) [0x5fe4b4aca771]: AssertFailed(char const*, char const*, int, char const*, ...)
+./crawl(+0x4a837c) [0x5fe4b4ab637c]: 
+./crawl(_ZN10help_popup11process_keyEi+0x72) [0x5fe4b4ab6722]: help_popup::process_key(int)
+./crawl(_Z9show_helpiNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x1b4) [0x5fe4b4ab3004]: show_help(int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
+./crawl(_Z15process_command12command_typeS_+0x17c7) [0x5fe4b524d667]: process_command(command_type, command_type)
+./crawl(+0xc3c3c2) [0x5fe4b524a3c2]: 
+./crawl(+0xc3ccad) [0x5fe4b524acad]: 
+./crawl(main+0x1aa) [0x5fe4b49f003a]: 
+/lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca) [0x7b97e6c2a1ca]: 
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b) [0x7b97e6c2a28b]: 
+./crawl(_start+0x25) [0x5fe4b49f0b15]: 
+
+gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 13.3.0
+Build platform: x86_64-linux-gnu
+Platform: x86_64-linux-gnu
+CFLAGS: -O2 -pipe -Wall -Wformat-security -Wundef -Wextra -Wno-missing-field-initializers -Wno-implicit-fallthrough -Wno-type-limits -Wno-uninitialized -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -isystem /usr/include/lua5.4 -DWIZARD -DASSERTS -DCLUA_BINDINGS -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600
+LDFLAGS: -rdynamic -fuse-ld=gold -O2
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = random_map_for_place, level layout type  = corridors, absdepth0 = 0
+Level vaults:
+    dpeg_arrival_water_altar
+    layout_loops_corners
+    minmay_crystal_room
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker #0, type 0 at (18, 55): feature (stone_stairs_up_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Welcome, kkpo the Kobold Berserker.
+Si regresas sin encontrar el Orbe de Zot, hasta ahora, ¡se acabó!
+Trog dice: ¡Mátenlos a todos!
+Press ? for a list of commands and other information.
+Found 2 scrolls labelled PAVYRAKHLASS.
+Found a staircase leading out of the dungeon.
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+Game started: 0.34.1
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_DISPLAY_COMMANDS
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    [kkpo]
+Species: Kobold
+Job:     Berserker
+
+HP: 14/14; mods: 0/0
+MP: 1/1; mod: 0
+Stats: 14 8 14
+Position: (18, 55), god: Trog (10), turn_is_over: 0, banished: 0
+Standing on/in/over feature: staircase leading out of the dungeon
+
+Skills (mode: auto)
+Name            | can_currently_train | train | training | level | points | progress
+Fighting        |          X          |   1   |    39    |    3  |    301 | 49/168
+Short Blades    |          X          |   1   |     0    |    0  |      0 | 0/29
+Long Blades     |          X          |   1   |     0    |    0  |      0 | 0/70
+Axes            |          X          |   1   |    39    |    2  |    301 | 89/212
+Maces & Flails  |          X          |   1   |     0    |    0  |      0 | 0/59
+Polearms        |          X          |   1   |     0    |    0  |      0 | 0/70
+Staves          |          X          |   1   |     0    |    0  |      0 | 0/59
+Ranged Weapons  |          X          |   1   |     0    |    0  |      0 | 0/29
+Throwing        |          X          |   1   |     0    |    0  |      0 | 0/42
+Armour          |          X          |   1   |    11    |    1  |    151 | 81/142
+Dodging         |          X          |   1   |    11    |    2  |    151 | 45/106
+Stealth         |          X          |   1   |     0    |    0  |      0 | 0/25
+Shields         |          X          |   1   |     0    |    0  |      0 | 0/70
+Unarmed Combat  |          X          |   1   |     0    |    0  |      0 | 0/50
+Spellcasting    |          X          |   0   |     0    |    0  |      0 | 0/50
+Conjurations    |          X          |   0   |     0    |    0  |      0 | 0/50
+Hexes           |          X          |   0   |     0    |    0  |      0 | 0/50
+Summonings      |          X          |   0   |     0    |    0  |      0 | 0/50
+Necromancy      |          X          |   0   |     0    |    0  |      0 | 0/50
+Translocations  |          X          |   0   |     0    |    0  |      0 | 0/50
+Forgecraft      |          X          |   0   |     0    |    0  |      0 | 0/50
+Fire Magic      |          X          |   0   |     0    |    0  |      0 | 0/50
+Ice Magic       |          X          |   0   |     0    |    0  |      0 | 0/50
+Air Magic       |          X          |   0   |     0    |    0  |      0 | 0/50
+Earth Magic     |          X          |   0   |     0    |    0  |      0 | 0/50
+Alchemy         |          X          |   0   |     0    |    0  |      0 | 0/50
+Invocations     |          X          |   1   |     0    |    0  |      0 | 0/42
+Evocations      |          X          |   1   |     0    |    0  |      0 | 0/35
+Shapeshifting   |          X          |   1   |     0    |    0  |      0 | 0/59
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #49: 61
+
+Mutations:
+    nightstalker: 3 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #1, inv slot #0: +0 hand axe
+    eq slot #3, inv slot #1: +0 animal skin
+
+}}}}}}}}}}}
+
+
+Screenshot:
+?.   ....
+...  ....
+...##....
+.........
+   #@.#
+   ##....
+     .###
+     .#
+     .#
+
+dlua errors:
+
+clua stack:
+
+dlua stack:
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

@@ -1,0 +1,468 @@
+######################################################
+# Miscast
+# -------------
+# miscast.txt: generate spell miscast messages for players,
+#              monsters, and invisible things
+#
+# Message keys are expected in the form:
+#   `<spell-school> miscast <player|monster|unseen>`
+######################################################
+%%%%
+conjuration miscast player
+
+Las chispas vuelan desde su @hands@
+
+Una extraña oleada de energía te golpea desde la nada
+
+Una ola de energía violenta lava a través de su cuerpo
+
+La energía madura a través de su cuerpo
+
+Estás atrapado en una explosión violenta
+
+Estás lleno de energía mágica
+%%%%
+conjuration miscast monster
+
+Las chispas vuelan desde @the_monster_possessive@ @hands@
+
+@The_monster@ emite un flash de luz
+
+@The_monster@ acecha violentamente
+
+@The_monster@ imbéciles violentamente
+
+@The_monster@ es atrapado en una explosión violenta
+
+@The_monster@ está lleno de energía mágica
+%%%%
+conjuration miscast unseen
+
+Una explosión violenta ocurre desde fuera del aire delgado
+
+Hay una repentina explosión de energía mágica
+%%%%
+hexes miscast player
+
+Las luces multicolores bailan ante tus ojos
+
+Te sientes un poco cansado
+
+La luz alrededor de ti se hincha momentáneamente
+
+Escuchas una indistinta disonancia susurrando dentro de tu mente
+
+Te sientes un extraño aumento de energía
+
+Olas de luz @any_colour@ onda sobre su cuerpo
+
+Te sientes enfadada
+
+La magia surge de su cuerpo
+%%%%
+hexes miscast monster
+
+Las luces multicolores bailan alrededor de @the_monster@
+
+@The_monster@ parece durmiente por un segundo
+
+La luz alrededor de @the_monster@ dims momentáneamente
+
+Twitches @The_monster@
+
+@The_monster_possessive@ cuerpo brilla momentáneamente
+
+Olas de luz @any_colour@ onda sobre el cuerpo @the_monster_possessive@
+
+Oleajes mágicos de @the_monster@
+%%%%
+hexes miscast unseen
+
+Las luces multicolores bailan en el aire
+
+Un parche de dimos de luz momentáneamente
+
+La magia sale del aire delgado
+%%%%
+summoning miscast player
+
+Un puñetazo de ojos en la vista
+
+Voces discretas claman en tu mente
+
+Algo forma de salir del aire delgado
+
+Un coro de gemidos llama a tu mente
+
+Las manos desesperadas te gritan
+%%%%
+summoning miscast monster
+
+Manos desesperadas gritan a @the_monster@
+%%%%
+summoning miscast unseen
+
+Manos desesperadas gritan al azar
+%%%%
+necromancy miscast player
+
+Escuchas voces extrañas y distantes
+
+El mundo que te rodea parece dim momentáneamente
+
+Te sientes como si algo caminó sobre tu tumba
+
+Te sientes maligno
+
+Te sientes muy incómodo
+
+El dolor dispara a través de su cuerpo
+
+Te sientes terriblemente letárgico
+
+Tu carne se pudre lejos
+
+Sombras desconcertantes te rodean
+
+Estás envuelto en energía negativa
+
+Convulsas indefenso mientras el dolor rompe tu cuerpo
+%%%%
+necromancy miscast monster
+
+@The_monster@ golpes violentamente
+
+@The_monster@ pausas, visiblemente perturbadas
+
+@The_monster@ parece dim momentáneamente
+
+@The_monster@ parece que algo caminó sobre la tumba de @possessive@
+
+@The_monster@ es brevemente teñido con negro
+
+@The_monster@ scowls horriblemente
+
+@The_monster@ convulsiones con dolor
+
+@The_monster@ parece increíblemente sin lista
+
+@The_monster@ se pudra lejos
+
+Sombras tenues rodean @the_monster@
+
+@The_monster@ está envuelto en energía negativa
+
+@The_monster@ convulsa sin ayuda con el dolor
+
+@The_monster@ parece asustado por un momento
+%%%%
+necromancy miscast unseen
+
+El aire tiene un tinge negro por un momento
+
+Sombras en el aire delgado
+%%%%
+translocation miscast player
+
+Te das un vistazo a la espalda de tu propia cabeza
+
+Siente una sensación de desgarradora
+
+Te sientes fuera del equilibrio por un momento
+
+El suelo y el techo cambian brevemente los lugares
+
+Da vueltas
+
+El mundo aparece momentáneamente distorsionado
+
+Estás atrapado en un campo de distorsión espacial
+
+Los giros espaciales en sí mismos
+
+Espacio [bends sometidawarps] [crazily tención]
+%%%%
+translocation miscast monster
+
+@The_monster@ se masturba violentamente por un momento
+
+@The_monster@ mira fuera del equilibrio por un momento
+
+@The_monster@ gira alrededor
+
+@The_monster@ aparece momentáneamente distorsionado
+
+@The_monster_possessive@ cuenta con reorganizarse por un tiempo
+
+@The_monster@ es atrapado en un campo de distorsión espacial
+
+Space [bends sometidawarps] [crazily TEN]around @the_monster@
+%%%%
+translocation miscast unseen
+
+El espacio alrededor de algo warps imposible
+
+Un pedazo de giros y distorsiones del espacio vacío
+
+Una grieta se abre temporalmente en la tela del espacio
+%%%%
+fire miscast player
+
+Vuela de tu @hands@
+
+El aire alrededor quema con energía
+
+El calor corre a través de su cuerpo
+
+Te sientes incómodamente caliente
+
+Lágrimas de fuego fuera de su @hands@
+
+Flames sear tu carne
+
+Tú está lleno de [aprendizaje Silencio] [fuego inflamado]
+
+Estás atrapado en una explosión ardiente
+
+Hay una explosión repentina y violenta de llamas
+%%%%
+fire miscast monster
+
+Vuela desde @the_monster_possessive@ @hands@
+
+El aire alrededor del @the_monster@ quema con energía
+
+Llamas descompuestas sobre el cuerpo @the_monster_possessive@
+
+Lágrimas de fuego @the_monster_possessive@ @hands@
+
+Flames sear @the_monster@
+
+@The_monster@ se desborda con [aprendizaje Silencio] [fuego inflamado]
+
+@The_monster@ es atrapado en una explosión ardiente
+%%%%
+fire miscast unseen
+
+Bomberos de la nada
+
+Una llama quema brevemente en el aire delgado
+
+El fuego explota desde el aire delgado
+
+Una llama grande quema caliente por un momento en el aire delgado
+%%%%
+ice miscast player
+
+Te shiver con frío
+
+Un escalofrío atraviesa tu cuerpo
+
+Tu @hands@ se siente @hand_conj@ entumecido con frío
+
+Te sientes [un poco de vida incómodamente eternamente] frío
+
+[Ice habitFrost] cubre su cuerpo
+
+Tú está encasillado en [ice imperfrost]
+
+Tú está cubierto en una capa delgada de [ice imperfrost]
+
+El calor se drena de su cuerpo
+
+Estás atrapado en una explosión de hielo y helada
+%%%%
+ice miscast monster
+
+Brillos @The_monster@ con frío
+
+Fundas de escote @the_monster_possessive@ cuerpo
+
+Brillos @The_monster@
+
+@The_monster@ está cubierto en una capa delgada de [ice imperfrost]
+
+El calor se drena de @the_monster@
+
+@The_monster@ es atrapado en una explosión de hielo y helada
+
+@The_monster@ está encasillado en [ice imperfrost]
+%%%%
+ice miscast unseen
+
+Esposas de la deriva de condensación en el aire
+
+Hielo y helada explotan desde el aire delgado
+
+Una figura invisible está encasillada en [ice sometidafrost]
+%%%%
+air miscast player
+
+Sparks of electricity dance around you
+
+El aire que te rodea se rompe con energía
+
+Estás lleno de aire
+
+Hay una ducha corta y afilada de chispas
+
+El viento te rodea
+
+Te sientes un choque eléctrico repentino
+
+Cursos de electricidad a través de su cuerpo
+
+Estás atrapado en una explosión de descargas eléctricas
+%%%%
+air miscast monster
+
+@The_monster@ bobs en el aire por un momento
+
+Sparks of electricity dance between @the_monster_possessive@ @hands@
+
+El aire alrededor de las grietas @the_monster@ con energía
+
+@The_monster@ es volado con aire
+
+@The_monster@ se ducha brevemente en chispas
+
+El viento gime alrededor del @the_monster@
+
+@The_monster@ está destrozado
+
+@The_monster@ es atrapado en una explosión de descargas eléctricas
+
+@The_monster@ es golpeado por el aire retorcido
+%%%%
+air miscast unseen
+
+El viento sale de la nada
+
+Algo invisible brilla con electricidad
+
+El aire alrededor de algo se rompe con la energía
+
+Las descargas eléctricas explotan desde el aire delgado
+
+El aire se retorce locamente alrededor de un lugar
+%%%%
+earth miscast player
+
+[Sand habitGravel] pours from your @hands@
+
+Tú siente un aumento de energía desde el suelo
+
+El piso [salta las vidas eternashudders sometidaquakes sometidarumbles] bajo tú alarmantemente
+
+Estás golpeado por rocas voladoras
+
+Estás lleno de arena
+
+Las rocas te caen de la nada
+
+Estás atrapado en una explosión de metralla voladora
+%%%%
+earth miscast monster
+
+[Sand habitGravel] pours from @the_monster_possessive@ @hands@
+
+@The_monster@ es golpeado por rocas voladoras
+
+@The_monster@ es volado con arena
+
+Las rocas caen sobre @the_monster@ de la nada
+
+@The_monster@ es atrapado en una explosión de metralla voladora
+%%%%
+earth miscast unseen
+
+Las rocas voladoras aparecen en el aire delgado
+
+Una tormenta de arena en miniatura aparece brevemente
+
+Las rocas caen de la nada
+
+La metralla voladora explota desde el aire delgado
+%%%%
+alchemy miscast player
+
+Estás envuelto en humos tóxicos
+
+Hay un flash de canillar
+
+[Mercury sometidaQuicksilver eternaFool's gold resistSaltpeter vidasSulphur habitLiquid metal] fluye de tu @hands@
+
+Partes de su cuerpo giran brevemente [golden vidasilvery sometidametallic habitleaden torturacrystalline]
+
+w:4
+Estás superado por nubes de humo @any_colour@
+
+w:4
+El interior de su boca sabe momentáneamente como @any_colour@
+
+w:2
+Tu piel cambia a @any_colour_pattern@
+
+w:2
+Estás rodeado de nubes de polvo @any_glowing_colour@
+%%%%
+alchemy miscast monster
+
+@The_monster@ está envuelto en humos tóxicos
+
+El @The_monster@ está [sufrido en la oscuridad] con polvo [cinnabar sometidasulphur]
+
+@The_monster@ es recubierta de sal
+
+@The_monster@ comienza a tos violentamente
+
+@The_monster@ parece increíblemente enfermo
+
+w:5
+@The_monster@ es superado por nubes de humo @any_colour@
+
+w:5
+@The_monster_possessive@ cambios de piel a @any_colour_pattern@
+
+w:5
+@The_monster@ está rodeado de nubes de polvo @any_glowing_colour@
+%%%%
+alchemy miscast unseen
+
+El aire tiene un tinge verde por un momento
+
+El calor sulfuroso explota desde el aire delgado
+
+Una figura invisible es recubierta de sal
+%%%%
+forgecraft miscast player
+
+Pierde integridad estructural
+
+Te sientes deconstruido ligeramente
+
+Un sonido de ecos sonoros en tu mente
+
+Las probabilidades de metal y los extremos caen sobre ti de la nada
+
+Estás cubierto de fragmentos metálicos
+
+Estás atrapado en una explosión de desechos metálicos
+%%%%
+forgecraft miscast monster
+
+@The_monster@ pierde integridad estructural
+
+Las probabilidades de metal y los extremos caen sobre @the_monster@ de la nada
+
+@The_monster@ está cubierto de fragmentos metálicos
+
+@The_monster@ es atrapado en una explosión de desechos metálicos
+%%%%
+forgecraft miscast unseen
+
+Las probabilidades de metal y termina la lluvia desde arriba
+
+Una figura invisible está cubierta de fragmentos metálicos
+
+Los desechos metálicos explotan desde el aire delgado

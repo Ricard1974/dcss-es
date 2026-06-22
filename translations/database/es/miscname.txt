@@ -73,25 +73,25 @@ Un sentido cruel de la maldad se precipita a través de su entorno como
 %%%%
 welcome_spam
 
-Will tú prevalece donde otros fallaron? Will you find el Orbe de Zot?
+ tú prevalece donde otros fallaron? you find el Orbe de Zot?
 
-El corazón de esta mazmorra contiene el artefacto   VAR0  , el Orbe de Zot.
+El corazón de esta mazmorra contiene el artefacto VAR0 , el Orbe de Zot.
 
-Will Tú es el que recupera el   VAR1   Orb de Zot de las Profundidades?
+ Tú es el que recupera el VAR1 Orb de Zot de las Profundidades?
 
 It is said that el Orbe de Zot exists deep within this dungeon.
 
-¿Está destinado a encontrar el   VAR2    Orb de Zot, o a morir intentando?
+¿Está destinado a encontrar el VAR2 Orb de Zot, o a morir intentando?
 
-Todo el mundo que buscaba el Orbe de Zot ha fracasado. Will ¿eres diferente?
+Todo el mundo que buscaba el Orbe de Zot ha fracasado. ¿eres diferente?
 
 Dicen que el Orbe de Zot está dentro de esta mazmorra, pero dicen muchas cosas.
 
- VAR3  Orb of Zot se encuentra muy abajo, como si esperara que lo encuentres.
+ VAR3 Orb of Zot se encuentra muy abajo, como si esperara que lo encuentres.
 
 A continuación se encuentra el Orbe de Zot, rumoreado para ser lo suficientemente poderoso para resucitar a un dios ...
 
-el Orbe de Zot is coveted for many reasons. Will ¿Lo tomas por tu cuenta?
+el Orbe de Zot is coveted for many reasons. ¿Lo tomas por tu cuenta?
 
 Un vizier esmirante le dijo que el Orbe de Zot está justo dentro de esta mazmorra.
 
@@ -102,30 +102,30 @@ Es un largo camino hasta el Orbe de Zot, pero eso no debería ser ningún proble
 %%%%
 welcome_spam dungeon descent
 
-Will ¿desciendes donde otros fallaron? Will you find el Orbe de Zot?
+ ¿desciendes donde otros fallaron? you find el Orbe de Zot?
 
-Will Tú es el que desciende y encuentra el   VAR0   Orb de Zot?
+ Tú es el que desciende y encuentra el VAR0 Orb de Zot?
 
-¿Estás destinado a descender al   VAR1    Orb de Zot, o a morir intentando?
+¿Estás destinado a descender al VAR1 Orb de Zot, o a morir intentando?
 
 Te sientes atraído a descender a las profundidades insondables para el Orbe de Zot...
 
- VAR2  Orb of Zot se encuentra abajo, esperando que tú descienda y lo encuentre.
+ VAR2 Orb of Zot se encuentra abajo, esperando que tú descienda y lo encuentre.
 
 Si desciendes sin encontrar el Orbe de Zot, hasta ahora abajo, ¡se acabó!
 
 %%%%
 welcome_spam Halloween
 
- VAR0  ¡Ten cuidado! Halloween esta noche.
+ VAR0 ¡Ten cuidado! Halloween esta noche.
 
 Los monstruos aquí no son grandes fans de truco o trato. Si no te dan el Orbe de Zot, tendrás que tomarlo.
 
 Un terrible geas te ha enviado después de el Orbe de Zot. ¡Qué noche tan horrible para tener una maldición!
 
-Al descender en busca de el Orbe,   VAR1   rebaño alrededor de tú. ¡Este lugar está embrujado!
+Al descender en busca de el Orbe, VAR1 rebaño alrededor de tú. ¡Este lugar está embrujado!
 
-Escuchas una hechicera, y de repente llegas al la Mazmorra. Si no encuentras el Orbe de Zot, te convertirás en un   VAR2  !
+Escuchas una hechicera, y de repente llegas al la Mazmorra. Si no encuentras el Orbe de Zot, te convertirás en un VAR2 !
 
 Si quieres encontrar el Orbe de Zot, necesitarás un disfraz mucho mejor que eso.
 
@@ -160,7 +160,7 @@ hell_effect_quiet
 
 "¡Disfrutamos viéndote morir!"
 
-"Lo que tú busca aquí, tú Will encontrar sólo la muerte!"
+"Lo que tú busca aquí, tú encontrar sólo la muerte!"
 
 "¡No eres bienvenido aquí!"
 

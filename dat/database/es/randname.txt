@@ -1,0 +1,1386 @@
+###############################################################################
+# Randart Names
+# -------------
+# randname.txt: lookup randart type
+#
+# This file contains the lists of keywords (and their weights) for some lookup
+# phrases of randart type, namely "weapon", "armour" and "jewellery" as well
+# as in combination with those gods that occasionally gift randarts, i.e.
+# "Trog weapon", "Okawaru weapon", "Okawaru armour", "Xom weapon", "Xom armour"
+# and "Xom jewellery". Ashenzari names cursed items; these names don't depend
+# on type and are found under the keyword "Ashenzari". Incidentally, they
+# are listed in precisely that order. At the end of the file you will also
+# find a few lists of adjectives used for unidentified randart appearances.
+#
+# The syntax for keywords is the same as that of monster speech (details are in
+# docs/develop/monster_speech.txt). Any phrase encased in '@' symbols is one
+# the database will recognise as a keyword that needs to be replaced.
+# Definitions of such keywords can be found in 4 different places:
+#
+#  o  rand_wpn.txt  - keywords used mainly for weapons
+#  o  rand_arm.txt  - keywords used mainly for armour
+#  o  rand_all.txt  - keywords used for jewellery
+#                     as well as for all three types
+#  o  randbook.txt  - keywords used for randart books
+#  o  hardcoded (e.g. artefact.cc)
+#
+# The latter allows the use of phrases elsewhere defined in Crawl. The list of
+# hardcoded keywords is as follows:
+#
+#  * player_name     - player-chosen character name
+#  * player_species  - species of the character
+#  * branch_name     - name of a random Crawl branch
+#  * god_name        - name of a random Crawl god
+#  * xom_name        - one of Xom's long names
+#
+# In the case of god_name this actually allows some more refined handling. In
+# fact, the god will not be picked entirely at random as there are some
+# restrictions to make sure that e.g. no good god is chosen for evil weapons,
+# or that Zin doesn't get picked for randarts with mutagenic properties. Also,
+# if this keyword appears on a divine item gift it will always be replaced by
+# the god doing the gifting.
+#
+# Randart names may only have a maximum length of 25 symbols (spaces included).
+# This comparison takes place after all replacements have been taken care of,
+# and the name is thus complete. If a name turns out to be longer than this
+# threshold, the game will roll another one.
+#
+# Note that weapons and armour use database names for only half of all randarts
+# created (the others are entirely random names), for jewellery this is only
+# the case for one in five randarts. These chances are hardcoded.
+#
+# Feel free to play around with the keywords or their weights. The default
+# weight of an entry is w:10, and an entry is picked with a chance of its
+# weight out of the sum of all weights for entries in a group. Consequently if
+# you set the weight of a keyword to a really high value (say, 10,000) you can
+# test how it looks in the game. Even better, if you have wizard mode compiled
+# in (check in-game '?V' version information) you can use the wizard command
+# '&o' to create objects and '&+' to turn an ordinary object into a randart.
+#
+# Have fun!
+######################################################
+%%%%
+######################################################
+# 1. WEAPONS
+######################################################
+weapon
+
+# weapon specific keywords (see rand_wpn.txt)
+of @_power_or_anger_@
+
+of @_battle_or_war_@
+
+w:1
+of @player_doom@
+
+w:8
+of @death_or_doom@
+
+w:1
+pLH1 @death_or_doom@
+
+w:6
+pLH1 @_strategy_or_justice_@
+
+of @_strategy_or_justice_@
+
+w:3
+pLH1 @_people_name_@
+
+w:3
+del @_people_name_@
+
+w:2
+pLH1 @_diviner_name_@
+
+w:5
+pLH1 @_weapon_animal_@
+
+w:5
+del @_weapon_animal_@
+
+w:2
+del @_plant_name_@
+
+w:7
+of @_evil_stuff_@
+
+w:5
+of @_catastrophe_name_@
+
+w:8
+of @_chaos_name_@
+
+w:8
+of @_balance_or_order_@
+
+of @_economics_or_politics_@
+
+w:8
+of @branch_name@
+
+w:7
+of @_place_name_@
+
+w:5
+of @_discomfort_weapon_@
+
+w:4
+del @_item_name_@
+
+w:1
+of @_magic_name_@
+
+w:5
+of @_substance_name_@
+
+w:7
+of @_science_name_@
+
+w:5
+of @other_weapon_name@
+
+w:30
+"@_plain_weapon_name_@"
+
+# general keywords (see rand_all.txt)
+w:5
+of @_time_name_@
+
+w:5
+of @_sky_or_light_@
+
+18
+of @_virtue_or_vice_@
+
+pLH1 @_thing_names_@
+
+w:5
+of @_destiny_name_@
+
+w:9
+pLH1 @divine_esteem@
+
+w:4
+de los Dioses @_verbing_@
+
+w:4
+del @_adjective_@ Dios
+
+w:2
+pLH1, @_verbing_@
+
+# hardcoded keywords
+w:1
+of @god_name@
+%%%%
+######################################################
+# 2. ARMOUR
+######################################################
+%%%%
+talisman
+
+# TODO?
+@armour@
+%%%%
+armour
+
+# armour specific keywords (see rand_arm.txt)
+of @_armour_name_shielding_@
+
+w:8
+of @_armour_property_name_@
+
+#
+of @_wacky_armour_name_@
+
+del @_profession_name_@
+
+w:5
+pLH1 @_profession_name_@
+of @_politics_name_armour_@
+
+w:3
+of @_weather_name_@
+
+w:9
+of @_good_or_divine_@
+
+w:9
+pLH1 @_good_or_divine_@
+
+w:5
+del @_celestial_bodies_@
+
+w:5
+of @_instrument_name_@
+
+#
+del @_armour_animal_@
+
+w:1
+pLH1 @_armour_animal_@
+
+w:3
+of @_flower_name_@
+
+w:1
+del @_fruit_name_@
+
+w:2
+del @_critter_name_@
+
+w:1
+pLH1 @_critter_name_@
+
+w:5
+of @_evil_being_@
+
+of @_discomfort_and_inaction_@
+
+of @_game_name_@
+
+w:15
+of @_other_armour_name_@
+
+w:2
+"@_plain_armour_name_@"
+
+# weapon specific keywords (see rand_arm.txt)
+w:25
+of @_philosophy_or_science_@
+
+w:15
+of @_place_name_@
+
+# general keywords (see rand_all.txt)
+of @_time_name_@
+
+w:8
+of @_sky_or_light_@
+
+w:30
+of @_virtue_or_vice_@
+
+w:6
+pLH1 @_verbing_@ @_thing_names_@
+
+pLH1 @_thing_names_@
+
+#
+pLH1 @divine_esteem@
+
+w:4
+de los Dioses @_verbing_@
+
+w:4
+del @_adjective_@ Dios
+
+w:2
+pLH1, @_verbing_@
+
+# hardcoded keywords
+w:1
+of @god_name@
+
+w:15
+of @branch_name@
+%%%%
+######################################################
+# 3. JEWELLERY
+######################################################
+jewellery
+
+# jewellery specials (see rand_all.txt)
+w:3
+del @_jewellery_animal_@
+
+of @_jewellery_special_name_@
+
+of @_suspicion_name_@
+
+# as defined for weapons (see rand_wpn.txt)
+del @_people_name_@
+
+w:5
+pLH1 @_people_name_@
+
+w:17
+of @_balance_or_order_@
+
+14
+of @_philosophy_name_@
+
+of @other_weapon_name@
+
+# as defined for armour (see rand_arm.txt)
+#
+del @_armour_animal_@
+
+w:3
+of @_flower_name_@
+
+w:3
+pLH1 @_fruit_name_@
+
+w:5
+of @_evil_being_@
+
+#
+of @_good_or_divine_@
+
+w:12
+of @_politics_name_armour_@
+
+w:2
+"@_plain_armour_name_@"
+
+# same for all three types (see rand_all.txt)
+13
+of @_time_name_@
+
+of @_sky_or_light_@
+
+#
+pLH1 @divine_esteem@
+
+w:4
+de los Dioses @_verbing_@
+
+w:4
+del @_adjective_@ Dios
+
+w:2
+pLH1, @_verbing_@
+
+del @_xom_esteem_@ de Xom
+
+w:7
+of @_virtue_name_@
+
+13
+of @_vice_name_@
+
+pLH1 @_thing_names_@
+
+pLH1 @_verbing_@ @_thing_names_@
+%%%%
+######################################################
+# GOD GIFT specials
+######################################################
+# TROG (weapons only)
+######################################################
+Trog weapon
+
+# names containing battle and death are more likely
+#
+of @_power_or_anger_@
+
+w:5
+pLH1 @_power_or_anger_@
+
+#
+of @_battle_or_war_@
+
+w:5
+pLH1 @_battle_or_war_@
+
+#
+of @death_or_doom@
+
+w:5
+pLH1 @death_or_doom@
+
+w:7
+of @_strategy_name_@
+
+w:15
+of @_justice_name_@
+
+w:30
+of @_virtue_or_vice_@
+
+w:1
+of Trog
+
+#
+del @divine_esteem@ de Trog
+
+del @_anger_quality_@ de Trog
+
+w:15
+del @_weapon_animal_@
+
+w:15
+of @_evil_stuff_@
+
+of @_catastrophe_name_@
+
+w:15
+of @_chaos_name_@
+
+#
+of @_balance_or_order_@
+
+#
+of @_economics_or_politics_@
+
+w:15
+of @branch_name@
+
+w:15
+of @_place_name_@
+
+w:15
+of @_time_name_@
+
+of @_sky_or_light_@
+
+#
+pLH1 @_thing_names_@
+
+of @_discomfort_weapon_@
+
+del @_item_name_@
+
+w:15
+of @_philosophy_name_@
+
+of @_science_name_@
+
+of @other_weapon_name@
+
+de @_monster_name_@@killer_name@
+
+w:30
+"@_plain_weapon_name_@"
+
+"@_adjective_@ @_plain_weapon_name_@"
+%%%%
+######################################################
+# OKAWARU weapon
+######################################################
+Okawaru weapon
+
+# basically use normal set
+w:400
+@weapon@
+
+# with a few special cases
+w:2
+pLH1 @_valour_name_@
+
+w:3
+del @divine_esteem@ de Okawaru
+
+w:1
+of Okawaru, @_verbing_@
+
+# and bonus probability for some of the more harmless themes
+of @_strategy_or_justice_@
+
+w:5
+of @_philosophy_name_@
+
+w:3
+of @_balance_or_order_@
+
+w:5
+of @_power_name_@
+
+w:2
+of @_virtue_name_@
+
+w:1
+del @_diviner_name_@
+
+w:5
+del @_weapon_animal_@
+
+w:5
+of @_place_name_@
+
+w:2
+of @_item_name_@
+%%%%
+######################################################
+# OKAWARU armour
+######################################################
+Okawaru robe
+
+@Okawaru armour@
+%%%%
+Okawaru body armour
+
+@Okawaru armour@
+%%%%
+Okawaru armour
+
+# again use normal chances with a few exceptions
+w:400
+@armour@
+
+w:2
+pLH1 @_valour_name_@
+
+w:2
+del @divine_esteem@ de Okawaru
+
+w:2
+del @_armour_animal_@
+
+w:1
+of @_good_or_divine_@
+
+w:2
+of @_armour_name_shielding_@
+
+w:1
+of @_armour_property_name_@
+
+w:1
+of @_wacky_armour_name_@
+
+w:2
+of @_politics_name_armour_@
+%%%%
+######################################################
+# XOM weapon
+######################################################
+# Xom will basically allow everything
+Xom weapon
+
+# increased chances (obviously!)
+w:5
+of @_chaos_name_@
+
+w:5
+del @_xom_esteem_@ de Xom
+
+w:2
+del @divine_esteem@ de Xom
+
+w:2
+"Xom, @_verbing_@ y @_verbing_@"
+
+w:2
+pLH1 @_fruit_name_@
+
+# uses the long name
+w:1
+of @xom_name@
+
+w:1
+of @_game_name_@
+
+w:400
+@weapon@
+
+# and why not some of the other names?
+@jewellery@
+
+@armour@
+%%%%
+######################################################
+# XOM armour
+######################################################
+Xom robe
+
+@Xom armour@
+%%%%
+Xom body armour
+
+@Xom armour@
+%%%%
+Xom armour
+
+# increased chances (obviously!)
+w:5
+of @_chaos_name_@
+
+w:5
+del @_xom_esteem_@ de Xom
+
+w:2
+del @divine_esteem@ de Xom
+
+w:2
+"@_adjective_@ Xom"
+
+# uses the long name
+w:1
+of @xom_name@
+
+w:1
+of @_game_name_@
+
+w:1
+of @player_death@
+
+w:400
+@armour@
+
+# why not some other names?
+# (sadly, some weapon names don't make sense even for Xom)
+@jewellery@
+%%%%
+######################################################
+# XOM jewellery
+######################################################
+Xom jewellery
+
+# increased chances (obviously!)
+w:5
+of @_chaos_name_@
+
+w:5
+del @_xom_esteem_@ de Xom
+
+w:2
+del @divine_esteem@ de Xom
+
+w:2
+pLH1 Xom
+
+# uses the long name
+w:1
+of @xom_name@
+
+w:1
+of @_game_name_@
+
+w:1
+of @player_death@
+
+w:1
+of @player_doom@
+
+w:300
+@jewellery@
+
+# why not some other names?
+# (sadly, some weapon names don't make sense even for Xom)
+@armour@
+%%%%
+######################################################
+# ASHENZARI
+# All types of curses
+######################################################
+Ashenzari
+
+w:100
+pLH1 @_ashenzari_object_@
+
+w:100
+pLH1 @_ashenzari_object_@
+
+w:100
+"@_ashenzari_adjective_@ @_ashenzari_object_@"
+
+w:50
+"@_ashenzari_object_@ de @god_name@"
+
+w:100
+"@_ashenzari_object_@ del @_ashenzari_epithet_@"
+
+#
+"@_celestial_bodies_@ del @_ashenzari_epithet_@"
+
+#
+del @_ashenzari_epithet_@
+
+#
+pLH1 @_celestial_bodies_@
+
+#
+pLH1 @_celestial_bodies_@
+
+#
+pLH1 @_celestial_bodies_@
+
+#
+"Compartir mi @_ashenzari_object_@"
+
+#
+"@_ashenzari_bound_adjective_@ Conmigo"
+
+#
+"@_ashenzari_bound_adjective_@ Together"
+
+pLH1 @_ashenzari_heavens_@
+
+pLH1 @_ashenzari_heavens_@
+
+of the Fated @_ashenzari_object_@
+
+w:5
+de la aromatización
+
+w:5
+"¿En qué Conocimiento de Costo?"
+
+w:5
+"He aquí la eternidad"
+
+w:5
+de Cremastomancia
+
+w:5
+de Curses y Poder
+
+w:5
+of Desmomancy
+
+w:5
+del ojo en el cielo
+
+w:5
+"Gaze On Infinity"
+
+w:5
+"Yo sabía que harías eso"
+
+w:5
+"Yo lo previé"
+
+w:5
+de Ouranomancy
+
+w:5
+"Overhang to Understanding"
+
+w:5
+"Per Aspera Ad Scientiam"
+
+w:5
+de Panopticon
+
+w:5
+de la Sabiduría Star-Bound
+
+w:5
+gnosis Supernal
+
+w:5
+de Conocimiento Supernal
+
+w:5
+of Supernal Understanding
+
+w:5
+de la Sabiduría Supernal
+
+w:5
+"Thunder Perfect Mind"
+
+w:5
+del legado de Toth-Mos
+
+w:5
+de la Gaza Inflexible
+
+w:5
+del Wild Blue Yonder
+
+w:1
+"Aficionado oscilante"
+%%%%
+_ashenzari_object_
+
+Adversidad
+
+Aflicción
+
+Burden
+
+Fetters
+
+Gnosis
+
+Pérdida
+
+Omen
+
+Ordeal
+
+Portent
+
+Prisión
+
+Regret
+
+Reponerse
+
+Restablecimiento
+
+Dolor
+
+Visión
+
+Yoke
+
+w:100
+@_diviner_name_@
+
+w:150
+@_discomfort_weapon_@
+
+w:100
+@_philosophy_name_@
+
+w:100
+@_discomfort_and_inaction_@
+
+w:100
+@_suspicion_no_conflict_name_@
+%%%%
+_ashenzari_adjective_
+
+w:50
+@_ashenzari_bound_adjective_@
+
+w:50
+@_ashenzari_knowledge_adjective_@
+
+@_ashenzari_celestial_adjective_@
+%%%%
+_ashenzari_bound_adjective_
+
+Bound
+
+Cadena
+
+Circunscripción
+
+Maldito
+
+Ensconcedidos
+
+Eterno
+
+Lashed
+
+Restricciones
+
+Ruined
+
+Shackled
+
+Destrozado
+
+Tethered
+%%%%
+_ashenzari_celestial_adjective_
+
+Astral
+
+Celestial
+
+Cósmico
+
+Distante
+
+Elysian
+
+Sidereal
+
+Stellar
+
+Sublime
+%%%%
+_ashenzari_knowledge_adjective_
+
+All-seeing
+
+Astrológicas
+
+Clairvoyant
+
+Críptico
+
+Iluminación
+
+Enigmática
+
+Esotérico
+
+Gnostic
+
+Manifest
+
+Mantic
+
+Omniscient
+
+Oracular
+
+Pangnostic
+
+Perceptivo
+
+Prescient
+
+Profund
+
+Profeta
+
+Revelación
+
+Sibylline
+
+Unveiling
+
+Visión
+%%%%
+_ashenzari_epithet_
+
+w:100
+@_ashenzari_adjective_@ Dios
+
+w:50
+@_ashenzari_bound_adjective_@ Augur
+
+w:50
+@_ashenzari_celestial_adjective_@ Augur
+
+w:50
+@_ashenzari_bound_adjective_@ Sage
+
+w:50
+@_ashenzari_celestial_adjective_@ Sage
+
+w:50
+@_ashenzari_bound_adjective_@ Seer
+
+w:50
+@_ashenzari_celestial_adjective_@ Seer
+
+Todo conocido
+
+Curse-Bearer
+
+Soothsayer
+
+Unmoving One
+%%%%
+_ashenzari_heavens_
+
+Cosmos
+
+Empyrean
+
+Ether
+
+Firma
+
+Cielos
+
+w:40
+Sky
+
+Sphere
+
+Welkin
+%%%%
+######################################################
+# Library of randart APPEARANCE (un-identified).
+######################################################
+# common to all three types of randarts
+general appearance
+
+brillantemente brillante
+
+fumar
+
+anotado
+
+torcido
+
+shimmering
+
+warped
+
+transparente
+
+translúcido
+
+incrustado
+
+separados
+
+slimy
+
+pulido
+
+bien
+
+incandescente
+
+antigua
+
+débilmente brillante
+
+vapor
+
+deslumbrante
+
+masterwork
+
+w:2
+smouldering
+
+w:5
+brillante
+
+w:2
+zumbido
+
+w:5
+desvanecimiento
+
+w:2
+negro
+%%%%
+weapon appearance
+
+iridiscente
+
+sangres contaminadas
+
+cristal
+
+joyas
+
+ichor-stained
+
+w:3
+ivory
+
+w:3
+hueso
+
+w:1
+zafiro
+
+w:3
+ébano
+
+# currently 16 entries, so their overall weight amounts 180
+w:180
+@general appearance@
+%%%%
+robe appearance
+
+fabulosamente ordenado
+
+dull
+
+jersey
+
+grueso
+
+pesado
+
+mago
+
+negra
+
+brillantemente brillante
+
+fumar
+
+torcido
+
+shimmering
+
+warped
+
+transparente
+
+slimy
+
+bien
+
+luminoso
+
+desgarrado
+
+colorido
+
+perla cremosa
+
+opalescente
+
+antigua
+
+débilmente brillante
+
+vapor
+
+tonteando
+
+sangres contaminadas
+
+fuertemente joyas
+
+ichor-stained
+
+furioso
+
+tattered
+
+seda
+
+sombras
+%%%%
+body armour appearance
+
+w:3
+olfato
+
+w:3
+bronce
+
+w:2
+@_gemstone_@-estudded
+
+@_gemstone_@-encrustado
+
+w:200
+@armour appearance@
+%%%%
+armour appearance
+
+tonteando
+
+sangres contaminadas
+
+fuertemente corregido
+
+joyas
+
+ichor-stained
+
+furioso
+
+spiked
+
+w:160
+@general appearance@
+%%%%
+_gemstone_
+
+diamante
+
+rubí
+
+jacinth
+
+zafiro
+
+negro
+
+esmeralda
+
+turquesa
+
+citrine
+
+aquamarine
+
+amber
+
+topacio
+
+jet
+
+opal
+
+garnet
+
+amatista
+
+jasper
+
+obsidian
+
+agate
+
+jade
+
+perla
+
+ojo tigre
+
+ametrina
+%%%%
+######################################################
+# Jewellery appearance
+######################################################
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
+
+scintillating
+
+chispeante
+
+flickering
+
+brillante
+
+fumar
+
+anotado
+
+shimmering
+
+onda
+
+warped
+
+transparente
+
+translúcido
+
+separados
+
+slimy
+
+bien
+
+radiante
+
+antigua
+
+brillantemente brillante
+
+débilmente brillante
+
+vapor
+
+fuertemente corregido
+
+vibración
+
+twitching
+
+coiled
+
+límites
+
+nublado
+
+w:2
+serpentina
+%%%%
+_ring material_
+
+madera
+
+ivory
+
+hueso
+
+amber
+
+plata
+
+dorado
+
+platino
+
+plancha
+
+acero
+
+bronce
+
+bronce
+
+cobre
+
+lata
+
+plomo
+
+pewter
+
+granito
+
+mármol
+
+jade
+
+turquesa
+
+lapis lazuli
+
+vidrio
+
+carne
+
+w:2
+gossamer
+%%%%
+_amulet material_
+
+ivory
+
+hueso
+
+gravamen
+
+plata
+
+dorado
+
+platino
+
+plancha
+
+acero
+
+bronce
+
+bronce
+
+cobre
+
+lata
+
+plomo
+
+pewter
+
+zirconium
+
+zafiro
+
+esmeralda
+
+garnet
+
+rubí
+
+jade
+
+cristal
+
+diamante
+
+amatista
+%%%%
+ring appearance
+
+@ jewellery appearance @ @ ring material @
+%%%%
+amulet appearance
+
+@ jewellery appearance @ @ amulet material @
+%%%%

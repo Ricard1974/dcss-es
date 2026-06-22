@@ -221,7 +221,7 @@ A slimy stone staircase leading down
 Una escalera de piedra que conduce más abajo.
 
 {}
-si usted.god() == "Jiyva" entonces
+si tú.god() == "Jiyva" entonces
 Regresa "Es deslizante con deslizamiento deslizante, pero eso no es obstáculo para uno ".
 "como tú que has abrazado el camino de todo el babo."
 más
@@ -237,7 +237,7 @@ A slimy stone staircase leading up
 Una escalera de piedra que conduce hacia atrás.
 
 {}
-si usted.god() == "Jiyva" entonces
+si tú.god() == "Jiyva" entonces
 Regresa "Es deslizante con deslizamiento deslizante, pero eso no es obstáculo para uno ".
 "como tú que has abrazado el camino de todo el babo."
 más

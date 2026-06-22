@@ -1660,4 +1660,8 @@ POST_PROCESS = [
     (r"\bprensa\b", "pulsa"),
     # "para ayudar" → "para ayuda" (LT usa infinitivo donde va sustantivo)
     (r"para ayudar", "para ayuda"),
+    # "lanzar armas" → "armas arrojadizas" (throwing weapons)
+    (r"lanzar armas", "armas arrojadizas"),
+    # "te regalo" → "te regala" (3ª persona, no 1ª)
+    (r"\bte regalo\b", "te regala"),
 ]

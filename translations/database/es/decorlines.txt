@@ -3,10 +3,10 @@ default peaceful fountain_blue
 
  LUA0 
 
- LUA1  
+ LUA1 
 
 w:1
-Tú ve   VAR2  en la fuente.
+Tú ve VAR2 en la fuente.
 
 %%%%
 default fountain_blue
@@ -14,7 +14,7 @@ default fountain_blue
 La fuente brota brevemente de su presencia aproximada.
 
 w:1
-Tú ve   VAR0  en la fuente.
+Tú ve VAR0 en la fuente.
 
 %%%%
 default peaceful fountain_sparkling
@@ -22,7 +22,7 @@ default peaceful fountain_sparkling
  LUA0 
 
 w:1
-Tú ve   VAR1  en la fuente.
+Tú ve VAR1 en la fuente.
 
 %%%%
 sparkling_message
@@ -41,10 +41,10 @@ Tus emociones son incómodas.
 %%%%
 default fountain_sparkling
 
-La fuente brillante brilla un débil   VAR0   .
+La fuente brillante brilla un débil VAR0 .
 
 w:1
-Tú ve   VAR1  en la fuente.
+Tú ve VAR1 en la fuente.
 
 %%%%
 default fountain_blood
@@ -76,13 +76,13 @@ Los ojos de la fuente no miran nada.
 default peaceful dry_fountain
 
 w:1
-Tú ve   VAR0  en la fuente.
+Tú ve VAR0 en la fuente.
 
 %%%%
 default dry_fountain
 
 w:1
-Tú ve   VAR0  en la fuente.
+Tú ve VAR0 en la fuente.
 
 %%%%
 Ashenzari peaceful fountain_blue
@@ -237,7 +237,7 @@ Su mente se consume brevemente por la idea de bañarse en esta fuente.
 
 Te unges con la sangre de la fuente.
 
-Lavas brevemente   VAR0   en la fuente con fervor ritualista.
+Lavas brevemente VAR0 en la fuente con fervor ritualista.
 
 %%%%
 Nemelex Xobeh peaceful fountain_blue
@@ -252,7 +252,7 @@ Tú lanza una moneda antigua en la fuente para una suerte extra glamorosa.
 %%%%
 Okawaru peaceful fountain_blue
 
-Lavas brevemente   VAR0   con disciplina practicada.
+Lavas brevemente VAR0 con disciplina practicada.
 
 %%%%
 Qazlal peaceful fountain_blue
@@ -395,17 +395,17 @@ Tú calladamente juras vengar a las pobres criaturas desangradas por esta fuente
 %%%%
 fruit cache
 
-Tú alcanza abajo y muestra   VAR0  
+Tú alcanza abajo y muestra VAR0 
 
 %%%%
 meat cache
 
-Tú alcanza abajo y muestra   VAR0  
+Tú alcanza abajo y muestra VAR0 
 
 %%%%
 baked goods cache
 
-Tú alcanza abajo y muestra   VAR0  
+Tú alcanza abajo y muestra VAR0 
 
 %%%%
 _fruit_and_reaction_
@@ -546,37 +546,37 @@ Tú usas la pila de frutas y las drogas.
 carnivore baked goods cache
 
 Sí, por supuesto, una sección haría un sándwich de pastel.
-Usas la pila y haces un sandwich de carne con   VAR0  
+Usas la pila y haces un sandwich de carne con VAR0 
 
 %%%%
 short fruit cache
 
-Tu raíz alrededor y muestra   VAR0  
+Tu raíz alrededor y muestra VAR0 
 
 %%%%
 short meat cache
 
-Tu raíz alrededor y muestra   VAR0  
+Tu raíz alrededor y muestra VAR0 
 
 %%%%
 short baked goods cache
 
-Tu raíz alrededor y muestra   VAR0  
+Tu raíz alrededor y muestra VAR0 
 
 %%%%
 stone fruit cache
 
-Tú peste y tragar   VAR0  
+Tú peste y tragar VAR0 
 
 %%%%
 stone meat cache
 
-Tú peste y tragar   VAR0  
+Tú peste y tragar VAR0 
 
 %%%%
 stone baked goods cache
 
-Te fresas y tragas   VAR0  
+Te fresas y tragas VAR0 
 
 %%%%
 inediate fruit cache
@@ -597,7 +597,7 @@ Te fijas brevemente en la pila de panes y suspiros.
 %%%%
 draconian fruit cache
 
-Tú alcanza abajo y muestra   VAR0  
+Tú alcanza abajo y muestra VAR0 
 
 w:1
 Llegas abajo y muestras una toronja de dragón. Te sientes vagamente incómodo.
@@ -670,12 +670,12 @@ mummy baked goods cache
 %%%%
 oni fruit cache
 
-Llegas abajo y agarras   VAR0   Vas por segundos.
+Llegas abajo y agarras VAR0 Vas por segundos.
 
 %%%%
 oni baked goods cache
 
-Llegas abajo y agarras   VAR0   Vas por segundos.
+Llegas abajo y agarras VAR0 Vas por segundos.
 
 %%%%
 poltergeist fruit cache
@@ -723,12 +723,12 @@ Encuentras una rodaja de pizza mágicamente conservada y quitas la carne. ¡Deli
 %%%%
 spriggan baked goods cache
 
-Tú enraiza alrededor y disfruta con entusiasmo   VAR0  
+Tú enraiza alrededor y disfruta con entusiasmo VAR0 
 
 %%%%
 tengu baked goods cache
 
-Llegas abajo y te metes en   VAR0  
+Llegas abajo y te metes en VAR0 
 
 %%%%
 troll fruit cache
@@ -745,17 +745,17 @@ troll baked goods cache
 %%%%
 amphisbaena fruit cache
 
-Tú despide una de sus mandíbulas para tragar   VAR0  
+Tú despide una de sus mandíbulas para tragar VAR0 
 
 %%%%
 amphisbaena meat cache
 
-Tú despide una de sus mandíbulas para tragar   VAR0  
+Tú despide una de sus mandíbulas para tragar VAR0 
 
 %%%%
 amphisbaena baked goods cache
 
-Tú despide una de sus mandíbulas para tragar   VAR0  
+Tú despide una de sus mandíbulas para tragar VAR0 
 
 %%%%
 bat fruit cache
@@ -765,7 +765,7 @@ Te pusiste la pelota
 %%%%
 bat baked goods cache
 
-Te cagaste y mordisqueas en   VAR0  
+Te cagaste y mordisqueas en VAR0 
 
 %%%%
 blade fruit cache
@@ -773,14 +773,14 @@ blade fruit cache
 Intentas agarrar algo de fruta con tus espadas, ¡pero fracasa!
 
 w:4
-Usas tus manos como palillos para comer delicadamente   VAR0  
+Usas tus manos como palillos para comer delicadamente VAR0 
 
 %%%%
 blade meat cache
 
 Intentas agarrar algo de carne con tus espadas, ¡pero fracasa!
 
-Segador y muestra   VAR0  
+Segador y muestra VAR0 
 
 %%%%
 death fruit cache
@@ -800,7 +800,7 @@ death baked goods cache
 %%%%
 dragon fruit cache
 
-Tú devour   VAR0 
+Tú devour VAR0 
 
 w:1
 Devoras un Dragonfruit. Te sientes vagamente incómodo.
@@ -855,12 +855,12 @@ statue baked goods cache
 %%%%
 storm fruit cache
 
-Llegas abajo y electrolitos   VAR0  
+Llegas abajo y electrolitos VAR0 
 
 %%%%
 storm meat cache
 
-Llegas abajo y electrolitos   VAR0  
+Llegas abajo y electrolitos VAR0 
 
 %%%%
 tree fruit cache
@@ -888,6 +888,6 @@ Llegas abajo y encuentras una naranja de sangre. Delicioso.
 %%%%
 vampire baked goods cache
 
-Tú alcanza abajo y muestra   VAR0   Sin embargo, no llenado.
+Tú alcanza abajo y muestra VAR0 Sin embargo, no llenado.
 
 %%%%

@@ -1,0 +1,469 @@
+############################################################
+# As of Stone Soup 0.3 the previously hardcoded monster
+# speech has been outsourced. This makes changing existing
+# messages, and adding new ones really easy.
+#
+# shout.txt holds the utterances (and visual equivalents) of
+# monsters that notice you.
+#
+# For an explanation of how to read monspeak.txt or shout.txt
+# and how to add new messages, see monster_speech.txt in the
+# docs/develop/ directory.
+############################################################
+%%%%
+__BUGGY
+
+# This line should never get displayed to the user, even if
+# monster_shout() in shout.cc detects buggy behaviour,
+# so showing this line would itself be a bug.
+SOUND:¡Escuchas un comportamiento doble!
+%%%%
+__SHOUT
+
+¡Oyes un grito!
+%%%%
+__SHOUT seen
+
+SOUND:@The_monster@ grita!
+%%%%
+__BARK unseen
+
+¡Oyes una corteza!
+%%%%
+__BARK seen
+
+SOUND:@The_monster@ barks!
+%%%%
+__HOWL unseen
+
+¡Oyes un aullido!
+%%%%
+__HOWL seen
+
+SOUND:@The_monster@ aullidos!
+%%%%
+__TWO_SHOUTS unseen
+
+¡Oyes dos gritos!
+%%%%
+__TWO_SHOUTS seen
+
+SOUND:@The_monster@ grita en estéreo!
+%%%%
+__ROAR unseen
+
+¡Oyes un rugido!
+%%%%
+__ROAR seen
+
+SOUND:@The_monster@ rugidos!
+%%%%
+__SCREAM unseen
+
+SOUND: ¡Escuchas un horrible chillido!
+%%%%
+__SCREAM seen
+
+SOUND:@The_monster@ da un horrible shriek!
+%%%%
+__BELLOW unseen
+
+SONIDO: ¡Oyes un hueco!
+%%%%
+__BELLOW seen
+
+SOUND:@The_monster@ bellows!
+%%%%
+__BLEAT unseen
+
+SOUND: ¡Escuchas un sangrado!
+%%%%
+__BLEAT seen
+
+SOUND:@The_monster@ bleats!
+%%%%
+__TRUMPET unseen
+
+¡Oyes una trompeta!
+%%%%
+__TRUMPET seen
+
+SOUND:@The_monster@ trompetas!
+%%%%
+__SCREECH unseen
+
+¡Oyes un chillido!
+%%%%
+__SCREECH seen
+
+SOUND:@The_monster@ screeches!
+%%%%
+__BUZZ unseen
+
+SONIDO: Se oye un ruido zumbido furioso.
+%%%%
+__BUZZ seen
+
+SOUND:@The_monster@ zumbió de manera grave.
+%%%%
+__MOAN unseen
+
+SONIDO:Tú oye un gemido refrigerante.
+%%%%
+__MOAN seen
+
+SOUND:@The_monster@ da un gemido refrigerante.
+%%%%
+__GURGLE unseen
+
+¡Oyes un sonido horrible!
+%%%%
+__GURGLE seen
+
+SOUND:@The_monster@ gurgles horriblemente!
+%%%%
+__CROAK unseen
+
+SONIDO: ¡Oyes un ruido fuerte y profundo!
+
+SONIDO:Tú oye un cruco.
+%%%%
+__CROAK seen
+
+SOUND:@The_monster@ da un fuerte, profundo cruco!
+
+SOUND:@The_monster@ croaks.
+%%%%
+__GROWL unseen
+
+Oíste un gruñido enojado.
+%%%%
+__GROWL seen
+
+SOUND: @The_monster@ crece de manera grave.
+%%%%
+__HISS unseen
+
+SONIDO: Oíste un suyo enojado.
+%%%%
+__HISS seen
+
+SOUND:@The_monster@ silba profundamente.
+%%%%
+__SKITTER unseen
+
+SONIDO: Escuchas un sonido esquivante.
+%%%%
+__SKITTER seen
+
+SOUND:@The_monster_possessive@ muchas piernas esquiando.
+%%%%
+__FAINT_SKITTER unseen
+
+SONIDO: Se oye un sonido deslumbrante.
+%%%%
+__FAINT_SKITTER seen
+
+SOUND:@The_monster_possessive@ muchas piernas saltan débilmente.
+%%%%
+__SQUEAL unseen
+
+SONIDO:Tú escucha un chillido enojado.
+%%%%
+__SQUEAL seen
+
+SOUND:@The_monster@ chilla de manera grave.
+%%%%
+__DEMON_TAUNT
+
+@The_monster@ @says@, "@demon_taunt@"
+%%%%
+__CHERUB seen
+
+SOUND:@The_monster_possessive@ eagle head screeches!
+
+SOUND:@The_monster_possessive@ león rugidos cabeza!
+
+SOUND:@The_monster_possessive@ cabeza de buey baja!
+
+SOUND:@The_monster_possessive@ grita la cabeza humana!
+%%%%
+__CHERUB unseen
+
+SONIDO: Escuchas un grito.
+
+SONIDO: Escuchas un chillido.
+
+Oíste un rugido.
+
+SONIDO:Tú oye un bajo.
+%%%%
+__LOUD_ROAR unseen
+
+¡Oyes un rugido sordo!
+%%%%
+__LOUD_ROAR seen
+
+SOUND:@The_monster@ ruge con sordera!
+%%%%
+__RUSTLE unseen
+
+SONIDO:Tú oye un fuerte rustilo.
+%%%%
+__RUSTLE seen
+
+SOUND:@The_monster_possessive@ páginas rugen fuerte.
+%%%%
+__SQUEAK unseen
+
+SONIDO:Tú oye un ruido fuerte.
+%%%%
+__SQUEAK seen
+
+SOUND:@The_monster@ chilla fuerte.
+%%%%
+__CAW seen
+
+SOUND:@The_monster@ caws.
+%%%%
+__CAW unseen
+
+SONIDO:Tú escucha una cadera fuerte.
+%%%%
+__LAUGH seen
+
+SOUND:@The_monster@ ríe maníacamente.
+%%%%
+__LAUGH unseen
+
+Oíste risas maníacas.
+############################################
+# End of default shouts
+############################################
+############################################################
+# Player ghost shouts. Potentially different ones for each
+# class, though currently they all just copy the default
+# player ghost.
+############################################################
+%%%%
+player ghost
+
+VISUAL:@The_monster@ gira la mirada masculina de @possessive@ hacia ti.
+%%%%
+Fighter player ghost
+
+@player ghost@
+%%%%
+Hedge Wizard player ghost
+
+@player ghost@
+%%%%
+Gladiator player ghost
+
+@player ghost@
+%%%%
+Necromancer player ghost
+
+@player ghost@
+%%%%
+Brigand player ghost
+
+@player ghost@
+%%%%
+Berserker player ghost
+
+@player ghost@
+%%%%
+Hunter player ghost
+
+@player ghost@
+%%%%
+Conjurer player ghost
+
+@player ghost@
+%%%%
+Enchanter player ghost
+
+@player ghost@
+%%%%
+Fire Elementalist player ghost
+
+@player ghost@
+%%%%
+Ice Elementalist player ghost
+
+@player ghost@
+%%%%
+Summoner player ghost
+
+@player ghost@
+%%%%
+Air Elementalist player ghost
+
+@player ghost@
+%%%%
+Earth Elementalist player ghost
+
+@player ghost@
+%%%%
+Alchemist player ghost
+
+@player ghost@
+%%%%
+Chaos Knight player ghost
+
+@player ghost@
+%%%%
+Shapeshifter player ghost
+
+@player ghost@
+%%%%
+Monk player ghost
+
+@player ghost@
+%%%%
+Warper player ghost
+
+@player ghost@
+%%%%
+Wanderer player ghost
+
+@player ghost@
+########################################
+# Shouts by monster symbol
+########################################
+%%%%
+'&'
+
+@__DEMON_TAUNT@
+%%%%
+'cap-G'
+
+VISUAL:@The_monster@ gira la mirada @possessive@ hacia ti.
+%%%%
+'cap-J'
+
+Quinillos VISUAL: @The_monster@.
+########################################
+# Shouts by monster genus
+########################################
+%%%%
+giant slug
+
+VISUAL:@The_monster@ gira los oculares @possessive@ hacia ti.
+########################################
+# Shouts for specific monsters
+########################################
+%%%%
+ballistomycete spore
+
+VISUAL:@The_monster@ ondas @possessive@ rizomas.
+%%%%
+glowing orange brain
+
+VISUAL:@The_monster@ gira la atención @possessive@ hacia ti.
+%%%%
+# Iron imps, shadow imps and white imps copy imps.
+imp
+
+# Shout one half the time, taunt the other half.
+@__SHOUT@
+
+SOUND:@The_monster@ @says@, "@imp_taunt@"
+%%%%
+moth of wrath
+
+VISUAL:@The_monster_possessive@ cerdas de piel en rabia mientras te observa.
+%%%%
+iron imp
+
+@imp@
+%%%%
+shadow imp
+
+@imp@
+%%%%
+white imp
+
+@imp@
+####################################
+# Shouts for specific uniques
+####################################
+%%%%
+Polyphemus
+
+# This would also work for other monsters that are surrounded by allies.
+SOUND:@The_monster@ grita: "¡Ataque, mis mascotas! ¡Ataque!"
+%%%%
+####################################
+Player sphinx riddle lines
+####################################
+%%%%
+_riddle_adj_
+
+un bazo
+
+un brillante
+
+#
+un inteligente
+
+un confuso
+
+#
+un astuto
+
+imposible
+
+un ingenioso
+
+un maestro
+
+una mente inclinada
+
+un perplejo
+
+un vexing
+
+%%%%
+_riddle_fail_acknowledged_
+
+, pero a @subjective@ no le importa.
+
+, pero @subjective@ no está impresionado.
+
+, pero scoffs @subjective@.
+%%%%
+_riddle_fail_general_
+
+, pero @subjective@ te ignora.
+
+, pero @subjective@ no entiende.
+
+, pero @subjective@ pretende no darse cuenta.
+
+, pero @subjective@ te ignora.
+
+w:40
+@_riddle_fail_acknowledged_@
+%%%%
+_riddle_prefix_
+
+Tú posa @_riddle_adj_@ enigma a @the_monster@
+
+Tú pregunta @the_monster@ @_riddle_adj_@ enigma
+
+Tú desafia @the_monster@ con el enigma @_riddle_adj_@
+%%%%
+Sphinx riddle success
+
+@_riddle_prefix_@.
+%%%%
+Sphinx riddle failure
+
+@_riddle_prefix_@@_riddle_fail_general_@
+%%%%
+Sphinx riddle failure acknowledged
+
+@_riddle_prefix_@@_riddle_fail_acknowledged_@
+%%%%

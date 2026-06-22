@@ -1,0 +1,1163 @@
+######################################################
+# Randart Names
+# -------------
+# rand_arm.txt: keywords for randart ARMOUR
+#
+# This file contains the lists of keywords (and their
+# weights) for most of the keywords used for randart
+# armour. You will find others in rand_wpn.txt and
+# rand_all.txt, respectively.
+#
+# See the explanation in the main file, randname.txt,
+# for more details.
+######################################################
+%%%%
+_armour_animal_
+
+# microorganisms
+Amoeba
+
+Tardigrado
+
+# insects
+Ant
+
+Mariposa
+
+Cicada
+
+Cockroach
+
+Cricket
+
+Ladybird
+
+Locust
+
+Louse
+
+Mantidfly
+
+Tick
+
+# invertebrates
+Centipede
+
+Cuttlefish
+
+Gastropo
+
+Slug
+
+Snail
+
+Trilobite
+
+Worm
+
+# arachnids and clams
+Barnacle
+
+Clam
+
+Langosta
+
+Quahog
+
+Tarantula
+
+# amphibians and reptiles
+Frog
+
+Komodo Dragon
+
+Lagarto
+
+Salamandra
+
+Serpiente
+
+Turtle
+
+# fish
+Barracuda
+
+Catfish
+
+Cichlid
+
+Mackerel
+
+Marlin
+
+Salmón
+
+Sturgeon
+
+Sunfish
+
+Trout
+
+Atún
+
+# birds
+Albatross
+
+Águila
+
+Falcon
+
+Heron
+
+Meadowlark
+
+Nightingale
+
+Raven
+
+Robin
+
+Shrike
+
+Gorrión
+
+Swan
+
+Turtledove
+
+# mammals
+Bull
+
+Camelopard
+
+Catamount
+
+Delfines
+
+Echidna
+
+Elefante
+
+Hart
+
+Hippo
+
+Kangaroo
+
+León
+
+Monkey
+
+Okapi
+
+Stag
+
+Stallion
+
+Zebra
+
+# not strictly an animal... :)
+Circus Animal
+
+El tío de Monkey
+
+# classical mythical animals
+Centaur
+
+Cockatrice
+
+Chimera
+
+Dragon
+
+Griffon
+
+Hecatoncheires
+
+Hippogriff
+
+Kraken
+
+Leogriff
+
+Nuckelavee
+
+Pooka
+
+Quinotaur
+
+Sea Goat
+
+Skiapode
+
+Unicornio
+
+# Iapon
+
+Akabeko
+
+Baku
+
+Byakko
+
+Ikuchi
+
+Kappa
+
+Kitsune
+
+Kodama
+
+Oni
+
+Shishi
+
+Tsukumogami
+
+# South America
+
+Carbunclo
+
+Cherruve
+
+Cuero
+
+Curupira
+
+Ebigane
+
+Gasogonaga
+
+Mpinguari
+
+Tapire-iauara
+
+# Africa
+
+Biloko
+
+Guiamala
+
+Impundulu
+
+Isitwalangcengce
+
+Nkala
+
+Zankallala
+
+# South East Asia
+
+Bakunawa
+
+Minokawa
+
+# Unlikely hybrids
+
+Giraffataur
+
+Elephantaur
+
+Mertaur
+
+Merwolf
+
+Platytaur
+
+Rhinotaur
+
+Taurataur
+
+Treeataur
+
+Wereyak
+
+Zebrataur
+
+# modern mythical animals
+Chupacabra
+
+Dropbear
+
+Jackalope
+
+Jersey Devil
+
+Skvader
+
+Snallygaster
+
+Tatzelwurm
+
+Wild Haggis
+
+Yeti
+
+%%%%
+_flower_name_
+Daffodils
+
+Margaritas
+
+Lilacs
+
+Periwinkles
+
+Purple Dead-Nettles
+
+Tulipanes
+
+Violetas
+
+el jardín
+
+el Horehound
+
+el Lily
+
+el Lotus Blossom
+
+la Rosa
+
+el cardo
+
+%%%%
+# non-Crawl critters
+_critter_name_
+Alphagorgon
+
+Slorg
+
+# from the crawl.akrasiac.org patch.
+Ocho Boll Weevils
+
+Grue
+
+Ocelot caliente
+
+Jabberwock
+
+w:1
+Were-rabbit
+
+Wumpus
+%%%%
+_discomfort_and_inaction_
+
+# discomfort
+Malas sensaciones
+
+Bitterness
+
+Decepción
+
+Título
+
+Fallo
+
+Insecurity
+
+Irritación menor
+
+Negación
+
+Servitude
+
+Submission
+
+Vexa
+
+# inaction
+Apatía
+
+Boredom
+
+Ennui
+
+Inacción
+
+Lethargy
+
+Desnutrición de la vida
+
+Negligence
+
+Oblivion
+
+Omisión
+
+Inquietidad
+
+los Doldrums
+
+%%%%
+_good_or_divine_
+
+# good things
+Amelioration
+
+Awe
+
+Belleza
+
+Birdsong
+
+Cleverness
+
+Índice
+
+Creatividad
+
+Curiosidad
+
+Libertad
+
+Diversión
+
+Felicidad
+
+Joy
+
+Conocimiento
+
+Hojas
+
+Liberty
+
+Vida
+
+Lucidity
+
+Mirth
+
+Música
+
+Nuevos descubrimientos
+
+Satisfacción
+
+Sorpresa
+
+Tender Moments
+
+Maravilla
+
+el Bien
+
+la hoja
+
+# divine events
+Compulsión Divina
+
+Intervención Divina
+
+Intercesión
+
+Miracles
+
+Salvación
+
+la mano invisible
+
+la Voluntad de los Dioses
+
+%%%%
+# in contrast to "_wacky_armour_name_" these do have some
+# connection to armour and protection
+_armour_name_shielding_
+Protección completa
+
+La puerta de la muerte
+
+Defensa
+
+Exclusión
+
+Fortificación
+
+Impermeabilidad
+
+Inviolabilidad
+
+Refuge
+
+Repulsión
+
+Escudo
+
+el blindado uno
+
+el Bulwark
+
+la Puerta
+
+el Salvador
+
+el muro de piedra
+
+el Unbroken
+
+los intocables
+
+el Ward
+
+%%%%
+# other armour properties (beside protection)
+_armour_property_name_
+Resistencia a la muerte
+
+Disfrase
+
+Modabilidad
+
+Fullness
+
+Grace
+
+Gravitas
+
+Impresionante
+
+Resistencia al menos
+
+Polaco
+
+Privacidad
+
+Custodia protectora
+
+Resiliencia
+
+Shadows and Fog
+
+Fuerza supletoria
+
+Inexistencia de peso
+
+%%%%
+_wacky_armour_name_
+Absencia
+
+Anaestesia
+
+Baldness
+
+Compresión
+
+Decompresión
+
+Salidas dramáticas
+
+Los dientes del pato
+
+Senderos de Forking
+
+Good Intentions
+
+Hadjma
+
+Peluquería
+
+Hedging
+
+Hubris
+
+Incorporation
+
+Exposición indecente
+
+Indemnización
+
+Responsabilidad limitada
+
+Pérdida
+
+Amor y muerte
+
+Mezcal
+
+Pathos
+
+Philately
+
+Plástico
+
+Pobres excusas
+
+Catastrofes de precisión
+
+Espacio
+
+Terror
+
+Las malditas bendiciones
+
+Demasiados cocineros
+
+Secretos desconocidos
+
+Vlad
+
+Razón
+
+el Arcane
+
+el Armadillo
+
+el Marksman ciego
+
+la Tierra
+
+el Fruto Eterno
+
+el Loofah
+
+el Viejo y Reckless
+
+la cebolla
+
+la esquina rosa
+
+# Schlock Mercenary, March 5, 2010
+el Plethaurus
+
+el camino menos viajado
+
+el verdadero Faraón
+
+el Desempleado
+
+el Vacuo
+
+%%%%
+# Lemuel's suggestions
+_celestial_bodies_
+w:5
+Blue Moon
+
+Comet
+
+Constelaciones
+
+Evening Star
+
+w:5
+Luna de cosecha
+
+w:5
+Sol de medianoche
+
+Luna
+
+Morning Star
+
+Northern Lights
+
+Planetas
+
+Pleiades
+
+Estrellas
+
+Sol
+
+# astrological
+Luna Negra
+%%%%
+_instrument_name_
+Chimes
+
+Pan-Flutes
+
+Trompetas
+
+el Acuerdo
+
+el Bagpipe
+
+las campanas
+
+el Fiddle
+
+la Fife
+
+la gripe
+
+el Gusle
+
+la cosecha
+
+el Kazoo
+
+el Kettle-Drum
+
+el Lute
+
+el Trombone
+
+%%%%
+_evil_being_
+Demonios
+
+Demonios más grandes
+
+Demonios menores
+
+Temporeros
+
+Vampiric Thralls
+
+w:5
+el Archifiend
+
+el Príncipe de Demonio
+
+el Diablo
+
+el Defensor del Diablo
+
+el equipo del diablo
+
+el Maligno
+
+el Fiend
+
+las Furias
+
+el Imp
+
+el diablo de hierro
+
+el Lich-sworn
+
+el pequeño diablo
+
+el Príncipe de la Oscuridad
+
+el Tormentor
+
+el Villain
+
+%%%%
+_weather_name_
+Cielos azules
+
+Boiling Hail
+
+Vientos Chill
+
+Cubierta de nube
+
+Dust Devils
+
+Viento aullido
+
+Lightning Storm
+
+Perpetual Drought
+
+Breezes agradables
+
+Tranquila
+
+Lluvias suaves
+
+Spring Thaw
+
+el Blizzard
+
+la Primera Nieve
+
+el Huracán
+
+la tormenta Thunderstorm
+
+%%%%
+_profession_name_
+Aprendiz
+
+Apothecary
+
+Baker
+
+Barber Surgeon
+
+Bard
+
+Beekeeper
+
+Beggar
+
+Blacksmith
+
+Buccaneer
+
+Butcher
+
+Candlemaker
+
+Carpintero
+
+Cartwright
+
+Cobbler
+
+Cooper
+
+Ditch-Digger
+
+Engineer
+
+Farmer
+
+Farrier
+
+Fisher
+
+Fletcher
+
+Furrier
+
+Gardener
+
+Goldsmith
+
+Gravedigger
+
+Guardian
+
+Guild-Master
+
+Guilds
+
+Hunter
+
+Journeyman
+
+Learner
+
+Merchant
+
+Miller
+
+Minstrel
+
+Moneychanger
+
+Monk
+
+Pirata
+
+Playwright
+
+Sailor
+
+Scribe
+
+Silversmith
+
+Soldado
+
+Stonemason
+
+Tanner
+
+Maestro
+
+Pensador
+
+Undertaker
+
+Watchman
+
+Weaver
+
+Wheelwright
+
+%%%%
+# something for Xom
+_game_name_
+
+# general games
+Dados, bolsa y botella
+
+Diversión y juegos
+
+Juegos de Parlour
+
+el juego Afoot
+
+el Juego de Reyes
+
+el Gran Juego
+
+# children's games
+Siga al líder
+
+Ocultar y buscar
+
+Hopscotch
+
+Leapfrog
+
+Mumblety Peg
+
+Peek-a-Boo
+
+el rey de la colina
+
+# board games etc.
+Trucos de cartas
+
+Hangman
+
+Rompecabezas
+
+Mármoles
+
+Noughts and Crosses
+
+Snakes and Ladders
+
+Whack-A-Mole
+
+los dados
+
+el Juego de la Vida
+
+%%%%
+_politics_name_armour_
+Coronación
+
+Democracia
+
+Novilidad
+
+Royalty
+
+Soberana
+
+la Ban
+
+el Burgomaster
+
+el voto de fundición
+
+el Castellan
+
+la Ciudad
+
+los Comunes
+
+el País
+
+la Corona
+
+el Doge
+
+la Duquesa
+
+el Duque
+
+el Imperio
+
+el Failed Coup
+
+el Greedy
+
+el Rey
+
+el Komtur
+
+el Mutiny
+
+la Oligarquía
+
+los campesinos
+
+el Príncipe
+
+el Príncipe
+
+la Princesa
+
+la Reina
+
+el Rabble
+
+república
+
+los Suburbios
+
+el Townfolk
+
+el Voivode
+
+%%%%
+_other_armour_name_
+
+#unpleasantness
+Filth
+
+w:5
+Grot
+
+w:5
+Grottiness
+
+Slovenliness
+
+# magic
+Bedevilment
+
+Taboos rotos
+
+Gestures
+
+Magia
+
+Frases amarrados
+
+Sorcery
+
+Palabras del poder
+
+el Arcane
+
+# other
+Crawling
+
+Desastres
+
+Dogmatismo
+
+Fiestas
+
+Vamos rápido
+
+Feliz Babbling
+
+Hedge Mago
+
+Imperfección
+
+Inevitabilidad
+
+Hambre insaciable
+
+Seguro
+
+Misanthropy
+
+Perfidia
+
+Monstruos del tiempo
+
+Prueba y error
+
+Inequívoca
+
+Especies indeseables
+
+Espacio residual
+
+Decisiones incorrectas
+
+el @_card_@ de @_suit_@
+
+el hombre colgado
+
+el Sendero Perdido
+
+el Troll de la Luna
+
+el Orb
+
+the Orb Guardian
+
+el Otro Mundo
+
+la Victim Sacrifica
+
+el Ligero Bent
+
+el rey de la tormenta
+
+#pasta
+Ravioli
+
+Spaghetti
+
+Tortelloni
+
+Farfalle
+
+Rotini
+
+Vermicelli
+
+Macaroni
+
+Strozzapreti
+
+w:1
+el Pastamancer
+
+# sometimes pasta-adjacent
+Albóndigas
+%%%%
+_card_
+
+Dos
+
+Tres
+
+Cuatro
+
+Cinco
+
+Seis
+
+Siete
+
+Ocho
+
+9
+
+Diez
+
+Página
+
+Caballero
+
+Reina
+
+Rey
+
+Ace
+%%%%
+_suit_
+
+Copas
+
+Pentáculos
+
+Espadas
+
+Wands
+%%%%
+# "something" rather than of Something
+_plain_armour_name_
+Contraptación maldita
+
+Earthly Heaven
+
+Olvídalo
+
+El amigo de Hero
+
+Put-Me-On
+
+Trusted Companion
+
+%%%%

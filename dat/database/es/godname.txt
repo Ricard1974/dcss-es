@@ -1,0 +1,169 @@
+%%%%
+Zin lastname
+
+Zin el Dador de Ley
+%%%%
+Yredelemnul lastname
+
+Yredelemnul el otoño
+%%%%
+Okawaru lastname
+
+Warmaster Okawaru
+%%%%
+Makhleb lastname
+
+Makhleb el Destructor
+%%%%
+Sif Muna lastname
+
+Sif Muna el Loreminder
+%%%%
+Trog lastname
+
+Trog el Colérico
+%%%%
+Elyvilon lastname
+
+Elyvilon el curador
+%%%%
+Lugonu lastname
+
+Lugonu el Desformado
+%%%%
+Beogh lastname
+
+Beogh el Pastor
+%%%%
+Fedhas lastname
+
+Fedhas Madash
+%%%%
+Cheibriados lastname
+
+Cheibriados el Contemplativo
+%%%%
+Ashenzari lastname
+
+Ashenzari el Shackled
+%%%%
+Dithmenos lastname
+
+Dithmenos el Destripado
+%%%%
+Nemelex Xobeh lastname
+
+Nemelex Xobeh el Trickster
+%%%%
+Gozag lastname
+
+Gozag Ym Sagoz el Greedy
+%%%%
+Qazlal lastname
+
+Qazlal Stormbringer
+%%%%
+Ru lastname
+
+Ru the Awakened
+%%%%
+Pakellas lastname
+
+Pakellas el Inventivo
+%%%%
+Uskayaw lastname
+
+Uskayaw el Reveller
+%%%%
+Hepliaklqana lastname
+
+Hepliaklqana el olvidado
+%%%%
+Ignis lastname
+
+Ignis, la Llama Dying
+%%%%
+Wu Jian lastname
+
+el Consejo Wu Jian
+%%%%
+Xom lastname
+
+w:280
+Xom of Chaos
+
+#
+Xom el caótico
+
+w:5
+Xom el azar
+
+w:5
+Xom el número de azar Dios
+
+w:5
+Xom el Dios del Viejo Caos
+
+Xom el Tricky
+
+w:5
+Xom the Less-Predictable
+
+w:5
+Xom el impredecible
+
+Xom de muchas puertas
+
+Xom el Capricious
+
+w:5
+Xom of Bloodstained Whimsey
+
+w:5
+Xom of Enforced Whimsey
+
+Xom of Bone-Dry Humour
+
+w:5
+Xom of Malevolent Giggling
+
+w:5
+Xom of Malicious Giggling
+
+w:2
+Xom of Gnomic Intent
+
+w:2
+Xom of Ineffable Intent
+
+w:2
+Xom of Fickle Intent
+
+w:2
+Xom of Swiftly Tilting Intent
+
+w:2
+Xom of Unknown Intent
+
+Xom el Fickle
+
+Xom of Unknown Intention
+
+w:4
+El Xom-Meister
+
+w:2
+El Xom-Meister, Xom-a-lom-a-ding-dong
+
+w:2
+El Xom-Meister, Xom-o-Rama
+
+w:2
+El Xom-Meister, Xom-Xom-bo-Bom, Banana-Fana-fo-Fom
+
+w:5
+Xom el Begetter de Turbulencia
+
+w:5
+Xom el Begetter de Discontinuities
+%%%%

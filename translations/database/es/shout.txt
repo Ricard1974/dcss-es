@@ -288,7 +288,7 @@ SOUND:You hear maniacal laughter.
 %%%%
 player ghost
 
-VISUAL:  VAR0    vueltas   VAR1    mirada masculina hacia ti.
+VISUAL: VAR0 vueltas VAR1 mirada masculina hacia ti.
 
 %%%%
 Fighter player ghost
@@ -401,7 +401,7 @@ VAR0
 %%%%
 'cap-G'
 
-VISUAL:  VAR0    gira   VAR1     mira hacia ti.
+VISUAL: VAR0 gira VAR1 mira hacia ti.
 
 %%%%
 'cap-J'
@@ -414,7 +414,7 @@ VISUAL:
 %%%%
 giant slug
 
-VISUAL:  VAR0                los ojos-stalks hacia ti.
+VISUAL: VAR0 los ojos-stalks hacia ti.
 ################################################################################################################################################################################################################################################################
 # Zapatos para monstruos específicos
 ################################################################################################################################################################################################################################################################
@@ -422,12 +422,12 @@ VISUAL:  VAR0                los ojos-stalks hacia ti.
 %%%%
 ballistomycete spore
 
-VISUAL:  VAR0   ondas   VAR1    rinocerontes.
+VISUAL: VAR0 ondas VAR1 rinocerontes.
 
 %%%%
 glowing orange brain
 
-VISUAL:  VAR0    gira   VAR1     atención hacia ti.
+VISUAL: VAR0 gira VAR1 atención hacia ti.
 
 %%%%
 imp
@@ -435,12 +435,12 @@ imp
 # Shout one half the time, taunt the other half.
  VAR0 
 
-SOUND:  VAR1                        
+SOUND: VAR1 
 
 %%%%
 moth of wrath
 
-VISUAL:  VAR0    Las cerdas de piel en rabia mientras te observa.
+VISUAL: VAR0 Las cerdas de piel en rabia mientras te observa.
 
 %%%%
 iron imp
@@ -533,7 +533,7 @@ You challenge @the_monster@ with @_riddle_adj_@ riddle
 %%%%
 Sphinx riddle success
 
-VAR0  .
+VAR0 .
 
 %%%%
 Sphinx riddle failure

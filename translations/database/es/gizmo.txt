@@ -294,30 +294,30 @@ tensión
 
 voltaica
 
- VAR0  axial
+ VAR0 axial
 
- VAR1   bolic
+ VAR1 bolic
 
- VAR2  boloid
+ VAR2 boloid
 
- VAR3   choric
+ VAR3 choric
 
- VAR4  controlado
+ VAR4 controlado
 
 # backformed from "hidrocoptic", from the turbo encabulator article
- VAR5  coptic
+ VAR5 coptic
 
- VAR6  coupled
+ VAR6 coupled
 
- VAR7  current
+ VAR7 current
 
- VAR8  cyclic
+ VAR8 cyclic
 
- VAR9  dermic
+ VAR9 dermic
 
- VAR10   dynamic
+ VAR10 dynamic
 
- VAR11   faceted
+ VAR11 faceted
 
  VAR12 funcional
 
@@ -325,35 +325,35 @@ voltaica
 
  VAR14 grado
 
- VAR15   graphic
+ VAR15 graphic
 
- VAR16  gravic
+ VAR16 gravic
 
- VAR17   lytic
+ VAR17 lytic
 
- VAR18   matic
+ VAR18 matic
 
- VAR19  metric
+ VAR19 metric
 
- VAR20   meric
+ VAR20 meric
 
- VAR21  phasic
+ VAR21 phasic
 
- VAR22  scópica
+ VAR22 scópica
 
  VAR23 estática
 
- VAR24   strophic
+ VAR24 strophic
 
- VAR25    thetic
+ VAR25 thetic
 
- VAR26   tonic
+ VAR26 tonic
 
- VAR27  topic
+ VAR27 topic
 
- VAR28   tronic
+ VAR28 tronic
 
- VAR29  tropic
+ VAR29 tropic
 
 %%%%
 gizmo_noun
@@ -700,23 +700,23 @@ Whirligig
 
 widget
 
- VAR0  corder
+ VAR0 corder
 
- VAR1   cycler
+ VAR1 cycler
 
- VAR2  former
+ VAR2 former
 
- VAR3  lator
+ VAR3 lator
 
- VAR4   lyser
+ VAR4 lyser
 
- VAR5  sorter
+ VAR5 sorter
 
  VAR6 stat
 
- VAR7   tron
+ VAR7 tron
 
- VAR8  vator
+ VAR8 vator
 
 %%%%
 gizmo_modifier

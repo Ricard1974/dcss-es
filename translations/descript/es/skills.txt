@@ -99,7 +99,7 @@ velocidad en combate de melee cuando desnuda.%%%%
 Spellcasting
 
 {}
-si usted.race() == "Djinni" entonces
+si tú.race() == "Djinni" entonces
 volver "Ser experto en Spellcasting aumenta la tasa de éxito y el hechizo ".
 "poder de todos los hechizos".
 más
@@ -233,7 +233,7 @@ habilidades con ciertos dioses serán exitosos, y a menudo el poder de tales
 habilidades.
 
 {}
-si usted.race() ~= "Djinni" entonces
+si tú.race() ~= "Djinni" entonces
 "La habilidad de las invocaciones también afecta sus reservas mágicas, " ..
 "pero en menor grado que la habilidad de Spellcasting. Sólo el...
 "Se utiliza una mayor contribución".

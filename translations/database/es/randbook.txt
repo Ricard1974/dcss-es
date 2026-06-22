@@ -130,43 +130,43 @@ Writings
 book_name
 
 w:9
- VAR0   de
+ VAR0 de
 
 w:4
- VAR1  
+ VAR1 
 
 %%%%
 random_book_title
 
 w:15
-el   VAR0 
+el VAR0 
 
 #
- VAR1      VAR2  
+ VAR1 VAR2 
 
 w:4
  VAR3 
 
 13
- VAR4  
+ VAR4 
 
 w:8
- VAR5  
+ VAR5 
 
 w:2
- VAR6  
+ VAR6 
 
 w:6
- VAR7  
+ VAR7 
 
 w:1
- VAR8  
+ VAR8 
 
 w:4
- VAR9  
+ VAR9 
 
 w:2
- VAR10  
+ VAR10 
 
 %%%%
 _book_plant_animal_
@@ -192,28 +192,28 @@ w:30
  VAR0 
 
 # Aumentó las posibilidades (obviamente!)
- VAR1  
+ VAR1 
 
 w:1
- VAR2  
+ VAR2 
 
 w:2
- VAR3  
+ VAR3 
 
 w:8
- VAR4  
+ VAR4 
 
 w:1
- VAR5  
+ VAR5 
 
 w:5
- VAR6  
+ VAR6 
 
 w:3
- VAR7  
+ VAR7 
 
 w:3
- VAR8  
+ VAR8 
 
 %%%%
 _book_adjective_
@@ -377,15 +377,15 @@ yellowed
 %%%%
 Random
 
-el   VAR0  Artes
+el VAR0 Artes
 
-las prácticas   VAR1  
+las prácticas VAR1 
 
- VAR2  Ritos
+ VAR2 Ritos
 
- VAR3   Tradiciones
+ VAR3 Tradiciones
 
- VAR4  Verdades
+ VAR4 Verdades
 
 el Hermit's Heritage
 
@@ -407,15 +407,15 @@ la Sabiduría del Mago
 
 las Palabras del Poder
 
- VAR5   Insight
+ VAR5 Insight
 
- VAR6   Saber
+ VAR6 Saber
 
- VAR7   Poder
+ VAR7 Poder
 
- VAR8   Comprensión
+ VAR8 Comprensión
 
- VAR9   Sabiduría
+ VAR9 Sabiduría
 
 Casting
 
@@ -556,146 +556,146 @@ Dummies
 starting level book
 
 w:2
- VAR0   101
+ VAR0 101
 
- VAR1    para   VAR2  
+ VAR1 para VAR2 
 
- VAR3   , Parte   VAR4  
+ VAR3 , Parte VAR4 
 
- VAR5  , Volume   VAR6  
+ VAR5 , Volume VAR6 
 
-A   VAR7   Inicio de los discursos
+A VAR7 Inicio de los discursos
 
-Un curso de inicio de   VAR8  
+Un curso de inicio de VAR8 
 
-Un prolegomenon a   VAR9  
+Un prolegomenon a VAR9 
 
-Un Tutorial en   VAR10 
+Un Tutorial en VAR10 
 
-Un exordio a   VAR11  
+Un exordio a VAR11 
 
-Una iniciación en   VAR12  
+Una iniciación en VAR12 
 
-Una inducción en   VAR13 
+Una inducción en VAR13 
 
-Introducción a   VAR14  
-
-w:2
-Cualquier persona puede aprender   VAR15  
-
-Inicio   VAR16  
-
-Cómo llegar   VAR17  
-
-Dabbling in   VAR18   
-
-Elemental   VAR19 
+Introducción a VAR14 
 
 w:2
-Incluso   VAR20   Puede aprender   VAR21   !
+Cualquier persona puede aprender VAR15 
 
-Primeros pasos en   VAR22  
+Inicio VAR16 
 
-Practicar   VAR23  
+Cómo llegar VAR17 
 
-Preliminares de   VAR24  
+Dabbling in VAR18 
 
-Simple   VAR25 
+Elemental VAR19 
 
 w:2
-Así que quieres aprender   VAR26  
+Incluso VAR20 Puede aprender VAR21 !
 
-Inicio   VAR27  
+Primeros pasos en VAR22 
 
-Los fundamentos de   VAR28  
+Practicar VAR23 
+
+Preliminares de VAR24 
+
+Simple VAR25 
+
+w:2
+Así que quieres aprender VAR26 
+
+Inicio VAR27 
+
+Los fundamentos de VAR28 
 
 %%%%
 easy level book
 
- VAR0   y cómo utilizarlo
+ VAR0 y cómo utilizarlo
 
 Y tú
 
- VAR2   Continuación
+ VAR2 Continuación
 
- VAR3   en sencillos pasos
+ VAR3 en sencillos pasos
 
- VAR4   , Parte   VAR5  
+ VAR4 , Parte VAR5 
 
- VAR6  , Volumen   VAR7  
+ VAR6 , Volumen VAR7 
 
-Un Primer en   VAR8  
+Un Primer en VAR8 
 
-Guía temprana para   VAR9  
+Guía temprana para VAR9 
 
-Continuando   VAR10  
+Continuando VAR10 
 
-Fácil   VAR11  
+Fácil VAR11 
 
-Todos los días   VAR12 
+Todos los días VAR12 
 
- VAR13  
+ VAR13 
 
-Más estudios en   VAR14  
+Más estudios en VAR14 
 
-Realizar éxito   VAR15  
+Realizar éxito VAR15 
 
-Quotidian   VAR16  
-
-w:2
-Guía Antepenúltima   VAR17  
-
-Las fundaciones de   VAR18  
-
-Los fundamentos de   VAR19  
+Quotidian VAR16 
 
 w:2
-La alegría de   VAR20  
+Guía Antepenúltima VAR17 
 
-Las claves para   VAR21  
+Las fundaciones de VAR18 
+
+Los fundamentos de VAR19 
+
+w:2
+La alegría de VAR20 
+
+Las claves para VAR21 
 
 %%%%
 moderate level book
 
- VAR0   , Parte   VAR1  
+ VAR0 , Parte VAR1 
 
- VAR2  , Volumen   VAR3  
+ VAR2 , Volumen VAR3 
 
-A   VAR4  
+A VAR4 
 
-Advanced   VAR5  
+Advanced VAR5 
 
-Pasos avanzados en   VAR6  
+Pasos avanzados en VAR6 
 
-Incluso más   VAR7  
+Incluso más VAR7 
 
-Experiencia   VAR8  
+Experiencia VAR8 
 
-Avances en   VAR9  
+Avances en VAR9 
 
-Otros pasos en   VAR10  
+Otros pasos en VAR10 
 
-Mejora tu   VAR11  
+Mejora tu VAR11 
 
-Prácticas   VAR12  
+Prácticas VAR12 
 
-Progresando con   VAR13  
+Progresando con VAR13 
 
-Sofisticada   VAR14  
+Sofisticada VAR14 
 
-La Guía Avanzada   VAR15  
+La Guía Avanzada VAR15 
 
-El camino a   VAR16  
-
-w:2
-Guía penúltima para   VAR17  
-
-El segundo curso en   VAR18  
-
-Útil   VAR19  
+El camino a VAR16 
 
 w:2
-Otro   VAR20   Acerca de   VAR21 
+Guía penúltima para VAR17 
+
+El segundo curso en VAR18 
+
+Útil VAR19 
+
+w:2
+Otro VAR20 Acerca de VAR21 
 
 %%%%
 _powerful_caster_
@@ -877,20 +877,20 @@ difficult level book
 w:50
 @ difficult nivel book owner @
 
- VAR0                                      
+ VAR0 
 
 w:5
- VAR3    de   VAR4  
+ VAR3 de VAR4 
 
 w:5
- VAR5      VAR6     de   VAR7  
+ VAR5 VAR6 de VAR7 
 
 w:5
- VAR8                        
+ VAR8 
 
 # ¡Lo escribieron solo para ti!
 w:1
-A   VAR11   de   VAR12    a   VAR13  
+A VAR11 de VAR12 a VAR13 
 
 %%%%
 Air

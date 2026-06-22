@@ -1400,7 +1400,7 @@ Spores
 Silencio
 Levadura
 Silencio
-other  Weapons name
+other Weapons name
 Silencio
 Broken Luck
 Silencio
@@ -2835,7 +2835,7 @@ Fanaticism
 
 Free Expression
 
-Free Will
+Free 
 
 Hedonism
 

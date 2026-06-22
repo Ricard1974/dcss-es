@@ -1,0 +1,20 @@
+###############################################################################
+# Voices of fleeing monsters.
+# 'flee' is for when they start running.
+# 'fleeing' is for flight in progress (sometimes).
+# 'cornered' is when they realise they have nowhere to go.
+#########
+%%%%
+dream sheep flee
+
+w:30
+@The_monster@ sangra en el terror.
+
+VISUAL: @The_monster@ está con pánico!
+
+VISUAL: @The_monster@ entra en pánico y vuelve a huir.
+
+Un @monster@ asustado salta.
+
+VISUAL: @The_monster@ se estampa.
+%%%%

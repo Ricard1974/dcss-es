@@ -18,6 +18,7 @@ UPSTREAM_DESCRIPT = PROJECT / "upstream" / "descript"
 UPSTREAM_DATABASE = PROJECT / "upstream" / "database"
 TRANS_DESCRIPT = PROJECT / "translations" / "descript" / "es"
 TRANS_DATABASE = PROJECT / "translations" / "database" / "es"
+TRANS_UI = PROJECT / "translations" / "ui" / "es"
 
 
 def parse_entries(filepath: Path) -> list:
@@ -67,6 +68,64 @@ def count_lines(filepath: Path) -> int:
         return sum(1 for _ in f)
 
 
+def analyze_ui(trans_dir: Path) -> dict:
+    """Analiza la sección ui/ (formato clave|valor, sin upstream)."""
+    files = sorted(trans_dir.glob("*.txt"))
+    total_entries = 0
+    total_translated = 0
+    file_stats = []
+
+    for f in files:
+        en_count = 0
+        trans_count = 0
+        lines_total = 0
+        with open(f, "r", encoding="utf-8") as fh:
+            for line in fh:
+                line = line.strip()
+                if (
+                    "|" in line
+                    and not line.startswith("#")
+                    and not line.startswith("=== ")
+                ):
+                    en_count += 1
+                    parts = line.split("|", 1)
+                    if len(parts) == 2 and parts[0].strip() != parts[1].strip():
+                        trans_count += 1
+                lines_total += 1
+
+        total_entries += en_count
+        total_translated += trans_count
+
+        pct = (trans_count / en_count * 100) if en_count > 0 else 0
+        missing = en_count - trans_count
+        status = "✅" if pct >= 90 else "🟡" if pct >= 50 else "🔴" if pct > 0 else "⬜"
+        note = ""
+        if missing > 0:
+            note = f" ({missing} intencionalmente EN)" if missing <= 10 else ""
+
+        file_stats.append(
+            {
+                "file": f.name,
+                "en_entries": en_count,
+                "es_entries": trans_count,
+                "coverage_pct": round(pct, 1),
+                "status": status.strip(),
+                "missing": missing,
+                "note": note,
+            }
+        )
+
+    overall_pct = (total_translated / total_entries * 100) if total_entries > 0 else 0
+
+    return {
+        "section": "ui",
+        "total_en_entries": total_entries,
+        "total_es_entries": total_translated,
+        "overall_pct": round(overall_pct, 1),
+        "files": file_stats,
+    }
+
+
 def analyze_section(name: str, upstream_dir: Path, trans_dir: Path) -> dict:
     """Analiza una sección (descript o database)."""
     files = sorted(upstream_dir.glob("*.txt"))
@@ -112,19 +171,21 @@ def analyze_section(name: str, upstream_dir: Path, trans_dir: Path) -> dict:
     }
 
 
-def print_report(descript_stats: dict, database_stats: dict, json_output: bool = False):
+def print_report(
+    descript_stats: dict,
+    database_stats: dict,
+    ui_stats: dict | None = None,
+    json_output: bool = False,
+):
     """Imprime el informe de estadísticas."""
     if json_output:
-        print(
-            json.dumps(
-                {
-                    "descript": descript_stats,
-                    "database": database_stats,
-                },
-                indent=2,
-                ensure_ascii=False,
-            )
-        )
+        out = {
+            "descript": descript_stats,
+            "database": database_stats,
+        }
+        if ui_stats:
+            out["ui"] = ui_stats
+        print(json.dumps(out, indent=2, ensure_ascii=False))
         return
 
     # Cabecera
@@ -155,9 +216,33 @@ def print_report(descript_stats: dict, database_stats: dict, json_output: bool =
 
         print()
 
+    # UI section
+    if ui_stats and ui_stats["files"]:
+        print(f"📁 {ui_stats['section']}/")
+        print(
+            f"   {ui_stats['total_en_entries']} total  →  {ui_stats['total_es_entries']} trad  "
+            f"({ui_stats['overall_pct']}% traducido)"
+        )
+        print("-" * 72)
+        print(f"  {'Archivo':<30} {'Total':>5} {'Trad':>5} {'%':>6} {'Notas':>20}")
+        print("-" * 72)
+
+        for f in ui_stats["files"]:
+            pct_str = f"{f['coverage_pct']:.0f}%"
+            note = f"  ({f['missing']} EN){f['note']}" if f["missing"] else ""
+            print(
+                f"  {f['status']} {f['file']:<28} {f['en_entries']:>5} {f['es_entries']:>5} "
+                f"{pct_str:>6}{note:>20}"
+            )
+
+        print()
+
     # Totales
     total_en = descript_stats["total_en_entries"] + database_stats["total_en_entries"]
     total_es = descript_stats["total_es_entries"] + database_stats["total_es_entries"]
+    if ui_stats:
+        total_en += ui_stats["total_en_entries"]
+        total_es += ui_stats["total_es_entries"]
     total_pct = (total_es / total_en * 100) if total_en > 0 else 0
     missing = total_en - total_es
 
@@ -179,7 +264,11 @@ def main():
     descript_stats = analyze_section("descript", UPSTREAM_DESCRIPT, TRANS_DESCRIPT)
     database_stats = analyze_section("database", UPSTREAM_DATABASE, TRANS_DATABASE)
 
-    print_report(descript_stats, database_stats, json_output=args.json)
+    ui_stats = None
+    if TRANS_UI.exists():
+        ui_stats = analyze_ui(TRANS_UI)
+
+    print_report(descript_stats, database_stats, ui_stats, json_output=args.json)
 
 
 if __name__ == "__main__":

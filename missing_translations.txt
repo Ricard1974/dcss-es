@@ -1,0 +1,92 @@
+# Cadenas sin traducir - Generado automáticamente
+# Formato: clave|traducción
+#
+
+# === command.cc ===
+         and quit the game\n|
+         pickup part of a single stack\n|
+         in view\n|
+<w>Shift-Dir.</w> runs into one direction|
+
+# === menu.cc ===
+%-*s|
+%-*s|
+
+# === message.cc ===
+%*s|
+--more--|
+Something appears %s!|
+Nothing appears to happen.|
+You are unaffected.|
+You resist.|
+You partially resist.|
+You are too berserk!|
+You are too confused!|
+You can't do that in your present form.|
+You aren't carrying anything.|
+You can't do that yet.|
+Why would you want to do that?|
+There's nothing there!|
+There's nothing close enough!|
+The spell fizzles.|
+Your mouth is %s empty.|
+You are %s empty-clawed.|
+You are %s empty-tentacled.|
+You are %s empty-handed.|
+You blink.|
+You feel a strange sense of stasis.|
+You don't know any spells.|
+You feel your magic capacity increase.|
+You feel your magic capacity decrease.|
+You feel momentarily disoriented.|
+You detect nothing.|
+You cannot move.|
+You see a ghostly outline there, and the spell fizzles.|
+Your health is already full.|
+Your reserves of magic are already full.|
+You feel better.|
+You feel your power returning.|
+You feel momentarily drained.|
+There's something in the way.|
+You can't see that place.|
+Your god isn't willing to do this for you now.|
+There is no available space!|
+
+# === newgame.cc ===
+%s\n|
+ Please select your |
+%s\n|
+Custom seed: %|
+\nYou have a choice of %s:|
+
+# === output.cc ===
+XL Next|
+Place|
+%s:%s|
+Noise|
+HP:   |
+Health: |
+%d/%d|
+ (%d)|
+MP:   |
+Magic:  |
+%d/%d|
+ (%d)|
+Gold: |
+Gold:   |
+AC: |
+EV: |
+SH: |
+Str: |
+Int: |
+Dex: |
+XL:     |
+   Next: |
+God:    |
+Spells: |
+%d/%d levels left|
+Lives:  |
+   Deaths: |
+
+# === startup.cc ===
+ (WIZ)|

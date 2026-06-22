@@ -1,0 +1,1285 @@
+######################################################
+# Randart Names
+# -------------
+# rand_all.txt: keywords for randart JEWELLERY and
+#               those used for ALL randart types
+#
+# This file contains the lists of keywords (and their
+# weights) for keywords specific to randart jewellery
+# as well as those used for all three types of
+# randarts (weapons, armour, jewellery). You will find
+# other ones in rand_wpn.txt and rand_arm.txt.
+# See the explanation in the main file, randname.txt,
+# for more details.
+######################################################
+%%%%
+######################################################
+# Library of keywords used (mostly) for randart jewellery.
+######################################################
+_jewellery_animal_
+
+Death Scarab
+
+Fuego
+
+Scarab
+
+w:5
+Magpie
+
+w:5
+Raven
+%%%%
+_jewellery_special_name_
+
+Actitud
+
+Desastres
+
+Suerte efímero
+
+False Pretenses
+
+Finalidad
+
+Lady Luck
+
+Moodiness
+
+Reembolso
+
+la Tempestad
+
+Temptación
+
+Velleidad
+
+Pensamiento jubiloso
+
+# FIXME: should appear on amulets only
+Yendor
+%%%%
+_suspicion_no_conflict_name_
+
+Dudas
+
+Incredulidad
+
+Celoso
+
+Mistrust
+
+Paranoia
+
+Escepticismo
+
+Secretos
+
+Sospechoso Treachery
+
+Suspicion
+
+Trepidación
+%%%%
+_suspicion_name_
+
+@_suspicion_no_conflict_name_@
+
+w:2
+@_conflict_name_@
+%%%%
+######################################################
+# Library of keywords used for all randart types.
+######################################################
+# Used for god gifts from C++ side, as "of $GOD's @divine_esteem@".
+divine_esteem
+
+# good
+Aprobación
+
+Benevolencia
+
+Deleite
+
+Esteem
+
+Favor
+
+w:5
+Felicitaciones
+
+Generosidad
+
+Grace
+
+Hope
+
+Inspiración
+
+Pride
+
+Regard
+
+w:5
+Respeto
+
+Supremacía
+
+Whim
+
+# bad
+Castigación
+
+Condena
+
+Diplegación
+
+Envy
+
+Resistente
+
+w:70
+@_anger_quality_@
+%%%%
+_xom_esteem_
+
+# chosen 20% of the time
+w:40
+@divine_esteem@
+
+Absentimiento
+
+Diversión
+
+Ático
+
+Bemusement
+
+Los mejores deseos
+
+Capriciencia
+
+Entretenimiento
+
+Fastia
+
+Juego justo
+
+Vuelo de la Fancy
+
+Atención completa
+
+Malicious Joy
+
+Interés Pasante
+
+Recklessness
+
+Ringing Laughter
+
+Altura de las manos
+
+Taradiddle
+
+Temeridad
+
+Quizas
+
+Whimsicality
+%%%%
+_time_name_
+
+Otoño
+
+Dawn
+
+Día
+
+Dusk
+
+Noche eterna
+
+Invierno eterno
+
+Eternidad
+
+Evenfall
+
+Medianoche
+
+Midsummer
+
+Midwinter
+
+Noon
+
+w:5
+Primavera
+
+w:5
+Primavera
+
+w:5
+Verano
+
+w:5
+Hora de verano
+
+Time Moved Backwards
+
+Mañana
+
+Twilight
+
+Invierno
+
+Ayer
+
+el futuro distante
+
+el Equinox
+
+la noche
+
+el Everdark
+
+la cosecha
+
+la mañana
+
+el pasado
+
+el Presente
+
+el Solstice
+%%%%
+_sky_colour_name_
+
+Negro
+
+Azul
+
+Grey
+
+Indigo
+
+Orange
+
+Púrpura
+
+Rojo
+%%%%
+_sky_or_light_
+Oscuridad
+
+Dim Light
+
+Luz
+
+Starshine
+
+Sunlight
+
+el gasto sin fin
+
+el Gloaming
+
+los Cielos
+
+la Luna
+
+la Luz Luminosa
+
+los Cielos Sobre
+
+el cielo
+
+el Sol
+
+el @_sky_colour_name_@ Skies
+%%%%
+_virtue_or_vice_
+
+w:5
+@_virtue_name_@
+
+@_valour_name_@
+
+@_vice_name_@
+%%%%
+_virtue_name_
+Benevolencia
+
+Caridad
+
+Compasión
+
+Devoción
+
+Discreción
+
+Generosidad
+
+Grace
+
+Honestidad
+
+Hospitalidad
+
+Amabilidad
+
+Grande
+
+Modestia
+
+Paciencia
+
+Temperance
+
+Pensamiento
+
+Verdad
+
+Comprensión
+
+Virtud
+
+Wariness
+
+Sabiduría
+
+%%%%
+_vice_name_
+
+# some of the deadly sins
+Gluttony
+
+Greed
+
+Lust
+
+Pride
+
+Sloth
+
+Vanity
+
+# general immorality
+Amoralidad
+
+Cobardía
+
+Deshonestidad
+
+Deshonor
+
+Equivocación
+
+Tonterías
+
+Inmortalidad
+
+Impaciencia
+
+Lies
+
+Misconduct
+
+Moral Flaws
+
+Errores pasados
+
+Recklessness
+
+Sin
+
+Spite
+
+Tergiversación
+
+La falsedad
+
+Vice
+
+Indiscreción juvenil
+
+el pecado original
+
+%%%%
+_destiny_name_
+
+Causality
+
+Destino
+
+Doom
+
+Fate
+
+Karma
+
+Kismet
+
+Wyrd
+
+%%%%
+_number_or_qualifier_
+
+# exact numbers
+tres
+
+los Cuatro
+
+los Cinco
+
+los Seis
+
+los Siete
+
+los Ocho
+
+los Nueve
+
+los Diez
+
+el Once
+
+w:5
+los Doce
+
+w:5
+los Dozen
+
+el 13
+
+w:5
+los Veinte
+
+w:1
+los veintisiete
+
+el 50
+
+w:5
+el Sexagésimo sexto
+
+w:5
+el setenta y siete
+
+w:5
+el noventa y nueve
+
+w:5
+a Cien
+
+w:5
+el Hundredfold
+
+a Mil
+
+a Millones
+
+a billón
+
+# vague numbers
+el
+
+el surtido
+
+incontable
+
+el Manifold
+
+los muchos
+
+los Varios
+
+# other qualifiers
+el Envejecido
+
+sin edad
+
+el Antiguo
+
+el Battered
+
+el Bouncing
+
+el Bruised
+
+la Cruzada
+
+el Curioso
+
+la perturbación
+
+los Endless
+
+el Exilio
+
+la Final
+
+el primero
+
+el Primer
+
+el olvidado
+
+el Desamparado
+
+los Ocultos
+
+la Ilustración
+
+el Immovable
+
+el Inquisitivo
+
+insaciable
+
+invisible
+
+el Jolly
+
+el último
+
+lonely
+
+lost
+
+el Lumpy
+
+el Modern
+
+el Neverending
+
+el Peculiar
+
+la posmoderna
+
+el Puro
+
+el Secreto
+
+el Sneaky
+
+the Special
+
+la Thirsty
+
+el Pensamiento
+
+el Cantado
+
+los imparables
+
+el Desapareciendo
+
+el Wary
+
+el Well-Known
+
+%%%%
+_thing_names_
+Aliados
+
+Artisans
+
+Artistas
+
+Bestias
+
+Camas
+
+Beggars
+
+Bendiciones
+
+Huesos
+
+Bounties
+
+Brambles
+
+w:5
+Ciudades
+
+Monedas
+
+Continentes
+
+Curses
+
+Bailes
+
+Muertes
+
+Defenders
+
+Dominios
+
+Demonios
+
+Sueños
+
+Orejas
+
+Emperadores
+
+Ojos
+
+Amigos
+
+Frailes
+
+Geomancers
+
+Fantasmas
+
+Dioses
+
+Cielos
+
+Infierno
+
+Hosts
+
+Interlopers
+
+Invasores
+
+Knaves
+
+w:25
+Cuchillos
+
+Leylines
+
+Lies
+
+Vidas
+
+Panes
+
+Amantes
+
+Ratones
+
+Lunas
+
+Mouths
+
+Mystics
+
+w:5
+Nightcaps
+
+Nightingales
+
+Nightmares
+
+Noches
+
+Olivos
+
+Orbes
+
+Personas
+
+Persimmons
+
+Lugares
+
+Planetas
+
+Portals
+
+Priests
+
+Princes
+
+Profetas
+
+Queens
+
+Búsquedas
+
+Reinos
+
+Runes
+
+Scars
+
+Mares
+
+Cervezas
+
+Servidores
+
+Barcos
+
+Shrikes
+
+Canciones
+
+Almas
+
+Spines
+
+Espíritus
+
+w:5
+Hojas de cálculo
+
+Estrellas
+
+Historias
+
+Soles
+
+Cuadros
+
+Tales
+
+Dientes
+
+Thickets
+
+w:5
+Cosas
+
+w:5
+Pueblos
+
+Tusks
+
+Ultimatums
+
+Underlurkers
+
+w:5
+Villages
+
+Violins
+
+Visionarios
+
+Visiones
+
+Guerras
+
+Wishes
+
+Wonders
+
+Xalams
+
+Xenops
+
+Xeniums
+
+w:5
+Xenofobes
+
+Yaks
+
+Jóvenes
+
+Ziggurats
+%%%%
+_verbing_
+
+w:5
+Envejecimiento
+
+w:5
+Baking
+
+Bedazzling
+
+Bedighting
+
+Bespelling
+
+Blushing
+
+w:5
+Respiración
+
+Brewing
+
+Edificio
+
+Quema
+
+w:5
+Bursting
+
+Cambio
+
+Encantador
+
+Chewing
+
+Conjuring
+
+Artesanía
+
+Cursing
+
+Bailando
+
+Destruyendo
+
+Devorando
+
+Incredulidad
+
+w:5
+Dripping
+
+Encantador
+
+Enfolding
+
+Alimentación
+
+Volando
+
+Forging
+
+Fortificación
+
+Freezing
+
+Gazing
+
+w:5
+Glimmering
+
+w:5
+Glowing
+
+Gnashing
+
+Grinning
+
+Creciendo
+
+Hammering
+
+Sanación
+
+Esperando
+
+Howling
+
+w:5
+Hugging
+
+Hambre
+
+Hurling
+
+Hurting
+
+Hurtling
+
+Imbibing
+
+Invitación
+
+Saltando
+
+Besando
+
+Mantenerse
+
+Leaping
+
+Loving
+
+Lusting
+
+w:1
+Maligno
+
+Mauling
+
+Mashing
+
+Muttering
+
+Nurturing
+
+Protección
+
+Rescatando
+
+Montaje
+
+Scorching
+
+Gritando
+
+Compartir
+
+Sheltering
+
+Cambio
+
+Shimmering
+
+Shouting
+
+Arrugando
+
+Cantando
+
+Fumar
+
+Para
+
+Invocación
+
+Apoyo
+
+Enseñanza
+
+Decir
+
+Thieving
+
+Threeshing
+
+Transmutación
+
+Twisting
+
+Levantamiento
+
+Usurping
+
+Ganando
+
+Brujas
+
+Wizarding
+
+Agradecimiento
+
+# the three classic D&D damage types:
+w:5
+Bashing
+
+w:5
+Slashing
+
+w:5
+Piercing
+%%%%
+_adjective_
+Azul
+
+Verde
+
+Rojo
+
+w:5
+Amoroso
+
+Antigüedad
+
+Arcadiano
+
+w:5
+Avant Garde
+
+Baleful
+
+Barnacled
+
+Bestia
+
+Bedazzled
+
+Bellicose
+
+Amado
+
+Bequeathed
+
+Bespelled
+
+Brillante
+
+Quema
+
+Bursted
+
+w:5
+Burnt
+
+Cargado
+
+Caustic
+
+Limpio
+
+Diseñado inteligentemente
+
+Charmed
+
+w:5
+Cargado
+
+Contumacious
+
+Damp
+
+Decaying
+
+Deeply Unsettling
+
+Delicado
+
+Encantador
+
+Demonic
+
+Divina
+
+Perdido
+
+Dowdy
+
+Dull
+
+Durable
+
+Enorme
+
+Ethereal
+
+Excepcional
+
+Extremely Toothy
+
+Ojo cubierto
+
+Fabuloso
+
+Fae
+
+Feral
+
+Feroz
+
+Festooned
+
+Filigreed
+
+Floral
+
+Freezing
+
+Fresco
+
+w:5
+Futurista
+
+Fuzzy
+
+Fantasma
+
+Glamorous
+
+Oro
+
+Grandioso
+
+Grim
+
+Peluquería
+
+Haunted
+
+Histriónico
+
+Impasible
+
+Imposible
+
+Indestructible
+
+Intenso
+
+Irksome
+
+Jocular
+
+Lachrymose
+
+Vivir
+
+Majestic
+
+Meager
+
+w:5
+Moderno
+
+Mordant
+
+Narrow
+
+Bonito
+
+Noxious
+
+Oily
+
+Ornamental
+
+Pintado
+
+Parsimonious
+
+Poderoso
+
+Puckish
+
+Quiescent
+
+Rápido
+
+Razonable
+
+Resonante
+
+Rotten
+
+Sandy
+
+Scuffed
+
+Sharp
+
+Shrieking
+
+w:5
+Tonto
+
+Slimy
+
+Solemn
+
+Suave
+
+Squeaky
+
+Stained
+
+Suficiente
+
+Tentacled
+
+Terrible
+
+Toothy
+
+Torturada
+
+Transparent
+
+Ubiquitous
+
+Insoportable
+
+Verdant
+
+Viny
+
+Voracious
+
+Weak
+
+Wicked
+
+Maravilloso
+
+Zealous
+%%%%
+_fruit_name_
+
+Orange
+
+Banana
+
+# fruit-adjacent
+Pan de banana
+
+Pear
+
+Apple
+
+Apricot
+
+Tomato
+
+Peach
+
+Plum
+
+Rambutan
+
+Lychee
+
+Mango
+
+Watermelon
+
+Rockmelon
+
+Fresa
+
+Coco
+
+Panfruit
+
+Eggfruit
+
+Dragonfruit
+
+Durian
+
+Jackfruit
+
+Longan
+
+Tamarind
+
+Guava
+
+Mangosteen
+
+Soursop
+
+Tangerine
+
+Cherry
+
+Grape
+
+Sultana
+
+Fig
+
+Fecha
+
+Lemon
+
+Lime
+
+Medlar
+%%%%

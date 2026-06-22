@@ -165,7 +165,7 @@ Xom levanta y tira en la arena de un improvisado [warmonger Torturaduelist].
 Xom te encerra como una exposición para estudiar.
 
 w:5
-Xom construye otro   VAR0   Zoo de Petting.
+Xom construye otro VAR0 Zoo de Petting.
 
 %%%%
 Xom bazaar trip
@@ -213,7 +213,7 @@ Xom feature lava
 
 ¡Escupe chispas!
 
- VAR1   solidifica brevemente.
+ VAR1 solidifica brevemente.
 
 %%%%
 Xom feature shallow water
@@ -224,9 +224,9 @@ brevemente gira.
 
 Brevemente brilla.
 
- VAR3   brevemente brilla   VAR4   .
+ VAR3 brevemente brilla VAR4 .
 
- VAR5   brevemente flashes   VAR6   .
+ VAR5 brevemente flashes VAR6 .
 
 Precisamente hierve.
 
@@ -237,7 +237,7 @@ Xom feature deep water
 
 @Xom función agua poco profunda@
 
-Al costado, encuentras algo acechando en   VAR0   .
+Al costado, encuentras algo acechando en VAR0 .
 
 %%%%
 Xom feature blood
@@ -256,13 +256,13 @@ Mira a través de ti.
 %%%%
 Xom feature dry
 
-Agua rociado brevemente desde   VAR0  .
+Agua rociado brevemente desde VAR0 .
 
-Agua chispeante brevemente aerosoles de   VAR1  .
+Agua chispeante brevemente aerosoles de VAR1 .
 
-Sangre rociado brevemente de   VAR2   .
+Sangre rociado brevemente de VAR2 .
 
-El polvo sale de   VAR3  .
+El polvo sale de VAR3 .
 
 %%%%
 Xom feature statuelike
@@ -271,129 +271,129 @@ Se vuelve a mirarte.
 
 Se vuelve a mirarte.
 
- VAR2   se aleja de ti.
+ VAR2 se aleja de ti.
 
- VAR3    gira en su lugar.
+ VAR3 gira en su lugar.
 
 %%%%
 Xom feature tree
 
 Se inclina hacia ti.
 
- VAR1    se aleja de ti.
+ VAR1 se aleja de ti.
 
 Siempre en su lugar.
 
 %%%%
 Xom feature translucent wall
 
-Las formas de Dim nadan a través de   VAR0  .
+Las formas de Dim nadan a través de VAR0 .
 
-Faint   VAR1    llamas arrastran por   VAR2   .
+Faint VAR1 llamas arrastran por VAR2 .
 
- VAR3   está brevemente cubierto en   VAR4  .
+ VAR3 está brevemente cubierto en VAR4 .
 
- VAR5   está brevemente cubierto en   VAR6   .
+ VAR5 está brevemente cubierto en VAR6 .
 
- VAR7   está brevemente cubierto en   VAR8   .
+ VAR7 está brevemente cubierto en VAR8 .
 
 %%%%
 Xom feature metal wall
 
-Tendriles de electricidad se arrastran por   VAR0   .
+Tendriles de electricidad se arrastran por VAR0 .
 
- VAR1   brevemente aparece empañado.
+ VAR1 brevemente aparece empañado.
 
 %%%%
 Xom feature stone arch
 
-VAR0  brevemente muestra un prado soleado en el otro lado.
+VAR0 brevemente muestra un prado soleado en el otro lado.
 
- VAR1   muestra brevemente un desperdicio sin vida al otro lado.
+ VAR1 muestra brevemente un desperdicio sin vida al otro lado.
 
- VAR2   brevemente muestra extrañas figuras   VAR3  en el otro lado.
+ VAR2 brevemente muestra extrañas figuras VAR3 en el otro lado.
 
- VAR4   brevemente muestra edificios extraños en el otro lado.
+ VAR4 brevemente muestra edificios extraños en el otro lado.
 
- VAR6   muestra brevemente una pared translúcida cubierta en   VAR7   en el otro lado.
+ VAR6 muestra brevemente una pared translúcida cubierta en VAR7 en el otro lado.
 
- VAR8   muestra brevemente una pared translúcida cubierta en   VAR9    al otro lado.
+ VAR8 muestra brevemente una pared translúcida cubierta en VAR9 al otro lado.
 
- VAR10   muestra brevemente una pared translúcida cubierta en   VAR11    en el otro lado.
+ VAR10 muestra brevemente una pared translúcida cubierta en VAR11 en el otro lado.
 
 %%%%
 Xom underfoot general
 
 brevemente cambia bajo ti.
 
-Un espíritu imperceptible cepilla contra   VAR1  a tu lado.
+Un espíritu imperceptible cepilla contra VAR1 a tu lado.
 
 %%%%
 Xom underfoot water
 
 Se aleja brevemente de ti.
 
-Un espíritu imperceptible envía ondas a través de   VAR1  a tu lado.
+Un espíritu imperceptible envía ondas a través de VAR1 a tu lado.
 
 %%%%
 Xom underfoot airborne general
 
-VAR0  Parece que se escapan de debajo de ti!
+VAR0 Parece que se escapan de debajo de ti!
 
- VAR1  Parece que te apresures!
+ VAR1 Parece que te apresures!
 
 %%%%
 Xom underfoot airborne water
 
 @Xom underfoot airborne general@
 
-Un espíritu imperceptible fluye hacia   VAR0  debajo de ti.
+Un espíritu imperceptible fluye hacia VAR0 debajo de ti.
 
 %%%%
 Xom inventory singular
 
 Brevemente brilla.
 
- VAR1   brevemente brilla   VAR2   .
+ VAR1 brevemente brilla VAR2 .
 
 Vibra brevemente.
 
- VAR4    brevemente flashes   VAR5   .
+ VAR4 brevemente flashes VAR5 .
 
 %%%%
 Xom inventory plural
 
-Uno de   VAR0  brilla brevemente.
+Uno de VAR0 brilla brevemente.
 
-Uno de   VAR1   brilla brevemente   VAR2   .
+Uno de VAR1 brilla brevemente VAR2 .
 
-Uno de   VAR3  brevemente vibra.
+Uno de VAR3 brevemente vibra.
 
-Uno de   VAR4   flashes brevemente   VAR5   .
+Uno de VAR4 flashes brevemente VAR5 .
 
- VAR6   brevemente brillan.
+ VAR6 brevemente brillan.
 
- VAR7   brevemente brilla   VAR8   .
+ VAR7 brevemente brilla VAR8 .
 
 Vibrar brevemente.
 
- VAR10    brevemente flash   VAR11   .
+ VAR10 brevemente flash VAR11 .
 
 %%%%
 Xom floor inventory singular
 
 @Xom inventario singular@
 
- VAR0    se cae de tu paquete, ¡entonces inmediatamente vuelve a entrar!
+ VAR0 se cae de tu paquete, ¡entonces inmediatamente vuelve a entrar!
 
 %%%%
 Xom floor inventory plural
 
 @Xom inventario plural@
 
-Uno de los   VAR0   se cae de tu paquete, ¡entonces inmediatamente vuelve a entrar!
+Uno de los VAR0 se cae de tu paquete, ¡entonces inmediatamente vuelve a entrar!
 
- VAR1    caer de tu paquete, ¡entonces inmediatamente volver a entrar!
+ VAR1 caer de tu paquete, ¡entonces inmediatamente volver a entrar!
 
 %%%%
 Xom bandages
@@ -414,7 +414,7 @@ Un monóculo aparece brevemente sobre tu ojo.
 
 Un eyepatch cubre brevemente tu ojo.
 
-¡Una ráfaga de   VAR0     La luz dispara brevemente desde tu ojo!
+¡Una ráfaga de VAR0 La luz dispara brevemente desde tu ojo!
 
 %%%%
 Xom eyes
@@ -423,7 +423,7 @@ Un monóculo aparece brevemente sobre uno de tus ojos.
 
 Un eyepatch cubre brevemente uno de tus ojos.
 
-Bursts of   VAR0    ¡Dispara brevemente de tus ojos!
+Bursts of VAR0 ¡Dispara brevemente de tus ojos!
 
 %%%%
 Xom ears
@@ -457,13 +457,13 @@ Tú crece brevemente un bigote grande y barba.
 %%%%
 Xom impromptu dance
 
-Realizas un impromptu   VAR0   .
+Realizas un impromptu VAR0 .
 
-Haces un impromptu   VAR1   .
+Haces un impromptu VAR1 .
 
-Tú hace clic compulsivamente sus tacones juntos   VAR2   veces.
+Tú hace clic compulsivamente sus tacones juntos VAR2 veces.
 
-Tú compulsivamente golpea sus   VAR3      VAR4    veces.
+Tú compulsivamente golpea sus VAR3 VAR4 veces.
 
 %%%%
 dance_name
@@ -509,21 +509,21 @@ Pronto creces otra cola.
 %%%%
 Xom random body part singular
 
-Su   VAR0    brevemente vaga fuera de su cuerpo, y luego se fusiona de nuevo en!
+Su VAR0 brevemente vaga fuera de su cuerpo, y luego se fusiona de nuevo en!
 
-Tu   VAR1   salta brevemente de tu cuerpo, ¡entonces se vuelve a atacar!
+Tu VAR1 salta brevemente de tu cuerpo, ¡entonces se vuelve a atacar!
 
 %%%%
 Xom random body part plural
 
-Su   VAR0    brevemente vagando fuera de su cuerpo, y luego se fusionan de nuevo en!
+Su VAR0 brevemente vagando fuera de su cuerpo, y luego se fusionan de nuevo en!
 
-¡Tu   VAR1   salta brevemente de tu cuerpo y luego tranquilízate!
+¡Tu VAR1 salta brevemente de tu cuerpo y luego tranquilízate!
 
 %%%%
 Xom unarmed one hand
 
-Un dulce elegante aparece brevemente en tu   VAR0  .
+Un dulce elegante aparece brevemente en tu VAR0 .
 
 Tú golpea compulsivamente el aire.
 
@@ -532,85 +532,85 @@ Xom unarmed two hands
 
 @Xom una sola mano@
 
-Dos canes elegantes aparecen brevemente en su   VAR0  .
+Dos canes elegantes aparecen brevemente en su VAR0 .
 
-Tú compulsivamente aplaude sus   VAR1      VAR2    veces.
+Tú compulsivamente aplaude sus VAR1 VAR2 veces.
 
 %%%%
 Xom cloak slot
 
-VAR0   billows in an unfelt wind.
+VAR0 billows in an unfelt wind.
 
- VAR1   brevemente se envuelve alrededor de su   VAR2   !
+ VAR1 brevemente se envuelve alrededor de su VAR2 !
 
- VAR3   está brevemente cubierto en   VAR4  !
+ VAR3 está brevemente cubierto en VAR4 !
 
 %%%%
 Xom helmet slot
 
-VAR0   salta al aire, gira brevemente, y luego vuelve a aterrizar en tu   VAR1   !
+VAR0 salta al aire, gira brevemente, y luego vuelve a aterrizar en tu VAR1 !
 
 %%%%
 Xom offhand slot
 
 - ¡Huye!
 
- VAR1    brevemente flashes   VAR2   !
+ VAR1 brevemente flashes VAR2 !
 
 %%%%
 Xom gloves slot
 
-VAR0   crece brevemente   VAR1   ¡Dedos extra!
+VAR0 crece brevemente VAR1 ¡Dedos extra!
 
 %%%%
 Xom boots slot
 
-VAR0   crece a un tamaño enorme, y luego se contrae de nuevo!
+VAR0 crece a un tamaño enorme, y luego se contrae de nuevo!
 
 %%%%
 Xom amulet slot
 
-VAR0   pulsa!
+VAR0 pulsa!
 
- VAR1             , entonces vuelve a la normalidad.
+ VAR1 , entonces vuelve a la normalidad.
 
- VAR3    brevemente vuela y agita tu   VAR4   !
+ VAR3 brevemente vuela y agita tu VAR4 !
 
 %%%%
 Xom gizmo slot
 
-VAR0   jiggles!
+VAR0 jiggles!
 
- VAR1     escapes   VAR2   humo!
+ VAR1 escapes VAR2 humo!
 
 %%%%
 Xom ring slot
 
 ¡Twitches!
 
- VAR1   brevemente aburridos, luego se ilumina de nuevo!
+ VAR1 brevemente aburridos, luego se ilumina de nuevo!
 
- VAR2   brevemente se ilumina, luego se aburre de nuevo!
+ VAR2 brevemente se ilumina, luego se aburre de nuevo!
 
 %%%%
 Xom dragon armour
 
-Las escalas de   VAR0   se mueven brevemente.
+Las escalas de VAR0 se mueven brevemente.
 
 %%%%
 Xom animal skin
 
-La piel en   VAR0   crece más a un ritmo alarmante, y luego vuelve a la normalidad.
+La piel en VAR0 crece más a un ritmo alarmante, y luego vuelve a la normalidad.
 
 %%%%
 Xom leather armour
 
-VAR0   crece brevemente la piel, luego vuelve a la normalidad.
+VAR0 crece brevemente la piel, luego vuelve a la normalidad.
 
 %%%%
 Xom robe
 
-Te enredaste brevemente en   VAR0  .
+Te enredaste brevemente en VAR0 .
 
 %%%%
 Xom metal armour
@@ -698,9 +698,9 @@ Oíste la risa maníaca de Xom.
 %%%%
 Xom send in the clones
 
-Xom siente que debería haber más de ustedes para compartir con la Mazmorra.
+Xom siente que debería haber más de tú para compartir con la Mazmorra.
 
-Xom Destruye suavemente un espejo sobre su [   VAR0  previo    VAR1  ].
+Xom Destruye suavemente un espejo sobre su [ VAR0 previo VAR1 ].
 
 "¡Multiply and go forth!"
 
@@ -730,11 +730,11 @@ Xom drained brain
 
 ¡Tu poder y tus pensamientos están abrumados por los creadores de magia!
 
-¡Tu magia se desgarra de tu [                      ]!
+¡Tu magia se desgarra de tu [ ]!
 
-¡Tu magia fluye a través de tu [  VAR2   viv    VAR3  ]!
+¡Tu magia fluye a través de tu [ VAR2 viv VAR3 ]!
 
-¡Tu magia se arranca a través de tu [   VAR4   viv     VAR5  ]!
+¡Tu magia se arranca a través de tu [ VAR4 viv VAR5 ]!
 
 %%%%
 Xom banishment
@@ -950,7 +950,7 @@ El poder de Xom te toca por un momento.
 
 Oíste el cackling maniacal de Xom.
 
-Con una gota de luz [   VAR0                 ], Xom te reconstruye.
+Con una gota de luz [ VAR0 ], Xom te reconstruye.
 
 %%%%
 Xom random mutations
@@ -963,7 +963,7 @@ Xom's power cepilles contra ti por un momento.
 
 Oíste que el tonto avuncular de Xom.
 
-Con un flash de la luz [  VAR0       VAR1  ], Xom te reconstruye.
+Con un flash de la luz [ VAR0 VAR1 ], Xom te reconstruye.
 
 %%%%
 Xom divine lightning
@@ -1065,7 +1065,7 @@ Sonríe sobre ti.
 
 "¡Toy, no te mueras conmigo todavía!"
 
-Xom te salva antes de que todo vaya   VAR0  .
+Xom te salva antes de que todo vaya VAR0 .
 
 w:1
 "Uno más [la vida en la vida eterna]."
@@ -1075,11 +1075,11 @@ Xom repel stairs
 
 Xom cambia el paisaje.
 
-Xom pokes at a nearby   VAR0   .
+Xom pokes at a nearby VAR0 .
 
-Xom empuja a un cercano   VAR1   .
+Xom empuja a un cercano VAR1 .
 
-Xom tira de un cercano   VAR2   .
+Xom tira de un cercano VAR2 .
 
 "¡Tag, tú lo eres!"
 
@@ -1116,7 +1116,7 @@ Xom toma una variedad de cuerdas de títeres.
 "¿Quieres más amigos, hija mía?"
 
 w:5
-Xom sobornos enemigos cercanos con la oferta de trucha   VAR0  .
+Xom sobornos enemigos cercanos con la oferta de trucha VAR0 .
 
 w:5
 La mano de Xom pokes presentes mentes.
@@ -1144,7 +1144,7 @@ Xom life saving general
 
 "¡Hey, las cosas se estaban poniendo interesantes!"
 
-"¡NOOOOOOOOOOO, no mi   VAR0  !"
+"¡NOOOOOOOOOOO, no mi VAR0 !"
 
 "No aquí, no ahora".
 
@@ -1158,13 +1158,13 @@ Xom life saving actor
 #
 @Xom salvavidas general@
 
-"¡Ese es mi   VAR0  !"
+"¡Ese es mi VAR0 !"
 
 "¡Oh, no, no lo haces!"
 
-"¡Ése es mi   VAR1  , ve por tu cuenta!"
+"¡Ése es mi VAR1 , ve por tu cuenta!"
 
-"¡Deja mi   VAR2  solo!"
+"¡Deja mi VAR2 solo!"
 
 %%%%
 Xom boring death
@@ -1223,11 +1223,11 @@ _xom_plaything_
 # piety > 180 and > 80, respectively
 {{
 if you.piety_rank() > 4 then
-    return "teddy bear"
+ return "teddy bear"
 elseif you.piety_rank() > 2 then
-    return "toy"
+ return "toy"
 else
-    return "plaything"
+ return "plaything"
 end
 }}
 ######################################
@@ -1245,7 +1245,7 @@ recite_closure
 
 "Así que dice Zin."
 
-"La piedad sea con todos ustedes."
+"La piedad sea con todos tú."
 
 "Escrito en sangre; sellado por tu muerte."
 
@@ -1268,15 +1268,15 @@ Ignis llama a los espíritus de fuego para deshacerte!
 
 "¡Burn! ¡Quema hasta que no quede nada!"
 
-"Estos Will saben cómo infligir el castigo debido a tú!"
+"Estos saben cómo infligir el castigo debido a tú!"
 
 ¡Betrayer! ¡Apóstata! ¡Perish!"
 
 w:5
-"Con mil fuegos quemé ciudades, pero estos Will suficiente para ti!"
+"Con mil fuegos quemé ciudades, pero estos suficiente para ti!"
 
 w:5
-"Mis manos, mis dientes, mis lágrimas ardientes: estos Will nunca me traicionan!"
+"Mis manos, mis dientes, mis lágrimas ardientes: estos nunca me traicionan!"
 
 %%%%
 Makhleb executioner chatter
@@ -1316,7 +1316,7 @@ Tenga cuidado de que un retador ha venido buscando en la batalla. Probar tu devo
 Ha llegado el momento, buscador, de probar tu contratiempo en combate. Pruébate un orc! ¡Únete a tu verdadera gente!
 
 Shakespeare / Tolkien
-Al diablo con su valor para el lugar pegado, y enfrentar un desafío. ¡Pelea para sobrevivir! En la gran guerra, todos los Will sean orcos!
+Al diablo con su valor para el lugar pegado, y enfrentar un desafío. ¡Pelea para sobrevivir! En la gran guerra, todos los sean orcos!
 
 %%%%
 Cheibriados penance
@@ -1494,7 +1494,7 @@ Pakellas dice: ¿Listo para probar otros dispositivos?
 
 Pakellas dice: Esto está produciendo algunos resultados muy interesantes.
 
-Pakellas dice: ¿Qué soluciones Will se presentan a continuación?
+Pakellas dice: ¿Qué soluciones se presentan a continuación?
 
 Pakellas dice: ¡Progreso o perece!
 
@@ -1733,7 +1733,7 @@ Zin penance
 
 Zin te castiga por tu desobediencia de la Ley.
 
-Zin explica severamente la importancia de   VAR0
+Zin explica severamente la importancia de VAR0
 
 %%%%
 Zin welcome
@@ -1756,7 +1756,7 @@ w:5
 Zot's tendrils estallan desde dentro de ti!
 
 w:3
-Zot's Will forja una nueva realidad, sin ti en ella.
+Zot's forja una nueva realidad, sin ti en ella.
 
 w:3
 Zot te apaga como una luz.

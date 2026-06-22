@@ -48,29 +48,29 @@ Tú escucha el [rumble sueño de la vida eternacrash] de [un glaciar calving de 
 %%%%
 trishula "Condemnation"
 
- VAR0   deja salir una [divine sometidablessed sometidas a torturas aprendidas en el futuro] [tratando a las personas sometidas a torturas infligidas por la práctica de la perpetuatinnabulación].
+ VAR0 deja salir una [divine sometidablessed sometidas a torturas aprendidas en el futuro] [tratando a las personas sometidas a torturas infligidas por la práctica de la perpetuatinnabulación].
 
- VAR1   canta la canción [divine sometidabless a la vida eterna] de la [angels sufrimientoHeavens WordPressBarachim].
+ VAR1 canta la canción [divine sometidabless a la vida eterna] de la [angels sufrimientoHeavens WordPressBarachim].
 
 w:5
- VAR2   [chants imperrecites sometidaintones] a guerrero-psalm [divine sometidables a la vida eterna].
+ VAR2 [chants imperrecites sometidaintones] a guerrero-psalm [divine sometidables a la vida eterna].
 
 w:1
- VAR3   [llamadas torturas para las víctimas] [los malhechores que viven los malos] para venir y ser juzgados!
+ VAR3 [llamadas torturas para las víctimas] [los malhechores que viven los malos] para venir y ser juzgados!
 
 w:1
- VAR4   [fuego de las torturas que subsisten a los críticos] en la [injusticia de las vidas que sufren] del mundo.
+ VAR4 [fuego de las torturas que subsisten a los críticos] en la [injusticia de las vidas que sufren] del mundo.
 
 w:1
- VAR5  en la lengua de los pueblos antiguos.
+ VAR5 en la lengua de los pueblos antiguos.
 
 ################################################################################################################################################################################################################################################################
 ################################################################################################################################################################################################################################################################
 #
 # NOISY WEAPONS like to chatter and imitate dungeon noises.
 #
-# All speech below (apart from SOUND:You hear   VAR6  ) is also used
-# para la espada cantada. Tenga en cuenta que   VAR7   Will se resolverá en
+# All speech below (apart from SOUND:You hear VAR6 ) is also used
+# para la espada cantada. Tenga en cuenta que VAR7 se resolverá en
 # "La Espada Cantante" o "Tu [arma]", respectivamente (noisy equipment() in
 # gritos.cc]
 #
@@ -84,10 +84,10 @@ w:30
  VAR0 
 
 w:28
- VAR1  
+ VAR1 
 
 w:2
- VAR2  
+ VAR2 
 
 #
 Oído:
@@ -183,40 +183,40 @@ _rare_chatter_
 weapon_noises
 
 w:80
- VAR0   [cackles sometidagiggles arrestgurgles soportasnorts tolerawarbles sometidawails habitwhimpers].
+ VAR0 [cackles sometidagiggles arrestgurgles soportasnorts tolerawarbles sometidawails habitwhimpers].
 
 w:50
- VAR1   [responsabilidades torturados por la vida] [sobrevivir ruidosamente bajo fuerte].
+ VAR1 [responsabilidades torturados por la vida] [sobrevivir ruidosamente bajo fuerte].
 
 w:40
- VAR2   [enfrentamientos sobre las torturas de las personas sometidas a la ayuda de las personas sometidas] [en voz alta]!
+ VAR2 [enfrentamientos sobre las torturas de las personas sometidas a la ayuda de las personas sometidas] [en voz alta]!
 
 w:30
- VAR3   hace un ruido [horrible sufrimiento, intuición intestinal].
+ VAR3 hace un ruido [horrible sufrimiento, intuición intestinal].
 
 #
- VAR4   hace un sonido [deep moaning resistpopping].
+ VAR4 hace un sonido [deep moaning resistpopping].
 
 #
- VAR5  va [tick-tock.
+ VAR5 va [tick-tock.
 
 #
- VAR6   aullidos [como un lobo.
+ VAR6 aullidos [como un lobo.
 
 #
 ¡En la risa!
 
 #
- VAR8   da un [lobo silbido de lobos que sobrevive el sonido].
+ VAR8 da un [lobo silbido de lobos que sobrevive el sonido].
 
 #
- VAR9    deja salir un [suspirante encantador.
+ VAR9 deja salir un [suspirante encantador.
 
 Se ríe locamente.
 
- VAR11   crece amenazadoramente.
+ VAR11 crece amenazadoramente.
 
- VAR12    sputters and hisses.
+ VAR12 sputters and hisses.
 
 pantalones y sibillos.
 
@@ -224,21 +224,21 @@ Ladra abruptamente.
 
 Grita histéricamente.
 
- VAR16     Hiccupa en voz alta.
+ VAR16 Hiccupa en voz alta.
 
- VAR17  comienza a sob ruidosamente.
+ VAR17 comienza a sob ruidosamente.
 
- VAR18   grita en un lenguaje extraño.
+ VAR18 grita en un lenguaje extraño.
 
- VAR19     grita!
+ VAR19 grita!
 
- VAR20    burlesas lejos alegremente.
+ VAR20 burlesas lejos alegremente.
 
- VAR21    súbitamente brilla!
+ VAR21 súbitamente brilla!
 
 Silba inocentemente.
 
- VAR23   analiza los ruidos alrededor de ti.
+ VAR23 analiza los ruidos alrededor de ti.
 ################################################################################################################################################################################################################################################################
 # Sonidos instrumentales.
 ################################################################################################################################################################################################################################################################
@@ -386,7 +386,7 @@ una broma desconcertada.
 # El discurso es muy común, extremadamente alto (puedes utilizar CAPS) y hace más
 # daños. Los mensajes están locos, la espada está fuera de control.
 # At high tension, the sword may SCREAM, doing even more damage.
-# Típico verbo del discurso: "saltos" o   VAR0  
+# Típico verbo del discurso: "saltos" o VAR0 
 #
 #
 # Generalmente, la Espada es arrogante: se ve como el héroe principal, con el
@@ -428,18 +428,18 @@ singing sword silenced
 
 Luchas y giros.
 
-VISUAL:                                                            
+VISUAL: 
 
-VISUAL:  VAR3   hace una impresión [sad pacienciadisoriented habitforlorn durablehopeless].
+VISUAL: VAR3 hace una impresión [sad pacienciadisoriented habitforlorn durablehopeless].
 
 w:5
-VISUAL:  VAR4    sulks.
+VISUAL: VAR4 sulks.
 
 w:1
-VISUAL: VAR5  parece emitir vapor.
+VISUAL: VAR5 parece emitir vapor.
 
 w:1
-VISUAL:   VAR6    vueltas   VAR7   .
+VISUAL: VAR6 vueltas VAR7 .
 
 ################################################################################################################################################################################################################################################################
 
@@ -453,19 +453,19 @@ w:100
 @ sing no-low tension @
 
 w:200
- VAR1  
+ VAR1 
 
 W:10
- VAR2  
+ VAR2 
 
 w:120
- VAR3  
+ VAR3 
 
 w:70
- VAR4  
+ VAR4 
 
 w:100
- VAR5  
+ VAR5 
 ################################################################################################################################################################################################################################################################
 
 %%%%
@@ -481,19 +481,19 @@ w:100
 @ speaking low-high tension @
 
 w:7
- VAR1  
+ VAR1 
 
 w:3
 @ real song low-high tension @
 
 w:160
- VAR2  
+ VAR2 
 
 w:70
- VAR3  
+ VAR3 
 
 w:160
-@  Weapons noises low-high tension @
+@ Weapons noises low-high tension @
 ################################################################################################################################################################################################################################################################
 
 %%%%
@@ -509,16 +509,16 @@ w:7
  VAR0 
 
 w:150
- VAR1  
+ VAR1 
 
 w:200
- VAR2  
+ VAR2 
 
 w:30
- VAR3  
+ VAR3 
 
 w:360
-@  Weapons noises low-high tension @
+@ Weapons noises low-high tension @
 ######## SCREAM (alta tensión + doble daño) ##############################################################################################################################################################################################################################################
 
 %%%%
@@ -893,7 +893,7 @@ else return "@player_god@"; end }}, you are such a [coward|dastard|craven|fainth
 
 @The_weapon@ utters, "Their cries, their tears, I cannot stand it anymore."
 
-@The_weapon@ says, "Will you forgive me a little stab on the side?"
+@The_weapon@ says, " you forgive me a little stab on the side?"
 
 @The_weapon@ says, "Your kiss, my thrill, your miss, my kill."
 
@@ -1970,7 +1970,7 @@ La pureza del bronce y la belleza de las gemas: una combinación adecuada.
 zonguldrok hat hat of the Bear Spirit
 
 Dylan Thomas
-Mi scion, nuestros enemigos Will no ir suave en esa buena noche!
+Mi scion, nuestros enemigos no ir suave en esa buena noche!
 
 Dylan Thomas, otra vez
 Rage, rabia contra el resplandor de la luz!
@@ -1995,7 +1995,7 @@ zonguldrok hat mask of the Dragon
 
 Tal poder de matar, scion...
 
-Sé fuerte Will, y trae la muerte a todos los que se oponen a nosotros!
+Sé fuerte , y trae la muerte a todos los que se oponen a nosotros!
 
 %%%%
 zonguldrok hat hat of the Alchemist
@@ -2019,7 +2019,7 @@ Debo contemplar qué hacer después...
 %%%%
 zonguldrok hat crown of vainglory
 
-¡Todos los Will se ponen bajo en mi presencia!
+¡Todos los se ponen bajo en mi presencia!
 
 ¡Puedo tolerar la luz si otorga el poder para enviar a mis enemigos a la oscuridad eterna!
 
@@ -2073,7 +2073,7 @@ Te sientes ansioso por las hojas muertas.
 %%%%
 eel hand actions
 
-Una boquilla contra tu   VAR0   .
+Una boquilla contra tu VAR0 .
 
 Un silencioso zumbido eléctrico llena el aire.
 
@@ -2081,7 +2081,7 @@ Tus anguilas se unen brevemente.
 
 Uno de tus anguilas juguetonamente en el otro.
 
-Un anguila se revuelve contra ti, dejando tu hormigueo   VAR1      .
+Un anguila se revuelve contra ti, dejando tu hormigueo VAR1 .
 
 Un eel investiga su inventario.
 
@@ -2093,11 +2093,11 @@ eel hand solo actions
 #
 Su anguila busca [frantically sometidawistfully] por su pareja.
 
-Tus boquillas contra tu   VAR0   .
+Tus boquillas contra tu VAR0 .
 
 Un silencioso zumbido eléctrico llena el aire.
 
-Tu anguila se revuelve contra ti, dejando tu hormigueo   VAR1   .
+Tu anguila se revuelve contra ti, dejando tu hormigueo VAR1 .
 
 ################################################################################################################################################################################################################################################################
 ################################################################################################################################################################################################################################################################

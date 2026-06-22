@@ -4,7 +4,7 @@ weapon
 # armas palabras clave específicas (ver rand wpn.txt)
  VAR0 
 
- VAR1  
+ VAR1 
 
 w:1
  VAR2 
@@ -13,44 +13,44 @@ w:8
  VAR3 
 
 w:1
- VAR4     VAR5 
+ VAR4 VAR5 
 
 w:6
- VAR6     VAR7  
+ VAR6 VAR7 
 
- VAR8  
-
-w:3
- VAR9      
+ VAR8 
 
 w:3
-del   VAR11 
+ VAR9 
+
+w:3
+del VAR11 
 
 w:2
- VAR12      VAR13 
+ VAR12 VAR13 
 
 w:5
- VAR14     VAR15  
+ VAR14 VAR15 
 
 w:5
-del   VAR16 
+del VAR16 
 
 w:2
-del   VAR17  
+del VAR17 
 
 w:7
- VAR18  
+ VAR18 
 
 w:5
- VAR19  
+ VAR19 
 
 w:8
- VAR20  
+ VAR20 
 
 w:8
- VAR21  
+ VAR21 
 
- VAR22  
+ VAR22 
 
 w:8
  VAR23 
@@ -59,29 +59,29 @@ w:7
  VAR24 
 
 w:5
- VAR25  
+ VAR25 
 
 w:4
-del   VAR26  
+del VAR26 
 
 w:1
- VAR27  
+ VAR27 
 
 w:5
- VAR28  
+ VAR28 
 
 w:7
- VAR29  
+ VAR29 
 
 w:5
- VAR30  
+ VAR30 
 
 w:30
-"  VAR31  "
+" VAR31 "
 
 # palabras clave generales (ver rand all.txt)
 w:5
- VAR32  
+ VAR32 
 
 w:5
  VAR33 
@@ -89,22 +89,22 @@ w:5
 18
  VAR34 
 
- VAR35     VAR36  
+ VAR35 VAR36 
 
 w:5
- VAR37  
+ VAR37 
 
 w:9
- VAR38      VAR39  
+ VAR38 VAR39 
 
 w:4
-de los dioses   VAR40  
+de los dioses VAR40 
 
 w:4
-del   VAR41   Dios
+del VAR41 Dios
 
 w:2
- VAR42   ,   VAR43  
+ VAR42 , VAR43 
 
 # keywords hardcoded
 w:1
@@ -123,54 +123,54 @@ armour
  VAR0 
 
 w:8
- VAR1  
+ VAR1 
 
 #
  VAR2 
 
-del   VAR3 
+del VAR3 
 
 w:5
- VAR4     VAR5 
- VAR6  
+ VAR4 VAR5 
+ VAR6 
 
 w:3
- VAR7  
+ VAR7 
 
 w:9
- VAR8  
+ VAR8 
 
 w:9
- VAR9      VAR10  
+ VAR9 VAR10 
 
 w:5
-del   VAR11 
+del VAR11 
 
 w:5
- VAR12  
+ VAR12 
 
 #
-del   VAR13 
+del VAR13 
 
 w:1
- VAR14     VAR15  
+ VAR14 VAR15 
 
 w:3
  VAR16 
 
 w:1
-del   VAR17  
+del VAR17 
 
 w:2
-del   VAR18 
+del VAR18 
 
 w:1
- VAR19           
+ VAR19 
 
 w:5
- VAR21  
+ VAR21 
 
- VAR22  
+ VAR22 
 
  VAR23 
 
@@ -178,44 +178,44 @@ w:15
  VAR24 
 
 w:2
-"  VAR25  "
+" VAR25 "
 
 # armas palabras clave específicas (ver rand arm.txt)
 w:25
- VAR26  
+ VAR26 
 
 w:15
- VAR27  
+ VAR27 
 
 # palabras clave generales (ver rand all.txt)
- VAR28  
+ VAR28 
 
 w:8
- VAR29  
+ VAR29 
 
 w:30
- VAR30  
+ VAR30 
 
 w:6
- VAR31     VAR32      VAR33  
+ VAR31 VAR32 VAR33 
 
- VAR34      VAR35  
+ VAR34 VAR35 
 
 #
- VAR36      VAR37  
+ VAR36 VAR37 
 
 w:4
-de los dioses   VAR38  
+de los dioses VAR38 
 
 w:4
-del   VAR39   Dios
+del VAR39 Dios
 
 w:2
- VAR40   ,   VAR41  
+ VAR40 , VAR41 
 
 # keywords hardcoded
 w:1
- VAR42  
+ VAR42 
 
 w:15
  VAR43
@@ -225,77 +225,77 @@ jewellery
 
 # joyas especiales (ver rand all.txt)
 w:3
-del   VAR0 
+del VAR0 
 
- VAR1  
+ VAR1 
 
  VAR2 
 
 # as defined for weapons (see rand wpn.txt)
-del   VAR3 
+del VAR3 
 
 w:5
- VAR4     VAR5 
+ VAR4 VAR5 
 
 w:17
- VAR6  
+ VAR6 
 
 14
- VAR7  
+ VAR7 
 
- VAR8  
+ VAR8 
 
 # as defined for armour (see rand arm.txt)
 #
-del   VAR9 
+del VAR9 
 
 w:3
  VAR10 
 
 w:3
- VAR11          
+ VAR11 
 
 w:5
- VAR13  
+ VAR13 
 
 #
  VAR14 
 
 w:12
- VAR15  
+ VAR15 
 
 w:2
-"  VAR16  "
+" VAR16 "
 
 Lo mismo para los tres tipos (ver rand all.txt)
 13
- VAR17  
+ VAR17 
 
- VAR18  
+ VAR18 
 
 #
- VAR19     VAR20 
+ VAR19 VAR20 
 
 w:4
-de los dioses   VAR21  
+de los dioses VAR21 
 
 w:4
-del   VAR22   Dios
+del VAR22 Dios
 
 w:2
- VAR23   ,   VAR24  
+ VAR23 , VAR24 
 
-de Xom   VAR25  
+de Xom VAR25 
 
 w:7
- VAR26  
+ VAR26 
 
 13
- VAR27  
+ VAR27 
 
- VAR28      VAR29  
+ VAR28 VAR29 
 
- VAR30     VAR31      VAR32  
+ VAR30 VAR31 VAR32 
 
 %%%%
 Trog weapon
@@ -305,19 +305,19 @@ Trog weapon
  VAR0 
 
 w:5
- VAR1     VAR2 
+ VAR1 VAR2 
 
 #
  VAR3 
 
 w:5
- VAR4     VAR5 
+ VAR4 VAR5 
 
 #
- VAR6  
+ VAR6 
 
 w:5
- VAR7     VAR8  
+ VAR7 VAR8 
 
 w:7
  VAR9 
@@ -326,64 +326,64 @@ w:15
  VAR10 
 
 w:30
- VAR11  
+ VAR11 
 
 w:1
 of Trog
 
 #
-de Trog   VAR12 
+de Trog VAR12 
 
-de Trog   VAR13 
-
-w:15
-del   VAR14 
+de Trog VAR13 
 
 w:15
- VAR15  
+del VAR14 
+
+w:15
+ VAR15 
 
  VAR16 
 
 w:15
- VAR17  
+ VAR17 
 
 #
- VAR18  
+ VAR18 
 
 #
- VAR19  
+ VAR19 
 
 w:15
- VAR20  
+ VAR20 
 
 w:15
- VAR21  
+ VAR21 
 
 w:15
- VAR22  
+ VAR22 
 
  VAR23 
 
 #
- VAR24     VAR25  
+ VAR24 VAR25 
 
- VAR26  
+ VAR26 
 
-del   VAR27  
+del VAR27 
 
 w:15
- VAR28  
+ VAR28 
 
- VAR29  
+ VAR29 
 
- VAR30  
+ VAR30 
 
- VAR31         
+ VAR31 
 
 w:30
-"  VAR33  "
+" VAR33 "
 
-"   VAR34      VAR35   "
+" VAR34 VAR35 "
 
 %%%%
 Okawaru weapon
@@ -394,40 +394,40 @@ w:400
 
 # with a few special cases
 w:2
- VAR1     VAR2 
+ VAR1 VAR2 
 
 w:3
-de Okawaru   VAR3 
+de Okawaru VAR3 
 
 w:1
-de Okawaru,   VAR4  
+de Okawaru, VAR4 
 
 # y la probabilidad de bonificación para algunos de los temas más inofensivos
  VAR5 
 
 w:5
- VAR6  
+ VAR6 
 
 w:3
- VAR7  
+ VAR7 
 
 w:5
- VAR8  
+ VAR8 
 
 w:2
  VAR9 
 
 w:1
-del   VAR10 
+del VAR10 
 
 w:5
-del   VAR11 
+del VAR11 
 
 w:5
- VAR12  
+ VAR12 
 
 w:2
- VAR13  
+ VAR13 
 
 %%%%
 Okawaru robe
@@ -447,25 +447,25 @@ w:400
  VAR0 
 
 w:2
- VAR1     VAR2 
+ VAR1 VAR2 
 
 w:2
-de Okawaru   VAR3 
+de Okawaru VAR3 
 
 w:2
-del   VAR4 
+del VAR4 
 
 w:1
  VAR5 
 
 w:2
- VAR6  
+ VAR6 
 
 w:1
- VAR7  
+ VAR7 
 
 w:1
- VAR8  
+ VAR8 
 
 w:2
  VAR9
@@ -478,31 +478,31 @@ w:5
  VAR0 
 
 w:5
-de Xom   VAR1 
+de Xom VAR1 
 
 w:2
-de Xom   VAR2 
+de Xom VAR2 
 
 w:2
-"Xom,   VAR3   y   VAR4  "
+"Xom, VAR3 y VAR4 "
 
 w:2
- VAR5          
+ VAR5 
 
 # Usa el nombre largo
 w:1
- VAR7  
+ VAR7 
 
 w:1
- VAR8  
+ VAR8 
 
 w:400
- VAR9  
+ VAR9 
 
 # ¿Y por qué no algunos de los otros nombres?
- VAR10  
+ VAR10 
 
- VAR11  
+ VAR11 
 
 %%%%
 Xom robe
@@ -522,13 +522,13 @@ w:5
  VAR0 
 
 w:5
-de Xom   VAR1 
+de Xom VAR1 
 
 w:2
-de Xom   VAR2 
+de Xom VAR2 
 
 w:2
-"  VAR3   Xom"
+" VAR3 Xom"
 
 # Usa el nombre largo
 w:1
@@ -538,10 +538,10 @@ w:1
  VAR5 
 
 w:1
- VAR6  
+ VAR6 
 
 w:400
- VAR7  
+ VAR7 
 
 # ¿Por qué no otros nombres?
 # (sadly, some weapon names don't have sense even for Xom)
@@ -555,13 +555,13 @@ w:5
  VAR0 
 
 w:5
-de Xom   VAR1 
+de Xom VAR1 
 
 w:2
-de Xom   VAR2 
+de Xom VAR2 
 
 w:2
- VAR3   Xom
+ VAR3 Xom
 
 # Usa el nombre largo
 w:1
@@ -571,65 +571,65 @@ w:1
  VAR5 
 
 w:1
- VAR6  
+ VAR6 
 
 w:1
- VAR7  
+ VAR7 
 
 w:300
- VAR8  
+ VAR8 
 
 # ¿Por qué no otros nombres?
 # (sadly, some weapon names don't have sense even for Xom)
- VAR9  
+ VAR9 
 
 %%%%
 Ashenzari
 
 w:100
- VAR0          
+ VAR0 
 
 w:100
- VAR2     VAR3 
+ VAR2 VAR3 
 
 w:100
-"  VAR4     VAR5  "
+" VAR4 VAR5 "
 
 w:50
-"  VAR6    de   VAR7  "
+" VAR6 de VAR7 "
 
 w:100
-"   VAR8    de la   VAR9 "
+" VAR8 de la VAR9 "
 
 #
-"                  
+" 
 
 #
-del   VAR12  
+del VAR12 
 
 #
- VAR13             
+ VAR13 
 
 #
- VAR15     VAR 16  
+ VAR15 VAR 16 
 
 #
- VAR17     VAR18  
+ VAR17 VAR18 
 
 #
-"Compartir mi   VAR19  "
+"Compartir mi VAR19 "
 
 #
 "Conmigo"
 
 #
-"  VAR21   Juntos"
+" VAR21 Juntos"
 
- VAR22     VAR23 
+ VAR22 VAR23 
 
- VAR24     VAR25  
+ VAR24 VAR25 
 
-del destino   VAR26  
+del destino VAR26 
 
 w:5
 de la aromatización
@@ -1067,9 +1067,9 @@ w:3
 bronce
 
 w:2
- VAR0       
+ VAR0 
 
- VAR1   -encrustado
+ VAR1 -encrustado
 
 w:200
 @armour appearance@
