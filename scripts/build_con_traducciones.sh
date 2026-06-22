@@ -99,6 +99,7 @@ echo "  ✓ libunix.cc modificado (cprintf global traduce menús, etc.)"
 # ── 11. Aplicar tr() a _add_command en command.cc (descripciones de teclas) ──
 echo ""
 echo "🔧 Aplicando tr() en _add_command..."
+sed -i '/^#include "libutil.h"/a #include "translation.h"' command.cc
 sed -i 's/line += ": " + untag_tiles_console(desc) + "\\n";/line += ": " + tr(untag_tiles_console(desc)) + "\\n";/' command.cc
 echo "  ✓ command.cc modificado (_add_command traduce descripciones)"
 
