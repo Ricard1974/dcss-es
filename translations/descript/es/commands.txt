@@ -1,507 +1,406 @@
 %%%%
-CMD_AUTOFIGHT
+CMD_REST
 
-Atacar al monstruo más cercano
-
+Descanso y sanación
 %%%%
-CMD_AUTOFIGHT verbose
+CMD_REST verbose
 
-Te mueves hacia el monstruo hostil más cercano y lo atacas con el arma que
-empuñes.
-
-%%%%
-CMD_AUTOFIGHT_NOMOVE
-
-Pegarle a un monstruo adyacente
-
-%%%%
-CMD_AUTOFIGHT_NOMOVE verbose
-
-Atacas a un monstruo adyacente a ti con el arma que empuñes.
-
-%%%%
-CMD_CAST_SPELL
-
-Pronunciar hechizo
-
-%%%%
-CMD_CAST_SPELL verbose
-
-Pronuncias un hechizo.
-
-%%%%
-CMD_CHARACTER_DUMP
-
-El progreso del personaje de bomba
-
-%%%%
-CMD_CHARACTER_DUMP verbose
-
-Bombas información detallada sobre su personaje en un archivo ‘playername.txt’ en
-el directorio morgue, para perutilizar en su ocio. Esto incluye las principales estadísticas,
-equipos, hechizos, habilidades, notas, etc.
-
-%%%%
-CMD_DISPLAY_CHARACTER_STATUS
-
-Mostrar el estado del personaje
-
-%%%%
-CMD_DISPLAY_CHARACTER_STATUS verbose
-
-Muestra los encantamientos activos y algunas cosas más.
-
-%%%%
-CMD_DISPLAY_COMMANDS
-
-Ayuda del juego
-
-%%%%
-CMD_DISPLAY_COMMANDS verbose
-
-Lista de comandos y opciones, etc.
-
-%%%%
-CMD_DISPLAY_INVENTORY
-
-Mostrar el contenido de tu inventario
-
-%%%%
-CMD_DISPLAY_INVENTORY verbose
-
-Muestra el contenido de tu inventario.
-
-%%%%
-CMD_DISPLAY_KNOWN_OBJECTS
-
-Lista de objetos descubiertos
-
-%%%%
-CMD_DISPLAY_MAP
-
-Entrar modo mapa
-
-%%%%
-CMD_DISPLAY_MAP verbose
-
-Navegas el mapa de lo que ya ha sido explorado.
-
-%%%%
-CMD_DISPLAY_MUTATIONS
-
-Mostrar las mutaciones
-
-%%%%
-CMD_DISPLAY_OVERMAP
-
-Mostrar el mapa del calabozo
-
-%%%%
-CMD_DISPLAY_OVERMAP verbose
-
-Muestra la localización de las entradas a las ramas del calabozo, tiendas y
-otras estructuras que hayas encontrado.
-
-%%%%
-CMD_DISPLAY_RELIGION
-
-Mostrar tu situación religiosa
-
-%%%%
-CMD_DISPLAY_RELIGION verbose
-
-Muestra lo que gusta y disgusta a tu dios, la conducta a seguir y tu actual
-nivel de religiosidad y habilidades divinas.
-
-%%%%
-CMD_DISPLAY_SKILLS
-
-Administrar capacidades
-
-%%%%
-CMD_DROP
-
-Depositar objetos
-
-%%%%
-CMD_DROP verbose
-
-Depositas uno o varios de los objetos que actualmente tengas.
-
-%%%%
-CMD_EDIT_PLAYER_TILE
-
-Modificar el aspecto del jugador
-
-%%%%
-CMD_EDIT_PLAYER_TILE verbose
-
-Modificas el aspecto del equipo y la especie mostrada en el jugador.
-
+Descansa mientras tu salud y magia regeneran. El descanso se interrumpe tan pronto
+como un monstruo hostil viene a la vista. Si la salud y la magia ya están
+lleno, descansar esperará 100 vueltas.
 %%%%
 CMD_EXPLORE
 
-Autoexploración del nivel actual
-
+Autoexplorar el nivel actual
 %%%%
 CMD_EXPLORE verbose
 
-Este comando te permite viajar en modo piloto automático hacia regiones
-inexploradas del nivel actual, y tomar del suelo aquellos objetos que hayas
-especificado para ser recogidos automáticamente. El viaje se detiene tan pronto
-como un monstruo hostil aparezca, o cuando descubras objetos o estructuras
-novedosas.
-
+Explora automáticamente el nivel actual, coleccionando artículos en el camino.
+La exploración se detiene tan pronto como un monstruo hostil llega a la vista, o cuando tú
+encontrar nuevos elementos o características.
 %%%%
 CMD_EXPLORE_NO_REST
 
 Autoexplorar el nivel actual sin descansar primero
-
 %%%%
 CMD_EXPLORE_NO_REST
 
 Explora automáticamente el nivel actual, coleccionando artículos en el camino.
 La exploración se detiene tan pronto como un monstruo hostil llega a la vista, o cuando tú
-encontrar nuevos elementos o características. A diferencia de CMD EXPLORE, tratar
+encontrar nuevos elementos o características. A diferencia de CMD EXPLORE, tratará
 explore auto rest como si fuera falso y explore auto rest status como si fuera
 vacío.
-
-%%%%
-CMD_GAME_MENU
-
-Mostrar menú del juego
-
-%%%%
-CMD_GAME_MENU verbose
-
-Mostrar el menú del juego
-
 %%%%
 CMD_INTERLEVEL_TRAVEL
 
-Viajar entre niveles distantes
-
+Viajes a niveles distantes
 %%%%
 CMD_INTERLEVEL_TRAVEL verbose
 
-Viajas automáticamente entre niveles distantes. El viaje es interrumpido cuando
-aparecen monstruos.
-
+Viaja automáticamente a un nivel o rama elegida. Viajes interrumpidos por
+monstruos viniendo a la vista.
 %%%%
-CMD_LOOKUP_HELP
+CMD_USE_ABILITY
 
-Ayuda de búsqueda
-
+Use habilidades divinas, innatas o evocables
 %%%%
-CMD_LOOKUP_HELP verbose
+CMD_SEARCH_STASHES
 
-Busca descripciones de monstruos, hechizos, habilidades, elementos y más.
-
+Buscar artículos/features
 %%%%
-CMD_MAP_ADD_WAYPOINT
+CMD_SEARCH_STASHES verbose
 
-Añadir marcador en el mapa
-
-%%%%
-CMD_MAP_ADD_WAYPOINT verbose
-
-Establecer el marcador en la posición actual
-
-%%%%
-CMD_MAP_CLEAR_EXCLUDES
-
-Borrar todas las zonas de exclusión de paso
-
-%%%%
-CMD_MAP_CLEAR_EXCLUDES verbose
-
-Borrar las zonas de exclusión de paso del nivel
-
-%%%%
-CMD_MAP_EXCLUDE_AREA
-
-Zona de exclusión de paso
-
-%%%%
-CMD_MAP_EXCLUDE_AREA verbose
-
-Crear una zona de exclusión de paso, cambiar su radio o borrarla
-
-%%%%
-CMD_MAP_EXIT_MAP
-
-Exit map mode
-
-%%%%
-CMD_MAP_EXPLORE
-
-Encontrar el próximo objetivo de autoexploración
-
-%%%%
-CMD_MAP_EXPLORE verbose
-
-Mueva el cursor a la siguiente ubicación a la que viaja autoexplorar .
-
-%%%%
-CMD_MAP_FIND_ALTAR
-
-Encontrar altares
-
-%%%%
-CMD_MAP_FIND_ALTAR verbose
-
-Viajar por los altalres del nivel actual
-
-%%%%
-CMD_MAP_FIND_DOWNSTAIR
-
-Encontrar escaleras de bajada
-
-%%%%
-CMD_MAP_FIND_DOWNSTAIR verbose
-
-Viajar a través de las escaleras de bajada
-
-%%%%
-CMD_MAP_FIND_EXCLUDED
-
-Encontrar zonas de exclusión de paso
-
-%%%%
-CMD_MAP_FIND_EXCLUDED verbose
-
-Viajar a través de las zonas de exclusión de paso del nivel actual
-
-%%%%
-CMD_MAP_FIND_PORTAL
-
-Encontrar tiendas y portales
-
-%%%%
-CMD_MAP_FIND_PORTAL verbose
-
-Viajar a través de las tiendas y los portales del nivel actual
-
-%%%%
-CMD_MAP_FIND_STASH
-
-Encontrar alijos
-
-%%%%
-CMD_MAP_FIND_STASH verbose
-
-Viajar a través de los alijos del nivel actual
-
-%%%%
-CMD_MAP_FIND_TRAP
-
-Encontrar trampas
-
-%%%%
-CMD_MAP_FIND_TRAP verbose
-
-Viajar a través de las trampas del nivel actual
-
-%%%%
-CMD_MAP_FIND_UPSTAIR
-
-Encontrar escaleras de subida
-
-%%%%
-CMD_MAP_FIND_UPSTAIR verbose
-
-Viajar a través de las escaleras de subida
-
-%%%%
-CMD_MAP_FIND_WAYPOINT
-
-Encontrar marcadores
-
-%%%%
-CMD_MAP_FIND_WAYPOINT verbose
-
-Viajar a través de los marcadores del nivel actual
-
-%%%%
-CMD_MAP_FIND_YOU
-
-Encontrarme
-
-%%%%
-CMD_MAP_FIND_YOU verbose
-
-Devolver el cursor del mapa de vuelta a tu posición
-
-%%%%
-CMD_MAP_GOTO_LEVEL
-
-Ir al nivel
-
-%%%%
-CMD_MAP_GOTO_LEVEL verbose
-
-Viajar a otro nivel por rama o profundidad
-
-%%%%
-CMD_MAP_GOTO_TARGET
-
-Viajar a la posición del cursor
-
-%%%%
-CMD_MAP_GOTO_TARGET verbose
-
-Comenzar a viajar hacia la posición actual del cursor
-
-%%%%
-CMD_MAP_NEXT_LEVEL
-
-Bajar un nivel
-
-%%%%
-CMD_MAP_NEXT_LEVEL verbose
-
-Examinar el siguiente nivel
-
-%%%%
-CMD_MAP_PREV_LEVEL
-
-Subir un nivel
-
-%%%%
-CMD_MAP_PREV_LEVEL verbose
-
-Examinar el nivel anterior
-
-%%%%
-CMD_MEMORISE_SPELL
-
-Memorizar hechizo
-
-%%%%
-CMD_MEMORISE_SPELL verbose
-
-Pones en tu memoria un hechizo leído de un libro que poseas o sobre el que
-estés.
-
-%%%%
-CMD_PRAY
-
-Rezar a tu dios
-
+Búsquedas para artículos o características vistas en otro lugar, y le permite viajar a
+su ubicación.
 %%%%
 CMD_REPLAY_MESSAGES
 
 Releer mensajes recientes
-
 %%%%
 CMD_RESISTS_SCREEN
 
-Muestra un resumen del personaje
-
+Mostrar vista general del personaje
 %%%%
 CMD_RESISTS_SCREEN verbose
 
-Muestra información sobre resistencias conocidas, habilidades, estadísticas del
-equipo, etc.
-
+Muestra una visión general de sus resistencias, habilidades, equipos y
+atributos.
 %%%%
-CMD_REST
+CMD_DISPLAY_OVERMAP
 
-Descansar y curarse
-
+Vista general de la mazmorra
 %%%%
-CMD_REST verbose
+CMD_DISPLAY_OVERMAP verbose
 
-Pasas hasta 100 turnos para recuperar salud, recargar magia y/o buscar. El
-descanso se interrumpe tan pronto como un monstruo hostil aparezca.
-
+Muestra una visión general de las sucursales de mazmorras, altares descubiertos, tiendas y
+anotaciones de nivel.
 %%%%
-CMD_SAFE_WAIT
+CMD_DISPLAY_RELIGION
 
-Esparar para una toca si estás seguro.
-
+Situación religiosa
 %%%%
-CMD_SAFE_WAIT verbose
+CMD_DISPLAY_RELIGION verbose
 
-Pasar una toca para esparar y decansar, pero solo si no hay monstruos hostiles cercanos.
+Muestra los gustos y disgustos de tu dios, conducta y tu religión actual
+habilidades de pie y divinas.
+%%%%
+CMD_DISPLAY_MUTATIONS
 
+Mutaciones de visualización
+%%%%
+CMD_DISPLAY_SKILLS
+
+Gestión de habilidades
+%%%%
+CMD_DISPLAY_CHARACTER_STATUS
+
+Mostrar el estado del personaje
+%%%%
+CMD_DISPLAY_CHARACTER_STATUS verbose
+
+Muestra detalles sobre su velocidad de movimiento actual, velocidad de ataque, robo, magia
+resistencia, y cualquier alteración activa o efectos de estado.
+%%%%
+CMD_DISPLAY_KNOWN_OBJECTS
+
+Lista de objetos descubiertos
 %%%%
 CMD_SAVE_GAME_NOW
 
-Guardar la partida y salir
-
+Guardar y salir
 %%%%
 CMD_SAVE_GAME_NOW verbose
 
-Guarda el juego para más tarde y sale. Una vez reanudes el juego, el archivo
-del juego guardado se vuelve a borrar.
-
+Guarda el juego para más tarde y salidas. Una vez que reanuda el juego, el archivo guardado es
+borrado de nuevo.
 %%%%
-CMD_SEARCH_STASHES
+CMD_EDIT_PLAYER_TILE
 
-Buscar objetos/estructuras
-
+Modificar la ficha del jugador
 %%%%
-CMD_SEARCH_STASHES verbose
+CMD_EDIT_PLAYER_TILE verbose
 
-Buscas objetos o estructuras que hayan aparecido en otra parte y viajas hasta
-allí.
+Permite modificar el equipo y la ficha de especies que se muestra en el reproductor
+muñeca.
+%%%%
+CMD_DISPLAY_COMMANDS
 
+Ayuda al juego
+%%%%
+CMD_DISPLAY_COMMANDS verbose
+
+Muestra una lista de comandos.
 %%%%
 CMD_SHOW_CHARACTER_DUMP
 
 Demostrar el progreso del personaje
-
 %%%%
 CMD_SHOW_CHARACTER_DUMP verbose
 
 Bombas información detallada sobre su personaje en un archivo ‘playername.txt’ en
 el directorio morgue, y muestra el archivo en el juego. Esto incluye las principales estadísticas,
 equipos, hechizos, habilidades, notas, etc.
+%%%%
+CMD_CHARACTER_DUMP
 
+El progreso del personaje de bomba
+%%%%
+CMD_CHARACTER_DUMP verbose
+
+Bombas información detallada sobre su personaje en un archivo ‘playername.txt’ en
+el directorio morgue, para perutilizar en su ocio. Esto incluye las principales estadísticas,
+equipos, hechizos, habilidades, notas, etc.
+%%%%
+CMD_AUTOFIGHT
+
+Golpea al monstruo más cercano
+%%%%
+CMD_AUTOFIGHT verbose
+
+Se mueve hacia el monstruo hostil más cercano, o ataca a un monstruo adyacente con
+su arma actual.
+%%%%
+CMD_AUTOFIGHT_NOMOVE
+
+Golpear a un monstruo adyacente
+%%%%
+CMD_AUTOFIGHT_NOMOVE verbose
+
+Ataque a un monstruo adyacente con su arma actual.
+%%%%
+CMD_WAIT
+
+Espera un solo giro
+%%%%
+CMD_WAIT verbose
+
+Pasa una sola vuelta esperando y descansando.
+%%%%
+CMD_SAFE_WAIT
+
+Espera un solo giro si seguro
+%%%%
+CMD_SAFE_WAIT verbose
+
+Pasa una sola vuelta esperando y descansando, pero sólo si no hay hostil
+monstruos en vista.
+%%%%
+CMD_DISPLAY_INVENTORY
+
+Mostrar el contenido de su inventario
+%%%%
+CMD_DISPLAY_INVENTORY verbose
+
+Muestra el contenido de su inventario.
+%%%%
+CMD_CAST_SPELL
+
+Casta un hechizo
+%%%%
+CMD_CAST_SPELL verbose
+
+Escribe un hechizo.
+%%%%
+CMD_MEMORISE_SPELL
+
+Memorizar el hechizo
+%%%%
+CMD_MEMORISE_SPELL verbose
+
+Memoriza un hechizo elegido de tu biblioteca de hechizos.
+%%%%
+CMD_LOOKUP_HELP
+
+Ayuda de búsqueda
+%%%%
+CMD_LOOKUP_HELP verbose
+
+Busca descripciones de monstruos, hechizos, habilidades, elementos y más.
+%%%%
+CMD_DROP
+
+Temas asignados
+%%%%
+CMD_DROP verbose
+
+Suelta uno o más artículos que actualmente tiene.
+%%%%
+CMD_DISPLAY_MAP
+
+Introduzca el modo de mapa
+%%%%
+CMD_MAP_EXIT_MAP
+
+Exit map mode
+%%%%
+CMD_DISPLAY_MAP verbose
+
+Muestra un mapa del nivel actual.
+%%%%
+CMD_MAP_GOTO_TARGET
+
+Viaje al cursor
+%%%%
+CMD_MAP_GOTO_TARGET verbose
+
+Empieza a viajar a la ubicación actual del cursor.
+%%%%
+CMD_MAP_EXPLORE
+
+Encontrar el próximo objetivo de autoexploración
+%%%%
+CMD_MAP_EXPLORE verbose
+
+Mueva el cursor a la siguiente ubicación a la que viajará el autoexplore.
+%%%%
+CMD_MAP_ADD_WAYPOINT
+
+Añadir punto
+%%%%
+CMD_MAP_ADD_WAYPOINT verbose
+
+Es un punto de referencia en su posición actual.
+%%%%
+CMD_MAP_EXCLUDE_AREA
+
+Crear exclusión
+%%%%
+CMD_MAP_EXCLUDE_AREA verbose
+
+Crea una exclusión de viaje, cambia su radio o lo elimina.
+%%%%
+CMD_MAP_CLEAR_EXCLUDES
+
+Exclusiones de viaje claras
+%%%%
+CMD_MAP_CLEAR_EXCLUDES verbose
+
+Borra todas las exclusiones de viaje a nivel.
+%%%%
+CMD_MAP_NEXT_LEVEL
+
+Bajo un nivel
+%%%%
+CMD_MAP_NEXT_LEVEL verbose
+
+Muestra el siguiente nivel más profundo.
+%%%%
+CMD_MAP_PREV_LEVEL
+
+Subir un nivel
+%%%%
+CMD_MAP_PREV_LEVEL verbose
+
+Muestra el siguiente nivel más alto.
+%%%%
+CMD_MAP_GOTO_LEVEL
+
+Ve al nivel
+%%%%
+CMD_MAP_GOTO_LEVEL verbose
+
+Muestra otro nivel elegido por rama y profundidad.
+%%%%
+CMD_MAP_FIND_UPSTAIR
+
+Encuentra escaleras arriba
+%%%%
+CMD_MAP_FIND_UPSTAIR verbose
+
+Ciclos por escaleras arriba.
+%%%%
+CMD_MAP_FIND_DOWNSTAIR
+
+Encuentra escaleras abajo
+%%%%
+CMD_MAP_FIND_DOWNSTAIR verbose
+
+Ciclos por escaleras abajo.
+%%%%
+CMD_MAP_FIND_YOU
+
+Encuéntrame
+%%%%
+CMD_MAP_FIND_YOU verbose
+
+Mueva el cursor de mapa de nuevo a su posición actual.
+%%%%
+CMD_MAP_FIND_PORTAL
+
+Encontrar tiendas y portales
+%%%%
+CMD_MAP_FIND_PORTAL verbose
+
+Ciclos a través de tiendas y portales a nivel actual.
+%%%%
+CMD_MAP_FIND_TRAP
+
+Encontrar trampas
+%%%%
+CMD_MAP_FIND_TRAP verbose
+
+Ciclos a través de trampas en el nivel actual.
+%%%%
+CMD_MAP_FIND_ALTAR
+
+Encontrar altares
+%%%%
+CMD_MAP_FIND_ALTAR verbose
+
+Ciclos a través de altares en el nivel actual.
+%%%%
+CMD_MAP_FIND_EXCLUDED
+
+Buscar la exclusión de viajes
+%%%%
+CMD_MAP_FIND_EXCLUDED verbose
+
+Ciclos a través de exclusiones de viaje en el nivel actual.
+%%%%
+CMD_MAP_FIND_WAYPOINT
+
+Encontrar waypoint
+%%%%
+CMD_MAP_FIND_WAYPOINT verbose
+
+Ciclos a través de todos los puntos del nivel actual.
+%%%%
+CMD_MAP_FIND_STASH
+
+Encuentra a Stash
+%%%%
+CMD_MAP_FIND_STASH verbose
+
+Ciclos a través de todos los puestos en el nivel actual.
+%%%%
+CMD_ZOOM_IN
+
+Zoom en
+%%%%
+CMD_ZOOM_IN verbose
+
+Zooms en el área de mazmorras.
+%%%%
+CMD_ZOOM_OUT
+
+Zoom fuera
+%%%%
+CMD_ZOOM_OUT verbose
+
+En el área de mazmorras.
 %%%%
 CMD_TOGGLE_KEYBOARD
 
 Toggle keyboard
-
 %%%%
 CMD_TOGGLE_KEYBOARD verbose
 
 Toggles la visibilidad del teclado en pantalla.
-
 %%%%
-CMD_USE_ABILITY
+CMD_GAME_MENU
 
-Usar habilidades divinas o innatas
-
+Mostrar menú del juego
 %%%%
-CMD_WAIT
+CMD_GAME_MENU verbose
 
-Esperar un turno
-
-%%%%
-CMD_WAIT verbose
-
-Gastar un único turno esperando y descansando
-
-%%%%
-CMD_ZOOM_IN
-
-Acercar zoom
-
-%%%%
-CMD_ZOOM_IN verbose
-
-Acercar el zoom a la zona de la mazmorra
-
-%%%%
-CMD_ZOOM_OUT
-
-Alejar el zoom
-
-%%%%
-CMD_ZOOM_OUT verbose
-
-Alejar el zoom de la zona de la mazmorra
-
-%%%%
+Mostrar el menú del juego

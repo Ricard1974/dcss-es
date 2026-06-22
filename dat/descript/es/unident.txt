@@ -1,36 +1,33 @@
 %%%%
 amulet
 
-Un talismán para llevar puesto al cuello, cargado con poderes arcanos de origen
-desconocido.
+Un amuleto para ser usado como joyería alrededor del cuello, cargado de poderes arcanos
+de procedencia desconocida.
 %%%%
 book
 
-Un libro que contiene hechizos mágicos de origen desconocido.
-%%%%
-deck of cards
-
-Un mazo de poderosas cartas mágicas dibujadas con icor de demonios. Echar estas
-cartas puede tener efectos muy variados, tanto útiles, como perjudiciales.
+Un libro de texto arcano que contiene hechizos mágicos de origen desconocido.
 %%%%
 potion
 
-Una pequeña botella llena de líquido.
+Un frasco sin etiquetar que contiene una sola dosis de líquido desconocido.
 %%%%
 ring
 
-Un talismán cargado con fuerzas arcanas de origen desconocido, pensado para
-llevarlo puesto como anillo en un dedo.
+Un anillo cargado de fuerzas arcanas de procedencia desconocida, para ser usado como joyería
+en un dedo.
 %%%%
 scroll
 
-Un rollo de papel cubierto de escritos mágicos.
+Una fórmula arcana desechable inscrita en pergamino por un escriba profesional o
+hechicero. Cualquiera puede evocar el poder de la fórmula del arcano al leerlo
+alto, pero la naturaleza de ese poder no es a priori aparente.
 %%%%
 staff
 
-Una vara con propiedades mágicas.
+Un personal mejoró con poderes arcanos de naturaleza desconocida.
 %%%%
 wand
 
-Una vara. Quizás sea mágica.
+Un tipo inusualmente mágico de palo.
 %%%%

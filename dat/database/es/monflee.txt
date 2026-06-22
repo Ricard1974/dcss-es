@@ -8,13 +8,13 @@
 dream sheep flee
 
 w:30
-@The_monster@ sangra en el terror.
+PLH2 sangra en el terror.
 
-VISUAL: @The_monster@ está con pánico!
+VISUAL: PLH2 está lleno de pánico!
 
-VISUAL: @The_monster@ entra en pánico y vuelve a huir.
+VISUAL: PLH2 entra en pánico y se vuelve a huir.
 
-Un @monster@ asustado salta.
+VISUAL: Un PLH2 asustado salta.
 
-VISUAL: @The_monster@ se estampa.
+VISUAL: PLH2 se estampa.
 %%%%

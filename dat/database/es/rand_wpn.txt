@@ -1,1676 +1,148 @@
+######################################################
+# Randart Names
+# -------------
+# rand_wpn.txt: keywords for randart WEAPONS
+#
+# This file contains the lists of keywords (and their
+# weights) for most of the keywords used for randart
+# weapons. You will find other ones in rand_all.txt.
+# See the explanation in the main file, randname.txt,
+# for more details.
+######################################################
 %%%%
 _power_or_anger_
 
-@_power_name_@
+PLH2
 
 w:7
-@_conflict_name_@
+PLH2
 
 w:7
-@_anger_name_@
-
+PLH2
 %%%%
+# "Power" is not literally here, to prevent generating conflicts with the unrand
 _power_name_
 
 Grandes daños
-Silencio
+
 Dominance
-Silencio
+
 Domination
-Silencio
+
 Amistad
-Silencio
+
 Gloria
-Silencio
+
 Grandeur
-Silencio
+
 Hubris
-Silencio
+
 Intimidación
-Silencio
+
 Invincibilidad
-Silencio
+
 Magnificencia
-Silencio
+
 Mastery
-Silencio
-Podría ser.
-Silencio
+
+Podría ser
+
 Éxito
-Silencio
+
 Superioridad
-Silencio
+
 Triumph
-Silencio
+
 Victoria
-Silencio
+
 Wondrous Power
-Silencio
-Brawling
-Silencio
-Conflicto
-Silencio
-Sumario
-
-Discord
-Silencio
-Disenso
-Silencio
-División
-Silencio
-Dudo
-Silencio
-La huelga interna
-Silencio
-Melee
-Silencio
-Hostilidades resumidas
-Silencio
-Tensión
-Silencio
-La ira
-Silencio
-Brutal Revenge
-Silencio
-Respuesta desproporcionada
-Silencio
-Furia
-Silencio
-Hatred
-Silencio
-Indignación
-Silencio
-Outrage
-Silencio
-Righteous Anger
-Silencio
-Furia justa
-Silencio
-Scorn
-Silencio
-Vengeance
-Silencio
-Wrath
-
-extremadamente Mad
-Silencio
-el Absoluto Madman
-Silencio
-el Incandescent
-Silencio
-los Furiosos
-Silencio
-el Howling One
-Silencio
-el Gibberer
-Silencio
-el odiado
-Silencio
-los despreciados
-Silencio
-el Abhorred
-Silencio
-Cruzadas
-Silencio
-Guerra eterna
-Silencio
-Iconoclasm
-Silencio
-Plunder
-Silencio
-Ravage
-Silencio
-Regicidio
-Silencio
-Skirmishing
-Silencio
-Guerra
-Silencio
-el Guerrero condenado
-Silencio
-la Marcha Infinita
-Silencio
-el Guerrero Eterno
-
-el Onslaught
-Silencio
-la Victoria Pírrica
-Silencio
-el Guerrero
-Silencio
-Sangre
-Silencio
-Sangre-Lust
-Silencio
-Sensibilidad
-Silencio
-Diet Blood
-Silencio
-Miedo
-Silencio
-Joyful Slaughter
-Silencio
-Massacring
-Silencio
-Wounding
-Silencio
-Agony
-Silencio
-Hacking y Slashing
-Silencio
-Un placer insuficiente
-Silencio
-Trauma
-Silencio
-Dullness
-Silencio
-Incisión exacta
-Silencio
-Laceración
-Silencio
-Severance
-Silencio
-Truncación
-
-La puerta de la muerte
-Silencio
-Ratón
-Silencio
-el Grave
-Silencio
-death or doom
-Silencio
-Muerte sangrienta
-Silencio
-Cierta muerte
-Silencio
-Muerte
-Silencio
-Muerte exquisita
-Silencio
-Muerte inminente
-Silencio
-Muerte instantánea
-Silencio
-Dolor y muerte
-Silencio
-Muerte dolorosa
-Silencio
-Muerte rápida
-Silencio
-Muerte lenta
-Silencio
-Muerte repentina
-Silencio
-Muerte incierto
-Silencio
-Untimely Demise
-Silencio
-Destrucción
-Silencio
-Disembowelment
-Silencio
-Doom
-
-Evisceración
-Silencio
-Ejecución
-Silencio
-Exterminación
-Silencio
-Extinguimiento
-Silencio
-Peril
-Silencio
-Entierro prematuro
-Silencio
-La angustia
-Silencio
-Desmembramiento
-Silencio
-Increíble dolor
-Silencio
-Tormenta exquisita
-Silencio
-Dolor infinito
-Silencio
-Misery
-Silencio
-Terror
-Silencio
-Woe
-Silencio
-Defensa
-Silencio
-Defensa por delitos
-Silencio
-Expediencia
-Silencio
-Guile
-Silencio
-Delito
-Silencio
-Optimality
-
-Fuerza abrumadora
-Silencio
-Fortalecimiento
-Silencio
-Superioridad estratégica
-Silencio
-Subterfugio
-Silencio
-Medida
-Silencio
-Conatus
-Silencio
-Conciencia
-Silencio
-Valor
-Silencio
-Cariño
-Silencio
-Defiance
-Silencio
-Duty
-Silencio
-Vigilancia eterna
-Silencio
-Fortitud
-Silencio
-Gallantry
-Silencio
-Honorable
-Silencio
-Indomitability
-Silencio
-Integridad
-Silencio
-Prudence
-Silencio
-Propósito
-Silencio
-Recursos humanos
-
-Responsabilidad
-Silencio
-Tenacidad
-Silencio
-True Grit
-Silencio
-Valiance
-Silencio
-Vigilancia
-Silencio
-Absoluto
-Silencio
-Terminación accidental
-Silencio
-Blind Justice
-Silencio
-Capital Punishment
-Silencio
-Castigos corporales
-Silencio
-Cruel Justice
-Silencio
-Exoneración
-Silencio
-Circunstancias atenuantes
-Silencio
-Falsas acusaciones
-Silencio
-Perdón.
-Silencio
-Culpable
-Silencio
-Innocence
-Silencio
-Fallo
-Silencio
-Castigo
-Silencio
-Tender Mercy
-
-Tortfeasance
-Silencio
-Juicio por Ordeal
-Silencio
-Incautación incorrecta
-Silencio
-Augurer
-Silencio
-Fortune-Teller
-Silencio
-Oracle
-Silencio
-Seeker
-Silencio
-Cierre
-Silencio
-Soothsayer
-Silencio
-Sybil
-Silencio
-Visión
-Silencio
-Water Diviner
-Silencio
-Antiguos
-Silencio
-Cobarde
-Silencio
-Enemigo
-Silencio
-Tonto.
-Silencio
-Genius
-Silencio
-Hero
-Silencio
-Jester
-Silencio
-Rey
-
-Madman
-Silencio
-Mensajero
-Silencio
-Pariah
-Silencio
-Filosofía
-Silencio
-sacerdote
-Silencio
-Reina
-Silencio
-Salvador
-Silencio
-Scapegrace
-Silencio
-Scavenger
-Silencio
-Traidor
-Silencio
-Ant
-Silencio
-Barnacle
-Silencio
-Bee
-Silencio
-Blowfly
-Silencio
-Bristletail
-Silencio
-Mariposa
-Silencio
-Caddisfly
-Silencio
-Cangrejo
-Silencio
-Crayfish
-Silencio
-Presuntamente
-
-Dragonfly
-Silencio
-Fuego
-Silencio
-Flea
-Silencio
-Gnat
-Silencio
-Hornet
-Silencio
-June-Bug
-Silencio
-Krill
-Silencio
-Lacewing
-Silencio
-Langosta
-Silencio
-Louse
-Silencio
-Mayfly
-Silencio
-Mosquito
-Silencio
-Moth
-Silencio
-Pill Bug
-Silencio
-Prawn
-Silencio
-Camarones
-Silencio
-Silverfish
-Silencio
-Wasp
-Silencio
-Weta
-Silencio
-Woodlouse
-
-Chaqueta amarilla
-Silencio
-Harvestman
-Silencio
-Escorpión
-Silencio
-Spider
-Silencio
-Tick
-Silencio
-Axolotl
-Silencio
-Caecilian
-Silencio
-Frog
-Silencio
-Hellbender
-Silencio
-Newt
-Silencio
-Olm
-Silencio
-Salamandra
-Silencio
-Siren
-Silencio
-Toad
-Silencio
-Alligator
-Silencio
-Asp
-Silencio
-Crocodile
-Silencio
-Gecko
-Silencio
-Gharial
-Silencio
-Krait
-
-Cuero
-Silencio
-Lagarto
-Silencio
-Python
-Silencio
-Rattlesnake
-Silencio
-Skink
-Silencio
-Terrapin
-Silencio
-Tortoise
-Silencio
-Turtle
-Silencio
-Viper
-Silencio
-Big Fish
-Silencio
-Eel
-Silencio
-Lamprey
-Silencio
-Salmón
-Silencio
-Shark
-Silencio
-Apóstol
-Silencio
-Ártico Tern
-Silencio
-Auk
-Silencio
-Bustard
-Silencio
-Buzzard
-Silencio
-Cardenal
-
-Cassowary
-Silencio
-Dove
-Silencio
-Duck
-Silencio
-Emu
-Silencio
-Flamingo
-Silencio
-Forest Kingfisher
-Silencio
-Fulmar
-Silencio
-Goose
-Silencio
-Guillemot
-Silencio
-Hawk
-Silencio
-Hummingbird
-Silencio
-Hoatzin
-Silencio
-Kiwi
-Silencio
-Kookaburra
-Silencio
-Moa
-Silencio
-Noisy Friarbird
-Silencio
-Ostrich
-Silencio
-Owl
-Silencio
-Pingüino
-Silencio
-Pigeon
-
-Potoo
-Silencio
-Puffin
-Silencio
-Rainbow Bee-Eater
-Silencio
-Razorbill
-Silencio
-Rhea
-Silencio
-Roseate Spoonbill
-Silencio
-Sage Grouse
-Silencio
-Shrike
-Silencio
-Stork
-Silencio
-Swan
-Silencio
-Espléndido Lyrebird
-Silencio
-Tawny Frogmouth
-Silencio
-Vulture
-Silencio
-Ass
-Silencio
-Badger
-Silencio
-Oso
-Silencio
-Boar
-Silencio
-Fox
-Silencio
-Goat
-Silencio
-Rat
-
-Stoat
-Silencio
-Tigre
-Silencio
-Weasel
-Silencio
-Whale
-Silencio
-Wolf
-Silencio
-Eggplant
-Silencio
-Pollo
-Silencio
-Lechuga
-Silencio
-Radish
-Silencio
-Hoja de azúcar
-Silencio
-Shallot
-Silencio
-Tomato
-Silencio
-Turnip
-Silencio
-Whelk
-Silencio
-Mushroom mágico
-Silencio
-Mushroom
-Silencio
-Puffball
-Silencio
-Slime-mould
-Silencio
-Toadstool
-Silencio
-Abomination
-
-Abuso
-Silencio
-Antiguo diablo
-Silencio
-Corrupción
-Silencio
-Debasement
-Silencio
-Defile
-Silencio
-Deformación
-Silencio
-Demonkind
-Silencio
-Mal
-Silencio
-El infierno Wrath
-Silencio
-Infección
-Silencio
-Mutilación
-Silencio
-Nightmares
-Silencio
-Perversión
-Silencio
-Putrescence
-Silencio
-Terror de duelo
-Silencio
-Vitiación
-Silencio
-la Bestia
-Silencio
-la cosa de arrastre
-Silencio
-los muertos
-Silencio
-el Mal Ojo
 
 %%%%
 _conflict_name_
 
-el fantasma
-Silencio
-Los muertos vivientes
-Silencio
-el Lurker
-Silencio
-el Reaper
-Silencio
-el Spectre
-Silencio
-la cosa
-Silencio
-el Undead
-Silencio
-la vida
-Silencio
-el Unspeakable
-Silencio
-el Espectro
-Silencio
-Terremotos
-Silencio
-Cataclismo
-Silencio
-Sequía
-Silencio
-Inundaciones
-Silencio
-Ruination
-Silencio
-el Inferno
-Silencio
-Aniquilación
-Silencio
-Armageddon
-Silencio
-Fimbulwinter
-Silencio
-Ragnarok
+Brawling
 
-World Downfall
-Silencio
-Fin del mundo
-Silencio
-el Apocalipsis
-Silencio
-el fin de los tiempos
-Silencio
-Hambre
-Silencio
-Pestilence
-Silencio
-Plague
-Silencio
-Guerra
-Silencio
-Ambigüedad
-Silencio
-Arbitraje
-Silencio
-Calamity
-Silencio
-Chance
-Silencio
-Cambio
-Silencio
-Confusión
-Silencio
-Reorganización constante
-Silencio
-Contradicción
-Silencio
-Disarray
-Silencio
-Desastres
-Silencio
-Disharmony
-Silencio
-Desintegración
+Conflicto
 
-Trastorno
-Silencio
-Disolución
-Silencio
-Distracción
-Silencio
-Extremismo
-Silencio
-Modo de goblin
-Silencio
-Havoc
-Silencio
-Imbalance
-Silencio
-Impermanencia
-Silencio
-Incongruencia
-Silencio
-Mayhem
-Silencio
-Revolt
-Silencio
-Chaos verdaderos
-Silencio
-Tumult
-Silencio
-Turmoil
-Silencio
-Upheaval
-Silencio
-los Extremas
-Silencio
-el Farrago
-Silencio
-el Fray
-Silencio
-Hodge-Podge
-Silencio
-el Mish-Mash
+Sumario
 
-Acuerdo
-Silencio
-Llegada
-Silencio
-Ascent
-Silencio
-Saldo
-Silencio
-Bodily Harmony
-Silencio
-Circularidad
-Silencio
-Conformidad
-Silencio
-Salida
-Silencio
-Decente
-Silencio
-Proporción debida
-Silencio
-Equilibrio
-Silencio
-Equivalencia
-Silencio
-Eternal Harmony
-Silencio
-Paz frágil
-Silencio
-Armonía
-Silencio
-Derecho
-Silencio
-Linearity
-Silencio
-Moderación
-Silencio
-Paz
-Silencio
-Propriety
+Discord
 
-Simmetría
-Silencio
-el Establecimiento
-Silencio
-la Decisión Final
-Silencio
-el Mediano
-Silencio
-el Medio
-Silencio
-Amortización
-Silencio
-Espíritus animales
-Silencio
-Quiebra
-Silencio
-Colusión
-Silencio
-Intereses compuestos
-Silencio
-Moneda
-Silencio
-Debt
-Silencio
-Deflación
-Silencio
-Demanda
-Silencio
-Dividendos
-Silencio
-Cambio
-Silencio
-Crecimiento
-Silencio
-Ingresos
-Silencio
-Inflación
-Silencio
-Lujo
+Disenso
 
-Profit
-Silencio
-Gestión de riesgos
-Silencio
-Suministro
-Silencio
-Tributación
-Silencio
-Activos valiosos
-Silencio
-Bienestar
-Silencio
-Attainder
-Silencio
-Breach
-Silencio
-Checks and Balances
-Silencio
-Conservatismo
-Silencio
-Defenestración
-Silencio
-Fee Simple
-Silencio
-Freehold
-Silencio
-Breach fundamental
-Silencio
-Gobernanza
-Silencio
-Mayor Utilidad
-Silencio
-Impeachment
-Silencio
-Mandamus
-Silencio
-Demanda popular
-Silencio
-Pobreza
+División
 
-Radicalismo
-Silencio
-Reasignación
-Silencio
-Realismo
-Silencio
-Sequestration
-Silencio
-Terminación
-Silencio
-La riqueza
-Silencio
-el bien común
-Silencio
-El caballo oscuro
-Silencio
-el Demago
-Silencio
-el Imperio
-Silencio
-el pato cojo
-Silencio
-el Mal menor
-Silencio
-el Pueblo Pequeño
-Silencio
-el Pueblo
-Silencio
-la revolución
-Silencio
-la Mayoría silenciosa
-Silencio
-Actus Reus
-Silencio
-Ad Valorem
-Silencio
-Posesión adversa
-Silencio
-Corpus Delicti
+Dudo
 
-Eminent Domain
-Silencio
-In Flagrante Delicto
-Silencio
-Ipse Dixit
-Silencio
-Locus Delicti
-Silencio
-Malum In Se
-Silencio
-Malum Prohibitum
-Silencio
-Mens Rea
-Silencio
-Nolo Contendere
-Silencio
-No obstante Veredicto
-Silencio
-Obiter Dictum
-Silencio
-Res Ipsa Loquitur
-Silencio
-Res Judicata
-Silencio
-Más allá
-Silencio
-Distant Shores
-Silencio
-Mundos Distantes
-Silencio
-Partes desconocidas
-Silencio
-Proximidad
-Silencio
-En algún lugar
-Silencio
-el Reino Bendito
-Silencio
-el desierto
+La huelga interna
 
-el Ecuador
-Silencio
-el Vacío Eterno
-Silencio
-el Bosque
-Silencio
-el Vale Oculto
-Silencio
-las colinas
-Silencio
-el Mundo Conocido
-Silencio
-la Tierra de Plenty
-Silencio
-el laberinto
-Silencio
-el Nuevo Mundo
-Silencio
-el Viejo Mundo
-Silencio
-el otro lado
-Silencio
-el Pit
-Silencio
-los polacos
-Silencio
-el Mar
-Silencio
-el Shore
-Silencio
-los Spheres
-Silencio
-los Árboles
-Silencio
-los Tundras
-Silencio
-el reino invisible
-Silencio
-el Valle
+Melee
 
-el Valle de la Muerte
-Silencio
-el volcán
-Silencio
-the Wasteland
-Silencio
-La naturaleza
-Silencio
-el Mundo
-Silencio
-Anoyance
-Silencio
-Ansiedad
-Silencio
-Awkwardness
-Silencio
-Chagrin
-Silencio
-Despertación
-Silencio
-Motivo
-Silencio
-Es un desastre.
-Silencio
-Consternación
-Silencio
-Insatisfacción
-Silencio
-Vergonzoso
-Silencio
-Ejecución Flawed
-Silencio
-Foul Odours
-Silencio
-Frustración
-Silencio
-Gloom
-Silencio
-Inconveniencia
+Hostilidades resumidas
 
-Irritación
-Silencio
-Malaise
-Silencio
-Shame
-Silencio
-Pegatina
-Silencio
-Rashes incómodas
-Silencio
-Insuficiencia
-Silencio
-Urgency
-Silencio
-Absolutismo
-Silencio
-Abstinencia
-Silencio
-Activismo
-Silencio
-Agnosticismo
-Silencio
-Altruismo
-Silencio
-Anarquía
-Silencio
-Asceticismo
-Silencio
-Ateísmo
-Silencio
-Autoteísmo
-Silencio
-Cinicismo
-Silencio
-Desestablecimiento
-Silencio
-Dogma
-Silencio
-Equiitarismo
+Tensión
 
 %%%%
 _anger_name_
 
-@_anger_quality_@
+PLH2
 
 w:3
-@_anger_possessive_@
+PLH2
 
 %%%%
 _anger_quality_
 
-Elitismo
-Silencio
-Ética
-Silencio
-Existencialismo
-Silencio
-Fallacy
-Silencio
-Fanatismo
-Silencio
-Expresión gratuita
-Silencio
-Voluntad libre
-Silencio
-Hedonismo
-Silencio
-Henotheism
-Silencio
-Heresy
-Silencio
-Idealismo
-Silencio
-Kathenotheism
-Silencio
-Levity
-Silencio
-Liberalismo
-Silencio
-Limitación
-Silencio
-Malteísmo
-Silencio
-Monoteismo
-Silencio
-Moralidad
-Silencio
-Mutualismo
-Silencio
-Mysticism
+La ira
 
-Nihilism
-Silencio
-Optimismo
-Silencio
-Ortodoxia
-Silencio
-Panentheism
-Silencio
-Panteísmo
-Silencio
-Pesimismo
-Silencio
-Politeísmo
-Silencio
-Pragmatismo
-Silencio
-Racionalidad
-Silencio
-Relativismo
-Silencio
-Serendipity
-Silencio
-Escepticismo
-Silencio
-Sofismo
-Silencio
-Stoicismo
-Silencio
-Sindicalismo
-Silencio
-Finitismo teísta
-Silencio
-el Ego
-Silencio
-Análisis
-Silencio
-Articulación
-Silencio
-Cálculo
+Brutal Revenge
 
-Circular Logic
-Silencio
-Clasificación
-Silencio
-Contexto
-Silencio
-Evolución
-Silencio
-Experimentación
-Silencio
-Focus
-Silencio
-Gravedad
-Silencio
-Inferencias
-Silencio
-Infinity
-Silencio
-Investigación
-Silencio
-Instinto
-Silencio
-Intuición
-Silencio
-Objetividad
-Silencio
-Patrones
-Silencio
-Salto cuántico
-Silencio
-Razón
-Silencio
-Rotación
-Silencio
-Subjetividad
-Silencio
-Teoría
-Silencio
-Unreason
+Respuesta desproporcionada
 
-el Inicio
-Silencio
-el Big Bang
-Silencio
-el Punto de Boiling
-Silencio
-el fin
-Silencio
-la mente
-Silencio
-el Nexus
-Silencio
-Candelabrum
-Silencio
-Vela
-Silencio
-Cadena
-Silencio
-Coin
-Silencio
-Copa
-Silencio
-Egg
-Silencio
-Feather
-Silencio
-Girdle
-Silencio
-Globe
-Silencio
-Horn
-Silencio
-Clave
-Silencio
-Orb
-Silencio
-Pilar
-Silencio
-Objetivo
+Furia
 
-Anillo
-Silencio
-Scroll
-Silencio
-Nave
-Silencio
-Tent
-Silencio
-Vase
-Silencio
-Vine
-Silencio
-Walnut
-Silencio
-Rueda
-Silencio
-Yoke.
-Silencio
-Cerebro
-Silencio
-Pie
-Silencio
-Mano
-Silencio
-Head
-Silencio
-Corazón
-Silencio
-Kidney
-Silencio
-Mouth
-Silencio
-Throat
-Silencio
-Tooth
-Silencio
-el Hierofant
-Silencio
-los Magistrados
+Hatred
 
-el sabio
-Silencio
-el Guerrero-Mage
-Silencio
-Ash
-Silencio
-Bile
-Silencio
-Bloodstone
-Silencio
-Bodily Humours
-Silencio
-Pan
-Silencio
-Queso
-Silencio
-Cobwebs
-Silencio
-Cristal
-Silencio
-Teares secos
-Silencio
-Dung
-Silencio
-Ichor
-Silencio
-Ungüento
-Silencio
-Oozing Pus
-Silencio
-Documento
-Silencio
-Rubbish
-Silencio
-Salt
-Silencio
-Saltpetre
-Silencio
-Sharkskin
+Indignación
 
-Slime
-Silencio
-Sulfuro
-Silencio
-Terra Cotta
-Silencio
-Dust
-Silencio
-Mana
-Silencio
-Spores
-Silencio
-Levadura
-Silencio
-other  Weapons name
-Silencio
-Broken Luck
-Silencio
-Carnicería
-Silencio
-Jaque mate
-Silencio
-Conversión
-Silencio
-Crawling
-Silencio
-Desertificación
-Silencio
-Puertas
-Silencio
-Espíritu empresarial
-Silencio
-False Hope
-Silencio
-Fulguración
-Silencio
-Gin y Tonic
-Silencio
-Grontol
+Outrage
 
-Hard Scrabble
-Silencio
-Establecimiento interdependiente
-Silencio
-La risa irreprimible
-Silencio
-No Interval
-Silencio
-Prescripción
-Silencio
-Vino tinto
-Silencio
-Res Nullius
-Silencio
-Combustión espontánea
-Silencio
-Terra Nullius
-Silencio
-Trampas
-Silencio
-Deshacerse
-Silencio
-Vodka
-Silencio
-el ojo ciego
-Silencio
-el Briny Deep
-Silencio
-la página vacía
-Silencio
-el Capítulo Final
-Silencio
-el punto Omega
-Silencio
-la Mano Abierta
-Silencio
-el Puño del Faraón
-Silencio
-el Monstruo Real
+Righteous Anger
 
-el Spinneret
-Silencio
-los dos nombres
-Silencio
-inhabilitación
-Silencio
-la Vendetta
-Silencio
-short monster name 
-Silencio
-Acarine
-Silencio
-Bestia
-Silencio
-Escarabajo
-Silencio
-Demonio
-Silencio
-Dragon
-Silencio
-Giant
-Silencio
-Goblin
-Silencio
-Hydra
-Silencio
-Imposible
-Silencio
-Jelly
-Silencio
-Lacertilian
-Silencio
-Newt
-Silencio
-Ogre
-Silencio
-Spider
-Silencio
-Testudina
+Furia justa
 
-Killer Bee
-Silencio
-Killer Klown
-Silencio
-Orb Guardian
-Silencio
-bane
-Silencio
-Slayer
-Silencio
-killer name
-Silencio
-Arbiter
-Silencio
-Arcanum
-Silencio
-libro
-Silencio
-Conservador
-Silencio
-Death Rattle
-Silencio
-Lengua del dragón
-Silencio
-Terremoto
-Silencio
-Embalmer
-Silencio
-Eviscerator
-Silencio
-Grim
-Silencio
-Grim Tooth
-Silencio
-Hell-Harrower
-Silencio
-Hellblazer
-Silencio
-Leviticus
+Scorn
 
-Lifebane
-Silencio
-Murmur
-Silencio
-Péndulo
-Silencio
-Sarcophage
-Silencio
-Tormentor
-Silencio
-Transmigrator
-Silencio
-Trog's @ anger quality @
-Silencio
-Ultimatum
-Silencio
-Undertaker
-Silencio
-Widowermaker
-Silencio
-Widowmaker
-Silencio
-Worm
-Silencio
-Worm's Wrath
-Silencio
-Gram
-Silencio
-Aubergine
-Silencio
-Backscratcher
-Silencio
-Bingo
-Silencio
-Blob
-Silencio
-Cepillo
-Silencio
-Bung
+Vengeance
 
-Cookie Cutter
-Silencio
-ETAOIN SHRDLU
-Silencio
-Egg
-Silencio
-Fish
-Silencio
-El palillo de dientes gigante
-Silencio
-Globulus
-Silencio
-Grom
-Silencio
-Grum
-Silencio
-Hulk
-Silencio
-Lorem Ipsum
-Silencio
-Mud Pie of Death
-Silencio
-No más hablar
-Silencio
-Omelette
-Silencio
-Ox
-Silencio
-Q
-Silencio
-Raisin
-Silencio
-Rummage
-Silencio
-Arma secreta
-Silencio
-Starlight
-Silencio
-String
+Wrath
 
 %%%%
 _anger_possessive_
 
-Stringbean
-Silencio
-Tattletale
-Silencio
-Thing
-Silencio
-Con dos nombres
-Silencio
-X
-Silencio
-Xom @ xom esteem @
-Silencio
-Z
-Silencio
-Glorpo
-Silencio
-Loopy
-Silencio
-Plojy
+extremadamente Mad
 
-the Absolute Madman
+el Absoluto Madman
 
-the Incandescent
+el Incandescent
 
-the Furious
+los Furiosos
 
-the Howling One
+el Howling One
 
-the Gibberer
+el Gibberer
 
-the Hated
+el odiado
 
-the Scorned
+los despreciados
 
-the Abhorred
-
+el Abhorred
 %%%%
 _battle_or_war_
 
-Crusades
+Cruzadas
 
-Eternal War
+Guerra eterna
 
 Iconoclasm
 
@@ -1678,34 +150,34 @@ Plunder
 
 Ravage
 
-Regicide
+Regicidio
 
 Skirmishing
 
-War
+Guerra
 
-the Doomed Warrior
+el Guerrero condenado
 
-the Endless March
+la Marcha Infinita
 
-the Eternal Warrior
+el Guerrero Eterno
 
-the Onslaught
+el Onslaught
 
-the Pyrrhic Victory
+la Victoria Pírrica
 
-the Warrior
+el Guerrero
 
 #killing
-Blood
+Sangre
 
-Blood-Lust
+Sangre-Lust
 
-Callousness
+Sensibilidad
 
 Diet Blood
 
-Fear
+Miedo
 
 Joyful Slaughter
 
@@ -1717,9 +189,9 @@ Wounding
 
 Agony
 
-Hacking and Slashing
+Hacking y Slashing
 
-Insufficient Pleasure
+Un placer insuficiente
 
 Trauma
 
@@ -1727,25 +199,25 @@ Trauma
 
 Dullness
 
-Precise Incision
+Incisión exacta
 
-Laceration
+Laceración
 
 Severance
 
-Truncation
+Truncación
 
 #collateral effects
-Death's Door
+La puerta de la muerte
 
-Mourning
+Ratón
 
-the Grave
-
+el Grave
 %%%%
+# used from C++'s side
 death_or_doom
 
-# Muerte
+# death
 Muerte sangrienta
 
 Cierta muerte
@@ -1764,7 +236,7 @@ Muerte dolorosa
 
 Muerte rápida
 
-Slow Muerte
+Muerte lenta
 
 Muerte repentina
 
@@ -1772,7 +244,7 @@ Muerte incierto
 
 Untimely Demise
 
-# Doom
+# doom
 Destrucción
 
 Disembowelment
@@ -1791,7 +263,7 @@ Peril
 
 Entierro prematuro
 
-# dolor y miseria
+# pain and misery
 
 La angustia
 
@@ -1813,121 +285,120 @@ Woe
 _strategy_or_justice_
 
 w:2
-@_strategy_name_@
+PLH2
 
 w:4
-@_valour_name_@
+PLH2
 
 w:3
-@_justice_name_@
-
+PLH2
 %%%%
 _strategy_name_
 
 #strategy
-Defence
+Defensa
 
-Defence by Offence
+Defensa por delitos
 
-Expedience
+Expediencia
 
 Guile
 
-Offence
+Delito
 
 Optimality
 
-Overwhelming Force
+Fuerza abrumadora
 
-Reinforcement
+Fortalecimiento
 
-Strategic Superiority
+Superioridad estratégica
 
-Subterfuge
+Subterfugio
 
 %%%%
 _valour_name_
 
-Action
+Medida
 
 Conatus
 
-Conscience
+Conciencia
 
-Courage
+Valor
 
-Daring
+Cariño
 
 Defiance
 
 Duty
 
-Eternal Vigilance
+Vigilancia eterna
 
-Fortitude
+Fortitud
 
 Gallantry
 
-Honour
+Honorable
 
 Indomitability
 
-Integrity
+Integridad
 
 Prudence
 
-Purpose
+Propósito
 
-Resourcefulness
+Recursos humanos
 
-Responsibility
+Responsabilidad
 
-Tenacity
+Tenacidad
 
 True Grit
 
 Valiance
 
-Watchfulness
+Vigilancia
 
 %%%%
 _justice_name_
 
-Absolution
+Absoluto
 
-Accidental Termination
+Terminación accidental
 
 Blind Justice
 
 Capital Punishment
 
-Corporal Punishment
+Castigos corporales
 
 Cruel Justice
 
-Exoneration
+Exoneración
 
-Extenuating Circumstances
+Circunstancias atenuantes
 
-False Accusations
+Falsas acusaciones
 
-Forgiveness
+Perdón
 
-Guilt
+Culpable
 
 Innocence
 
-Judgement
+Fallo
 
-Punishment
+Castigo
 
 Tender Mercy
 
 Tortfeasance
 
-Trial by Ordeal
+Juicio por Ordeal
 
-Wrongful Imprisonment
+Incautación incorrecta
 
 %%%%
 _diviner_name_
@@ -1940,26 +411,26 @@ Oracle
 
 Seeker
 
-Seer
+Cierre
 
 Soothsayer
 
 Sybil
 
-Visionary
+Visión
 
 Water Diviner
 
 %%%%
 _people_name_
 
-Ancients
+Antiguos
 
-Coward
+Cobarde
 
-Enemy
+Enemigo
 
-Fool
+Tonto
 
 Genius
 
@@ -1967,49 +438,49 @@ Hero
 
 Jester
 
-King
+Rey
 
 Madman
 
-Messenger
+Mensajero
 
 Pariah
 
-Philosopher
+Filosofía
 
-Priest
+Sacerdote
 
-Queen
+Reina
 
-Saviour
+Salvador
 
 Scapegrace
 
 Scavenger
 
-Traitor
+Traidor
 
 w:15
-@_diviner_name_@
-
+PLH2
 %%%%
 _weapon_animal_
 
-@_arachnid_name_@
+PLH2
 
-@_crustacean_name_@
+PLH2
 
-@_fish_name_@
+PLH2
 
-@_amphibian_name_@
+PLH2
 
-@_reptile_name_@
+PLH2
 
-@_bird_name_@
+PLH2
 
-@_mammal_name_@
+PLH2
 
 %%%%
+
 _crustacean_name_
 
 # insects and other crustaceans
@@ -2024,19 +495,19 @@ Blowfly
 
 Bristletail
 
-Butterfly
+Mariposa
 
 Caddisfly
 
-Crab
+Cangrejo
 
 Crayfish
 
-Damselfly
+Presuntamente
 
 Dragonfly
 
-Firefly
+Fuego
 
 Flea
 
@@ -2050,7 +521,7 @@ Krill
 
 Lacewing
 
-Lobster
+Langosta
 
 Louse
 
@@ -2064,7 +535,7 @@ Pill Bug
 
 Prawn
 
-Shrimp
+Camarones
 
 Silverfish
 
@@ -2075,20 +546,22 @@ Weta
 
 Woodlouse
 
-Yellowjacket
+Chaqueta amarilla
 
 %%%%
+
 _arachnid_name_
 
 Harvestman
 
-Scorpion
+Escorpión
 
 Spider
 
 Tick
 
 %%%%
+
 _amphibian_name_
 
 Axolotl
@@ -2103,13 +576,14 @@ Newt
 
 Olm
 
-Salamander
+Salamandra
 
 Siren
 
 Toad
 
 %%%%
+
 _reptile_name_
 
 Alligator
@@ -2124,9 +598,9 @@ Gharial
 
 Krait
 
-Leatherback
+Cuero
 
-Lizard
+Lagarto
 
 Python
 
@@ -2143,6 +617,7 @@ Turtle
 Viper
 
 %%%%
+
 _fish_name_
 
 Big Fish
@@ -2151,16 +626,17 @@ Eel
 
 Lamprey
 
-Salmon
+Salmón
 
 Shark
 
 %%%%
+
 _bird_name_
 
-Apostlebird
+Apóstol
 
-Arctic Tern
+Ártico Tern
 
 Auk
 
@@ -2168,7 +644,7 @@ Bustard
 
 Buzzard
 
-Cardinal
+Cardenal
 
 Cassowary
 
@@ -2206,7 +682,7 @@ Ostrich
 
 Owl
 
-Penguin
+Pingüino
 
 Pigeon
 
@@ -2230,20 +706,21 @@ Stork
 
 Swan
 
-Superb Lyrebird
+Espléndido Lyrebird
 
 Tawny Frogmouth
 
 Vulture
 
 %%%%
+
 _mammal_name_
 
 Ass
 
 Badger
 
-Bear
+Oso
 
 Boar
 
@@ -2256,7 +733,7 @@ Rat
 w:5
 Stoat
 
-Tiger
+Tigre
 
 w:5
 Weasel
@@ -2264,20 +741,20 @@ Weasel
 Whale
 
 Wolf
-
 %%%%
+# plants and fungi
 _plant_name_
 
 #plants
 Eggplant
 
-Chickpea
+Pollo
 
-Lettuce
+Lechuga
 
 Radish
 
-Sugar Beet
+Hoja de azúcar
 
 Shallot
 
@@ -2291,7 +768,7 @@ Whelk
 #fungus and similar
 
 w:5
-Magic Mushroom
+Mushroom mágico
 
 Mushroom
 
@@ -2300,90 +777,89 @@ Puffball
 Slime-mould
 
 Toadstool
-
 %%%%
 _evil_stuff_
 
 Abomination
 
-Abuse
+Abuso
 
-Ancient Evil
+Antiguo diablo
 
-Corruption
+Corrupción
 
 Debasement
 
-Defilement
+Defile
 
-Deformation
+Deformación
 
 Demonkind
 
-Evil
+Mal
 
-Hell's Wrath
+El infierno Wrath
 
-Infection
+Infección
 
-Mutilation
+Mutilación
 
 Nightmares
 
-Perversion
+Perversión
 
 Putrescence
 
-Shrieking Terror
+Terror de duelo
 
-Vitiation
+Vitiación
 
-the Beast
+la Bestia
 
-the Crawling Thing
+la cosa de arrastre
 
-the Dead
+los muertos
 
-the Evil Eye
+el Mal Ojo
 
-the Ghost
+el fantasma
 
-the Living Dead
+los muertos vivientes
 
-the Lurker
+el Lurker
 
-the Reaper
+el Reaper
 
-the Spectre
+el Spectre
 
-the Thing
+la cosa
 
-the Undead
+el Undead
 
-the Unliving
+la vida
 
-the Unspeakable One
+el Unspeakable
 
-the Wraith
+el Espectro
 
 %%%%
 _catastrophe_name_
 
-Earthquakes
+Terremotos
 
-Cataclysm
+Cataclismo
 
-Drought
+Sequía
 
-Floods
+Inundaciones
 
 Ruination
 
-the Inferno
+el Inferno
 
 # Apocalyptic events
 
-Annihilation
+Aniquilación
 
 Armageddon
 
@@ -2393,71 +869,70 @@ Ragnarok
 
 World Downfall
 
-World's End
+Fin del mundo
 
-the Apocalypse
+el Apocalipsis
 
-the End of Times
+el fin de los tiempos
 
 # the Apocalyptic Riders (except Death)
-Famine
+Hambre
 
 Pestilence
 
 Plague
 
-War
-
+Guerra
 %%%%
 _chaos_name_
 
-Ambiguity
+Ambigüedad
 
-Arbitration
+Arbitraje
 
 Calamity
 
 Chance
 
-Change
+Cambio
 
-Confusion
+Confusión
 
-Constant Reorganisation
+Reorganización constante
 
-Contradiction
+Contradicción
 
 Disarray
 
-Disaster
+Desastres
 
 Disharmony
 
-Disintegration
+Desintegración
 
-Disorder
+Trastorno
 
-Dissolution
+Disolución
 
-Distraction
+Distracción
 
-Extremism
+Extremismo
 
-Goblin Mode
+Modo de goblin
 
 Havoc
 
 Imbalance
 
-Impermanence
+Impermanencia
 
-Incongruity
+Incongruencia
 
 Mayhem
 
 Revolt
 
-True Chaos
+Chaos verdaderos
 
 Tumult
 
@@ -2465,114 +940,113 @@ Turmoil
 
 Upheaval
 
-the Extremes
+los Extremas
 
-the Farrago
+el Farrago
 
-the Fray
+el Fray
 
-the Hodge-Podge
+hodge-Podge
 
-the Mish-Mash
-
+el Mish-Mash
 %%%%
 _balance_or_order_
 
-Accord
+Acuerdo
 
-Arrival
+Llegada
 
 Ascent
 
-Balance
+Saldo
 
 Bodily Harmony
 
-Circularity
+Circularidad
 
-Conformity
+Conformidad
 
-Departure
+Salida
 
-Descent
+Decente
 
-Due Proportion
+Proporción debida
 
-Equilibrium
+Equilibrio
 
-Equivalence
+Equivalencia
 
 Eternal Harmony
 
-Fragile Peace
+Paz frágil
 
-Harmony
+Armonía
 
-Law
+Derecho
 
 Linearity
 
-Moderation
+Moderación
 
-Peace
+Paz
 
 Propriety
 
-Symmetry
+Simmetría
 
-the Establishment
+el Establecimiento
 
-the Final Decision
+la Decisión Final
 
-the Median
+el Mediano
 
-the Middle
+el Medio
 
 %%%%
 _economics_or_politics_
 
 # economics
-Amortisation
+Amortización
 
-Animal Spirits
+Espíritus animales
 
-Bankruptcy
+Quiebra
 
-Collusion
+Colusión
 
-Compound Interest
+Intereses compuestos
 
-Currency
+Moneda
 
 Debt
 
-Deflation
+Deflación
 
-Demand
+Demanda
 
-Dividends
+Dividendos
 
-Exchange
+Cambio
 
-Growth
+Crecimiento
 
-Income
+Ingresos
 
-Inflation
+Inflación
 
-Luxury
+Lujo
 
 Profit
 
-Risk Management
+Gestión de riesgos
 
-Supply
+Suministro
 
-Taxation
+Tributación
 
-Valuable Assets
+Activos valiosos
 
-Welfare
+Bienestar
 
 # politics
 Attainder
@@ -2581,59 +1055,59 @@ Breach
 
 Checks and Balances
 
-Conservatism
+Conservatismo
 
-Defenestration
+Defenestración
 
 Fee Simple
 
 Freehold
 
-Fundamental Breach
+Breach fundamental
 
-Governance
+Gobernanza
 
-Greatest Utility
+Mayor Utilidad
 
 Impeachment
 
 Mandamus
 
-Popular Demand
+Demanda popular
 
-Poverty
+Pobreza
 
-Radicalism
+Radicalismo
 
-Reapportionment
+Reasignación
 
-Royalism
+Realismo
 
 Sequestration
 
-Termination
+Terminación
 
-Wealth
+La riqueza
 
-the Common Good
+el bien común
 
-the Dark Horse
+el caballo oscuro
 
-the Demagogue
+el Demago
 
-the Imperium
+el Imperio
 
-the Lame Duck
+el pato cojo
 
-the Lesser Evil
+el Mal menor
 
-the Little People
+el Pueblo Pequeño
 
-the People
+el Pueblo
 
-the Revolution
+la revolución
 
-the Silent Majority
+la Mayoría silenciosa
 
 # Anglo-American common law, though trying not to overlap with
 # _justice_name_: History tells us that law and justice are only
@@ -2643,7 +1117,7 @@ Actus Reus
 
 Ad Valorem
 
-Adverse Possession
+Posesión adversa
 
 Corpus Delicti
 
@@ -2663,7 +1137,7 @@ Mens Rea
 
 Nolo Contendere
 
-Non Obstante Veredicto
+No obstante Veredicto
 
 Obiter Dictum
 
@@ -2674,289 +1148,287 @@ Res Judicata
 %%%%
 _place_name_
 
-Beyond
+Más allá
 
 Distant Shores
 
-Distant Worlds
+Mundos Distantes
 
-Parts Unknown
+Partes desconocidas
 
-Proximity
+Proximidad
 
-Somewhere Else
+En algún lugar
 
-the Blessed Realm
+el Reino Bendito
 
-the Desert
+el desierto
 
-the Equator
+el Ecuador
 
-the Eternal Void
+el Vacío Eterno
 
-the Forest
+el Bosque
 
-the Hidden Vale
+el Vale Oculto
 
-the Hills
+las colinas
 
-the Known World
+el Mundo Conocido
 
-the Land of Plenty
+la Tierra de Plenty
 
-the Maze
+el laberinto
 
-the New World
+el Nuevo Mundo
 
-the Old World
+el Viejo Mundo
 
-the Other Side
+el otro lado
 
-the Pit
+el Pit
 
-the Poles
+los polacos
 
-the Sea
+el Mar
 
-the Shore
+el Shore
 
-the Spheres
+los Spheres
 
-the Trees
+los Árboles
 
-the Tundras
+los Tundras
 
-the Unseen Realm
+el reino invisible
 
-the Valley
+el Valle
 
-the Valley of Death
+el Valle de la Muerte
 
-the Volcano
+el volcán
 
 the Wasteland
 
-the Wilderness
+la naturaleza
 
-the World
+el Mundo
 
 %%%%
 _discomfort_weapon_
 
-Annoyance
+Anoyance
 
-Anxiety
+Ansiedad
 
 Awkwardness
 
 Chagrin
 
-Desperation
+Despertación
 
-Discomfort
+Motivo
 
-Disgust
+Es un desastre
 
-Dismay
+Consternación
 
-Dissatisfaction
+Insatisfacción
 
-Embarrassment
+Vergonzoso
 
-Flawed Execution
+Ejecución Flawed
 
 Foul Odours
 
-Frustration
+Frustración
 
 Gloom
 
-Inconvenience
+Inconveniencia
 
-Irritation
+Irritación
 
 Malaise
 
 Shame
 
-Stickiness
+Pegatina
 
-Uncomfortable Rashes
+Rashes incómodas
 
-Unpleasantness
+Insuficiencia
 
 Urgency
 
 %%%%
 _philosophy_or_science_
 
-@_philosophy_name_@
+PLH2
 
-@_science_name_@
-
+PLH2
 %%%%
 _philosophy_name_
 
-Absolutism
+Absolutismo
 
-Abstinence
+Abstinencia
 
-Activism
+Activismo
 
-Agnosticism
+Agnosticismo
 
-Altruism
+Altruismo
 
-Anarchy
+Anarquía
 
-Asceticism
+Asceticismo
 
-Atheism
+Ateísmo
 
-Autotheism
+Autoteísmo
 
-Cynicism
+Cinicismo
 
-Disestablishmentarianism
+Desestablecimiento
 
 Dogma
 
-Egalitarianism
+Equiitarismo
 
-Elitism
+Elitismo
 
-Ethics
+Ética
 
-Existentialism
+Existencialismo
 
 Fallacy
 
-Fanaticism
+Fanatismo
 
-Free Expression
+Expresión gratuita
 
-Free Will
+Voluntad libre
 
-Hedonism
+Hedonismo
 
 Henotheism
 
 Heresy
 
-Idealism
+Idealismo
 
 Kathenotheism
 
 Levity
 
-Liberalism
+Liberalismo
 
-Limitation
+Limitación
 
-Maltheism
+Malteísmo
 
-Monotheism
+Monoteismo
 
-Morality
+Moralidad
 
-Mutualism
+Mutualismo
 
 Mysticism
 
 Nihilism
 
-Optimism
+Optimismo
 
-Orthodoxy
+Ortodoxia
 
 Panentheism
 
-Pantheism
+Panteísmo
 
-Pessimism
+Pesimismo
 
-Polytheism
+Politeísmo
 
-Pragmatism
+Pragmatismo
 
-Rationality
+Racionalidad
 
-Relativism
+Relativismo
 
 Serendipity
 
-Skepticism
+Escepticismo
 
-Sophism
+Sofismo
 
-Stoicism
+Stoicismo
 
-Syndicalism
+Sindicalismo
 
-Theistic Finitism
+Finitismo teísta
 
-the Ego
-
+el Ego
 %%%%
 _science_name_
 
-Analysis
+Análisis
 
-Articulation
+Articulación
 
-Calculation
+Cálculo
 
 Circular Logic
 
-Classification
+Clasificación
 
-Context
+Contexto
 
-Evolution
+Evolución
 
-Experimentation
+Experimentación
 
 Focus
 
-Gravity
+Gravedad
 
-Inference
+Inferencias
 
 Infinity
 
-Inquiry
+Investigación
 
-Instinct
+Instinto
 
-Intuition
+Intuición
 
-Objectivity
+Objetividad
 
-Patterns
+Patrones
 
-Quantum Leap
+Salto cuántico
 
-Reason
+Razón
 
-Rotation
+Rotación
 
-Subjectivity
+Subjetividad
 
-Theory
+Teoría
 
 Unreason
 
-the Beginning
+el Inicio
 
-the Big Bang
+el Big Bang
 
-the Boiling Point
+el Punto de Boiling
 
-the End
+el fin
 
-the Mind
+la mente
 
-the Nexus
+el Nexus
 
 %%%%
 _item_name_
@@ -2964,13 +1436,13 @@ _item_name_
 # items
 Candelabrum
 
-Candle
+Vela
 
-Chain
+Cadena
 
 Coin
 
-Cup
+Copa
 
 Egg
 
@@ -2982,19 +1454,19 @@ Globe
 
 Horn
 
-Key
+Clave
 
 Orb
 
-Pillar
+Pilar
 
-Purse
+Objetivo
 
-Ring
+Anillo
 
 Scroll
 
-Ship
+Nave
 
 Tent
 
@@ -3004,20 +1476,20 @@ Vine
 
 Walnut
 
-Wheel
+Rueda
 
 Yoke
 
 # body parts
-Brain
+Cerebro
 
-Foot
+Pie
 
-Hand
+Mano
 
 Head
 
-Heart
+Corazón
 
 Kidney
 
@@ -3030,15 +1502,15 @@ Tooth
 %%%%
 _magic_name_
 
-the Hierophant
+el Hierofant
 
-the Magi
+los Magistrados
 
-the Sage
+el sabio
 
-the Warrior-Mage
-
+el Guerrero-Mage
 %%%%
+# substances
 _substance_name_
 
 Ash
@@ -3049,25 +1521,25 @@ Bloodstone
 
 Bodily Humours
 
-Bread
+Pan
 
-Cheese
+Queso
 
 Cobwebs
 
-Crystal
+Cristal
 
-Dried Tears
+Teares secos
 
 Dung
 
 Ichor
 
-Ointment
+Ungüento
 
 Oozing Pus
 
-Paper
+Documento
 
 Rubbish
 
@@ -3079,7 +1551,7 @@ Sharkskin
 
 Slime
 
-Sulphur
+Sulfuro
 
 Terra Cotta
 
@@ -3090,9 +1562,10 @@ Mana
 
 Spores
 
-Yeast
+Levadura
 
 %%%%
+# non-groupables
 other_weapon_name
 
 Broken Luck
@@ -3157,7 +1630,7 @@ la Mano Abierta
 
 el Puño del Faraón
 
-el monstruo Real
+el Monstruo Real
 
 el Spinneret
 
@@ -3168,6 +1641,7 @@ inhabilitación
 la Vendetta
 
 %%%%
+# single word monster names, to allow for combinations like <Monster>slayer
 short_monster_name_
 
 w:1
@@ -3202,28 +1676,26 @@ Spider
 
 w:1
 Testudina
-
 %%%%
 _monster_name_
 
-@short_monster_name_@
+PLH2
 
-@player_species@
+PLH2
 
 Killer Bee
 
 Killer Klown
 
 Orb Guardian
-
 %%%%
 _short_killer_name_
 
 bane
 
 slayer
-
 %%%%
+# used from the C++ side
 killer_name
 
 's Bane
@@ -3239,23 +1711,21 @@ Es Foe
 's Peril
 
 's Regret
-
 %%%%
 _long_killer_name_
 
 's Death Toll
 
-'s Demise
+Es Demise
 
-'s Funeral
+Es Funeral
 
 's Nightmare
 
-'s Undoing
+'s Deshacer
 
 w:1
 's Looming Annihilation
-
 %%%%
 _real_weapon_name_
 
@@ -3263,15 +1733,15 @@ Arbiter
 
 Arcanum
 
-Concordance
+Libro
 
-Conservator
+Conservador
 
 Death Rattle
 
-Dragon's Tongue
+Lengua del dragón
 
-Earthworm
+Terremoto
 
 Embalmer
 
@@ -3291,7 +1761,7 @@ Lifebane
 
 Murmur
 
-Pendulum
+Péndulo
 
 Sarcophage
 
@@ -3299,7 +1769,7 @@ Tormentor
 
 Transmigrator
 
-Trog's @_anger_quality_@
+El PLH2 de Trog
 
 Ultimatum
 
@@ -3317,7 +1787,6 @@ Worm's Wrath
 
 # Sigmund's sword
 Gram
-
 %%%%
 _joke_weapon_name_
 
@@ -3329,7 +1798,7 @@ Bingo
 
 Blob
 
-Brush
+Cepillo
 
 Bung
 
@@ -3341,7 +1810,7 @@ Egg
 
 Fish
 
-Giant's Toothpick
+El palillo de dientes gigante
 
 Globulus
 
@@ -3355,7 +1824,7 @@ Lorem Ipsum
 
 Mud Pie of Death
 
-No More Talking
+No más hablar
 
 Omelette
 
@@ -3367,7 +1836,7 @@ Raisin
 
 Rummage
 
-Secret Weapon
+Arma secreta
 
 Starlight
 
@@ -3379,11 +1848,11 @@ Tattletale
 
 Thing
 
-With Two Names
+Con dos nombres
 
 X
 
-Xom's @_xom_esteem_@
+Xom's PLH2
 
 Z
 
@@ -3393,26 +1862,24 @@ Glorpo
 Loopy
 
 Plojy
-
 %%%%
 _plain_weapon_name_
 
 w:15
-@short_monster_name_@@_short_killer_name_@
+PLH2PLH3
 
 w:8
-@_monster_name_@@killer_name@
+PLH2PLH3
 
 w:2
-@short_monster_name_@@_long_killer_name_@
+PLH2PLH3
 
 w:1
-@player_death@
+PLH2
 
 w:15
-@_real_weapon_name_@
+PLH2
 
 w:5
-@_joke_weapon_name_@
-
+PLH2
 %%%%
