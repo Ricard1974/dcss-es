@@ -1,129 +1,103 @@
 %%%%
 Air Elementalist
 
-Air Elementalists have learned the Shock spell. Their electrical magic can harm
-groups of foes, while their air spells assist in fighting or fleeing enemies.
-%%%%
+Los Elementalistas del Aire han aprendido el hechizo Shock. Su magia eléctrica puede dañar
+grupos de enemigos, mientras que sus hechizos aéreos ayudan a luchar o huir de enemigos.%%%%
 Artificer
 
-Artificers start with a few magic wands and a club. They'll need to find better
-weapons and armour before their wands run out.
-%%%%
+Los artificios comienzan con unas varitas mágicas y un club. Necesitarán encontrar mejor
+armas y armadura antes de que sus varitas se agoten.%%%%
 Berserker
 
-Berserkers believe in Trog, the magic-hating god of frenzy. Not much can stop a
-raging berserker early on, apart from hubris.
-%%%%
+Berserkers cree en Trog, el dios que odia la magia de frenesí. No mucho puede detener a
+Berserker de raging temprano, aparte de la arrogancia.%%%%
 Brigand
 
-Brigands carry poisoned darts and a small number of nasty curare darts.
-%%%%
+Los Brigands llevan dardos envenenados y un pequeño número de desagradables dardos curare.%%%%
 Chaos Knight
 
-Chaos Knights are playthings of the unpredictable Xom, and are subject to the
-god's constantly changing moods.
-%%%%
+Caos Knights son juguetes de la Xom impredecible, y están sujetos a la
+Dios está cambiando de humor constantemente.%%%%
 Cinder Acolyte
 
-Cinder Acolytes worship Ignis, drawing upon the flame of a dying god until
-there is nothing left. They have both melee and fire magic capabilities.
-%%%%
+Cinder Acolytes adora Ignis, atrayendo sobre la llama de un dios moribundo hasta
+No queda nada. Tienen capacidades de magia de melee y fuego.%%%%
 Conjurer
 
-Conjurers begin with the Magic Dart spell, and can learn other non-elemental
-spells to reliably blast their foes.
-%%%%
+Los conjuradores comienzan con el hechizo Magic Dart, y pueden aprender otros no-elementales
+hechizos para volar de forma fiable a sus enemigos.%%%%
 Delver
 
-Delvers start their quest five levels below the surface. A set of powerful magic
-items helps them survive the dangerous journey upward.
-%%%%
+Los desvíos comienzan su búsqueda cinco niveles por debajo de la superficie. Un conjunto de magia poderosa
+artículos les ayuda a sobrevivir el peligroso viaje hacia arriba.%%%%
 Earth Elementalist
 
-Earth Elementalists know the Sandblast spell, and can later learn more earthen
-spells suitable for subtle stabbing or brute-force blasting.
-%%%%
+Los Elementalistas de la Tierra conocen el hechizo Sandblast, y luego pueden aprender más terrenal
+hechizos adecuados para el apuñalado sutil o la explosión de fuerza bruta.%%%%
 Enchanter
 
-Enchanters know a variety of Hexes that can incapacitate their foes, and are
-equipped with an enchanted dagger and potions of invisibility.
-%%%%
+Los encantadores conocen una variedad de Hexes que pueden incapacitar a sus enemigos, y son
+equipado con una daga encantada y pociones de invisibilidad.%%%%
 Fighter
 
-Fighters are equipped with armour and shield, as well as a weapon of their
-choice and potions of might.
-%%%%
+Los combatientes están equipados con armadura y escudo, así como un arma de su
+elección y pociones de poder.%%%%
 Fire Elementalist
 
-Fire Elementalists have learned the Foxfire spell. Their other starting spells
-are likewise focused on fiery and explosive destruction.
-%%%%
+Los Elementalistas del Fuego han aprendido el hechizo Foxfire. Sus otros hechizos de inicio
+se centran igualmente en la destrucción ardiente y explosiva.%%%%
 Gladiator
 
-Gladiators are ready for the arena with light armour, a weapon of their choice,
-and a few throwing weapons and nets.
-%%%%
+Los gladiadores están listos para la arena con armadura ligera, un arma de su elección,
+y unos cuantos lanzando armas y redes.%%%%
 Hedge Wizard
 
-Hedge Wizards are magic generalists, good at using a wide variety of tools to
-frustrate their foes and gain an edge in the battlefield.
-%%%%
+Hedge Wizards son generalistas mágicos, buenos en utilizar una amplia variedad de herramientas para
+frustrar a sus enemigos y ganar un borde en el campo de batalla.%%%%
 Hunter
 
-Hunters carry a shortbow, light armour and a scroll of butterflies.
-# TODO: fix this for coglins
-%%%%
+Los cazadores llevan un arco corto, una armadura ligera y un pergamino de mariposas.
+# TODO: Arregla esto para coglins%%%%
 Hexslinger
 
-Hexslingers carry a sling, and use hex magic to make their foes more vulnerable
-to attacks from afar.
-%%%%
+Los hexslingers llevan un sling, y usan la magia hex para hacer sus enemigos más vulnerables
+a ataques desde lejos.%%%%
 Ice Elementalist
 
-Ice Elementalists begin with the Freeze spell. Their later spells provide strong
-offence and defence, but may restrict their movement.
-%%%%
+Los Elementalistas de Hielo comienzan con el hechizo Freeze. Sus hechizos posteriores proporcionan fuerte
+of offence and defence, but may restrict their movement.%%%%
 Monk
 
-Monks start with a simple weapon of their choice, an orb of light, and a potion
-of divine ambrosia, and gain additional piety with the first god they worship.
-%%%%
+Los monjes comienzan con un simple arma de su elección, un orbe de luz, y una poción
+de ambrosia divina, y ganar piedad adicional con el primer dios que adoran.%%%%
 Necromancer
 
-Necromancers start out with the Soul Splinter spell. Eventually, they can turn
-the dead into allies and use the life force of the living to restore themselves.
-%%%%
+Los necromanceres comienzan con el hechizo Soul Splinter. Eventualmente, pueden girar
+los muertos en aliados y utilizar la fuerza de vida de los vivos para restaurarse.%%%%
 Reaver
 
-Reavers start with a weapon of their choice and deadly magic to supplement it
-when in need. They start with the Kiss of Death spell.
-%%%%
+Reavers comienza con un arma de su elección y magia mortal para complementarlo
+cuando sea necesario. Empiezan con el hechizo del beso de la muerte.%%%%
 Summoner
 
-Summoners are able to cast Summon Small Mammal from the start, and begin with
-spells to summon stronger and more exotic allies in their library.
-%%%%
+Losvocadores son capaces de fundir Invocar Mammal pequeño desde el principio, y empezar con
+hechizos para convocar aliados más fuertes y exóticos en su biblioteca.%%%%
 Forgewright
 
-Forgewrights are mages who specialise in the creation of turrets and mechanical
-companions to fight alongside.
-%%%%
+Forgewrights son magos que se especializan en la creación de torretas y mecánicas
+compañeros para luchar.%%%%
 Shapeshifter
 
-Shapeshifters use talismans to shift their form, making them powerful melee
-fighters (especially when unarmed) at the cost of armour.
-%%%%
+Los ladrones usan talismanos para cambiar su forma, haciéndolos poderosos melee
+luchadores (especialmente cuando no están armados) al costo de la armadura.%%%%
 Alchemist
 
-Alchemists start with the Poisonous Vapours spell, and their magic is very
-effective against foes susceptible to poison.
-%%%%
+Los alquimistas comienzan con el hechizo Poisonous Vapours, y su magia es muy
+eficaz contra enemigos susceptibles de envenenamiento.%%%%
 Wanderer
 
-Wanderers start with random equipment and skills.
-%%%%
+Los deportistas comienzan con equipos y habilidades aleatorias.%%%%
 Warper
 
-Warpers start with a weapon of their choice, a scroll of blinking, darts of
-disjunction, and some Translocation spells in their library.
-%%%%
+Los Warpers comienzan con un arma de su elección, un pergamino de parpadear, dardos de
+disyunción, y algunos hechizos de translocación en su biblioteca.%%%%

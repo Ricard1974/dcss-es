@@ -1,1545 +1,1170 @@
-########################################################################
-### Altars
-########################################################################
+
 A detected altar
 
-An altar of some kind. You cannot tell what deity it is consecrated to without
-approaching it.
-%%%%
+Un altar de algún tipo. No se puede decir a qué deidad se consagra sin
+acercándolo.%%%%
 A faded altar of an unknown god
 
-An ancient altar, stripped of all identifying characteristics by the passage of
-aeons. Praying at it will convert you to an unknown god, and the altar's deity
-will greatly appreciate conversion at so ancient a site of worship.
-%%%%
+Un antiguo altar, despojado de todas las características identificativas por el pasaje de
+Eones. Orar en ella te convertirá a un dios desconocido, y la deidad del altar
+apreciará grandemente la conversión en tan antiguo un sitio de adoración.%%%%
 A glowing golden altar of the Shining One
 
-An altar to the Shining One, made from the purest gold and almost blinding in
-its radiance.
-%%%%
+Un altar al Resplandor, hecho del oro más puro y casi cegador en
+su resplandor.%%%%
 A broken altar of Ashenzari
 
-A crystal altar which shattered to pieces when Ashenzari was cursed. There is
-still a great power remaining within it: a dark aura holds the shards in
-mid-explosion, suspended in time and space much like the god they herald.
-%%%%
+Un altar de cristal que se destrozó cuando Ashenzari fue maldecido. Hay
+todavía un gran poder permanecer dentro de él: un aura oscuro sostiene los fragmentos en
+mitad de la explosión, suspendida en el tiempo y el espacio, como el dios que anunciaban.%%%%
 A roughly hewn altar of Beogh
 
-An altar to Beogh, unmistakably roughly hewn by orcish artisans.
-%%%%
+Un altar a Beogh, inequívocamente excavado por artesanos orcos.%%%%
 A snail-covered altar of Cheibriados
 
-A timeless altar to Cheibriados the Contemplative.
-%%%%
+Un altar atemporal para Cheibriados el Contemplativo.%%%%
 A shadowy altar of Dithmenos
 
-An altar to Dithmenos the Shadowed. It seems to absorb light from its
-surroundings.
-%%%%
+Un altar a Dithmenos el Sombrado. Parece absorber la luz de su
+alrededores.%%%%
 A white marble altar of Elyvilon
 
-An altar to Elyvilon the Healer, made from purest white marble and topped by a
-sculpture of the Chalice of Purification.
-%%%%
+Un altar a Elyvilon el Sanador, hecho de mármol blanco más puro y cubierto por un
+escultura del Cáliz de la Purificación.%%%%
 A blossoming altar of Fedhas
 
-An altar to Fedhas Madash, covered in vibrant and colourful plant life.
-%%%%
+Un altar a Fedhas Madash, cubierto de vida vegetal vibrante y colorida.%%%%
 An opulent altar of Gozag
 
-A glittering golden and bejewelled altar to Gozag Ym Sagoz the Greedy, gleaming
-brightly even in the dim dungeon light.
-%%%%
+Un altar de oro brillante y bejewelled a Gozag Ym Sagoz el Greedy, brillando
+brillantemente incluso en la luz del dim dungeon.%%%%
 A hazy altar of Hepliaklqana
 
-An altar to Hepliaklqana the Forgotten, shrouded in mist and difficult to make
-out clearly. Something about it seems terribly familiar, but it's impossible to
-say exactly why.
-%%%%
+Un altar a Hepliaklqana el olvidado, envuelto en niebla y difícil de hacer
+Fuera claramente. Algo sobre eso parece terriblemente familiar, pero es imposible
+Diga exactamente por qué.%%%%
 A candlelit altar of Ignis
 
-An altar to Ignis, the Dying Flame. It's completely covered in candles of all
-shapes and sizes, but only one remains alight, its slender flame wavering in the
-slightest breeze.
-%%%%
+Un altar a Ignis, la Llama Dying. Está completamente cubierto de velas de todos
+formas y tamaños, pero sólo uno permanece a la luz, su llama esbelta ondeando en el
+brisa más leve.%%%%
 A viscous altar of Jiyva
 
-A slimy, ever-shifting altar to Jiyva. You're not sure what it's made from, and
-you don't really want to know.
-%%%%
+Un altar delgado y siempre cambiante a Jiyva. No estás seguro de lo que está hecho, y
+No quieres saberlo.%%%%
 An ancient bone altar of Kikubaaqudgha
 
-An altar created from piles of ancient bones, dedicated to the terrible
-Demon-God Kikubaaqudgha.
-%%%%
+Un altar creado a partir de montones de huesos antiguos, dedicado al terrible
+Demonio-Dios Kikubaaqudgha.%%%%
 A corrupted altar of Lugonu
 
-An altar to Lugonu the Unformed, possibly dedicated to some other power before
-it was irrevocably corrupted.
-%%%%
+Un altar a Lugonu el Unformed, posiblemente dedicado a algún otro poder antes
+Estaba irrevocablemente corrupto.%%%%
 A burning altar of Makhleb
 
-An ever-burning altar to Makhleb the Destroyer. Strange, twisting shapes are
-visible in the flames.
-%%%%
+Un altar siempre quemado a Makhleb el Destructor. Formas extrañas y retorcidas
+visible en las llamas.%%%%
 A sparkling altar of Nemelex Xobeh
 
-An altar sparkling with a lightshow brighter than any gambling den's, to
-attract followers for Nemelex Xobeh.
-%%%%
+Un altar brillando con una luz más brillante que cualquier den de juego,
+atraer seguidores para Nemelex Xobeh.%%%%
 An iron altar of Okawaru
 
-An altar of iron and steel dedicated to the Warmaster Okawaru. Its edges are
-surprisingly sharp.
-%%%%
+Un altar de hierro y acero dedicado al Warmaster Okawaru. Sus bordes son
+sorprendentemente fuerte.%%%%
 A stormy altar of Qazlal
 
-An altar dedicated to Qazlal Stormbringer, surrounded by fierce winds,
-electrical discharges, puffs of fire and magma, and the occasional tremor.
-%%%%
+Un altar dedicado a Qazlal Stormbringer, rodeado de vientos feroces,
+descargas eléctricas, puños de fuego y magma, y el temblor ocasional.%%%%
 A sacrificial altar of Ru
 
-An altar to Ru the Awakened in the shape of a pair of scales, with a heart in
-one scale and a pictogram representing power and enlightenment in the other.
-%%%%
+Un altar a Ru el Despertado en forma de un par de escamas, con un corazón en
+una escala y un pictograma que representa el poder y la iluminación en la otra.%%%%
 A shimmering blue altar of Sif Muna
 
-An altar to Sif Muna the Loreminder, covered in intricate patterns and writings
-in long forgotten scripts. Atop a deep blue pedestal hovers a shimmering
-condensation of pure magic.
-%%%%
+Un altar a Sif Muna el Loreminder, cubierto de patrones y escritos intrincados
+en largos guiones olvidados. Encima de un pedestal azul profundo agita un brillo
+condensación de magia pura.%%%%
 A bloodstained altar of Trog
 
-An altar to Trog the Wrathful, crudely made by what seem to be the hands of
-giants and covered with bloodstains.
-%%%%
+Un altar para Trog el Wrathful, crudely hecho por lo que parece ser las manos de
+gigantes y cubiertos de manchas de sangre.%%%%
 A hide-covered altar of Uskayaw
 
-An altar to Uskayaw the Reveller. It appears to be hollow and covered in a hide,
-giving it a resonant surface. Carvings on the side depict grouped figures that
-could be dancing or loving or fighting.
-%%%%
+Un altar para Uskayaw el Reveller. Parece ser hueco y cubierto en un escondite,
+dándole una superficie resonante. Carvings on the side represent grouped figures that
+podría ser bailar o amar o luchar.%%%%
 A radiant altar of Vehumet
 
-An altar, ablaze in the lights of Iskenderun and promising great destructive
-powers to those who would follow Vehumet.
-%%%%
+Un altar, resplandeciente en las luces de Iskenderun y prometedor gran destructivo
+poderes a los que seguirían a Vehumet.%%%%
 An ornate altar of the Wu Jian Council
 
-A red and gold altar to the Wu Jian Council. Sharp slivers of steel drift
-through the quiet air surrounding it.
-%%%%
+Un altar de oro y rojo al Consejo Wu Jian. Tiradores de afilado de la deriva del acero
+a través del aire tranquilo que lo rodea.%%%%
 A shimmering altar of Xom
 
-An altar constantly shimmering in all visible colours, and probably some
-invisible ones, matching the whims of Xom the Unpredictable.
-%%%%
+Un altar constantemente brillando en todos los colores visibles, y probablemente algunos
+invisibles, que coinciden con los caprichos de Xom lo impredecible.%%%%
 A basalt altar of Yredelemnul
 
-An altar to Yredelemnul the Dark, worked from columnar basalt.
-%%%%
+Un altar a Yredelemnul la Oscuridad, trabajado de basalto columnar.%%%%
 A glowing silver altar of Zin
 
-An altar to Zin the Law-Giver, made from silver as pristine as Zin's followers
-are expected to be, and glowing gently.
-%%%%
-########################################################################
-### Terrain
-########################################################################
+Un altar a Zin el Legislativo, hecho de plata tan prístino como los seguidores de Zin
+se espera que sea, y brillando suavemente.%%%%
 The endless lava
 
-A sea of fire and brimstone as far as the eye can see. Anyone venturing across
-it would be roasted in no time.
-%%%%
+Un mar de fuego y azufre hasta donde el ojo puede ver. Cualquiera que venga a través
+Sería asado en poco tiempo.%%%%
 The floor
 
-The floor.
-%%%%
+El suelo.%%%%
 Some deep water
 
-A pool of deep water. Only giant creatures can wade through this, and only
-those well-adapted to water can swim through it; for the rest, the only way
-through is to fly over.
-%%%%
+Una piscina de agua profunda. Sólo las criaturas gigantes pueden pasar por esto, y sólo
+aquellos bien adaptados al agua pueden nadar a través de ella; por el resto, la única manera
+a través es para volar.%%%%
 Some lava
 
-An intensely hot pool of molten rock, emitting clouds of sulphurous smoke.
-Nothing but the mythical salamander can cross this without flight.
-%%%%
+Una piscina intensamente caliente de roca fundida, emitiendo nubes de humo sulfuroso.
+Nada más que la mítica salamandra puede cruzar esto sin vuelo.%%%%
 Some shallow water
 
-A pool of cloudy, waist-deep water. Those well-adapted to water can swim
-through it and attack normally. Non-swimmers must wade through the water slowly
-and will occasionally fail to attack in melee when wading through shallow
-water; although large creatures are able to keep their balance, move at a
-normal speed, and avoid fumbling.
-%%%%
+Una piscina de agua nublada y despistada. Los bien adaptados al agua pueden nadar
+a través de ella y ataque normalmente. Los no-swimmers deben pasar por el agua lentamente
+y ocasionalmente no va a atacar en melee cuando va a través de sauce
+agua; aunque las grandes criaturas son capaces de mantener su equilibrio, moverse a un
+velocidad normal, y evitar el fumbling.%%%%
 A toxic bog
 
-A filthy pool of poisonous, waist-deep sludge. Wading or swimming through the
-sludge will damage and poison any creature, even those resistant to poison.
-Those well-adapted to water can swim through it and attack normally.
-Non-swimmers must wade through the water slowly and will occasionally fail to
-attack in melee when wading through shallow water; although large creatures are
-able to keep their balance, move at a normal speed, and avoid fumbling.
-%%%%
+Una sucia piscina de lodos venenosos, de cintura. Ojear o nadar a través de
+El lodo dañará y envenenará a cualquier criatura, incluso a aquellos resistentes al veneno.
+Aquellos bien adaptados al agua pueden nadar a través de él y atacar normalmente.
+Los no voladores deben pasar el agua lentamente y ocasionalmente no pueden
+ataque en la melee cuando se desperdicia a través del agua poco profunda; aunque las grandes criaturas son
+capaz de mantener su equilibrio, moverse a una velocidad normal, y evitar el fumbling.%%%%
 Some mud
 
-A thick layer of gritty mud. [[liquefied]]
-%%%%
+Una capa gruesa de barro grueso%%%%
 The open sea
 
-An expanse of endless wind and waves, with not a lighthouse in sight. Anyone
-venturing across it would be lost beyond all hope in short order.
-%%%%
+Una extensión de viento y olas interminables, sin un faro a la vista. Cualquiera
+Ventilar a través de ella se perdería más allá de toda esperanza en orden corto.%%%%
 An unnaturally hard rock wall
 
-A wall imbued with magic that makes it indestructible.
-%%%%
+Una pared imbuida de magia que lo hace indestructible.%%%%
 A wall of the weird stuff which makes up Pandemonium
 
-A wall made from the weird stuff which makes up Pandemonium. It seems to be
-like rock in most other aspects.
-%%%%
+Una pared hecha de las cosas raras que compone el Pandemonium. Parece ser
+como roca en la mayoría de otros aspectos.%%%%
 A crystal wall
 
-A wall made from polished crystal and imbued with arcane magics. They prevent
-its easy destruction, and make it reflect heat and cold.
-%%%%
+Una pared hecha de cristal pulido e impregnada de magias arcanas. Previenen
+su fácil destrucción, y hacerlo reflejar calor y frío.%%%%
 A translucent rock wall
 
-A rock wall made from a mineral as translucent as good quality glass. Whether
-it is natural or magical, you cannot tell.
-%%%%
+Una pared de roca hecha de un mineral tan translúcido como vidrio de buena calidad. Ya.
+es natural o mágico, no puedes decirlo.%%%%
 A translucent stone wall
 
-A harder obstacle than rock walls. Only the mightiest magic can shatter stone
-walls. It has been imbued with arcane magics which render it translucent.
-%%%%
+Un obstáculo más difícil que las paredes de roca. Sólo la magia más poderosa puede romper piedra
+paredes. Se ha impregnado de magias arcanas que lo hacen translúcido.%%%%
 A translucent unnaturally hard rock wall
 
-A wall imbued with magic that not only makes it indestructible but also makes
-it translucent like glass.
-%%%%
+Una pared imbuida de magia que no sólo la hace indestructible sino que también hace
+translúcido como vidrio.%%%%
 A stone wall
 
-A harder obstacle than rock walls. Only the mightiest magic can shatter stone
-walls.
-%%%%
+Un obstáculo más difícil que las paredes de roca. Sólo la magia más poderosa puede romper piedra
+paredes.%%%%
 A slime covered rock wall
 
-A rock wall coated with acidic green slime; just standing near it is enough to
-cause temporary corrosion.
-%%%%
+Una pared de roca recubierto con eslime verde ácido; sólo pararse cerca es suficiente para
+causar corrosión temporal.%%%%
 A metal wall
 
-A wall of bluish-grey metal. As every dungeon electrician knows, it will ground
-even magical bolts of lightning.
-%%%%
+Una pared de metal gris azulado. Como todo electricista de mazmorras lo sabe, se pondrá en tierra
+incluso tornillos mágicos de relámpago.%%%%
 A rock wall
 
-A wall consisting of simple rock.
-%%%%
+Una pared que consiste en roca simple.%%%%
 A frigid wall
 
-A wall that radiates a chill so intense it can damage enemies which stand next
-to it.
-%%%%
-########################################################################
-### Features
-########################################################################
+Una pared que irradia un escalofrío tan intenso que puede dañar a los enemigos que están al lado
+a ella.%%%%
 A shop
 
-A shop in the dungeon, beyond sight of the world above, manned by a secretive
-and reclusive shopkeeper who cannot be bargained with, grants no refunds, and
-is interested in nothing you may have to sell. Some shops hawk antiques of
-unknown provenance, and offer little hint as to the quality or nature of their
-goods.
-%%%%
+Una tienda en la mazmorra, más allá de la vista del mundo anterior, mantenida por un secreto
+y comprador reclusivo que no puede ser negociado con, no concede reembolsos, y
+no está interesado en nada que pueda tener que vender. Algunas tiendas de antigüedades de halcón
+procedencia desconocida, y ofrecer poca insinuación sobre la calidad o naturaleza de su
+bienes.%%%%
 A stone staircase leading down
 
-A staircase leading further down.
-%%%%
+Una escalera que conduce más abajo.%%%%
 A stone staircase leading up
 
-A staircase leading back up.
-%%%%
-# For the Vaults:5 staircases in and out.
+Una escalera que conduce hacia atrás.%%%%
 A metal staircase leading down
 
-A staircase leading down to the grand vaults containing the silver rune of Zot,
-whose wealth attracts the most powerful champions from across the Dungeon to its
-defence.
-%%%%
+Una escalera que conduce a las grandes bóvedas que contienen la columna de plata de Zot,
+cuya riqueza atrae a los más poderosos campeones de todo el Dungeon a su
+defensa.%%%%
 A metal staircase leading up
 
-A staircase leading up from the grand vaults containing the silver rune of Zot,
-whose wealth attracts the most powerful champions from across the Dungeon to its
-defence.
-%%%%
+Una escalera que conduce desde las grandes bóvedas que contienen la columna de plata de Zot,
+cuya riqueza atrae a los más poderosos campeones de todo el Dungeon a su
+defensa.%%%%
 A slimy stone staircase leading down
 
-A stone staircase leading further down.
+Una escalera de piedra que conduce más abajo.
 
-{{
-    if you.god() == "Jiyva" then
-        return "It is slick with slippery slime, but that is no obstacle for one " ..
-               "such as yourself who has embraced the way of all slime."
-    else
-        return "It is slick with slippery slime which will make it impossible " ..
-               "for you to climb back up again until the power ruling this place " ..
-               "is destroyed (or you choose to join it). However, being coated in " ..
-               "this slime will greatly increase your HP and MP regenaration for " ..
-               "short while afterward."
-    end
-}}
-%%%%
+{}
+si usted.god() == "Jiyva" entonces
+Regresa "Es deslizante con deslizamiento deslizante, pero eso no es obstáculo para uno ".
+"como tú que has abrazado el camino de todo el babo."
+más
+"Es deslizante con un deslizante deslizante que lo hará imposible"
+"para que vuelvas a subir hasta que el poder gobierne este lugar..."
+"es destruido (o eliges unirte a él). Sin embargo, ser recubierto en " ..
+"este slime aumentará enormemente su regenaración de HP y MP para " ..
+"corte mientras después."
+final
+}%%%%
 A slimy stone staircase leading up
 
-A stone staircase leading back up.
+Una escalera de piedra que conduce hacia atrás.
 
-{{
-    if you.god() == "Jiyva" then
-        return "It is slick with slippery slime, but that is no obstacle for one " ..
-               "such as yourself who has embraced the way of all slime."
-    else
-        return "It is slick with slippery slime, making it impossible for you to " ..
-               "climb until the power ruling this place is destroyed (or you choose " ..
-               "to join it)."
-    end
-}}
-%%%%
+{}
+si usted.god() == "Jiyva" entonces
+Regresa "Es deslizante con deslizamiento deslizante, pero eso no es obstáculo para uno ".
+"como tú que has abrazado el camino de todo el babo."
+más
+Regresa "Es deslizante con deslizante deslizante, haciendo que sea imposible para ti ".
+"Cambiar hasta que el poder que gobierne este lugar sea destruido (o elegir " ..
+"para unirse a él)."
+final
+}%%%%
 A tree
 
-A large tree. While in most places the dim light of the dungeon is not bright
-enough to sustain large plants, there are spots where, with the grace of
-Fedhas, trees as big as those on the surface can grow underground.
-%%%%
+Un árbol grande. Mientras que en la mayoría de los lugares la luz de la mazmorra no es brillante
+suficiente para sostener grandes plantas, hay lugares donde, con la gracia de
+Fedhas, árboles tan grandes como los de la superficie pueden crecer bajo tierra.%%%%
 A mangrove
 
-This tree is specially adapted for growing in swampy conditions. Its vines are
-too thick to see through.
-%%%%
+Este árbol está especialmente adaptado para crecer en condiciones de pantano. Sus vides son
+demasiado grueso para ver.%%%%
 A demonic tree
 
-A tree hideously warped by the demonic forces of chaos. Despite its bizarre
-appearance and occasional, unsettling movement, it seems harmless.
-%%%%
+Un árbol horriblemente atormentado por las fuerzas demoníacas del caos. A pesar de su extraño
+apariencia y movimiento ocasional, inquietante, parece inofensivo.%%%%
 A petrified tree
 
-An ancient tree, long ago passed from biology into geology. While no longer
-wooden in a material sense, it retains the spiritual qualities of a tree.
-%%%%
+Un árbol antiguo, hace mucho tiempo pasó de la biología a la geología. Mientras ya no
+madera en un sentido material, conserva las cualidades espirituales de un árbol.%%%%
 An abandoned shop
 
-A shop that has been abandoned.
-%%%%
+Una tienda abandonada.%%%%
 An orcish idol
 
-An idol of the orc god Beogh.
-%%%%
+Un ídolo del dios Orc Beogh.%%%%
 An iron grate
 
-A rusted iron grate, brittle enough to be disrupted with a spell or a wand
-quite easily. It is too strong to be breakable by hand, however.
-%%%%
+Una grata de hierro oxidado, lo suficientemente frágil para ser interrumpido con un hechizo o una varita
+bastante fácil. Sin embargo, es demasiado fuerte para ser irrompible a mano.%%%%
 An escape hatch in the floor
 
-A spring-loaded one-way escape hatch set in the dungeon floor, allowing the
-adventurer beset by adversaries to exchange the perils of this level for the
-perils of the next.
-%%%%
+Una escotilla de escape de un solo camino cargada en el piso de la mazmorra, permitiendo la
+aventurero por adversarios para intercambiar los peligros de este nivel para los
+peligros del siguiente.%%%%
 An escape hatch in the ceiling
 
-A spring-loaded one-way escape hatch set in the ceiling.
-%%%%
+Una escotilla de escape de un solo camino cargada en el techo.%%%%
 A shaft
 
-A hole in the ground, leading to a dungeon level one or more floors deeper.
-%%%%
+Un agujero en el suelo, que conduce a un nivel de mazmorra uno o más pisos más profundo.%%%%
 A sealed passage leading down
 
-A descending passage sealed tightly by a magical barricade. It is impossible to
-climb through it so long as the magic holds.
-%%%%
+Un pasaje descendente sellado firmemente por una barricada mágica. Es imposible
+Sube a través de ella mientras la magia sostiene.%%%%
 A sealed passage leading up
 
-An ascending passage sealed tightly by a magical barricade. It is impossible to
-climb through it so long as the magic holds.
-%%%%
+Un pasaje ascendente sellado firmemente por una barricada mágica. Es imposible
+Sube a través de ella mientras la magia sostiene.%%%%
 An empty arch of ancient stone
 
-A stone archway that seems to lead to nowhere in particular.
-%%%%
-# mmap/antennae/etc
+Un arco de piedra que parece llevar a ninguna parte en particular.%%%%
 A detected shop or portal
 
-A gateway of some kind. You cannot tell where it leads without approaching it.
-%%%%
+Una entrada de algún tipo. No puedes saber dónde conduce sin acercarte.%%%%
 A passage of Golubria
 
-An unstable gateway that allows instantaneous travel to another nearby passage
-of Golubria, and will close behind anything passing through it.
-%%%%
+Un portal inestable que permite viajar instantáneamente a otro pasaje cercano
+de Golubria, y cerrará todo lo que pase por ella.%%%%
 A portal to somewhere
 
-A gash-like tear in reality that looks into some terrifying, starry otherworld.
-Thankfully, the magic that opened it also prevents its vacuum from consuming
-and swallowing everything in sight.
-%%%%
+Una lágrima parecida a la gasa en realidad que mira a algún otro mundo aterrador y estrellado.
+Afortunadamente, la magia que la abrió también impide que su vacío consuma
+y tragar todo a la vista.%%%%
 A granite statue
 
-A stone statue whose features have long since withered away.
-%%%%
+Una estatua de piedra cuyas características se han marchitado mucho tiempo.%%%%
 A gleaming silver wall
 
-A wall made of pure silver, formed by the power of Zin to temporarily imprison
-a monster within its confines.
-%%%%
+Una pared hecha de plata pura, formada por el poder de Zin para encarcelar temporalmente
+un monstruo dentro de sus confines.%%%%
 A dry fountain
 
-A dried-up decorative fountain that has seen better days.
-%%%%
+Una fuente decorativa seca que ha visto mejores días.%%%%
 A fountain of clear blue water
 
-A decorative fountain, flowing with clear water.
-%%%%
+Una fuente decorativa, fluyendo con agua clara.%%%%
 A fountain of blood
 
-A decorative fountain, spurting with foul-looking blood.
-%%%%
+Una fuente decorativa, estimulando con sangre de aspecto nefasto.%%%%
 A fountain of eyes
 
-A decorative fountain, bubbling over with listless and unmoving eyes.
-%%%%
+Una fuente decorativa, colgando con ojos sin lista y sin movimiento.%%%%
 A fountain of sparkling water
 
-A decorative fountain, flowing with brightly sparkling, faintly magic water.
-%%%%
+Una fuente decorativa, fluyendo con agua brillantemente espumosa y débilmente mágica.%%%%
 A cache of baked goods
 
-A hoard of breadstuffs, baked and fried from minor divine gifts of flour and
-growth cultures, granted extended shelflife through sacred succour. You already
-carry as much food as you will ever need for this journey, but a light snack
-shouldn't hurt.
-%%%%
+Un montón de panes, horneado y frito de pequeños dones divinos de harina y
+las culturas de crecimiento, otorgan la vida útil extendida a través del sucour sagrado. Ya lo sabes.
+llevar tanto alimento como tú necesitará para este viaje, pero un aperitivo ligero
+No debería doler.%%%%
 A cache of fruit
 
-A pile of assorted fruit, ranging from common dungeon staples like chokos and
-snozzcumbers, to rarer treats such as apples and oranges. You already carry as
-much food as you will ever need for this journey, but the occasional nibble
-wouldn't hurt.
-%%%%
+Un montón de fruta surtida, que van desde grapas comunes de mazmorras como chokos y
+esnozzcumbers, a raras golosinas como manzanas y naranjas. Ya llevas como
+mucha comida como siempre necesitarás para este viaje, pero la burbuja ocasional
+No haría daño.%%%%
 A cache of meat
 
-A stash of preserved meats of varied origins and preparations: strips of jerky,
-lumpy smoked sausages, and indeterminate protein rations. You already carry as
-much food as you will ever need for this journey, but this could offer the rare
-chance to try out yak...
-%%%%
+Una vajilla de carnes conservadas de orígenes variados y preparaciones: franjas de cebo,
+salchichas ahumadas y raciones de proteína indeterminadas. Ya llevas como
+mucho alimento como tú necesitará para este viaje, pero esto podría ofrecer el raro
+oportunidad de probar yak...%%%%
 A runelight
 
-An unearthly, glittering light, floating and twisting in midair. A Rune of
-Zot is surely nearby, its power overspilling to cause this spectacular sight.
-%%%%
-# column_ruins
+Una luz descaradamente brillante, flotante y retorcida en el aire. Un Rune de
+Zot está seguramente cerca, su poder superando para causar esta espectacular vista.%%%%
 A broken pillar
 
-A ruined and crumbled stone pillar.
-%%%%
+Un pilar de piedra arruinado y desmoronado.%%%%
 A one-way staircase leading down
 
-A cursed staircase leading further down, imbued with magic to prevent any
-return back up the stairs. Adventurers taking this passage will need to find a
-return stairway somewhere else on the level where they arrive.
-%%%%
+Una escalera maldita que conduce más abajo, impregnada de magia para prevenir cualquier
+Regresa por las escaleras. Los aventureros que toman este pasaje tendrán que encontrar un
+volver escaleras en otro lugar en el nivel donde llegan.%%%%
 A one-way staircase leading up
 
-A cursed staircase leading up, imbued with magic to prevent any return back
-down the stairs. Adventurers taking this passage will need to find a return
-stairway somewhere else on the level where they arrive.
-%%%%
+Una escalera maldecida que conduce, impregnada de magia para evitar cualquier regreso
+por las escaleras. Los aventureros que toman este pasaje tendrán que encontrar un retorno
+escaleras en otro lugar en el nivel donde llegan.%%%%
 The orb dais
 
-A raised pedestal upon which rests the fabled Orb of Zot. More ancient than even
-the dungeon itself, it cannot be destroyed or transformed by any means.
-%%%%
+Un pedestal levantado sobre el cual descansa la fábula Orb de Zot. Más antiguo que incluso
+la mazmorra misma, no puede ser destruida o transformada por ningún medio.%%%%
 A statue of an orb of fire
 
-A statue of a terrifying globe of raw primordial fire, said to dwell within the
-Realm of Zot.
-%%%%
+Una estatua de un globo aterrador de fuego primitivo crudo, dijo morar dentro del
+Reino de Zot.%%%%
 A statue of an orb of winter
 
-A statue of a terrifying globe of uttermost cold, said to dwell within the
-Realm of Zot.
-%%%%
+Una estatua de un globo aterrador de frío absoluto, dijo que mora dentro del
+Reino de Zot.%%%%
 A statue of an orb of entropy
 
-A statue of a terrifying globe of profound nothingness, said to dwell within the
-Realm of Zot.
-%%%%
-########################################################################
-### Branch entrances and exits
-########################################################################
+Una estatua de un globo aterrador de profunda nada, dijo habitar dentro del
+Reino de Zot.%%%%
 A gate leading back out of this place
 
-A gate that will let you return whence you came.
-%%%%
+Una puerta que te permitirá regresar de donde viniste.%%%%
 A gate leading out of Pandemonium
 
-A gate leading back to the dungeon.
-%%%%
+Una puerta que conduce a la mazmorra.%%%%
 A gate leading to another region of Pandemonium
 
-A gate leading to yet another region of Pandemonium. There'll always be more.
-%%%%
+Una puerta que conduce a otra región de Pandemonium. Siempre habrá más.%%%%
 A one-way gate leading to the halls of Pandemonium
 
-A gate leading to the endless halls of Pandemonium.
-%%%%
+Una puerta que conduce a los interminables pasillos de Pandemonium.%%%%
 A staircase to the Depths
 
-A staircase leading to the Depths.
-%%%%
+Una escalera que conduce a los Depths.%%%%
 A gate to the Realm of Zot
 
-A gate leading to the Realm of Zot.
-%%%%
+Una puerta que conduce al reino de Zot.%%%%
 A gateway back into the Dungeon
 
-A gate which allows a feat popularly thought to be impossible: escaping Hell
-alive.
-%%%%
+Una puerta que permite una hazaña popularmente pensado ser imposible: escapar del infierno
+vivo.%%%%
 A gateway leading out of the Abyss
 
-A gateway out of the Abyss, shimmering and shifting in the impermanent
-landscape.
-%%%%
+Una puerta fuera del abismo, brillando y cambiando en el impermanente
+paisaje.%%%%
 A gateway leading deeper into the Abyss
 
-A strangely calm gateway amid the roiling landscape of the Abyss. It leads
-further into the depths of the Abyss.
-%%%%
+Una puerta de entrada extrañamente tranquila en medio del paisaje rugiente del Abismo. Lleva
+más allá de las profundidades del Abismo.%%%%
 A gateway to a ziggurat
 
-A portal leading to a ziggurat.
-%%%%
+Un portal que conduce a un ziggurat.%%%%
 A gateway to the ashen valley of Gehenna
 
-A gateway leading to Gehenna.
-%%%%
+Un portal que conduce a Gehenna.%%%%
 A gateway leading out of Gehenna
 
-A gateway leading back to the Vestibule of Hell.
-%%%%
+Una puerta que conduce al Vestibule del Infierno.%%%%
 A gateway to Hell
 
-A gateway leading to the Vestibule of Hell. Few would go there voluntarily.
-%%%%
+Una puerta que conduce al Vestibule del Infierno. Pocos irían voluntariamente.%%%%
 A gateway to the Iron City of Dis
 
-A gateway leading to the Iron City of Dis.
-%%%%
+Una puerta de entrada que conduce a la Ciudad de Hierro de Dis.%%%%
 A gateway leading out of Dis
 
-<A gateway leading out of Gehenna>
-%%%%
+<A gateway leading out of Gehenna>%%%%
 A gateway to the decaying netherworld of Tartarus
 
-A gateway leading to Tartarus.
-%%%%
+Una puerta de entrada que conduce a Tartarus.%%%%
 A gateway leading out of Tartarus
 
-<A gateway leading out of Gehenna>
-%%%%
+<A gateway leading out of Gehenna>%%%%
 A gateway to the freezing wastes of Cocytus
 
-A gateway leading to Cocytus.
-%%%%
+Un portal que conduce a Cocytus.%%%%
 A gateway leading out of Cocytus
 
-<A gateway leading out of Gehenna>
-%%%%
-
+<A gateway leading out of Gehenna>%%%%
 A hole to the Spider Nest
 
-A passage leading to the Spider Nest.
-%%%%
+Un pasaje que conduce al Nido Araña.%%%%
 A one-way gate to the infinite horrors of the Abyss
 
-A gateway leading to the Abyss.
-%%%%
+Una puerta de entrada que conduce al Abismo.%%%%
 A crawl-hole back to the Lair
 
-A passage leading back to the Lair of Beasts.
-%%%%
+Un pasaje que lleva al Lair de las Bestias.%%%%
 An exit through the horrors of the Abyss
 
-A gateway leading back to the dungeon via the madness of the Abyss.
-%%%%
+Una puerta que conduce a la mazmorra a través de la locura del Abismo.%%%%
 A staircase back to the Dungeon
 
-A staircase leading back up to the familiarity of the dungeon.
-%%%%
+Una escalera que conduce a la familiaridad de la mazmorra.%%%%
 A staircase back to the Lair
 
-A staircase leading back up to the Lair of Beasts.
-%%%%
+Una escalera que lleva al Lair de las Bestias.%%%%
 A staircase back to the Mines
 
-A staircase leading back to the Orcish Mines.
-%%%%
+Una escalera que conduce a las minas orcish.%%%%
 A staircase back to the Vaults
 
-A staircase leading back to the Vaults.
-%%%%
+Una escalera que conduce a los Vaults.%%%%
 A staircase leading out of the dungeon
 
-This staircase leads back out of the dungeon.
+Esta escalera conduce de regreso de la mazmorra.
 
-A staircase leading out of the dungeon. Climbing these stairs will end your
-quest, whether you carry the Orb with you or not.
-%%%%
+Una escalera que sale de la mazmorra. Subiendo estas escaleras terminará tu
+búsqueda, ya sea que lleves el Orbe contigo o no.%%%%
 A staircase back to the Crypt
 
-A staircase leading back to the Crypt.
-%%%%
+Una escalera que lleva al Crypt.%%%%
 A staircase to the Crypt
 
-A staircase leading to the Crypt.
-%%%%
+Una escalera que conduce al Crypt.%%%%
 A staircase to the Ecumenical Temple
 
-A staircase leading to the Ecumenical Temple.
-%%%%
+Una escalera que conduce al Templo Ecuménico.%%%%
 A staircase to the Elven Halls
 
-A staircase leading to the Elven Halls.
-%%%%
+Una escalera que conduce a los Elven Halls.%%%%
 A staircase to the Lair
 
-A staircase leading to the Lair of Beasts.
-%%%%
+Una escalera que conduce al Lair de las Bestias.%%%%
 A staircase to the Orcish Mines
 
-A staircase leading to the Orcish Mines.
-%%%%
+Una escalera que conduce a las Minas Orcish.%%%%
 A staircase to the Shoals
 
-A staircase leading to the Shoals.
-%%%%
+Una escalera que conduce a los zapatos.%%%%
 A staircase to the Slime Pits
 
-A staircase leading to the Slime Pits.
-%%%%
+Una escalera que conduce a los Slime Pits.%%%%
 A staircase to the Snake Pit
 
-A staircase leading to the Snake Pit.
-%%%%
+Una escalera que conduce al Snake Pit.%%%%
 A staircase to the Swamp
 
-A staircase leading to the Swamp.
-%%%%
+Una escalera que conduce al pantano.%%%%
 A staircase to the Tomb
 
-A staircase leading to the Tomb of the Ancients.
-%%%%
+Una escalera que conduce a la Tumba de los Antiguos.%%%%
 A gate to the Vaults
 
-A gateway leading to the Vaults.
-%%%%
+Un portal que conduce a los Vaults.%%%%
 A transporter
 
-A one-way portal to another place on this level. When using a transporter,
-adjacent allies and monsters will travel with you to the other side.
-%%%%
+Un portal de ida a otro lugar en este nivel. Al usar un transportador,
+aliados y monstruos adyacentes viajarán contigo al otro lado.%%%%
 A transporter landing site
 
-The destination site of a transporter. As the portal is one-way, you cannot use
-this location to return back through the transporter.
-%%%%
-########################################################################
-## Doors
-########################################################################
+El destino de un transportador. Como el portal es de una sola dirección, no puedes usar
+esta ubicación para volver a través del transportador.%%%%
 An open door
 
-An open wooden door. If closed again, all monsters that can wield equipment,
-and some of them that can't, could open it again. If it is closed and reopened
-by a monster that is aware of you, it has a chance of breaking.
-%%%%
+Una puerta de madera abierta. Si se cierra de nuevo, todos los monstruos que pueden pelar el equipo,
+y algunos de ellos que no pueden, podrían abrirlo de nuevo. Si está cerrado y reabierto
+por un monstruo que es consciente de ti, tiene una oportunidad de romper.%%%%
 A closed door
 
-A closed wooden door. All monsters that can wield equipment, and some of them
-that can't, may open it again. If it is opened by a monster while it is aware
-of you, it has a chance of breaking.
-%%%%
+Una puerta de madera cerrada. Todos los monstruos que pueden pelar el equipo, y algunos de ellos
+Eso no puede, puede abrirlo de nuevo. Si es abierto por un monstruo mientras que es consciente
+tiene la oportunidad de romper.%%%%
 A broken door
 
-A disappointingly poorly maintained wooden door. It'd take nothing short of
-magic to get this properly closed again.
-%%%%
+Una puerta de madera mal mantenida. No tardaría nada.
+magia para hacer esto bien cerrado de nuevo.%%%%
 An open translucent door
 
-An open door made from magically translucent wood. If closed again, all monsters
-that can wield equipment, and some of them that can't, could open it again. If
-it is closed and reopened by a monster that is aware of you, it has a chance of
-breaking.
-%%%%
+Una puerta abierta hecha de madera mágicamente translúcida. Si se cierra de nuevo, todos los monstruos
+que puede limpiar el equipo, y algunos de los que no pueden, podrían abrirlo de nuevo. Si
+está cerrado y reabierto por un monstruo que es consciente de tú, tiene una oportunidad de
+rompiendo.%%%%
 A closed translucent door
 
-A closed door made from magically translucent wood. All monsters that can wield
-equipment, and some of them that can't, may open it again. If it is opened by a
-monster while it is aware of you, it has a chance of breaking.
-%%%%
+Una puerta cerrada hecha de madera mágicamente translúcida. Todos los monstruos que pueden pelar
+El equipo, y algunos de los que no pueden, pueden abrirlo de nuevo. Si es abierto por un
+monstruo mientras es consciente de ti, tiene una oportunidad de romper.%%%%
 A broken translucent door
 
-<A broken door>
-%%%%
+<A broken door>%%%%
 A sealed door
 
-A door sealed tightly by arcane runes. It refuses to open for any creature not
-recognised by its magic.
-%%%%
+Una puerta sellada firmemente por arcane runes. Se niega a abrir para cualquier criatura no
+reconocida por su magia.%%%%
 A runed door
 
-A door, covered in runic writing. It looks like there is something special
-behind it — perhaps danger, perhaps treasure. You may break the runes by
-opening it like any other door, but creatures of the dungeon will not dare
-to try.
-%%%%
+Una puerta, cubierta de escritura escénica. Parece que hay algo especial
+detrás de ella — quizás peligro, quizás tesoro. Puede romper las runas por
+abrirla como cualquier otra puerta, pero las criaturas de la mazmorra no se atreverán
+para intentarlo.%%%%
 A runed translucent door
 
-A door, covered in runic writing, made from magically translucent wood. It has
-been created to seal away great danger or glorious treasure. You may break the
-runes by opening it like any other door, but creatures of the dungeon will not
-dare to try.
-%%%%
+Una puerta, cubierta de escritura escénica, hecha de madera mágicamente translúcida. Tiene
+fue creado para sellar un gran peligro o un tesoro glorioso. Tú puede romper el
+corre abriendo como cualquier otra puerta, pero las criaturas de la mazmorra no
+Me atrevo a intentarlo.%%%%
 A large runed translucent door
 
-<A runed translucent door>
-%%%%
+<A runed translucent door>%%%%
 A runed translucent gate
 
-<A runed translucent door>
-%%%%
+<A runed translucent door>%%%%
 A huge runed translucent gate
 
-<A runed translucent door>
-%%%%
+<A runed translucent door>%%%%
 A large open door
 
-<An open door>
-%%%%
+<An open door>%%%%
 An open gate
 
-<An open door>
-%%%%
+<An open door>%%%%
 A huge open gate
 
-<An open door>
-%%%%
+<An open door>%%%%
 A large closed door
 
-<A closed door>
-%%%%
+<A closed door>%%%%
 A closed gate
 
-<A closed door>
-%%%%
+<A closed door>%%%%
 A huge closed gate
 
-<A closed door>
-%%%%
+<A closed door>%%%%
 A large runed door
 
-<A runed door>
-%%%%
+<A runed door>%%%%
 A runed gate
 
-<A runed door>
-%%%%
+<A runed door>%%%%
 A huge runed gate
 
-<A runed door>
-%%%%
+<A runed door>%%%%
 A large sealed door
 
-<A sealed door>
-%%%%
+<A sealed door>%%%%
 A sealed gate
 
-<A sealed door>
-%%%%
+<A sealed door>%%%%
 A huge sealed gate
 
-<A sealed door>
-%%%%
+<A sealed door>%%%%
 A large broken door
 
-<A broken door>
-%%%%
+<A broken door>%%%%
 A broken gate
 
-<A broken door>
-%%%%
+<A broken door>%%%%
 A huge broken gate
 
-<A broken door>
-%%%%
+<A broken door>%%%%
 A large translucent open door
 
-<An open translucent door>
-%%%%
+<An open translucent door>%%%%
 An open translucent gate
 
-<An open translucent door>
-%%%%
+<An open translucent door>%%%%
 A huge open translucent gate
 
-<An open translucent door>
-%%%%
+<An open translucent door>%%%%
 A large translucent closed door
 
-<A closed translucent door>
-%%%%
+<A closed translucent door>%%%%
 A closed translucent gate
 
-<A closed translucent door>
-%%%%
+<A closed translucent door>%%%%
 A huge closed translucent gate
 
-<A closed translucent door>
-%%%%
+<A closed translucent door>%%%%
 A large translucent broken door
 
-<A broken translucent door>
-%%%%
+<A broken translucent door>%%%%
 A broken translucent gate
 
-<A broken translucent door>
-%%%%
+<A broken translucent door>%%%%
 A huge broken translucent gate
 
-<A broken translucent door>
-%%%%
-########################################################################
-### Traps
-########################################################################
+<A broken translucent door>%%%%
 An alarm trap
 
-A trap that creates a loud noise to attract nearby monsters. In addition to the
-noise it creates, it will apply an enchantment making monsters all over the
-level aware of your location. Hostile monsters may trigger this trap themselves
-to invoke its effects against you, but your allies will avoid stepping on it.
-%%%%
+Una trampa que crea un ruido fuerte para atraer monstruos cercanos. Además de la
+ruido que crea, se aplicará un encantamiento haciendo monstruos por todas partes
+nivel consciente de su ubicación. Los monstruos hostiles pueden desencadenar esta trampa ellos mismos
+para invocar sus efectos contra tú, pero sus aliados evitarán el paso en ella.%%%%
 An archmage's trap
 
-A magical trap crafted by some avaricious master wizard. When you or a hostile
-monster steps on it, you will lose a percentage of your mp, while up to three of
-the strongest hostile spellcasters in sight will have their spells empowered.
-Your allies will avoid stepping on it.
-%%%%
+Una trampa mágica hecha por un mago avaricioso. Cuando tú o un enemigo
+monstruo pasos en él, tú perderá un porcentaje de su mp3, mientras que hasta tres de
+los más fuertes y hostiles a la vista tendrán sus hechizos empoderados.
+Sus aliados evitarán pisarlo.%%%%
 A devourer's trap
 
-A magical trap linked by divine cruelty to the stomachs of some unfathomable
-interdimensional predators. When you or a hostile monster steps on it, it has a
-high chance it will expel digestive acid onto you, corroding you. Your allies
-will avoid stepping on it.
-%%%%
+Una trampa mágica ligada por la crueldad divina a los estómagos de algunos insondables
+Depredadores interdimensionales. Cuando tú o un monstruo hostil pisa sobre él, tiene un
+alto riesgo que expulsará el ácido digestivo sobre ti, corroeándote. Tus aliados
+evitará pisarlo.%%%%
 A dispersal trap
 
-Anyone stepping on this trap will translocate themselves and anyone else in view
-to a new location nearby. Hostile monsters may trigger this trap, but your
-allies will avoid stepping on it.
+Cualquiera que pise en esta trampa se translocará a sí mismo y a cualquier otro en vista
+a una nueva ubicación cerca. Los monstruos hostiles pueden desencadenar esta trampa, pero tu
+Los aliados evitarán pisarlo.
 
-After triggering, it cannot be triggered again for several turns.
-%%%%
+Después de desencadenar, no se puede activar de nuevo para varias vueltas.%%%%
 A dispersal trap (recharging)
 
 [[A dispersal trap]]
 
-It is currently recharging and will become active again in a short while.
-%%%%
+Actualmente se está recargando y se volverá activo en poco tiempo.%%%%
 A harlequin's trap
 
-A magical trap left behind by the ineffable, spectacular revues of chaos. When
-you or a hostile monster steps on it, up to three of the strongest monsters in
-sight will have their attacks temporarily interwoven with a touch of chaos. Your
-allies will avoid stepping on it.
-%%%%
+Una trampa mágica que dejó atrás por las inefables y espectaculares ruinas del caos. Cuando
+tú o un monstruo hostil pisa sobre él, hasta tres de los monstruos más fuertes en
+la vista tendrá sus ataques temporalmente entretejidos con un toque de caos. Tu
+Los aliados evitarán pisarlo.%%%%
 A net trap
 
-A large concealed net launcher hanging from the dungeon's ceiling. Enchanted by
-the power of Zot, whenever an intelligent creature steps here - whether friend
-or foe - the net will land only on you.
-%%%%
+Un gran lanzador de redes ocultas colgando del techo de la mazmorra. Encantado por
+el poder de Zot, cada vez que una criatura inteligente camina aquí - si amigo
+o enemigo - la red aterrizará sólo en tú.%%%%
 A permanent teleport trap
 
-A magical trap which will displace anyone passing over it to a random place on
-the same dungeon level.
-%%%%
+Una trampa mágica que desplazará a cualquiera que la pase a un lugar aleatorio
+el mismo nivel de mazmorras.%%%%
 A pressure plate
 
-A trigger of some sort. You cannot tell what kind of trap it is attached to.
-Its complicated detection system will trigger the trap even when someone flies
-over it.
-%%%%
+Un gatillo de algún tipo. No puedes decir a qué clase de trampa está apegada.
+Su complicado sistema de detección desencadenará la trampa incluso cuando alguien vuela
+sobre él.%%%%
 A spike launcher
 
-A magical contraption which skewers nearby monsters with sharp spikes. It will
-disintegrate after a short length of time or if the caster strays too far away
-from it.
-%%%%
+Un artilugio mágico que corta monstruos cercanos con puntas afiladas. Lo hará.
+desintegrarse después de una corta duración o si la casta se aleja demasiado lejos
+de ella.%%%%
 A teleport trap
 
-A magical trap which will displace anyone passing over it to a random place on
-the same dungeon level. It is worn with age, and will dissipate on use.
-%%%%
+Una trampa mágica que desplazará a cualquiera que la pase a un lugar aleatorio
+el mismo nivel de mazmorras. Se usa con la edad, y se disipará en el uso.%%%%
 A tyrant's trap
 
-A magical trap built to bolster the armies of some conquering despot. When you
-or a hostile monster steps on it, your melee attacks will be weakened to make
-up to three of the most dangerous monsters in sight become stronger. Your
-allies will avoid stepping on it.
-%%%%
+Una trampa mágica construida para reforzar los ejércitos de algún depósito conquistador. Cuando tú
+o un monstruo hostil pisa sobre él, tus ataques de melee serán debilitados para hacer
+hasta tres de los monstruos más peligrosos a la vista se vuelven más fuertes. Tu
+Los aliados evitarán pisarlo.%%%%
 A web
 
-A spider's web. The spider who left it must have been huge, as it seems to be
-made for trapping {{ return you.genus(true) }} rather than flies.
-%%%%
+La web de una araña. La araña que lo dejó debe haber sido enorme, como parece ser
+hecho para capturar {{ devolverte.genus(true)} en lugar de moscas.%%%%
 A Zot trap
 
-A trap which inflicts dangerously unpredictable magical effects on those
-unlucky enough to step on it. You may find yourself petrified, contaminated
-with enormous amounts of wild magic, have mighty fiends summoned against you,
-or the like. Hostile monsters may trigger this trap themselves to invoke its
-effects against you, but your allies will avoid stepping on it.
-%%%%
-########################################################################
-### Portal vault entrances
-########################################################################
+Una trampa que inflige efectos mágicos peligrosamente impredecibles en aquellos
+lo suficientemente desafortunado como para pisarlo. Tú puede encontrarse petrificado, contaminado
+con enormes cantidades de magia salvaje, tienen poderosos amigos convocados contra ti,
+o algo así. Los monstruos hostiles pueden desencadenar esta trampa para invocar su
+efectos contra ti, pero tus aliados evitarán pisarlo.%%%%
 A flagged portal
 
-A portal leading to a bailey, gradually fading away as the standard is lowered
-to the ground.
-%%%%
+Un portal que conduce a un baile, desapareciendo gradualmente a medida que el estándar se reduce
+al suelo.%%%%
 A gauntlet entrance
 
-A portal leading to a gauntlet.
-%%%%
-# timed bazaar
+Un portal que conduce a un guante.%%%%
 A flickering gateway to a bazaar
 
-A portal leading to a bazaar, where itinerant merchants gather to sell their
-wares. They never stay in one place for very long.
-%%%%
-# permanent bazaar
+Un portal que conduce a un bazar, donde los comerciantes itinerantes se reúnen para vender sus
+Wares. Nunca se quedan en un lugar por mucho tiempo.%%%%
 A gateway to a bazaar
 
-A portal leading to a bazaar, where itinerant merchants gather to sell their
-wares. They will wait for you, but once you get a chance to browse their
-inventory, the merchants will depart in search of other customers.
-%%%%
+Un portal que conduce a un bazar, donde los comerciantes itinerantes se reúnen para vender sus
+Wares. Te esperarán, pero una vez que tengas la oportunidad de navegar por sus
+inventario, los comerciantes partirán en busca de otros clientes.%%%%
 A phantasmal passage
 
-A portal leading to one of many Necropolis repositories, where the freshly slain
-and deeply resentful are sealed away. This wandering rift will eventually move
-elsewhere to receive further dead.
-%%%%
+Un portal que conduce a uno de muchos repositorios de Necropolis, donde los recién muertos
+y profundamente resentido están sellados. Este rift vagando eventualmente se moverá
+en otro lugar para recibir más muertos.%%%%
 A frozen archway
 
-A portal leading to an ice cave. The archway is gradually melting away.
-%%%%
+Un portal que conduce a una cueva de hielo. El arco se está derritiendo gradualmente.%%%%
 A glacial archway
 
-A portal leading to a glacial chasm, far more dangerous than the icy caverns
-found in the shallower reaches of the Dungeon. The archway is gradually melting
-away.
-%%%%
+Un portal que conduce a un chasis glacial, mucho más peligroso que las cavernas heladas
+encontrado en los extremos del Dungeon. El arco se derrite gradualmente
+lejos.%%%%
 A sand-covered staircase
 
-A staircase leading to an ossuary. Sand is continuously pouring onto it,
-gradually blocking the entrance.
-%%%%
+Una escalera que conduce a un osario. Sand está continuamente derramando sobre él,
+bloqueando gradualmente la entrada.%%%%
 A glowing drain
 
-A passage leading to a sewer. It is gradually rusting away.
-%%%%
+Un pasaje que conduce a una alcantarilla. Se está oxidando gradualmente.%%%%
 A portal to a secret trove of treasure
 
-A portal leading to a treasure trove. This portal is unstable and will collapse
-after a single use.
-%%%%
+Un portal que conduce a un tesoro. Este portal es inestable y colapsará
+después de un solo uso.%%%%
 A dark tunnel
 
-A portal leading to the heart of a volcano. Rocks are falling from the roof and
-sides of the tunnel, filling the entry.
-%%%%
+Un portal que conduce al corazón de un volcán. Las rocas están cayendo del techo y
+los lados del túnel, llenando la entrada.%%%%
 A crumbling gateway
 
-A salt-encrusted arch, covered with carved entreaties to the good gods to
-contain the evils sealed therein. Whatever protections this arch once offered
-have finally succumbed to the ravages of time, and a bitter breeze pours forth
-from the distant land beyond.
-%%%%
+Un arco de corte de sal, cubierto de regalías talladas a los buenos dioses
+contienen los males sellados en ellos. Cualquiera que sea la protección de este arco una vez ofrecido
+finalmente han sucumbido a los estragos del tiempo, y una brisa amarga derrama
+de la tierra distante más allá.%%%%
 A magical portal
 
-A portal leading to a wizard's laboratory. It is fading away.
-%%%%
-# These should get custom names instead. Currently used by: IceCv, Ossuary,
-# Sewer, Trove, Volcano.
+Un portal que conduce al laboratorio de un mago. Se está desvaneciendo.%%%%
 A collapsed entrance
 
-A collapsed passage which cannot be used anymore.
-%%%%
-########################################################################
-### Portal redefinitions
-########################################################################
-# Necropolis
+Un pasaje colapsado que ya no se puede utilizar.%%%%
 An archival metal wall
 
-An ensorcelled metal wall coated in an inscrutable non-linear script, recording
-the regrets of the interred and their visitors alike. As with all metal walls,
-it is next to impossible to destroy, and will ground all varieties of bounding
-lightning.
-%%%%
-# sewer_minmay_treatment (Sewer)
+Una pared metálica ensorcelada recubierta en un guión inescrutable no lineal, grabando
+los pesares de los interred y sus visitantes por igual. Como con todas las paredes metálicas,
+es casi imposible de destruir, y plantará todas las variedades de amarrado
+Rayos.%%%%
 A large window
 
-A window embedded in the side of an enormous metal pipe, allowing observation
-of the water flowing inside.
-%%%%
-# Ice Cave
+Una ventana incrustada en el lado de una enorme tubería de metal, permitiendo la observación
+del agua que fluye dentro.%%%%
 An ice choked empty arch of ancient stone
 
-An inoperative portal, nearly completely encased in a mass of ice.
-%%%%
+Un portal inoperante, casi completamente envuelto en una masa de hielo.%%%%
 An ice covered gate leading back out of this place
 
-A portal leading back to the place you came from. Its magic is holding the ice
-at bay, preventing it from blocking the gate. You will be unable to return here
-once you pass through it.
-%%%%
+Un portal que lleva al lugar del que viniste. Su magia sostiene el hielo
+a la bahía, impidiendo que bloquee la puerta. Tú será incapaz de regresar aquí
+una vez que lo pases.%%%%
 An ice covered rock wall
 
-A rock wall covered by a thick layer of frost and ice.
-%%%%
-Some ice crusted deep water
+Una pared de roca cubierta por una capa gruesa de helada y hielo.%%%%
+Some ice crtú deep water
 
-A pool of deep water, crusted with broken blocks of ice.
-%%%%
-Some ice crusted shallow water
+Una piscina de agua profunda, crujiente con bloques rotos de hielo.%%%%
+Some ice crtú shallow water
 
-A pool of shallow water, crusted with broken blocks of ice.
-%%%%
-# volcanos
+Un estanque de aguas poco profundas, crujido con bloques rotos de hielo.%%%%
 A rock-blocked tunnel
 
-A tunnel which is no longer passable.
-%%%%
+Un túnel que ya no es transitable.%%%%
 A rocky tunnel leading out of this place
 
-An unstable passage in the volcanic rock, admitting a draft of cool air from
-beyond. It leads back to the place you came from. You will be unable to return
-here once you pass through it.
-%%%%
-# Desolation
+Un pasaje inestable en la roca volcánica, admitiendo un borrador de aire fresco de
+más allá. Lleva de vuelta al lugar del que viniste. Tú será incapaz de regresar
+una vez que lo pases.%%%%
 An endless expanse of salt
 
-A seemingly endless, flat plain, wracked by blinding salt-storms. Anyone
-venturing across it would be lost beyond all hope in short order.
-%%%%
-# Desolation
+Una llanura plana, aparentemente interminable, afligida por las tormentas de sal cegadoras. Cualquiera
+Ventilar a través de ella se perdería más allá de toda esperanza en orden corto.%%%%
 A ruined idol
 
-A monument to the glory of a dead god. The statue has been methodically
-defaced; not a single distinguishing feature remains.
-%%%%
-# wizlabs
+Un monumento a la gloria de un dios muerto. La estatua ha sido metódicamente
+desfavorecido; no una sola característica distintiva permanece.%%%%
 A portal leading out of this place
 
-A shimmering magical gate leading back to the place you came from. You will be
-unable to return here once you pass through it.
-%%%%
-# wizlab: Wucad Mu
+Una puerta mágica brillante que conduce al lugar del que viniste. Lo serás
+incapaz de volver aquí una vez que pasa por ella.%%%%
 An autumnal tree
 
-A large tree that appears to be permanently locked in an autumnal moment.
-Leaves, coloured red and gold, fall from its branches and float gracefully to
-the floor, but before they even reach the ground they shimmer and reappear on
-the branches, ready to fall again.
-%%%%
+Un gran árbol que parece estar permanentemente encerrado en un momento otoñal.
+Las hojas, de color rojo y oro, caen de sus ramas y flotan con gracia a
+el piso, pero antes de que lleguen a la tierra brillan y vuelven a aparecer
+las ramas, listas para caer de nuevo.%%%%
 A crumbled stone wall
 
-A stone wall on the brink of collapsing from disrepair but somehow remaining
-standing, seemingly frozen in time.
-%%%%
+Una pared de piedra en el borde de colapsar de desrepair pero de alguna manera permanecer
+de pie, aparentemente congelado en el tiempo.%%%%
 A strange statue
 
-A statue with strange and alien features. Is it because the statue is worn and
-tarnished that it has become so unrecognisable? Or is it that the subject was
-something demonic and evil?
-%%%%
-# wizlab: Doroklohe
+Una estatua con rasgos extraños y extraños. Es porque la estatua está vestida
+empañado que se ha vuelto tan irreconocible? O es que el tema era
+¿algo demoníaco y malo?%%%%
 A strange rock wall
 
-A wall decorated with images you might see in a tomb.
-%%%%
+Un muro decorado con imágenes que se puede ver en una tumba.%%%%
 A highly decorated stone wall
 
-A wall covered with disturbing, horrifying images.
-%%%%
+Una pared cubierta de imágenes inquietantes y horrorosas.%%%%
 The rough-hewn floor
 
-The floor. It is rough and uneven in places.
-%%%%
-# wizlab: Cigotuvi
+El suelo. Es duro y desigual en lugares.%%%%
 Viscous fluid
 
-A sticky fluid which seems to be secreted by the nearby walls. It looks
-disgusting.
-%%%%
+Un fluido pegajoso que parece ser secreto por las paredes cercanas. Se ve
+asqueroso.%%%%
 A sinewy wall
 
-A wall that looks strangely organic, but incredibly tough and durable.
-%%%%
+Una pared que parece extrañamente orgánica, pero increíblemente dura y duradera.%%%%
 A thin membrane
 
-A strange membrane, thin enough to see through.
-%%%%
+Una extraña membrana, lo suficientemente delgada para ver.%%%%
 The pulsating floor
 
-The floor. It pulses to an unknown beat.
-%%%%
+El suelo. Le da pulso a un ritmo desconocido.%%%%
 A broken fleshy orifice
 
-It seems to be oozing quietly. Best not to touch it.
-%%%%
-# wizlab: Zonguldrok
+Parece estar rezuzando silenciosamente. Mejor no tocarlo.%%%%
 Zonguldrok's gravestone
 
-A gravestone of the house of Zonguldrok, still dripping with brackish ichor.
-%%%%
+Una lápida de la casa de Zonguldrok, todavía goteando con el ichor brackish.%%%%
 A gravestone
 
-A nameless grave.
-%%%%
-# wizlab: Golubria
+Una tumba sin nombre.%%%%
 The dimension's edge
 
-The edge of this tiny, isolated plane, where space itself dissolves into
-oblivion. Entering or affecting this black void is impossible.
-%%%%
+El borde de este pequeño y aislado plano, donde el espacio en sí se disuelve
+olvido. Entrar o afectar este vacío negro es imposible.%%%%
 A wall of crystal
 
-<A crystal wall>
-%%%%
-# wizlab: Cloud Mage
+<A crystal wall>%%%%
 The damp floor
 
-The floor. It remains forever damp, perhaps due to the humidity or the constant
-flow of clouds.
-%%%%
+El suelo. Queda para siempre húmedo, quizás debido a la humedad o a la constante
+flujo de nubes.%%%%
 A wall of orange crystal
 
-A wall made from orange crystal. It has a mind-boggling sheen.
-%%%%
+Una pared hecha de cristal naranja. Tiene un cobertizo lleno de mente.%%%%
 A wall of white crystal
 
-A wall made from low-grade crystal with an opalescent gleam.
-%%%%
-# wizlab: Hellbinder
+Una pared hecha de cristal de baja calidad con un brillo opalescente.%%%%
 A black wall
 
-A wall made perhaps from stone, or solid charcoal, or a substance found only in
-the deepest hells.
-%%%%
+Una pared hecha tal vez de piedra, o carbón sólido, o una sustancia encontrada sólo en
+los infiernos más profundos.%%%%
 A carved rock wall
 
-A wall decorated with images of death and destruction.
-%%%%
-# Crucible of Flesh
+Un muro decorado con imágenes de muerte y destrucción.%%%%
 An unnaturally hard bloodstone wall
 
-An indestructible bulwark, wrought from blood and tempered in the suffering of
-mortal lives beyond count.
-########################################################################
+Un baluarte indestructible, hecho de sangre y templado en el sufrimiento
+vidas mortales más allá de la cuenta.
+################################################################################################################################################################################################################################################################
 ### Vault redefinitions
-########################################################################
-%%%%
+################################################################################################################################################################################################################################################################%%%%
 A metal statue
 
-A base type statue for other statue flavours. If you see this, file a bug
-report.
-%%%%
+Una estatua de tipo base para otros sabores de estatua. Si ves esto, archiva un error
+reporte.%%%%
 A decorative floor
 
-A base floor type for various decorations one can walk over. If you see this,
-file a bug report.
-%%%%
-# Necropolis.
+Un tipo de piso base para varias decoraciones se puede pasear. Si ves esto,
+presentar un informe de fallos.%%%%
 A tree of woe
 
-A half-alive tree burdened with fruits of crystallised sorrow.
-%%%%
+Un árbol medio vivo cargado con frutos de dolor cristalizado.%%%%
 A dead tree
 
-The dry remains of a long-dead tree.
-%%%%
+Los restos secos de un árbol de larga data.%%%%
 A dead mangrove
 
-The dry remains of a long-dead mangrove.
-%%%%
-# Dis vaults
+Los restos secos de un manglar largo.%%%%
 A bloodied mop and bucket
 
-A mop and bucket soaked with the bloody aftermath of demonic torture.
-%%%%
-# Dis:7
+Un trapo y un cubo empapados con las consecuencias sangrientas de la tortura demoníaca.%%%%
 An iron statue
 
-A statue of an ancient warrior, festooned with trophies from fallen victims.
-Some dark substance oozes from the gaps in its visor; surely it must be oil..?
-%%%%
-# Gehenna vaults
+Una estatua de un antiguo guerrero, coronada con trofeos de víctimas caídas.
+Alguna sustancia oscura se opone de las lagunas en su visera; seguramente debe ser aceite.?%%%%
 An infernal standard
 
-A blazing flag of cruel conquest, planted amid the ruins of many a fallen
-kingdom to claim their ashes in the name of Hell.
-%%%%
-# Geh:7
+Una bandera de cruel conquista, plantada en medio de las ruinas de muchos caídos
+reino para reclamar sus cenizas en el nombre del infierno.%%%%
 Ashen ground
 
-Ash and embers, littered with broken treasures and worthless coins from realms
-long fallen.
-%%%%
+Cenizas y encorvados con tesoros rotos y monedas sin valor de reinos
+Cayó mucho tiempo.%%%%
 A tempered metal wall
 
-Walls of brass and nickel, covered in a thin golden foil steadily peeling away
-in the constant, oppressive heat. Designs depict mortals dealing with devils,
-but the former rarely seem to come out ahead on the exchange.
-%%%%
-# Coc:7
+Muros de bronce y níquel, cubiertos de una férula dorada delgada, pelando constantemente
+en el calor constante y opresivo. Los diseños representan a los mortales que tratan con demonios,
+pero el primero rara vez parece salir adelante en el intercambio.%%%%
 An ice-covered rock wall
 
-A rock wall coated in a thick layer of ice. Twisted faces glower beneath the
-surface, locked in perpetual grimaces of rage and betrayal.
-%%%%
+Una pared de roca recubierta en una gruesa capa de hielo. Caras giradas brillan bajo
+superficie, encerrada en gruimas perpetuas de rabia y traición.%%%%
 An ice-covered stone wall
 
-A stone wall coated in a thick layer of ice. Twisted faces glower beneath the
-surface, locked in perpetual grimaces of rage and betrayal.
-%%%%
+Una pared de piedra recubierta en una capa gruesa de hielo. Caras giradas brillan bajo
+superficie, encerrada en gruimas perpetuas de rabia y traición.%%%%
 Frost-covered floor
 
-Earth locked within perpetual frost and cold. It seems ageless and changeless,
-as though it has existed in this state for an eternity.
-%%%%
-# Gozag and TSO vaults.
+Tierra encerrada dentro de la helada perpetua y fría. Parece sin edad y sin cambio,
+como si hubiera existido en este estado por una eternidad.%%%%
 A golden statue
 
-A solid gold statue of a saint.
-%%%%
-# Zin vaults and Vaults branch.
+Una estatua de oro de un santo.%%%%
 A silver statue
 
-A geometric statue of solid silver, in both material and form championing
-security and stasis.
-%%%%
-# Xom, Nemelex, and klown vaults.
+Una estatua geométrica de plata sólida, tanto en material como en forma campeón
+seguridad y estasis.%%%%
 A scintillating statue
 
-A magically shifting statue seemingly content to glimmer and dance in place,
-dedicated to the ineffable cosmic games of chaos.
-%%%%
-# Menagerie vaults.
+Una estatua mágicamente cambiante aparentemente contenta para brillar y bailar en su lugar,
+dedicado a los inefables juegos cósmicos del caos.%%%%
 A mystic cage
 
-A sturdy metal cage, inscribed with cryptic magics. Whatever it once held -
-whether person, beast, or experiment - was evidently already freed in response
-to intruders like you infiltrating the Dungeon.
-%%%%
-# Themed magic branches / portals / vaults.
+Una robusta jaula de metal, inscrita con magias crípticas. Lo que sea que haya tenido una vez...
+si la persona, la bestia o el experimento - fue evidentemente ya liberado en respuesta
+para intrusos como tú infiltrando al Dungeon.%%%%
 An arcane conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its destructive mystic
-energy will harmlessly disperse.
-%%%%
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su místico destructivo
+la energía se dispersará inofensivamente.%%%%
 A misfortune conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its malevolent cursed
-energy will harmlessly disperse.
-%%%%
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su maldecido maldecido
+la energía se dispersará inofensivamente.%%%%
 A dimensional conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its extraplanar warp
-energy will harmlessly disperse.
-%%%%
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su warp extraplanar
+la energía se dispersará inofensivamente.%%%%
 A soul conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its negative energy will
-harmlessly disperse.
-%%%%
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su energía negativa
+dispersos inofensivamente.%%%%
 An alchemical conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its venomous churning
-energy will harmlessly disperse.
-%%%%
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su ardor venenoso
+la energía se dispersará inofensivamente.%%%%
 A fiery conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its ever-burning energy
-will harmlessly disperse.
-%%%%
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su energía cada vez más ardiente
+se dispersará inofensivamente.%%%%
 An icy conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its chilling cold energy
-will harmlessly disperse.
-%%%%
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su energía fría
+se dispersará inofensivamente.%%%%
 An earthen conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its seismic energy will
-harmlessly disperse.
-%%%%
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su energía sísmica
+dispersos inofensivamente.%%%%
 A storm conduit
 
-A strange but benign metal construct, analysing raw ambient magical energy. If
-destroyed and disrupted by sufficiently mighty magic, its crackling energy will
-harmlessly disperse.
-%%%%
-# Wizlabs and Zot _only_.
+Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
+destruida y perturbada por la magia suficientemente poderosa, su energía desgarradora
+dispersos inofensivamente.%%%%
 An enigmatic dynamo
 
-A harmless yet sturdy metal construct, arcane both in power-source and
-purpose. Whatever it analyses, processes, powers, or produces can neither be
-assessed nor accessed by intruders like you infiltrating the Dungeon.
-%%%%
+Una construcción metálica inofensiva pero robusta, arcane tanto en fuente de energía como en
+propósito. Lo que analice, procese, potencia o produzca no puede ser
+evaluados o accedidos por intrusos como si infiltraras el Dungeon.%%%%
 A nascence circuit
 
-A coruscating spark gap of twin electrodes of impenetrably advanced technology.
-These are used to forge and power thaumaturgical constructs, though despite the
-constant crackling, this one is used up and unable to do much more than
-harmlessly dance with the joy of creating life.
-%%%%
-# Vaults with extraplanar contents.
+Una brecha de chispa coruscadora de electrodos gemelos de tecnología impecablemente avanzada.
+Estos son usados para forjar y potencia construcciones thaumaturgicales, aunque a pesar de
+grieta constante, esta se utiliza y no puede hacer mucho más que
+baila inofensivamente con la alegría de crear vida.%%%%
 A bedevilled crystal wall
 
-A wall made from shimmering crystal, from which some demonic plane peers out.
-While its composition both make it resist destruction plus reflect both fire and
-cold, the otherworldly forces within it seem to be entirely harmless... from
-this end, anyway.
-%%%%
-# Housing, gardens, and zoos.
+Una pared hecha de cristal resplandeciente, de la que un avión demoníaco mira hacia fuera.
+Mientras que su composición hace que resista la destrucción más reflejar tanto el fuego como
+frío, las fuerzas del otro mundo dentro parecen ser totalmente inofensivas...
+este fin, de todos modos.%%%%
 A floral vase
 
-A vibrant bouquet of flowers in a clay vessel, kept alive with ample water
-and some minor magic.
-%%%%
+Un ramo vibrante de flores en un vaso de arcilla, mantenido vivo con un amplio agua
+y algo de magia menor.%%%%
 A garden patch
 
-A small decorative plot of flowers penned in by cobblestone.
-%%%%
+Una pequeña parcela decorativa de flores colgada por adoquinería.%%%%
 A flower patch
 
-A bed of hardy wildflowers, thriving in this place despite everything.
-%%%%
+Una cama de flores silvestres duras, prosperando en este lugar a pesar de todo.%%%%
 A mop and bucket
 
-A mop and bucket, useful for keeping one's environs orderly and clean. Too bad
-you're here now.
-%%%%
+Un trapo y un cubo, útil para mantener los environes ordenado y limpio. Qué pena.
+Estás aquí ahora.%%%%
 A fur brush
 
-A grooming brush laid to rest beside a pile of tangled, matted yak fur.
-%%%%
+Un cepillo de novios se puso a descansar junto a un montón de piel de yak enredado.%%%%
 A set of bottled spirits
 
-A mix of various alcoholic drinks with worn-down labels. Unfortunately, the
-preservative magic sealing each bottle makes it impossible to sample from them
-without smashing their bottles open.
-%%%%
+Una mezcla de varias bebidas alcohólicas con etiquetas desgastadas. Desafortunadamente, el
+conservante magia sellando cada botella hace imposible probar de ellos
+sin romper sus botellas abiertas.%%%%
 A djembe set
 
-A drum ensemble whose rhythm serves as peaceful recreation here in the depths of
-the earth.
-%%%%
+Un conjunto de tambores cuyo ritmo sirve como recreación pacífica aquí en las profundidades de
+la tierra.%%%%
 A caliginous standard
 
-A murky flag of dark conquest shimmering with vile energies, planted in the name
-of some grand despoiling crusade.
-%%%%
+Una bandera de conquista oscura brillando con energías vísperas, plantadas en el nombre
+de una gran cruzada.%%%%
 a skull pike
 
-Bones are a common sight in the Dungeon, but skulls left impaled in a shrike's
-manner on display send a more deliberate message to trespassers: the pike has
-room for one more skull, and whoever set it up is happy to help relieve its
-owner of theirs.
-%%%%
-# Graveyards, Crypt, Necropolis.
+Los huesos son una visión común en el Dungeon, pero los cráneos quedan impalados en un arbusto
+la manera en exhibición envía un mensaje más deliberado a los transpasadores: el pique tiene
+habitación para una calavera más, y quien la haya preparado está feliz de ayudar a aliviar su
+propietario suyo.%%%%
 A mourning vase
 
-A singular flower, suffused with gloom and held in a ceramic grip. It
-is difficult to tell whether it is even still alive.
-%%%%
+Una flor singular, sofocada con gloom y sostenida en un agarre cerámico. It
+es difícil saber si aún está vivo.%%%%
 A broken floral vase
 
-A delicate arrangement, smashed to pieces and consigned to slow starvation.
-%%%%
-# The Hall of Blades
+Un arreglo delicado, destrozado en pedazos y consignado a la lenta inanición.%%%%
 A weapon-inlaid floor
 
-The decorative elvish inlayings of weapons mark here the Hall of Blades, where
-many of the Dungeon's keenest weapons originate, magically animated to
-demonstrate their own lethality on would-be thieves.
-%%%%
-# Bailies and other Orc-containing larger vaults
+Las incrustaciones elvish decorativas de armas marcan aquí el Salón de las Blades, donde
+muchas de las armas más entusiastas de Dungeon se originan, mágicamente animadas a
+demostrar su propia letalidad en los ladrones.%%%%
 An orcish standard
 
-A flag of Beogh, raised to show that this fortification belongs to some arm of
-the Dungeon's orcish military.
-%%%%
-# Holy Pan.
+Una bandera de Beogh, levantada para demostrar que esta fortificación pertenece a algún brazo de
+el ejército de Dungeon.%%%%
 A silver wall
 
-A wall made of pure silver.
-%%%%
-# Slime:$
+Una pared hecha de plata pura.%%%%
 A rune-carved stone wall
 
-A strangely slime-free stone wall, carved all over with countless protective
-runes.
-%%%%
+Una pared de piedra extrañamente libre de limosna, tallada en todas partes con incontables protectoras
+runas.%%%%
 A rune-carved clear stone wall
 
-A strangely slime-free stone wall, with strange lights twinkling within its
-airy confines. Mystical runes are scattered across its surface, seemingly
-referring to a 'Royal Jelly'.
-%%%%
-# Tomb:1
+Una pared de piedra extrañamente libre de limosna, con luces extrañas mezclándose dentro de su
+confines aireados. Corridas místicas se dispersan a través de su superficie, aparentemente
+refiriéndose a un 'Royal Jelly'.%%%%
 A sarcophagus
 
-An ancient sarcophagus. It appears to be empty.
-%%%%
-# Vaults:$
+Un antiguo sarcófago. Parece estar vacío.%%%%
 A heavily etched metal wall
 
-A metal wall etched with murals depicting, in great and gruesome detail,
-exactly what will be done to anyone caught stealing from the Vaults.
-%%%%
+Un muro de metal grabado con murales que representan, en gran y espantoso detalle,
+exactamente lo que se hará con alguien atrapado robando de los Vaults.%%%%
 A heavily etched crystal wall
 
-A crystal wall etched with murals depicting, in great and gruesome detail,
-exactly what will be done to anyone caught stealing from the Vaults.
-%%%%
-# moated_graveyard_entry (D:1)
+Un muro de cristal grabado con murales que representan, en gran y espantoso detalle,
+exactamente lo que se hará con alguien atrapado robando de los Vaults.%%%%
 An adventurer's gravestone
 
-The grave of an adventurer who came close to victory.
-%%%%
-# due_jungle_book (Lair:$)
+La tumba de un aventurero que se acercó a la victoria.%%%%
 An elephant-shaped statue
 
-A worn granite statue depicting an elephant standing guard.
-%%%%
-# pan_disco_hall (Pan)
+Una estatua de granito desgastada que representa a un guardia de pie de elefante.%%%%
 A weirdly glowing ball
 
-A floating ball radiating with shimmering light.
-%%%%
-# ragdoll_tomb_raider
+Una bola flotante radiando con luz brillante.%%%%
 A sealed sarcophagus
 
-An ancient sarcophagus. It is sealed shut.
-%%%%
-########################################################################
-### Sprint
-########################################################################
-# sprint_mu
+Un antiguo sarcófago. Está cerrado.%%%%
 An open sea?
 
-Though it exists in stark defiance of every conventional rule of physics and
-geometry you know to be true, there can be no denying that here, in this tiny
-room, is a vast and terrible sea of impossible size.
+Aunque existe en el desafío de toda regla convencional de la física y
+geometría que sabes ser verdad, no puede haber ninguna negación que aquí, en esta pequeña
+habitación, es un vasto y terrible mar de tamaño imposible.
 
-Either that, or it's a blue wall.
-%%%%
-# arena_sprint
+O eso, o es una pared azul.%%%%
 A spawn point
 
-An entrance that the opposition may appear from.
-%%%%
-########################################################################
-### Tutorial
-########################################################################
+Una entrada de la oposición.%%%%
 An exit from the tutorial
 
-A way out of the dungeon, letting you finish this lesson.
-%%%%
-########################################################################
-### Area effects
-########################################################################
+Una forma de salir de la mazmorra, dejándote terminar esta lección.%%%%
 haloed
 
-This area is lit by a divine halo, decreasing your stealth, preventing
-invisibility, and increasing the accuracy of attacks against any illuminated
-creatures.
-%%%%
+Este área está iluminada por un halo divino, disminuyendo su sigilo, evitando
+invisibilidad y aumento de la precisión de los ataques contra cualquier iluminado
+criaturas.%%%%
 umbraed
 
-This area is wreathed by an umbra, improving your stealth if you are attuned to
-the shadows, and decreasing the accuracy of attacks by those unattuned to the
-shadows.
-%%%%
+Esta zona está coronada por una umbra, mejorando su sigilo si tú está al tanto de
+las sombras, y disminuyendo la exactitud de los ataques de los que no han alcanzado
+sombras.%%%%
 liquefied
 
-The ground here is liquefied, making movement slow and causing any attempts to
-attack in melee to sometimes fail.
-%%%%
+El suelo aquí está licuado, haciendo el movimiento lento y causando cualquier intento de
+Ataque en melee a veces falla.%%%%
 disjunction haloed
 
-This area is bathed in translocational energy, causing creatures to blink away
-from the originator of the energy with an increasing chance the closer they are
-to the caster.
-%%%%
-########################################################################
-### Other effects
-########################################################################
+Esta zona está bañada en energía translocal, causando que las criaturas parpadeen
+desde el iniciador de la energía con una oportunidad cada vez mayor
+a la casta.%%%%
 ice covered
 
-This wall is covered in magical ice that freezes victims who wander nearby.
-This damage bypasses any armour the target may have, and will slow cold-blooded
-creatures. Each victim is only ever affected by one icy wall at a time.
+Esta pared está cubierta de hielo mágico que congela a las víctimas que vagan cerca.
+Este daño evita cualquier armadura que el objetivo pueda tener, y ralentizará la sangre fría
+criaturas. Cada víctima sólo se ve afectada por una pared helada a la vez.
 
-The creator of this icy covering and any of their allies can walk safely past
-this wall.
-%%%%
+El creador de esta cubierta helada y cualquiera de sus aliados pueden caminar con seguridad.
+esta pared.%%%%
 awoken
 
-This tree has been temporarily enchanted to grant it some limited motility,
-allowing it to lash out out at any adjacent enemies of the creature who awoke
-it.
-%%%%
+Este árbol ha sido temporalmente encantado para concederle una motilidad limitada,
+permitiéndole echar fuera a cualquier enemigo adyacente de la criatura que se despertó
+Es.%%%%
 tree burning
 
-It is susceptible to bolts of lightning and to sufficiently intense sources of
-fire. The resulting blaze can flare up, spreading to areas nearby and igniting
-other trees.
-%%%%
+Es susceptible a pernos de relámpago y a fuentes suficientemente intensas
+Fuego. El incendio resultante puede encenderse, extenderse a zonas cercanas y encenderse
+otros árboles.%%%%
 mangrove burning
 
-It is susceptible to bolts of lightning and to sufficiently intense sources of
-fire. Mangroves do not burn as vigorously as normal trees, due to growing on
-swampy terrain, and leave behind shallow water after they smoulder.
-%%%%
+Es susceptible a pernos de relámpago y a fuentes suficientemente intensas
+Fuego. Los manglares no queman tan vigorosamente como los árboles normales, debido al crecimiento en
+terreno pantanoso, y dejar atrás aguas poco profundas después de que smoulder.%%%%
 demonic tree burning
 
-It is susceptible to bolts of lightning and to sufficiently intense sources of
-fire. Burning this tree releases a cloud of pure chaos instead of flames.
+Es susceptible a pernos de relámpago y a fuentes suficientemente intensas
+Fuego. Quemar este árbol libera una nube de caos puro en lugar de llamas.

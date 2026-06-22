@@ -1,1542 +1,1276 @@
 %%%%
-# ------ Generic minor stat/AC muts -----
 tough skin mutation
 
-Your epidermis has hardened, providing a small amount of protection. Each level
-of this mutation provides +1 AC.
-%%%%
+Su epidermis se ha endurecido, proporcionando una pequeña cantidad de protección. Cada nivel
+de esta mutación proporciona +1 AC.%%%%
 shaggy fur mutation
 
-You are covered in fur, providing a small amount of protection. Each level of
-this mutation provides +1 AC. The third level of this mutation also provides
-resistance to cold.
-%%%%
+Tú está cubierto de piel, proporcionando una pequeña cantidad de protección. Cada nivel
+esta mutación proporciona +1 AC. El tercer nivel de esta mutación también proporciona
+resistencia al frío.%%%%
 repulsion field mutation
 
-You are surrounded by a repulsion field, providing a small amount of evasion.
-Each level of this mutation provides more EV. The third level of this mutation
-also repels missiles, greatly increasing your EV against such attacks.
-%%%%
+Está rodeado de un campo de repulsión, proporcionando una pequeña cantidad de evasión.
+Cada nivel de esta mutación proporciona más VE. El tercer nivel de esta mutación
+también repele los misiles, aumentando enormemente su EV contra tales ataques.%%%%
 icy blue scales mutation
 
-You are covered in blue scales, providing a small amount of protection. Each
-level of this mutation provides more AC. The third level of this mutation also
-provides resistance to cold.
-%%%%
+Tú está cubierto de escalas azules, proporcionando una pequeña cantidad de protección. Cada uno
+el nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación también
+proporciona resistencia al frío.%%%%
 molten scales mutation
 
-You are covered in molten scales, providing a small amount of protection. Each
-level of this mutation provides more AC. The third level of this mutation also
-provides resistance to fire.
-%%%%
+Tú está cubierto de escamas fundidas, proporcionando una pequeña cantidad de protección. Cada uno
+el nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación también
+proporciona resistencia al fuego.%%%%
 slimy green scales mutation
 
-You are covered in green scales, providing a small amount of protection. Each
-level of this mutation provides more AC. The third level of this mutation also
-provides resistance to poison.
-%%%%
+Tú está cubierto de escalas verdes, proporcionando una pequeña cantidad de protección. Cada uno
+el nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación también
+proporciona resistencia al veneno.%%%%
 yellow scales mutation
 
-You are covered in yellow scales, providing a small amount of protection. Each
-level of this mutation provides more AC. The third level of this mutation also
-provides resistance to acid and corrosion.
-%%%%
+Tú está cubierto de escalas amarillas, proporcionando una pequeña cantidad de protección. Cada uno
+el nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación también
+proporciona resistencia al ácido y la corrosión.%%%%
 thin metallic scales mutation
 
-You are covered in metallic scales, providing a small amount of protection.
-Each level of this mutation provides more AC. The third level of this mutation
-also provides resistance to electricity.
-%%%%
+Tú está cubierto de escalas metálicas, proporcionando una pequeña cantidad de protección.
+Cada nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación
+también proporciona resistencia a la electricidad.%%%%
 rugged brown scales mutation
 
-You are covered in brown scales, providing a small amount of protection. Each
-level of this mutation provides +1 AC and also increases your health slightly.
-%%%%
+Tú está cubierto de escamas marrones, proporcionando una pequeña cantidad de protección. Cada uno
+nivel de esta mutación proporciona +1 AC y también aumenta su salud ligeramente.%%%%
 sharp scales mutation
 
-You are covered in sharp scales, providing a small amount of protection. Each
-level of this mutation provides +1 AC and Slay +1, improving your accuracy and
-damage with melee and ranged attacks.
-%%%%
+Tú está cubierto en escalas afiladas, proporcionando una pequeña cantidad de protección. Cada uno
+nivel de esta mutación proporciona +1 AC y Slay +1, mejorando su precisión y
+daño con melee y ataques variados.%%%%
 iridescent scales mutation
 
-You are covered in iridescent scales, providing a small amount of protection.
-Each level of this mutation provides +2 AC.
-%%%%
+Tú está cubierto de escalas iridiscentes, proporcionando una pequeña cantidad de protección.
+Cada nivel de esta mutación proporciona +2 AC.%%%%
 large bone plates mutation
 
-You are covered in bone plates, providing a small amount of shielding. Each
-level of this mutation provides more SH.
-%%%%
+Tú está cubierto de placas óseas, proporcionando una pequeña cantidad de blindaje. Cada uno
+el nivel de esta mutación proporciona más SH.%%%%
 thin skeletal structure mutation
 
-Your bones are light and porous. Each level of this mutation provides +2
-Dexterity and Stealth+.
-%%%%
+Tus huesos son ligeros y porosos. Cada nivel de esta mutación proporciona +2
+Dexteridad y Stealth+.%%%%
 strong mutation
 
-Your muscles have grown unnaturally strong. Each level of this mutation provides
-+4 Strength, but the extra muscles slow your movements and thoughts, giving -1 to
-both your Intelligence and Dexterity for each level.
-%%%%
+Tus músculos han crecido antinaturalmente fuerte. Cada nivel de esta mutación proporciona
++4 Fuerza, pero los músculos adicionales frenan sus movimientos y pensamientos, dando -1 a
+tu Inteligencia y Dexteridad para cada nivel.%%%%
 clever mutation
 
-Your mind has become unnaturally acute. Each level of this mutation provides +4
-Intelligence, but all the blood flowing to your head weakens your constitution,
-giving -1 to both your Strength and Dexterity for each level.
-%%%%
+Tu mente se ha vuelto antinaturalmente aguda. Cada nivel de esta mutación proporciona +4
+Inteligencia, pero toda la sangre que fluye a tu cabeza debilita tu constitución,
+dar -1 a su Fuerza y Destreza para cada nivel.%%%%
 agile mutation
 
-Your reflexes have become unnaturally fast. Each level of this mutation
-provides +4 Dexterity, but the rest of your body can't keep up with your speed,
-giving -1 to both your Strength and Intelligence for each level.
-%%%%
+Tus reflejos se han vuelto antinaturalmente rápidos. Cada nivel de esta mutación
+proporciona +4 Dexteridad, pero el resto de tu cuerpo no puede seguir con tu velocidad,
+dar -1 a su Fuerza e Inteligencia para cada nivel.%%%%
 weak mutation
 
-Your muscles have grown unnaturally weak. Each level of this mutation provides
--3 Strength.
-%%%%
+Tus músculos se han vuelto antinaturalmente débiles. Cada nivel de esta mutación proporciona
+-3 Fuerza.%%%%
 dopey mutation
 
-Your mind has become unnaturally dopey. Each level of this mutation provides -3
-Intelligence.
-%%%%
+Tu mente se ha vuelto antinaturalmente repugnante. Cada nivel de esta mutación proporciona -3
+Inteligencia.%%%%
 clumsy mutation
 
-Your reflexes have become unnaturally clumsy. Each level of this mutation
-provides -3 Dexterity.
-%%%%
+Tus reflejos se han vuelto antinaturalmente torpes. Cada nivel de esta mutación
+proporciona -3 Dexteridad.%%%%
 high mp mutation
 
-You have an increased reservoir of magic. Each level of this mutation provides
-+10% MP.
-%%%%
+Tienes un creciente depósito de magia. Cada nivel de esta mutación proporciona
++10% MP.%%%%
 low mp mutation
 
-You have a low magical capacity. Each level of this mutation provides -10% MP.
-%%%%
+Tienes una baja capacidad mágica. Cada nivel de esta mutación proporciona -10% MP.%%%%
 efficient magic mutation
 
-You have both an innate understanding and a greater control over the exact flow
-of your magic, letting you cast spells with greater efficiency. Each level of
-this mutation reduces the cost of your spells by 1 MP, to a minimum of 1 MP.
-%%%%
+Tú tiene un entendimiento innato y un mayor control sobre el flujo exacto
+de tu magia, dejándote lanzar hechizos con mayor eficiencia. Cada nivel
+esta mutación reduce el costo de sus hechizos por 1 MP, a un mínimo de 1 MP.%%%%
 ephemeral shield mutation
 
-Whenever you use spells or divine abilities with any costs, a shield forms from
-the excess loose magical or spiritual energy to guard you. The magical energy
-from spells only sustains the shield for but a moment, while the spiritual
-energy from using divine abilities lasts a brief bit longer.
-%%%%
+Cada vez que usas hechizos o habilidades divinas con cualquier coste, un escudo se forma desde
+el exceso suelta energía mágica o espiritual para protegerte. La energía mágica
+de los hechizos sólo sostiene el escudo por un momento, mientras que el espiritual
+la energía del uso de habilidades divinas dura un poco más.%%%%
 camouflage mutation
 
-Your skin changes colour to match your surroundings. Each level of this
-mutation provides Stealth+.
-%%%%
+Tu piel cambia de color para que coincida con tu entorno. Cada nivel de esto
+mutación proporciona Stealth+.%%%%
 passive freeze mutation
 
-Foes who strike you in melee will be frozen, taking damage. This effect is
-guaranteed to trigger if your foe does any damage.
-%%%%
+Los enemigos que te golpeen en la melee se congelarán, tomando daño. Este efecto es
+garantizado para disparar si su enemigo hace algún daño.%%%%
 time-warped blood mutation
 
-Your blood has desynchronised itself from the flow of time. Whenever you fall
-below 50% of your maximum HP, the spilling of your blood surges strangely
-through your surroundings, hasting two of your strongest allies in sight for
-each level of this mutation. After doing so, your blood will be unable to
-further dilate time until your HP has fully recovered.
-%%%%
+Su sangre se ha desincronizado del flujo del tiempo. Cada vez que caes
+por debajo del 50% de su HP máximo, el derramamiento de su sangre surge extrañamente
+a través de su entorno, contando a dos de sus aliados más fuertes a la vista
+cada nivel de esta mutación. Después de hacerlo, su sangre será incapaz de
+más tiempo de dilatación hasta que su HP se ha recuperado completamente.%%%%
 efficient metabolism mutation
 
-Your altered digestive system extracts additional value out of select potion
-types, doubling the duration of all status effects gained via potions.
-%%%%
+Su sistema digestivo alterado extrae valor adicional de la poción selecta
+tipos, duplicando la duración de todos los efectos de estado obtenidos a través de pociones.%%%%
 protean grace mutation
 
-Your limbs are overflowing with morphogenic power, guiding your every movement.
-Each other non-innate mutation you have also provides +1 EV and Slay +1 (up to
-a limit of 7), improving your accuracy and damage with melee and ranged attacks.
-This still applies even when the mutations would be suppressed by a different
-form.
+Tus extremidades están desbordando con poder morfogénico, guiando cada movimiento.
+Cada otra mutación no innata que tú también proporciona +1 EV y Slay +1 (hasta
+a limite de 7), mejorando su precisión y daño con melee y ataques variados.
+Esto todavía se aplica incluso cuando las mutaciones serían suprimidas por un diferente
+forma.
 
-You currently gain
-{{
-    num = math.min(you.how_mutated(true, false, false, true, false), 7) - 1
-    return "+" .. num .. " EV and Slay +" .. num .. " from this mutation."
-}}
-%%%%
+Tú gana actualmente
+{}
+num = math.min(you.how mutated(true, false, true, false), 7) - 1
+"+" .. num .. "EV y Slay +" .. num .. " de esta mutación."
+}%%%%
 feed off suffering mutation
 
-A vile yet invigorating energy permeates your soul, which resonates with
-specific other energies released at the moment of death. Whenever poisoned or
-drained enemies die in sight of you, you have a chance to siphon away a small
-portion of their life force and magical power. Each level of this mutation
-increases the chance this happens and the amount one siphons.
-%%%%
+Una energía vigorosa y vigorizante impregna tu alma, que resuena con
+otras energías específicas liberadas en el momento de la muerte. Cuando sea envenenado o envenenado
+enemigos drenados mueren a la vista de tú, tú tiene la oportunidad de apagar un pequeño
+porción de su fuerza vital y poder mágico. Cada nivel de esta mutación
+aumenta la probabilidad de que esto suceda y la cantidad de uno sifones.%%%%
 lucky mutation
 
-You have an uncanny knack for uncovering hidden properties of items other people
-might ignore as mundane. Whenever you encounter a new item on the ground for the
-first time, there is a very tiny chance to discover that it is actually an
-artefact. Each level of this mutation increases that chance.
-%%%%
+Tú tiene un cuchillo increible para descubrir propiedades ocultas de los elementos de otras personas
+podría ignorar como mundano. Siempre que encuentres un nuevo artículo en el suelo para
+primera vez, hay una muy pequeña oportunidad de descubrir que es en realidad una
+artefacto. Cada nivel de esta mutación aumenta esa posibilidad.%%%%
 reckless mutation
 
-Your recklessness halves your SH, but the damage you deal with two-handed melee
-weapons is increased by 15%.
-%%%%
-# ------ Auxes -----
+Tu imprudencia aborrece tu SH, pero el daño que enfrentas con dos manos melee
+las armas aumentan en un 15%.%%%%
 horns mutation
 
-You have horns on your head, allowing you to try to gore foes when launching
-melee attacks, but preventing you from wearing helmets. Each level of this mutation
-increases the damage of your gore attacks. The third level of this mutation
-prevents you from wearing any type of headgear.
-%%%%
+Tú tiene cuernos en su cabeza, lo que le permite tratar de sonar enemigos al lanzar
+ataques de melee, pero impidiendo que use cascos. Cada nivel de esta mutación
+aumenta el daño de sus ataques de gore. El tercer nivel de esta mutación
+le impide usar cualquier tipo de cabezal.%%%%
 beak mutation
 
-You have a beak for a mouth, allowing you to peck at foes when launching melee
-attacks, but preventing you from wearing helmets.
-%%%%
+Tú tiene un pico para una boca, lo que le permite peck a los enemigos al lanzar la melee
+ataques, pero impidiéndole usar cascos.%%%%
 fangs mutation
 
-You have sharp teeth, allowing you to bite foes when launching melee attacks.
-Each level of this mutation makes your teeth sharper, longer, and stronger.
-%%%%
+Tienes dientes afilados, lo que te permite morder enemigos al lanzar ataques de melee.
+Cada nivel de esta mutación hace que sus dientes más afilados, más largos y más fuertes.%%%%
 acidic bite mutation
 
-You have acidic saliva, allowing you to bite foes and apply corrosion to them
-when launching melee attacks.
-%%%%
+Tú tiene saliva ácido, lo que le permite morder enemigos y aplicar la corrosión a ellos
+cuando lanzan ataques de melee.%%%%
 antimagic bite mutation
 
-You have a thirst for magic, allowing you to bite foes when launching melee
-attacks. This restores your magical reserves and also disrupts magical foes,
-sometimes leaving them unable to act.
-%%%%
+Tienes sed de magia, lo que te permite morder enemigos al lanzar la melee
+ataques. Esto restaura sus reservas mágicas y también perturba a los enemigos mágicos,
+a veces dejándolos incapaz de actuar.%%%%
 claws mutation
 
-You have sharp nails, increasing the strength of your main-hand unarmed attacks
-if you aren't wearing gloves. If your off-hand is free, the strength of your
-off-hand punch attacks is also increased. Each level of this mutation makes your
-nails sharper, longer, and stronger. The third level of this mutation prevents
-you from wearing gloves.
-%%%%
+Tú tiene uñas afiladas, aumentando la fuerza de sus ataques desarmados de la mano principal
+si no llevas guantes. Si tu mano fuera libre, la fuerza de tu
+también aumentan los ataques de golpes fuera de la mano. Cada nivel de esta mutación te hace
+uñas más afiladas, más largas y más fuertes. El tercer nivel de esta mutación previene
+de usar guantes.%%%%
 demonic touch mutation
 
-Your hands glow with unholy energy, allowing you to inflict irresistible damage
-when launching melee attacks as long as your off-hand is free. Your touch
-attacks deal damage which ignores armour, and each level of this mutation
-increases the damage dealt. The third level of this mutation prevents you from
-wearing gloves, and also causes your touch attacks to reduce your foes'
-willpower.
-%%%%
+Tus manos brillan con energía impía, permitiéndote causar daño irresistible
+al lanzar ataques de melee siempre y cuando su salida sea libre. Tu toque
+los ataques hacen daño que ignora la armadura, y cada nivel de esta mutación
+aumenta el daño causado. El tercer nivel de esta mutación le impide
+usando guantes, y también hace que tus ataques táctiles reduzcan tus enemigos
+Willpower.%%%%
 hooves mutation
 
-You have hooves, allowing you to kick foes when launching melee attacks if you
-aren't wearing boots. Each level of this mutation makes your hooves harder and
-stronger. The third level of this mutation prevents you from wearing boots.
-%%%%
+Tienes pezuñas, lo que te permite patear enemigos cuando lanzas ataques de melee si
+no llevan botas. Cada nivel de esta mutación hace que sus pezuñas más difíciles y
+más fuerte. El tercer nivel de esta mutación le impide usar botas.%%%%
 talons mutation
 
-You have sharp toenails, allowing you to kick foes when launching melee attacks
-if you aren't wearing boots. Each level of this mutation makes your nails
-sharper, longer, and stronger. The third level of this mutation prevents you
-from wearing boots.
-%%%%
+Tienes uñas afiladas, lo que te permite patear enemigos al lanzar ataques de melee
+si no llevas botas. Cada nivel de esta mutación hace tus uñas
+más fuerte, más largo y más fuerte. El tercer nivel de esta mutación le impide
+de usar botas.%%%%
 antennae mutation
 
-You have antennae, allowing you to sense nearby monsters, but preventing you
-from wearing helmets. Each level of this mutation lets you sense monsters from
-further away. The third level of this mutation prevents you from wearing any
-type of headgear, and allows you to see invisible monsters.
-%%%%
+Tienes antenas, permitiéndote sentir monstruos cercanos, pero previniéndote
+de usar cascos. Cada nivel de esta mutación te permite sentir monstruos de
+más lejos. El tercer nivel de esta mutación le impide usar cualquier
+tipo de headgear, y te permite ver monstruos invisibles.%%%%
 tentacle spike mutation
 
-You have a spiked tentacle, allowing you to pierce foes when launching melee
-attacks. Each level of this mutation makes your spike sharper, longer, and
-stronger.
-%%%%
+Tú tiene un tentáculo picado, lo que le permite perforar enemigos al lanzar melee
+ataques. Cada nivel de esta mutación hace que su pico más agudo, más largo y
+más fuerte.%%%%
 naga tail mutation
 
-You have a long, snake-like tail in place of feet. This gives you stability in
-water, but causes you to move much more slowly than most species.
+Tienes una larga cola de serpiente en lugar de pies. Esto le da estabilidad en
+agua, pero te hace mover mucho más lentamente que la mayoría de las especies.
 
-The second level of this mutation allows you to constrict foes with your tail
-when attacking in melee. Your tail can constrict only one enemy at a time, and
-every attack at this mutation level will begin or renew a constriction attempt.
-The chances of succeeding are determined primarily by Dexterity, Fighting skill,
-and any slaying bonuses.
-%%%%
+El segundo nivel de esta mutación le permite constreñir enemigos con la cola
+cuando atacan en melee. Tu cola puede limitar sólo a un enemigo a la vez, y
+cada ataque a este nivel de mutación comenzará o renovará un intento de constricción.
+Las posibilidades de éxito están determinadas principalmente por Dexterity, Fighting habilidad,
+y cualquier bonificación de matar.%%%%
 stinger mutation
 
-You have a venomous barb on the end of your tail, allowing you to sting foes
-when launching melee attacks. Each level of this mutation makes your stinger
-sharper, longer, and stronger.
-%%%%
+Tienes un barb venenoso al final de tu cola, permitiéndote picar enemigos
+cuando lanzan ataques de melee. Cada nivel de esta mutación hace que tu puntero
+más fuerte, más largo y más fuerte.%%%%
 weakness stinger mutation
 
-You have a thin, orange tail, allowing you to attack foes when launching melee
-attacks. Each level of this mutation increases your tail's strength as it turns
-into a sharp stinger. The third level of this mutation prevents wearing cloaks
-or scarves, and causes the stinger to inflict brief weakness on those struck.
-%%%%
+Tienes una cola fina y naranja, lo que te permite atacar a los enemigos al lanzar la melee
+ataques. Cada nivel de esta mutación aumenta la fuerza de la cola mientras gira
+en un puntiagudo. El tercer nivel de esta mutación evita el uso de capas
+o cicatrices, y hace que el picador inflija brevemente a los heridos.%%%%
 armoured tail mutation
 
-You have a large scaly tail, allowing you to tail-slap foes when launching
-melee attacks.
-%%%%
+Tú tiene una cola escamosa grande, lo que le permite a los enemigos de cola al lanzar
+melee attacks.%%%%
 pseudopods mutation
 
-You are covered in pseudopods, allowing you to slap your foes when launching
-melee attacks, but somewhat reducing the amount of protection provided by body
-armour. This has no effect on protection provided by armour enchantments. Each
-level of this mutation makes your pseudopods larger and stronger.
-%%%%
-# ------ Resistance mutations -----
+Estás cubierto de pseudopodos, permitiéndote abofetear a tus enemigos cuando lanzas
+melee attacks, but some reducing the amount of protection provided by body
+armadura. Esto no tiene efecto en la protección proporcionada por los encantamientos de armadura. Cada uno
+el nivel de esta mutación hace que tus pseudopodos sean más grandes y más fuertes.%%%%
 steam resistance mutation
 
-You are immune to the damage from steam breath and steam clouds.
-%%%%
+Eres inmune al daño causado por el aliento de vapor y las nubes de vapor.%%%%
 mutation resistance mutation
 
-Your genetic code is unusually stable, making it less likely that you will be
-mutated (or have existing mutations removed). Each level of this mutation makes
-you more resistant.
-%%%%
+Su código genético es inusualmente estable, haciendo menos probable que tú será
+mutado (o se han eliminado las mutaciones existentes). Cada nivel de esta mutación hace
+más resistente.%%%%
 torment resistance mutation
 
-You are less affected by unholy torment, which would otherwise cut your health
-in half. The second level of this mutation renders you entirely immune.
-%%%%
+Tú está menos afectado por un tormento impío, que de otra manera cortaría su salud
+en la mitad. El segundo nivel de esta mutación te hace totalmente inmune.%%%%
 poison resistance mutation
 
-You resist poisons, toxins and other contaminants. This does not confer
-full immunity, but reduces your chances of being affected to roughly
-one-third what it would be otherwise.
-%%%%
+Tú resiste venenos, toxinas y otros contaminantes. Esto no se refiere
+inmunidad total, pero reduce sus posibilidades de ser afectado a
+Un tercio de lo que sería de otro modo.%%%%
 fire resistance mutation
 
-You resist heat. Each level of this mutation reduces the amount of damage taken
-from fire.
-%%%%
+Te resistes al calor. Cada nivel de esta mutación reduce la cantidad de daño causado
+del fuego.%%%%
 cold resistance mutation
 
-You resist cold. Each level of this mutation reduces the amount of damage taken
-from cold.
-%%%%
+Te resistes al frío. Cada nivel de esta mutación reduce la cantidad de daño causado
+del frío.%%%%
 electricity resistance mutation
 
-You resist electricity (rElec), taking less damage from it.
-%%%%
+Tú resiste la electricidad (rElec), tomando menos daño de ella.%%%%
 acid resistance mutation
 
-You resist acid (rCorr), taking less damage from it. You are also less likely to
-become corroded.
-%%%%
+Tú resiste el ácido (rCorr), tomando menos daño de él. También es menos probable
+se corroearon.%%%%
 negative energy resistance mutation
 
-You resist negative energy. Each level of this mutation reduces the amount of
-damage taken from negative energy, along with the amount that it drains your
-health.
-%%%%
+Te resistes a la energía negativa. Cada nivel de esta mutación reduce la cantidad de
+daño tomado de la energía negativa, junto con la cantidad que drena su
+salud.%%%%
 heat vulnerability mutation
 
-You are vulnerable to fire and take more damage from it.
-%%%%
+Tú es vulnerable al fuego y tomar más daño de él.%%%%
 cold vulnerability mutation
 
-You are vulnerable to cold and take more damage from it.
-%%%%
+Tú es vulnerable al frío y toma más daño de él.%%%%
 temperature sensitive mutation
 
-You are vulnerable to both cold and fire, and you take more damage from those
-effects.
-%%%%
+Eres vulnerable al frío y al fuego, y tomas más daño de esos
+Efectos.%%%%
 electricity vulnerability mutation
 
-You are vulnerable to electricity and take more damage from it.
-%%%%
+Tú es vulnerable a la electricidad y toma más daño de ella.%%%%
 strong-willed mutation
 
-You have an unnaturally strong will, improving your resistance to certain types
-of hostile magic. Each level of this mutation increases your willpower further.
-%%%%
+Tú tiene una voluntad antinaturalmente fuerte, mejorando su resistencia a ciertos tipos
+de magia hostil. Cada nivel de esta mutación aumenta aún más su fuerza de voluntad.%%%%
 weak-willed mutation
 
-You have an unnaturally weak will, reducing your resistance to certain types
-of hostile magic. Each level of this mutation reduces your willpower further.
-%%%%
+Tú tiene una voluntad antinaturalmente débil, reduciendo su resistencia a ciertos tipos
+de magia hostil. Cada nivel de esta mutación reduce aún más su fuerza de voluntad.%%%%
 see invisible mutation
 
-You have supernaturally acute vision, allowing you to see monsters that are
-hidden from mundane sight. This has no effect on your accuracy otherwise.
-%%%%
+Tienes visión sobrenaturalmente aguda, permitiéndote ver monstruos que son
+escondido de la vista mundana. Esto no tiene ningún efecto en su precisión de otro modo.%%%%
 clarity mutation
 
-Your mind is exceptionally clear, preventing you from becoming confused,
-mesmerised, or supernaturally afraid. You also cannot become involuntarily
-enraged.
-%%%%
+Su mente es excepcionalmente clara, evitando que se confunda,
+mesmerizado, o sobrenaturalmente asustado. Tampoco puede llegar a ser involuntariamente
+enfurecido.%%%%
 sense surroundings mutation
 
-You have a second sense for the dungeon, allowing you to sense terrain you
-haven't yet seen. Each level of this mutation allows you to sense more and
-more thoroughly.
-%%%%
+Tienes un segundo sentido para la mazmorra, permitiéndote sentir el terreno
+Aún no lo he visto. Cada nivel de esta mutación le permite sentir más y más
+más a fondo.%%%%
 MP-powered wands mutation
 
-Your wands draw upon your magical reserves, becoming somewhat more powerful in
-the process. If you have no magic left to draw upon, your wands function as
-normal.
-%%%%
-# ------ Goodmut/badmut pairs -----
+Sus varitas dibujan sobre sus reservas mágicas, convirtiéndose en algo más poderoso en
+el proceso. Si no tienes magia para dibujar, tus varitas funcionan como
+normal.%%%%
 regeneration mutation
 
-You heal quickly. Each level of this mutation increases the rate at which you
-heal.
-%%%%
+Sanas rápido. Cada nivel de esta mutación aumenta la tasa a la que se
+sanar.%%%%
 inhibited regeneration mutation
 
-You do not heal over time while foes are in sight. Other sources of healing,
-such as potions, are unaffected.
-%%%%
+No sanas con el tiempo mientras que los enemigos están a la vista. Otras fuentes de curación,
+como las pociones, no son afectadas.%%%%
 speed mutation
 
-You cover ground quickly - moving to new positions takes you less time. This
-has no effect on other types of actions, like attacking or casting spells.
-Each level of this mutation makes you move faster.
-%%%%
+Cubre el terreno rápidamente - moverse a nuevas posiciones le lleva menos tiempo. Esto
+no tiene efecto en otros tipos de acciones, como ataques o hechizos de casting.
+Cada nivel de esta mutación te hace mover más rápido.%%%%
 slowness mutation
 
-You cover ground slowly - moving to new positions takes you more time. This
-has no effect on other types of actions, like attacking or casting spells.
-Each level of this mutation makes you move slower.
-%%%%
+Cubre el terreno lentamente - moverse a nuevas posiciones te lleva más tiempo. Esto
+no tiene efecto en otros tipos de acciones, como ataques o hechizos de casting.
+Cada nivel de esta mutación te hace mover más lento.%%%%
 robust mutation
 
-You can take a beating. Each level of this mutation improves your health
-further (+10% HP).
-%%%%
+Puedes dar una paliza. Cada nivel de esta mutación mejora su salud
+más (+10% HP).%%%%
 frail mutation
 
-Your health is poor. Each level of this mutation worsens your health further
-(-10% HP).
-%%%%
+Tu salud es pobre. Cada nivel de esta mutación empeora aún más su salud
+(-10% HP).%%%%
 evolution mutation
 
-As you gain experience, your body's hidden potential will express itself in the
-form of new beneficial mutations.
-%%%%
+Al ganar experiencia, el potencial oculto de su cuerpo se expresará en el
+forma de nuevas mutaciones beneficiosas.%%%%
 devolution mutation
 
-As you gain experience, your body's hidden potential will express itself in the
-form of new detrimental mutations.
-%%%%
+Al ganar experiencia, el potencial oculto de su cuerpo se expresará en el
+forma de nuevas mutaciones perjudiciales.%%%%
 wild magic mutation
 
-Your spells are slightly harder to cast (increased miscast chance and severity),
-but more powerful. Each level of this mutation increases both effects further.
-%%%%
+Sus hechizos son un poco más difíciles de lanzar (aumento de las probabilidades de malcast y la gravedad),
+pero más poderoso. Cada nivel de esta mutación aumenta los efectos.%%%%
 subdued magic mutation
 
-Your spells are slightly easier to cast (reduced miscast chance and severity),
-but less powerful. Each level of this mutation increases both effects further.
-%%%%
-# ------ Badmuts without matching goodmuts -----
+Sus hechizos son ligeramente más fáciles de lanzar (probabilidad y severidad reducidas),
+pero menos poderoso. Cada nivel de esta mutación aumenta los efectos.%%%%
 teleportitis mutation
 
-You periodically teleport towards hostile monsters. You will sense yourself
-destabilising several turns in advance of this happening, and may suppress it
-temporarily by reading a scroll of teleportation.
+Periódicamente teletransporte hacia monstruos hostiles. Te sentirás
+desestabilizando varios giros antes de que esto suceda, y puede suprimirlo
+temporalmente leyendo un rollo de teletransportación.
 
-Each level of this mutation increases the frequency with which you start to
-teleport.
-%%%%
+Cada nivel de esta mutación aumenta la frecuencia con la que empiezas a
+teletransporte.%%%%
 deformed body mutation
 
-Your body is shaped in an inhuman way, somewhat reducing the amount of
-protection provided by body armour. This has no effect on protection provided
-by armour enchantments.
-%%%%
+Su cuerpo está formado de manera inhumana, algo reduciendo la cantidad de
+protección proporcionada por armadura corporal. Esto no tiene efecto en la protección proporcionada
+por armaduras.%%%%
 screaming mutation
 
-You are sometimes seized by an uncontrollable urge to scream whenever you
-sustain an injury. All of your shouts are also louder than usual.
+A veces te agarran un impulso incontrolable para gritar cuando quieras.
+Sostenga una lesión. Todos tus gritos también son más fuertes de lo habitual.
 
-The second level of this mutation makes this urge harder to resist and makes
-your shouts even louder.
-%%%%
+El segundo nivel de esta mutación hace que este impulso sea más difícil de resistir y hace
+tus gritos aún más fuerte.%%%%
 poor constitution mutation
 
-Your body reacts poorly to injury; when you suffer damage, you have a chance for
-your attacks to become weakened for a short while. The second level of this
-mutation sometimes additionally causes this to slow you as well.
-%%%%
+Su cuerpo reacciona mal a la lesión; cuando sufre daño, tú tiene una oportunidad para
+tus ataques para debilitarte por un corto tiempo. El segundo nivel de este
+mutación a veces también causa que esto también te ralentice.%%%%
 no potion heal mutation
 
-Your system is resistant to potable panaceas, reducing the effectiveness of all
-kinds of healing potions. The second level of this mutation completely blocks
-potion-based healing. (Aid from the god Gozag is unaffected.)
-%%%%
+Su sistema es resistente a las panaceas potables, reduciendo la eficacia de todo
+tipos de pociones curativas. El segundo nivel de esta mutación bloquea completamente
+curación basada en la poción. (La ayuda del dios Gozag no es afectada.)%%%%
 persistent drain mutation
 
-Your health recovers twice as slowly from being drained. (The total experience
-needed is doubled.)
-%%%%
+Su salud se recupera dos veces más lentamente de ser drenado. (La experiencia total
+necesario se duplica.)%%%%
 contamination susceptible mutation
 
-You absorb twice as much mutagenic energy from being contaminated.
-%%%%
+Tú absorbe el doble de energía mutagénica de estar contaminada.%%%%
 initially attractive mutation
 
-The first time you see a monster, it may be magically pulled toward you. This
-has a chance of waking sleeping monsters, though they will not necessarily be
-alerted to your position.
+La primera vez que ves a un monstruo, puede ser mágicamente tirado hacia ti. Esto
+tiene la oportunidad de despertar monstruos dormidos, aunque no necesariamente serán
+alertado a su posición.
 
-The second level of this mutation increases the chance of this happening.
-%%%%
+El segundo nivel de esta mutación aumenta la probabilidad de que esto suceda.%%%%
 booming voice mutation
 
-When reading scrolls in sight of hostile monsters, your voice resounds with a
-truly stupendous volume.
-%%%%
+Al leer pergaminos a la vista de monstruos hostiles, tu voz resuena con un
+volumen realmente estupendo.%%%%
 potion fungus mutation
 
-Your body is covered in a fungus that metabolises beneficial potions you drink
-and sometimes emits spores which transmit their effects to nearby monsters -
-whether friend or foe.
-%%%%
+Tu cuerpo está cubierto en un hongo que metabolis las pociones beneficiosas que bebes
+y a veces emite esporas que transmiten sus efectos a monstruos cercanos -
+si amigo o enemigo.%%%%
 spiteful blood mutation
 
-Your blood pulses with a strange predatory malice. When you become significantly
-injured, some of it may rise up to attack you - though this may not happen again
-until you heal fully.
+Tus pulsos de sangre con una extraña malicia depredatoria. Cuando te vuelves significativa
+lesionado, algunos de ellos pueden levantarse para atacarte - aunque esto no puede suceder de nuevo
+hasta que sanes completamente.
 
-The second level of this mutation causes two erythrospites to be created at
-once.
-%%%%
+El segundo nivel de esta mutación hace que se creen dos eritropitos
+una vez.%%%%
 spatial entanglement mutation
 
-Whenever you translocate, there is a chance that another monster is pulled
-along to your new location. If you translocated a short distance, this will
-always be some monster in sight of your previous location, but long distance
-teleports may pull a monster from anywhere else on the floor.
+Siempre que translocas, hay una posibilidad de que otro monstruo sea tirado
+a su nueva ubicación. Si tú translocó una corta distancia, esto será
+siempre sea un monstruo a la vista de su ubicación anterior, pero larga distancia
+Los telepuertos pueden sacar a un monstruo de cualquier otro lugar del piso.
 
-The experience is mildly disorienting for the monster, and it will not be able
-to act immediately after being pulled this way.
-%%%%
+La experiencia es ligeramente desorientante para el monstruo, y no será capaz
+para actuar inmediatamente después de ser tirado de esta manera.%%%%
 meek mutation
 
-All of your attacks are less effective, dealing less damage and being a little
-less accurate. This effect worsens with each level of this mutation.
-%%%%
-# ------ Demonspawn mutations -----
+Todos tus ataques son menos eficaces, lidiando menos daño y siendo un poco
+menos exacto. Este efecto empeora con cada nivel de esta mutación.%%%%
 demonic guardian mutation
 
-When you are harmed, there is a chance that a demonic guardian will rush to aid
-you. The greater the damage done and the closer you are to death, the greater
-the odds. Each level of this mutation increases the strength of your guardians.
-%%%%
+Cuando tú está dañado, hay una posibilidad de que un guardián demoníaco se apresura a ayudar
+Tú. Cuanto mayor sea el daño hecho y cuanto más cerca estés de muerte, mayor será el
+las probabilidades. Cada nivel de esta mutación aumenta la fuerza de sus tutores.%%%%
 powered by pain mutation
 
-When you are harmed, you sometimes gain power, refilling your magical reservoir
-or granting you temporary agility or might. Each level of this mutation
-increases the magnitude of this effect.
-%%%%
+Cuando te dañan, a veces ganas energía, rellenando tu reserva mágica
+o concederle agilidad temporal o podría. Cada nivel de esta mutación
+aumenta la magnitud de este efecto.%%%%
 foul stench mutation
 
-Foes who strike you in melee sometimes cause you to emit a cloud of foul
-miasma, slowing and severely poisoning those caught within. This mutation also
-grants you immunity to miasma (from any source).
-%%%%
+Los enemigos que te golpean en la melodía a veces te hacen emitir una nube de falta
+miasma, ralentizar y envenenar severamente a los atrapados dentro. Esta mutación también
+le otorga inmunidad al miasma (de cualquier fuente).%%%%
 spiny mutation
 
-Foes who strike you in melee have a 50% chance of being impaled on your spines,
-taking damage. Each level of this mutation increases the damage. This mutation
-also grants you immunity to constriction.
-%%%%
+Los tontos que te golpean en la melea tienen un 50% de probabilidades de ser impaltados en tus espinas,
+que dañe. Cada nivel de esta mutación aumenta el daño. Esta mutación
+también le otorga inmunidad a la constricción.%%%%
 augmentation mutation
 
-While in good health, you are more powerful, casting spells and slaying foes
-more effectively. Each level of this mutation increases this effect further.
-%%%%
+Mientras estás en buena salud, eres más poderoso, lanzando hechizos y matando enemigos
+más eficazmente. Cada nivel de esta mutación aumenta aún más este efecto.%%%%
 magic shield mutation
 
-When you are harmed, some damage is redirected to deplete your magic reserves
-instead.
-%%%%
+Cuando tú está dañado, algún daño se redirige a agotar sus reservas mágicas
+en lugar de eso.%%%%
 magic regeneration mutation
 
-Your magical reserves regenerate quickly.
-%%%%
+Sus reservas mágicas se regeneran rápidamente.%%%%
 magic link mutation
 
-When low on magic, you restore magic in place of health.
-%%%%
+Cuando es bajo en la magia, restauras la magia en lugar de la salud.%%%%
 demonic magic mutation
 
-When you cast spells, there's a chance that adjacent monsters will be
-paralysed. This effect is more powerful when casting higher-level spells, but
-monsters with greater willpower can resist it. Each level of this mutation
-allows more distant monsters to be affected. The third level of this mutation
-also allows you to paralyse monsters in the same way while zapping wands.
-%%%%
+Cuando lanzas hechizos, hay una posibilidad de que los monstruos adyacentes sean
+Paralizado. Este efecto es más poderoso al lanzar hechizos de alto nivel, pero
+Los monstruos con mayor fuerza de voluntad pueden resistirlo. Cada nivel de esta mutación
+permite que los monstruos más distantes sean afectados. El tercer nivel de esta mutación
+también te permite paralizar monstruos de la misma manera mientras que las varitas zapping.%%%%
 icemail mutation
 
-You are coated in a protective layer of ice. Fiery attacks can temporarily melt
-the ice, removing the protection until the ice reforms. Each level of this
-mutation increases the protection imparted.
-%%%%
+Estás cubierto con una capa protectora de hielo. Los ataques de fuego pueden derretirse temporalmente
+el hielo, eliminando la protección hasta las reformas del hielo. Cada nivel de esto
+mutación aumenta la protección impartida.%%%%
 condensation shield mutation
 
-A shield of frost guards you, blocking some incoming attacks. Fiery attacks can
-temporarily melt the shield.
-%%%%
+Un escudo de heladas te protege, bloqueando algunos ataques entrantes. Los ataques de fuego pueden
+temporalmente derrite el escudo.%%%%
 powered by death mutation
 
-Death fuels you, allowing you to heal somewhat for each life you take. Each
-level of this mutation increases the healing further.
-%%%%
+La muerte te alimenta, permitiéndote sanar un poco por cada vida que tomas. Cada uno
+El nivel de esta mutación aumenta aún más la curación.%%%%
 sturdy frame mutation
 
-Your movements are less encumbered by armour, mitigating penalties to spell
-success, evasion, and ranged weapon attack speed. Each level of this mutation
-reduces armour ER by 2.
-%%%%
+Tus movimientos están menos ocupados por armadura, atenuando las penas para deletrear
+éxito, evasión y velocidad de ataque de armas. Cada nivel de esta mutación
+reduce la armadura ER por 2.%%%%
 sanguine armour mutation
 
-When seriously injured, your blood congeals around you, forming armour. Each
-level of this mutation increases the AC provided.
-%%%%
+Cuando estás gravemente herido, tu sangre congela a tu alrededor, formando armadura. Cada uno
+El nivel de esta mutación aumenta el AC proporcionado.%%%%
 big brain mutation
 
-What's up? You have a big brain. Each level of this mutation provides +2
-Intelligence. The third level of this mutation also makes you less likely to
-miscast spells.
-%%%%
+¿Qué pasa? Tienes un cerebro grande. Cada nivel de esta mutación proporciona +2
+Inteligencia. El tercer nivel de esta mutación también le hace menos probable
+hechizos de malcast.%%%%
 ignite blood mutation
 
-Whenever you see blood spilled (yours or others'), it may ignite, bursting into
-a cloud of flame. Each level of this mutation makes this more likely. This
-mutation also grants you immunity to clouds of flame.
-# XXX: also mention that this makes people more likely to bleed?
-%%%%
+Cada vez que ves derramada sangre (tú u otros), puede encenderse, irrumpiendo en
+una nube de llama. Cada nivel de esta mutación lo hace más probable. Esto
+mutación también le otorga inmunidad a las nubes de la llama.
+# XXX: también mencionar que esto hace que la gente sea más propensa a sangrar?%%%%
 corrupting presence mutation
 
-When you injure a foe, your presence may intensify the damage, corroding their
-weapons and defences. The second level of this mutation makes matters even
-worse, adding a chance that your wretched victims may become mutated and
-deformed.
-%%%%
+Cuando lesionas a un enemigo, tu presencia puede intensificar el daño, corroeando sus
+armas y defensas. El segundo nivel de esta mutación hace los asuntos incluso
+peor, añadiendo una oportunidad de que sus víctimas miserables puedan ser mutadas y
+deformado.%%%%
 black mark mutation
 
-When you strike a foe in melee, the black mark on your body may debilitate
-them. This can weaken foes, drain their health, or disrupt their magic.
-%%%%
+Cuando golpeas a un enemigo en la melee, la marca negra en tu cuerpo puede debilitar
+ellos. Esto puede debilitar a los enemigos, drenar su salud o interrumpir su magia.%%%%
 aura of silence mutation
 
-You are surrounded by an aura of silence. Those adjacent to you cannot make any
-sound. This prevents most forms of spellcasting and prayer, though demonic
-magic, being noiseless, is unaffected.
-%%%%
+Estás rodeado de un aura de silencio. Aquellos adyacentes a tú no pueden hacer nada
+sonido. Esto evita la mayoría de las formas de ortografía y oración, aunque demoníaca
+magia, sin ruido, no es afectada.%%%%
 bedevilling mutation
 
-You cast Hex spells with increased power.
-%%%%
+Tú lanza hechizos Hex con mayor poder.%%%%
 demonic willpower mutation
 
-Your willpower has a will of its own, sometimes injuring those who attempt to
-hex you. This mutation also bolsters your willpower.
-%%%%
+Tu fuerza de voluntad tiene una voluntad propia, a veces hiriendo a los que intentan
+Te hex. Esta mutación también refuerza su fuerza de voluntad.%%%%
 hurl damnation mutation
 
-You can hurl damnation with <input>$cmd[CMD_USE_ABILITY]</input>. Foes beware!
-%%%%
+Tú puede hurl condenación con <input>$cmd[CMD_USE_ABILITY]</input>. ¡Cuidaos!%%%%
 word of chaos mutation
 
-You can speak a Word of Chaos with <input>$cmd[CMD_USE_ABILITY]</input>.
-%%%%
+Puedes hablar una Palabra de Caos con <input>$cmd[CMD_USE_ABILITY]</input>.%%%%
 freezing cloud immunity mutation
 
-You are immune to freezing clouds.
-%%%%
+Eres inmune a las nubes de congelación.%%%%
 flame cloud immunity mutation
 
-You are immune to clouds of flame.
-%%%%
-# ------ Other species-specific mutations -----
+Eres inmune a las nubes de la llama.%%%%
 spit poison mutation
 
-You can spit poison with <input>$cmd[CMD_USE_ABILITY]</input>. The second level
-of this mutation intensifies the poison from a single glob into a large cloud.
-%%%%
+Puede escupir veneno con <input>$cmd[CMD_USE_ABILITY]</input>. El segundo nivel
+de esta mutación intensifica el veneno de un solo glob en una nube grande.%%%%
 in touch with death mutation
 
-Your Necromancy spells are more powerful. The second level of this mutation
-enhances your Necromancy spellpower further.
-%%%%
+Tus hechizos de necromancia son más poderosos. El segundo nivel de esta mutación
+mejora aún más tu fuerza de hechizo de Necromancy.%%%%
 acrobatic mutation
 
-Your magical nature helps you tumble your hollow bones around acrobatically,
-allowing you to evade attacks while moving or waiting.
-%%%%
+Tu naturaleza mágica te ayuda a tropezar tus huesos huecos alrededor acrobaticamente,
+permitiéndole evadir los ataques mientras se mueve o espera.%%%%
 evasive flight mutation
 
-You fly evasively through the air, increasing your evasion somewhat.
-%%%%
+Vuelas evasivamente por el aire, aumentando tu evasión.%%%%
 big wings mutation
 
-You have big, strong wings, capable of bearing you through the air.
-%%%%
+Tienes grandes y fuertes alas, capaces de llevarte por el aire.%%%%
 float mutation
 
-You hover through the air, forever free from the surly bonds of earth.
-%%%%
+Tú saltas por el aire, para siempre libres de los lazos superficiales de la tierra.%%%%
 innate caster mutation
 
-You cannot learn spells from books. Instead, as you gain experience, spells
-of higher and higher level bubble up from your fiery heart. These spells are
-unpredictable and unaffected by your choice of god. You cannot train specific
-spell schools - you can either train all spell schools at once, or none.
-%%%%
+No puedes aprender hechizos de libros. En su lugar, al ganar experiencia, hechizos
+de nivel superior y superior burbuja arriba de su corazón ardiente. Estos hechizos son
+impredecible y no afectado por su elección de dios. Tú no puede entrenar específico
+Escuelas de ortografía - puede entrenar todas las escuelas de ortografía a la vez, o ninguna.%%%%
 hp casting mutation
 
-You have no separate reserve of magical power, and anything that would affect
-MP has no effect on you. When casting spells, using abilities, or doing anything
-else that *costs* MP for normal species, you spend HP instead.
-%%%%
+Tú no tiene reserva separada de poder mágico, y cualquier cosa que afectaría
+El MP no tiene efecto en ti. Al emitir hechizos, usar habilidades o hacer cualquier cosa
+*costos* MP para especies normales, gastas HP en su lugar.%%%%
 extra vitality mutation
 
-You are built differently from most species, making you slightly harder to kill.
-Each level of this mutation increases your maximum health by 4 points.
-%%%%
+Tú está construido de manera diferente de la mayoría de las especies, lo que le hace un poco más difícil de matar.
+Cada nivel de esta mutación aumenta su salud máxima en 4 puntos.%%%%
 frog-like legs mutation
 
-Your uniquely muscular legs allow you to hop short distances in the blink of an
-eye with <input>$cmd[CMD_USE_ABILITY]</input>, though your walking speed is
-below average.
+Sus piernas únicamente musculosas le permiten saltar distancias cortas en el enlace de un
+ojo con <input>$cmd[CMD_USE_ABILITY]</input>, aunque su velocidad de caminar es
+por debajo del promedio.
 
-The second level of this mutation allows you to hop farther.
-%%%%
+El segundo nivel de esta mutación le permite saltar más lejos.%%%%
 forlorn mutation
 
-You cannot, will not, and will never worship any god.
-%%%%
+No puedes, no lo harás, y nunca adorarás a ningún dios.%%%%
 nightstalker mutation
 
-You are attuned to the shadows, reducing the distance that you can see or be
-seen from.
-%%%%
+Estás afinado a las sombras, reduciendo la distancia que puedes ver o ser
+visto de.%%%%
 +LOS mutation
 
-You are born to the light, increasing the distance that you can see and be seen
-from.
-%%%%
+Naciste a la luz, aumentando la distancia que puedes ver y ser visto
+de.%%%%
 stone body mutation
 
-You are made of living stone which is very resistant to damage. You gain a
-large bonus to your AC, which increases with your experience level, and are
-immune to petrification, poison, disease, sleep, and certain other effects.
-%%%%
+Estás hecho de piedra viva que es muy resistente al daño. Ganas un
+gran bonificación a su AC, que aumenta con su nivel de experiencia, y son
+inmune a la petrificación, veneno, enfermedad, sueño y ciertos otros efectos.%%%%
 cold-blooded mutation
 
-When struck by a cold attack, you may be slowed until your blood warms again.
-%%%%
+Cuando te golpea un ataque frío, puedes ser ralentizado hasta que tu sangre vuelva a calentarse.%%%%
 stealthy paws mutation
 
-When launching attacks on unaware or incapacitated enemies, you inflict extra
-damage in the same way as a human with a short blade might.
-%%%%
+Al lanzar ataques contra enemigos no conscientes o incapacitados, infliges extra
+daño de la misma manera que un humano con una cuchilla corta podría.%%%%
 four strong arms mutation
 
-You have two pairs of two arms, allowing you to wield two-handed weapons with
-one pair and a shield with the other, as well as wear a second pair of gloves.
-You can even wield extremely large weapons like giant clubs, though this takes
-both arm-pairs.
-%%%%
+Tienes dos pares de dos brazos, lo que te permite manipular armas de dos manos con
+un par y un escudo con el otro, así como llevar un segundo par de guantes.
+Tú puede incluso manejar armas extremadamente grandes como clubes gigantes, aunque esto toma
+ambos de los brazos.%%%%
 retaliatory headbutt mutation
 
-When a foe misses you in melee, you may reflexively retaliate, attempting to
-gore your attacker with your horns. You can perform this against a given enemy
-no more than once per player action.
-%%%%
+Cuando un enemigo te echa de menos en la melee, puedes tomar represalias, tratando de
+ve a tu atacante con tus cuernos. Tú puede realizar esto contra un enemigo dado
+no más de una vez por acción de jugador.%%%%
 multi-lived mutation
 
-Every third experience level, you gain an extra life. If you are slain while
-you still have a life remaining, you will reappear elsewhere on the current
-floor. You can continue to gain extra lives even once you reach the maximum
-experience level, but you can't have more than two extra lives at a time.
-%%%%
+Cada tercer nivel de experiencia, ganas una vida extra. Si eres asesinado
+todavía tienes una vida restante, volverás a aparecer en otro lugar en la corriente
+piso. Tú puede seguir ganando vidas adicionales incluso una vez que alcanza el máximo
+nivel de experiencia, pero no puedes tener más de dos vidas adicionales a la vez.%%%%
 distributed training mutation
 
-Whenever you gain experience, it is split between all of your skills. You
-cannot choose to focus. Effects that prevent you from training certain skills,
-such as divine restrictions, do not cause your other skills to rise faster.
-%%%%
+Cada vez que ganas experiencia, se divide entre todas tus habilidades. Tú.
+no puede elegir centrarse. Efectos que te impiden entrenar ciertas habilidades,
+tales como restricciones divinas, no hacen que sus otras habilidades se levanten más rápido.%%%%
 nimble swimmer mutation
 
-You can blend into the waves while swimming through water or flying above it,
-gaining Stealth+. The second level of this mutation also grants you improved
-evasion and increases your movement speed when in or above water.
-%%%%
+Tú puede mezclarse en las olas mientras nada a través del agua o volando sobre él,
+ganando Stealth+. El segundo nivel de esta mutación también te otorga mejoras
+evasión y aumenta la velocidad de movimiento cuando está dentro o por encima del agua.%%%%
 divine attributes mutation
 
-Your divine heritage dramatically boosts your attribute gain (Strength,
-Intelligence, and Dexterity) as you level up relative to other species, both
-in quantity and in how much you can control your development. Every three
-levels, you choose an attribute to increase by four points.
-%%%%
+Su herencia divina aumenta dramáticamente su ganancia de atributo (Fuerza,
+Inteligencia y Dexteridad) a medida que se nivelan en relación con otras especies, ambas
+en cantidad y en cuánto puede controlar su desarrollo. Cada tres
+niveles, tú elige un atributo para aumentar en cuatro puntos.%%%%
 tentacles mutation
 
-Your gelatinous body has eight tentacles that help you move around in shallow
-or deep water and can be used to constrict enemies while attacking them in
-melee. Each tentacle can wear a ring, but you need four of them to move around,
-and either two or four tentacles to hold a weapon depending on its size, and
-two tentacles to hold a shield.
+Tu cuerpo gelatinoso tiene ocho tentáculos que te ayudan a moverte en poco profundo
+o agua profunda y se puede utilizar para constreñir a los enemigos mientras los atacan
+Melee. Cada tentáculo puede usar un anillo, pero necesitas cuatro de ellos para moverse,
+y dos o cuatro tentáculos para sostener un arma dependiendo de su tamaño, y
+dos tentáculos para mantener un escudo.
 
-Your tentacles will try to constrict foes which you attack in melee. (You cannot
-constrict monsters larger than you.) Independently, you have a two-thirds chance
-of launching a damaging 'squeeze' attack whenever you attack in melee.
-%%%%
+Tus tentáculos tratarán de constreñir enemigos que atacas en la melee. (No puedes
+monstruos más grandes que tú.) Independientemente, tienes una oportunidad de dos tercios
+de lanzar un ataque 'squeeze' dañino cuando atacas en la melee.%%%%
 mertail mutation
 
-Your morphogenic matrix is unstable, allowing your lower body to shift to
-a powerful aquatic tail when in shallow or deep water. It will quickly
-reform into legs once you leave the water. When in merform, your tail allows
-you to tail-slap foes when launching melee attacks.
-%%%%
+Su matriz morfógena es inestable, permitiendo que su cuerpo inferior se cambie a
+una poderosa cola acuática cuando en aguas poco profundas o profundas. Lo hará rápidamente.
+reformar las piernas una vez que salgas del agua. Cuando está en merforme, su cola permite
+a los enemigos de cola cuando lanzan ataques de melee.%%%%
 +LOS mutation
 
-The darkness flees at your approach, allowing an extended range of vision and
-ranged attack (+1 line of sight), but also allowing you to be seen and
-potentially targeted from further away.
-%%%%
+La oscuridad huye a su acercamiento, permitiendo una amplia gama de visión y
+ataque (+1 línea de visión), pero también le permite ser visto y
+potencialmente apuntada desde más lejos.%%%%
 no regeneration mutation
 
-You do not regenerate health while resting, and are unable to receive the
-effects of magic that hastens the speed of regeneration. Sources of HP gain
-such as potions and religious invocations will still heal you, and certain
-divine invocations can temporarily grant you the ability to regenerate.
-To compensate, you are able to heal yourself via the
-<input>$cmd[CMD_USE_ABILITY]</input> key, at the cost of permanent MP.
-%%%%
+Tú no regenera la salud mientras descansa, y no puede recibir el
+efectos de la magia que acelera la velocidad de la regeneración. Fuentes de ganancia HP
+como pociones e invocaciones religiosas todavía te sanarán, y ciertas
+Las invocaciones divinas pueden conceder temporalmente la capacidad de regenerarse.
+Para compensar, tú es capaz de curarse a sí mismo a través de la
+Llave <input>$cmd[CMD_USE_ABILITY]</input>, a costa del MP permanente.%%%%
 treasure sense mutation
 
-You have an uncanny knack for knowing where items can be found. As you explore
-the dungeon, nearby item locations that you cannot directly see will gain a
-marker for as-yet-undiscovered items.
-%%%%
-# ------ Jiyva muts ------
+Tú tiene un cuchillo increible para saber dónde se pueden encontrar los elementos. Mientras exploras
+la mazmorra, localizaciones cercanas que no puede ver directamente ganará un
+marcador para artículos no descubiertos.%%%%
 gelatinous body mutation
 
-Your body is rubbery, and your foes like glue. Each level of this mutation
-confers +1 AC and +1 EV.
-%%%%
+Tu cuerpo es goma, y tus enemigos como pegamento. Cada nivel de esta mutación
+conferencias +1 AC y +1 EV.%%%%
 eyeballs mutation
 
-Golden eyeballs sprout from your flesh like mushrooms, confusing your foes.
-Each level of this mutation improves your accuracy with weapons, unarmed
-attacks, auxiliary attacks, and spells. The third level of this mutation also
-allows you to see invisible foes.
-%%%%
+Los globos de oro brotan de tu carne como hongos, confundiendo a tus enemigos.
+Cada nivel de esta mutación mejora su precisión con armas, desarmadas
+ataques, ataques auxiliares y hechizos. El tercer nivel de esta mutación también
+te permite ver enemigos invisibles.%%%%
 translucent skin mutation
 
-Your skin is transparent, improving your stealth and reducing the accuracy of
-your foes' attacks against you. Each level of this mutation reduces your foes'
-accuracy further.
-%%%%
+Su piel es transparente, mejorando su sigilo y reduciendo la precisión de
+los ataques de tus enemigos contra ti. Cada nivel de esta mutación reduce la de tus enemigos
+más precisión.%%%%
 slime shroud mutation
 
-When struck in melee, the slimy shroud covering your body may deflect the
-attack. Such deflection will break the shroud, however, and it will take time
-for it to reconstitute itself.
-%%%%
+Cuando se golpea en la melee, el baboso que cubre su cuerpo puede desviar el
+ataque. Tal deflexión romperá el shroud, sin embargo, y tomará tiempo
+para que se reconstituya.%%%%
 tendrils mutation
 
-When struck in melee, the slimy tendrils covering your body may grab your
-attacker's weapon and yank it from their grasp, disarming them.
-%%%%
+Cuando se golpea en la melee, los esbeltos tendriles que cubren su cuerpo pueden agarrar su
+El arma del atacante y lo arrancan de su alcance, desarmarlos.%%%%
 jelly sensing items mutation
 
-You have a small jelly attached to you that senses nearby items.
-%%%%
+Tienes una pequeña gelatina que siente los artículos cercanos.%%%%
 jelly absorbing missiles mutation
 
-When struck by a missile (such as an arrow or crossbow bolt), a jelly on your
-body may eat it, healing you somewhat.
-%%%%
+Cuando se golpea por un misil (como una flecha o un tornillo cruzado), una jalea en su
+el cuerpo puede comerlo, sanándote un poco.%%%%
 ooze flood mutation
 
-Your melee attacks may flood the airways of your foes with ooze. Those that need
-to breathe air will be silenced and take asphyxiation damage over time.
-%%%%
+Tus ataques pueden inundar las vías respiratorias de tus enemigos con ooze. Aquellos que necesitan
+respirar aire será silenciado y tomar daño de asfixia con el tiempo.%%%%
 otherworldly mutation
 
-You are foreign to this world, easily perceived by dark forces. You have only
-one-tenth the normal time on each dungeon floor before Zot finds you and
-permanently reduces your health.
-%%%%
+Tú son extranjeros a este mundo, fácilmente percibidos por fuerzas oscuras. Sólo tienes
+una décima parte del tiempo normal en cada planta de mazmorras antes de que Zot te encuentre y
+reduce permanentemente su salud.%%%%
 foul shadow mutation
 
-Your body is shadowed by foul flame. Foes hit you less often, and your stealth
-is greatly enhanced. Foes who strike you in melee are sometimes seared by the
-foul flame; undead and demonic foes take less damage from it, while holy beings
-and good god worshippers take more.
-%%%%
+Tu cuerpo está sombreado por la llama nefasta. Los tontos te golpean menos a menudo, y tu sigilo
+está mucho mejorada. Los tontos que te golpean en la melee a veces son sellados por el
+llama férula; enemigos no muertos y demoníacos toman menos daño de ella, mientras seres santos
+y los buenos adoradores de Dios toman más.%%%%
 explore regen mutation
 
-You are invigorated by the discovery of the unknown. As you explore the dungeon,
-your wounds will heal and your magic will replenish.
-%%%%
+Estás vigorizado por el descubrimiento de lo desconocido. Mientras exploras la mazmorra,
+tus heridas sanarán y tu magia reponerá.%%%%
 faith mutation
 
-You were embalmed with holy oils and sacred spices and bound about with blessed
-cloth. Now you have a special connection with the divine, allowing you to gain
-favour with your chosen god more quickly.
-%%%%
+Estabas embalsamado con aceites santos y especias sagradas y atado con bendito
+tela. Ahora tienes una conexión especial con lo divino, permitiéndote ganar
+favor con tu dios elegido más rápido.%%%%
 devour on kill mutation
 
-When you kill living creatures you have a chance to devour their life force
-and restore health.
-%%%%
+Cuando matas criaturas vivientes tienes la oportunidad de devorar su fuerza vital
+y restaurar la salud.%%%%
 rollpage mutation
 
-You instinctively roll as you move toward enemies, rampaging forward an
-additional space. This mutation grants magic regeneration when rolling; the
-second level of this mutation regenerates both magic and health.
-%%%%
+Tú, instintivamente, giras hacia los enemigos, lanzando hacia adelante una
+espacio adicional. Esta mutación otorga regeneración mágica al rodar; la
+El segundo nivel de esta mutación regenera tanto la magia como la salud.%%%%
 double potion healing mutation
 
-Whenever a potion restores your health or magic, it restores twice as much.
-%%%%
+Cuando una poción restaura su salud o magia, restaura el doble de cosas.%%%%
 drunken brawling mutation
 
-Whenever you drink a potion that restores health or magic, you perform an
-immediate attack against all enemies adjacent to you.
+Cuando bebes una poción que restaura la salud o la magia, realizas una
+ataque inmediato contra todos los enemigos adyacentes a tú.
 
-(This includes potions of curing, heal wounds, magic, and ambrosia.)
-%%%%
+(Esto incluye pociones de curación, heridas de sanación, magia y ambrosia.)%%%%
 artefact enchanting mutation
 
-You can use scrolls of enchant weapon and armour upon random artefacts.
+Puede utilizar pergaminos de arma y armadura encantada sobre artefactos aleatorios.
 
-This cannot raise their enchantment above what would normally be possible on a
-mundane item of the same type, and cannot affect especially unusual artefacts
-at all.
-%%%%
+Esto no puede elevar su encanto por encima de lo que normalmente sería posible en un
+ítem mundano del mismo tipo, y no puede afectar especialmente los artefactos inusuales
+Para nada.%%%%
 runic magic mutation
 
-You cast spells with the assistance of glyphs marked upon your armour, greatly
-reducing the complex movements which would otherwise be required.
+Tú lanza hechizos con la ayuda de glifos marcados en su armadura, grandemente
+reducir los movimientos complejos que de otro modo serían necesarios.
 
-(The encumbrance rating of all armour you wear is reduced by 1/2 for purposes
-of spell success.)
-%%%%
+(El grado de encumbrancia de toda la armadura que usas se reduce en 1/2 para propósitos
+de éxito del hechizo.)%%%%
 off-hand wielding mutation
 
-You can wield a one-handed weapon in your off-hand, if not wielding a
-two-handed weapon or wearing a shield or orb. You will follow up attacks from
-your primary weapon with your off-hand weapon, with attack delay determined
-by the average of the two. Ranged weapons can only follow attacks by ranged
-weapons, and likewise melee weapons.
-%%%%
+Puedes usar un arma de una sola mano en tu mano, si no usas un arma
+arma de dos manos o usando un escudo o un orbe. Seguirás los ataques de
+su arma primaria con su arma desactivada, con retraso de ataque determinado
+por el promedio de los dos. Las armas extendidas sólo pueden seguir los ataques por separado
+armas, y también armas melee.%%%%
 slow wielding mutation
 
-You must recalibrate your grasping arms when wielding or unwielding weapons.
-This takes as long as donning armour.
-%%%%
+Tú debe recalibrar sus brazos de captación al manipular o desenrollar armas.
+Esto lleva tanto tiempo como donar armadura.%%%%
 warmup strikes mutation
 
-Your grasping arms need time to limber up, making your first few attacks in
-each fight less effective. Slow, heavy attacks help more than fast attacks.
-Both weapon-based and unarmed attacks are affected.
-%%%%
+Tus brazos agarrados necesitan tiempo para alargar, haciendo tus primeros ataques en
+cada lucha menos eficaz. Los ataques lentos y pesados ayudan más que los ataques rápidos.
+Tanto los ataques basados en armas como los desarmados se ven afectados.%%%%
 no rings mutation
 
-Your hands are embedded into the controls for your grasping arms, leaving you
-with no place to wear magical rings without disastrous magical interference.
-%%%%
+Tus manos están incrustadas en los controles de tus brazos de agarrado, dejándote
+sin lugar para usar anillos mágicos sin interferencia mágica desastrosa.%%%%
 iron-fused scales mutation
 
-Your scales are fused with a thick layer of iron, giving them resilience akin to
-a suit of armour (+5 AC).
-%%%%
+Sus escalas se fusionan con una capa gruesa de hierro, dándoles resistencia similar a
+un traje de armadura (+5 AC).%%%%
 inviolate magic mutation
 
-Your magic is resistant to distruption by outside forces. Hostile effects which
-drain your MP drain only 1/3 as much and you are immune to having your magical
-effects be removed by anyone but yourself.
-%%%%
+Su magia es resistente a la disrupción por fuerzas externas. Efectos hostiles
+drena tu drenaje MP sólo 1/3 tanto y eres inmune a tener tu magia
+los efectos sean eliminados por cualquiera excepto por ti mismo.%%%%
 formless mutation
 
-You have no physical body and instead interact with the world through haunting
-objects. This allows you to 'equip' up to 6 boots, gloves, cloaks, or helmets in
-any combination, but body armour is too large for you to usefully manipulate in
-this fashion.
+Tú no tiene cuerpo físico y en su lugar interactuar con el mundo a través de perseguir
+objetos. Esto le permite 'equip' hasta 6 botas, guantes, capas, o cascos en
+cualquier combinación, pero la armadura corporal es demasiado grande para que tú pueda manipular útilmente
+esta moda.
 
-At higher levels, you can even send the armour you are haunting out to attack
-enemies independently for short periods of time.
-%%%%
+En niveles más altos, incluso puede enviar la armadura que está persiguiendo para atacar
+enemigos independientemente por cortos períodos de tiempo.%%%%
 trickster mutation
 
-Your connection to the realm of the living grows stronger as you spread
-misfortune.
+Su conexión con el reino de los vivos crece más fuerte mientras se extiende
+infortunio.
 
-Whenever you or your allies inflict new negative status effects upon nearby
-enemies (other than poison), your AC temporarily increases. This bonus improves
-with the number of different enemies affected, but will decay over time if you
-do not continue to inflict new misfortune.
+Cada vez que tú o sus aliados infligen nuevos efectos negativos sobre el estado cercano
+enemigos (excepto el veneno), su AC aumenta temporalmente. Este bono mejora
+con el número de diferentes enemigos afectados, pero se desintegrará con el tiempo si tú
+no siga infligiendo nuevas desgracias.
 
-At your current XL, you can gain a maximum bonus of
-{{return 6 + you.xl() * 4 / 5;}} AC this way.
-%%%%
+En su XL actual, tú puede ganar un bono máximo de
+{{return 6 + you.xl() * 4 / 5;} AC this way.%%%%
 mnemnophage mutation
 
-You devour the memories and even the very existence of those you kill, subsuming
-them in the unholy fire that wreathes your body.
+Devoras los recuerdos e incluso la existencia misma de aquellos que matas, subsumiendo
+ellos en el fuego impío que causa tu cuerpo.
 
-Once you have accumulated enough memories, you may choose to burn them all away
-as fuel to greatly enhance your spellcasting for a short period of time.
+Una vez que haya acumulado suficientes recuerdos, es posible que elija quemarlos a todos
+como combustible para mejorar grandemente su ortografía por un corto período de tiempo.
 
-At your current experience level, you can hold enough memories to cast a maximum
-of {{return 3 + math.floor(you.xl() * 3 / 20);}} spells in a row this way.
-%%%%
+En su nivel de experiencia actual, puede tener suficientes recuerdos para lanzar un máximo
+de {{return 3 + math.floor(you.xl() * 3 / 20);} hechizos en una fila de esta manera.%%%%
 spellclaws mutation
 
-You instinctually channel destructive magic through your claws. When casting a
-damage-dealing spell, you also perform a melee attack against the most healthy
-enemy in your attack range.
+Instintivamente canalizas la magia destructiva a través de tus garras. Al fundir un
+hechizo de descalificación de daños, tú también realiza un ataque de melee contra el más saludable
+enemigo en su rango de ataque.
 
-This attack does reduced damage if your attack speed is slower than your casting
-speed.
-%%%%
+Este ataque reduce el daño si su velocidad de ataque es más lenta que su casting
+velocidad.%%%%
 accursed mutation
 
-Your accursed nature makes it harder to dispel malignant energies from your
-being, reducing the rate at which you can recover from Doom and Banes.
-# ------ Fakemut descriptions ------
-%%%%
+Su naturaleza acertada hace más difícil disipar energías malignas de sus
+ser, reduciendo la tasa a la que se puede recuperar de Doom y Banes.
+# ------ Descripciones falsas..%%%%
 vampire fangs mutation
 
-When you perform a stab attack against a living monster with blood, you heal for
-a portion of the total damage dealt. When you are at 50% of your max HP or less,
-this has a 2/3 chance to happen on all melee attacks.
-%%%%
+Cuando realizas un ataque de puñalada contra un monstruo vivo con sangre, curas para
+una parte del daño total tratado. Cuando tú está al 50% de su HP máximo o menos,
+esto tiene una oportunidad de 2/3 para ocurrir en todos los ataques de melee.%%%%
 bloodcurse mutation
 
-When you kill a living monster with a stab attack, they may rise again to serve
-you as a vampiric thrall. Thralls possess all the abilities they had in life,
-but are undead, and gain a vampiric bite attack as well as increased melee
-damage against sleeping foes. Spellcaster thralls will also gain knowledge of
-the Vampiric Draining spell.
+Cuando matas a un monstruo vivo con un ataque de apuñalas, pueden levantarse de nuevo para servir
+como un timón caprichoso. Los Thralls poseen todas las habilidades que tenían en la vida,
+pero no están muertos, y ganar un ataque de mordedura vampírico, así como un aumento de la melee
+daño contra los enemigos dormidos. Spellcaster thralls también ganará conocimiento de
+el hechizo Vampiric Draining.
 
-You can only create a thrall if you do not have one already, and they will
-inevitably turn to dust after a short time.
-%%%%
+Tú sólo puede crear un thrall si tú no tiene uno ya, y ellos serán
+inevitablemente volver al polvo después de poco tiempo.%%%%
 insubstantial mutation
 
-You are insubstantial and immune to many effects that require a solid body. You
-cannot be constricted, petrified, skewered by barbs, covered in sticky flame, or
-caught by webs, nets, or bolas.
-%%%%
+Tú es insustancial e inmune a muchos efectos que requieren un cuerpo sólido. Tú.
+no puede ser restringido, petrificado, esquejado por los barbs, cubierto de llama pegajosa, o
+atrapado por telas, redes o bolas.%%%%
 frigid aura mutation
 
-Your breath radiates an intense chill which freezes nearby walls solid as you
-fight.
+Su aliento irradia un intenso escalofrío que congela paredes cercanas sólidas como tú
+pelea.
 
-Whenever you attack, you turn a random wall adjacent to your target or yourself
-frigid. Frigid walls deal damage to any enemies adjacent to them each turn - up
-to twice as much when an enemy is adjacent to as many as possible. This damage
-increases with your shapeshifting skill.
+Cuando atacas, giras una pared al azar adyacente a tu objetivo o a ti mismo
+Frígida. Las paredes frigidas dan daño a cualquier enemigo adyacente a cada vuelta - arriba
+hasta el doble de cuando un enemigo está adyacente al mayor número posible. Este daño
+aumenta con su habilidad para cambiar formas.
 
-The walls will rapidly melt again if you stop attacking.
-%%%%
+Las paredes se derretirán rápidamente si dejas de atacar.%%%%
 hive swarm mutation
 
-Whenever an injury reduces your health to less than 50%, angry bees will swarm
-out of your body to defend you.
+Cada vez que una lesión reduce su salud a menos del 50%, las abejas enojadas enjambre
+fuera de tu cuerpo para defenderte.
 
-This effect cannot happen again until your health is fully recovered.
-%%%%
+Este efecto no puede suceder de nuevo hasta que su salud esté completamente recuperada.%%%%
 water reaching mutation
 
-Your body is formed of elemental water that changes shape flexibly, allowing you
-to reach and perform melee attacks from several tiles away - including auxiliary
-attacks of all sorts.
+Tu cuerpo está formado por agua elemental que cambia de forma flexible, permitiéndote
+para alcanzar y realizar ataques de melee de varias fichas de distancia - incluyendo auxiliar
+ataques de todo tipo.
 
-The precision required to preform stab attacks is still impossible unless you're
-adjacent to your target, and axes can only cleave to enemies adjacent to you,
-regardless of where you strike.
-%%%%
+La precisión necesaria para preformar los ataques de puñaladas sigue siendo imposible a menos que estés
+adyacente a su objetivo, y los hachas sólo pueden zarpar a enemigos adyacentes a tú,
+independientemente de dónde golpees.%%%%
 water splatter mutation
 
-When injured, parts of your watery body may splatter as puddles of shallow
-water nearby. The more damage you take at once, the more water is spread around.
-%%%%
+Cuando se lesiona, partes de su cuerpo acuoso pueden brotar como charcos de sauce
+Agua cerca. Cuanto más daño tome a la vez, más agua se extiende alrededor.%%%%
 freeze response mutation
 
-Whenever you are exposed to cold damage, you have a chance to become Frozen,
-lowering your movement speed for a short while.
-%%%%
+Cada vez que estás expuesto al daño frío, tienes la oportunidad de convertirte en congelado,
+bajando la velocidad de movimiento por un corto tiempo.%%%%
 steam response mutation
 
-Whenever you take fire damage from a projectile, you have a chance (increasing
-with the damage suffered) to spread steam clouds around yourself.
-%%%%
+Cada vez que tomas daño al fuego de un proyectil, tienes una oportunidad (aumento
+con el daño sufrido) para difundir nubes de vapor alrededor de tú mismo.%%%%
 airstrike attack mutation
 
-Whenever you strike an enemy in melee, the wind twists around and strikes them
-for additional damage which is increased for each empty space adjacent to them.
-%%%%
+Cada vez que golpeas a un enemigo en la melee, el viento gira alrededor y los golpea
+para daños adicionales que se incrementan para cada espacio vacío adyacente a ellos.%%%%
 hex mastery mutation
 
-Your Hexes spells are much easier to cast (reduced miscast chance and severity)
-and enemies have reduced willpower against all your effects.
-%%%%
+Tus hechizos Hexes son mucho más fáciles de lanzar (probabilidad y severidad reducidas)
+y los enemigos han reducido la fuerza de voluntad contra todos sus efectos.%%%%
 riddle compulsion mutation
 
-You compulsively pose riddles to enemies when you encounter them. Every now and
-again, these may confuse or vex them, but mostly they just attract their
-attention.
-%%%%
+Tú plantea compulsivamente enigmas a los enemigos cuando los encuentra. Cada vez
+de nuevo, estos pueden confundirlos o enloquecerlos, pero sobre todo atraen a sus
+Atención.%%%%
 werefury mutation
 
-Whenever you kill an enemy with a melee attack, you gain a temporary slaying
-bonus that increases with your Shapeshifting skill.
+Cuando matas a un enemigo con un simple ataque, ganas un asesinato temporal
+bono que aumenta con tu habilidad de Shapeshifting.
 
-This bonus stacks up to +12 and will not expire so long as you continue to
-perform melee attacks.
-%%%%
+Esta bonificación apila hasta +12 y no expirará mientras sigas
+realizar ataques de melee.%%%%
 werehowl mutation
 
-When you kill an enemy in melee, if your werefury bonus is at least 5, you may
-unleash a terrifying howl that attempts to freeze all nearby enemies in place
-with fear if it overcomes their willpower.
-%%%%
+Cuando matas a un enemigo en el melee, si tu bonificación fuefuria es al menos 5, puedes
+desatar un terrible aullido que intenta congelar a todos los enemigos cercanos en su lugar
+con miedo si supera su fuerza de voluntad.%%%%
 stinger hair mutation
 
-Your hair is made of long prehensile jellyfish-like tendrils. Whenever you
-attack in melee, they will lash out and attempt to poison several visible
-enemies within 2 tiles of the player at random.
+Tu cabello está hecho de largas medusas-como tendriles. Siempre
+ataque en melee, ellos echarán fuera e intentarán envenenar a varios visibles
+enemigos dentro de 2 fichas del jugador al azar.
 
-The number of enemies they can afflict at once is improved by Shapeshifting
-skill.
-%%%%
+El número de enemigos que pueden afligir a la vez es mejorado por Shapeshifting
+habilidad.%%%%
 lithotoxin mutation
 
-When your health drops to 60% of your max HP or less, your tendrils reflexively
-attempt to petrify all poisoned enemies within 3 tiles of you.
+Cuando su salud cae al 60% de su HP max o menos, sus tendriles reflexivamente
+tratar de petrificar a todos los enemigos envenenados dentro de 3 fichas de tú.
 
-This effect cannot activate again until you fully heal and its success chance
-improves with your Shapeshifting skill.
-%%%%
+Este efecto no puede activarse de nuevo hasta que sane completamente y su oportunidad de éxito
+mejora con tu habilidad de Shapeshifting.%%%%
 contaminating mutation
 
-When you strike an enemy in melee, a portion of the transmutational energy
-surging through will contaminate them. Upon landing the third strike in a row,
-this contamination will grow so acute that it will twist their bodily form,
-inflicting significant AC-ignoring damage and malmutating them.
-%%%%
+Cuando golpeas a un enemigo en melee, una parte de la energía transmutacional
+sobrevivir los contaminará. Al aterrizar la tercera huelga seguida,
+esta contaminación crecerá tan aguda que retorcerá su forma corporal,
+infligir daños significativos por AC y malmutarlos.%%%%
 maw attack mutation
 
-Your maw sometimes bites enemies in melee, at a rate independant of your own
-attack speed (once per 15 aut, on average). Its base damage is directly
-increased by 75% of your strength.
-%%%%
+Tu madre a veces muerde enemigos en la melee, a un ritmo independiente de tu propio
+velocidad de ataque (una vez por 15 aut, en promedio). Su daño base es directamente
+aumentó un 75% de tu fuerza.%%%%
 devouring maw mutation
 
-When you kill an edible enemy in melee (any hostile, non-summoned, living or
-plant monster), your maw devours it, greatly increasing your regeneration for a
-short while. More powerful enemies provide a longer duration of this effect.
-%%%%
+Cuando matas a un enemigo comestible en melee (cualquier hostil, no consumado, vivo o
+monstruo de planta), su mandíbula lo devora, aumentando enormemente su regeneración para un
+poco tiempo. Los enemigos más poderosos proporcionan una duración más larga de este efecto.%%%%
 growling stomach mutation
 
-Your maw's appetite is insatiable. Whenever you first encounter an edible
-monster, there is a chance to become mesmerised by it and let out a loud growl.
-%%%%
+El apetito de tu madre es insaciable. Siempre que encuentres una comestible
+monstruo, hay una oportunidad de ser mesmerizado por él y dejar salir un gruñido fuerte.%%%%
 eel punch mutation
 
-Your melee hits have a 50% chance of discharging an arc of electricity that
-travels between several connected enemies.
-%%%%
+Tus golpes de meleo tienen un 50% de probabilidad de deshacer un arco de electricidad que
+viaja entre varios enemigos conectados.%%%%
 eeljolt mutation
 
-When your health drops to 40% of your max HP, your eels violently discharge
-electricity, striking all connected targets within 2 tiles of yourself - be they
-friend or foe - for twice the damage their electricity normally does.
+Cuando su salud cae al 40% de su HP max, sus anguilas se descargan violentamente
+electricidad, golpear todos los objetivos conectados dentro de 2 fichas de ti mismo - ya sean
+amigo o enemigo - por el doble de daño que su electricidad normalmente hace.
 
-This effect cannot activate again until you fully heal.
-%%%%
+Este efecto no puede activarse de nuevo hasta que sane completamente.%%%%
 blade parry mutation
 
-You briefly gain SH equal to your slaying whenever you perform a melee attack
-(with an additional flat bonus based on your Shapeshifting skill).
-%%%%
+You briefly gain SH equal to your slaying every you perform a melee attack
+(con una bonificación plana adicional basado en su habilidad de Shapeshifting).%%%%
 sporulate mutation
 
-Your melee attacks cause multiple burstshrooms to begin growing on unoccupied
-tiles behind your target. If they are allowed to grow for several turns, they
-will explode in a burst of spores that damages nearby enemies and can briefly
-daze them.
-%%%%
+Tus ataques de meleo causan que varios cuartos de erupción comiencen a crecer sin preocupaciones
+fichas detrás de tu objetivo. Si se les permite crecer por varios giros, ellos
+explotará en una explosión de esporas que daña a los enemigos cercanos y puede brevemente
+Dales una paliza.%%%%
 armoured shell mutation
 
-Your body armour is fused into your shell, multiplying its base AC by a factor
-that increases with your Shapeshifting skill. The effectiveness of its ego and
-most artefact properties will also be doubled, though certain rare artefacts may
-be too unusual to enhance this way.
-%%%%
+Su armadura corporal se fusiona en su cáscara, multiplicando su base AC por un factor
+que aumenta con tu habilidad de Shapeshifting. La eficacia de su ego y
+la mayoría de las propiedades del artefacto también se duplicarán, aunque ciertos artefactos raros pueden
+ser demasiado inusual para mejorar de esta manera.%%%%
 hypnotic gaze mutation
 
-Your gaze has a hypnotic effect on many creatures. Whenever a living, demonic,
-or holy monster first notices you, it may become momentarily dazed, preventing
-it from shouting. Creatures which fail a Willpower check will be dazed for even
-longer.
-%%%%
-# ------ Makhleb destruction flavours ------
+Tu mirada tiene un efecto hipnótico en muchas criaturas. Cada vez que un vivo, demoníaco,
+o el monstruo santo primero te nota, puede ser momentáneamente aturdido, evitando
+de gritar. Criaturas que fallan un cheque de Willpower serán aturdidas incluso
+más tiempo.%%%%
 Gehenna destruction mutation
 
-Your Unleash Destruction ability is empowered by Gehenna. You are able to hurl
-bolts of magma instead of cold, and your bolts of fire can strip away their
-victims' fire resistance.
-%%%%
+Su habilidad de destrucción Unleash está habilitada por Gehenna. Eres capaz de chocar
+tornillos de magma en lugar de frío, y tus tornillos de fuego pueden despojar sus
+Resistencia al fuego de las víctimas.%%%%
 Cocytus destruction mutation
 
-Your Unleash Destruction ability is empowered by Cocytus. You are able to hurl
-bolts of ice instead of fire, and your bolts of cold freeze victims solid,
-slowing their movement.
-%%%%
+Su habilidad de destrucción Unleash está habilitada por Cocytus. Eres capaz de chocar
+pernos de hielo en lugar de fuego, y sus pernos de víctimas de congelación fría sólidas,
+ralentizando su movimiento.%%%%
 Tartarus destruction mutation
 
-Your Unleash Destruction ability is empowered by Tartarus. You are able to hurl
-bolts of devastation which lower their victims' willpower instead of lightning,
-and your bolts of negative energy are more powerful.
-%%%%
+Su habilidad de destrucción Unleash está empoderada por Tartarus. Eres capaz de chocar
+pernos de devastación que bajan la fuerza de voluntad de sus víctimas en lugar de relámpagos,
+y tus tornillos de energía negativa son más poderosos.%%%%
 Dis destruction mutation
 
-Your Unleash Destruction ability is empowered by Dis. You are able to hurl bolts
-of corrosive acid and metal splinters instead of negative energy.
-%%%%
-# ------ Makhleb marks ------
+Su habilidad de destrucción Unleash está habilitada por Dis. Eres capaz de hurl bolts
+de ácido corrosivo y espinillas metálicas en lugar de energía negativa.%%%%
 Mark of the Tyrant mutation
 
-Your Infernal Servants have a longer duration, and you can summon even stronger
-ones at very high Invocations (at the cost of additional piety). When you slay
-enemies, a random servant may gain one of: Haste, Might, Regeneration, or
-Brilliance.
-%%%%
+Sus sirvientes infernales tienen una duración más larga, y tú puede convocar aún más fuerte
+de invocaciones muy altas (a costo de la piedad adicional). Cuando matas
+enemigos, un sirviente al azar puede ganar uno de: prisa, poder, regeneración o
+Brilliance.%%%%
 Mark of Carnage mutation
 
-Your Infernal Servants are now summoned adjacent to a random enemy instead of
-near you. When they appear, they do so in a blast of your characteristic
-Destruction (which cannot hurt you or other allies).
+Sus sirvientes infernales ahora son convocados adyacentes a un enemigo aleatorio en lugar de
+cerca de ti. Cuando aparecen, lo hacen en una explosión de su característica
+Destrucción (que no puede lastimarte u otros aliados).
 
-(Your servants unleash blasts of either
-{{
-    if you.get_base_mutation_level("Dis destruction") == 1 then
-        return "acid or metal splinters"
-    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
-        return "negative energy or devastation"
-    elseif you.get_base_mutation_level("Gehenna destruction") == 1 then
-        return "fire or lava"
-    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
-        return "cold or ice"
-    end
-}}.)
-%%%%
+(Sus sirvientes desencadenan explosiones de cualquiera
+{}
+si usted.get base mutation level("Dis destruction") == 1 entonces
+devuelve "acid o espinillas metálicas"
+si usted.get base mutation level("Tartarus destruction") == 1 entonces
+devolver "energía negativa o devastación"
+si usted.get base mutation level("Gehenna destruction") == 1 entonces
+"fuego o lava"
+si usted.get base mutation level("Cocytus destruction") == 1 entonces
+devolver "frío o hielo"
+final
+})%%%%
 Mark of the Legion mutation
 
-Your Infernal Servant ability is replaced with Infernal Legion, allowing you to
-call in a small army of demons over time. While individually short-lived, their
-numbers are inexhaustible for as long as the status lasts, and they will never
-be hostile to you.
+Su habilidad de sirviente infernal es reemplazada por Legión Infernal, lo que le permite
+llama a un pequeño ejército de demonios con el tiempo. Mientras que individualmente de corta duración, sus
+los números son inagotables mientras el estado dura, y nunca lo harán
+ser hostil a ti.
 
-You may also unleash Makhleb's Destruction through your summoned allies without
-harming them.
-%%%%
+También puede desencadenar la destrucción de Makhleb a través de sus aliados convocados sin
+hacerles daño.%%%%
 Mark of Annihilation mutation
 
-Your Infernal Servant ability is replaced with Globe of Annihilation, allowing
-you to hurl slow-moving spheres of intense destructive force that detonate
-in an enormous blast of your characteristic Destruction.
+Su habilidad de sirviente infernal es reemplazada por Globe of Annihilation, permitiendo
+tú para abrazar las esferas de movimiento lento de la fuerza destructiva intensa que detona
+en una enorme explosión de su destrucción característica.
 
-(Your globes of annihilation unleash either
-{{
-    if you.get_base_mutation_level("Dis destruction") == 1 then
-        return "acid or metal splinters"
-    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
-        return "negative energy or devastation"
-    elseif you.get_base_mutation_level("Gehenna destruction") == 1 then
-        return "fire or lava"
-    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
-        return "cold or ice"
-    end
-}}.)
-%%%%
+(Tus globos de aniquilación desencadenan
+{}
+si usted.get base mutation level("Dis destruction") == 1 entonces
+devuelve "acid o espinillas metálicas"
+si usted.get base mutation level("Tartarus destruction") == 1 entonces
+devolver "energía negativa o devastación"
+si usted.get base mutation level("Gehenna destruction") == 1 entonces
+"fuego o lava"
+si usted.get base mutation level("Cocytus destruction") == 1 entonces
+devolver "frío o hielo"
+final
+})%%%%
 Mark of Haemoclasm mutation
 
-When you kill enemies, they have a small chance to explode in a violent rain of
-gore, which damages adjacent foes proportional to the victim's maximum health.
+Cuando matas enemigos, tienen una pequeña oportunidad de explotar en una lluvia violenta
+gore, que daña los enemigos adyacentes proporcional a la salud máxima de la víctima.
 
-Enemies who die to this explosion will always explode themselves.
-%%%%
+Los enemigos que mueren a esta explosión siempre explotarán.%%%%
 Mark of the Celebrant mutation
 
-Whenever you fall below 50% of your maximum HP, you perform an infernal rite,
-unleashing a flurry of blood arrows aimed at nearby enemies. You will fire at
-least one arrow for every valid target, but may fire additional ones if few are
-present. Invocations increases the damage of these arrows, and Makhleb will
-always bestow healing upon you for enemies killed by them.
+Cada vez que cae por debajo del 50% de su HP máximo, realiza un rito infernal,
+Desatar un rayo de flechas sanguíneas dirigidas a enemigos cercanos. Dispararás.
+menos una flecha para cada objetivo válido, pero puede disparar otros si pocos son
+presente. Las invocaciones aumentan el daño de estas flechas, y Makhleb
+Siempre te da sanidad por enemigos asesinados por ellos.
 
-After performing a blood rite, you cannot perform another until your HP has
-fully recovered.
-%%%%
+Después de realizar un rito de sangre, tú no puede realizar otro hasta que su HP tiene
+totalmente recuperado.%%%%
 Mark of Execution mutation
 
-A demonic incarnation of murder lies dormant within your soul. Whenever you kill
-an enemy in melee, there is a small chance for it to awaken and manifest as a
-maelstrom of scythe-like blades enveloping you. These blades will attack
-whenever you do and also retaliate whenever you successfully dodge an enemy
-attack.
+Una encarnación demoníaca del asesinato se encuentra en tu alma. Siempre que matas
+un enemigo en melee, hay una pequeña oportunidad para que se despierte y se manifieste como
+maelstrom de cuchillas parecidas a las de hielo envolviéndote. Estas cuchillas atacarán
+cada vez que lo hace y también tomar represalias cada vez que tú con éxito
+ataque.
 
-You have the ability to rampage swiftly towards enemies while possessed, but if
-you spend more than a short while doing anything other than attacking, the
-demonic presence will go dormant inside you once again.
-%%%%
+Tú tiene la capacidad de rampage rápidamente hacia los enemigos mientras poseídos, pero si
+pasas más que un corto mientras haces algo más que atacar, el
+La presencia demoníaca volverá a permanecer en tu interior.%%%%
 Mark of Atrocity mutation
 
-Your Unleash Destruction is empowered the more times you use it consecutively
-without pause, increasing in both damage and health cost. Upon using it a fourth
-time in a row, you will automatically unleash a wild barrage of additional bolts
-aimed at random targets and reset this boost.
-%%%%
+Su destrucción Unleash está habilitada más veces que lo usas consecutivamente
+sin pausa, aumentando tanto en el daño como en el costo de la salud. Al usarlo un cuarto
+tiempo seguido, tú desencadenará automáticamente un bombardeo salvaje de pernos adicionales
+apuntado a objetivos aleatorios y restablecer este impulso.%%%%
 Mark of the Fanatic mutation
 
-Grants you the Vessel of Slaughter ability, allowing you to transform into a
-powerful demonic avatar with greatly boosted offence and defence for a short
-period of time, in exchange for being dragged down into the Crucible of Flesh
-afterward and made to fight for your freedom.
-%%%%
-# ------ Ru sacrifices ------
+Te otorga el vaso de habilidad de la risa, permitiéndote transformarte en un
+poderoso avatar demoníaco con gran aumento de la delincuencia y defensa para un corto
+período de tiempo, a cambio de ser arrastrado hacia el Crucible de la Carne
+después y hecho para luchar por su libertad.%%%%
 renounce potions mutation
 
-You refuse to drink potions in combat unless badly injured. While enemies are in
-your line of sight (and for several turns afterward), you will be unable to
-drink anything unless your HP is below 50% of its maximum.
-%%%%
+Se niega a beber pociones en combate a menos que se lesione gravemente. Mientras que los enemigos están
+su línea de visión (y por varios giros después), tú será incapaz de
+beber cualquier cosa a menos que su HP sea inferior al 50% de su máximo.%%%%
 renounce scrolls mutation
 
-You refuse to read scrolls in combat unless badly injured. While enemies are in
-your line of sight (and for several turns afterward), you will be unable to
-read anything unless your HP is below 50% of its maximum.
-%%%%
+Se niega a leer pergaminos en combate a menos que se lesione gravemente. Mientras que los enemigos están
+su línea de visión (y por varios giros después), tú será incapaz de
+leer cualquier cosa a menos que su HP sea inferior al 50% de su máximo.%%%%
 missing a hand mutation
 
-You are considerably less handy than you used to be. You cannot wield
-two-handed weapons, wear a shield, launch off-handed attacks, or use more than
-one magical ring at a time.
-%%%%
+Eres mucho menos útil de lo que solías ser. No puedes pelar
+armas de dos manos, usar un escudo, lanzar ataques fuera de las manos, o utilizar más que
+un anillo mágico a la vez.%%%%
 no stealth mutation
 
-You have no Stealth. You will always alert monsters when they see you, and
-they will track you very effectively.
-%%%%
+No tienes Stealth. Siempre alertarás monstruos cuando te vean, y
+te rastrearán muy eficazmente.%%%%
 no forms mutation
 
-You cannot voluntarily change forms, via talismans, potions, or any other means.
-You may still be involuntarily transformed by effects such as wands of polymorph.
-%%%%
+No puede cambiar voluntariamente formas, a través de talismanos, pociones o cualquier otro medio.
+Aún puede ser transformado involuntariamente por efectos como varitas de polimorfo.%%%%
 inability to use devices mutation
 
-You cannot use magical devices. This includes wands and most items evoked with
-<input>$cmd[CMD_EVOKE]</input>, excepting reaching weapons, talismans, and
-ziggurat figurines. This also renders magical staves much less effective in
-melee.
-%%%%
+No puedes usar dispositivos mágicos. Esto incluye varitas y la mayoría de los elementos evocados con
+<input>$cmd[CMD_EVOKE]</input>, excepto alcanzar armas, talismanos y
+Figuras ziggurat. Esto también hace que las tallas mágicas sean mucho menos efectivas
+Melee.%%%%
 hated by all mutation
 
-You are hated by all and cannot acquire allies, temporarily or permanently, by
-any means. Simplistic, unthinking magical constructs, such as spectral weapons,
-orbs of destruction, and battlespheres, are unaffected.
-%%%%
+Tú son odiados por todos y no pueden adquirir aliados, temporalmente o permanentemente, por
+cualquier medio. Construcciónes simplistas e impensables, como armas espectrales,
+los orbes de destrucción, y los estadios de batalla, no son afectados.%%%%
 cowardly mutation
 
-Seeing threatening monsters fills you with dread, reducing the power of your
-spells and your ability to slay monsters with melee and ranged attacks. Seeing
-multiple such monsters at once, or extremely threatening monsters, renders this
-even worse.
-%%%%
+Ver monstruos amenazantes te llena de miedo, reduciendo el poder de tu
+hechizos y tu habilidad para matar monstruos con melee y ataques variados. Ver
+múltiples monstruos a la vez, o monstruos extremadamente amenazantes, hacen esto
+aún peor.%%%%
 disrupted magic mutation
 
-Your chance to miscast spells is higher. Each level of this sacrifice increases
-the chance to miscast further.
-%%%%
+Tu oportunidad de malinterpretar hechizos es mayor. Cada nivel de este sacrificio aumenta
+la oportunidad de malinterpretar más.%%%%
 unskilled mutation
 
-It takes you more experience to improve your skills. Each level of this
-sacrifice makes your skills cost even more.
-%%%%
+Te lleva más experiencia para mejorar tus habilidades. Cada nivel de esto
+sacrificio hace que tus habilidades cuestan aún más.%%%%
 reduced AC mutation
 
-You are easily battered and bruised, reducing the benefits of your armour.
-%%%%
+Tú es fácilmente golpeado y golpeado, reduciendo los beneficios de su armadura.%%%%
 reduced EV mutation
 
-Your reflexes are slow, making it easier for foes to hit you.
-%%%%
+Tus reflejos son lentos, facilitando que los enemigos te golpeen.%%%%
 inexperienced mutation
 
-You are inexperienced and unable to fully gain 27 levels.
-%%%%
+Tú es inexperto e incapaz de ganar completamente 27 niveles.%%%%
 missing an eye mutation
 
-You are missing an eye, reducing the accuracy of your physical and magical
-attacks.
-%%%%
+Te estás perdiendo un ojo, reduciendo la precisión de tu físico y mágico
+ataques.%%%%
 no potions mutation
 
-You are unable to quaff potions.
-%%%%
+No puedes hacer pociones.%%%%
 no weapons or thrown items mutation
 
-You are incapable of wielding weapons or throwing items.
-%%%%
+Tú es incapaz de manipular armas o lanzar objetos.%%%%
 no armour mutation
 
-You cannot wear armour.
-%%%%
-# ------ Skill suppression ------
-# skills go in, skills go out. Can't explain that!
-# XXX - might be cool to deduplicate this
+No puedes usar armadura.%%%%
 inability to train dodging mutation
 
-Your Dodging skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad Dodging es 0 y no puedes entrenar la habilidad.%%%%
 inability to train armour mutation
 
-Your Armour skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad Armour es 0 y no puedes entrenar la habilidad.%%%%
 no air magic mutation
 
-Your Air Magic skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad Air Magic es 0 y no puedes entrenar la habilidad.%%%%
 no conjurations magic mutation
 
-Your Conjurations skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad Conjurations es 0 y no puedes entrenar la habilidad.%%%%
 no earth magic mutation
 
-Your Earth Magic skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad de Earth Magic es 0 y no puedes entrenar la habilidad.%%%%
 no fire magic mutation
 
-Your Fire Magic skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad Fire Magic es 0 y no puedes entrenar la habilidad.%%%%
 no hexes magic mutation
 
-Your Hexes skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad Hexes es 0 y no puedes entrenar la habilidad.%%%%
 no ice magic mutation
 
-Your Ice Magic skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad de Ice Magic es 0 y no puedes entrenar la habilidad.%%%%
 no necromancy magic mutation
 
-Your Necromancy skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad Necromancy es 0 y no puedes entrenar la habilidad.%%%%
 no alchemy magic mutation
 
-Your Alchemy skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad Alchemy es 0 y no puedes entrenar la habilidad.%%%%
 no summoning magic mutation
 
-Your Summoning skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad de Invocar es 0 y no puedes entrenar la habilidad.%%%%
 no translocations magic mutation
 
-Your Translocations skill is 0 and you cannot train the skill.
-%%%%
+Tu habilidad de Translocaciones es 0 y no puedes entrenar la habilidad.%%%%
 no forgecraft magic mutation
 
-Your Forgecraft skill is 0 and you cannot train the skill.
-%%%%
-# ------ Banes ------
+Tu habilidad de Forgecraft es 0 y no puedes entrenar la habilidad.%%%%
 lethargy bane
 
-You cover ground slowly - moving to new positions takes you 30% more time than
-normal. This has no effect on other types of actions, like attacking or casting
-spells.
-%%%%
+Cubre el terreno lentamente - moverse a nuevas posiciones le lleva un 30% más tiempo que
+normal. Esto no tiene efecto en otros tipos de acciones, como ataque o casting
+hechizos.%%%%
 heatstroke bane
 
-When you are damaged by fire, you have a high chance to become slowed for a
-moderate length of time. This chance is decreased by your current level of fire
-resistance.
-%%%%
+Cuando tú está dañado por el fuego, tú tiene una alta oportunidad de ser retardado para un
+Longitud moderada del tiempo. Esta oportunidad se reduce por su nivel actual de fuego
+resistencia.%%%%
 snow-blindness bane
 
-When you are damaged by cold, you have a high chance to become weak and blind
-for a moderate length of time. This chance is decreased by your current level of
-cold resistance.
-%%%%
+Cuando estás dañado por el frío, tienes una alta oportunidad de ser débil y ciego
+por un tiempo moderado. Esta oportunidad se reduce por su nivel actual
+Resistencia al frío.%%%%
 electrospasm bane
 
-When you are damaged by electricity, you have a chance to become bound in place
-and unable to move for a short length of time. This chance is decreased by your
-current level of electrical resistance.
-%%%%
+Cuando tú está dañado por la electricidad, tú tiene la oportunidad de llegar a su lugar
+e incapaz de moverse por un corto tiempo. Esta oportunidad se reduce por tu
+nivel actual de resistencia eléctrica.%%%%
 claustrophobia bane
 
-You suffer a penalty to the damage and accuracy of your attacks and the power of
-your spells based on the number of solid feature you are currently adjacent to.
-(-2 slaying and -10% spell power per solid feature.)
-%%%%
+Tú sufre una pena por el daño y la exactitud de sus ataques y el poder de
+sus hechizos basados en el número de características sólidas que actualmente está adyacente.
+(-2 muertes y -10% potencia del hechizo por característica sólida.)%%%%
 stumbling bane
 
-Your evasion is decreased by 25 on any turn where you either moved or waited in
-place without doing anything else.
-%%%%
+Su evasión se reduce en 25 en cualquier momento en que se movió o se esperó
+lugar sin hacer nada más.%%%%
 succour bane
 
-Whenever you kill an enemy, all other nearby enemies are healed for a large
-fraction of that enemy's maximum health.
-%%%%
+Cada vez que matas a un enemigo, todos los otros enemigos cercanos son curados para un grande
+fracción de la máxima salud de ese enemigo.%%%%
 multiplicity bane
 
-Enemies in sight of you have a small chance each turn to create multiple clones
-of themselves. These clones are very fragile and do reduced damage with attacks
-and spells, but will not expire on their own.
-%%%%
+Los enemigos a la vista tienen una pequeña oportunidad cada vuelta para crear múltiples clones
+de ellos mismos. Estos clones son muy frágiles y reducen los daños con ataques
+y hechizos, pero no expirarán por su cuenta.%%%%
 dilettante bane
 
-Your skill with your highest weapon skill (at the time of becoming afflicted by
-this bane) is reduced by 50% and your skill with your two highest skills among
-magical schools, Invocations, and Evocations are reduced by 25%.
-%%%%
+Su habilidad con su habilidad de arma más alta (en el momento de afligirse por
+esta prohibición) se reduce en un 50% y su habilidad con sus dos habilidades más altas entre
+escuelas mágicas, invocaciones y evocaciones se reducen en un 25%.%%%%
 paradox bane
 
-Whenever you first spot a monster, it has a chance to become Touched by Paradox,
-giving it the ability to use Manifold Assault as a natural ability (and a small
-chance to blink randomly after doing so).
-%%%%
+Cada vez que ves a un monstruo, tiene la oportunidad de ser tocado por Paradox,
+darle la capacidad de utilizar el asalto múltiple como una habilidad natural (y un pequeño
+oportunidad de parpadear al azar después de hacerlo).%%%%
 warding bane
 
-Groups of enemies you encounter may have Warding, preventing all damage they
-would take from any source which is not currently adjacent to them (including
-clouds, if their creator is currently non-adjacent).
-%%%%
+Grupos de enemigos que se encuentran pueden tener Warding, previniendo todos los daños
+tomaría de cualquier fuente que no esté actualmente adyacente a ellos (incluso
+nubes, si su creador es actualmente no-adyacente).%%%%
 hunted bane
 
-Whenever an enemy summons monsters against you, they will usually appear
-adjacent to you instead of their summoner. Their duration is also increased and
-they will never lose track of your position, no matter where you flee.
-%%%%
+Cada vez que un enemigo convoca monstruos contra ti, generalmente aparecerán
+adyacente a tú en lugar de su citador. Su duración también aumenta y
+nunca perderán el rastro de su posición, no importa dónde huyas.%%%%
 mortality bane
 
-When you are badly injured and alone, a reaper may come to claim you. These reapers
-will be immune to all damage from non-adjacent sources and, if your XL is less
-than 14, will additionally be slow. At higher XL, multiple reapers may appear at
-once.
+Cuando tú está gravemente herido y solo, un segador puede venir a reclamarle. Estos segadores
+será inmune a todos los daños de fuentes no adyacentes y, si su XL es menos
+que 14, será más lento. A mayor XL, pueden aparecer múltiples cosechadores
+una vez.
 
-When this bane is lifted, all reapers summoned this way will immediately vanish.
+Cuando se levante esta prohibición, todos los segadores convocados de esta manera desaparecerán inmediatamente.

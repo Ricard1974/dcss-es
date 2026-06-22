@@ -1,279 +1,251 @@
 %%%%
 Fighting
 
-Fighting skill increases your accuracy and damage in physical combat, and
-also increases your maximum health.
-%%%%
+La habilidad de lucha aumenta su precisión y daño en el combate físico, y
+también aumenta su salud máxima.%%%%
 Short Blades
 
-Short Blades are more effective than any other weapon type at stabbing helpless
-foes.
+Las cuchillas cortas son más eficaces que cualquier otro tipo de arma apuñalando indefenso
+enemigos.
 
-Being skilled with Short Blades will allow you to attack more quickly with all
-weapons of this type, as well as increasing your accuracy and damage with them.
+Ser hábil con Short Blades te permitirá atacar más rápidamente con todo
+armas de este tipo, así como aumentar su precisión y daño con ellos.
 
-Being skilled with Short Blades increases your effectiveness with Long Blades,
-and vice versa.
-%%%%
+Ser hábil con Short Blades aumenta su eficacia con Long Blades,
+y viceversa.%%%%
 Long Blades
 
-Being skilled with Long Blades will allow you to attack more quickly with all
-weapons of this type, as well as increasing your accuracy and damage with them.
+Ser hábil con Long Blades te permitirá atacar más rápidamente con todo
+armas de este tipo, así como aumentar su precisión y daño con ellos.
 
-Being skilled with Long Blades increases your effectiveness with Short Blades,
-and vice versa.
-%%%%
+Ser hábil con Long Blades aumenta su eficacia con Short Blades,
+y viceversa.%%%%
 Axes
 
-Axes cleave through multiple enemies with a single swing, hitting foes in an
-arc around the wielder.
+Los ejes azotan a múltiples enemigos con un solo golpe, golpeando enemigos en un
+Arc alrededor de la peladora.
 
-Being skilled with Axes will allow you to attack more quickly with all weapons
-of this type, as well as increasing your accuracy and damage with them.
+Ser hábil con Axes te permitirá atacar más rápidamente con todas las armas
+de este tipo, así como aumentar su precisión y daño con ellos.
 
-Being skilled with Axes increases your effectiveness with Maces & Flails and
-Polearms, and vice versa.
-%%%%
+Ser hábil con los ejes aumenta su eficacia con las uñas de Maces y
+Polearms y viceversa.%%%%
 Maces & Flails
 
-Being skilled with Maces & Flails will allow you to attack more quickly with
-all weapons of this type, as well as increasing your accuracy and damage with
-them.
+Ser hábil con Maces & Flails te permitirá atacar más rápidamente con
+todas las armas de este tipo, así como aumentar su precisión y daño con
+ellos.
 
-Being skilled with Maces & Flails increases your effectiveness with Axes and
-Staves, and vice versa.
-%%%%
+Ser hábil con Maces & Flails aumenta su eficacia con los ejes y
+Cuevas, y viceversa.%%%%
 Polearms
 
-Polearms can be evoked with ‘v’ to attack enemies from two spaces away.
+Los polacos pueden ser evocados con ‘v’ para atacar enemigos de dos espacios de distancia.
 
-Being skilled with Polearms will allow you to attack more quickly with all
-weapons of this type, as well as increasing your accuracy and damage with them.
+Ser hábil con Polearms te permitirá atacar más rápidamente con todos
+armas de este tipo, así como aumentar su precisión y daño con ellos.
 
-Being skilled with Polearms increases your effectiveness with Axes and Staves,
-and vice versa.
-%%%%
+Ser hábil con Polearms aumenta su eficacia con Axes y Staves,
+y viceversa.%%%%
 Staves
 
-Staves require a relatively low amount of skill to be used most effectively,
-although they lack the high damage potential of some other weapon classes.
+Cuevas requieren una cantidad relativamente baja de habilidad para ser utilizado más eficazmente,
+aunque carecen del alto potencial de daños de otras clases de armas.
 
-Being skilled with Staves will allow you to attack more quickly with all
-weapons of this type, as well as increasing your accuracy and damage with them.
+Ser hábil con Staves te permitirá atacar más rápidamente con todos
+armas de este tipo, así como aumentar su precisión y daño con ellos.
 
-Being skilled with Staves increases your effectiveness with Maces & Flails and
-Polearms, and vice versa.
-%%%%
+Ser hábil con Staves aumenta su eficacia con Maces & Flails y
+Polearms y viceversa.%%%%
 Ranged Weapons
 
-Being skilled with Ranged Weapons will let you attack more quickly with all
-bows, crossbows and slings, as well as increasing your accuracy and damage with
-them.
-%%%%
+Ser hábil con armas extendidas te permitirá atacar más rápidamente con todo
+arcos, arcos cruzados y eslingas, así como aumentar su precisión y daño con
+ellos.%%%%
 Throwing
 
-Training Throwing will make thrown weapons (such as javelins) more accurate
-and damaging. It also makes certain magical darts more likely to have an
-effect.
-%%%%
+Lanzamiento de entrenamiento hará que las armas lanzadas (como javelins) sean más precisas
+y dañino. También hace que ciertos dardos mágicos tengan más probabilidades de tener un
+Efecto.%%%%
 Armour
 
-Armour skill multiplies the AC gained from wearing armour of all kinds, both
-from body armour and cloaks, gloves, etc. It also slightly lessens penalties
-to spellcasting and ranged weapon speed from heavy armour.
-%%%%
+Armour habilidad multiplica el AC obtenido de usar armadura de todo tipo, ambos
+de armadura corporal y capas, guantes, etc. También disminuye ligeramente las penas
+para el deletreo y la velocidad de armamento rango de armadura pesada.%%%%
 Dodging
 
-The Dodging skill will affect your chance of dodging an attack, be it melee,
-ranged or magical. Certain types of attack cannot be dodged, however, such as
-enchantments (which must be resisted with willpower) and explosions.
-%%%%
+La habilidad Dodging afectará tu oportunidad de hacer un ataque, ya sea melee,
+rango o mágico. Sin embargo, algunos tipos de ataque no pueden ser esquivados, como
+encantamientos (que deben resistirse con fuerza de voluntad) y explosiones.%%%%
 Stealth
 
-By training Stealth, you can make it less likely that monsters will notice you
-if they are asleep or otherwise unalert, and increase your chances of monsters
-losing track of you after you leave their vision. Note that more powerful
-monsters tend to be more suspicious and observant.
+Al entrenar a Stealth, puedes hacerlo menos probable que los monstruos te noten
+si están dormidos o de otra manera no saben, y aumentan sus posibilidades de monstruos
+perderte el rastro después de dejar su visión. Note que más poderoso
+Los monstruos tienden a ser más sospechosos y observantes.
 
-Stealth skill, along with the weapon skill for your equipped weapon, also
-governs the likelihood of doing a great amount of damage when attacking a
-distracted or helpless creature, as well as the amount of extra damage dealt.
-%%%%
+habilidad de Stealth, junto con la habilidad de arma para su arma equipada, también
+gobierna la probabilidad de hacer una gran cantidad de daño al atacar un
+criatura distraída o desamparada, así como la cantidad de daño extra tratado.%%%%
 Shields
 
-A high Shields skill helps you block melee attacks or projectiles (both magical
-and non-magical) with your equipped shield, and reduces their penalty to your
-evasion, attack speed and spellcasting success.
-%%%%
+Una habilidad alta Shields le ayuda a bloquear ataques de melee o proyectiles (tanto mágicos
+y no mágico) con su escudo equipado, y reduce su penalización a su
+evasión, velocidad de ataque y éxito de deletreo.%%%%
 Unarmed Combat
 
-Being skilled in Unarmed Combat increases your accuracy, damage and attack
-speed in melee combat when barehanded.
-%%%%
+Ser experto en Combate Desarmado aumenta su precisión, daño y ataque
+velocidad en combate de melee cuando desnuda.%%%%
 Spellcasting
 
-{{
-    if you.race() == "Djinni" then
-        return "Being skilled in Spellcasting increases the success rate and spell "..
-               "power of all spells."
-    else
-        return "Being skilled in Spellcasting slightly increases the success " ..
-                "rate and spell power of all spells, along with increasing your " ..
-                "magical reserves. Training Spellcasting also gives you more spell " ..
-                "slots to spend on new spells."
-    end
-}}
-%%%%
+{}
+si usted.race() == "Djinni" entonces
+volver "Ser experto en Spellcasting aumenta la tasa de éxito y el hechizo ".
+"poder de todos los hechizos".
+más
+"Ser experto en Spellcasting aumenta ligeramente el éxito ".
+"el poder de la raza y el hechizo de todos los hechizos, junto con aumentar su " ..
+"Reservas mágicas. Entrenamiento Spellcasting también le da más hechizo " ..
+"slots para gastar en nuevos hechizos."
+final
+}%%%%
 Conjurations
 
-Conjurations are battle oriented spells, which often work by conjuring up a
-chunk of short-lived matter and propelling it towards the victim to deal direct
-damage. Being skilled in Conjurations usually increases the damage and accuracy
-of such spells, and sometimes affects their range or the size of the area
-affected.
+Los conjuros son hechizos orientados a la batalla, que a menudo trabajan conjurando un
+pedazo de materia corta y empujarla hacia la víctima para tratar directamente
+daño. Ser calificado en Conjuraciones generalmente aumenta el daño y la precisión
+de tales hechizos, y a veces afecta su alcance o el tamaño de la zona
+afectado.
 
-Being skilled in Conjurations increases the success rate and spell power of
-spells in this school. Many spells belong to a combination of several schools,
-in which case spellcasting success and power will depend on the average skill
-in these schools.
-%%%%
+Ser calificado en Conjurations aumenta la velocidad de éxito y el poder de hechizo de
+hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
+en cuyo caso el éxito y el poder de la ortografía dependerá de la habilidad promedio
+en estas escuelas.%%%%
 Hexes
 
-Hexes try to bestow various enchantments on nearby things. While none do direct
-damage, being ensorcelled can effectively take an opponent out of combat,
-although they often require overcoming an opponent's willpower to have an effect.
-Skill in Hexes can help overcome this.
+Hexes trata de otorgar varios encantos en cosas cercanas. Mientras que ninguno es directo
+daño, ser ensalzado puede sacar a un oponente de combate,
+Aunque a menudo requieren superar la fuerza de voluntad de un oponente para tener un efecto.
+La habilidad en Hexes puede ayudar a superar esto.
 
-Being skilled in Hexes increases the success rate and spell power of spells in
-this school. Many spells belong to a combination of several schools, in which
-case spellcasting success and power will depend on the average skill in these
-schools.
-%%%%
+Ser calificado en Hexes aumenta la velocidad de éxito y el poder de hechizos en
+esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en las que
+caso ortografía éxito y poder dependerá de la habilidad promedio en estos
+escuelas.%%%%
 Summonings
 
-Summonings deals with summoning creatures from another plane of reality to
-temporarily aid you. Increasing Summonings skill may grant a number of effects
-depending on the spell, such as longer duration or more powerful allies. Note
-that summoned beings do not leave corpses and give no experience when killed,
-and their equipment is as ephemeral as they are.
+Invocaciones trata de convocar criaturas de otro plano de la realidad a
+temporalmente te ayuda. Aumentar la habilidad de Invocaciones puede conceder varios efectos
+dependiendo del hechizo, como la duración más larga o aliados más poderosos. Nota
+que los seres convocados no dejan cuerpos y no dan experiencia cuando son asesinados,
+y su equipo es tan efímero como ellos.
 
-Being skilled in Summonings increases the success rate and spell power of
-spells in this school. Many spells belong to a combination of several schools,
-in which case spellcasting success and power will depend on the average skill
-in these schools.
-%%%%
+Ser experto en Invocaciones aumenta la velocidad de éxito y el poder de hechizos de
+hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
+en cuyo caso el éxito y el poder de la ortografía dependerá de la habilidad promedio
+en estas escuelas.%%%%
 Forgecraft
 
-Forgecraft is the art of shaping tangible objects out of magic. Forgecraft
-spells can construct a wide array of mechanical creatures that will fight
-alongside the caster, as well as create traps and barricades and even turn the
-physical resilience of one's armour into a weapon.
+Forgecraft es el arte de crear objetos tangibles fuera de la magia. Forgecraft
+hechizos pueden construir una amplia gama de criaturas mecánicas que lucharán
+junto a la casta, así como crear trampas y barricadas e incluso girar la
+resiliencia física de la armadura en un arma.
 
-Being skilled in Forgecraft increases the success rate and spell power of
-spells in this school. Many spells belong to a combination of several schools,
-in which case spellcasting success and power will depend on the average skill
-in these schools.
-%%%%
+Ser calificado en Forgecraft aumenta la velocidad de éxito y el poder de hechizos
+hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
+en cuyo caso el éxito y el poder de la ortografía dependerá de la habilidad promedio
+en estas escuelas.%%%%
 Necromancy
 
-Necromancy is the art of draining and gaining life, although most often
-associated with zombies and other undead. As such, Necromancy spells have a
-wide range of effects, ranging from spells to create or disrupt the undead to
-spells granting unholy healing in various forms.
+La necromancia es el arte de drenar y ganar vida, aunque con mayor frecuencia
+asociado con zombis y otros no muertos. Como tal, los hechizos de necromancia tienen un
+amplia gama de efectos, que van desde hechizos para crear o interrumpir los no muertos a
+hechizos que otorgan curación inesperada en varias formas.
 
-Being skilled in Necromancy increases the success rate and spell power of
-spells in this school. Many spells belong to a combination of several schools,
-in which case spellcasting success and power will depend on the average skill
-in these schools.
-%%%%
+Ser calificado en Necromancy aumenta la velocidad de éxito y el poder de hechizos
+hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
+en cuyo caso el éxito y el poder de la ortografía dependerá de la habilidad promedio
+en estas escuelas.%%%%
 Translocations
 
-Translocations focus on the spatial movement of beings or objects, including
-useful spells to translocate yourself over short distances quickly or to
-transport your enemies away from you.
+Las translocaciones se centran en el movimiento espacial de seres o objetos, incluso
+hechizos útiles para translocarse a distancias cortas rápidamente o para
+transportar a tus enemigos lejos de ti.
 
-Being skilled in Translocations increases the success rate and spell power of
-spells in this school. Many spells belong to a combination of several schools,
-in which case spellcasting success and power will depend on the average skill
-in these schools.
-%%%%
+Ser experto en Translocaciones aumenta la velocidad de éxito y el poder de ortografía de
+hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
+en cuyo caso el éxito y el poder de la ortografía dependerá de la habilidad promedio
+en estas escuelas.%%%%
 Alchemy
 
-Alchemy is the art of toxins and transmutation. Spells in this school can twist
-objects and creatures into different shapes, unleash powerful poisons, or even
-unweave the fabric of magic itself.
+Alchemy es el arte de las toxinas y la transmutación. Los discursos en esta escuela pueden retorcer
+objetos y criaturas en diferentes formas, desencadenan venenos poderosos, o incluso
+desenmascarar el tejido de la magia misma.
 
-Being skilled in Alchemy increases the success rate and spell power of
-spells in this school. Many spells belong to a combination of several schools,
-in which case spellcasting success and power will depend on the average skill
-in these schools.
-%%%%
+Ser experto en Alquimia aumenta la velocidad de éxito y el poder de ortografía
+hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
+en cuyo caso el éxito y el poder de la ortografía dependerá de la habilidad promedio
+en estas escuelas.%%%%
 Fire Magic
 
-Fire Magic focuses mainly on dealing fire damage over long distances, with many
-effective Conjurations.
+Fire Magic se centra principalmente en tratar el daño al fuego a largas distancias, con muchos
+Conjuraciones eficaces.
 
-Being skilled in Fire Magic increases the success rate and spell power of
-spells in this school. Many spells belong to a combination of several schools,
-in which case spellcasting success and power will depend on the average skill
-in these schools.
-%%%%
+Ser calificado en Fire Magic aumenta la velocidad de éxito y el poder de hechizos
+hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
+en cuyo caso el éxito y el poder de la ortografía dependerá de la habilidad promedio
+en estas escuelas.%%%%
 Ice Magic
 
-Ice Magic contains a range of direct damage spells, as well as some defensive
-effects - for example, crafting temporary ice armour.
+Ice Magic contiene una gama de hechizos de daño directo, así como algunos defensivos
+efectos - por ejemplo, armadura de hielo temporal.
 
-Being skilled in Ice Magic increases the success rate and spell power of spells
-in this school. Many spells belong to a combination of several schools, in
-which case spellcasting success and power will depend on the average skill in
-these schools.
-%%%%
+Ser experto en magia de hielo aumenta la velocidad de éxito y el poder de hechizos
+en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en
+qué caso deletrear éxito y poder dependerá de la habilidad promedio en
+estas escuelas.%%%%
 Air Magic
 
-Air Magic provides spells to deal damage directly with the wind, as well as
-noisy but powerful lightning Conjurations. It also provides some utility
-spells, such as a call to the wind to assist your movement or a Hex to prevent
-most use of magic in the area surrounding you.
+Air Magic proporciona hechizos para tratar el daño directamente con el viento, así como
+ruidoso pero poderoso rayo Conjurations. También proporciona una utilidad
+hechizos, como una llamada al viento para ayudar a su movimiento o un Hex para prevenir
+la mayor parte del uso de la magia en el área que te rodea.
 
-Being skilled in Air Magic increases the success rate and spell power of spells
-in this school. Many spells belong to a combination of several schools, in
-which case spellcasting success and power will depend on the average skill in
-these schools.
-%%%%
+Ser experto en Air Magic aumenta la velocidad de éxito y el poder de hechizos
+en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en
+qué caso deletrear éxito y poder dependerá de la habilidad promedio en
+estas escuelas.%%%%
 Earth Magic
 
-Earth Magic contains spells able to deal large amounts of direct physical
-damage, which cannot be resisted like fire, cold and lightning damage can. It
-is also linked with Alchemy, with spells to liquefy the earth around you, or to
-turn your enemies to stone.
+Earth Magic contiene hechizos capaces de tratar grandes cantidades de físico directo
+daño, que no puede ser resistido como fuego, daño frío y relámpago puede. It
+también está vinculado con Alquimia, con hechizos para licuar la tierra a su alrededor, o para
+convertir a tus enemigos en piedra.
 
-Being skilled in Earth Magic increases the success rate and spell power of
-spells in this school. Many spells belong to a combination of several schools,
-in which case spellcasting success and power will depend on the average skill
-in these schools.
-%%%%
+Ser calificado en la Tierra Magic aumenta la velocidad de éxito y el poder de hechizos
+hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
+en cuyo caso el éxito y el poder de la ortografía dependerá de la habilidad promedio
+en estas escuelas.%%%%
 Invocations
 
-Your Invocations skill affects the likelihood that an attempt to use divine
-abilities with certain gods will be successful, and often the power of such
-abilities.
+Su habilidad de invocaciones afecta a la probabilidad de que un intento de utilizar la divina
+habilidades con ciertos dioses serán exitosos, y a menudo el poder de tales
+habilidades.
 
-{{
-    if you.race() ~= "Djinni" then
-        return "The Invocations skill also affects your magical reserves, " ..
-               "but to a lesser degree than the Spellcasting skill. Only the " ..
-               "higher contribution is used."
-    end
-}}
-%%%%
+{}
+si usted.race() ~= "Djinni" entonces
+"La habilidad de las invocaciones también afecta sus reservas mágicas, " ..
+"pero en menor grado que la habilidad de Spellcasting. Sólo el...
+"Se utiliza una mayor contribución".
+final
+}%%%%
 Evocations
 
-Evocations skill affects your ability to use magical items like wands and other
-uncommon objects, increasing the power or success rate of such items.
-%%%%
+Evocaciones habilidad afecta su capacidad de utilizar objetos mágicos como varitas y otros
+objetos poco comunes, aumentando la potencia o la tasa de éxito de tales artículos.%%%%
 Shapeshifting
 
-Shapeshifting enables the use of magical talismans to change oneself into other
-forms. Sufficient skill allows one to use more powerful forms without gravely
-damaging one's health. Being skilled in Shapeshifting also makes most forms
-somewhat stronger, in ways which vary between forms.
+Shapeshifting permite el uso de talismanos mágicos para cambiarse en otros
+formas. Suficiente habilidad permite utilizar formas más poderosas sin gravedad
+dañar la salud. Ser hábil en Shapeshifting también hace la mayoría de las formas
+algo más fuerte, en formas que varían entre formas.

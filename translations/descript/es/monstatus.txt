@@ -1,753 +1,613 @@
 %%%%
 ablaze with memories monstatus
 
-This creature has temporarily gained the ability to cast specific spells.
-It will lose access to them again once sufficiently injured.
-%%%%
+Esta criatura ha ganado temporalmente la capacidad de lanzar hechizos específicos.
+Perderá el acceso a ellos de nuevo una vez suficientemente herido.%%%%
 about to teleport monstatus
 
-After a short delay, this creature will be teleported to somewhere else on the
-current floor.
-%%%%
+Después de un breve retraso, esta criatura será teletransportada a algún otro lugar en el
+planta actual.%%%%
 afflicted by rimeblight monstatus
 
-This creature suffers AC-ignoring cold damage every turn, and may sometimes
-explode in a burst of ice that damages nearby allies. When it dies, it may
-spread rimeblight to other nearby allies.
+Esta criatura sufre daño frío por AC cada vuelta, y a veces puede
+explotar en una explosión de hielo que daña a los aliados cercanos. Cuando muera, puede
+Difundir rimeblight a otros aliados cercanos.
 
-Natural, demonic, or holy creatures will be instantly killed once they reach
-low health, and be replaced with pillars of rime.
-%%%%
+criaturas naturales, demoníacas o santas serán asesinadas al instante cuando lleguen
+baja salud, y ser reemplazado con pilares de lima.%%%%
 ally target monstatus
 
-This creature is being targeted by one or more of your allies.
-%%%%
+Esta criatura está siendo dirigida por uno o más de sus aliados.%%%%
 anguished monstatus
 
-When this creature deals damage, it will suffer damage equal to the damage it
-dealt.
-%%%%
+Cuando esta criatura trate el daño, sufrirá daño igual al daño.
+tratado.%%%%
 asleep monstatus
 
-This creature is unable to move, act, block, or dodge. Any hostile action will
-awaken it, though melee attacks against it (even by other monsters) will deal
-increased damage.
+Esta criatura no puede moverse, actuar, bloquear o esquivar. Cualquier acción hostil
+despertarlo, aunque los ataques contra él (incluso por otros monstruos) tratarán
+aumento del daño.
 
-[[high-tier stab monstatus]]
-%%%%
+[[Monstatus de alto nivel]]%%%%
 berserk monstatus
 
-This creature has 50% more health, deals 50% more damage with melee attacks, and
-both moves and acts 50% faster. They cannot perform any action besides moving
-or attacking.
+Esta criatura tiene un 50% más de salud, se ocupa de un 50% más de daño con ataques de melee, y
+ambos movimientos y actúa un 50% más rápido. No pueden realizar ninguna acción además de moverse
+o atacando.
 
-When the berserk rage wears off, they will be slowed and unable to berserk for a
-short duration.
-%%%%
+Cuando la rabia del berserk se desgasta, se ralentizarán e incapaces de engordar por un
+duración corta.%%%%
 blind monstatus
 
-This creature cannot see properly. Its accuracy is greatly decreased, it cannot
-make attacks of opportunity, and spells it casts may sometimes be aimed at the
-wrong locations.
+Esta criatura no puede ver correctamente. Su precisión se reduce considerablemente, no puede
+hacer ataques de oportunidad, y hechizos que lanza a veces puede estar dirigido a
+lugares equivocados.
 
-It may also stumble around and eventually lose track of its target, especially
-if it has low intelligence.
+También puede tropezar y eventualmente perder la pista de su objetivo, especialmente
+si tiene poca inteligencia.
 
-[[low-tier stab monstatus]]
-%%%%
+[[número de nivel inferior]]%%%%
 bound in place monstatus
 
-This creature cannot move under its own power, but may still use translocations
-or be forcibly displaced by someone else.
-%%%%
+Esta criatura no puede moverse bajo su propio poder, pero todavía puede utilizar translocaciones
+o ser desplazados por la fuerza por otra persona.%%%%
 called by a tesseract monstatus
 
-This monster has been called from a parallel reality. Killing it will grant no
-experience points, but it will be immediately cast back to its original reality
-as soon as the tesseract is destroyed.
-%%%%
+Este monstruo ha sido llamado de una realidad paralela. Matarlo no otorgará
+puntos de experiencia, pero será lanzado inmediatamente a su realidad original
+tan pronto como el tesseract sea destruido.%%%%
 catching its breath monstatus
 
-This creature has used a breath ability recently and cannot use it again for a
-short while.
-%%%%
+Esta criatura ha usado una capacidad de respiración recientemente y no puede utilizarla de nuevo para un
+poco tiempo.%%%%
 catching his breath monstatus
 
-[[catching its breath monstatus]]
-%%%%
+[[tratando su aliento monstatus]]%%%%
 catching her breath monstatus
 
-[[catching its breath monstatus]]
-%%%%
+[[tratando su aliento monstatus]]%%%%
 catching their breath monstatus
 
-[[catching its breath monstatus]]
-%%%%
+[[tratando su aliento monstatus]]%%%%
 chanting recall monstatus
 
-This creature is chanting a Word of Recall. This will recall intelligent allies
-from elsewhere on the floor to the caster's vicinity after a short delay, but can
-be interrupted by most effects which would normally prevent it from casting spells.
-%%%%
+Esta criatura está cantando una Palabra de Reposo. Esto recordará a aliados inteligentes
+de otra parte en el suelo a la vecindad del caster después de un breve retraso, pero puede
+ser interrumpido por la mayoría de los efectos que normalmente evitarían que se emitieran hechizos.%%%%
 charmed monstatus
 
-This creature has been charmed and will fight for your cause for a short while. This
-effect will wear off immediately if you attempt to harm it in any way.
-%%%%
+Esta criatura ha sido encantada y luchará por su causa por un corto tiempo. Esto
+El efecto se apagará inmediatamente si intenta dañarlo de cualquier manera.%%%%
 concentrated venom monstatus
 
-This creature's natural venom has been intensified, giving any poison it inflicts
-through attacks or breath weapons a chance to slow and asphyxiate susceptible targets.
-%%%%
+El veneno natural de esta criatura ha sido intensificado, dando cualquier veneno que inflija
+a través de ataques o armas respiratorias una oportunidad para frenar y asfixiar objetivos susceptibles.%%%%
 confused monstatus
 
-This creature is unable to block or use spells or abilities and will stumble around
-at random, attacking whatever it bumps into - be they friend or foe or sometimes even
-themselves.
+Esta criatura es incapaz de bloquear o utilizar hechizos o habilidades y tropezará alrededor
+al azar, atacando cualquier cosa que choca con - ser amigo o enemigo o a veces incluso
+ellos mismos.
 
-[[low-tier stab monstatus]]
-%%%%
+[[número de nivel inferior]]%%%%
 contaminated monstatus
 
-This creature has been contaminated by transmutational energy, and will suffer
-significant damage every third time such energy is inflicted upon them.
-%%%%
+Esta criatura ha sido contaminada por la energía transmutacional, y sufrirá
+daño significativo cada tercera vez que se les inflige tal energía.%%%%
 constricted by roots monstatus
 
-This creature is being constricted by tree roots, which reduces their evasion and
-inflicts some damage each turn. It may also prevent them from moving, though each
-attempt to do so has a chance to break this effect entirely.
-%%%%
+Esta criatura está siendo restringida por las raíces de los árboles, lo que reduce su evasión y
+inflige algún daño cada turno. También puede evitar que se muevan, aunque cada uno
+tratar de hacerlo tiene la oportunidad de romper totalmente este efecto.%%%%
 constricted by zombie hands monstatus
 
-This creature is being constricted by clutching corpses from deep beneath the
-earth, which reduces their evasion and inflicts some damage each turn. It may also
-prevent them from moving, though each attempt to do so has a chance to break this
-effect entirely.
-%%%%
+Esta criatura está siendo constreñida por cadáveres desgarrados desde abajo
+tierra, que reduce su evasión e inflige algún daño cada vuelta. También puede
+evitar que se muevan, aunque cada intento de hacerlo tiene la oportunidad de romper esto
+Efecto por completo.%%%%
 control wrested from you monstatus
 
-This formerly-friendly creature has been charmed by another creature to join their
-side. If you slay the source of this charm, it will regain its senses.
-%%%%
+Esta criatura antiguamente amigable ha sido encantada por otra criatura para unirse a su
+Del lado. Si matas la fuente de este encanto, recuperará sus sentidos.%%%%
 corroded monstatus
 
-This creature's AC is reduced by 8.
-%%%%
+El AC de esta criatura se reduce en 8.%%%%
 covered in liquid flames monstatus
 
-This creature has been coated in sticky flame, and will take AC-ignoring fire damage
-each turn. Movement will shake off the flames, causing it to expire much more
-rapidly and stepping into water will extinguish it entirely.
-%%%%
+Esta criatura ha sido recubierta con llama pegajosa, y tomará AC ignorando daños al fuego
+cada vuelta. El movimiento sacudirá las llamas, causando que caduca mucho más
+rápidamente y entrar en agua lo extinguirá completamente.%%%%
 covered in magnetic dust monstatus
 
-This creature is unable to evade attacks or turn invisible. If it dies, it will leave
-behind a cloud of magnetised fragments.
+Esta criatura no puede evadir los ataques o volverse invisible. Si muere, se irá.
+detrás de una nube de fragmentos magnetizados.
 
-Each time Magnavolt is cast, a beam of electricity will automatically be fired at this
-creature.
-%%%%
+Cada vez que Magnavolt es lanzada, un rayo de electricidad se disparará automáticamente a esto
+criatura.%%%%
 covered in terrible wounds monstatus
 
-This creature has been afflicted with illusory wounds by a flayed ghost. These wounds
-will disappear with time or when the flayed ghost is destroyed.
-%%%%
+Esta criatura ha sido afligida con heridas ilusorias por un fantasma muerto. Estas heridas
+desaparecerá con el tiempo o cuando el fantasma muerto sea destruido.%%%%
 covering ground quickly monstatus
 
-This creature moves slightly faster.
-%%%%
+Esta criatura se mueve un poco más rápido.%%%%
 covering ground slowly monstatus
 
-This creature is stuck in liquefied ground, causing it to move more slowly and also
-fumble 25% of the melee attacks it makes.
-%%%%
+Esta criatura está atrapada en tierra licuada, causando que se mueva más lentamente y también
+fumble el 25% de los ataques melee que hace.%%%%
 crumbling away monstatus
 
-This creature will be automatically destroyed in a few turns.
-%%%%
+Esta criatura será automáticamente destruida en unas cuantas vueltas.%%%%
 cursed with the promise of agony monstatus
 
-This creature is cursed, and will lose half its current health after the next time
-the source of the curse hits it with a melee attack.
-%%%%
+Esta criatura está maldecida, y perderá la mitad de su salud actual después de la próxima vez
+la fuente de la maldición lo golpea con un melee ataque.%%%%
 damage-immune at range monstatus
 
-This creature suffers no damage from any source which is not currently adjacent to
-them (including clouds, if their creator is non-adjacent).
-%%%%
+Esta criatura no sufre ningún daño de ninguna fuente que no está actualmente adyacente a
+(incluyendo las nubes, si su creador no es adyacente).%%%%
 dazed monstatus
 
-This creature is temporarily unable to act, but any hostile action will cause it to
-immediately regain its senses.
-%%%%
+Esta criatura no puede actuar temporalmente, pero cualquier acción hostil lo hará
+inmediatamente recuperar sus sentidos.%%%%
 diminished spells monstatus
 
-This creature's spells are less powerful - dealing less damage, being less able to
-overcome their target's willpower, and occasionally being weaker in other ways.
-%%%%
+Los hechizos de esta criatura son menos poderosos - tratar menos daño, ser menos capaz de
+superar la fuerza de voluntad de su objetivo, y ocasionalmente ser más débil de otras maneras.%%%%
 dormant monstatus
 
-[[asleep monstatus]]
-%%%%
+[[sleep monstatus]]%%%%
 doubled in vigour monstatus
 
-This monster's current and maximum health are temporarily doubled.
-%%%%
+La salud actual y máxima de este monstruo se duplican temporalmente.%%%%
 empowered by the touch of Beogh monstatus
 
-This creature has been granted great power by Beogh to challenge you. Their melee
-and ranged attacks deal 33% more damage, their health is increased, and they cast
-spells more frequently. They are also able to track you, no matter where on the
-current floor you flee.
+Esta criatura ha sido otorgada gran poder por Beogh para desafiarte. Su melee
+y ataques de alcance 33% más daño, su salud aumenta, y arrojan
+hechizos más frecuentemente. También son capaces de rastrearte, no importa dónde en el
+la planta actual que huyes.
 
-They will lose these bonuses once the challenge is concluded.
-%%%%
+Perderán estos bonos una vez concluido el desafío.%%%%
 encased in ice monstatus
 
-This creature has been flash-frozen and its movement speed is greatly reduced for
-a short time.
-%%%%
+Esta criatura ha sido congelado y su velocidad de movimiento se reduce enormemente para
+poco tiempo.%%%%
 entangled in a net monstatus
 
-This creature is caught in a net, greatly reducing its evasion and preventing it
-from blocking. Any attempt it makes to move or attack will instead struggle against
-the net, which may eventually destroy it. Spellcasting is unimpaired.
+Esta criatura está atrapada en una red, reduciendo enormemente su evasión y previniéndola
+de bloquear. Cualquier intento que haga para moverse o atacar luchará contra
+la red, que eventualmente puede destruirla. Spellcasting no tiene consecuencias.
 
-[[low-tier stab monstatus]]
-%%%%
+[[número de nivel inferior]]%%%%
 entangled in a web monstatus
 
-This creature is caught in a spider's web, greatly reducing its evasion and
-preventing it from blocking. Any attempt it makes to move or attack will instead
-struggle against the web, which may eventually destroy it. Spellcasting is
-unimpaired.
+Esta criatura está atrapada en la web de una araña, reduciendo enormemente su evasión y
+evitando que se bloquee. Cualquier intento que haga para moverse o atacar en su lugar
+lucha contra la web, que eventualmente puede destruirla. Spellcast es
+sin problemas.
 
-[[low-tier stab monstatus]]
-%%%%
+[[número de nivel inferior]]%%%%
 extremely poisoned monstatus
 
-This creature suffers poison damage every turn and cannot be poisoned any
-further.
-%%%%
+Esta criatura sufre daño venenoso cada vuelta y no puede ser envenenada
+más allá.%%%%
 fast monstatus
 
-This creature moves and acts 50% faster.
-%%%%
+Esta criatura se mueve y actúa 50% más rápido.%%%%
 feeble figment monstatus
 
-This creature is but a fragile duplicate of another creature. Its health is
-reduced by 66%, it deals 33% less damage with attacks, and its spells are
-significantly weakened.
-%%%%
+Esta criatura no es más que un frágil duplicado de otra criatura. Su salud es
+reducido en 66%, se trata de 33% menos daño con ataques, y sus hechizos son
+significativamente debilitado.%%%%
 flame-wreathed monstatus
 
-This creature has been empowered by the flames of Ignis. It deals additional
-fire damage with its melee attacks, moves 33% more quickly, and has increased AC
-and resistance to fire.
-%%%%
+Esta criatura ha sido empoderada por las llamas de Ignis. Se trata de otros
+daño al fuego con sus ataques de melee, se mueve 33% más rápido, y ha aumentado AC
+y resistencia al fuego.%%%%
 fleeing monstatus
 
-This creature is fleeing in fear and will attempt each turn to move away from
-the source of this fear. Beside movement, it may only cast spells which it
-thinks could help it escape, such as Blink.
+Esta criatura está huyendo del miedo y intentará cada vuelta para alejarse de
+la fuente de este miedo. Además del movimiento, sólo puede lanzar hechizos que él
+Cree que podría ayudar a escapar, como Blink.
 
-If harmed directly or cornered against terrain, it will turn around to fight
-once more.
-%%%%
+Si se daña directamente o se arrincolla contra el terreno, se girará para luchar
+una vez más.%%%%
 fragile as glass monstatus
 
-This creature receives 50% more damage from all sources.
-%%%%
+Esta criatura recibe un 50% más de daño de todas las fuentes.%%%%
 frenzied and wild monstatus
 
-This creature deals 50% more damage with melee attacks and both moves and
-attacks 50% faster. It cannot cast spells and will prioritise attacking the
-closest other creature present each turn, whether they are friend or foe.
-%%%%
+Esta criatura trata un 50% más de daño con ataques de melee y ambos movimientos y
+ataca un 50% más rápido. No puede lanzar hechizos y priorizará atacar el
+otras criaturas más cercanas presentan cada turno, ya sean amigas o enemigos.%%%%
 fully charged monstatus
 
-This creature has gathered all the power it needs to cast its spells.
-%%%%
+Esta criatura ha reunido todo el poder que necesita para lanzar sus hechizos.%%%%
 grapneled monstatus
 
-This creature has been struck with a kinetic grapnel. The next melee attack
-from the grapnel's source will always hit and deal slightly increased damage.
-%%%%
+Esta criatura ha sido golpeada con un frasco cinético. El próximo ataque de melee
+de la fuente del grapnel siempre golpeará y tratará daños ligeramente aumentados.%%%%
 heavily contaminated monstatus
 
-[[contaminated monstatus]]
-%%%%
+[[monstatus contaminado]]%%%%
 heavily drained monstatus
 
-This creature has been heavily drained, lowering the accuracy of their melee
-attacks, the power of their spells and special attack properties, and making
-them more vulnerable to many status effects.
-%%%%
+Esta criatura ha sido muy drenada, bajando la precisión de su melee
+ataques, el poder de sus hechizos y propiedades especiales de ataque, y hacer
+son más vulnerables a muchos efectos de estatus.%%%%
 idealised monstatus
 
-This creature has glows with the perfection of their best self. They deal 100%
-more damage with melee attacks, have additional AC, and cast spells with
-substantially more strength.
-%%%%
+Esta criatura brilla con la perfección de su mejor yo. Tratan al 100%
+más daño con ataques de melee, tienen AC adicional, y lanzar hechizos con
+sustancialmente más fuerza.%%%%
 incited by Gozag monstatus
 
-This creature has been roused into great speed by the wrath of Gozag Ym Sagoz.
-Their haste or berserk state is permanent and will not wear off with time
-or through deliberate magical intervention.
-%%%%
+Esta criatura ha sido podrida en gran velocidad por la ira de Gozag Ym Sagoz.
+Su estado de precipitación o berserk es permanente y no se apagará con el tiempo
+o a través de una intervención mágica deliberada.%%%%
 indifferent monstatus
 
-This creature is neither hostile nor allied and may attack creatures of all
-dispositions, should it wander into them.
-%%%%
+Esta criatura no es hostil ni aliada y puede atacar criaturas de todos
+disposiciones, si vaga en ellas.%%%%
 infested monstatus
 
-This creature is infested with a death scarab, which will emerge from their
-body once they die.
-%%%%
+Esta criatura está infestada de un escarabajo mortal, que saldrá de su
+cuerpo una vez que mueren.%%%%
 inner flame monstatus
 
-Whenever this creature suffers damage, a flame cloud will briefly appear
-beneath them. When they die, they will explode in a violent burst of fire,
-damaging anything nearby and leaving behind additional flame clouds.
+Cada vez que esta criatura sufre daño, una nube de llamas aparecerá brevemente
+debajo de ellos. Cuando mueran, explotarán en una violenta explosión de fuego,
+dañando cualquier cosa cerca y dejando atrás nubes de llamas adicionales.
 
-Giant creatures will trigger an even larger explosion when they die.
-%%%%
+Las criaturas gigantes desencadenarán una explosión aún mayor cuando mueran.%%%%
 inspiring fear monstatus
 
-You are currently terrified of this creature, preventing you from deliberately
-moving close to them and causing 33% of the melee attacks you make again
-against them fail.
+Actualmente estás aterrorizado de esta criatura, impidiéndote deliberadamente
+moviéndose cerca de ellos y causando el 33% de los ataques melee que vuelves a hacer
+contra ellos fracasan.
 
-This effect will break if you ever lose sight of this creature.
-%%%%
+Este efecto se romperá si alguna vez pierdes la vista de esta criatura.%%%%
 interlaced with chaos monstatus
 
-This creature's melee attacks may inflict additional damage of a random element
-or cause various irresistible status effects.
-%%%%
+Los ataques de la criatura pueden infligir daños adicionales a un elemento aleatorio
+o causar diversos efectos irresistibles de estatus.%%%%
 lashing out in frustration monstatus
 
-This creature has been magically vexed and is forced to attack a random adjacent
-space each turn instead of performing any other actions. It is more likely to
-attack a space containing a creature than an empty one, but will attack its own
-allies as readily as its enemies.
-%%%%
+Esta criatura ha sido mágicamente vexada y se ve obligada a atacar un adyacente al azar
+espacio cada turno en lugar de realizar cualquier otra acción. Es más probable
+atacar un espacio que contenga una criatura que una vacía, pero atacará a su propia
+aliados tan fácilmente como sus enemigos.%%%%
 lightly drained monstatus
 
-This creature has been lightly drained, somewhat lowering the accuracy of their
+Esta criatura ha sido ligeramente drenada, algo bajando la precisión de su
 melee attacks, the power of their spells and special attack properties, and
-making them slightly more vulnerable to many status effects.
-%%%%
+haciéndolos ligeramente más vulnerables a muchos efectos de estatus.%%%%
 lost in madness monstatus
 
-This creature has been driven to madness by the power of Zin. It will never again
-use spells or abilities and will stumble around at random, attacking whatever
-it bumps into - be they friend or foe or sometimes even themselves.
-%%%%
+Esta criatura ha sido conducida a la locura por el poder de Zin. Nunca más.
+usar hechizos o habilidades y tropezará aleatoriamente, atacando cualquier cosa
+se choca con - ser amigos o enemigos o a veces incluso ellos mismos.%%%%
 magic disrupted monstatus
 
-This creature's spells and magical abilities have been disrupted and may fail when
-used. The chance of failure depends on the remaining duration of this effect.
-%%%%
+Los hechizos y habilidades mágicas de esta criatura han sido interrumpidos y pueden fracasar cuando
+usado. La probabilidad de fracaso depende de la duración restante de este efecto.%%%%
 magic-sapped monstatus
 
-This creature has had its access to magic tainted. Whenever it casts a spell, its
-magic will be severely disrupted, making it likely any subsequent spells it casts
-will fail.
-%%%%
+Esta criatura ha tenido su acceso a la magia manchada. Siempre que lanza un hechizo, su
+la magia será severamente perturbada, lo que probablemente cualquier hechizo subsiguiente que lanza
+fracasará.%%%%
 marked with the sign of ruin monstatus
 
-This creature has been condemned to inexorable decay and ruin. Whenever it takes
-damage from melee attacks, it will be drained heavily and either slowed, weakened,
-or blinded.
-%%%%
+Esta criatura ha sido condenada a la inexorable decadencia y ruina. Cuando sea necesario
+daño de los ataques de melee, será drenado pesadamente y o bien retardado, debilitado,
+o cegado.%%%%
 mesmerising monstatus
 
-This creature has mesmerised you, making you unable to voluntarily move away
-from them.
+Esta criatura te ha hipnotizado, haciéndote incapaz de alejarte voluntariamente.
+de ellos.
 
-This effect will break if you ever lose sight of this creature.
-%%%%
+Este efecto se romperá si alguna vez pierdes la vista de esta criatura.%%%%
 minion monstatus
 
-This creature has been created by magic and will cease to be once its creator dies.
-%%%%
+Esta criatura ha sido creada por la magia y dejará de ser una vez que su creador muera.%%%%
 missing a shadow monstatus
 
-This creature's shadow has been torn away from it and cannot be affected
-by Aphotic Marionette ever again.
-%%%%
+La sombra de esta criatura ha sido arrancada y no puede ser afectada
+por Aphotic Marionette de nuevo.%%%%
 misshapen and mutated monstatus
 
-This creature's AC is reduced by 8 and its accuracy, spell power, brand damage, and
-willpower are moderately reduced.
-%%%%
+El AC de esta criatura se reduce en 8 y su precisión, potencia de hechizo, daño de marca y
+la fuerza de voluntad se reduce moderadamente.%%%%
 more vulnerable to fire monstatus
 
-This creature's fire resistance is reduced by one level.
-%%%%
+La resistencia al fuego de esta criatura se reduce por un nivel.%%%%
 more vulnerable to poison monstatus
 
-This creature's poison resistance is reduced by one level.
-%%%%
+La resistencia al veneno de esta criatura se reduce por un nivel.%%%%
 mute monstatus
 
-This creature has been stricken permanently mute by the power of Zin. This
-prevents all noise the creature could make, including the vocalisations
-required for most creatures to cast spells.
-# Are demons silenced?
-%%%%
+Esta criatura ha sido muda permanentemente por el poder de Zin. Esto
+evita todo ruido que la criatura podría hacer, incluyendo las vocalizaciones
+requerido para la mayoría de las criaturas para lanzar hechizos.
+# ¿Los demonios son silenciados?%%%%
 not watching you monstatus
 
-This creature has been briefly distracted by something else.
+Esta criatura ha sido brevemente distraída por otra cosa.
 
-[[low-tier stab monstatus]]
-%%%%
+[[número de nivel inferior]]%%%%
 paralysed monstatus
 
-This creature is unable to move, act, block, or dodge attacks.
+Esta criatura no es capaz de mover, actuar, bloquear o atajar ataques.
 
-[[high-tier stab monstatus]]
-%%%%
+[[Monstatus de alto nivel]]%%%%
 paralysed with fear monstatus
 
-[[paralysed monstatus]]
-%%%%
+[[monstatus separados]]%%%%
 partially charged monstatus
 
-This creature has built up part of the charge it needs to cast a spell or
-activate an ability.
-%%%%
+Esta criatura ha construido parte de la carga que necesita para lanzar un hechizo o
+activa una habilidad.%%%%
 peaceful monstatus
 
-This creature will never attack you and may attack other creatures hostile to
-you, but will neither follow you nor obey any direct instructions.
-%%%%
+Esta criatura nunca te atacará y podrá atacar a otras criaturas hostiles
+tú, pero no te seguirá ni obedecerá instrucciones directas.%%%%
 petrifying slowly monstatus
 
-This creature will soon become fully petrified. Its movement and actions are
-50% slower and it is nearly unable to dodge attacks, though it also takes 33%
-less damage.
+Esta criatura pronto será totalmente petrificada. Su movimiento y sus acciones
+50% más lento y es casi incapaz de esquivar ataques, aunque también toma 33%
+menos daño.
 
-[[low-tier stab monstatus]]
-%%%%
+[[número de nivel inferior]]%%%%
 petrified monstatus
 
-This creature is unable to move, act, block, or dodge attacks. By being made
-of stone, it also takes 50% less damage, gains immunity to negative energy and
-poison, but become vulnerable to deconstruction.
+Esta criatura no es capaz de mover, actuar, bloquear o atajar ataques. Al ser hecho
+de piedra, también toma 50% menos daño, gana inmunidad a energía negativa y
+veneno, pero se vuelven vulnerables a la deconstrucción.
 
-[[high-tier stab monstatus]]
-%%%%
+[[Monstatus de alto nivel]]%%%%
 poisoned monstatus
 
-This creature suffers poison damage every turn.
-%%%%
+Esta criatura sufre daño venenoso cada vuelta.%%%%
 radiating silence monstatus
 
-This creature is surrounded by a field of unnatural silence which eliminates
-all noise made within it as well as preventing the vocalisations required for
-many creatures (including you) to read scrolls, cast spells, or invoke divine
-aid.
+Esta criatura está rodeada de un campo de silencio antinatural que elimina
+todo ruido hecho dentro de ella, así como la prevención de las vocalizaciones necesarias para
+muchas criaturas (incluyendo a ti) para leer pergaminos, lanzar hechizos, o invocar divino
+ayuda.
 
-If this effect was caused by a spell, the radius of the field will shrink over
-time.
-%%%%
+Si este efecto fue causado por un hechizo, el radio del campo se reducirá
+tiempo.%%%%
 radiating toxic energy monstatus
 
-This creature shines with Olgreb's Toxic Radiance and will continuously inflict
-poison damage on all foes in sight for several turns.
-%%%%
+Esta criatura brilla con la radiación tóxica de Olgreb e infligirá continuamente
+daño venenoso en todos los enemigos a la vista por varias vueltas.%%%%
 ready to become your apostle monstatus
 
-This creature has been defeated in honourable combat and may be recruited as
-one of your apostles via the ability menu.
-%%%%
+Esta criatura ha sido derrotada en combate honorable y puede ser reclutada como
+uno de sus apóstoles a través del menú de habilidad.%%%%
 ready to howl monstatus
 
-This creature has not yet inflicted you with Oblivion Howl and may attempt to do so.
-%%%%
+Esta criatura aún no te ha infligido con el olvido Howl y puede intentar hacerlo.%%%%
 ready to sunder monstatus
 
-This creature's Sundering weapon is fully charged and its next attack will be
-more accurate, inflict greatly increased damage, and cleave with increased range.
-This effect will be lost if it moves.
-%%%%
+El arma Sundering de esta criatura está completamente cargada y su próximo ataque será
+más preciso, infligir un daño enormemente aumentado, y acortar con mayor rango.
+Este efecto se perderá si se mueve.%%%%
 reflecting blocked projectiles monstatus
 
-This creature reflects any projectile it blocks back to their original source.
-%%%%
+Esta criatura refleja cualquier proyectil que bloquea de nuevo a su fuente original.%%%%
 reflecting injuries monstatus
 
-Whenever this creature suffers damage, it inflicts 2/3rds as much damage back upon
-whatever damaged it.
-%%%%
+Cada vez que esta criatura sufre daño, inflige 2/3rds tanto daño en
+lo que lo haya dañado.%%%%
 regenerating monstatus
 
-This creature regenerates health at a greatly increased rate, proportion to their
-maximum health.
-%%%%
+Esta criatura regenera la salud a un ritmo mucho mayor, proporción a su
+máxima salud.%%%%
 repelling missiles monstatus
 
-This creature has +15 EV when dodging projectiles, whether physical or magical.
-%%%%
+Esta criatura tiene +15 EV cuando esquiva proyectiles, ya sea físico o mágico.%%%%
 retreating monstatus
 
-This creature has been ordered to flee in a given direction, and will not attack
-or return to your side until they are given new instructions or have travelled a
-sufficient distance
-%%%%
+Esta criatura ha sido ordenada a huir en una dirección dada, y no atacará
+o volver a su lado hasta que se les dé nuevas instrucciones o han viajado a
+distancia suficiente%%%%
 rolling monstatus
 
-This creature has curled into a ball, increasing its movement speed and melee
-damage by 100% until the next time it attacks something (or becomes unable to move).
-%%%%
+Esta criatura se ha curado en una bola, aumentando su velocidad de movimiento y melee
+daño al 100% hasta la próxima vez que ataca algo (o se vuelve incapaz de moverse).%%%%
 sharing its pain monstatus
 
-This creature will inflict a portion of all damage it suffers upon nearby allies,
-with those closer to it receiving a greater amount.
-%%%%
+Esta criatura infligirá una porción de todo daño que sufre a los aliados cercanos,
+con aquellos más cercanos a recibir una mayor cantidad.%%%%
 sharing his pain monstatus
 
-[[sharing its pain monstatus]]
-%%%%
+[[compartir su monstatus dolor]]%%%%
 sharing her pain monstatus
 
-[[sharing its pain monstatus]]
-%%%%
+[[compartir su monstatus dolor]]%%%%
 sharing their pain monstatus
 
-[[sharing its pain monstatus]]
-%%%%
+[[compartir su monstatus dolor]]%%%%
 sheltered from injuries monstatus
 
-Half of the damage suffered by this creature is redirected to the ally protecting it
-instead.
-%%%%
+La mitad del daño sufrido por esta criatura es redireccionado al aliado protegiéndolo
+en lugar de eso.%%%%
 sick monstatus
 
-This creature is sick and cannot naturally regenerate.
-%%%%
+Esta criatura está enferma y no puede regenerarse naturalmente.%%%%
 silenced monstatus
 
-This creature is engulfed in a field of unnatural silence, preventing any noise
-it might make, including the vocalisations required for many creatures to cast
-spells.
-%%%%
+Esta criatura está envuelta en un campo de silencio antinatural, evitando cualquier ruido
+podría hacer, incluyendo las vocalizaciones necesarias para que muchas criaturas puedan fundir
+hechizos.%%%%
 skewered by barbs monstatus
 
-This creature will take minor damage whenever it moves.
-%%%%
+Esta criatura tomará un daño menor cuando se mueva.%%%%
 slightly transparent monstatus
 
-This creature is normally invisible, but your magical sight allows you to see it
-nonetheless. This has no effect on you, though any allies you have may not be
-able to see it as you can.
-%%%%
+Esta criatura es normalmente invisible, pero tu vista mágica te permite verla
+No obstante. Esto no tiene efecto en tú, aunque cualquier aliado que tú tiene puede no ser
+capaz de verlo como puedas.%%%%
 slow monstatus
 
-This creature moves and acts at 66% of normal speed.
-%%%%
+Esta criatura se mueve y actúa al 66% de la velocidad normal.%%%%
 softly glowing monstatus
 
-This creature has been outlined with a halo of light and is easier to hit and
-revealed, if invisible.
-%%%%
+Esta criatura ha sido esbozada con un halo de luz y es más fácil de golpear y
+revelado, si invisible.%%%%
 soul bound monstatus
 
-This creature's soul has been bound in ice. When it dies, a simulacrum of its
-original form will rise in its place.
-%%%%
+El alma de esta criatura ha estado atada en hielo. Cuando muere, un simulacro de su
+La forma original se elevará en su lugar.%%%%
 soul-gripped monstatus
 
-This creature's soul will be bound in service to you once they die, though
-allowing them to stray from your line of sight for more than a brief moment
-will cause you to lose your grasp on it.
-%%%%
+El alma de esta criatura estará atada en servicio contigo una vez que mueran, aunque
+permitiéndoles alejarse de su línea de visión por más de un breve momento
+te hará perder tu comprensión.%%%%
 soul-splintered monstatus
 
-A fragment of this creature's soul has been extracted into a soul wisp,
-preventing further use of this spell until the wisp reunites with them again.
-%%%%
+Un fragmento del alma de esta criatura ha sido extraído en un abismo del alma,
+previniendo un mayor uso de este hechizo hasta que el wisp se reúna con ellos de nuevo.%%%%
 spells empowered monstatus
 
-This creature's spells are strengthened and it will cast them more frequently.
-%%%%
+Los hechizos de esta criatura se fortalecen y los echará con más frecuencia.%%%%
 spells diminished monstatus
 
-This creature's spells are significantly weakened.
-%%%%
+Los hechizos de esta criatura se debilitan significativamente.%%%%
 stilling the winds monstatus
 
-This creature is preventing any clouds from being created on the current floor.
-%%%%
+Esta criatura está impidiendo que cualquier nube sea creada en el piso actual.%%%%
 strong monstatus
 
-This creature's melee attacks deal 50% more damage.
-%%%%
+Los ataques de la criatura tienen un 50% más de daño.%%%%
 strong-willed monstatus
 
-This creature's willpower is increased by 2 pips.
-%%%%
+La fuerza de voluntad de esta criatura se aumenta en 2 pips.%%%%
 stupefied monstatus
 
-This creature has been struck dumb by the power of Zin and cannot act.
+Esta criatura ha sido tonta por el poder de Zin y no puede actuar.
 
-[[high-tier stab monstatus]]
-# The summoned monstatus is left out due to being covered on the main monster
-# xv screen.
-%%%%
+[[Monstatus de alto nivel]]
+# The summoned monstatus is left out due to being covered on the main monstruo
+# Pantalla xv.%%%%
 surrounded by a freezing vortex monstatus
 
-This creature is the source of a devastating polar vortex.
-%%%%
+Esta criatura es la fuente de un vórtice polar devastador.%%%%
 surrounded by acidic fog monstatus
 
-This creature trails a ring of acidic fog clouds around itself.
-%%%%
+Esta criatura sigue un anillo de nubes ácidas de niebla alrededor de sí misma.%%%%
 surrounded by chaotic energy monstatus
 
-This creature trails a ring of seething chaos clouds around itself.
-%%%%
+Esta criatura sigue un anillo de nubes caóticas alrededor de sí misma.%%%%
 surrounded by flames monstatus
 
-This creature trails a ring of flame clouds around itself.
-%%%%
+Esta criatura sigue un anillo de nubes de llamas alrededor de sí misma.%%%%
 surrounded by fog monstatus
 
-This creature trails a ring of purple smoke around itself.
-%%%%
+Esta criatura sigue un anillo de humo púrpura alrededor de sí misma.%%%%
 surrounded by foul miasma monstatus
 
-This creature trails a ring of foul miasma around itself.
-%%%%
+Esta criatura sigue un anillo de miasma sucio alrededor de sí misma.%%%%
 surrounded by freezing clouds monstatus
 
-This creature trails a ring of freezing clouds around itself.
-%%%%
+Esta criatura sigue un anillo de nubes heladas alrededor de sí misma.%%%%
 surrounded by mutagenic energy monstatus
 
-This creature trails a ring of mutagenic fog around itself.
-%%%%
+Esta criatura sigue un anillo de niebla mutagénica alrededor de sí misma.%%%%
 surrounded by negative energy monstatus
 
-This creature trails a ring of clouds of excruciating misery around itself.
-%%%%
+Esta criatura rastrea un anillo de nubes de miseria atroz alrededor de sí misma.%%%%
 surrounded by restless winds monstatus
 
-This creature has recently cast Polar Vortex and cannot cast it again for
-a short time.
-%%%%
+Esta criatura ha lanzado recientemente Polar Vortex y no puede echarlo de nuevo por
+poco tiempo.%%%%
 surrounded by thunder monstatus
 
-This creature trails a ring of thunder clouds around itself.
-%%%%
+Esta criatura sigue un anillo de nubes de truenos alrededor de sí misma.%%%%
 target of orcish vengeance monstatus
 
-This creature has contributed to the death of one of your apostles. Defeating all
-targets of orcish vengeance will significantly speed up the time it takes for
-Beogh to resurrect your apostles.
-%%%%
+Esta criatura ha contribuido a la muerte de uno de sus apóstoles. Derrotando a todos
+blancos de venganza de orcish acelerará significativamente el tiempo que se necesita
+Gusto a resucitar a tus apóstoles.%%%%
 targeted by your dimensional bullseye monstatus
 
-Whenever you perform a ranged attack aimed at a different creature, a copy of
-the projectile will be teleported to this creature at the end of its flight.
-%%%%
+Cada vez que realizas un ataque extendido dirigido a una criatura diferente, una copia de
+el proyectil será teletransportado a esta criatura al final de su vuelo.%%%%
 tempered monstatus
 
-This creature's melee attacks deal 25% more damage, its accuracy is slightly
-increased, and its spells and abilities have been mildly strengthened.
-%%%%
+Los ataques de la criatura tratan un 25% más de daño, su precisión es ligeramente
+aumentó, y sus hechizos y habilidades se han fortalecido ligeramente.%%%%
 touched by paradox monstatus
 
-This creature has become unmoored in space, allowing it to Manifold Assault as
-a natural ability. Whenever they do, there is 33% chance they will also blink
-to a random nearby location.
-%%%%
+Esta criatura se ha vuelto inmoorada en el espacio, permitiéndole realizar asaltos como
+una habilidad natural. Siempre que lo hacen, hay 33% de probabilidades de que también parpadearán
+a un lugar cercano al azar.%%%%
 unable to see you monstatus
 
-This creature is unable to see you because you are invisible. Its accuracy
-against you is greatly decreased, it cannot make attacks of opportunity, and
-spells it casts may sometimes be aimed at the wrong locations.
+Esta criatura no puede verte porque eres invisible. Su precisión
+contra ti es muy disminuido, no puede hacer ataques de oportunidad, y
+hechizos que funde a veces pueden estar dirigidos a los lugares equivocados.
 
-It may also stumble around and eventually lose track of you, especially if it
-has low intelligence.
+También puede tropezar alrededor y eventualmente perder la pista de tú, especialmente si
+tiene poca inteligencia.
 
-[[low-tier stab monstatus]]
-%%%%
+[[número de nivel inferior]]%%%%
 unable to translocate monstatus
 
-This creature cannot blink or teleport.
-%%%%
+Esta criatura no puede parpadear o teletransportar.%%%%
 unaffected by silence monstatus
 
-Despite being engulfed in unnatural silence, this creature's magic does not
-require vocalisations and thus is unaffected.
-%%%%
+A pesar de estar envuelto en silencio antinatural, la magia de esta criatura no
+requieren vocalizaciones y por lo tanto no se ve afectada.%%%%
 unrewarding monstatus
 
-This creature provides no experience or piety when slain.
-%%%%
+Esta criatura no proporciona experiencia ni piedad cuando está muerta.%%%%
 untethered in space monstatus
 
-Each turn, this creature blinks a short distance further away from you and
-suffers a small amount of damage.
-%%%%
+Cada turno, esta criatura parpadea una corta distancia más lejos de ti y
+sufre una pequeña cantidad de daño.%%%%
 unusually agile monstatus
 
-This creature's evasion is slightly increased.
-%%%%
+La evasión de esta criatura aumenta ligeramente.%%%%
 unusually resistant monstatus
 
-This creature's resistance to fire, cold, poison, electricity, and corrosion
-are all increased by one level.
-%%%%
+La resistencia de esta criatura al fuego, el frío, el veneno, la electricidad y la corrosión
+todos aumentan en un nivel.%%%%
 very poisoned monstatus
 
-This creature is poisoned and will take damage every turn.
-%%%%
+Esta criatura está envenenada y dañará cada turno.%%%%
 unable to breathe monstatus
 
-This creature is unable to breathe and cannot cast spells or invoke divine aid.
-It also takes minor asphyxiation damage every turn.
-%%%%
+Esta criatura no puede respirar y no puede lanzar hechizos o invocar la ayuda divina.
+También requiere daño de asfixia menor cada vuelta.%%%%
 damage-immune at range monstatus
 
-This creature takes no damage by any means unless the original source of that
-damage is adjacent to them. Non-damaging side-effects happen normally.
+Esta criatura no daña por ningún medio a menos que la fuente original de eso
+el daño está adyacente a ellos. Los efectos secundarios no peligrosos ocurren normalmente.
 
-(The source of damage from clouds and projectile-like monsters, such as foxfires,
-is always considered whatever creature first created them.)
-%%%%
+(La fuente de daño de nubes y monstruos similares a los proyectiles, como foxfires,
+es siempre considerado como cualquier criatura primero los creó.)%%%%
 weak monstatus
 
-This creature's melee attacks deal 33% less damage.
-%%%%
+Los ataques de la criatura tienen un 33% menos de daño.%%%%
 weak-willed monstatus
 
-This creature's willpower is reduced by half.
-%%%%
+La fuerza de voluntad de esta criatura se reduce a la mitad.%%%%
 winding a clockwork bee monstatus
 
-This creature is preparing to launch a clockwork bee and must focus on this
-task for several turns. Most effects that would prevent this creature from
-casting spells will also interrupt this process.
-%%%%
+Esta criatura se está preparando para lanzar una abeja de relojería y debe centrarse en esto
+tarea para varios turnos. La mayoría de los efectos que impiden a esta criatura
+Los hechizos de casting también interrumpirán este proceso.%%%%
 withering away monstatus
 
-This creature will die in a few turns.
-## Not real statuses, but common clauses to add to some others
-%%%%
+Esta criatura morirá en unos segundos.
+## Not real statuss, but common clauses to add to some others%%%%
 low-tier stab monstatus
 
-<blue>Melee attacks you make against this creature have a chance (proportional to
-your stealth and weapon skill) of catching it off-guard and dealing
-increased damage, especially if made with a short blade.</blue>
-%%%%
+<blue> Los ataques de Melee contra esta criatura tienen una oportunidad (proporcional para
+su robo y habilidad de arma) de atraparlo fuera de la guardia y tratar
+aumento del daño, especialmente si se hace con una hoja corta. </blue>%%%%
 high-tier stab monstatus
 
-<blue>Melee attacks you make against this creature will deal greatly increased damage,
-especially if made with a short blade.</blue>
-%%%%
+<blue> Los ataques de Melee contra esta criatura causarán un gran daño,
+especialmente si se hace con una hoja corta. </blue>%%%%
