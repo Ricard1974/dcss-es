@@ -1,316 +1,279 @@
 %%%%
-Air Magic
-
-Magia de aire proporciona hechizos para tratar el daño directamente con el viento, así como
-ruidoso pero poderoso rayo Conjurations. También proporciona una utilidad
-hechizos, como una llamada al viento para ayudar a su movimiento o un Hex para prevenir
-la mayor parte del uso de la magia en el área que te rodea.
-
-Ser calificado en Magia de aire aumenta la tasa de éxito y poder de hechizo de hechizos
-en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en
-qué caso deletrear el éxito y el poder dependen de la habilidad promedio en
-estas escuelas.
-
-%%%%
-Alchemy
-
-Alchemy es el arte de las toxinas y la transmutación. Los discursos en esta escuela pueden retorcer
-objetos y criaturas en diferentes formas, desencadenan venenos poderosos, o incluso
-desenmascarar el tejido de la magia misma.
-
-Ser experto en Alquimia aumenta la tasa de éxito y poder de hechizo de
-hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
-en estas escuelas.
-
-%%%%
-Armour
-
-La capacidad en Armaduras incrementa el AC obtenido al llevar puestas
-armaduras, y también ayuda a mitigar el lastre provocado por las armaduras
-pesadas a la hora de combatir cuerpo a cuerpo o pronunciar hechizos.
-
-%%%%
-Axes
-
-Los ejes azotan a múltiples enemigos con un solo golpe, golpeando enemigos en un
-Arc alrededor de la peladora.
-
-Ser experto con Axes te permite atacar más rápidamente con todas las armas
-de este tipo, así como aumentar su precisión y daño con ellos.
-
-Ser experto con ejes aumenta su eficacia con Mazas y mayales y
-Polearms y viceversa.
-
-%%%%
-Conjurations
-
-Los conjuros son hechizos orientados a la batalla, que a menudo trabajan conjurando un
-pedazo de materia corta y empujarla hacia la víctima para tratar directamente
-daño. Ser calificado en Conjuraciones generalmente aumenta el daño y la precisión
-de tales hechizos, y a veces afecta su alcance o el tamaño de la zona
-afectado.
-
-Ser calificado en Conjurations aumenta la tasa de éxito y poder de hechizo de
-hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
-en estas escuelas.
-
-%%%%
-Dodging
-
-La capacidad de Esquivar afectará a tus oportunidades de esquivar un ataque,
-bien en cuerpo a cuerpo, a distancia o mágico. Ciertos tipos de ataque no
-pueden esquivarse, como los encantamientos (que deben ser resistidos) o las
-explosiones.
-
-%%%%
-Earth Magic
-
-Magia de tierra contiene hechizos capaces de tratar grandes cantidades de física directa
-daño, que no puede resistido como fuego, frío y daño de relámpago puede. It
-también está vinculado con Alquimia, con hechizos para licuar la tierra a su alrededor, o para
-convertir a tus enemigos en piedra.
-
-Ser calificado en Magia de tierra aumenta la tasa de éxito y poder de hechizo de
-hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
-en estas escuelas.
-
-%%%%
-Evocations
-
-La capacidad en Evocaciónes afecta la compentencia de usar cosas mágicas como las
-varas y otras cosas raras, aumentando la fuerza y probabilidad de éxito cuando
-usandolas.
-
-%%%%
 Fighting
 
-La capacidad en Combate incrementa tu precisión y daño en combate cuerpo a
-cuerpo, y también incrementa tu máximo de puntos de vida.
-
-%%%%
-Fire Magic
-
-Magia de fuego se centra principalmente en tratar daño de fuego a largas distancias, con muchos
-Conjuraciones eficaces.
-
-Ser calificado en Magia de fuego aumenta la tasa de éxito y poder de hechizo de
-hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
-en estas escuelas.
-
-%%%%
-Forgecraft
-
-Forgecraft es el arte de crear objetos tangibles fuera de la magia. Forgecraft
-hechizos pueden construir una amplia gama de criaturas mecánicas que lucha
-junto a la casta, así como crear trampas y barricadas e incluso girar la
-resiliencia física de la armadura en un arma.
-
-Ser calificado en Forgecraft aumenta la tasa de éxito y poder de hechizo de
-hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
-en estas escuelas.
-
-%%%%
-Hexes
-
-Hexes trata de otorgar varios encantos en cosas cercanas. Mientras que ninguno es directo
-daño, ser ensalzado puede sacar a un oponente de combate,
-Aunque a menudo requieren superar la fuerza de voluntad de un oponente para tener un efecto.
-La habilidad en Hexes puede ayudar a superar esto.
-
-Ser calificado en Hexes aumenta la tasa de éxito y poder de hechizo de hechizos en
-esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en las que
-caso ortografía éxito y poder depende de la habilidad promedio en estos
-escuelas.
-
-%%%%
-Ice Magic
-
-Magia de hielo contiene una gama de hechizos de daño directo, así como algunos defensivos
-efectos - por ejemplo, armadura de hielo temporal.
-
-Ser calificado en Magia de hielo aumenta la tasa de éxito y poder de hechizo de hechizos
-en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en
-qué caso deletrear el éxito y el poder dependen de la habilidad promedio en
-estas escuelas.
-
-%%%%
-Invocations
-
-Su habilidad de invocaciones afecta a la probabilidad de que un intento de utilizar la divina
-habilidades con ciertos dioses ser exitoso, y a menudo el poder de tales
-habilidades.
-
- LUA0 
-
-%%%%
-Long Blades
-
-Ser experto con Hojas largas te permite atacar más rápidamente con todo
-armas de este tipo, así como aumentar su precisión y daño con ellos.
-
-Ser experto con Hojas largas aumenta su eficacia con Hojas cortas,
-y viceversa.
-
-%%%%
-Maces & Flails
-
-Ser experto con Mazas y mayales te permite atacar más rápidamente con
-todas las armas de este tipo, así como aumentar su precisión y daño con
-ellos.
-
-Ser experto con Mazas y mayales aumenta su eficacia con los ejes y
-Cuevas, y viceversa.
-
-%%%%
-Necromancy
-
-La necromancia es el arte de drenar y ganar vida, aunque con mayor frecuencia
-asociado con zombis y otros no muertos. Como tal, los hechizos de necromancia tienen un
-amplia gama de efectos, que van desde hechizos para crear o interrumpir los no muertos a
-hechizos que otorgan curación inesperada en varias formas.
-
-Ser calificado en Necromancy aumenta la tasa de éxito y poder de hechizo de
-hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
-en estas escuelas.
-
-%%%%
-Polearms
-
-Los polacos pueden ser evocados con ‘v’ para atacar enemigos de dos espacios de distancia.
-
-Ser experto con Polearms te permite atacar más rápidamente con todos
-armas de este tipo, así como aumentar su precisión y daño con ellos.
-
-Ser hábil con Polearms aumenta su eficacia con Axes y Staves,
-y viceversa.
-
-%%%%
-Ranged Weapons
-
-Ser experto con armas extendidas te permite atacar más rápidamente con todos
-arcos, arcos cruzados y eslingas, así como aumentar su precisión y daño con
-ellos.
-
-%%%%
-Shapeshifting
-
-Shapeshifting permite el uso de talismanos mágicos para cambiarse en otros
-formas. Suficiente habilidad permite utilizar formas más poderosas sin gravedad
-dañar la salud. Ser hábil en Shapeshifting también hace la mayoría de las formas
-algo más fuerte, en formas que varían entre formas.
-
-%%%%
-Shields
-
-Un nivel alto de Escudos ayuda a detener ataques cuerpo a cuerpo o con
-proyectiles (mágicos y no mágicos) con el escudo que lleves (que también puede
-ser mágico o divino). Algunos ataques, como los virotes de penetración, no
-pueden ser bloqueados de ningún modo.
-
+Fighting skill increases your accuracy and damage in physical combat, and
+also increases your maximum health.
 %%%%
 Short Blades
 
-Hojas cortas son más eficaces que cualquier otro tipo de arma apuñalando indefenso
-enemigos.
+Short Blades are more effective than any other weapon type at stabbing helpless
+foes.
 
-Ser experto con Hojas cortas te permite atacar más rápidamente con todo
-armas de este tipo, así como aumentar su precisión y daño con ellos.
+Being skilled with Short Blades will allow you to attack more quickly with all
+weapons of this type, as well as increasing your accuracy and damage with them.
 
-Ser experto con Hojas cortas aumenta su eficacia con Hojas largas,
-y viceversa.
-
+Being skilled with Short Blades increases your effectiveness with Long Blades,
+and vice versa.
 %%%%
-Spellcasting
+Long Blades
 
- LUA0 
+Being skilled with Long Blades will allow you to attack more quickly with all
+weapons of this type, as well as increasing your accuracy and damage with them.
 
+Being skilled with Long Blades increases your effectiveness with Short Blades,
+and vice versa.
 %%%%
-Stabbing
+Axes
 
-Apuñalar es la capacidad que gobierna la facilidad de inflingir una gran
-cantidad de daño cuando se ataca a una criatura indefensa o distraída
-(usualmente con una hoja corta), así como la cantidad adicional de daño
-causada. Algunos dioses pueden desaprobar esta conducta.
+Axes cleave through multiple enemies with a single swing, hitting foes in an
+arc around the wielder.
 
+Being skilled with Axes will allow you to attack more quickly with all weapons
+of this type, as well as increasing your accuracy and damage with them.
+
+Being skilled with Axes increases your effectiveness with Maces & Flails and
+Polearms, and vice versa.
+%%%%
+Maces & Flails
+
+Being skilled with Maces & Flails will allow you to attack more quickly with
+all weapons of this type, as well as increasing your accuracy and damage with
+them.
+
+Being skilled with Maces & Flails increases your effectiveness with Axes and
+Staves, and vice versa.
+%%%%
+Polearms
+
+Polearms can be evoked with ‘v’ to attack enemies from two spaces away.
+
+Being skilled with Polearms will allow you to attack more quickly with all
+weapons of this type, as well as increasing your accuracy and damage with them.
+
+Being skilled with Polearms increases your effectiveness with Axes and Staves,
+and vice versa.
 %%%%
 Staves
 
-Cuevas requieren una cantidad relativamente baja de habilidad para ser utilizado más eficazmente,
-aunque carecen del alto potencial de daños de otras clases de armas.
+Staves require a relatively low amount of skill to be used most effectively,
+although they lack the high damage potential of some other weapon classes.
 
-Ser hábil con Staves te permite atacar más rápidamente con todos
-armas de este tipo, así como aumentar su precisión y daño con ellos.
+Being skilled with Staves will allow you to attack more quickly with all
+weapons of this type, as well as increasing your accuracy and damage with them.
 
-Ser hábil con Cuevas aumenta su eficacia con Mazas y mayales y
-Polearms y viceversa.
-
+Being skilled with Staves increases your effectiveness with Maces & Flails and
+Polearms, and vice versa.
 %%%%
-Stealth
+Ranged Weapons
 
-Al entrenar a Stealth, puedes hace menos probable que los monstruos noten que
-si están dormidos o de otra manera no saben, y aumentan sus posibilidades de monstruos
-perderte el rastro después de dejar su visión. Note que más poderoso
-Los monstruos tienden a ser más sospechosos y observantes.
-
-habilidad de Stealth, junto con la habilidad de arma para su arma equipada, también
-gobierna la probabilidad de hacer una gran cantidad de daño al atacar un
-criatura distraída o desamparada, así como la cantidad de daño extra tratado.
-
-%%%%
-Summonings
-
-Invocaciones trata de convocar criaturas de otro plano de la realidad a
-temporalmente te ayuda. Aumentar la habilidad de Invocaciones puede conceder varios efectos
-dependiendo del hechizo, como la duración más larga o aliados más poderosos. Nota
-que los seres convocados no dejan cuerpos y no dan experiencia cuando son asesinados,
-y su equipo es tan efímero como ellos.
-
-Ser experto en Invocaciones aumenta la tasa de éxito y poder de hechizo de
-hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
-en estas escuelas.
-
+Being skilled with Ranged Weapons will let you attack more quickly with all
+bows, crossbows and slings, as well as increasing your accuracy and damage with
+them.
 %%%%
 Throwing
 
-Entrenar Lanzar hará que las armas arrojadizas (como javalinas) y cerbatanas
-sean más efectivas. En particular, hace que las armas de retorno sean más
-proclives a regresar a su lanzador, y hace que ciertos dardos mágicos tengan un
-efecto más probable cuando se lanzan con la cerbatana.
-
-Entrenarse en Lanzar le hace a uno más capaz con Hondas, y viceversa.
-
+Training Throwing will make thrown weapons (such as javelins) more accurate
+and damaging. It also makes certain magical darts more likely to have an
+effect.
 %%%%
-Translocations
+Armour
 
-Las translocaciones se centran en el movimiento espacial de seres o objetos, incluso
-hechizos útiles para translocarse a distancias cortas rápidamente o para
-transportar a tus enemigos lejos de ti.
-
-Ser calificado en Translocaciones aumenta la tasa de éxito y poder de hechizo de
-hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
-en estas escuelas.
-
+Armour skill multiplies the AC gained from wearing armour of all kinds, both
+from body armour and cloaks, gloves, etc. It also slightly lessens penalties
+to spellcasting and ranged weapon speed from heavy armour.
 %%%%
-Traps
+Dodging
 
-Un personaje que se haya entrenado con trampas será más observador con respecto
-al entorno y se dará cuenta de las trampas rápidamente, lo que le hará más
-veloz a la hora de desactivarlas.
+The Dodging skill will affect your chance of dodging an attack, be it melee,
+ranged or magical. Certain types of attack cannot be dodged, however, such as
+enchantments (which must be resisted with willpower) and explosions.
+%%%%
+Stealth
 
+By training Stealth, you can make it less likely that monsters will notice you
+if they are asleep or otherwise unalert, and increase your chances of monsters
+losing track of you after you leave their vision. Note that more powerful
+monsters tend to be more suspicious and observant.
+
+Stealth skill, along with the weapon skill for your equipped weapon, also
+governs the likelihood of doing a great amount of damage when attacking a
+distracted or helpless creature, as well as the amount of extra damage dealt.
+%%%%
+Shields
+
+A high Shields skill helps you block melee attacks or projectiles (both magical
+and non-magical) with your equipped shield, and reduces their penalty to your
+evasion, attack speed and spellcasting success.
 %%%%
 Unarmed Combat
 
-Estar entrenado en Combate sin Armas incrementa la precisión, el daño y la
-velocidad de ataque en el combate cuerpo a cuerpo cuando no se usen armas.
-También permite golpear ocasionalmente con tu mano libre de forma adicional en
-caso de poderse hacer.
-
+Being skilled in Unarmed Combat increases your accuracy, damage and attack
+speed in melee combat when barehanded.
 %%%%
+Spellcasting
+
+{{
+    if you.race() == "Djinni" then
+        return "Being skilled in Spellcasting increases the success rate and spell "..
+               "power of all spells."
+    else
+        return "Being skilled in Spellcasting slightly increases the success " ..
+                "rate and spell power of all spells, along with increasing your " ..
+                "magical reserves. Training Spellcasting also gives you more spell " ..
+                "slots to spend on new spells."
+    end
+}}
+%%%%
+Conjurations
+
+Conjurations are battle oriented spells, which often work by conjuring up a
+chunk of short-lived matter and propelling it towards the victim to deal direct
+damage. Being skilled in Conjurations usually increases the damage and accuracy
+of such spells, and sometimes affects their range or the size of the area
+affected.
+
+Being skilled in Conjurations increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Hexes
+
+Hexes try to bestow various enchantments on nearby things. While none do direct
+damage, being ensorcelled can effectively take an opponent out of combat,
+although they often require overcoming an opponent's willpower to have an effect.
+Skill in Hexes can help overcome this.
+
+Being skilled in Hexes increases the success rate and spell power of spells in
+this school. Many spells belong to a combination of several schools, in which
+case spellcasting success and power will depend on the average skill in these
+schools.
+%%%%
+Summonings
+
+Summonings deals with summoning creatures from another plane of reality to
+temporarily aid you. Increasing Summonings skill may grant a number of effects
+depending on the spell, such as longer duration or more powerful allies. Note
+that summoned beings do not leave corpses and give no experience when killed,
+and their equipment is as ephemeral as they are.
+
+Being skilled in Summonings increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Forgecraft
+
+Forgecraft is the art of shaping tangible objects out of magic. Forgecraft
+spells can construct a wide array of mechanical creatures that will fight
+alongside the caster, as well as create traps and barricades and even turn the
+physical resilience of one's armour into a weapon.
+
+Being skilled in Forgecraft increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Necromancy
+
+Necromancy is the art of draining and gaining life, although most often
+associated with zombies and other undead. As such, Necromancy spells have a
+wide range of effects, ranging from spells to create or disrupt the undead to
+spells granting unholy healing in various forms.
+
+Being skilled in Necromancy increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Translocations
+
+Translocations focus on the spatial movement of beings or objects, including
+useful spells to translocate yourself over short distances quickly or to
+transport your enemies away from you.
+
+Being skilled in Translocations increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Alchemy
+
+Alchemy is the art of toxins and transmutation. Spells in this school can twist
+objects and creatures into different shapes, unleash powerful poisons, or even
+unweave the fabric of magic itself.
+
+Being skilled in Alchemy increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Fire Magic
+
+Fire Magic focuses mainly on dealing fire damage over long distances, with many
+effective Conjurations.
+
+Being skilled in Fire Magic increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Ice Magic
+
+Ice Magic contains a range of direct damage spells, as well as some defensive
+effects - for example, crafting temporary ice armour.
+
+Being skilled in Ice Magic increases the success rate and spell power of spells
+in this school. Many spells belong to a combination of several schools, in
+which case spellcasting success and power will depend on the average skill in
+these schools.
+%%%%
+Air Magic
+
+Air Magic provides spells to deal damage directly with the wind, as well as
+noisy but powerful lightning Conjurations. It also provides some utility
+spells, such as a call to the wind to assist your movement or a Hex to prevent
+most use of magic in the area surrounding you.
+
+Being skilled in Air Magic increases the success rate and spell power of spells
+in this school. Many spells belong to a combination of several schools, in
+which case spellcasting success and power will depend on the average skill in
+these schools.
+%%%%
+Earth Magic
+
+Earth Magic contains spells able to deal large amounts of direct physical
+damage, which cannot be resisted like fire, cold and lightning damage can. It
+is also linked with Alchemy, with spells to liquefy the earth around you, or to
+turn your enemies to stone.
+
+Being skilled in Earth Magic increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Invocations
+
+Your Invocations skill affects the likelihood that an attempt to use divine
+abilities with certain gods will be successful, and often the power of such
+abilities.
+
+{{
+    if you.race() ~= "Djinni" then
+        return "The Invocations skill also affects your magical reserves, " ..
+               "but to a lesser degree than the Spellcasting skill. Only the " ..
+               "higher contribution is used."
+    end
+}}
+%%%%
+Evocations
+
+Evocations skill affects your ability to use magical items like wands and other
+uncommon objects, increasing the power or success rate of such items.
+%%%%
+Shapeshifting
+
+Shapeshifting enables the use of magical talismans to change oneself into other
+forms. Sufficient skill allows one to use more powerful forms without gravely
+damaging one's health. Being skilled in Shapeshifting also makes most forms
+somewhat stronger, in ways which vary between forms.

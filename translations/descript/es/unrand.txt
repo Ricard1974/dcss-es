@@ -1,1008 +1,857 @@
 %%%%
 Singing Sword
 
-Una espada encantada que le encanta cantar a su manipulador, le gusta o no.
-
+An enchanted blade which loves nothing more than to sing to its owner, whether
+they want it to or not.
 %%%%
 Sulking Sword
 
 <Singing Sword>
-
 %%%%
 Screaming Sword
 
 <Singing Sword>
-
 %%%%
 Wrath of Trog
 
-Un hacha manchada de sangre que era el arma favorita del viejo dios Trog, antes de él
-se perdió. Induce una rabia sangrienta Berserker cuando se usa en la batalla, aunque
-los mortales que lo dominan se encuentran temporalmente abrumados por Trog
-Poder.
-
+A bloodstained axe that was the favourite weapon of the old god Trog, before it
+was lost. It induces a bloodthirsty berserker rage when used in battle, although
+mere mortals who wield it will find themselves temporarily overwhelmed by Trog's
+power.
 %%%%
 mace of Variability
 
-Un gran mace dijo haber aparecido cuando Xom se aburrió con la previsibilidad
-de instrumentos más ordinarios de caos.
-
+A large mace said to have appeared when Xom grew bored with the predictability
+of more ordinary instruments of chaos.
 %%%%
-partisan of Prune
+glaive of Prune
 
-El partisano de Prune lleva una maldición terrible e insidiosa. A menos que su peladora
-mantiene el autocontrol firme, están condenados a sufrir una horripilante (aunque sea
-transformación temporal. Esto normalmente es trivial para resistir, pero incapacitado
-wielders son seguros de sucumbir, encontrarse a sí mismos de noche morado, squishy,
-y delicioso. Pueden tomar consuelo en aprender que es sorprendentemente difícil
-herir a una ciruela gigante.
-
+The glaive of Prune carries a terrible and insidious curse. Unless its wielder
+maintains firm self-control, they are doomed to undergo a horrifying (albeit
+temporary) transformation. This is normally trivial to resist, but incapacitated
+wielders are certain to succumb, finding themselves nightmarishly purple, squishy,
+and delicious. They can take comfort in learning that it's surprisingly hard to
+injure a giant prune.
 %%%%
 staff of Olgreb
 
-Un personal que fue manipulado por el gran alquimista Olgreb.
-
+A staff which was once wielded by the great alchemist Olgreb.
 %%%%
 crystal ball of Wucad Mu
 
-Una esfera de cristal impecable, formada por innumerables mantras. Cuando uno se centra en
-los límites entre 'self' y 'other' a veces parecen borrosos.
- LUA0
-
+A sphere of flawless crystal, shaped by countless mantras. When one focuses upon
+it, the boundaries between 'self' and 'other' sometimes seem to blur.
+{{
+    if you.race() == "Djinni" then
+        return "It is utterly useless to Djinn."
+    end
+}}
 %%%%
 Vampire's Tooth
 
-Una hoja rápida como marfil que parece que podría haber sido hecha de la
-Un diente de una enorme criatura depredadora. Es lethally vampiric.
-
+An ivory-like quick blade that looks like it could have been crafted from the
+tooth of some enormous predatory creature. It is lethally vampiric.
 %%%%
 scythe of Curses
 
-Un escalofrío rodeado de un aura ominosa de miedo. Lleva un terrible
-maldición antigua, la cual inflige a la fuerza y a sus enemigos.
-
+A scythe surrounded by an ominous aura of dread. It carries a terrible and
+ancient curse, which it busily inflicts on both the wielder and their enemies.
 %%%%
 sceptre of Torment
 
-Un cetro óseo acertado, creado por algún poder infernal desconocido. Cuando se utiliza en
-combate, causa dolor agonizante en todos esos desafortunados
-Salve para el pelador.
-
+An accursed bone sceptre, created by some unknown hellish power. When used in
+combat, it causes agonising pain in all those unfortunate enough to gaze upon
+it, save for the wielder.
 %%%%
 sword of Cerebov
 
-Una cuchilla torcida, cubierta de llamas extrañas. Su poder demoníaco se quema en el
-muy esencia de aquellos contra los que está marchitado.
-
+A twisted blade, covered in eerie flames. Its demonic power burns away at the
+very essence of those it is wielded against.
 %%%%
 orb of Dispater
 
-Un orbe aprisionando con energías no santas, otorgando el poder para desencadenar la condenación
-cuando se mantiene — aunque no sin drenar la vitalidad del wielder en el
-proceso. Lleva consigo algunos de la malicia corrosiva de la Ciudad de Hierro
+An orb pulsing with unholy energies, granting the power to unleash damnation
+when held — although not without draining the wielder's vitality in the
+process. It carries with it some of the corrosive malice of the Iron City of
 Dis.
-
 %%%%
 sceptre of Asmodeus
 
-Un cetro de rubí brillante, llevando algunos de los poderes del archi-fiend Asmodeus.
-Puede llamar a demonios ardientes de su hogar infernal para hacer el wielder
-- Bidding.
-
+A bright ruby sceptre, carrying some of the powers of the arch-fiend Asmodeus.
+It may call forth fiery demons from their infernal home to do the wielder's
+bidding.
 %%%%
 faerie dragon scales
 
-Un traje encantador de armadura creado a partir de las escalas de una raza rara de dragón,
-Ahora se pensaba extinguir. Esta reliquia premiada es ahora una de las últimas pruebas de que
-los vívidamente coloridos dragones de fantasía existieron.
-
+An enchanted suit of armour created from the scales of a rare breed of dragon,
+now thought to be extinct. This prized relic is now one of the last proofs that
+the vividly coloured faerie dragons ever existed.
 %%%%
+# TAG_MAJOR_VERSION == 34
 demon blade "Bloodbane"
 
-Una espada forjada en el infierno por el sacrificio de innumerables almas torturadas. It
-inflige la rabia y el sufrimiento de esas almas sobre su ingenio.
-
+A blade forged in Hell by the sacrifice of countless tortured souls. It
+inflicts the rage and suffering of those souls upon its wielder.
 %%%%
+# TAG_MAJOR_VERSION == 34
 scimitar of Flaming Death
 
-Un scimitar con una cuchilla misteriosamente fumadora. De vez en cuando su calor se filtra,
-cubriendo oponentes en llamas mágicas.
-
+A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out,
+covering opponents in magical flame.
 %%%%
 eveningstar "Brilliance"
 
-Poco después de caer, Yredelemnul intentó retorcer la energía santa en una oscuridad
-burla de sí misma, enfrentándola contra sus progenitores y debilitándola contra
-sin muertos y demonios. Se descubrió demasiado tarde que tal perversión completa
-era incontrolable; la llama nefasta desestabilizaba o destruyó todo lo que era
-infundido en, excepto para varios sujetos de prueba demoníaca y uno robado santo
-arma. Una versión menos estable de la energía oscura resultó más
-y se convirtió en umbra de Yredelemnul.
+Soon after falling, Yredelemnul attempted to twist holy energy into a dark
+mockery of itself, turning it against its progenitors and weakening it against
+undead and demons. It was discovered too late that such a complete perversion
+was uncontrollable; the foul flame destabilised or destroyed everything it was
+infused into, except for several demonic test subjects and one stolen holy
+weapon. A lesser, and more stable, version of the dark energy proved more
+workable, and became Yredelemnul's umbra.
 
-Este es el arma: una estrella de la noche con su luz larga huyó, a pesar de su nombre,
-y una sombra que repulse a aquellos que su luz solía consolar...
-
+This is that weapon: an eveningstar with its light long fled, despite its name,
+and a shadow that repulses those its light used to comfort...
 %%%%
 demon blade "Leech"
 
-Una espada forjada en el infierno por el sacrificio de innumerables almas torturadas. Se llena.
-con la ira y el sufrimiento de esas almas, y se enrolla
-cada vez que huye, dejando atrás un desastre
-sangre y gore.
-
+A blade forged in Hell by the sacrifice of countless tortured souls. It fills
+its wielder with the rage and suffering of those souls, and gorges itself
+further on drained life force every time it strikes, leaving behind a mess of
+blood and gore.
 %%%%
+# TAG_MAJOR_VERSION == 34
 dagger of Chilly Death
 
-Una daga hecha de un enorme fragmento de zafiro. Cubre los oponentes en el hielo,
-ralentizando su movimiento un poco.
-
+A dagger made of one huge shard of sapphire. It covers opponents in ice,
+slowing down their movement somewhat.
 %%%%
+# TAG_MAJOR_VERSION == 34
 dagger "Morg"
 
-Una daga oxidada fea. Hace muchos años era propiedad de un poderoso sabio
-llamado Boris. Se perdió en la Mazmorra mientras buscaba el Orbe.
-
+An ugly rusty dagger. Many years ago it was the property of a powerful mage
+called Boris. He got lost in the Dungeon while seeking the Orb.
 %%%%
 scythe "Finisher"
 
-Un largo y extremadamente afilado, capaz de eviscer en un solo golpe.
-Su velocidad extraordinaria es el trabajo de un mago loco, que pasó años refinando
-antes de descartarlo en un ataque de rabia.
+A long and exceedingly sharp scythe, capable of eviscerating in a single blow.
+Its extraordinary speed is the work of a mad wizard, who spent years refining
+it before discarding it in a fit of rage.
 
-La hoja suelta un poco de entusiasmo mientras corta el aire.
-
+The blade looses a low keen as it cuts through the air.
 %%%%
 greatsling "Punk"
 
-Un sling hecho de cuero verde raro, rebuscando el eslime corrosivo. Originalmente el
-arma de un famoso malhechor y el campamento general, desde entonces cayó en
-manos menos favorables.
-
+A sling made of weird green leather, oozing corrosive slime. Originally the
+weapon of a notorious mischief-maker and general scamp, it's since fallen into
+less savoury hands.
 %%%%
 longbow "Zephyr"
 
-Un arco dorado, con una cerradura de pelo del Viento Oeste ellos mismos. Tales
-decir que fue elaborado como un regalo a un armadura inequívoco e incluso siglos después de su
-muerte intemporal, uno todavía puede sentir el anhelo llevado en la brisa suave que
-rodea su peladora.
-
+This bow was woven from the air itself by Eiolaiphi the air mage as a gift for
+one of the children of Uskayaw. The bow can be pulled with incredible speed,
+and it launches swift and true. It is also nearly indestructible, which is
+fortunate given that the original owner was ripped to pieces by jealous
+celebrants.
 %%%%
 giant club "Skullcrusher"
 
-Un garrote gigante y encantado que augmenta la ya considerable fuerza de
-cualquiera que tiene la fuerza para empuñarlo.
-
+A massive enchanted cudgel that augments the already considerable strength of
+anyone mighty enough to wield it.
 %%%%
 glaive of the Guard
 
-Una glaive comisionada hace varios años por una rica reina temerosa por
-seguridad de su vasto tesoro. Ningún enemigo, el herrero prometió, podría derrotar a un guardia
-¡Limpiando un arma así!
+A glaive commissioned several years ago by a wealthy queen fearful for the
+safety of her vast treasury. No foe, the smith promised, could defeat a guard
+wielding such a weapon!
 
-Fue robado unos meses después, junto con el resto del tesoro de la reina;
-el guardia, se pasó, había sido atrapado siestando. Aún así, debería servir más
-que adecuadamente en manos de un usuario despierto.
-
+It was stolen a few months later, along with the rest of the queen's treasury;
+the guard, it transpired, had been caught napping. Still, it should serve more
+than adequately in the hands of a waking user.
 %%%%
 zealot's sword
 
-Una espada hecha de un pedazo enorme de cristal. La leyenda dice que era el Shining One
-regalo a un adorador. Esta hoja es notoria para inducir la rabia de sangre
-tanto el wielder como todos sus seguidores.
-
+A sword made of one huge piece of crystal. Legend says it was the Shining One's
+gift to a worshipper. This blade is notorious for inducing bloodthirsty rage in
+both the wielder and all of their followers.
 %%%%
 arbalest "Damnation"
 
-Un arco iris, forjado en los incendios de Gehenna. Imbuye los tornillos
-fuegos con la energía cruda de su nombre. Afortunadamente, las explosiones de este arma
-produce nunca daño al que dispara.
-
+An unholy crossbow, forged in the fires of Gehenna. It imbues the bolts it
+fires with the raw power of its namesake. Thankfully, the blasts this weapon
+produces never harm the one firing.
 %%%%
 sword of the Dread Knight
 
-Una adamantina espada grande. Su primer wielder era un adorador de Yredelemnul
-que esquivó el uso de la magia en combate, prefiriendo destruir a sus enemigos con
-fuerza bruta. Desafortunadamente para ella, no todos sus oponentes la compartieron
-limitaciones.
+An adamantine great sword. Its first wielder was a worshipper of Yredelemnul
+who eschewed the use of magic in combat, preferring to destroy her enemies with
+brute force. Unfortunately for her, not all of her opponents shared her
+limitations.
 
-Ha caído innumerables grandes guerreros bajo su agarre, y las almas de esos
-que tenía sus vidas tomadas para tomar aún más bajo su nuevo dueño.
-
+It has felled countless great warriors under her grip, and the souls of those
+who had their lives taken beckon it to take even more under its new owner.
 %%%%
 morningstar "Eos"
 
-Una estrella de la mañana, brillante con la luz del amanecer. It
-ilumina los recesos de la Mazmorra, revelando las maquinaciones de aquellos que
-preferiría permanecer invisible.
-
+A jewelled morningstar, glowing brightly with the light of the dawn. It
+illuminates the dungeon's recesses, revealing the machinations of those who
+would prefer to stay invisible.
 %%%%
+# TAG_MAJOR_VERSION == 34
 spear of the Botono
 
-Un artefacto oscuro y maligno. Aumenta la potencia de los hexes lanzados por cualquiera
-lo suficientemente insensato como para correr el riesgo.
-
+A dark and malign artefact. It increases the potency of hexes cast by anyone
+unwise enough to risk wielding it.
 %%%%
 trident of the Octopus King
 
-Un tridente robado hace muchos años del jardín del Rey Octopus. Por suerte, él
-Parece que no hay prisa para recuperarlo.
-
+A trident stolen many years ago from the Octopus King's garden. Luckily, he
+seems to be in no hurry to get it back.
 %%%%
 mithril axe "Arga"
 
-Un hermoso hacha de mitil, probablemente perdido por un héroe enano.
-
+A beautiful mithril axe, probably lost by some dwarven hero.
 %%%%
 Elemental Staff
 
-Un poderoso personal que pertenecía al líder del Gremio de los Cinco
-Elementos. Está impregnado de mejoras protectoras y ofensivas de todos
-las escuelas elementales de magia.
-
+A powerful staff which used to belong to the leader of the Guild of Five
+Elements. It is imbued with protective and offensive enhancements from all
+the elemental schools of magic.
 %%%%
 heavy crossbow "Sniper"
 
-El arma sagrada de Toth-Mos, primer apóstol del dios Ashenzari. Subvenciones
-el wielder una fracción de la propia visión de Ashenzari, asegurando que cada disparo 
-tierra verdadera.
-
+The sacred weapon of Toth-Mos, first apostle of the god Ashenzari. It grants
+the wielder a fraction of Ashenzari's own vision, ensuring that every shot will
+land true.
 %%%%
+# TAG_MAJOR_VERSION == 34
 longbow "Piercer"
 
-Un arco largo de metal excepcionalmente grande.
-
+An exceptionally large metal longbow.
 %%%%
+# TAG_MAJOR_VERSION == 34
 blowgun of the Assassin
 
-Esta escopeta parece guiar la aguja para buscar el punto más letal para golpear
-el objetivo, empacando un puñetazo desagradable.
-
+This blowgun seems to guide the needle to seek the most lethal point to hit
+the target, packing a nasty punch.
 %%%%
 lance "Wyrmbane"
 
-Una lanza encantada mortal para toda la humanidad del dragón. Crece más poderoso cada vez
-inflige un golpe mortal a un dragón fuerte. Cuanto más poderoso crece, más
-más difícil ser encontrar un oponente digno.
-
+An enchanted lance deadly to all dragonkind. It grows more powerful every time
+it inflicts a killing blow on a strong dragon. The more powerful it grows, the
+harder it will be to find a worthy opponent.
 %%%%
 Spriggan's Knife
 
-Un pequeño cuchillo que fue hecho por Spriggans, o por Spriggans, o
-posiblemente de Spriggans. De todos modos, está asociado de alguna manera con esos fey
-Gente.
-
+A dainty little knife which was made by Spriggans, or for Spriggans, or
+possibly from Spriggans. Anyway, it's in some way associated with those fey
+folk.
 %%%%
 plutonium sword
 
-Una triple espada hecha de metal brillante. irradia a los que golpea,
-causando una serie de efectos impredecibles - si sobreviven el impacto del
-Espada misma, eso es.
-
+A triple sword made of weird glowing metal. It irradiates those it strikes,
+causing a range of unpredictable effects — if they survive the impact of the
+blade itself, that is.
 %%%%
 great mace "Undeadhunter"
 
-Un arma impregnada de magia para perturbar y destruir las fuerzas que unen a un muerto
-criaturas juntas. Las leyendas dicen que, hace mucho tiempo, un señor de lich creó muchos
-tales armas para garantizar la lealtad de sus siervos no muertos. Tristemente, este mace
-Might ser el último que queda.
-
+A weapon imbued with magic to disrupt and destroy the forces binding undead
+creatures together. Legends say that, long ago, a lich lord created many
+such weapons to ensure the loyalty of his undead servants. Sadly, this mace
+might be the last one left.
 %%%%
 whip "Snakebite"
 
-Un látigo doble hecho de los escondites curados de mambas negras, y encantado
-con toxinas que van desde los venenos ordinarios hasta el curador asfixiante.
-
+A double-ended whip made from the cured hides of black mambas, and enchanted
+with toxins ranging from ordinary venoms to asphyxiating curare.
 %%%%
+# TAG_MAJOR_VERSION == 34
 knife of Accuracy
 
-Es casi infaliblemente preciso.
-
+It is almost unerringly accurate.
 %%%%
+# TAG_MAJOR_VERSION == 34
 Lehudib's crystal spear
 
-Presumiblemente esta reliquia condujo a la invención del famoso hechizo, o tal vez la
-de otra manera.
-
+Presumably this relic led to the invention of the famous spell, or maybe the
+other way around.
 %%%%
 captain's cutlass
 
-Un arma infame, una vez usada por un capitán pirata vile para matar incontables
-inocentes. Finalmente conoció su destino cuando un kraken tragó su barco, y el
-Cutlass se pensaba perder con él.
-
+An infamous weapon, once used by a vile pirate captain to slaughter countless
+innocents. He finally met his destiny when a kraken swallowed his ship, and the
+cutlass was thought to be lost with him.
 %%%%
 storm bow
 
-Un arco largo con el color de nubes de lluvia oscura que dispara flechas como relámpagos.
-
+A longbow with the colour of dark rain clouds that fires arrows like lightning.
 %%%%
 tower shield of Ignorance
 
-Un escudo desenterrado de los restos de una ciudad arruinada. Lleva una inscripción
-escrito en un lenguaje antiguo. Los sabios y los sabios trabajaron para incontables
-horas para descifrarlo, y a tiempo, una traducción fue finalmente resuelta en:
+A shield unearthed from the remains of a ruined city. It bears an inscription
+written in an ancient language. Scholars and wise men laboured for countless
+hours to decipher it, and in time, a translation was finally settled on:
 
-"Con un escudo como este, ¿quién necesita pensar?"
-
+"With a shield like this, who needs to think?"
 %%%%
 robe of Augmentation
 
-Una túnica variegada, tejida con encantamientos para mejorar el físico del usuario y
-habilidades mentales. Sus creadores tejían en hilos de pelo de cien diferentes
-animales, cada uno elegido para las fortalezas únicas que podría conceder el desgaste de la bata.
-
+A variegated robe, woven with enchantments to enhance the wearer's physical and
+mental abilities. Its creators wove in strands of hair from a hundred different
+animals, each chosen for the unique strengths it could grant the robe's wearer.
 %%%%
 cloak of the Thief
 
-Un manto negro de campo que permite a su portador sobresalir en las artes del ladrones.
-Incluso los torpes encuentran sus pasos más suaves y los gritos de sus
-los adversarios menos atención.
-
+A pitch-black cloak which allows its wearer to excel in the arts of thievery.
+Even the clumsy will find their footsteps softer and the shouts of their
+adversaries less attention-getting.
 %%%%
+# TAG_MAJOR_VERSION == 34
 tower shield "Bullseye"
 
-Por si tuvieras problemas para ser golpeado.
-
+Just in case you had trouble getting hit.
 %%%%
 crown of Dyrovepreva
 
-Un gran círculo de bronce aburrido, con un deslumbrante conjunto de gemas. Era
-primero usado por un príncipe de los Titanes, que buscaba protección del incesante
-guerra entre sus compañeros príncipes. En la práctica, el efecto principal del
-El artefacto era unir a sus rivales contra él.
-
+A large circlet of dull bronze, set with a dazzling array of gemstones. It was
+first worn by a prince of the Titans, who sought protection from the incessant
+warfare between his fellow princes. In practice, the main effect of the
+artefact was to unite his rivals against him.
 %%%%
 hat of the Bear Spirit
 
-Un sombrero de piel propiedad de Ukta, un poderoso chamán ogro. alberga el espíritu de
-un oso especialmente poderoso, cuyas rabias devastaron los ogros hasta que fue muerto.
-
+A fur hat once owned by Ukta, a powerful ogre shaman. It houses the spirit of
+an especially mighty bear, whose rages devastated the ogres until it was slain.
 %%%%
 robe of Misfortune
 
-Una espléndida túnica de piel y seda, cuyo color de suerte se ha desvanecido.
-
+A splendid flowing robe of fur and silk whose lucky colour has faded.
 %%%%
+# TAG_MAJOR_VERSION == 34
 cloak of Flash
 
-Un manto que gime y gilipollas sin ninguna intervención.
-
+A cloak that twitches and jerks without any intervention.
 %%%%
 hood of the Assassin
 
-Una capucha suave, encantada por miembros del Gremio Assassin para permitir que el portador
-para sentir a las víctimas potenciales cercanas, y para detectar fácilmente vulnerabilidades después
-cerrando sobre ellos.
-
+A soft hood, enchanted by members of the Assassin's Guild to allow the wearer
+to sense potential victims nearby, and to easily spot vulnerabilities after
+closing in on them.
 %%%%
 Lear's hauberk
 
-Un hauberk dorado bien hecho que cubre todas las partes del cuerpo de su portador. It
-incluye un coif de cadena, chausses y gauntlets de correo.
-
+A well-made golden hauberk that covers all of its wearer's body parts. It
+includes a chainmail coif, chausses and maille gauntlets.
 %%%%
 skin of Zhor
 
-El LUA0 skin de un animal extraño, nativo de tierras frías y distantes. Se irradia
-el frío de su hábitat nativo.
-
+The {{
+    if you.can_smell() then
+        return "smelly "
+    end
+}}skin of some strange animal, native to cold and distant lands. It radiates
+the chill of its native habitat.
 %%%%
 salamander hide armour
 
-La mayoría de los cuerpos de los salamandras se asignan a las profundidades ardientes de las cuales ellos
-Disparó. Raramente, sin embargo, salamandras en lugar de preservar las pieles de aquellos que
-aprobado. Las runas y decoraciones en este cuero sugieren que una vez perteneció a un
-respetado guerrero o sacerdote - tal vez incluso un rey. El espíritu ardiente permanece en
-la piel, otorgando su poder al portador.
-
+Most salamanders' bodies are consigned to the fiery depths from which they
+sprang. Rarely, though, salamanders instead preserve the skins of those that
+passed. The runes and decorations on this hide suggest it once belonged to a
+respected warrior or priest - perhaps even a king. The fiery spirit remains in
+the skin, granting its power to the wearer.
 %%%%
 gauntlets of War
 
-Un par de guanteletes gruseos, hechos de acero de calidad. Fueron un regalo de
-Okwaru a un caudillo militar poderoso. Su dueño morirá en batalla, ¡pero que una
-muerte será!
-
+A pair of thick steel gauntlets. They were Okawaru's reward for a mighty
+warlord. The owner is destined to die in battle, but what a death it will be!
 %%%%
 shield of Resistance
 
-Un escudo de bronce, casi exactamente como la concha de una tortuga. Fue construido
-por los adherentes de una fe menor oscura, que la imbuyeron con el poder de
-su dios. Como se dice al dios, este escudo protege contra la espada y el hongo,
-Escarcha y llama.
-
+A bronze shield, looking almost exactly like a tortoise's shell. It was built
+by the adherents of an obscure minor faith, who imbued it with the power of
+their god. As the god is said to, this shield protects against sword and sling,
+frost and flame.
 %%%%
 robe of Folly
 
-Una bata gris aburrida. Está encantada de proporcionar magos con poder inconmensurable,
-y más que un poco de confianza...
-
+A dull grey robe. It is enchanted to provide mages with immeasurable power,
+and more than a little overconfidence...
 %%%%
 Maxwell's patent armour
 
-Una armadura de aspecto extraño.
-
+A suit of armour created by the famous inventor Maxwell, providing unparalleled
+protective qualities at a very affordable price. His unorthodox materials left
+it with certain shortcomings, but he's yet to have anyone come back for a
+refund.
 %%%%
 mask of the Dragon
 
-La máscara del Sumo Sacerdote de la antigua Erebora. En tiempos antiguos, los dioses de
-los Ereboranos dejaron de responder sus oraciones, y en desesperación, el pueblo
-se convirtió en la adoración prohibida de los dragones. Ahora, de sus obras, sólo esta máscara
-restos.
-
+The mask of the High Priest of ancient Erebora. In ancient times, the gods of
+the Ereborans ceased to answer their prayers, and in desperation, the people
+turned to the forbidden worship of dragons. Now, of their works, only this mask
+remains.
 %%%%
 robe of Night
 
-Una toga negra y larga hecha de un material raro y lusturoso. Envuelve el que lo
-lleva en oscuro, reduciendo la visión. Según leyenda fue un regalo de Ratri la
-Diosa de la Noche a uno de sus discípulos.
-
+A long black robe made of strange glossy material. It shrouds its wearer in
+darkness, reducing the range of vision. According to legend, it was the gift
+of Rutra, a renowned demigoddess of the night, to one of her followers.
 %%%%
 scales of the Dragon King
 
-Un traje de armadura creado a partir de las escamas encantadas de un rey de una vez ochenta
-Dragones. En su tiempo, los titanes y los dragones menores lucharon con él en vano —
-pero como con todas las cosas, incluso eventualmente fue derribado y deshecho. De su
-vida y hechos, esto es todo lo que queda.
-
+A suit of armour created from the enchanted scales of a once-mighty king of
+dragons. In his time, titans and lesser dragons struggled with him in vain —
+but as with all things, even he was eventually cast down and undone. Of his
+life and deeds, this is all that remains.
 %%%%
 hat of the Alchemist
 
-Un sombrero sucio. Lleva señales de sobrevivir a muchas explosiones extrañas, lo que sugiere
-puede tener medios para proteger la cabeza dentro de los riesgos involucrados con
-experimentos de alquimia.
-
+A dirty hat. It bears signs of surviving many weird explosions, which suggests
+it may have means of protecting the head inside from the risks involved with
+alchemy experiments.
 %%%%
 fencer's gloves
 
-Un par de guantes hechos de seda blanca.
-
+A pair of gloves made of white silk.
 %%%%
 cloak of Starlight
 
-Un manto fosforescente, tejido de rayos de luz pura. Las ondas de sus pliegues
-a medida que el portador salta y se corta en combate puede deslumbrar a los que lo miran.
-
+A phosphorescent cloak, woven of pure light beams. The ripples of its folds
+as the wearer leaps and swerves in combat may dazzle those who gaze on it.
 %%%%
 ratskin cloak
 
-Un manto cosido de los escondites de cientos de ratas del infierno por un Enchantress con
-Demasiado tiempo en sus manos. Muchas más ratas permanecen ocultas de alguna manera dentro
-y puede correr para ayudar al usuario.
-
+A cloak stitched from the hides of hundreds of hell rats by an enchantress with
+far too much time on her hands. Many more rats remain somehow concealed within
+it, and may scurry out to assist the wearer.
 %%%%
 shield of the Gong
 
-Una gong de bronce pesado que se puede usar como escudo. encerrado en un templo para
-muchos años, su portador está protegido por décadas de oración acumulada.
-
+A heavy bronze gong that can be worn as a shield. Locked away in a temple for
+many years, its bearer is shielded by decades of accumulated prayer.
 %%%%
 amulet of the Air
 
-Un amuleto azul cielo, sofocado con encantamientos que protegen al portador y hacen
-sus hechizos de aire más poderosos. Su creador carecía de una sola cosa:
-mano.
-
+A sky-blue amulet, suffused with enchantments that protect the wearer and make
+their Air spells more powerful. Its creator lacked just one thing: a steady
+hand.
 %%%%
 ring of Shadows
 
-Un anillo negro que puede hacer su portador uno con las sombras.
-
+A black ring that can make its wearer one with the shadows.
 %%%%
+# TAG_MAJOR_VERSION == 34
 amulet of Cekugob
 
-Una pieza extraña de cristal en una cuerda de aspecto ordinario, con una extraña
-selección de poderes.
-
+A strange-looking piece of crystal on an ordinary-looking string, with an odd
+selection of powers.
 %%%%
-amulet of Tranquility
+amulet of the Four Winds
 
-Un dije del jade más fino. Da el que lo lleva fuerza de voluntad y fortaleza mental
-sin igual.
-
+A pendant made of purest jade. It grants its wearer immense willpower and
+mental fortitude.
 %%%%
 necklace of Bloodlust
 
-Un collar hecho de dientes humanos y animales manchados de sangre, y algo que
-Parece ser un pedazo de columna.
-
+A necklace made of bloodstained human and animal teeth, and something that
+appears to be a piece of spine.
 %%%%
 ring of the Hare
 
-Un anillo de malachito no adorado, la mitad de un par antiguo. Su desgaste es
-excepcionalmente difícil de atrapar.
-
+An unadorned malachite ring, half of an ancient pair. Its wearer is
+exceptionally difficult to catch.
 %%%%
 ring of the Tortoise
 
-Un anillo aquamarino de punta dura, la mitad de un par antiguo. Su desgaste es
-excepcionalmente difícil de dañar.
-
+A rough-hewn aquamarine ring, half of an ancient pair. Its wearer is
+exceptionally difficult to harm.
 %%%%
 ring of the Mage
 
-Un zafiro encantado, introducido en un anillo. Ayuda a la ortografía de su
-Usador.
-
+An enchanted sapphire, inset into a ring. It aids the spellcasting of its
+wearer.
 %%%%
 brooch of Shielding
 
-Un broche con un diseño incrustado, proporcionando una gama de magia
-protecciones. En los viejos tiempos, cada aventurero tenía uno de estos
-Dispositivos. Eso, y un poni.
-
+A brooch with an intricate inlaid design, providing a range of magical
+protections. Back in the good old days, every adventurer had one of these handy
+devices. That, and a pony.
 %%%%
 robe of Clouds
 
-Una túnica de un material tan nebuloso e insustancial como las nubes. lloriquea
-aire alrededor de ella hacia arriba en una tormenta furtiva mientras que ondea y gira.
-
+A robe of a material as nebulous and insubstantial as the clouds. It whips the
+air around it up into a furious storm as it ripples and swirls.
 %%%%
 hat of Pondering
 
-El sombrero favorito del mago de la peluca Gastronok, manchado con el cálizco rojizo y
-encantados de ayudar en su arcane reflexionando. Ha sido especialmente encantada
-proteger contra los efectos desecantes de la sal.
-
+The favourite hat of the slug wizard Gastronok, stained with reddish slime and
+enchanted to aid in his arcane pondering. It has been specially enchanted to
+protect against the desiccating effects of salt.
 %%%%
 obsidian axe
 
-Un hacha con una poderosa maldición colocada en él por uno de los señores de Pandemonium,
-para que los aventureros insospechados desencadenen demonios a este mundo. Cuidado.
-porque tiene formas de mesmerizar su wielder, no importa lo claro y concentrado
-su mente...
-
+An axe with a powerful curse placed on it by one of the lords of Pandemonium,
+so that unsuspecting adventurers would unleash demons into this world. Beware,
+for it has ways of taking its wielder under its command...
 %%%%
 consecrated labrys
 
-Un hacha con una delicada bendición colocada en él por uno de los Serafines sagrados,
-para que los aventureros dignos libraran este mundo de demonios. Regocíjate, porque tiene
-maneras de traer coraje a su pelador en incluso los lugares más oscuros...
-
+An axe with a delicate blessing placed on it by one of the sacred Seraphim,
+so that worthy adventurers would rid this world of demons. Rejoice, for it has
+ways of bringing courage to its wielder in even the darkest places...
 %%%%
 lightning scales
 
-Un conjunto de placas blindadas montadas para proteger a una criatura con una larga y escamosa
-cuerpo inferior. Faintly cracking with electricity, they supercharge their wearer's
-habilidad para cubrir distancia.
-
+A set of armoured plates assembled to protect a creature with a long, scaly
+lower body. Faintly crackling with electricity, they supercharge their wearer's
+ability to cover distance.
 %%%%
 Black Knight's barding
 
-Una barca pesada hecha de acero en negro de campo e incrustada con placas de negro
-diamante. Una vez protegió el cuerpo del Caballero Negro durante su reinado
-terror. Aquellos que lo llevan se vuelven parcialmente muertos, ganando algunos de los beneficios
-sin los desafortunados inconvenientes, aunque el gran peso de metal y piedra
-ralentiza un poco el portador.
-
+A heavy barding made from pitch-black steel and inlaid with plates of black
+diamond. It once protected the steed of the Black Knight during their reign of
+terror. Those who wear it become partially undead, gaining some of the benefits
+without the unfortunate downsides, although the great weight of metal and stone
+slows the wearer somewhat.
 %%%%
 amulet of Vitality
 
-Un amuleto de joyas famoso por sus poderes de resiliencia y recuperación. Es...
-mayor notoriedad vino de su uso por el temido necromancer Borgnjor, quien
-dependía de ella para mantener su esbelta vida. Después de su fallecimiento final,
-el amuleto desapareció de las páginas de la historia.
-
+A jewelled amulet famed for its powers of resilience and recuperation. Its
+greatest notoriety came from its use by the dread necromancer Borgnjor, who
+relied upon it to maintain her slender hold on life. After her final demise,
+the amulet vanished from the pages of history.
 %%%%
 autumn katana
 
-Una espada exquisitamente elaborada. Su espada es tan afilada que puede cortar
-espacio en sí mismo.
-
+An exquisitely crafted sword. Its blade is so sharp that it can cut through
+space itself.
 %%%%
 shillelagh "Devastator"
 
-Un cudgel de madera, cargado con más que solo plomo.
-
+A wooden cudgel, loaded with more than just lead.
 %%%%
 dragonskin cloak
 
-Un capa opalescente brillando con los colores de todo tipo de dragones. It
-imbues el portador con resistencias dracónicas, aunque algo poco fiable.
-
+An opalescent cloak gleaming with the colours of all kinds of dragons. It
+imbues the wearer with draconic resistances, although somewhat unreliably.
 %%%%
 ring of the Octopus King
 
-Uno de los ocho anillos usados por el Rey Octopus y ahora esparcido a través
-la tierra. Cada uno tiene su propio encanto único.
-
+One of the eight rings once worn by the Octopus King and now scattered across
+the land. Each has its own unique enchantment.
 %%%%
 Axe of Woe
 
-Mientras sostienes este hacha, tu mente no siente completamente la tuya. Tu cuerpo comienza
-para mostrar fuerza más allá de sus capacidades, y sus movimientos se convierten
-guiado por Makhleb.
-
+As you hold this axe your mind does not feel fully your own. Your body begins
+to exhibit strength far beyond its capabilities, and your movements become
+guided by Makhleb.
 %%%%
 moon troll leather armour
 
-Un traje de armadura rumoreada de haber sido creado por encantar el escondite de un
-especies extintas de troll. Si el nombre suena verdadero o es meramente
-apropiado para añadir mística es algo de misterio. La armadura es innata
-poderes de regeneración y protección mágica, sin embargo, son difíciles de disputar.
-
+A suit of armour rumoured to have been created by enchanting the hide of a
+now-extinct species of troll. Whether the name rings true or is merely
+appropriated to add mystique is something of a mystery. The armour's innate
+powers of regeneration and magical protection, however, are hard to dispute.
 %%%%
 macabre finger necklace
 
-Un dedo feo colgando en una cuerda. Todo sobre él apesta a malign
-influencias... pero es difícil evitar pensar que se vería mejor con un
-Anímate.
-
+An ugly dangling finger on a string. Everything about it reeks of malign
+influences... but it's hard to avoid thinking that it would look better with a
+ring on it.
 %%%%
+# TAG_MAJOR_VERSION == 34
 boots of the spider
 
-Un par de botas inventado por un pretendiente de Arachne.
-
+A novel pair of boots invented by a suitor of Arachne.
 %%%%
 dark maul
 
-Un gran maul de hierro se especializó para tratar golpes de gran alcance. Tal
-el poder viene a un precio: la cabeza del maul es tan pesada que toma una gran longitud
-tiempo para levantarlo para otro swing.
-
+A large, iron-shod maul specialised for dealing massively powerful blows. Such
+power comes at a price: the maul's head is so heavy it takes a great length of
+time to lift it up for another swing.
 %%%%
+# TAG_MAJOR_VERSION == 34
 hat of the High Council
 
-Una reliquia de una antigua guerra magos. Centuries más tarde, todavía se rompe con
-efectos de los hexes residuales y energías mágicas que una vez fue sometida a
-sobre una base diaria; los ortógrafos capaces de conseguir un mango en su poder, sin embargo, 
-encuentra que mejora el poder de sus hechizos.
-
+A relic of some ancient wizarding war. Centuries later, it still crackles with
+effects from the residual hexes and magical energies it was once subjected to
+on a daily basis; spellcasters able to get a handle on its power, however, will
+find it enhances the power of their spells.
 %%%%
 arc blade
 
-Una espada de alguna manera hecha de electricidad pura. Arcs salvajemente entre el
-Wilfreder y sus enemigos mientras golpea.
-
+A blade somehow crafted from pure electricity. It arcs wildly between the
+wielder and their foes as it strikes.
 %%%%
 demon whip "Spellbinder"
 
-Un arma dijo que una vez se había utilizado para mantener a los magos injustificados en fila;
-Interrumpe violentamente el flujo de la magia a su alrededor.
-
+A weapon said to have once been used to keep unruly imprisoned wizards in line;
+it violently disrupts the flow of magic around it.
 %%%%
 lajatang of Order
 
-Un lajatang plateado, una vez otorgado a un adorador favorecido de Zin. It
-se convirtió en el arma más preciada de los muchos sacerdotes de Zin. Después de su orden
-destruido, cayó en desuso y desapareció de la historia.
-
+A silver-bladed lajatang, once bestowed upon a favoured worshipper of Zin. It
+became the most prized weapon of the many priests of Zin. After their order was
+destroyed, it fell into disuse and vanished from history.
 %%%%
 great mace "Firestarter"
 
-Un gran mace imbued con potente magia de fuego. Llena a los que golpea con un
-llama interior, y ofrece cierta protección contra la devastación resultante.
-
+A huge mace imbued with potent fire magic. It fills those it strikes with an
+inner flame, and offers some protection against the resulting devastation.
 %%%%
 orange crystal plate armour
 
-Un traje de armadura tallado de cristal transparente naranja. Proporciona notable
-protección para la mente y el cuerpo. El portador puede incluso canalizar energías psíquicas
-a través del cristal mismo, mejorando sus habilidades mágicas. Sin embargo, es
-bastante pesado...
-
+A suit of armour carved from transparent orange crystal. It provides remarkable
+protection for both mind and body. The wearer can even channel psychic energies
+through the crystal itself, enhancing their magical abilities. However, it's
+rather heavy...
 %%%%
 Majin-Bo
 
-Un personal habitado por un poderoso demonio, engañado y atrapado en esta forma hace mucho tiempo.
-Para sobrevivir, ahora ofrece un gran poder arcano en una terrible ganga:
-intercambio por una pequeña parte de la esencia de la vida de la lanzador, tomada cada vez su
-wielder lanza un hechizo, ella redirigir la esencia de la vida de las criaturas dañadas
-por el hechizo a la casta.
-
+A staff inhabited by a mighty demon, tricked and trapped in this form long ago.
+To survive, she now offers great arcane power in a terrible bargain: in
+exchange for a tiny portion of the caster's life essence, taken every time its
+wielder casts a spell, she will redirect the life essence of creatures damaged
+by the spell to the caster.
 %%%%
 pair of quick blades "Gyre" and "Gimble"
 
-Dos cuchillas rápidas unidas por una cadena. Swinging one compels the wielder to swing
-el otro, como si tuvieran mente propia.
-
+Two quick blades joined by a chain. Swinging one compels the wielder to swing
+the other, as if they have minds of their own.
 %%%%
+# TAG_MAJOR_VERSION == 34
 Maxwell's etheric cage
 
-Una jaula de malla fina diseñada para capturar energía mágica. Notas experimentales sugieren
-que la investigación fue abandonada cuando la jaula comenzó a capturar magia
-contaminación casi tan eficaz. Cualquiera lo suficientemente imprudente como para ponerlo en
-su cabeza encontraría su regeneración mágica aumentada dramáticamente, en
-costo de multiplicar cualquier contaminación mágica recibida.
-
+A fine mesh cage designed to capture magical energy. Experimental notes suggest
+that research was abandoned when the cage began to capture magical
+contamination almost as effectively. Anyone reckless enough to place it on
+their head would find their magic regeneration dramatically increased, at the
+cost of multiplying any magical contamination received.
 %%%%
+# TAG_MAJOR_VERSION == 34
 crown of Eternal Torment
 
-Una corona de oro con gemas de jet-black. Aflige permanentemente a su portador con
-dolor agonizante, reduciendo sustancialmente su resiliencia pero haciéndolos
-inmune a más tormentos.
-
+A gold crown set with jet-black gems. It permanently afflicts its wearer with
+agonising pain, substantially reducing their resilience but rendering them
+immune to further torments.
 %%%%
 robe of Vines
 
-Una túnica tejida de viñas vivas. Las vides forman una relación simbiótica con
-su portador, aumentando enormemente su regeneración, pero impidiéndoles
-ser curado por pociones.
-
+A robe woven of living vines. The vines form a symbiotic relationship with
+their wearer, greatly increasing their regeneration, but preventing them from
+being healed by potions.
 %%%%
 Kryia's mail coat
 
-Un abrigo de armadura dijo haber sido falsificado para la reina Kryia en su vejez. Ella
-continuó insistiendo en llevar a sus ejércitos desde el frente incluso en su escenario,
-y como su cuerpo envejecido la falló, este abrigo ayudó a mejorar la curación
-draughts que la mantenía viva.
-
+A coat of armour said to have been forged for Queen Kryia in her old age. She
+continued to insist on leading her armies from the front even into her dotage,
+and as her aging body failed her, this coat helped to enhance the healing
+draughts that kept her alive.
 %%%%
 frozen axe "Frostbite"
 
-Un hacha enorme que parece que fue tallada de un glaciar, o posiblemente calvada
-de uno. Deja cristales de hielo en su estela mientras gira por el aire.
-
+A massive axe that looks like it was carved from a glacier, or possibly calved
+from one. It leaves ice crystals in its wake as it swings through the air.
 %%%%
+# TAG_MAJOR_VERSION == 34
 armour of Talos
 
-Un traje enorme y pesado de bronce armadura de placas. Sólo uno con el correspondiente
-Un cuerpo enorme puede usarlo.
-
+A huge and weighty suit of bronze plate armour. Only one with a correspondingly
+huge body can wear it.
 %%%%
 warlock's mirror
 
-Un conjunto de espejos hexagonales de mano, sintetizados de un exótico verdadero
-sustancia y pulida a un basurero cegador.
-
+A handheld array of hexagonal mirrors, synthesised from a truly exotic
+substance and polished to a blinding sheen.
 %%%%
 amulet of invisibility
 
-Un amuleto que se puede activar para hacer invisible su portador.
-
+An amulet that can be activated to render its wearer invisible.
 %%%%
 scarf of invisibility
 
-Una bufanda que puede activarse para hacer invisible su portador.
-
+A scarf that can be activated to render its wearer invisible.
 %%%%
 Maxwell's thermic engine
 
-Una espada extraña, una espada brillando caliente y el otro frío helado. Cuando golpea
-su objetivo aumenta el gradiente térmico. Lo que causa este efecto es desconocido
-pero se rumorea que las fuerzas de otro mundo están involucradas.
-
+A strange sword, one blade blistering hot and the other icy cold. When it hits
+its target the thermal gradient increases. What causes this effect is unknown
+but it is rumoured that otherworldly forces are involved.
 %%%%
 demon trident "Rift"
 
-Una pequeña arruga en el tejido de la realidad, mágicamente ligada a un eje por
-un acólito loco de Lugonu. Sus ataques pueden atravesar el espacio cercano
-El comando de Wielder.
-
+A small wrinkle in the very fabric of reality, magically bound to a shaft by
+some mad acolyte of Lugonu. Its attacks can warp through nearby space at the
+wielder's command.
 %%%%
 sphere of Battle
 
-Un orbe encasado en escalas de colores vivos, forjado por un mago olvidado.
-Era el juguete favorito de Iskenderun.
-
+An orb encased in vividly coloured scales, wrought by a long-forgotten wizard.
+It was the mage Iskenderun's favourite playtoy.
 %%%%
 Cigotuvi's embrace
 
-Un traje de armadura llevado de carne podrida y hueso y espeluznante, mantenido intacto por el
-de un hechicero de larga data. Las energías terribles dentro de ella llaman a los cuerpos
-de los muertos recientemente, protegiendo al portador con un capullo de carriona.
-
+A suit of armour borne of rotten flesh and bone and gristle, held intact by the
+will of a long-dead sorcerer. The dreadful energies within it call to the bodies
+of the recently dead, protecting the wearer with a cocoon of carrion.
 %%%%
 seven-league boots
 
-Un encantador par de botas que otorgan la capacidad de tomar pasos de increíble
-longitud, mientras el portador avance valientemente hacia sus enemigos.
-
+An enchanted pair of boots which grant the ability to take strides of incredible
+length, as long as the wearer is advancing bravely towards their foes.
 %%%%
 Mad Mage's Maulers
 
-Un par de guantes diseñados para controlar cuidadosamente y canalizar el flujo de la magia,
-más tarde mal utilizado y manipulado por los asesinos lunáticos imágenes del Quinto Círculo.
-Su influencia deja al portador totalmente incapaz de lanzar hechizos - el portador
-la magia se redirige a propósitos mucho más sangrientos.
-
+A pair of gloves designed to carefully control and channel the flow of magic,
+later misused and mangled by the lunatic murderer-mages of the Fifth Circle.
+Their influence leaves the wearer utterly unable to cast spells - the wearer's
+magic is redirected to far bloodier purposes.
 %%%%
 dreamdust necklace
 
-Una mezcla polvorienta aburrida atrapada dentro de un cristal agrietado en una cadena de plata delgada.
-
+A dull dusty mixture trapped within a cracked crystal on a thin silver chain.
 %%%%
 dreamshard necklace
 
-Un hermoso arco iris de color y movimiento atrapado dentro de un cristal delicado en un
-cadena de plata delgada. Escuchando cuidadosamente, uno puede escuchar el eco distante de un
-mil sueños de todos los rincones de la realidad, su melodía dando un sentido cálido
-de seguridad.
-
+A beautiful rainbow of colour and motion trapped within a delicate crystal on a
+thin silver chain. Listening carefully, one can hear the distant echo of a
+thousand dreams from all corners of reality, their melody giving a warm sense
+of safety.
 %%%%
 Delatra's gloves
 
-Un par de guantes ultramarinos largos, usados por un alquimista experimental famoso en un
-hace mucho tiempo. Canalizan la energía del descubrimiento, potenciando a su portador con
-la fuerza creada por un paso ciego de la ignorancia a la certeza.
-
+A pair of long ultramarine gloves, worn by a famed experimental alchemist in an
+age long past. They channel the energy of discovery, empowering their wearer with
+the force created by a blind step from ignorance to certainty.
 %%%%
 woodcutter's axe
 
-Un arma que se corta como un corte forestal
-madera. El ritmo inmutable de su trabajo se ha asentado con la fuerza de
-la ley natural, y ninguna cantidad de fuerza o habilidad puede hacerlo oscilar más rápido o más lento.
-
+A weapon that chops foes down as steadily and methodically as a forester cutting
+wood. The unchanging rhythm of its work has settled on it with the force of
+natural law, and no amount of force or skill can make it swing faster or slower.
 %%%%
 Throatcutter
 
-Tomado de un paladín de la Shining One por el cutpura común que la asesinó,
-Throatcutter fue utilizado para una larga serie de hechos cada vez más sórdidos después.
-Sangre, asesinato y traición manchan su historia y espada, y poco rastro ahora
-restos de la espada que una vez se paró entre el peligro y el inocente.
-
+Taken from a paladin of the Shining One by the common cutpurse who murdered her,
+Throatcutter was used for a long series of increasingly sordid deeds thereafter.
+Blood, murder and betrayal stain its history and blade both, and little trace now
+remains of the blade which once stood between danger and the innocent.
 %%%%
 staff of the Meek
 
-Una sagrada reliquia de los Monjes de San Lee, seguidores del arquema renunciado. Sólo
-como San Lee trató de expiar por la destrucción sus hechizos hechos por la protección
-otros, por lo que su personal protege su escudo.
-
+A sacred relic of the Monks of St. Lee, followers of the renunciate archmage. Just
+as St. Lee sought to atone for the destruction his spells wrought by protecting
+others, so his staff protects its wielder.
 %%%%
 trishula "Condemnation"
 
-Un arma para sacar la culpa de los culpables. Fue el primero con el arcángel.
-Lucriel, que al ver el sufrimiento de los primeros mortales, los llevó como ejército
-contra la crueldad de los dioses. Los sobrevivientes del ejército de Lucriel se llevaron esto
-arma con ellos en el desierto, el único remanente de la virtud de un arcángel.
-
+A weapon to bring forth guilt from the guilty. It was first wielded by the archangel
+Lucriel, who, on seeing the suffering of the first mortals, led them as an army
+against the cruelty of the gods. The ragged survivors of Lucriel's army took this
+weapon with them into the wilderness, the sole remnant of an archangel's virtue.
 %%%%
 amulet of Elemental Vulnerability
 
-Un dije de acero azúl con quemaduras borrosas. Su creadora, una mujer muy sensata,
-lo diseñó para proteger contra puñaladas, puñetazos y mordeduras. Es peor que
-inútil contra fuego y escaracha, ¿pero con cuánta frequencia es eso relevante?
-
+A blue-steel amulet. Its creator, an exceedingly practical woman, designed it to
+provide powerful protection against mundane jabs, stabs and bites. It's worse than
+useless against fire and frost, but how often does anyone really need to worry
+about that?
 %%%%
 mountain boots
 
-Estas botas robustas fueron creadas por un artificio que vivía alto en un remoto
-pico de montaña, como protección contra los avalanches cercanos a la montaña,
-rocas deslizantes y tormentas de nieve. No hay fuerza corta de translocaciones magia broge
-el usuario de su posición.
-
+These sturdy boots were created by an artificer who lived high up on a remote
+mountain peak, as protection against the mountain's near-constant avalanches,
+rockslides, and snowstorms. No force short of translocations magic will budge
+the wearer from their position.
 %%%%
 Lochaber axe
 
-Este arma brutal, largamente pensada en la historia, combina el alcance extendido
-de una polearma con la agudeza de un hacha. Fantasmas de guerreros antiguos
-Mentira sobre ello, drenando usuarios de fickles.
-
+This brutal weapon, long thought lost to history, combines the extended reach
+of a polearm with the cleaving sharpness of an axe. Ghosts of ancient warriors
+linger about it, draining fickle users.
 %%%%
 Hermit's pendant
 
-Un asceta una vez tomó un voto sagrado, prostituyendo el uso de herramientas mágicas y la propiedad
-de todo menos este colgante. Que dios hicieron este voto para seguir siendo un punto
-contienda amarga entre el devoto, pero el poder de su colgante - y limitaciones -
-son irrefutables.
-
+An ascetic once took a sacred vow, forswearing use of magical tools and ownership
+of everything but this pendant. Which god they made this vow to remains a point of
+bitter contention among the devout, but their pendant's power - and limitations -
+are irrefutable.
 %%%%
 slick slippers
 
-Creado desde el escondite bronceado y suave de un Skyshark occidental, estas zapatillas son
-asombrosamente cómodo. Ellos carecen de los beneficios protectores de un buen par de
-botas, pero pueden sacar sus pantalones de casi cualquier papel.
-
+Crafted from the tanned, smooth hide of a Western Skyshark, these slippers are
+astonishingly comfortable. They lack the protective benefits of a good pair of
+boots, but they can get their wearers out of almost any bind.
 %%%%
 Force Lance
 
-Una lanza de hierro, impregnada de gravita sobrenatural a través del artificio del
-Mage Gell. Huye con una fuerza muchas veces más fuerte que la impartida por
-el pelador.
-
+A plain iron lance, imbued with supernatural gravitas via the artifice of the
+mage Gell. It strikes with a force many times stronger than that imparted by
+the wielder.
 %%%%
 toga "Victory"
 
-Un antiguo artefacto de Okawaru, estas túnicas de lana se perdieron cuando un antiguo
-campeón falló un duelo. Sus encantamientos aumentan en el poder cuando el usuario
-emerge victorioso del combate amenazante, pero recurriendo al uso de pergaminos
-o pociones para la asistencia les hace desaparecer de nuevo.
-
+An ancient artefact of Okawaru, these woolen robes were lost when a former
+champion failed a duel. Its enchantments increase in power when the wearer
+emerges victorious from threatening combat, but resorting to the use of scrolls
+or potions for assistance causes them to fade away again.
 %%%%
 Storm Queen's Shield
 
-Un disco de metal crujiente, creado por una mujer cuyo astuto artificio y
-la política artesanal unió un continente. La mayoría de sus inventos sobrevivientes son
-vigilada de cerca por varios reyes, prueba ostensible de su afirmación de ser ella
-verdadero sucesor, pero este prototipo temprano se resbaló a través de sus dedos.
-
+A disc of crackling metal, created by a woman whose cunning artifice and
+crafty politics once united a continent. Most of her surviving inventions are
+closely guarded by various royals, ostensible proof of their claim to be her
+true successor, but this early prototype slipped through their fingers.
 %%%%
 hand cannon "Mule"
 
-Los cañones de mano usan polvo mágico para lanzar proyectiles. Los alquimistas que fabrican
-ellos se jactan de su potencia, pero omitir el humo y el ruido se apagaron con cada uno
-disparo. Lleno de blastmotes en polvo, Mule empaca una patada especialmente poderosa.
-
+Hand cannons use magical dust to launch projectiles. The alchemists who craft
+them boast of their potency, but omit the smoke and noise blasted out with each
+shot. Filled with powdered blastmotes, Mule packs an especially powerful kick.
 %%%%
 gloves of the gadgeteer
 
-Un par de guantes de suede cubiertos en una gama de sigiles delicados. Mientras tanto
-originalmente destinados a ayudar en la fabricación de dispositivos mágicos, son
-sin embargo útil para eliminar cada última gota de energía de otra persona
-trabajo.
-
+A pair of suede gloves covered in a dizzying array of delicate sigils. While
+originally intended to aid in the crafting of magical devices, they are
+nonetheless useful for wringing every last drop of power out of someone else's
+work.
 %%%%
 Charlatan's Orb
 
-Este orb es la obra de un maestro artificio, contratado para recuperar el Orbe, que
-valoró su vida más que su integridad profesional. Mientras que este falso
-recrea fielmente el resplandor extraño y las propiedades de la verdadera
-orb, el poder que otorga es artificial y sólo accesible para los evokers calificados.
-
+This orb is the work of a master artificer, contracted to retrieve the orb, who
+valued their life more than their professional integrity. While this fake
+faithfully recreates the eerie glow and space-warping properties of the true
+orb, the power it grants is artificial and only accessible to skilled evokers.
 %%%%
 justicar's regalia
 
-Un pectoral brillante con una ranura en su centro para un símbolo santo o bejewelled
-escudo de armas. Aquellos que oyen comandos dados por su portador se sienten llenos con el
-poder para llevar a cabo, no importa la adversidad.
-
+A gleaming breastplate with a slot in its centre for a holy symbol or bejewelled
+coat of arms. Those who hear commands given by its wearer feel filled with the
+power to carry them out, no matter the adversity.
 %%%%
 skull of Zonguldrok
 
-El cráneo de un legendario necromancer, aparentemente separado del resto de su
-cuerpo. Cuando se sostiene, parece desinclinado explicar las circunstancias precisas de
-su finalización en este estado, pero no ofrece ninguna objeción a otros sifoning
-El poder necrótico considerable aún permanece en sus huesos antiguos.
-
+The skull of a legendary necromancer, seemingly parted from the rest of its
+body. When held, it seems disinclined to explain the precise circumstances of
+its ending up in this state, but offers no objection to others siphoning what
+considerable necromantic power still remains in its ancient bones.
 %%%%
 fungal fisticloak
 
-La obra de un micólogo loco que alguna vez intentó superar la genética
-ansiedad de los hongos vagando cultivando una especie que podría ser fácilmente
-transportado sin perturbarlos. El resultado es tanto un organismo vivo como
-es un pedazo de ropa, cada fibra de lino gemido junto con micelia fúngica
-que extraen tanto nutrientes como confianza de quien lo use. Y a cambio
-para tales trifles como sangre o péptidos, la colonia instintivamente se inclina hacia
-defender a su portador de lo que perciban como una amenaza.
+The handiwork of a mad mycologist who once attempted to overcome the genetic
+anxiety of wandering mushrooms by cultivating a species that could be easily
+transported without disturbing them. The result is as much a living organism as
+it is a piece of clothing, every linen fibre twined together with fungal mycelia
+that draw both nutrients and confidence from whoever wears it. And in exchange
+for such trifles as blood or peptides, the colony will instinctively lash out to
+defend its wearer from whatever they perceive as a threat.
 
-¡Es como llevar mil diminutos amigos a la vez! Y el colibrí que llenan
-tu mente con la oscuridad es realmente bastante lúgubre....
+It's like wearing a thousand tiny friends at once! And the humming they fill
+your mind with in the dark is actually quite lulling....
 
-(Este artículo también ocupa la ranura del casco.)
-
+(This item also occupies your helmet slot.)
 %%%%
 crown of vainglory
 
-Una corona extravagante de filigrana de oro y joyas brillantes que incluso un rey
-podría sentirse más inmejorable. Le otorga a su portador un aura regal el partido de cualquier
-en el cielo y también una gran cantidad de confianza desenterrada.
-
-%%%%
-swamp witch's dragon scales
-
-Un traje inflamante de armadura antigua que ha llevado a muchos cismas menores entre
-historiadores, ya que es incierto si fue hecho de alguna bruja de renombre
-Dragón de mascotas, o su presa frecuente, o de su propio cuerpo no humano.
-Independientemente de sus orígenes, la magia tejida en ella llueve libremente toxinas todas
-sobre los enemigos especialmente desafortunados de su portador.
-
-%%%%
-athame "Fimbulwinter"
-
-Un instrumento de terror elaborado por algunos de los profetas más famosos de Qazlal,
-significaba sacar un invierno de tres años antes del fin del tiempo. Esos fríos
-por su wielder siente la agarre helada del destino sobre su garganta.
-
-Como con todos los athames, golpes hechos con él contra aquellos que sufren negativo calvo
-estatus (excepto el veneno) han aumentado el daño base.
-
-%%%%
-fire dragon occultist's scales
-
-Las escalas resonantes del gran dragón que respira fuego Zmysua, un antiguo
-ocultista aficionado a la debilitación y la devastación. Su rivalidad amorosa con la
-el arcanista dragón mayor Yntzoia era legendariamente destructivo, y conduce a los dos
-de ellos buscando aumentos místicos interminables para triunfar uno sobre otro-
-incluso ahora, estas escamas todavía humedecen con sed para enfrentar lo que queda de sus
-opuesto a la muerte.
-
-%%%%
-ice dragon arcanist's scales
-
-Las escamas estruendosas del gran dragón helado Yntzoia, un antiguo
-arcanista aficionado al espectáculo y la destrucción. Su relación tumultuosa con la
-el viejo ocultista dragón Zmysua era bastante infame, y conduce a los dos
-buscando aumentos místicos interminables buscando más tiempo para la reconciliación-
-incluso ahora, estas escalas todavía reverberan con hambre para volver a lo que queda
-de su opuesto más allá de la muerte.
-
-%%%%
+An extravagant crown of gold filigree and glittering jewels that even a king
+could feel immodest wearing. It grants its wearer a regal aura the match of any
+in heaven and also a great deal of unearned confidence.

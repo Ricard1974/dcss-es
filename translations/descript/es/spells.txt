@@ -1,2871 +1,2439 @@
 %%%%
 Abjuration spell
 
-Reduce la duración restante de cualquier criatura invocada hostil cercana.
-
+Reduces the remaining duration of any nearby hostile summoned creatures.
 %%%%
 Acid Ball spell
 
-Arranca una bola explosiva de ácido corrosivo.
-
+Hurls an explosive ball of corrosive acid.
 %%%%
 Agonising Touch spell
 
-Corta la salud de una criatura adyacente en la mitad. Este daño nunca es
-directamente letal.
-
+Cuts the health of an adjacent creature in half. This damage is never
+directly lethal.
 %%%%
 Agony spell
 
-Corta la salud de una criatura objetivo a la mitad. Este daño nunca es directamente
-letal.
-
+Cuts the health of a target creature in half. This damage is never directly
+lethal.
 %%%%
 Airstrike spell
 
-Causa que el aire alrededor de una criatura se retuerce en un vórtice arremolinado
-furia meteorológica. Hace más daño a objetivos rodeados de espacio vacío.
-
+Causes the air around a creature to twist itself into a whirling vortex of
+meteorological fury. It does more damage to targets surrounded by empty space.
 %%%%
 Alistair's Intoxication spell
 
-Convierte una pequeña porción del cerebro de los que te rodean en alcohol,
-tratando de confundir a todas las criaturas inteligentes en la vista (aunque
-Las criaturas resistentes al veneno pueden resistir los efectos). El caster experiencia
-vértigo brevemente si logran contactar con otras mentes. Es
-Con frecuencia se utiliza como rompehielos en fiestas magos.
-
+Converts a small portion of the brain matter of those around you into alcohol,
+attempting to confuse all intelligent creatures within view (although
+poison-resistant creatures may resist the effects). The caster will experience
+vertigo briefly if they successfully make contact with other minds. It is
+frequently used as an icebreaker at wizard parties.
 %%%%
 Alistair's Walking Alembic spell
 
-Construye una manufactura alquímica móvil y capaz de combatir. Utiliza el
-fricción de combate melee para elaborar una variedad de pociones útiles, ventilando nubes de
-sus subproductos tóxicos en lo que golpee. Cuando se ha construido suficiente calor
-para completar su síntesis, automáticamente dispensa las pociones terminadas
-a aliados cercanos antes de desmoronarse.
-
+Constructs a mobile and combat-capable alchemical manufactory. It uses the
+friction of melee combat to brew a variety of useful potions, venting clouds of
+their toxic byproducts at whatever it punches. When it has built up enough heat
+to complete its synthesis, it will automatically dispense the finished potions
+to nearby allies before falling apart.
 %%%%
 Anguish spell
 
-Afligidos enemigos cercanos con angustia sobrenatural, causando todos los daños que tratan
-rebotar sobre ellos durante el efecto. Los enemigos de voluntad fuerte pueden resistir
-Las visiones necrométicas del dolor y el sufrimiento, y las criaturas sin mente no son afectadas.
-
+Afflicts nearby foes with supernatural anguish, causing all damage they deal to
+rebound on them for the duration of the effect. Strong-willed foes can resist the
+necromantic visions of pain and suffering, and mindless creatures are unaffected.
 %%%%
 Animate Dead spell
 
-Por algún tiempo después de lanzar esto, criaturas vivientes asesinadas por la lanzador 
-como zombies. La posibilidad de reanimar un monstruo y la duración del efecto
-aumentar con poder de hechizo. Re-casting this spell return zombies to dust, as
-dejando el suelo.
-
+For some time after casting this, living creatures killed by the caster will rise
+as zombies. The chance of reanimating a monster and the duration of the effect
+increase with spell power. Re-casting this spell will return zombies to dust, as
+will leaving the floor.
 %%%%
 Antimagic Gaze spell
 
-Causa la magia del objetivo de filtrarse en el aire, como si fueran golpeados por un
-arma antimagica, sin necesidad de línea directa de fuego.
-
+Causes the target's magic to leak into the air, as though they were hit by an
+antimagic weapon, and heals the caster for the amount of magic drained,
+with no direct line of fire required.
 %%%%
 Apportation spell
 
-Tire de la parte superior o grupo de artículos similares de una pila distante al suelo
-cerca de la lanzador. Con bajo poder, los elementos Might no se mueven hasta el
-La posición del caster.
+Pulls the top item or group of similar items from a distant pile to the floor
+near the caster. With low power, items might not be moved all the way to the
+caster's position.
 
-Artículos mágicos extremadamente poderosos, como el Orbe de Zot, pueden resistir activamente
-la atracción de este hechizo.
-
+Extremely powerful magical items, such as the Orb of Zot, may actively resist
+the pull of this spell.
 %%%%
 Arcjolt spell
 
-Envía una ola de electricidad a través de todo lo adyacente o cercano a
-el caster. La electricidad continúa arc a través de todo en un conectado
-cadena, aunque el caster no se ve afectado. El daño causado atraviesa la mitad
-de la armadura de defensores.
-
+Sends a wave of electricity through everything adjacent or near-adjacent to
+the caster. The electricity continues to arc through everything in a connected
+chain, though the caster themself is unaffected. The damage dealt bypasses half
+of defenders' armour.
 %%%%
 Avatar Song spell
 
-Canta una canción poderosamente inquietante. Los aventureros que no resisten se vuelven
-incapaz de alejarse del cantante (y a veces se acercan más
-involuntariamente), mientras que otras criaturas se vuelven descaradas.
+Sings a powerfully haunting song. Adventurers who fail to resist will become
+unable to move away from the singer (and will sometimes be drawn closer
+involuntarily), while other creatures will become dazed outright.
 
-Además, puede provocar almas ahogadas de cualquier cuerpo cercano de profundo
-agua.
+In addition, it may call forth drowned souls from any nearby bodies of deep
+water.
 
-Dejar la línea de visión de la lanzador terminar el efecto de control del movimiento.
-
+Leaving the caster's line of sight will end the movement-controlling effect.
 %%%%
 Awaken Armour spell
 
-Dibuja sobre la memoria de su armadura gastada para manifestar un eco de ella que lucha
-junto a ti. Este eco se mueve lentamente, pero el poder de sus golpes aumenta
-dramáticamente con el peso de la armadura utilizada para formarla. Tiene todo
-las propiedades defensivas de la armadura misma.
+Draws upon the memory of your worn armour to manifest an echo of it that fights
+alongside you. This echo moves slowly, but the power of its blows increases
+dramatically with the weight of the armour used to form it. It possesses all
+the defensive properties of the armour itself.
 
-Spellpower aumenta su durabilidad.
-
+Spellpower increases its durability.
 %%%%
 Awaken Flesh spell
 
-Canaliza una oleada de energía caótica a través de cada pila de carne en el caster
-vista, animarlos en grandes abominaciones empoderadas y traficando daño al caos
-a cualquier enemigo lo suficientemente desafortunado como para estar a su lado.
-
+Channels a surge of chaotic energy through each pile of flesh in the caster's
+sight, animating them into empowered large abominations and dealing chaos damage
+to any foes unfortunate enough to be standing next to them.
 %%%%
 Awaken Forest spell
 
-Da un poco de motilidad limitada a los árboles cercanos, permitiéndoles balancear su
-ramas y cambiar sus raíces. Tales árboles encantados lash at any adjacent
-enemigo.
-
+Gives some limited motility to nearby trees, allowing them to sway their
+branches and shift their roots. Such enchanted trees will lash at any adjacent
+enemy.
 %%%%
 Awaken Vines spell
 
-Causa que las vides crezcan desde la tierra. Las vides alcanzan y agarran
-interlopers, arrastrándolos hacia cualquier árbol cercano.
-
+Causes vines to grow from the ground. The vines will reach out and grab
+interlopers, dragging them towards any nearby trees.
 %%%%
 Banishment spell
 
-Desterra a una criatura en el Abyss.
-
+Banishes a creature into the Abyss.
 %%%%
 Battlecry spell
 
-Inspira a los aliados cercanos de la lanzador a luchar más agresivamente, aumentando
-la fuerza de sus golpes.
-
+Inspires nearby allies of the caster to fight more aggressively, increasing
+the strength of their blows.
 %%%%
 Beckoning Gale spell
 
-Twists el aire alrededor de una criatura para hacer daño y tratar de tirar de ellos
-más cerca de la lanzador.
-
+Twists the air around a creature to both deal damage and attempt to pull them
+closer to the caster.
 %%%%
 Berserker Rage spell
 
 <Berserk ability>
-
 %%%%
 Berserk Other spell
 
-Causa un aliado cercano a Fly en una rabia Berserk. Going Berserk temporarily
-aumenta la salud, la velocidad y los daños tratados en la melee.
-
+Causes a nearby ally to fly into a berserk rage. Going berserk temporarily
+increases health, speed, and damage dealt in melee.
 %%%%
 Bestow Arms spell
 
-Temporalmente otorga a numerosos aliados cercanos un arma mágica desde dentro del
-armadura, mientras las almas que la sostienen juntos permanezcan intactas.
-
+Temporarily grants numerous nearby allies a magical weapon from within the
+armoury, so long as the souls holding it together remain intact.
 %%%%
 Bind Souls spell
 
-Ofrece un encanto en otras criaturas vivientes cercanas que las hace
-ascender como simulacro después de ser asesinado.
-
+Bestows an enchantment on other nearby living creatures that causes them to
+rise as simulacra after being slain.
 %%%%
 Blink Allies Away spell
 
-Blinks aliados a la vista de la casta lejos de un enemigo cercano.
-
+Blinks allies in sight of the caster away from a nearby enemy.
 %%%%
 Blink Allies Encircling spell
 
-Transloca a varios aliados a la vista de la lanzador para rodear a un blanco
-enemigo.
-
+Translocates a number of allies in the caster's sight to surround a targeted
+enemy.
 %%%%
 Blink Away spell
 
-Transloca la lanzador a un lugar más alejado de un enemigo objetivo.
-
+Translocates the caster to a location further away from a targeted enemy.
 %%%%
 Blink Close spell
 
-Transloca la lanzador a corta distancia hacia un enemigo objetivo.
-
+Translocates the caster a short distance towards a targeted enemy.
 %%%%
 Blink Other Close spell
 
-Transloca a un enemigo objetivo a corta distancia hacia la casta. No puede ser
-resistido por el poder de voluntad.
-
+Translocates a targeted enemy a short distance towards the caster. It cannot be
+resisted by willpower.
 %%%%
 Blink Other spell
 
-Aleatoriamente transloca a un enemigo objetivo a corta distancia. No se puede resistir
-por voluntad.
-
+Randomly translocates a targeted enemy a short distance. It cannot be resisted
+by willpower.
 %%%%
 Blink Range spell
 
-Transloca la casta a un lugar más alejado de un enemigo objetivo, pero
-todavía a la vista del objetivo.
-
+Translocates the caster to a location further away from a targeted enemy, but
+still within sight of the target.
 %%%%
 Blink spell
 
-Aleatoriamente transloca la lanzador a corta distancia. Después de trasladarse a este
-el hechizo no puede lanzado de nuevo por un corto período de tiempo dependiendo de
-poder de hechizo.
-
+Randomly translocates the caster a short distance. After translocating in this
+way, the spell cannot be cast again for a short period of time depending on
+spell power.
 %%%%
 Blinkbolt spell
 
-Transforma la fundición en un rayo penetrante, y transloca la
-Caster al destino del perno.
-
-%%%%
-Bolt of Antimagic spell
-
-Dispara un perno penetrante de antimágico ontológicamente paradójico, drenando su
-reservas de magia de las víctimas.
-
-%%%%
-Bolster spell
-
-Aumenta la forma física de la lanzador, aumentando enormemente el daño que tratan en
-melee y su resistencia a todos los elementos.
-
+Transforms the caster into a lightning bolt, and translocates the caster to
+the bolt's destination.
 %%%%
 Bolt of Cold spell
 
-Dispara un perno penetrante de la helada.
-
+Fires a penetrating bolt of frost.
 %%%%
 Bolt of Devastation spell
 
-Dispara un perno penetrante de dolor y dolor de corazón que corta las víctimas
-fuerza de voluntad en la mitad.
-
+Fires a bolt of grief and heartache that cuts its victims' willpower in half.
 %%%%
 Bolt of Draining spell
 
-Dispara un perno penetrante de energía negativa que drena a cualquier criatura viviente
-golpea.
-
+Fires a penetrating bolt of negative energy which drains any living creature
+it strikes.
 %%%%
 Bolt of Fire spell
 
-Dispara un perno penetrante de llamas.
-
+Fires a penetrating bolt of flames.
 %%%%
 Bolt of Flesh spell
 
-Incendia una barraca penetrante de carne conjurada, que brevemente permanecen como un
-apilar en el suelo al final de su camino.
-
+Fires a barrage of conjured flesh, which will briefly remain as a pile on the
+ground at the end of its path.
 %%%%
 Bolt of Light spell
 
-Incendia un rayo de luz retorcida, que puede cegar cualquier vida, demoníaca,
-o santa criatura que golpea.
-
+Fires a ray of searing light, which may blind any living, demonic, or holy
+creature it strikes.
 %%%%
 Bolt of Magma spell
 
-Dispara un perno penetrante de roca fundida. La mitad de su daño daña fuego
-resistencia.
-
+Fires a penetrating bolt of molten rock. Half of its damage bypasses fire
+resistance.
 %%%%
 Bombard spell
 
-Destruye una bola de hierro hacia un objetivo. La fuerza de la explosión envía a menudo la
-La casta se estanca hacia atrás.
-
+Blasts an iron ball toward a target. The force of the blast often sends the
+caster staggering backwards.
 %%%%
 Borgnjor's Revivification spell
 
-Sana instantáneamente todas las heridas sufridas por la lanzador, pero también permanentemente
-daña su salud, en un grado dependiente del poder (y inversamente relacionado con).
+Instantly heals any and all wounds suffered by the caster, but also permanently
+damages their health, to a degree dependent on (and inversely related to) power.
 
-Es lo suficientemente poderoso para cancelar los efectos de la Puerta de la Muerte, aunque hacerlo
-brevemente paralizar la lanzador. No tiene efecto en los muertos vivientes.
-
+It is powerful enough to cancel the effects of Death's Door, although doing so
+will briefly paralyse the caster. It has no effect on the undead.
 %%%%
 Borgnjor's Vile Clutch spell
 
-Llama las manos de los cadáveres que intervinieron bajo el suelo del the Dungeonhace mucho tiempo.
-Enemigos atrapados en la zona ser mantenidos y restringidos hasta que ellos
-libre.
-
+Calls forth hands from corpses interred beneath the dungeon floor long ago.
+Enemies caught in the area will be held in place and constricted until they
+break free.
 %%%%
 Brain Bite spell
 
-Dibuja una pequeña cantidad de la mente de un enemigo visible y una proporción de su magia,
-sin línea directa de fuego requerida. Si el enemigo tiene magia casi vacía
-reservas, ellos toman doble daño.
-
+Drains a small amount of a visible enemy's mind and a proportion of their magic,
+with no direct line of fire required. If the enemy has near-emptied magic
+reserves, they will take doubled damage.
 %%%%
 Brom's Barrelling Boulder spell
 
-Desata una enorme roca rodante en una dirección de brújula dada. Este boulder
-daña a cualquier criatura que golpee, rodando sobre los que perecen debajo de ella y
-empujar a otros indefensos hacia atrás (junto con alguien más desafortunado
-lo suficiente para estar detrás de ellos).
+Unleashes a massive rolling boulder in a given compass direction. This boulder
+damages any creature it hits, rolling over those who perish beneath it and
+pushing any others helplessly backwards (along with anyone else unfortunate
+enough to be standing behind them).
 
-Su tamaño y locomoción imprudente dificultan el uso en áreas confinadas; si
-lanzado hacia abajo pasajes estrechos, rápidamente abrade contra las paredes y caída
-aparte. también se desmorona si deja la vista del caster o golpea una pared
-o de otra manera criatura inmóvil.
-
+Its size and reckless locomotion make it difficult to use in confined areas; if
+launched down narrow passages, it will rapidly abrade against the walls and fall
+apart. It will also crumble if it leaves the caster's sight or strikes a wall
+or otherwise unmoveable creature.
 %%%%
 Brothers in Arms spell
 
 <Brothers in Arms ability>
-
-%%%%
-Cage of Brambles spell
-
-Causa paredes de brambles espinosos para crecer rápidamente en un anillo alrededor de todos los cercanos
-enemigos. Los aliados de la casta pueden disparar proyectiles a través de estos briares sin
-obstrucción, pero cualquier otra persona puede encontrar su eliminación bastante dolorosa.
-
 %%%%
 Call Canine Familiar spell
 
-Invoca un inugami a la ayuda de la lanzador. Estos caninos místicos forman un vínculo con
-su convocador, reforzándolos en proporción directa con el caster
-fuerza de hechizos.
+Summons an inugami to the caster's aid. These mystical canines form a bond with
+their summoner, strengthening them in direct proportion with the caster's
+spellpower.
 
-Rechazar este hechizo mientras que su familiar está cerca lo imbue con adicional
-magia, reparando algunas de sus heridas, limpiando de veneno, y causando su siguiente
-ataque para golpear más rápido y libere enemigos adyacentes.
-
+Recasting this spell while your familiar is nearby will imbue it with additional
+magic, mending some of its wounds, cleansing it of poison, and causing its next
+attack to strike more quickly and cleave adjacent foes.
 %%%%
 Call Down Damnation spell
 
-Culpa a un enemigo objetivo con condenación, sin necesidad de línea directa de fuego.
-Estas fuerzas impíamente dañan a la víctima y a cualquier persona adyacente, y no se ven afectadas
-por cualquier medio de protección, como armadura o resistencias. Sin embargo, cierto
-criaturas, generalmente los que pueden invocar la condenación ellos mismos, son enteramente
-invicto por la condenación.
-
+Blasts a targeted enemy with damnation, with no direct line of fire required.
+These unholy forces harm the victim and anyone adjacent, and are not affected
+by any means of protection, such as armour or resistances. However, certain
+creatures, usually those able to invoke damnation themselves, are entirely
+unscathed by damnation.
 %%%%
 Call Down Lightning spell
 
-Culpa a un enemigo objetivo con relámpago, sin necesidad de línea directa de fuego.
-Las magias selectivas necesitan distancia para funcionar, así que los enemigos que están adyacentes
-o casi adyacente no puede golpeado por esto.
-
+Blasts a targeted enemy with lightning, with no direct line of fire required.
+The targeting magics need distance to function, so enemies that are adjacent
+or nearly adjacent cannot be struck by this.
 %%%%
 Call Imp spell
 
-Llama a un demonio menor de los fosos del infierno, equipado con una lanza con
-que a jab en los enemigos del caster. La calidad del armamento del imp aumenta
-con poder de hechizo.
-
+Calls forth a minor demon from the pits of Hell, equipped with a spear with
+which to jab at the caster's enemies. The quality of the imp's weaponry rises
+with spell power.
 %%%%
 Call Lost Souls spell
 
-Invoca a algunos espectros necrométicos. Estas almas perdidas pueden entrar en los cuerpos de más
-poderosos no muertos para traerlos de vuelta del borde de la muerte, o volver a la vida moribunda
-criaturas en versiones fantasmales de sí mismos.
-
+Summons some necromantic spectres. These lost souls can enter the bodies of more
+powerful undead to bring them back from brink of demise, or turn dying living
+creatures into ghostly versions of themselves.
 %%%%
 Call of Chaos spell
 
-Exhorta a los poderes del caos para empoderar a los aliados cercanos, concediéndoles Haste,
-Might, doble vigor, o mayor resistencia. La magia caótica puede
-ocasionalmente retroceder y hacer que los aliados pierdan su fuerza de voluntad o sean
-atornillado, polimorfo o lleno de llama interior.
-
+Calls upon the powers of chaos to empower nearby allies, granting them haste,
+might, doubled vigour, or improved resistances. The chaotic magic may
+occasionally backfire and cause allies to instead lose their willpower or be
+berserked, polymorphed, or filled with inner flame.
 %%%%
 Call Tide spell
 
-Permite que la lanzador afecte la fase de marea de todo el agua dentro de un gran
-distancia. Poco después de llamarlo, las aguas de todo el nivel alcanzan alto
-marea. Aguas cerca de la lanzador alcanzan niveles aún más altos que ellos
-normalmente.
-
+Allows the caster to affect the tidal phase of all water within a large
+distance. Soon after calling it, the waters on the whole level will reach high
+tide. Waters near the caster will reach even higher levels than they would
+normally.
 %%%%
 Cantrip spell
 
-Casts uno de varios hechizos menores, dirigidos a tratar de reforzar el caster
-moral. No tienen ningún efecto notable.
-
+Casts one of a number of minor spells, aimed at trying to bolster the caster's
+morale. They have no noticeable effect.
 %%%%
 Cause Fear spell
 
-Causa el miedo en los que están cerca de la lanzador, causando que los afectados no puedan
-acercarse a la lanzador, y a veces no atacarlos en melee. Dejando el
-La línea de visión de la casta termina el efecto.
-
+Causes fear in those near to the caster, causing those affected to be unable to
+approach the caster, and to sometimes fail to attack them in melee. Leaving the
+caster's line of sight will end the effect.
 %%%%
 Caustic Breath spell
 
 <Caustic Breath ability>
-
 %%%%
 Chain of Chaos spell
 
-Crea un arco de caos puro, golpeando criaturas cercanas con impredecible
-Efectos. El arco puede tocar la casta sin dañarlos.
-
+Creates an arc of pure chaos, striking nearby creatures with unpredictable
+effects. The arc can touch upon the caster without harming them.
 %%%%
 Chain Lightning spell
 
-Libera una descarga eléctrica masiva que arcs a la criatura más cercana
-Caster y luego hacia fuera de ella. Cuanto más viaja, menos daño le da
-Sí. Los arcos secundarios tienen rango limitado y hacen poco daño a la lanzador.
-El hechizo representa la mitad de la armadura de los defensores y la resistencia a la electricidad.
-
+Releases a massive electrical discharge that arcs to the creature nearest the
+caster and then outward from it. The further it travels, the less damage it
+does. Secondary arcs have limited range and do little damage to the caster.
+The spell bypasses half of defenders' armour and resistance to electricity.
 %%%%
 Charm spell
 
-Causa una criatura de otro modo hostil para luchar en el lado de la lanzador por un tiempo.
-Los aventureros, establecidos en su búsqueda de el Orbe, sufren en cambio confusión momentánea.
-
+Causes an otherwise hostile creature to fight on the caster's side for a while.
+Adventurers, set on their quest for the ORB, instead suffer momentary confusion.
 %%%%
 Chaos Breath spell
 
-Exhala una gran nube de vapores llena de la esencia misma del caos.
-
+Exhales a large cloud of fumes filled with the very essence of chaos.
 %%%%
 Cigotuvi's Putrefaction spell
 
-Acelera mágicamente la decadencia de tejido vivo dañado, causando grandes nubes
-de miasma para secarse de las heridas de una víctima en varias vueltas
-que puede Slow y envenenar fuertemente a cualquier criatura viviente que esté en ellos. Aire
-corrientes evitar que esta pestilencia forme dondequiera que esté el caster
-de pie, pero no están protegidos de sus efectos.
+Magically accelerates the decay of damaged living tissue, causing great clouds
+of miasma to billow forth from a targeted victim's wounds over several turns
+which may slow and heavily poison any living creature who stands in them. Air
+currents will prevent this pestilence from forming wherever the caster is
+standing, but they are not otherwise protected from its effects.
 
-Este hechizo sólo puede ser lanzado en una criatura viviente que es al menos fuertemente
-heridos, y canalizando tales energías necróticas dejar el caster propio
-salud temporalmente drenada (aunque fuerza de hechizo reduce la intensidad de este
-efecto secundario).
-
+This spell may only be cast on a living creature who is at least heavily
+wounded, and channelling such necrotic energies will leave the caster's own
+health temporarily drained (though spellpower will reduce the intensity of this
+side-effect).
 %%%%
 Cleansing Flame spell
 
-Invoca una enorme explosión de furia divina centrada en el usuario, gravemente dañina
-los muertos vivientes y los demonios y el daño a todas las otras criaturas hostiles.
-
+Invokes a huge blast of divine fury centered on the user, severely damaging
+undead and demons and dealing damage to all other hostile creatures.
 %%%%
 Cold Breath spell
 
-Exhala una explosión enfocada de aire helado.
-
+Exhales a focused blast of icy-cold air.
 %%%%
 Concentrate Venom spell
 
-Intensifica el veneno natural del monstruo objetivo. Muertos venenosos y escupidos
-se hace lo suficientemente intenso como para Slow y asfixia.
-
+Intensifies the natural venom of the target monster. Poisonous bites and spit
+become intense enough to slow and asphyxiate.
 %%%%
 Combustion Breath spell
 
 <Combustion Breath ability>
-
 %%%%
 Confuse spell
 
-Induce un estado de desconcierto y confusión en la mente de una criatura.
-
+Induces a state of bewilderment and confusion in a creature's mind.
 %%%%
 Confusing Touch spell
 
-Enchants la mano dominante de la lanzador con energía mágica. Esta energía es
-liberado cuando la casta toca a un monstruo, y puede inducir un estado de confusión
-en el monstruo. Los ataques de la casta no hacen daño mientras intentan tocar un
-monstruo de esta manera.
-
+Enchants the caster's dominant hand with magical energy. This energy is
+released when the caster touches a monster, and may induce a state of confusion
+in the monster. The caster's attacks do no damage while attempting to touch a
+monster in this way.
 %%%%
 Confusion Gaze spell
 
-Induce un estado de desconcierto y confusión en la mente de una criatura, sin
-línea directa de fuego requerida.
-
+Induces a state of bewilderment and confusion in a creature's mind, with no
+direct line of fire required.
 %%%%
 Conjure Ball Lightning spell
 
-Crea un paquete de rayos de bola, que buscan al enemigo más cercano antes
-explotando en una enorme explosión de electricidad. El daño causado supera la mitad de los
-Armadura de defensores. Se aconseja a los castores que usen precaución; el rayo no
-consciente de lo que puede golpear.
+Creates a pack of ball lightnings, which seek out the nearest enemy before
+exploding in a huge blast of electricity. The damage dealt bypasses half of
+defenders' armour. Casters are advised to use caution; the lightning is not
+mindful of what it may hit.
 
-La magia que mantiene cohesivo los rayos de bola tiene rango limitado, por lo que pueden
-disipar inofensivamente si se permite alejarse demasiado lejos de su casta antes
-explotando.
-
+The magic which keeps ball lightnings cohesive has limited range, so they may
+dissipate harmlessly if allowed to drift too far away from their caster before
+exploding.
 %%%%
 Conjure Living Spells spell
 
-Crea varios hechizos vivos, autónomos, que se arrojan al primer enemigo
-para entrar en su rango. Una vez lanzados, se disipan.
-
+Creates several living, autonomous spells, which cast themselves at the first foe
+to enter their range. Once cast, they dissipate.
 %%%%
 Construct Spike Launcher spell
 
-Construye una simple trampa mecánica dentro de una pared adyacente que repetidamente
-skewers enemigos adyacentes al azar. Protegido por la pared misma, es
-invulnerable a la mayoría de las formas de daño, pero se desmoronan si la casta deja
-sus alrededores.
-
+Constructs a simple mechanical trap within an adjacent wall which repeatedly
+skewers random adjacent enemies. Protected by the wall itself, it is
+invulnerable to most forms of damage, but will fall apart if the caster leaves
+its vicinity.
 %%%%
 Corona spell
 
-Causa un halo de luz brillante para rodear y delinear eficazmente a una criatura.
-Este resplandor compensa la atmósfera oscura, de mosto de la Mazmorra, y hace que el
-criatura afectada apreciablemente más fácil de golpear.
-
+Causes a halo of glowing light to surround and effectively outline a creature.
+This glow offsets the dark, musty atmosphere of the dungeon, and makes the
+affected creature appreciably easier to hit.
 %%%%
 Corrosive Bolt spell
 
-Dispara un perno penetrante de ácido altamente corrosivo.
-
+Fires a penetrating bolt of highly-corrosive acid.
 %%%%
 Corrupt spell
 
-Libera energías abisales en las inmediaciones. Esto cambia el
-apariencia de la zona afectada y convocar temporalmente a criaturas de la
-Abyss. Esto no se puede utilizar en el propio Abyss.
-
+Unleashes Abyssal energies in the immediate vicinity. This changes the
+appearance of the affected area and temporarily summons creatures from the
+Abyss. This cannot be used in the Abyss itself.
 %%%%
 Corrupting Pulse spell
 
-Inculca una corrupción dentro de todos los objetivos visibles, mutando temporalmente su
-cuerpos de una manera adversa. No puede afectar a los seres artificiales, y
-undead descomposición si afectado.
-
+Instills a corruption within all visible targets, temporarily mutating their
+bodies in an adverse fashion. It cannot affect artificial beings, and the
+undead will decompose if affected.
 %%%%
 Creeping Frost spell
 
-Se llama frío frío de las paredes. Cualquier enemigo de la lanzador de pie
-junto a las paredes ser congelado y encontrar sus movimientos lento. Cold
-resistencia reducir el daño, pero no prevenir el efecto de congelación.
-
+Calls forth freezing cold from the walls. Any enemies of the caster standing
+next to the walls will be frozen and will find their movements slowed. Cold
+resistance will reduce damage, but not prevent the freezing effect.
 %%%%
 Creeping Shadow spell
 
-Llama sombras de los rincones de las paredes cercanas para golpear a todos los
-Los enemigos de Caster que están junto a ellos.
-
+Calls forth shadows from the corners of nearby walls to strike at all of the
+caster's enemies standing adjacent to them.
 %%%%
 Crystallising Shot spell
 
-Hurls un gran y pesado fragmento de cristal. Puede renderizar el cuerpo de una criatura
-estructura tan frágil y frágil como cristal roto y sin refinar, aumentando
-los daños que consumen de todas las fuentes.
-
+Hurls a large and heavy shard of crystal. It may render a creature's body
+structure as brittle and fragile as shattered and unrefined crystal, increasing
+the damage they take from all sources.
 %%%%
 Curse of Agony spell
 
-Cursa a un enemigo, aboliendo su salud restante después de cada uno de los dos próximos
-que la casta los golpea en la melee.
-
+Curses a foe, halving their remaining health after each of the next two times
+that the caster strikes them in melee.
 %%%%
 Death Channel spell
 
-Ata las almas de criaturas vivientes muertas, demoníacas y santas, forzando sus
-espectros para permanecer y luchar por la casta por el tiempo que dura el canal.
-
+Binds the souls of slain living, demonic and holy creatures, forcing their
+spectres to remain and fight for the caster for as long as the channel lasts.
 %%%%
 Death Rattle spell
 
-Exhala la esencia de la muerte, creando nubes de miasma nocivo.
-
+Exhales the essence of the dying, creating clouds of noxious miasma.
 %%%%
 Death's Door spell
 
-Renders the caster nigh invulnerable to harm for a brief period, but bringss
-peligrosamente cerca de la muerte en el proceso. Tan cerca, de hecho, que
-el cuerpo se cree muerto — efectos curativos no hacen nada.
+Renders the caster nigh invulnerable to harm for a brief period, but brings
+them dangerously close to death in the process. So close, in fact, that the
+body believes itself to be dead — healing effects will do nothing.
 
-El caster recibe un warning poco antes de que expire el hechizo. Después
-expiación, el hechizo no puede retransmitido inmediatamente, pero con alto poder el caster
-ser dejado más lejos de la muerte cuando el efecto termina. No tiene efecto en esos
-que ya no están muertos.
-
+The caster will receive one warning shortly before the spell expires. After
+expiry, the spell cannot immediately be recast, but with high power the caster
+will be left further from death when the effect ends. It has no effect on those
+who are already undead.
 %%%%
 Debugging Ray spell
 
-Dispara un rayo que hace daño masivo (1500 hp) y siempre golpea.
-
+Fires a ray which does massive damage (1500 hp) and always hits.
 %%%%
 Deflect Missiles spell
 
-Envuelve la rueda en un campo de repulsión, aumentando enormemente su evasión
-contra todo tipo de proyectil - incluso mientras que de otro modo incapacitado.
-
+Envelops the caster in a repulsion field, greatly increasing their evasion
+against all types of projectile - even while otherwise incapacitated.
 %%%%
 Detonation Catalyst spell
 
-Affixes un catalizador volátil para los puños o el arma de la fundición, causando cada
-de sus huelgas para liberar una explosión ardiente en su objetivo principal. El caster
-y sus aliados están protegidos de los efectos de la explosión. La actividad de la
-el catalizador puede prolongarse indefinidamente mientras la lanzador continúe
-ataque, pero rápidamente pierde potencia cuando toman otras acciones. La base
-daño del arma del caster y la fuerza de hechizo del caster aumentan cada vez más
-explosión es daño.
-
+Affixes a volatile catalyst to the caster's fists or melee weapon, causing each
+of their strikes to release a fiery explosion at its primary target. The caster
+and their allies are protected from the explosion's effects. The activity of the
+catalyst may be prolonged indefinitely as long as the caster continues to
+attack, but it rapidly loses potency when they take other actions. The base
+damage of the caster's weapon and the caster's spellpower each increase the
+explosion's damage.
 %%%%
 Diamond Sawblades spell
 
-Forja hasta cuatro sierras de afeitar en posiciones fijas alrededor de la fundición
-que arrojó a cualquier enemigo adyacente a ellos en varias vueltas.
-
+Forges up to four razor-sharp sawblades at fixed positions around the caster
+which shred any enemies adjacent to them over several turns.
 %%%%
 Dig spell
 
-Se cava un túnel a través de rocas sin trabajo.
-
+Digs a tunnel through unworked rock.
 %%%%
 Dimension Anchor spell
 
-Bloquea cualquier translocación intentado por el objetivo afectado, ya sea voluntaria
-o no. Esto incluye incluso algunos efectos cruzados, aunque no
-Destierro.
-
+Blocks any translocations attempted by the affected target, be they voluntary
+or not. This includes even some cross-plane effects, although notably not
+Banishment.
 %%%%
 Dimensional Bullseye spell
 
-Oculta un vínculo entre el armamento del caster y un blanco elegido. Siempre
-lanza fuegos o lanza algo a un enemigo * diferente*, un proyectil de coincidencia
-sea teletransportado al objetivo. Spellpower aumenta su precisión.
-
+Weaves a link between the caster's weaponry and a chosen target. Whenever the
+caster fires or throws something at a *different* enemy, a matching projectile
+will be teleported at the target. Spellpower increases their accuracy.
 %%%%
 Diminish Spells spell
 
-Inresistiblemente debilita el poder de los hechizos de un enemigo por un período de tiempo.
-
+Irresistibly weakens the power of an enemy's spells for a period of time.
 %%%%
 Discord spell
 
-Conduce a las criaturas cercanas a un frenesí salvaje, que las hace sin piedad
-atacar cualquier cosa y todo lo cercano con gran fuerza y velocidad.
-
+Drives nearby creatures into an wild frenzy, causing them to mercilessly
+attack anything and everything nearby with great strength and speed.
 %%%%
 Disjunction spell
 
-Destabiliza el espacio en una esfera alrededor de la fundición por un tiempo, causando
-alguien cercano a blink lejos de la casta. La posibilidad de parpadear depende de
-la distancia de la lanzador, siendo casi seguro cuando directamente adyacente.
-
+Destabilises the space in a sphere around the caster for a while, causing
+anyone nearby to blink away from the caster. The chance of blinking depends on
+the distance from the caster, being nearly certain when directly adjacent.
 %%%%
 Dispel Undead spell
 
-Harms una criatura no muerta adyacente grandemente interfiriendo con las fuerzas
-unirlo.
-
+Harms an adjacent undead creature greatly by interfering with the forces
+binding it together.
 %%%%
 Dispel Undead Range spell
 
-Harms una criatura no muerta grandemente interfiriendo con las fuerzas que la obligan
-juntos.
-
+Harms an undead creature greatly by interfering with the forces binding it
+together.
 %%%%
 Dispersal spell
 
-Teleporta a cualquier criatura a poca distancia de la casta. Cualquier
-criatura con el para resistir todavía ser irresistiblemente parpadeado un más corto
-distancia, y cualquier monstruo que afecta en absoluto tiene una oportunidad separada 
-de estar confundida por la vigilancia del espacio.
-
+Teleports away any creatures within a short distance of the caster. Any
+creature with the Will to resist will still be irresistibly blinked a shorter
+distance, and any monster it affects at all has a separate Will-based chance
+of being confused by the warping of space.
 %%%%
 Divine Armament spell
 
-Manifiesta la fe de la castora como arma espiritual, que lucha y asesinato
-los enemigos del caster bajo su propio poder.
+Manifests the caster's faith as a spiritual weapon, which will fight and slay
+the caster's enemies under its own power.
 
-Como es un reflejo directo del celo único de la lanzador, el arma que ellos
-recibir de su dios ser el mismo cada vez.
-
+As it is a direct reflection of the caster's unique zeal, the weapon they
+receive from their god will be the same each time.
 %%%%
 Dominate Undead spell
 
-Intentos de cambiar por la fuerza la lealtad de todos los no muertos cercanos que no son
-ya leal a la lanzador.
+Attempts to forcibly change the allegiance of all nearby undead which are not
+already loyal to the caster.
 
-Los aventureros, siendo famosos, no pueden ser totalmente controlados por esto
-hechizo. Ellos en lugar de echar fuera aleatoriamente por la duración de su efecto,
-atacar a un amigo cercano y enemigo igual antes de recuperar sus ingenios.
+Adventurers, being famously headstrong, cannot be fully controlled by this
+spell. They will instead lash out randomly for the duration of its effect,
+attacking nearby friend and foe alike before regaining their wits.
 
-Este hechizo se puede romper prematuramente por la muerte de su casta.
-
+This spell can be broken prematurely by the death of its caster.
 %%%%
 Doomsaying spell
 
-Foretells a terrible futuro, infligiendo Doom igual a la mitad de lo que tomaría
-para que llegues al 100%. En la muerte de la lanzador, un sliver de este destino viene 
-para pasar en forma de emboscada; varios enemigos bien escondidos del suelo
-buscar su posición infaliblemente y todas las escaleras temporalmente
-sellado.
+Foretells a terrible future, inflicting Doom equal to half of what it would take
+for you to reach 100%. Upon the caster's death, a sliver of this fate will come
+to pass in the form of an ambush; several well-hidden enemies from the floor
+will seek out your position unerringly and all stairs will temporarily be
+sealed.
 
-Sólo se puede lanzar una sola vez, pero incluso matar al mensajero en su Sleep
-no evitar lo que el destino tiene guardado para tú.
-
+Can only be cast a single time, but even slaying the messenger in their sleep
+will not avoid what fate has in store for you.
 %%%%
 Doom Bolt spell
 
-Dispara un perno penetrante de malicia accursada que inflige a Doom.
-
+Fires a bolt of accursed malice which inflicts Doom.
 %%%%
 Oblivion Howl spell
 
-Libera un aullido penetrante que atrapa y hace eco en las mentes de las víctimas. Mientras tanto
-esos ecos engendran, criaturas de pesadilla escuchar y rastrearlos a sus
-fuente. Sólo puede ser usado una vez por una criatura dada.
-
+Unleashes a piercing howl that catches and echoes in victims' minds. While
+those echoes linger, nightmarish creatures will hear and track them to their
+source. It can only be used once by a given creature.
 %%%%
 Dragon's Call spell
 
-Se trata de una poderosa llamada a un reino dracónico, acercándose al dragón después del dragón
-para involucrar a los enemigos del citador. El hechizo está imponiendo para mantener, y cada nuevo
-dragón que responde a la llamada más Drain el mágico
-reservas. Después de que la llamada termine, no se puede emitir de nuevo por un corto tiempo. El
-la duración de la llamada y las especies de dragones llamadas dependen de poder de hechizo.
-
+Issues a powerful call to a draconic realm, beckoning forth dragon after dragon
+to engage the summoner's enemies. The spell is taxing to maintain, and each new
+dragon which answers the call will further drain the summoner's magical
+reserves. After the call ends, it cannot be issued again for a short time. The
+duration of the call and the species of dragons called depend on spell power.
 %%%%
 Drain Life spell
 
-Dibuja la fuerza de vida de cualquier enemigo cercano, curando al usuario dependiendo de
-el daño causado.
-
+Drains the life force of any nearby enemies, healing the user depending on
+the damage dealt.
 %%%%
 Drain Magic spell
 
-Causa la magia del objetivo de filtrarse en el aire, como si fueran golpeados por un
-arma antimágica.
-
+Causes the target's magic to leak into the air, as though they were hit by an
+antimagic weapon.
 %%%%
 Draining Gaze spell
 
-Llena a una criatura viviente con energía negativa, drenándolos por una fracción de
-su salud máxima. Este hechizo requiere línea de visión pero no línea de fuego.
-
+Fills a living creature with negative energy, draining them for a fraction of
+their maximum health. This spell requires line of sight but not line of fire.
 %%%%
 Dream Dust spell
 
-Overwhelms el objetivo con polvo de sueño soporoso, poniéndolos a Sleep con un
-Pantalla visual encantadora. Otros sueños ovejas aumentar la fuerza
-y duración de este efecto.
-
+Overwhelms the target with soporific dream dust, putting them to sleep with an
+enchanting visual display. Additional dream sheep will increase the strength
+and duration of this effect.
 %%%%
 Druid's Call spell
 
-Recuerda a las criaturas del bosque de otras partes en el mismo nivel.
-
+Recalls woodland creatures from elsewhere on the same level.
 %%%%
 Electrical Bolt spell
 
-Tira un perno penetrante de electricidad al objetivo, con alta precisión.
-
+Throws a bolt of electricity at the target, with high accuracy.
 %%%%
 Enfeeble spell
 
-Abruma a un enemigo con energías malignas, debilitando irresistiblemente su melee
-ataca y reduce el poder de sus hechizos. It additionally daze and
-ciego cualquier enemigo que no resista la fuerza total de la maldición - incluso los
-sin sentidos visuales!
-
+Overwhelms an enemy with malignant energies, irresistibly weakening their melee
+attacks and reducing the power of their spells. It will additionally daze and
+blind any foe that fails to resist the full force of the curse - even those
+without visual senses!
 %%%%
 Ensnare spell
 
-Dispara una corriente de frotar a una criatura, enredando el objetivo en una red pegajosa.
-
+Shoots a stream of webbing at a creature, ensnaring the target in a sticky web.
 %%%%
 Ensorcelled Hibernation spell
 
-Baja la tasa metabólica de su objetivo, induciendo la hibernación. Después de despertar, el
-target no puede puesto a Sleep de nuevo por algún tiempo.
-
+Lowers its target's metabolic rate, inducing hibernation. After awakening, the
+target will be unable to be put to sleep again for some time.
 %%%%
 Entropic Weave spell
 
-Corrige el objetivo, sin necesidad de línea directa de fuego.
-
+Corrodes the target, with no direct line of fire required.
 %%%%
 Eringya's Noxious Bog spell
 
-Causa que la lanzador libere un torrente de lodos que transforma áreas cercanas
-en un bog tóxico. El lodo daña y envenena a todos los monstruos, incluso a los
-resistente al veneno. El bog no puede formar en áreas adyacentes a múltiples sólidos
-características, ni en áreas que carecen de suelo sólido, como agua profunda o lava. El
-la transformación es temporal y no puede sostenida fuera de la vista de la lanzador.
-Spellpower aumentar cuánto tiempo el bog llantas.
-
+Causes the caster to release a torrent of sludge that transforms nearby areas
+into a toxic bog. The sludge damages and poisons all monsters, even those
+resistant to poison. The bog cannot form on areas adjacent to multiple solid
+features, nor on areas that lack solid floor, like deep water or lava. The
+transformation is temporary and cannot be sustained out of the caster's sight.
+Spellpower will increase how long the bog lingers.
 %%%%
 Eringya's Surprising Crocodile spell
 
-Invoca un cocodrilo diente para atacar a un enemigo adyacente. El cocodrilo 
-aparecen debajo de la casta en una oleada de agua ahumada y realizan una potencia
-ataque contra el objetivo elegido, arrastrándolo tanto y la rueda hacia atrás
-antes de permitir a este último desmontar con seguridad detrás de él. No puede ser retransmitido
-mientras el cocodrilo sigue activo.
-
+Summons a toothy crocodile to assault an adjacent enemy. The crocodile will
+appear beneath the caster in a surge of murky water and perform an empowered
+attack against the chosen target, dragging both it and the caster backward
+before allowing the latter to dismount safely behind it. It cannot be recast
+while the crocodile is still active.
 %%%%
 Eruption spell
 
-Se divide la tierra para elaborar una Volcano localizada y de corta duración bajo el objetivo.
-
+Splits the earth to draw up a localised, short-lived volcano under the target.
 %%%%
 Fastroot spell
 
-Dispara una semilla mágica, enredando víctimas en raíces de árboles de rápido crecimiento. Aquellos
-enredados ser dolorosamente restringido hasta que escapen o las raíces se marchen
-lejos. Las raíces sólo brotan de terreno sólido.
-
+Fires a magical seed, entangling victims in quick-growing tree roots. Those
+entangled will be painfully constricted until they escape or the roots wither
+away. The roots will only sprout from solid ground.
 %%%%
 Flay spell
 
-Abre dolorosas heridas ilusionarias en el cuerpo del objetivo, que desaparecen después
-un corto tiempo o en la muerte de la casta. Esto no puede matar directamente, y es
-ineficaz contra objetivos no naturales.
-
+Opens painful illusionary wounds on the target's body, which disappear after
+a short time or on the death of the caster. This cannot kill directly, and is
+ineffective against unnatural targets.
 %%%%
 Fire Breath spell
 
-Respira una explosión de fuego contra una criatura dirigida.
-
+Breathes a blast of fire at a targeted creature.
 %%%%
 Fire Storm spell
 
-Llama a una poderosa tormenta de llama rugiente directamente sobre el objetivo, tratando
-daño en un área grande y dejar detrás de vórtices de fuego de corta duración. La mitad
-su daño evita la resistencia al fuego.
-
+Calls forth a mighty storm of roaring flame directly onto the target, dealing
+damage in a large area and leaving behind short-lived fire vortices. Half of
+its damage bypasses fire resistance.
 %%%%
 Fireball spell
 
-Arranca una bola explosiva de fuego.
-
+Hurls an explosive ball of fire.
 %%%%
 Flame Wave spell
 
-Deslumbra el entorno de la lanzador con una ola de fuego. Si el caster mantiene
-enfocar y suministrar el hechizo con poder mágico (esperando en el lugar y no
-tomar cualquier otra acción), más y más grandes ondas de llama irradian hacia fuera.
-
+Blasts the caster's surroundings with a wave of fire. If the caster maintains
+focus and supplies the spell with magical power (by waiting in place and not
+taking any other actions), more and larger flame waves will radiate outward.
 %%%%
 Flaming Cloud spell
 
-Conjura una gran nube de llamas rugientes.
-
+Conjures up a large cloud of roaring flames.
 %%%%
 Flash Freeze spell
 
-Congela el aire alrededor de un objetivo, causando daño significativo y ralentizando el
-El movimiento del objetivo por un corto tiempo. La mitad de su daño evita la resistencia al frío.
-
+Freezes the air around a target, causing significant harm and slowing the
+target's movement for a short time. Half of its damage bypasses cold resistance.
 %%%%
 Flashing Balestra spell
 
-Una sola alma de dentro de la armería salta, golpeando con su arma y
-entonces cavar independientemente por un corto tiempo antes de regresar al maelstrom
-una vez más.
-
+A single soul from within the armoury leaps out, striking with their weapon and
+then duelling independently for a short time before returning to the maelstrom
+once more.
 %%%%
 Fleetfoot spell
 
-Llama vientos para aumentar la velocidad de movimiento de la lanzador durante un corto período de tiempo.
-
+Calls forth winds to increase the caster's movement speed for a short duration.
 %%%%
 Force Lance spell
 
-Dispara un eje de fuerza concusiva. Si el impacto daña, puede golpear el
-Atrás. Si este golpe hace que el objetivo golpee una pared u otra
-criatura, ambos toman daño adicional.
-
+Fires a shaft of concussive force. If the impact deals damage, it may knock the
+target back. If this knockback causes the target to hit a wall or another
+creature, both will take additional damage.
 %%%%
 Forceful Invitation spell
 
-Invoca a algunas criaturas de uno de el Foso de las Serpientes, el Nido de Araña, el Pantano,
-los Bajos, los Salones Élficos, las Bóvedas, o la Cripta; la rama específica
-varía con la casta.
-
+Summons some creatures from one of the Snake Pit, the Spider Nest, the Swamp,
+the Shoals, the Elven Halls, the Vaults, or the Crypt; the specific branch
+varies with the caster.
 %%%%
 Forge Blazeheart Golem spell
 
-Construye una cáscara de hierro escoria alrededor de una chispa elemental volátil. Es capaz.
-de llover poderosos golpes en los adversarios de su creador - tan poderoso que
-el golem en sí es a menudo dañado por su impacto.
+Constructs a shell of slag iron around a volatile elemental spark. It is capable
+of raining down powerful blows on its creator's adversaries - so powerful that
+the golem itself is often damaged by their impact.
 
-Sólo tenuemente independiente de la magia de su creador, las llamas dentro de ella 
-Si los dos se dejan de lado. Si su caparazón es
-destruido mientras el golem sigue activo, su núcleo expuesto violentamente
-detonar un momento después.
+Only tenuously independent of its creator's magic, the flames within it will
+rapidly go dormant if the two ever leave each other's side. If its shell is
+destroyed while the golem is still active, its exposed core will violently
+detonate a moment later.
 
-Gana mayor daño explosivo a mayor potencia.
-
+It gains greater explosive damage at higher power.
 %%%%
 Forge Lightning Spire spell
 
-Construye un rayo inmóvil a una ubicación cercana. Esta inspiración
-descargas irregulares pernos de electricidad en los enemigos de la fundición, priorizando
-cualquiera de ellos está más distante de ella.
-
+Constructs an immobile lightning spire at a nearby location. This spire
+irregularly discharges bolts of electricity at the caster's foes, prioritizing
+whichever of them is most distant from it.
 %%%%
 Forge Monarch Bomb spell
 
-Construye una fábrica incendiaria voladora, empacada al borde con racimo
-bombas que puede desplegar tanto en melee como en lanzamiento a distancia. Mientras que
-Las bombas de monarca no tienen ningún ataque propio, ellos persiguen la lanzador
-enemigos hasta que se dé la señal para explotar.
+Constructs a flying incendiary factory, packed to the brim with cluster
+bomblets which it can deploy both in melee and launch at range. While the
+monarch's bomblets have no attack of their own, they will pursue the caster's
+enemies until given the signal to explode.
 
-Reproducir este hechizo mientras que todo lo que ha creado sigue activo 
-detonar la bomba monarca y todas las bombas, tratando una combinación de fuego y
-daño físico a todo lo adyacente a ellos además de la lanzador ellos mismos.
-
+Recasting this spell while anything it has created is still active will
+detonate the monarch bomb and all bomblets, dealing a combination of fire and
+physical damage to everything adjacent to them besides the caster themselves.
 %%%%
 Forge Phalanx Beetle spell
 
-Construye un pequeño guardián mecánico que refuerza la armadura de su creador
-clase por el tiempo que permanezca adyacente a ellos.
+Constructs a small mechanical guardian which bolsters its creator's armour
+class for as long as it remains adjacent to them.
 
-Aunque también es capaz de morder enemigos, el escarabajo phalanx nunca voluntariamente
-dejar el lado de su creador, y si se separa por la fuerza, prioritis
-a ellos por cualquier otra preocupación.
+While also capable of biting foes, the phalanx beetle will never voluntarily
+leave its creator's side, and if forcibly separated, will prioritise returning
+to them over any other concern.
 
-Spellpower aumenta la magnitud del aumento de AC, así como el escarabajo
-su propia durabilidad.
-
+Spellpower increases the magnitude of the AC increase, as well as the beetle's
+own durability.
 %%%%
 Fortress Blast spell
 
-Dibuja sobre la propia integridad física del caster para crear una onda de choque cinética
-que daña a los enemigos en un área grande. El caster está bloqueado para varios
-se convierte cuando la onda de choque comienza a formar, y el hechizo se cancela si
-son desplazados durante ese tiempo, pero pueden realizar otras acciones
-libremente.
+Draws upon the caster's own physical integrity to create a kinetic shockwave
+that damages foes in a large area. The caster is locked in place for several
+turns as the shockwave starts to form, and the spell will be cancelled if they
+are displaced during that time, but they may otherwise perform other actions
+freely.
 
-Spellpower hace que el hechizo se complete más rápidamente, pero daño depende
-completamente en el AC de la lanzador.
-
+Spellpower causes the spell to complete more quickly, but the damage depends
+entirely upon the caster's AC.
 %%%%
 Foxfire spell
 
-Conjura dos bolas de gas pantano quema junto a la lanzador. Las bolas 
-buscar rápidamente al monstruo más cercano y quemarlos. Ellos disipan inofensivamente
-si no es capaz de alcanzar un objetivo o si el caster intercambia lugares con ellos.
-
+Conjures two balls of burning swamp gas adjacent to the caster. The balls will
+rapidly seek the nearest monster and burn them. They will dissipate harmlessly
+if unable to reach a target or if the caster swaps places with them.
 %%%%
 Freeze spell
 
-Congela a una criatura adyacente, tratando el daño que daña cualquier armadura a la
-El objetivo puede tener. Esto puede temporalmente Slow criaturas de sangre fría.
-
+Freezes an adjacent creature, dealing damage that bypasses any armour the
+target may have. This may temporarily slow cold-blooded creatures.
 %%%%
 Freezing Cloud spell
 
-Conjura una gran nube de vapor lethally frío.
-
+Conjures up a large cloud of lethally cold vapour.
 %%%%
 Freezing Gust spell
 
-Dispara un perno penetrante de aire frito que deja nubes de frío lethally
-vapor en su velada.
-
+Fires a penetrating bolt of frigid air that leaves clouds of lethally cold
+vapour in its wake.
 %%%%
 Frozen Ramparts spell
 
-Encases que rodean paredes con hielo durante un corto tiempo. Foes que vagan cerca de
-paredes heladas se dañan, y esto puede temporalmente Slow criaturas de sangre fría.
-Cada víctima sólo se ve afectada por una pared helada a la vez.
+Encases surrounding walls with ice for a short time. Foes that wander near the
+icy walls will be damaged, and this may temporarily slow cold-blooded creatures.
+Each victim is only ever affected by one icy wall at a time.
 
-El hielo crack y caer si la casta se mueve a una nueva posición.
-
+The ice will crack and fall away if the caster moves to a new position.
 %%%%
 Fugue of the Fallen spell
 
-Llama a los restos persistentes de los muertos largos. Mientras que activo, cada uno
-enemigo no consumado la lanzador o sus aliados matan a atraer más vengativo
-almas en el arma de la lanzador, mejorando temporalmente su melee y variando
-eficacia. Cuando este bono alcanza su máximo, cada golpe desencadena un
-brillo del sufrimiento de los muertos, causando daño al dolor uno al otro enemigo adyacente
-a tu objetivo.
+Calls out to the lingering remnants of the long dead. While active, each
+non-summoned enemy the caster or their allies slays attracts more vengeful
+souls into the caster's weapon, temporarily enhancing their melee and ranged
+effectiveness. When this bonus reaches its maximum, every hit will unleash a
+glimmer of the dead's suffering, causing pain damage to each other foe adjacent
+to your target.
 
-Retransmitir este hechizo libera tu dominio sobre las almas que has atraído,
-reajustando cualquier bonificación que haya acumulado, y la onda cacofónica de los muertos
-puede atraer la atención no deseada incluso mientras la mantiene.
-
+Recasting this spell will release your grip on the souls you've attracted,
+resetting any bonus you've accumulated, and the cacophonous wailing of the dead
+may attract unwanted attention even while you maintain it.
 %%%%
 Fulminant Prism spell
 
-Conjura un prisma brillante de una aleación de oro blando inestable. Esto es inútil
-licitación legal, sin embargo, como por desgracia violentamente explota con arcane
-fuerza después de una corta duración. Si se destruye prematuramente, su explosión será mucho
-Más débil.
-
+Conjures a shining prism of an unstable soft gold alloy. This is useless as
+legal tender, however, as it will unfortunately violently explode with arcane
+force after a short duration. If destroyed prematurely, its blast will be much
+weaker.
 %%%%
 Fulsome Fusillade spell
 
-Un magnum opus de la química imprudente, este hechizo provoca un surfeit de
-reactivos volátiles para llover sobre sus enemigos. Para las próximas vueltas, arriba
-a 3 enemigos aleatorios a la vista ser golpeado por un beaker explosivo que inflige
-o fuego, frío, eléctrico o daño de veneno. Si alguna de estas explosiones
-la reacción resultante inflige aún mayor
-daño irresistible y a veces aplicar un estado borrador aleatorio sobre quienquiera
-está atrapado en la explosión.
+A magnum opus of reckless chemistry, this spell conjures up a surfeit of
+volatile reagents to rain down upon your enemies. For the next several turns, up
+to 3 random enemies in sight will be struck by an exploding beaker that inflicts
+either fire, cold, electric, or poison damage. If any of these explosions
+overlap each other, the resulting reaction will inflict even greater
+irresistible damage and sometimes apply a random deleterious status on whoever
+is caught in the blast.
 
-Este hechizo cuesta una pequeña cantidad de energía mágica de la lanzador cada vuelta a
-mantener, y mientras que nunca apuntar una explosión donde podría herir
-casta, los aliados de la casta (y cualquier otra cosa en la vecindad general) no son
-tan afortunado.
-
+This spell costs a small amount of the caster's magical energy each turn to
+maintain, and while it will never aim an explosion where it could hurt the
+caster, the caster's allies (and anything else in the general vicinity) are not
+so fortunate.
 %%%%
 Funeral Dirge spell
 
-Un canto ritual que brevemente roza a varios aliados no muertos cercanos para mover más
-rápido y golpe con mayor Might.
-
+A ritual chant that briefly rouses several nearby undead allies to move more
+swiftly and strike with greater might.
 %%%%
 Galvanic Breath spell
 
 <Galvanic Breath ability>
-
 %%%%
 Gell's Gavotte spell
 
-Brevemente reorienta la gravedad local para estar en una dirección cardinal de la lanzador
-eligiendo, haciendo que todas las criaturas a la vista tomen una distancia corta en eso
-dirección.
+Briefly reorients local gravity to be in a cardinal direction of the caster's
+choosing, causing all creatures in sight to tumble a short distance in that
+direction.
 
-La casta no es inmune a los efectos gravitatorios de este hechizo, pero 
-ser amortiguado así que no tienen daño de colisión. Otras criaturas no son así
-afortunado, y el impacto abrupto batir cualquier cosa que no era ya
-de pie junto a su nuevo "flor".
+The caster is not immune to the gravitational effects of this spell, but will
+be cushioned so they take no collision damage. Other creatures are not so
+fortunate, and the abrupt impact will batter anything which was not already
+standing beside its new 'floor'.
 
-Se necesita un corto tiempo para que la gravedad se estabilice lo suficiente para replantear este hechizo,
-aunque los magos más poderosos son capaces de hacerlo con más frecuencia.
-
+It takes a short time for gravity to stabilise enough to recast this spell,
+though more powerful mages are able to do so more frequently.
 %%%%
 Ghostly Fireball spell
 
-Abraza una bola explosiva de energía negativa que drena a cualquier criatura viviente
-Engullece.
-
+Hurls an exploding ball of negative energy which drains any living creature
+it engulfs.
 %%%%
 Ghostly Sacrifice spell
 
-Usa la esencia motivadora de un aliado para crear una explosión de energía negativa,
-drenando a cualquier criatura viviente que engulle. El ser usado para alimentar el hechizo, no
-importa si vivir o construir, se consume y no se hace en el proceso.
-
+Uses an ally's motivating essence to create a blast of negative energy,
+draining any living creature it engulfs. The being used to fuel the spell, no
+matter whether living or construct, is consumed and unmade in the process.
 %%%%
 Glacial Breath spell
 
 <Glacial Breath ability>
-
 %%%%
 Glaciate spell
 
-Conjura una poderosa explosión de hielo. Criaturas dentro de su área en forma de cono de
-efecto de los daños y perjuicios, con mayores daños a los cercanos
-Caster. Los golpeados por la explosión están envueltos en hielo, ralentizando su movimiento, y
-los muertos por la explosión pueden ser congelados en bloques sólidos de hielo. La mitad de su
-daño evita la resistencia fría.
-
+Conjures forth a mighty blast of ice. Creatures within its cone-shaped area of
+effect take damage, with higher damage being dealt to those close to the
+caster. Those hit by the blast are encased in ice, slowing their movement, and
+those killed by the blast may be frozen into solid blocks of ice. Half of its
+damage bypasses cold resistance.
 %%%%
 Gloom spell
 
-Emite una ola de perniciosa gloom que intenta ahogar la luz alrededor
-criaturas cercanas. Cualquier criatura viviente, demoníaca o santa atrapada en el efecto puede
-brevemente perder su vista y ser dejado tropiezo ciegamente.
+Emits a wave of pernicious gloom which attempts to smother the light around
+nearby creatures. Any living, demonic or holy creature caught in the effect may
+briefly lose their eyesight and be left stumbling blindly.
 
-El poder de la voluntad es inútil contra este hechizo, pero las criaturas más fuertes aún pueden encogerse
-sus efectos.
-
+Willpower is useless against this spell, but stronger creatures may still shrug
+off its effects.
 %%%%
 Grasping Roots spell
 
-Llama a las raíces gigantesca captación de profundos subterráneos que sostienen y limitan sus
-víctima. Las raíces retiro si la víctima se libera o si el callador se mueve
-fuera de vista.
-
+Calls giant grasping roots from deep underground that hold and constrict their
+victim. The roots will retreat if the victim breaks free or if the caller moves
+out of view.
 %%%%
 Grave Claw spell
 
-Llama el a pesar de los muertos recientemente para golpear a un enemigo objetivo con
-fragmentos de hueso. Este hechizo nunca falla, y marca su objetivo en lugar para
-varios giros, pero lanzarlo rápidamente consume los restos de la muerte que moran
-sobre la lanzador.
+Calls forth the spite of the recently dead to skewer a targeted enemy with
+shards of bone. This spell never misses, and will pin its target in place for
+several turns, but casting it rapidly consumes the remnants of death that linger
+upon the caster.
 
-Tú puede almacenar suficiente malicia para lanzar este hechizo a la mayoría de tres veces, y esto
-sólo se puede reponer causando la muerte de un número suficiente de vidas
-seres.
-
+You can stockpile enough malice to cast this spell at most three times, and this
+can only be replenished by causing the death of a sufficient number of living
+beings.
 %%%%
 Infernal Servant spell
 
-Invoca a un demonio mayor.
-
+Summons a major demon.
 %%%%
 Greater Ensnare spell
 
-Dispara una corriente de frotar a una criatura, enredándolas en una red pegajosa y
-dispersando webs adicionales cercanas que se disuelven después de una corta longitud de tiempo.
-
+Shoots a stream of webbing at a creature, ensnaring them in a sticky web and
+scattering additional webs nearby that dissolve after a short length of time.
 %%%%
 Hailstorm spell
 
-Conjura un cañón de granizo, golpeando criaturas cercanas que no logran esquivar.
-El ojo de la tormenta es lo suficientemente ancho que los monstruos adyacentes a la lanzador son
-no afectado. Debido al fuerte impacto y los bordes de corte, la mitad de su daño
-evita la resistencia fría.
-
+Conjures a cannonade of hail, battering nearby creatures that fail to dodge.
+The eye of the storm is wide enough that monsters adjacent to the caster are
+unaffected. Due to the strong impact and cutting edges, half of its damage
+bypasses cold resistance.
 %%%%
 Haste Other spell
 
-Acelera las acciones de un aliado cercano.
-
+Speeds the actions of a nearby ally.
 %%%%
 Harpoon Shot spell
 
-Dispara una larga y flexible masa de púas. La víctima enredada sea
-Sacó adyacente a la lanzador o collide con cualquier cosa que bloquee el camino.
-
+Fires a long and flexible barbed mass. The ensnared victim will either be
+pulled adjacent to the caster or collide with anything blocking the way.
 %%%%
 Haste spell
 
-Acelera las acciones de la casta.
-
+Speeds the actions of the caster.
 %%%%
 Haunt spell
 
-Llama a los espectros y fantasmas para perseguir el objetivo del castor. Sólo atacan
-la criatura que están persiguiendo, y disipa rápidamente una vez su objetivo
-muere. El número de espectros invocados aumenta con poder de hechizo.
-
+Calls wraiths and ghosts to haunt the caster's target. They will only attack
+the creature they are haunting, and will dissipate quickly once their target
+dies. The number of spectres summoned increases with spell power.
 %%%%
 Hellfire Court spell
 
-Invoca demonios de llama y condenación.
-
+Summons demons of flame and damnation.
 %%%%
 Hellfire Mortar spell
 
-Se divide el suelo frente a la lanzador y esculpe un arma aterradora
-fuera de roca fundida. Este mortero se mueve lentamente a lo largo del chasis lleno de lava,
-autónomamente lanzando gotas de magma a los enemigos de la lanzador como lo hace.
+Splits apart the ground in front of the caster and sculpts a terrifying weapon
+out of molten rock. This mortar will move slowly along the lava-filled chasm,
+autonomously launching gouts of magma at the caster's enemies as it does so.
 
-Cuando llega al final de su camino, o se obstruye en su movimiento por otro
-criatura, que se hunden de nuevo en la lava, y el chasm sello en sí mismo cerrado
-poco después.
-
+When it reaches the end of its path, or is obstructed in its movement by another
+creature, it will sink back into the lava, and the chasm will seal itself shut
+shortly thereafter.
 %%%%
 Heal Other spell
 
-Cura un aliado cercano.
-
+Heals a nearby ally.
 %%%%
 Hunting Call spell
 
-Inspira aliados cercanos para acelerar su movimiento.
-
+Inspires nearby allies to quicken their movement.
 %%%%
 Hurl Damnation spell
 
 <Hurl Damnation ability>
-
 %%%%
 Hurl Sludge spell
 
-Conjura una explosión enfocada de lodos altamente tóxicos, envenenando a la víctima y
-drenando sus alrededores. El lodo daña y envenena a todos los monstruos,
-incluso aquellos resistentes al veneno.
-
+Conjures a focused blast of highly toxic sludge, poisoning the victim and
+drenching their surroundings. The sludge damages and poisons all monsters,
+even those resistant to poison.
 %%%%
 Hoarfrost Bullet spell
 
-Dispara un trozo de hielo que recubre lo que sea que golpee con una capa de helada frágil
-que ralentiza su movimiento.
+Fires a shard of ice that coats whatever it hits with a layer of brittle frost
+which slows their movement.
 
-Cada disparo disparó agota la durabilidad restante del cañón, pero si
-sobrevive a disparar 5 veces, el disparo final fragmento para golpear a todos los enemigos alrededor
-el objetivo principal para daños adicionales.
-
+Each shot fired will deplete the cannon's remaining durability, but if it
+survives to fire 5 times, the final shot will fragment to hit all enemies around
+the primary target for additional damage.
 %%%%
 Hoarfrost Cannonade spell
 
-Esculpe un par de cañones helados que asaltan a los enemigos de la lanzador de largo alcance.
-Los duros fritos que disparan rápidamente cubren sus objetivos con una capa de brittle
-frost que ralentiza su movimiento.
+Sculpts a pair of icy cannons that assail the caster's enemies from long range.
+The frigid shards they fire rapidly coat their targets with a layer of brittle
+frost which slows their movement.
 
-Los cañones son de corta duración y consumen una parte de sí mismos con cada duro
-disparan, pero si sobreviven para disparar su salva definitiva sin interferencia,
-que sea extrapoderoso.
-
+The cannons are short-lived and consume a part of themselves with every shard
+they fire, but if they survive to fire their final salvo without interference,
+it will be extra-powerful.
 %%%%
 Holy Breath spell
 
-Exhala una gran nube de llama bendita, brillando con la gloria del bien
-dioses. Estas llamas son especialmente peligrosas para criaturas desenfrenadas y demoníacas,
-y no tienen efecto en las criaturas santas.
-
+Exhales a large cloud of blessed flame, shining with the glory of the good
+gods. These flames are especially dangerous to undead and demonic creatures,
+and have no effect on holy creatures.
 %%%%
 Holy Flames spell
 
-Trae a un enemigo en un anillo de llama bendita. Estas llamas son especialmente
-peligrosas para las criaturas no muertas y demoníacas, y no tienen efecto en las santas
-criaturas.
-
+Traps an enemy in a ring of blessed flame. These flames are especially
+dangerous to undead and demonic creatures, and have no effect on holy
+creatures.
 %%%%
 Hurl Torchlight spell
 
 Hurls a gout of umbral torchlight which deals irresistible damage to living,
-seres demoníacos y santos. El torchlight también faculta brevemente a cualquier amigo
-undead atrapado en su explosión y es inofensivo para aquellos que adoran Yredelemnul.
-
+demonic, and holy beings. The torchlight will also briefly empower any friendly
+undead caught in its blast and is harmless to those who worship Yredelemnul.
 %%%%
 Iceblast spell
 
-Dispara una gran masa de hielo, que explota en el impacto. La mitad de su daño
-evita la resistencia fría.
-
+Fires a large mass of ice, which explodes on impact. Half of its damage
+bypasses cold resistance.
 %%%%
 Ignite Poison spell
 
-Convierte todo veneno cercano en llamas líquidas, quemando criaturas envenenadas de
-dentro. También convierte las nubes de gases venenosos y mefáticos en llamas. El
-caster no se afecta directamente.
-
+Converts all nearby poison into liquid flame, burning poisoned creatures from
+within. It also turns clouds of poison and mephitic gases into flame. The
+caster is not affected directly.
 %%%%
 Ignition spell
 
-Todos los enemigos del entorno de la lanzador están envueltos en bolas de fuego. El caster
-y sus aliados están protegidos del fuego y nunca ser dañado por esto
-hechizo.
-
+All foes in the caster's surroundings are engulfed in balls of fire. The caster
+and their allies are protected from the fire and will never be harmed by this
+spell.
 %%%%
 Ill Omen spell
 
-Bendece el telar del destino contra un objetivo, infligiendo a Doom significativa. No.
-ser utilizado si hay alguna obstrucción entre la lanzador y su objetivo.
-
+Bends the weave of fate against a target, inflicting significant Doom. Cannot
+be used if there are any obstructions between the caster and their target.
 %%%%
 Infestation spell
 
-Llama una plaga de escarabajos, infestando criaturas afectadas por una duración
-dependiendo del poder y causando que los escarabajos de la muerte crezcan y reventen de ellos
-muerte.
-
+Calls forth a plague of scarabs, infesting affected creatures for a duration
+depending on power and causing death scarabs to grow and burst from them upon
+death.
 %%%%
 Injury Bond spell
 
-Ata la casta a los aliados cercanos, reduciendo todos los daños que toman a la mitad en
-intercambio por sufrimiento la mitad de los daños impedidos mismos.
-
+Binds the caster to nearby allies, reducing all damage they take by half in
+exchange for suffering half of the prevented damage themselves.
 %%%%
 Injury Mirror spell
 
-Refleja los daños causados por un corto período de tiempo, lastimando a los atacantes cuando el
-La lanzador daña. Después de que la duración se desgasta, la casta no puede fundir
-este hechizo de nuevo por un corto tiempo.
-
+Reflects damage taken for a short duration, hurting attackers whenever the
+caster takes any damage. After the duration wears off, the caster cannot cast
+this spell again for a short while.
 %%%%
 Ink Cloud spell
 
-Libera una nube gruesa de tinta a visión oscura.
-
+Releases a thick cloud of ink to obscure vision.
 %%%%
 Inner Flame spell
 
-Llena a un enemigo con un fuego intenso. Este incendio se libera en cualquier momento.
-es golpeado, y explosivamente liberado tras la muerte. El tamaño de la explosión causada
-depende del tamaño del objetivo.
-
+Fills an enemy with an intense fire. This fire is released any time the target
+is hit, and explosively released upon death. The size of the explosion caused
+is dependent on the size of the target.
 %%%%
 Invisibility spell
 
-Hace invisible la casta.
-
+Turns the caster invisible.
 %%%%
 Invisibility Other spell
 
-Se vuelve un aliado cercano invisible.
-
+Turns a nearby ally invisible.
 %%%%
 Iron Shot spell
 
-Hurls un gran y pesado metal.
-
+Hurls a large and heavy metal shot.
 %%%%
 Irradiate spell
 
-Transmuta una capa ultrafina de la piel del caster (o equivalente) directamente
-en energía mágica pura, explosión de criaturas adyacentes. Puede deformarse
-sus víctimas, debilitándolas y reduciendo su armadura. La fundición no se deja
-completamente inafectado; algunos de los llaneros mágicos, lo suficiente para dejarlos
-peligrosamente contaminada después de unas cuantas castings.
-
+Transmutes an ultra-thin layer of the caster's skin (or equivalent) directly
+into pure magical energy, blasting adjacent creatures. It may heavily deform
+its victims, weakening them and reducing their armour. The caster is not left
+entirely unaffected; some of the magic lingers, enough to leave them
+dangerously contaminated after a few castings.
 %%%%
 Iskenderun's Battlesphere spell
 
-Conjura a un pequeño globo de energía destructiva. Cada vez que su creador lanza un
-hechizo ofensivo, la esfera de batallas también dispara un voleibol infalible de energía
-el enemigo más herido cerca puede llegar.
+Conjures a small globe of destructive energy. Each time its creator casts a
+offensive spell, the battlesphere will also fire an unerring volley of energy at
+the most injured nearby foe it can reach.
 
-El creador de la batalla puede disparar libremente a través de su posición sin dañar
-Es.
-
+The battlesphere's creator can freely fire through its position without harming
+it.
 %%%%
 Iskenderun's Mystic Blast spell
 
-Detona una esfera de la energía destructiva. La explosión...
-monstruos cercanos con fuerza física, golpeándolos de nuevo si se hace daño.
-Spellpower aumenta el daño y la distancia de retroceso.
-
+Detonates a crackling sphere of destructive energy. The explosion will hit all
+nearby monsters with physical force, knocking them back if damage is done.
+Spellpower increases damage and knockback distance.
 %%%%
 Jinxbite spell
 
-Llama la atención de los espíritus tramposos. Mientras que sostiene, los espíritus 
-seguimiento de los ataques de la lanzador. Si el hechizo supera la voluntad de las víctimas,
-ellos sufren daños menores y ser drenado por la malicia juguetona de los sprites.
+Calls the attention of trickster spirits. While it holds, the spirits will
+follow up on the caster's attacks. If the spell overcomes victims' willpower,
+they will suffer minor damage and be drained by the sprites' playful malice.
 
-Sin embargo, la asistencia falsa es insensata; no pueden ser aprehendidas a menos que sea susceptible
-la víctima es visible, y partir rápidamente una vez que ya no quedan. Llamando a la
-Fae también reduce la fuerza de voluntad de la lanzador por un tiempo.
-
+Fae assistance is fickle, however; they cannot be beckoned unless a susceptible
+victim is visible, and will depart rapidly once no more remain. Calling on the
+fae also reduces the caster's own willpower for a time.
 %%%%
 Kinetic Grapnel spell
 
-Ojea un fino filamento cinético alrededor del arma de la fundición y lanza el
-otro extremo en un enemigo cercano. Si este grapnel golpea y hace
-dañino, que se aloja en ellos, permitiendo que la próxima melee ataque la caster
-realiza contra ellos para golpear con la precisión perfecta y un pequeño bono de asesinato.
-
+Weaves a thin kinetic filament around the caster's melee weapon and launches the
+other end of it at a nearby enemy. If this grapnel successfully hits and does
+damage, it will become lodged in them, allowing the next melee attack the caster
+performs against them to strike with perfect accuracy and a small slaying bonus.
 %%%%
 Volatile Blastmotes spell
 
-Trae una nube de blastmotes volátiles alrededor de la lanzador. Estas explotan
-en contacto con llama abierta o con criaturas - incluyendo cualquier caster tonto
-¡Lo suficiente como para mentirles! La explosión es concusiva, golpeando al lado
-criaturas lejos. El daño hecho aumenta con el poder del hechizo.
-
+Brings forth a cloud of volatile blastmotes around the caster. These explode
+on contact with open flame or with creatures - including any caster foolish
+enough to linger in them! The explosion is concussive, knocking adjacent
+creatures away. Damage done rises with the spell's power.
 %%%%
 Landbreaker spell
 
-Fracturas violentamente el paisaje, causando que los escombros caigan sobre varios cercanos
-enemigos y también la tierra detrás de ellos - obstruyendo su camino para huir
-Caster.
-
+Violently fractures the landscape, causing rubble to fall upon several nearby
+enemies and also the ground behind them - obstructing their path to flee the
+caster.
 %%%%
 Launch Bomblet spell
 
-Dispara una bomba en una trayectoria balística que ignora la línea de fuego, tratando
-daños menores a un solo objetivo dentro del alcance y el despliegue del bombardero cerca de él.
+Fires a bomblet on a ballistic trajectory that ignores line of fire, dealing
+minor damage to a single target within range and deploying the bomblet near it.
 
-No se puede atacar enemigos adyacentes a la lanzador o aquellos que no tienen espacio cercano para
-la bomba a tierra.
-
+Cannot target enemies adjacent to the caster or those with no nearby room for
+the bomblet to land.
 %%%%
 Launch Clockwork Bee spell
 
-Construye una abeja mecánica y enrolla sus mecanismos de relojería sobre varios
-se vuelve antes de desencadenarlo contra un enemigo objetivo. La abeja es rápida y
-poderoso, pero su reloj termina rápidamente mientras ataca, eventualmente dejando
-indefenso e incapaz de moverse.
+Constructs a mechanical bee and winds its clockwork mechanisms over several
+turns before unleashing it against a targeted foe. The bee is swift and
+powerful, but its clockwork quickly winds down as it attacks, eventually leaving
+it helpless and unable to move.
 
-La fundición puede reparar y rebobinar una abeja dormida al intentar entrar en ella, en
-el costo de 1 MP.
+The caster may repair and rewind a dormant bee by attempting to move into it, at
+the cost of 1 MP.
 
-El poder de pago aumenta el número de ataques que la abeja puede realizar antes de ir
-inactivo.
-
+Spellpower increases the number of attacks the bee may perform before going
+dormant.
 %%%%
 Launch Sporangium spell
 
-Lanza un esporangio caustico que persigue cualquier fuente intrigante
-nutrientes - como tú mismo - y engullarlos en una explosión ácido masiva.
-Plasmodia naciente, capaz de disparar ácido propio, puede tener raíces en cualquier
-paredes esta explosión toca - aunque ninguna dentro de 2 fichas de cualquier otro.
-
+Launches a caustic sporangium which will pursue any intriguing sources of
+nutrients - such as yourself - and engulf them in a massive acidic explosion.
+Nascent plasmodia, capable of firing acid of their own, may take root on any
+walls this explosion touches - though none within 2 tiles of any other.
 %%%%
 Leda's Liquefaction spell
 
-Licua el suelo alrededor de la lanzador, lo que hace difícil pasar.
-Cualquier movimiento a través del suelo licuado se ralentiza, y las criaturas atrapados en
-el terreno licuado no puede Fly. Intentos de atacar al caster
-en melee puede fallar.
+Liquefies the ground around the caster, making it difficult to move through.
+Any movement through liquefied ground will be slowed, and creatures stuck in
+the liquefied ground will be unable to fly. Attempts to attack the caster
+in melee may fail.
 
-El efecto comienza con un radio dependiendo del poder, que luego se contraen,
-eventualmente cubriendo sólo la lanzador, antes de que se fije. Mantener el
-La conexión al suelo frena el movimiento de la lanzador, incluso si están volando.
-
+The effect starts out with a radius depending on power, which will then shrink,
+eventually covering only the caster, before it times out. Maintaining the
+connection to the ground slows the caster's movement, even if they are flying.
 %%%%
 Lee's Rapid Deconstruction spell
 
-Fragmentos de una pared o un monstruo visible bastante frágil en una explosión
-Metralla mortal. Se puede utilizar en monstruos hechos de hielo, hueso o cualquier pared-como
-sustancia, así como los convertidos en piedra por petrificación. Su daño es
-fuertemente reducido por armadura.
+Fragments a wall or a suitably brittle visible monster into an explosion of
+deadly shrapnel. It can be used on monsters made of ice, bone, or any wall-like
+substance, as well as those turned to stone by petrification. Its damage is
+strongly reduced by armour.
 
-Los objetivos hechos de roca, piedra, hielo o hueso causan una pequeña explosión. Metal
-blancos causan una pequeña pero más dañina explosión, y objetivos hechos de
-cristal causa una explosión grande y más dañina.
-
+Targets made from rock, stone, ice or bone will cause a small explosion. Metal
+targets will cause a small but more damaging explosion, and targets made from
+crystal will cause a large and more damaging explosion.
 %%%%
 Legendary Destruction spell
 
-Conjura dos efectos mágicos explosivos en la sucesión instantánea. Los efectos pueden
-ser cualquier mezcla de bola de fuego, hielo y bola de fuego fantasma.
-
+Conjures two explosive magical effects in instant succession. The effects can
+be any mix of Fireball, Iceblast, and Ghostly Fireball.
 %%%%
 Lehudib's Crystal Spear spell
 
-Hurls a lethally sharp shard of Crystal.
-
+Hurls a lethally sharp shard of crystal.
 %%%%
 Lesser Beckoning spell
 
-Beckons el objetivo adelante, tratando de colocarlos junto a la lanzador.
-
+Beckons the target forward, attempting to place them adjacent to the caster.
 %%%%
 Lightning Bolt spell
 
-Dispara un poderoso rayo penetrante. Su daño supera la mitad de
-armadura de los defensores, y puede ser rebotado de las paredes para golpear objetivos dos veces.
-
+Fires a mighty bolt of lightning. Its damage bypasses half of defenders'
+armour, and it can be bounced off walls to hit targets twice.
 %%%%
 Magic Dart spell
 
-Dispara un pequeño tornillo de energía mágica que nunca falla.
-
+Fires a small bolt of magical energy which never misses.
 %%%%
 Magma Barrage spell
 
-Fuegos penetrando pernos de roca fundida hasta dos objetivos enemigos diferentes.
-La mitad de su daño evita la resistencia al fuego.
-
+Fires penetrating bolts of molten rock at up to two different enemy targets.
+Half of its damage bypasses fire resistance.
 %%%%
 Magnavolt spell
 
-Envuelve un objetivo en una capa delgada de fragmentos de metal cargados magnéticamente, luego
-desata un poderoso aumento de la electricidad que arcs irrestrictamente hacia cada
-blanco visible recubierto en estos fragmentos - disparando un rayo adicional en cada uno
-objetivo marcado así.
+Envelops a target in a thin layer of magnetically charged metal fragments, then
+unleashes a powerful surge of electricity that arcs unerringly towards every
+visible target coated in these fragments - firing an additional beam at each
+target thus marked.
 
-Las criaturas magnetizadas no pueden evadir ataques y ser
-revelado si invisible. Si mueren mientras todavía están cubiertos, ellos dejar detrás de una
-nube corta de metal electrificado que continúan sirviendo como
-barra de relámpago para este hechizo.
-
+Magnetised creatures are additionally unable to evade attacks and will be
+revealed if invisible. If they die while still coated, they will leave behind a
+short-lived cloud of electrified metal that will continue to serve as a
+lightning rod for this spell.
 %%%%
 Major Destruction spell
 
-Dispara un rayo dañino al azar o explosión en la criatura dirigida.
-
+Shoots a random harmful beam or explosion at the targeted creature.
 %%%%
 Major Healing spell
 
-Cura una gran cantidad de daño al cuerpo de la lanzador.
-
+Heals a large amount of damage to the caster's body.
 %%%%
 Malign Gateway spell
 
-Tears a gash en realidad, creando un portal autosostenido pero temporal a un
-desconocido, contaminado en el otro mundo. Se requiere espacio abierto para tener éxito. Después de un corto
-tiempo, un poderoso tentáculo garratado llegar a través del portal, restante
-a la sección Willde la lanzador por una duración dependiendo del poder. Con el portal
-vencimiento, el tentáculo ser cortado y encender la lanzador. La duración del
-el portal aumenta con poder de hechizo.
-
+Tears a gash in reality, creating a self-sustained but temporary portal to an
+unknown, tainted otherworld. It requires open space to succeed. After a short
+time, a powerful clawed tentacle will reach through the portal, remaining bound
+to the caster's will for a duration depending on power. With the portal's
+expiry, the tentacle will be severed and turn on the caster. The duration of
+the portal increases with spell power.
 %%%%
 Malign Offering spell
 
-Dibuja la vida de un enemigo, curando aliados cercanos en el proceso.
-
+Drains life from an enemy, healing nearby allies in the process.
 %%%%
 Malmutate spell
 
-Le otorga una mutación a un objetivo. La mutación es casi siempre dañina. It
-no puede afectar a los seres artificiales, y el no-muerto se descompone si se ve afectado.
-
+Bestows a mutation on a target. The mutation is almost always harmful. It
+cannot affect artificial beings, and the undead will decompose if affected.
 %%%%
 Manifold Assault spell
 
-Espacio Warps en configuraciones paradójicas para golpear a muchos enemigos visibles con
-un melee ataque. El poder aumenta el número de enemigos atacados con un yeso,
-aunque los ataques desarmados golpean sólo la mitad de los objetivos a la vez, como más
-se debe tener cuidado cuando se ordena sus propias extremidades.
+Warps space into paradoxical configurations to strike many visible foes with
+one melee attack. Power increases the number of foes attacked with one cast,
+though unarmed attacks strike only half as many targets at once, as additional
+care must be taken when warping one's own limbs.
 
-El tiempo tomado para el ataque es exactamente el mismo que un ataque normal.
-Los ataques realizados de esta manera nunca fallan, pero el punto exacto no puede
-controlado precisamente, haciéndolos incapaces de hacer daños adicionales contra la insuspección
-enemigos.
-
+The time taken for the attack is exactly the same as a normal melee attack.
+Attacks performed this way never miss, but the exact spot struck cannot be
+controlled precisely, making them unable to do extra damage against unsuspecting
+foes.
 %%%%
 Mara Summon spell
 
-Oiga ilusiones de la lanzador. Tales ilusiones tienen la misma proeza física
-como el original, y puede lanzar los mismos hechizos.
-
+Weaves illusions of the caster. Such illusions have the same physical prowess
+as the original, and can cast the same spells.
 %%%%
 March of Sorrows spell
 
-Conjura una corriente de sufrimiento robado, dejando nubes de miseria atroz en
-su velada y sus objetivos. Estas nubes de energía negativa rápidamente
-Drain la vida de pequeñas fracciones de su salud máxima.
-
+Conjures a stream of stolen suffering, leaving clouds of excruciating misery in
+its wake and around its targets. These clouds of negative energy will rapidly
+drain the living of small fractions of their maximum health.
 %%%%
 Marshlight spell
 
-Conjura dos bolas de gas pantano quema junto a la lanzador. Las bolas 
-buscar rápidamente al monstruo más cercano y quemarlos. Los asistentes intentaron copiar esto
-con el hechizo 'Foxfire', pero su versión es mucho menos poderosa.
-
+Conjures two balls of burning swamp gas adjacent to the caster. The balls will
+rapidly seek the nearest monster and burn them. Wizards attempted to copy this
+with the spell 'Foxfire', but their version is much less powerful.
 %%%%
 Martyr's Knell spell
 
-Beca el alma de un mártir de larga data para proteger a tus aliados por un tiempo.
-Esta alma sufre una porción del daño que sus aliados recibirían de otro modo.
+Beckons forth the soul of a long-dead martyr to shield your allies for a time.
+This soul suffers a portion of the damage your allies would otherwise receive.
 
-Si es asesinado (¡de nuevo!), se transforma en un fantasma muerto, infligiendo
-heridas ilusorias en enemigos. Tales heridas son fugaces, y desaparecen cuando el
-El fantasma sale - a menos que mate a sus víctimas primero.
-
+If it is slain (again!), it will transform into a flayed ghost, inflicting
+illusory wounds on foes. Such wounds are fleeting, and will disappear when the
+ghost departs - unless you kill its victims first.
 %%%%
 Mass Confusion spell
 
-Causa confusión en todos los que miran a la lanzador.
-
+Causes confusion in all who gaze upon the caster.
 %%%%
 Mass Regeneration spell
 
-Causas Aliados monstruos cercanos para regenerarse rápidamente en un corto período de
-tiempo. Esta regeneración es proporcional a cada una de las criaturas
-salud.
-
+Causes all allied monsters nearby to rapidly regenerate over a short period of
+time. This regeneration is proportional to each of those creature's maximum
+health.
 %%%%
 Maxwell's Capacitive Coupling spell
 
-Gradualmente construye carga eléctrica en la casta, siempre y cuando mantengan
-enfoque (esperando en su lugar y no tomando ninguna otra acción). Cuando un umbral
-es alcanzado, las parejas de carga con el enemigo más cercano, vaporizando instantáneamente.
-Superior poder de hechizo permite a la lanzador acumular carga más rápidamente. El
-el hechizo requiere un objetivo visible para comenzar a acumular carga, aunque diferente
-El enemigo puede ser apuntado cuando el cargo es liberado.
-
+Gradually builds up electric charge in the caster, so long as they maintain
+focus (by waiting in place and not taking any other actions). When a threshold
+is reached, the charge couples with the nearest foe, vaporising them instantly.
+Higher spell power will allow the caster to accumulate charge more rapidly. The
+spell requires a visible target to begin accumulating charge, though a different
+foe may be targeted when the charge is released.
 %%%%
 Maxwell's Portable Piledriver spell
 
-Comprende un sobre de espacio alrededor de la casta y un enemigo adyacente (o un
-línea contigua de enemigos), entonces le permite descomprimir abruptamente, empujando
-todo el mundo adelante hasta que el desafortunado ser al final colisiona con
-algo sólido, infligiendo daño proporcional a la distancia
-Viajó.
-
+Compresses an envelope of space around the caster and an adjacent enemy (or a
+contiguous line of enemies), then allows it to decompress abruptly, propelling
+everyone forward until the unfortunate being at the far end collides with
+something solid, inflicting damage on them proportional to the distance
+travelled.
 %%%%
 Mephitic Cloud spell
 
-Conjura un frasco frágil que explota en nubes de corta vida de gases nocivos.
-Estas nubes pueden causar confusión en cualquier criatura no resistente al veneno.
-Las criaturas más duras y experimentadas tienen menos probabilidades de ser afectadas.
-
+Conjures a fragile flask that explodes into short-lived clouds of noxious fumes.
+These clouds may cause confusion in any creature not resistant to poison.
+Tougher, more experienced creatures are less likely to be affected.
 %%%%
 Mesmerise spell
 
-Intenta entrar a todos los enemigos a la vista. Los aventureros que no resisten 
-ser incapaz de alejarse de la lanzador, mientras que otras criaturas se vuelven
-aturdido.
+Attempts to entrance all enemies in sight. Adventurers who fail to resist will
+become unable to move away from the caster, while other creatures will become
+dazed outright.
 
-Dejar la línea de visión de la lanzador terminar el efecto de control del movimiento.
-
+Leaving the caster's line of sight will end the movement-controlling effect.
 %%%%
 Metabolic Englaciation spell
 
-Reduce la tasa metabólica de cada criatura en los alrededores de la lanzador, disminuyendo
-todos aquellos que no son resistentes al frío. Criaturas de sangre fría Ser
-afecta mucho más fuerte, y las criaturas más duras se ralentiza para un
-Tiempo más corto.
-
+Lowers the metabolic rate of every creature in the caster's vicinity, slowing
+all those who are not resistant to cold. Cold-blooded creatures will be
+affected much more strongly, and tougher creatures will be slowed for a
+shorter time.
 %%%%
 Metal Splinters spell
 
-Dispara una explosión de espinillas metálicas. Su daño se reduce fuertemente por armadura.
-
+Fires a burst of metal splinters. Its damage is strongly reduced by armour.
 %%%%
 Miasma Breath spell
 
-Crea una gran nube de pestilencia, envenenamiento y, a veces, ralentizar cualquier
-criaturas vivientes que toca.
-
+Creates a large cloud of foul pestilence, poisoning and sometimes slowing any
+living creatures it touches.
 %%%%
 Might Other spell
 
-Aumenta significativamente el daño causado por un aliado cercano en la melee.
-
+Significantly increases a nearby ally's damage dealt in melee.
 %%%%
 Might spell
 
-Aumenta significativamente daño de la lanzador en la melee.
-
+Significantly increases the caster's damage in melee.
 %%%%
 Mindburst spell
 
-Lanza un ataque psíquico. Si supera la voluntad de la víctima,
-'blows their mind' en una manera violentamente literal, tratando daño que
-pasa la armadura por completo. Es inútil contra criaturas sin sentido.
-
+Launches a psychic attack. If it overcomes the victim's willpower, it
+'blows their mind' in a violently literal fashion, dealing damage that
+bypasses their armour entirely. It is useless against mindless creatures.
 %%%%
 Minor Healing spell
 
-Cura una pequeña cantidad de daño al cuerpo de la lanzador.
-
+Heals a small amount of damage to the caster's body.
 %%%%
 Monstrous Menagerie spell
 
-Invoca una poderosa criatura exótica a la ayuda de la lanzador: un manticore, un
-lindwurm, o un marauder de esfinge.
-
+Summons a powerful exotic creature to the caster's aid: either a manticore, a
+lindwurm, or a sphinx marauder.
 %%%%
 Mercury Arrow spell
 
-Conjura una flecha de mercurio elemental que trata directamente daño de veneno a
-lo que sea que golpee y también puede debilitar sus ataques de melee por un corto tiempo.
+Conjures an arrow of elemental mercury which deals direct poison damage to
+whatever it hits and may also weaken their melee attacks for a short while.
 
-La fuerza física de la flecha inflige una pequeña cantidad de daño incluso a aquellos
-inmune al veneno, y el efecto debilitante puede salpicarse a objetivos adyacentes y
-ignora la resistencia al veneno.
-
+The physical force of the arrow inflicts a small amount of damage even to those
+immune to poison, and the weakening effect can splash to adjacent targets and
+ignores poison resistance altogether.
 %%%%
 Mourning Wail spell
 
-Exhala una corriente de dolor olvidado, dejando nubes de miseria atroz en
-su velada pero saltando criaturas pasadas que serían vulnerables a ella. Éstos
-clouds of energía negativa quickly Drain the living of small fractions of
-su salud máxima.
-
+Exhales a stream of forgotten grief, leaving clouds of excruciating misery in
+its wake but skipping past creatures that would be vulnerable to it. These
+clouds of negative energy will rapidly drain the living of small fractions of
+their maximum health.
 %%%%
 Mud Breath spell
 
 <Mud Breath ability>
-
-%%%%
-Murky Legion spell
-
-Invoca algunos fulgores brillantes, que propagan tanto la contaminación mágica como
-agua poco profunda en un solo ataque antes de desaparecer.
-
 %%%%
 Mutagenic Gaze spell
 
-Causa energía mutagénica para acumularse en un objetivo, alcanzando finalmente niveles
-lo suficientemente alto para causar mutaciones dañinas o explosiones de energía mágica inestable.
+Causes mutagenic energy to accumulate in a target, eventually reaching levels
+high enough to cause harmful mutations or explosions of unstable magical energy.
 
-Este hechizo requiere línea de visión pero no línea de fuego.
-
+This spell requires line of sight but not line of fire.
 %%%%
 Nazja's All-Purpose Tempering spell
 
-Manifiesta un martillo mágico que repara y aumenta temporalmente la ofensiva
-capacidades de cualquier construcción cercana - ya sea golem o escarabajo phalanx o incluso
-arma de baile. Este proceso da lugar a una oscilación de chispas, escorias y concusivas
-ondas de choque que hacen daño considerable a cualquier enemigo adyacente al objetivo
-construir, pero no puede recast sobre el mismo objeto hasta la mejora
-se desgasta.
-
+Manifests a magical hammer that repairs and temporarily augments the offensive
+capabilities of any nearby construct - be it golem or phalanx beetle or even
+dancing weapon. This process results in a flurry of sparks, slag, and concussive
+shockwaves that do considerable damage to any enemies adjacent to the targeted
+construct, but it cannot be recast upon the same object until the enhancement
+wears off.
 %%%%
 Nazja's Percussive Tempering spell
 
-Manifiesta un martillo mágico que repara y aumenta temporalmente la ofensiva
-capacidades de cualquier construcción que fue creada por la propia Forgecraft
-hechizos. Este proceso da lugar a una oscilación de chispas, escorias y concusivas
-ondas de choque que hacen daño considerable a cualquier enemigo adyacente al objetivo
-construir, pero no puede recast sobre el mismo objeto hasta la mejora
-se desgasta.
-
+Manifests a magical hammer that repairs and temporarily augments the offensive
+capabilities of any construct that was created by the caster's own Forgecraft
+spells. This process results in a flurry of sparks, slag, and concussive
+shockwaves that do considerable damage to any enemies adjacent to the targeted
+construct, but it cannot be recast upon the same object until the enhancement
+wears off.
 %%%%
 Noxious Breath spell
 
 <Noxious Breath ability>
-
 %%%%
 Noxious Cloud spell
 
-Crea una gran nube de gases nocivos, que puede causar confusión.
-
+Creates a large cloud of noxious fumes, which may cause confusion.
 %%%%
 Nullifying Breath spell
 
 <Nullifying Breath ability>
-
 %%%%
 Olgreb's Toxic Radiance spell
 
-Causa la fundición para irradiar energía tóxica, infligiendo continuamente veneno
-todo en línea de visión durante tanto el hechizo dure.
-
+Causes the caster to radiate toxic energy, continuously inflicting poison on
+everything in line of sight for as long as the spell lasts.
 %%%%
 Orb of Destruction spell
 
-Conjura un orbe hecho de pura magia destructiva. Comparado con la mayoría de los demás
-proyectiles, estos orbes viajan a un ritmo relativamente Slow. Los orbes a casa
-sus objetivos, sin embargo debido a su enorme inercia, especialmente los opositores ágiles
-puede ser capaz de superarlos. Los orbes necesitan tiempo para estabilizarse, y un
-nascent orb trato reducido daño.
+Conjures an orb made of pure destructive magic. Compared to most other
+projectiles, these orbs travel at a relatively slow pace. The orbs home onto
+their targets, yet because of their huge inertia, especially agile opponents
+may be able to outmanoeuvre them. The orbs need some time to stabilise, and a
+nascent orb will deal reduced damage.
 
-Los residentes de la Mazmorra pueden mantener el Orbe hasta que impacte a
-blanco, pero cuando es lanzado por tú el Orbe disipate al dejar su línea de
-Mira.
-
+Residents of the dungeon are able to maintain the orb until it impacts a
+target, but when cast by you the orb will dissipate upon leaving your line of
+sight.
 %%%%
 Orb of Electricity spell
 
-Abraza un orbe de crackling de energía eléctrica, creando una enorme explosión en
-impacto. Su daño daña a la mitad de la armadura de los defensores.
-
+Hurls a crackling orb of electrical energy, creating a huge explosion on
+impact. Its damage bypasses half of defenders' armour.
 %%%%
 Ostracise spell
 
-Aisla un blanco de lo divino - reduciendo temporalmente su piedad en los ojos
-de cualquier dios que ellos adoran y negarles acceso a cualquier habilidad divina
-esa piedad lo permitiría. Ser afectado repetidamente por este hechizo reduce el
-una piedad efectiva más y más allá, pero nunca puede conducir directamente a
-excomunión.
+Isolates a target from the divine - temporarily reducing their piety in the eyes
+of whichever god they worship and denying them access to any divine abilities
+that piety would allow. Being repeatedly affected by this spell will reduce the
+one's effective piety further and further, but can never directly lead to
+excommunication.
 
-Este efecto desgasta lentamente como el ser afligido gana experiencia,
-eventualmente restaurando el acceso a toda la piedad que poseían una vez.
-
+This effect will slowly wear off as the afflicted being gains experience,
+eventually restoring access to the full piety they once possessed.
 %%%%
 Ozocubu's Armour spell
 
-Envuelve el cuerpo de la fundición en una capa protectora de hielo grueso, otorgando una
-bonificación sustancial para armar mientras permanezcan en su ubicación actual.
-El hielo crack y caer si la casta se mueve a una nueva posición. El
-disminución del hechizo en la eficacia en armadura más pesado, otorgando un bono menor
-más alto el grado de encumbrancia de la armadura de la lanzador.
-
+Envelops the caster's body in a protective layer of thick ice, granting a
+substantial bonus to armour as long as they remain in their current location.
+The ice will crack and fall away if the caster moves to a new position. The
+spell decreases in effectiveness in heavier armour, granting a lower bonus the
+higher the encumbrance rating of the caster's armour.
 %%%%
 Ozocubu's Refrigeration spell
 
-Gira el aire amargamente frío, congelando a todas las demás criaturas en línea de visión.
-Esto es menos eficaz contra las criaturas empacadas apretadamente juntas - aquellas
-adyacente a sus aliados ser parcialmente aislado del frío, tomando menos
-daño.
-
+Turns the air bitterly cold, freezing all other creatures in line of sight.
+This is less effective against creatures packed tightly together - those
+adjacent to their allies will be partly insulated from the cold, taking less
+damage.
 %%%%
 Pain spell
 
-Inflige una lesión extremadamente dolorosa a una criatura viviente.
-
+Inflicts an extremely painful injury upon one living creature.
 %%%%
 Paralyse spell
 
-Evita que una criatura tome cualquier acción por un corto tiempo.
-
+Prevents a creature from taking any action for a short time.
 %%%%
 Paralysis Gaze spell
 
-Inresistiblemente impide que una criatura tome cualquier acción por un corto tiempo,
-Requiriendo múltiples cargos pero no línea de fuego.
-
+Irresistibly prevents a creature from taking any action for a short time,
+requiring multiple charges but not line of fire.
 %%%%
 Passage of Golubria spell
 
-Abre dos portales (uno siempre cerca de la casta), que permiten instantáneamente
-transporte al azar otras puertas abiertas a cualquier criatura que los ingrese. Hay
-no limite al número de portales que pueden abrirse en un momento. Sin embargo,
-las puertas cierran un corto tiempo después de ser abiertas, o inmediatamente una vez ingresadas.
-
+Opens two gateways (one always near the caster), which allow instantaneous
+transport to random other open gateways to any creature entering them. There is
+no limit to the number of gateways that can be open at one time. However,
+gateways close a short time after being opened, or immediately once entered.
 %%%%
 Passwall spell
 
-Permite que la casta viaje a corta distancia a través de una pared de roca adyacente y
-emerger de nuevo en el otro lado. Este hechizo tarda un poco en lanzar,
-durante el cual el caster no puede actuar, pero también ganar mayor armadura
-de su attunement a la roca.
-
+Allows the caster to travel a short distance through an adjacent rock wall and
+emerge again on the other side. This spell takes an unusally long time to cast,
+during which the caster will be unable to act, but also gain increased armour
+from their attunement to the rock.
 %%%%
 Permafrost Eruption spell
 
-Llama al antiguo frío acechando dentro de la tierra para emerger - violentamente. El
-fuerza de su emergencia explosión roca desde el techo, golpeando el objetivo
-con fuerza inevitable. El frío en sí es breve pero insoportablemente amargo,
-Pasando la armadura enteramente mientras congela el objetivo y sus vecinos.
+Calls on the ancient cold lurking within the earth to emerge - violently. The
+force of its emergence blasts rock from the ceiling, smashing into the target
+with unavoidable force. The cold itself is brief but unbearably bitter,
+bypassing armour entirely as it freezes the target and their neighbours.
 
-siempre intentan volar la mayor concentración de enemigos a la vista, y
-Nunca explota al lado de la lanzador.
-
+It will always attempt to blast the largest concentration of foes in sight, and
+never explodes next to the caster.
 %%%%
 Petrify spell
 
-Petrifica a una criatura dirigida y hasta dos otros enemigos en una cadena. Aquellas
-no debe hacer que el para resistir se ralentice brevemente, y luego se vuelva a la piedra.
-Hasta que regresen a la carne, son incapaces de actuar, pero también toman medio daño.
-El poder del hechizo se disminuye contra objetivos secundarios.
-
+Petrifies a targeted creature and up to two other foes in a chain. Those which
+do not muster the Will to resist are briefly slowed, and then turned to stone.
+Until they return to flesh, they are unable to act, but also take half damage.
+The spell's power is lessened against secondary targets.
 %%%%
 Petrifying Cloud spell
 
-Exhala polvo calcificador, que petrifica a alguien afectado por más tiempo que un
-Un momento breve.
-
+Exhales calcifying dust, which petrifies anyone affected for longer than a
+brief moment.
 %%%%
 Phantom Blitz spell
 
-Ojea y dispara una copia fantasma de la lanzador con gran fuerza. Tales fantasmas
-tienen la misma proeza marcial y mística que la lanzador, y una noche impromptu
-El desfile de ilusiones puede abrumar a las víctimas de la lanzador.
-
+Weaves and fires a phantom copy of the caster with great force. Such phantoms
+have the same martial and mystic prowess as the caster, and an impromptu night
+parade of illusions may overwhelm the caster's victims.
 %%%%
 Phantom Mirror spell
 
-Crea una copia fantasma de una criatura. La copia es algo frágil, pero
-de lo contrario casi indistinguible del original.
-
+Creates a phantom copy of a creature. The copy will be somewhat fragile, but
+otherwise almost indistinguishable from the original.
 %%%%
 Planar Overlay spell
 
-Supera parte de una realidad adyacente sobre esta, causando aleatoria local
-monstruos para aparecer en otro lugar en el suelo. La primera vez que se utiliza, múltiple
-monstruos llegan inmediatamente; después, ellos aparecen en un Slow, estable
-tarifa.
+Overlays part of an adjacent reality onto this one, causing random local
+monsters to appear elsewhere on the floor. The first time this is used, multiple
+monsters will arrive at once; afterward, they will appear at a slow, steady
+rate.
 
-Después de una cantidad considerable de tiempo ha pasado, estos monstruos pueden incluso aparecer
-cerca del jugador.
-
+After a considerable amount of time has passed, these monsters may even appear
+near the player.
 %%%%
 Plane Rend spell
 
-Invoca algunas de las mayores amenazas de uno de los Pits de Slime, el Elven
-Halls, las Bóvedas, la Cripta, la Tumba of Ancients, or el Reino de Zot; the
-rama específica varía con cada elenco del hechizo.
-
+Summons some of the greater threats from one of the Pits of Slime, the Elven
+Halls, the Vaults, the Crypt, the Tomb of Ancients, or the Realm of Zot; the
+specific branch varies with each cast of the spell.
 %%%%
 Plasma Beam spell
 
-Dispara un rayo penetrante de plasma en uno de los enemigos más distantes de la lanzador.
-El rayo ionizado pasa por la mitad de la armadura de los defensores, y un segundo rayo de fuego
-sigue en su velada.
-
+Fires a penetrating beam of plasma at one of the caster's most distant foes.
+The ionised beam bypasses half of defenders' armour, and a second beam of fire
+follows in its wake.
 %%%%
 Platinum Paragon spell
 
-Construye a un campeón de metales brillantes cuyo prowess rivaliza con el más grande
-guerreros vivos. Es resistente a todas las formas de magia y peludas un perfecto
-réplica de cualquier arma de melee artefacto que el caster elige.
+Constructs a gleaming metal champion whose prowess rivals that of the greatest
+living warriors. It is resistant to all forms of magic and wields a perfect
+replica of any artefact melee weapon the caster chooses.
 
-Crea una onda de choque dañina alrededor de sí misma cuando se desplegó y lentamente
-gana la carga a medida que ataca enemigos. Cuando ha ganado suficiente carga,
-hechizo puede ser retransmitido para sobrecargar el paragón, desatando una corriente de ataques
-en un área amplia que inflige mayores daños, pero destruyendo el parago en el
-proceso.
+It creates a damaging shockwave around itself when first deployed and slowly
+gains charge as it attacks enemies. When it has gained sufficient charge, the
+spell may be recast to overload the paragon, unleashing a flurry of attacks
+in a wide area which inflict increased damage, but destroying the paragon in the
+process.
 
-Debido al vínculo mágico que mantiene con su creador, realiza un
-ataque extra cada vez que lo hacen, y a veces incluso parry ataques dirigidos a
-si están lo suficientemente unidos.
-
+Due to the magical link it maintains with its creator, it will perform an
+extra attack whenever they do, and will sometimes even parry attacks directed at
+them, if they are close enough together.
 %%%%
 Poison Arrow spell
 
-Dispara una flecha mágica recubierta con la toxina más vil y nociva. Incluso aquellos
-resistente al veneno ser envenenado por él, y una pequeña porción de su directa
-daño evita la resistencia al veneno.
-
+Fires a magical arrow coated with the most vile and noxious toxin. Even those
+resistant to poison will be poisoned by it, and a small portion of its direct
+damage bypasses poison resistance.
 %%%%
 Poisonous Cloud spell
 
-Conjura una gran nube de gases letales.
-
+Conjures forth a great cloud of lethal gases.
 %%%%
 Poisonous Vapours spell
 
-Transmuta una pequeña cantidad de aire alrededor de un objetivo en vapores tóxicos,
-envenenar a alguien lo suficientemente desafortunado para respirar. La cantidad de aire
-afectado es pequeño y no persiste más allá del giro en el que se funde.
+Transmutes a small amount of the air around a target into toxic vapours,
+poisoning anyone unfortunate enough to breathe them in. The quantity of air
+affected is small and it will not persist beyond the turn in which it is cast.
 
-No puede afectar a aquellos con resistencia al veneno.
-
+It cannot affect those with any resistance to poison.
 %%%%
 Polar Vortex spell
 
-Hace que el aire alrededor de la fundición se convierta en un vórtice helado, haciendo enormes daños
-a todo el mundo atrapado en él que sólo puede ser semimitigado por la resistencia a
-frío. Los afectados también serán barridos en el aire y arrojados alrededor.
-Sólo el ojo de la tormenta es un lugar seguro, y sigue la casta. El
-La eficacia del hechizo se disminuye enormemente en áreas cerradas. Después del vórtice
-se desvanece, no puede llamado de nuevo por un corto tiempo.
-
+Turns the air around the caster into a freezing vortex, doing tremendous damage
+to everyone caught in it that can only be half-mitigated by resistance to
+cold. Those affected will also be swept up into the air and tossed around.
+Only the eye of the storm is a safe place, and it follows the caster. The
+vortex is unable to follow the caster through long-distance translocations.
+The spell's effectiveness is greatly diminished in closed areas. After the
+vortex fades, it cannot be called forth again for a short time.
 %%%%
 Polymorph spell
 
-Aleatoriamente altera la forma de una criatura. Es especialmente eficaz contra
-criaturas que cambian de forma.
-
+Randomly alters the form of a creature. It is especially effective against
+shape-changing creatures.
 %%%%
 Porkalator spell
 
-Transforma el objetivo en un cerdo. El objetivo se mueve rápidamente pero no se puede lanzar
-hechizos. La desaparición de la lanzador hace que la transformación termine.
-
+Transforms the target into a pig. The target moves swiftly but cannot cast
+spells. The caster's demise will cause the transformation to end.
 %%%%
 Portal Projectile spell
 
-Teleporta un misil disparado o lanzado contra un enemigo objetivo.
-
+Teleports a fired or thrown missile at a targeted enemy.
 %%%%
 Prayer of Brilliance spell
 
-Empodera la magia de los aliados magos cercanos de la lanzador, permitiéndoles
-lanzar su magia más poderosa y más a menudo.
-
+Empowers the magic of nearby wizard allies of the caster, allowing them to
+cast their magic more powerfully and more often.
 %%%%
 Primal Wave spell
 
-Conjura un torrente de agua que puede golpear el objetivo, y crea un
-pool of agua poco profunda for a short duration.
-
+Conjures a torrent of water that may knock back the target, and creates a
+pool of shallow water for a short duration.
 %%%%
 Pyre Arrow spell
 
-Lanza un rayo de fuego líquido que se aferra a una criatura dirigida, tratando
-Armour-ignoring daño de fuego sobre múltiples giros. La víctima puede apagar el fuego
-mucho más rápido moviéndose.
+Launches a glob of liquid fire that clings to a targeted creature, dealing
+armour-ignoring fire damage over multiple turns. The victim can put the fire out
+much more quickly by moving.
 
-Si el objetivo es insustancial, el fuego líquido no se pega.
-
+If the target is insubstantial, the liquid fire will fail to stick.
 %%%%
 Pyroclastic Surge spell
 
-Dibuja llamas de lava. Cualquier enemigo de la lanzador de pie
-al lado o arriba de lava ser quemado.
-
+Draws searing flames from lava. Any enemies of the caster standing
+next to or above lava will be burned.
 %%%%
 Pyrrhic Recollection spell
 
-Enciende un recuerdo del nimbo que rodea a Nadie, otorgando temporalmente
-ellos el conocimiento de un poderoso hechizo y curando sus lesiones.
+Ignites a memory from the nimbus which surrounds Nobody, temporarily granting
+them the knowledge of a powerful spell and healing their injuries.
 
-Esta potencia es fugaz y se extinguirán después de tomar cualquier significativo
-cantidad de daño, pero mientras que cualquier otro recuerdo permanezca, no pueden ser
-descansad para siempre.
-
+This power is fleeting and will be extinguished after taking any significant
+amount of damage, but so long as any other memories remain, they cannot be
+put to rest for good.
 %%%%
 Quicksilver Bolt spell
 
-Dispara un perno penetrante de disipar energía a una criatura dirigida, posiblemente
-eliminar algunos de sus encantamientos.
-
+Fires a bolt of dispelling energy at a targeted creature, possibly removing
+some of its enchantments.
 %%%%
 Ravenous Swarm spell
 
-Desliza un torrente de murciélagos vampiros, llenando el aire alrededor de un objetivo.
+Unleashes a torrent of vampire bats, filling the air around a target.
 
-Estos vampiros rozan sobre cualquier cosa que no sea inmuerto con un hambre voraz,
-y sus mordeduras eventualmente incluso atraer a sus víctimas a NT, dejándolos
-Fácil presa.
-
+These vampires will gnaw on anything which isn't undead with a voracious hunger,
+and their bites will eventually even lull their victims to sleep, leaving them
+easy prey.
 %%%%
 Rebounding Blaze spell
 
-Fuegos un perno penetrante de llamas energéticas que pueden rebotar paredes para golpear
-objetivos dos veces.
-
+Fires a penetrating bolt of energetic flames that can bounce off walls to hit
+targets twice.
 %%%%
 Rebounding Chill spell
 
-Dispara un perno penetrante de frío energético que puede rebotar paredes para golpear
-objetivos dos veces.
-
+Fires a penetrating bolt of energetic cold that can bounce off walls to hit
+targets twice.
 %%%%
 Regenerate Other spell
 
-Causa que otra criatura se regenera rápidamente durante un corto período de tiempo.
-Esta regeneración es proporcional a la salud máxima de esa criatura.
-
+Causes another creature to rapidly regenerate over a short period of time.
+This regeneration is proportional to that creature's maximum health.
 %%%%
 Rending Blade spell
 
-Condena la energía mágica de la lanzador en forma de un crujido violento
-Hoja. Cada vez que la lanzador golpea con éxito con un ataque de melee mientras la
-el hechizo es activo, esta hoja rend un camino de ida y vuelta a través de enemigos cercanos,
-Tratando daños irresistibles.
+Condenses the caster's magical energy into the form of a violently crackling
+blade. Each time the caster successfully hits with a melee attack while the
+spell is active, this blade will rend a path back and forth through nearby foes,
+dealing irresistible damage.
 
-Repartiendo este hechizo drena temporalmente *todo* del resto de la lanzador mágica
-poder para constituir la espada, pero esta energía se devolverá a ellos tan pronto
-como la espada deja de existir. Cada punto de poder mágico secuestrado de esta manera
-aumenta ligeramente el daño que inflige la hoja.
-
+Casting this spell temporarily drains *all* of the caster's remaining magical
+power to constitute the blade, but this energy will be returned to them as soon
+as the blade ceases to exist. Each point of magical power sequestered this way
+slightly increases the damage the blade inflicts.
 %%%%
 Resonance Strike spell
 
-Llama una oleada de poder de la tierra, golpeando a un enemigo dentro del caster
-Mira. El hechizo cascada a través de construcciones cercanas, creciendo en fuerza con
-cada uno de pie cerca del objetivo.
-
+Calls a surge of power from the earth, striking an enemy within the caster's
+sight. The spell cascades through nearby constructs, growing in strength with
+each one standing near the target.
 %%%%
 Rimeblight spell
 
-Aflige a una criatura (y hasta a otros dos cerca de ella) con una plaga mágica que
-lentamente los congela desde dentro. Las víctimas hacen caso omiso de AC daño de frío
-cada vuelta, y a medida que la enfermedad progresa, fragmentos de hielo cristalino start
-erupción violenta de su cuerpo, dañando enemigos cercanos. Cuando finalmente
-Sucumbe, la plaga puede extenderse a los que los rodean.
+Afflicts a creature (and up to two others near it) with a magical plague that
+slowly freezes them from the inside out. Victims take AC-ignoring cold damage
+each turn, and as the disease progresses, shards of crystalline ice will start
+erupting violently from their body, damaging nearby enemies. When they finally
+succumb, the plague may spread to those around them.
 
-En seres vivos, santos o demoníacos, la enfermedad es especialmente virulenta,
-alimentar las energías necrométicas liberadas por el sufrimiento de su anfitrión. Como ellos
-acercar el punto de la muerte, acelerar rápidamente, devorando el último
-vestigios de su cuerpo y no dejando nada atrás sino un pilar retorcido de
-hielo estigiano.
-
+In living, holy, or demonic creatures, the disease is especially virulent,
+feeding off the necromantic energies released by its host's suffering. As they
+approach the point of death, it will accelerate rapidly, devouring the last
+vestiges of their body and leaving nothing behind but a twisted pillar of
+stygian ice.
 %%%%
 Roll spell
 
-Enrolla una bola, otorgando al escarabajo boulder tremenda velocidad, así como
-doble daño de melee. El rollo sólo se puede realizar cuando a distancia de un
-foe, y el escarabajo siempre se desenrollan después de un intento de ataque.
-
+Roll into a ball, granting the boulder beetle tremendous speed as well as
+double melee damage. The roll may only be performed when at distance from a
+foe, and the beetle will always unroll after an attempted roll attack.
 %%%%
 Sandblast spell
 
-Culpa un blanco con duros de roca de alta velocidad. Reunir la roca del ambiente
-grit es Slow, haciendo que este hechizo tome una y media veces más tiempo
-La mayoría. Su daño se reduce fuertemente por armadura.
-
+Blasts a target with high-velocity rock shards. Gathering the rock from ambient
+grit is slow, making this spell take one-and-a-half times as long to cast as
+most. Its damage is strongly reduced by armour.
 %%%%
 Sap Magic spell
 
-Adapta la capacidad de una criatura dirigida para lanzar hechizos. Casting un hechizo mientras
-afligido con esta condición hace que el objetivo pierda acceso a su magia,
-brevemente impidiéndoles lanzar otros hechizos.
-
+Taints a targeted creature's ability to cast spells. Casting a spell while
+afflicted with this condition causes the target to lose access to their magic,
+briefly preventing them from casting any further spells.
 %%%%
 Scorch spell
 
-Corta un enemigo al azar. Los heridos por esto tienen su resistencia al fuego
-se quemó por poco tiempo.
-
+Scorches a random foe. Those injured by this have their resistance to fire
+burned away for a short time.
 %%%%
 Sculpt Simulacrum spell
 
-Formas icy simulacra de una criatura viviente adyacente, demoníaca o santa. Éstos
-doppelgangers frágiles tomar forma durante un corto período de tiempo, eventualmente
-ganando la capacidad de moverse y atacar a los enemigos del caster.
+Forms icy simulacra of an adjacent living, demonic, or holy creature. These
+fragile doppelgangers will take shape over a short period of time, eventually
+gaining the ability to move and attack the caster's enemies.
 
-Los buenos dioses fruncieron el ceño en este hechizo, ya que funciona sangre e ichor en antinatural
+The good gods frown on this spell, as it works blood and ichor into unnatural
 facsimiles.
 
-Puede mantener hasta 5 simulacros simultáneamente.
-
+You can maintain up to 5 simulacra simultaneously.
 %%%%
 Seal Doors spell
 
-Impartir sellos en puertas y escaleras cercanas, evitando a los no aliados con
-la casta de atravesarlos.
-
+Imparts seals on nearby doors and stairs, preventing those not allied with
+the caster from traversing them.
 %%%%
 Searing Ray spell
 
-Dispara un rayo perforante continuo de energía arcana de las manos del caster. Así que...
-mientras el caster mantenga el foco en el hechizo y lo suministra con magia
-poder (esperando en su lugar y no tomando ninguna otra acción), el ray 
-seguir el objetivo de la lanzador si debe moverse.
-
+Fires a continuous piercing ray of arcane energy from the caster's hands. So
+long as the caster maintains focus upon the spell and supplies it with magical
+power (by waiting in place and not taking any other actions), the ray will
+follow the caster's target if it should move.
 %%%%
 Searing Breath spell
 
-Respira una explosión de fuego a una criatura dirigida, dejando una nube de llamas a
-el punto final.
-
+Breathes a blast of fire at a targeted creature, leaving a cloud of flames at
+the endpoint.
 %%%%
 Seismic Stomp spell
 
-Estúpidos fuertemente sobre el suelo, enviando ondas violentas que fracturan el
-tierra bajo múltiples enemigos cercanos. Las criaturas voladoras se reducen enormemente
-daño de este ataque, pero los que están en el suelo a veces pueden perder su
-en conjunto, retrasando su próxima acción mientras luchan por recuperar
-balance en el terreno desigual.
-
+Stomps heavily upon the ground, sending out violent shockwaves that fracture the
+ground beneath multiple nearby enemies. Flying creatures take greatly reduced
+damage from this attack, but those on the ground may sometimes to lose their
+footing altogether, delaying their next action as they struggle to regain
+balance on the uneven terrain.
 %%%%
 Sentinel's Mark spell
 
-Ofrece un faro fuerte sobre una criatura dirigida. anuncia la presencia
-y ubicación de la criatura marcada a todos en el mismo nivel.
-
+Bestows a strong beacon upon a targeted creature. It announces the presence
+and location of the marked creature to everyone on the same level.
 %%%%
 Seracfall spell
 
-Curiosamente colapsa un simulacro cercano en una gran masa de hielo, que
-explota en el impacto. El hielo afecta incluso a las criaturas resistentes al frío, debido
-al fuerte impacto y los bordes de corte.
-
+Violently collapses a nearby simulacrum into a large mass of ice, which
+explodes on impact. The ice affects even cold-resistant creatures somewhat, due
+to the strong impact and cutting edges.
 %%%%
 Shadowball spell
 
-Arrolla una bola de sombras agitadoras, que explota en una pequeña zona.
-
+Hurls a ball of flickering shadows, which explodes in a small area.
 %%%%
 Shadow Beam spell
 
-Dispara un rayo penetrante de sombra.
-
+Fires a penetrating beam of shadow.
 %%%%
 Shadow Bind spell
 
-Pins varios enemigos cercanos al azar a sus propias sombras, previniéndolos brevemente
-de moverse. A mayor fuerza de hechizo, afecta a más enemigos a la vez.
-
+Pins several random nearby enemies to their own shadows, briefly preventing them
+from moving. At higher spellpower, it affects more enemies at once.
 %%%%
 Shadow Creatures spell
 
-Crea réplicas de criaturas nativas de la ubicación actual del caster, tejido
-de sombras e hilos de materia Abyssal.
-
+Creates replicas of creatures native to the caster's current location, weaving
+them from shadows and threads of Abyssal matter.
 %%%%
 Shadow Draining spell
 
-Forzadamente roba un sliver de las sombras de todos los enemigos cercanos, causando
-daño que daña la armadura de la víctima por completo.
-
+Forcefully steals a sliver from the shadows of all nearby enemies, causing
+damage which bypasses the victim's armour entirely.
 %%%%
 Shadow Prism spell
 
-Conjura un prisma sombrío que desencadena una violenta explosión de sombras después de una
-duración corta. Si se destruye prematuramente, esta explosión será mucho más débil.
-
+Conjures a shadowy prism which will unleash a violent blast of shadows after a
+short duration. If destroyed prematurely, this blast will be much weaker.
 %%%%
 Shadow Puppet spell
 
-Invoca a un sirviente de sombra viva para hostigar y limitar a los enemigos del castor.
-La fuerza de sus ataques se incrementa directamente por la fuerza de hechizos.
-
+Summons a servant of living shadow to harass and constrict the caster's enemies.
+The strength of its attacks is directly increased by spellpower.
 %%%%
 Shadow Shard spell
 
-Dispara un duro de sombra endurecida en un solo enemigo.
-
+Fires a shard of hardened shadow at a single enemy.
 %%%%
 Shadow Shot spell
 
-Dispara una pequeña bala de sombra endurecida en un solo enemigo.
-
+Fires a small bullet of hardened shadow at a single enemy.
 %%%%
 Shadow Tempest spell
 
-Llama a un rayo sombra sobre hasta la mitad de todos los enemigos visibles, tratando
-daño irresistible a ellos.
-
+Calls down shadowy lightning upon up to half of all visible enemies, dealing
+irresistible damage to them.
 %%%%
 Shadow Torpor spell
 
-Sapas la energía de una línea de enemigos, desacelerando por un corto tiempo.
-El poder de expresión aumenta la duración de este efecto, pero las criaturas más fuertes pueden
-sacude su letargo más rápido.
-
+Saps the energy from a line of enemies, slowing them for a short while.
+Spellpower increases the duration of this effect, but stronger creatures may
+shake off their lethargy more quickly.
 %%%%
 Shadow Turret spell
 
-Forma una torreta estacionaria de sombra solidificada que dispara repetidamente sobre la
-Los enemigos de Caster.
-
+Forms a stationary turret of solidified shadow that repeatedly fires upon the
+caster's enemies.
 %%%%
 Shatter spell
 
-Causa una enorme ráfaga de fuerza concusiva alrededor de la fundición, tratando severa
-daño a todas las criaturas cercanas. Es especialmente eficaz contra los hechos
-de hielo, hueso o cualquier sustancia similar a la pared (como roca, metal o cristal), como
-así como los convertidos en piedra por petrificación. Es menos eficaz contra
-criaturas voladoras, gelatinas e insubstanciales. También puede destruir cerca
-paredes.
-
+Causes an enormous burst of concussive force around the caster, dealing severe
+damage to all nearby creatures. It is especially effective against those made
+from ice, bone, or any wall-like substance (such as rock, metal or crystal), as
+well as those turned to stone by petrification. It is less effective against
+flying, gelatinous and insubstantial creatures. It may also destroy nearby
+walls.
 %%%%
 Sheza's Dance spell
 
-Invoca armas de lejos y ancho - una daga recién forjada, una espada de larga duración
-en un sepulcro moldeado, un hacha todavía vaporizado con la sangre de su víctima -
-animarlos y enviarlos a atacar.
-
+Summons weapons from far and wide - a dagger newly forged, a sword long-rusted
+in a moldering tomb, an axe still steaming with the blood of its victim -
+animating them and sending them out to attack.
 %%%%
 Shock spell
 
-Tira un bouncing bolt de electricidad. Oculta la mitad de la armadura de los defensores.
-
+Throws a bouncing bolt of electricity. It bypasses half of defenders' armour.
 %%%%
 Shred spell
 
-Giros en su lugar, tratando daños graves a los enemigos adyacentes con su serrado
-cuerpo.
-
+Spins in place, dealing grievous damage to adjacent enemies with its serrated
+body.
 %%%%
 Sigil of Binding spell
 
-Crea dos sigiles cerca. Cualquiera que pase por encima de ellos sea obligado, capaz de
-actuar y esquivar normalmente pero incapaz de alejarse. Para criaturas atadas que no sean
-el caster, su velocidad de movimiento rebote cuando el efecto se apaga, dando
-ellos de rapidez temporal. El deslizamiento de cualquier fuente otorga inmunidad a la unión.
+Creates two sigils nearby. Anyone who passes over them will be bound, able to
+act and dodge normally but unable to move away. When the effect wears off,
+their movement speed will rebound, giving them temporary swiftness. Swiftness
+from any source grants immunity to binding.
 
-Sólo un conjunto de sigiles se puede mantener a la vez, y ellos caducan
-prematuramente si te dejan ver.
-
+Only one set of sigils can be maintained at a time, and they will expire
+prematurely if they leave your sight.
 %%%%
 Sign of Ruin spell
 
-Inflicta el signo de la ruina sobre un grupo de enemigos, condenando sus cuerpos a
-decaimiento inexorable y colapso. Cuando cualquier cosa que tenga este signo recibe
-daño de un ataque de melee, ellos sufren drenaje pesado y puede además
-o bien Slow, débil o ciego.
-
+Inflicts the sign of ruin upon a group of enemies, condemning their bodies to
+inexorable decay and collapse. Whenever anything bearing this sign receives
+damage from a melee attack, they will suffer heavy draining and may additionally
+become either slow, weak, or blind.
 %%%%
 Silence spell
 
-Elimina todo el sonido cerca del caster. Esto hace pergaminos de lectura, casting
-hechizos, invocando habilidades divinas, o gritando imposible en la lanzador
-cerca.
+Eliminates all sound near the caster. This makes reading scrolls, casting
+spells, invoking divine abilities, or shouting impossible in the caster's
+vicinity.
 
-Ciertos monstruos tienen habilidades mágicas o especiales que todavía sean
-usable mientras silenciado.
+Certain monsters have innate magical or special abilities which will still be
+usable while silenced.
 
-El efecto comienza con un radio dependiendo del poder, que luego se contraen,
-eventualmente cubriendo sólo la lanzador, antes de que se fije.
-
+The effect starts out with a radius depending on power, which will then shrink,
+eventually covering only the caster, before it times out.
 %%%%
 Siphon Essence spell
 
-Tormentos cercanos enemigos vivos, cortando su salud en la mitad. Este daño nunca es
-directamente letal. El dolor infligido cura al usuario.
-
+Torments nearby living foes, cutting their health in half. This damage is never
+directly lethal. The pain inflicted then heals the user.
 %%%%
 Siren Song spell
 
-Canta una canción inquietante que fusiona a los oyentes cercanos. Los aventureros que no logran
-resistir no puede alejarse del cantante, mientras que otras criaturas
-se tornan sacudidos.
+Sings a haunting song that mesmerises nearby listeners. Adventurers who fail to
+resist will become unable to move away from the singer, while other creatures
+will become dazed outright.
 
-Dejar la línea de visión de la lanzador terminar el efecto de control del movimiento.
-
+Leaving the caster's line of sight will end the movement-controlling effect.
 %%%%
 Sleep spell
 
-Pone a una criatura dirigida a Sleep. Tomar daño normalmente despertar
-objetivo, y sonidos ruidosos pueden hacerlo también.
-
+Puts a targeted creature to sleep. Taking damage will typically wake the
+target, and loud sounds can potentially do so as well.
 %%%%
 Sleetstrike spell
 
-Causa que el aire alrededor de una criatura se retuerce en un vórtice arremolinado
+Causes the air around a creature to twist itself into a whirling vortex of
 frigid meteorological fury, encasing the victim in ice and slowing their
-movimiento brevemente. Hace más daño a objetivos rodeados de espacio vacío y
-La mitad de su daño evita la resistencia al frío.
-
+movement briefly. It does more damage to targets surrounded by empty space and
+half of its damage bypasses cold resistance.
 %%%%
 Slow spell
 
-Reduce las acciones de una criatura.
-
+Slows the actions of a creature.
 %%%%
 Slug Dart spell
 
-Dispara un dardo agudo de chitín endurecido.
-
+Fires a sharp dart of hardened chitin.
 %%%%
 Smiting spell
 
-Golpea a cualquier enemigo objetivo dentro de la vista, sin necesidad de línea directa de fuego.
-
+Smites any targeted enemy within sight, with no direct line of fire required.
 %%%%
 Sojourning Bolt spell
 
-Respira una explosión de bijeción penetrante e inestable. Si golpea, puede teletransportar
-víctimas después de un breve retraso. Para morseles particularmente interesantes de los aventureros
-como tú mismo, este telepuerto transloca a las víctimas hacia
-Los aliados de la casta y llevar la casta para el viaje, si es posible.
-
+Breathes a penetrating and unstable bijection burst. If it hits, it may teleport
+victims after a short delay. For particularly interesting morsels of adventurers
+such as yourself, this teleport will translocate those victims towards the
+caster's allies and bring the caster along for the ride, if possible.
 %%%%
 Soul Splinter spell
 
-Intenta forzar un pequeño fragmento de un ser vivo, santo o demoníaco para
-tomar la licencia de su cuerpo y manifestarse como un wisp de alma. Este wisp es nominal
-bajo el control del necromancer, pero centran sus ataques sobre todo en el
-criatura que fue creada, instintivamente tratando de volver a su hogar apropiado
-una vez más. La víctima se debilita hasta que el wisp se revierte a donde se
-pertenece.
+Attempts to force a tiny fragment of a living, holy, or demonic being's soul to
+take leave of their body and manifest as a soul wisp. This wisp is nominally
+under the necromancer's control, but will focus its attacks foremost on the
+creature it was created from, instinctually trying to return to its proper home
+once more. The victim will be weakened until the wisp reverts to where it
+belongs.
 
-Las esposas creadas de almas más poderosas tienen ataques más dañinos, pero son
-siempre frágil.
-
+Wisps created from more powerful souls have more damaging attacks, but are
+always fragile.
 %%%%
 Spawn Tentacles spell
 
-Extende grandes tentáculos para atacar enemigos cercanos.
-
+Extends large tentacles to attack nearby enemies.
 %%%%
 Spectral Cloud spell
 
-Crea una nube de niebla espectral, tratando daños menores a todas las criaturas
-que los no muertos. Peligrosas pero de corta vida espectral criaturas undead 
-coalesce de la niebla con el tiempo.
-
+Creates a cloud of spectral mist, dealing minor damage to all creatures other
+than the undead. Dangerous but short-lived spectral undead creatures will
+coalesce from the mist over time.
 %%%%
 Spellspark Servitor spell
 
-Construye un sirviente metálico con una chispa del propio conocimiento arcano de la lanzador
-en su núcleo. Esta chispa permite al servidor desencadenar algunos de los destructivos
-hechizos conocidos por su creador, aunque el más fuerte y volátil
-de las magias no pueden ser impregnadas de esta manera. La fuerza del servidor
-aumenta con poder de hechizo.
+Constructs a metallic servant with a spark of the caster's own arcane knowledge
+at its core. This spark allows the servitor to unleash some of the destructive
+spells known to its creator, though the strongest and most volatile
+of magics cannot be imbued in this fashion. The strength of the servitor
+increases with spell power.
 
-(Mientras conoces este hechizo, puedes elige cuál de tus hechizos elegibles es 
-elenco con la capacidad de Servidor Imbue.)
-
+(While you know this spell, you may choose which of your eligible spells it will
+cast with the Imbue Servitor ability.)
 %%%%
 Sphinx Sisters spell
 
-Invoca un par de esfinges enigmas - un guardián y un marauder - a
-debilitar a los enemigos de la lanzador con hexes y golpearlos con vientos violentos.
+Summons a pair of riddling sphinxes - one guardian and one marauder - to
+debilitate the caster's enemies with hexes and batter them with violent winds.
 
-El poder del hechizo aumenta la durabilidad de las esfinjas y el poder de sus hechizos.
-
+Spell power increases the sphinxes' durability and the power of their spells.
 %%%%
 Spit Acid spell
 
-Escupe ácido a una criatura dirigida.
-
+Spits acid at a targeted creature.
 %%%%
 Spit Lava spell
 
-Escupe lava a una criatura dirigida. La mitad de su daño evita la resistencia al fuego.
-
+Spits lava at a targeted creature. Half of its damage bypasses fire resistance.
 %%%%
 Spit Poison spell
 
 <Spit Poison ability>
-
 %%%%
 Splinterfrost Shell spell
 
-Construye una frangible cáscara de hielo reforzado en un medio círculo alrededor de la
-caster, empujando criaturas fuera del camino para hacer espacio para ello, si es posible.
+Constructs a frangible shell of reinforced ice in a half-circle around the
+caster, pushing creatures out of the way to make space for it, if possible.
 
-Esta barricada es duradera, y cuando un segmento de ella es destruido, 
-fractura en una salva de proyectiles helados lanzados en lo que lo destruyó.
+This barricade is durable, and whenever a segment of it is destroyed, will
+fracture into a salvo of icy projectiles launched at whatever destroyed it.
 
-Si la casta se aleja demasiado de su barrera, se funde rápidamente.
-
+If the caster strays too far away from their barrier, it will melt rapidly.
 %%%%
 Splinterspray spell
 
-Dispara una explosión de espinillas de madera. Su daño se reduce fuertemente por armadura.
-
+Fires a burst of wooden splinters. Its damage is strongly reduced by armour.
 %%%%
 Sporulate spell
 
-Libera una cuchara flotante rápida y llena de gas. Después de buscar a su enemigo, el
-espore explotar, dañar cualquier cosa atrapada en la explosión y más confuso
-criaturas vivientes.
-
-%%%%
-Stampede spell
-
-Carga rápidamente en una línea recta hacia un enemigo. El usuario se mueve a doble
-velocidad en esa dirección cada vuelta después, atacando a cualquier enemigo en su camino
-con mayor daño y precisión y empujarlos hacia atrás, hasta que o
-convertirse en incapaz de moverse o tener sobresale su objetivo.
-
-Sólo se puede utilizar mientras su objetivo está en una dirección de brújula desde el
-usuario.
-
+Releases a fast, gas-filled floating spore. After seeking out its foe, the
+spore will explode, damaging anything caught in the blast and further confusing
+living creatures.
 %%%%
 Starburst spell
 
-Libera pernos penetrantes de fuego de la lanza en cada dirección.
-
+Releases penetrating bolts of fire from the caster in every direction.
 %%%%
 Static Discharge spell
 
-Libera cargos eléctricos contra los que están al lado de la fundición. Estos pueden llegar a
-otras criaturas adyacentes, o de vuelta a la lanzador, antes de aterrizar
-Fuera. Se trata de daños reducidos cuando se acerca a la fundición, y los daños tratados
-aprueba la mitad de la armadura de los defensores.
-
+Releases electrical charges against those next to the caster. These may arc to
+other adjacent creatures, or back to the caster, before eventually grounding
+out. It deals reduced damage when arcing to the caster, and the damage dealt
+bypasses half of defenders' armour.
 %%%%
 Steam Ball spell
 
-Tira una bola de vapor caliente hacia una criatura dirigida.
-
+Throws a ball of hot steam towards a targeted creature.
 %%%%
 Steam Breath spell
 
 <Steam breath ability>
-
 %%%%
 Sticks to Snakes spell
 
-Saca palos y los transforma en serpientes. Casters más fuertes siempre
-crear serpientes más fuertes.
-
+Casts forth sticks and transforms them into snakes. Stronger casters will always
+create stronger snakes.
 %%%%
 Sticky Flame spell
 
-Libera un spray corto de goo incendiario que se aferra a un adyacente
-criatura y trata de armadura ignorando daño de fuego en varias vueltas. Si la víctima
-se permite moverse, apagar el fuego prematuramente.
+Unleashes a short-ranged spray of incendiary goo that clings to an adjacent
+creature and deals armour-ignoring fire damage over several turns. If the victim
+is allowed to move, it will put out the fire prematurely.
 
-Si el objetivo es insustancial, el fuego líquido no se pega.
-
+If the target is insubstantial, the liquid fire will fail to stick.
 %%%%
 Still Winds spell
 
-Lleva el aire a la quietud antinatural a través de un área enorme, evitando cualquier cosa
-un vórtice polar de romper la calma. El efecto toma concentración
-para mantener, y sólo dura un corto tiempo; si la lanzador es asesinada, nubes 
-empezar a formar de nuevo como normal.
-
+Brings the air into unnatural stillness across a huge area, preventing anything
+short of a polar vortex from breaking the calm. The effect takes concentration
+to maintain, and only lasts a short time; if the caster is killed, clouds will
+begin to form again as normal.
 %%%%
 Sting spell
 
-Conjura un fragmento de toxinas cristalizadas. El impacto del stinger siempre
-envenenar un blanco susceptible. Incluso los objetivos resistentes tienen la oportunidad de ser envenenados
-y monstruos inmunitarios todavía se dañan por el impacto físico del picador.
-
+Conjures a jagged shard of crystallised toxins. The stinger's impact will always
+poison a susceptible target. Even resistant targets have a chance to be poisoned
+and immune monsters will still be damaged by the physical impact of the stinger.
 %%%%
 Stoke Flames spell
 
-Añade malicia a los fuegos infernales, uniéndolo con llama a un inferno asqueroso.
-
+Adds malice to hellish fires, binding it with flame into a creeping inferno.
 %%%%
 Stone Arrow spell
 
-Dispara una columna afilada de roca.
-
+Fires a sharp spine of rock.
 %%%%
 Strip Willpower spell
 
-Granmente reduce la fuerza de voluntad del objetivo, haciéndolos más vulnerables a un
-variedad de efectos mágicos.
-
+Greatly reduces the target's willpower, making them more vulnerable to a
+variety of magical effects.
 %%%%
 Stunning Burst spell
 
-Dispara una débil explosión eléctrica que, en el impacto, causa muy breve Paralysis.
-La fuerza de voluntad no sirve contra este efecto, pero la resistencia a la electricidad puede
-a veces prevenirlo.
-
+Fires a weak electrical burst which, on impact, causes very brief paralysis.
+Willpower is of no use against this effect, but resistance to electricity can
+sometimes prevent it.
 %%%%
 Sublimation of Blood spell
 
-Convierte parte de la sangre de la lanzador en energía mágica. El proceso es doloroso
-pero nunca directamente letal. La eficiencia de la conversión aumenta con la
-El poder del hechizo.
-
+Converts some of the caster's blood into magical energy. The process is painful
+but never directly lethal. The efficiency of the conversion increases with the
+spell's power.
 %%%%
 Summon Air Elementals spell
 
-Invoca uno o más elementales de aire.
-
+Summons one or more air elementals.
 %%%%
 Summon Cactus Giant spell
 
-Invoca a un guerrero de una tribu particularmente caprichosa. Foes que golpean a estos
-¡Los gigantes de la melee están en una dolorosa sorpresa! Cuando se lanza a un poder superior,
-mayores, guerreros más robustos responden a la llamada.
-
+Summons a warrior from a particularly prickly tribe. Foes that strike these
+giants in melee are in for a painful surprise! When cast at a higher power,
+older, more robust warriors will answer the call.
 %%%%
 Summon Demon spell
 
-Abre una puerta al reino de Pandemonium y saca a uno de sus habitantes
-para servir a la lanzador por un tiempo.
-
+Opens a gate to the realm of Pandemonium and draws forth one of its inhabitants
+to serve the caster for a time.
 %%%%
 Summon Dragon spell
 
-Invoca y une a un dragón poderoso para realizar la oferta de la lanzador. Altísimo
-poder que puede convocar variedades particularmente mortales de dragón, o múltiples menos
-dragones a la vez.
-
+Summons and binds a powerful dragon to perform the caster's bidding. At high
+power it may summon particularly deadly varieties of dragon, or multiple lesser
+dragons at once.
 %%%%
 Summon Drakes spell
 
-Invoca múltiples drakes y lindwurms.
-
+Summons multiple drakes and lindwurms.
 %%%%
 Summon Earth Elementals spell
 
-Invoca uno o más elementales de la tierra.
-
+Summons one or more earth elementals.
 %%%%
 Summon Emperor Scorpions spell
 
-Invoca múltiples escorpiones nobles y monstruosos emperador.
-
+Summons multiple noble and monstrous emperor scorpions.
 %%%%
 Summon Executioners spell
 
-Invoca a varios Ejecutores para desgarrar enemigos de la lanzador.
-
+Summons multiple Executioners to tear apart foes of the caster.
 %%%%
 Summon Eyeballs spell
 
-Invoca múltiples globos oculares flotantes que pueden ser capaces de vitrificar, polimorfo,
-confundir, mutar o desintegrar.
-
+Summons multiple floating eyeballs that may be able to vitrify, polymorph,
+confuse, mutate or disintegrate.
 %%%%
 Summon Fire Elementals spell
 
-Invoca a uno o más elementales de fuego.
-
+Summons one or more fire elementals.
 %%%%
 Summon Forest spell
 
-Interseca forzadamente un avión boscoso con este mundo. Requiere espacio abierto
-para tener éxito. Mientras el hechizo sostiene, un espíritu del bosque ser llamado adelante,
-y los árboles del bosque sean despertados para hacer daño a enemigos cercanos.
-Potencia de la palanca aumenta la duración, tamaño y grosor de la intersectada
-plano; así como la fuerza del espíritu.
-
+Forcefully intersects a forested plane with this world. It requires open space
+to succeed. While the spell holds, a spirit of the forest will be called forth,
+and the trees of the forest will be awakened to deal damage to nearby enemies.
+Spell power increases the duration, size, and thickness of the intersected
+plane; as well as the strength of the spirit.
 %%%%
 Summon Greater Demon spell
 
-Llama a uno de los mayores demonios de Pandemonium para servir a la lanzador.
-
+Calls forth one of the greater demons of Pandemonium to serve the caster.
 %%%%
 Summon Sin Beast spell
 
-Invoca a una bestia mortal del pecado.
-
+Summons a deadly sin beast.
 %%%%
 Summon Hell Sentinel spell
 
-Invoca a un Centinela del Infierno, un edificio nocturno de odio animado.
-
+Summons a Hell Sentinel, a nightmarish edifice of animated hate.
 %%%%
 Summon Holies spell
 
-Llama a los guerreros divinos para ayudar a la lanzador.
-
+Calls forth divine warriors to aid the caster.
 %%%%
 Summon Horrible Things spell
 
-Abre una puerta a la Abyss y llama a través de dos o más abominaciones horribles
-de ese horrible lugar. Mientras poderoso, cepillando la mente contra el tejido
-de la Abyss de esta manera invita a Doom sobre la fundición y eventualmente puede costar
-ellos grandemente.
-
+Opens a gate to the Abyss and calls through two or more hideous abominations
+from that dreadful place. While powerful, brushing one's mind against the fabric
+of the Abyss in this manner invites Doom upon the caster and may eventually cost
+them greatly.
 %%%%
 Summon Hydra spell
 
-Invoca una hidra de muchos cabezas para luchar junto a la lanzador por un corto tiempo.
-El poder de la explosión determina el número de cabezas.
-
+Summons a many-headed hydra to fight alongside the caster for a short time.
+Spell power determines the number of heads.
 %%%%
 Summon Ice Beast spell
 
-Llama a una bestia de hielo para servir a la casta. La fuerza de la bestia
-depende de poder de hechizo.
-
+Calls forth a beast of ice to serve the caster. The strength of the beast
+depends on spell power.
 %%%%
 Summon Illusion spell
 
-Invoca una imagen espejo temporal de un enemigo. Tal copia tiene el mismo físico
-prowess como el original, y puede lanzar los mismos hechizos.
-
+Summons a temporary mirror image of an enemy. Such a copy has the same physical
+prowess as the original, and can cast the same spells.
 %%%%
 Summon Mana Viper spell
 
-Invoca una serpiente a escala violeta cuya mordedura puede rápidamente Drain la mágica
-reservas de casi cualquier enemigo. A mayor potencia, las propiedades antimágicas de la
-La mordedura de Viper crece aún más fuerte.
-
+Summons a violet-scaled serpent whose bite can swiftly drain the magical
+reserves of nearly any foe. At higher power, the antimagic properties of the
+viper's bite grow even stronger.
 %%%%
 Summon Minor Demon spell
 
-Invocaciones entre uno y tres demonios menores (rank 5).
-
+Summons between one and three minor (rank 5) demons.
 %%%%
 Summon Mortal Champion spell
 
-Llama a uno de los campeones mortales más poderosos y más rápidos del Shining
-Uno. En este Dungeon, Spriggan defensores y elfo profundo cuchillas respuesta
-la llamada.
-
+Calls forth one of the mightiest and fastest mortal champions of the Shining
+One. In this Dungeon, spriggan defenders and deep elf blademasters will answer
+the call.
 %%%%
 Summon Mushrooms spell
 
-Invoca hongos errantes y fúnebres junto a una criatura dirigida.
-
+Summons wandering mushrooms and deathcaps next to a targeted creature.
 %%%%
 Summon Scarabs spell
 
-Llama a un enjambre de bufandas de muerte.
-
+Calls forth a swarm of death scarabs.
 %%%%
 Summon Scorpions spell
 
-Llama a un enjambre de escorpiones venenosos.
-
+Calls forth a swarm of venomous scorpions.
 %%%%
 Summon Seismosaurus Egg spell
 
-Invoca el huevo de un lagarto bruto, justo al borde de la eclosión. Mientras tanto
-hay enemigos cerca y la casta permanece adyacente al huevo, es escotilla
-varias vueltas después de ser convocados para causar estragos en los enemigos de su citador.
+Summons the egg of a brutish lizard, just on the verge of hatching. So long as
+there are foes nearby and the caster remains adjacent to the egg, it will hatch
+several turns after being summoned to wreak havoc upon its summoner's foes.
 
-Incluso como un menor, un sísmosaurio es una fuerza con la que se debe considerar. Es casi
-tan duro como una montaña, y sus saltos son capaces de crear violencia
-ondas sísmicas. Cada onda de choque causa daños considerables al no vuelo
-enemigos, y a veces incluso pueden causar que pierdan su pie por completo.
+Even as a juvenile, a seismosaurus is a force to be reckoned with. It is nearly
+as hardy as a mountain, and its footfalls are capable of creating violent
+seismic shockwaves. Each shockwave deals considerable damage to non-flying
+enemies, and may sometimes even cause them to lose their footing altogether.
 
-Potencia de la palanca aumenta la durabilidad del huevo y la fuerza del sismosaur
-dentro, pero no el tiempo que se necesita para la escotilla.
-
+Spell power increases the egg's durability and the strength of the seismosaur
+within, but not the time it takes to hatch.
 %%%%
 Summon Small Mammal spell
 
-Invoca una rata, un murciélago o un quókka a la ayuda del caster. Potencia de la explosión aumenta
-la oportunidad de convocar a quokka.
-
+Summons a rat, bat, or quokka to the caster's aid. Spell power increases the
+chance of summoning a quokka.
 %%%%
 Summon Spiders spell
 
-Invoca una o más arañas.
-
+Summons one or more spiders.
 %%%%
 Summon Tzitzimitl spell
 
-Invoca un tzitzimitl, un demonio de enfermedad y desesperación.
-
+Summons a tzitzimitl, a demon of disease and despair.
 %%%%
-Ufetubi Swarm spell
+Summon Ufetubus spell
 
-Invoca a un grupo de Berserk ufetubi; demonios menores irritantes que rápidamente enjambre
-y rodear a los enemigos de la lanzador.
-
+Summons multiple ufetubi; small, annoying demons.
 %%%%
 Summon Undead spell
 
-Invoca varios monstruos sin muerte, creando varios fantasmas, vampiros, espectros
-y otros menos muertos.
-
+Summons multiple undead monsters, creating various ghosts, vampires, wraiths
+and other lesser undead.
 %%%%
 Summon Vermin spell
 
-Invoca múltiples ratas, arañas, gusanos y ranas.
-
+Summons multiple rats, spiders, worms, and frogs.
 %%%%
 Summon Water Elementals spell
 
-Invoca uno o más elementales de agua.
-
+Summons one or more water elementals.
 %%%%
 Swiftness spell
 
-Llama a los vientos para aumentar enormemente la velocidad de movimiento de la lanzador. Después de la
-el efecto termina, los movimientos de la lanzador se deslumbran por un tiempo.
-
+Calls forth winds to greatly increase the caster's movement speed. After the
+effect ends, the caster's movements will be sluggish for a time.
 %%%%
 Symbol of Torment spell
 
-Llama a los poderes de la oscuridad para causar daño agonizante a cualquier vida o
-cosa santa en los alrededores de la casta, cortando su salud en la mitad (partialmente
-resistido por energía negativa resistencia). Este daño nunca es directamente letal.
-
+Calls on the powers of darkness to cause agonising injury to any living or
+holy thing in the caster's vicinity, cutting their health in half (partially
+resisted by negative energy resistance). This damage is never directly lethal.
 %%%%
 Teleport Other spell
 
-Intenta teletransportar a una criatura dirigida fuera de la vista del caster, después de una
-poco tiempo.
-
+Attempts to teleport a targeted creature out of the caster's sight, after a
+short delay.
 %%%%
 Throw Ally spell
 
-Tira un aliado cercano al enemigo del monstruo, haciendo mínimo daño y landing
-monstruo tirado cerca.
-
+Throws a nearby ally at the monster's foe, doing minimal damage and landing the
+thrown monster nearby.
 %%%%
 Throw Barbs spell
 
-Dispara un volley de barbos en el blanco, skewering y hacer movimiento
-doloroso.
-
+Fires a volley of barbs at the target, skewering them and making movement
+painful.
 %%%%
 Throw Bolas spell
 
-Hurls a colosal bolas en el blanco, envolviendo incluso el mayor de los enemigos
-y los obliga en su lugar.
-
+Hurls a colossal bolas at the target, wrapping around even the largest of foes
+and binding them in place.
 %%%%
 Throw Flame spell
 
-Tira un pequeño manguito de llama.
-
+Throws a small puff of flame.
 %%%%
 Throw Frost spell
 
-Tira un pequeño pedazo de helada.
-
+Throws a small puff of frost.
 %%%%
 Throw Icicle spell
 
-Dispara un trozo de hielo. Debido a su fuerte impacto y bordes de corte, la mitad de su
-daño evita la resistencia fría.
-
+Fires a shard of ice. Due to its strong impact and cutting edges, half of its
+damage bypasses cold resistance.
 %%%%
 Throw Klown Pie spell
 
-Tira un pastel dañino pero extrañamente delicioso que puede infligir a su víctima con un
-número de efectos temporales irresistibles y debilitantes. These include
-induciendo vértigo, silencio, vulnerabilidad al fuego, fragilidad, ceguera o una
-aversión a las pociones para beber.
-
+Throws a harmful yet strangely delicious pie that can inflict its victim with a
+number of irresistible and debilitating temporary effects. These include
+inducing vertigo, silence, fire vulnerability, fragility, blindness, or an
+aversion to drinking potions.
 %%%%
 Thunderbolt spell
 
-Crea un arco penetrante de electricidad.
-
+Creates an arc of electricity.
 %%%%
 Trog's Hand spell
 
 <Trog's Hand ability>
-
 %%%%
 Kiss of Death spell
 
-Conjura un fragmento de la esencia de la lanzador y lo retorce en un fragmento
-de la muerte, drenando dolorosamente a la víctima. La casta también, encuentra su salud
-reducido, hasta que obtengan suficiente experiencia para recuperarse.
-
+Conjures forth a fragment of the caster's essence and twists it into a fragment
+of death, painfully draining the victim. The caster, too, will find their health
+reduced, until they gain enough experience to recover.
 %%%%
 Tukima's Dance spell
 
-Anima el arma de un enemigo apuntado, arrancarla de sus manos y causar
-para atacarlos sin descanso. Una vez que el objetivo muere, el arma cae a
-el terreno poco después.
+Animates the weapon of a targeted foe, ripping it from their hands and causing
+it to attack them relentlessly. Once the target dies, the weapon will fall to
+the ground shortly thereafter.
 
-Ciertos potentes artefactos no pueden ser animados, y cualquier propiedad que
-requiere habilidad en evocaciones no ser activo.
-
+Certain powerful named artefacts cannot be animated, and any properties that
+require skill in evocations will not be active.
 %%%%
 Upheaval spell
 
-Llama a las fuerzas de la naturaleza a volar una pequeña zona con magma, hielo, viento,
-o escombros.
-
+Calls on the forces of nature to blast a small area with magma, ice, wind,
+or rubble.
 %%%%
 Vampiric Draining spell
 
-Roba la vida de una criatura viviente adyacente y la otorga a la casta.
-
+Steals the life of an adjacent living creature and grants it to the caster.
 %%%%
 Vanquished Vanguard spell
 
-Llama a las almas persistentes de orcos que murieron en edades anteriores, y, para un
-breve momento, les da propósito en la batalla una vez más.
+Calls out to the lingering souls of orcs who died in earlier ages, and, for a
+brief moment, gives them purpose in battle once again.
 
-Más anclados a sus vidas pasadas que la mayoría de los espectrales, empuñan polearmas con
-habilidad viva, y rodear su cantera con eficacia fría.
-
+More anchored to their past lives than most spectrals, they wield polearms with
+living skill, and will encircle their quarry with cold efficiency.
 %%%%
 Venom Bolt spell
 
-Dispara un perno penetrante de veneno.
-
+Fires a penetrating bolt of poison.
 %%%%
 Vex spell
 
-Intentos de nublar la mente del objetivo con frustración sin pensar, forzándolos
-para pasar varios giros no haciendo más que atacar espacios cercanos (ya sean aquellos
-los espacios están vacíos o incluso contienen sus aliados).
-
+Attempts to cloud the target's mind with thoughtless frustration, forcing them
+to spend several turns doing nothing but attacking nearby spaces (whether those
+spaces are empty or even contain their allies).
 %%%%
 Virulence spell
 
-Hace que una criatura dirigida sea más vulnerable al veneno.
-
+Makes a targeted creature more vulnerable to poison.
 %%%%
 Momentum Strike spell
 
-Culpa a un objetivo con energía prestada del movimiento futuro de la lanzador. Para
-un corto tiempo después, la lanzador se deja inmóvil - incapaz de caminar, Fly
-alrededor, deslizamiento, etc. Sólo criaturas fútiles pueden lanzar este hechizo.
-
+Blasts a target with energy borrowed from the caster's own future movement. For
+a short time afterward, the caster will be left immotile - unable to walk, fly
+around, slither, etc. Only motile creatures can cast this spell.
 %%%%
 Vhi's Electric Charge spell
 
-Envia el dolor de casta a un enemigo cercano elegido, lanzando una alta precisión
-melee attack on arrival. Daño eléctrico adicional se tratará basado en
-longitud de la carga, el poder del hechizo, y el daño físico del
-ataque. El yeso está envuelto en un sobre de espacio retorcido, permitiéndoles
-pasar a través de criaturas, trampas y terrenos dañinos, y desplazarse
-criaturas en su destino. El tiempo tomado por el hechizo es el mayor
-el tiempo normalmente necesario para lanzar un hechizo o que necesitaba para lanzar un melee
-ataque.
-
+Sends the caster hurtling at a chosen nearby enemy, launching a high-accuracy
+melee attack on arrival. Additional electric damage will be dealt based on the
+length of the charge, the power of the spell, and the physical damage of the
+attack. The caster is wrapped in an envelope of twisted space, allowing them
+to safely pass through creatures, traps, and harmful terrain, and to displace
+creatures at their destination. The time taken by the spell is the greater of
+the time normally needed to cast a spell or that needed to launch one melee
+attack.
 %%%%
 Vhi's Electrolunge spell
 
-Envia el dolor de casta a un enemigo cercano elegido, lanzando una alta precisión
-melee attack on arrival, with additional electric damage based on spellpower.
-El yeso está envuelto en un sobre de espacio retorcido, permitiéndoles a salvo
-pasar a través de criaturas, trampas y terreno dañino, y desplazar criaturas en
-su destino.
-
+Sends the caster hurtling at a chosen nearby enemy, launching a high-accuracy
+melee attack on arrival, with additional electrical damage based on spellpower.
+The caster is wrapped in an envelope of twisted space, allowing them to safely
+pass through creatures, traps, and harmful terrain, and to displace creatures at
+their destination.
 %%%%
 Vitrify spell
 
-Renders la estructura corporal de una criatura tan frágil y frágil como el vidrio, aumentando
-los daños que consumen de todas las fuentes.
-
+Renders a creature's body structure as brittle and fragile as glass, increasing
+the damage they take from all sources.
 %%%%
 Vitrifying Gaze spell
 
-Irresistiblemente hace la estructura corporal de una criatura tan frágil y frágil como
-vidrio, aumentando el daño que sacan de todas las fuentes. Requiere línea de
-vista pero no línea de fuego.
-
+Irresistibly renders a creature's body structure as brittle and fragile as
+glass, increasing the damage they take from all sources. It requires line of
+sight but not line of fire.
 %%%%
 Volley of Thorns spell
 
-Lanza un pequeño granizo de espinas afiladas.
+Launches a small hail of sharp thorns.
+%%%%
+Wall of Brambles spell
 
+Causes brambles to rapidly grow nearby. They have almost no structural
+strength, but the wicked thorns they bear make their removal difficult. Such
+brambles are sparse enough that almost any missile can pass through unhindered.
 %%%%
 Warning Cry spell
 
-Genera un ruido fuerte, alertando enemigos cercanos.
-
+Generates a loud noise, alerting nearby enemies.
 %%%%
 Warp Body spell
 
-Twists el cuerpo de una criatura con corrupción mutagénica, haciendo una pequeña cantidad de
-daño e infligir una mutación transitoria. Si el objetivo ya está sufriendo
-de múltiples mutaciones transitorias, que infligen Vitrify en su lugar.
-
+Twists a creature's body with mutagenic corruption, doing a small amount of
+damage and inflicting a transient mutation. If the target is already suffering
+from multiple transient mutations, it will inflict Vitrify instead.
 %%%%
 Warp Space spell
 
-Crea una breve pero violenta grieta en el espacio, dañando todo lo atrapado en su
-despertar y a veces parpadearlos a corta distancia.
-
+Creates a brief but violent rift in space, damaging everything caught in its
+wake and sometimes blinking them a short distance away.
 %%%%
 Waterstrike spell
 
-Causa que el agua alrededor o debajo del objetivo se mueva violentamente, causando daños.
-Puede afectar a los objetivos de pie o volando por encima del agua.
-
+Causes the water around or under the target to violently swirl, dealing damage.
+It can affect targets standing in or flying above water.
 %%%%
 Weakening Gaze spell
 
-Debilita irresistiblemente los ataques de una criatura durante un período de tiempo,
-requiriendo la línea de visión pero no la línea de fuego.
-
+Irresistibly weakens a creature's melee attacks for a period of time,
+requiring line of sight but not line of fire.
 %%%%
 Wind Blast spell
 
-Causa una fuerte ráfaga de viento, empujando criaturas y nubes en un cono. Si
-Esto hace que una criatura collide con algo, que tomar daño.
-
+Causes a strong gust of wind, pushing away creatures and clouds in a cone. If
+this causes a creature to collide with something, it will take damage.
 %%%%
 Woodweal spell
 
-Se basa en la vitalidad de la hoja y la corteza para sanar una gran cantidad de daño.
-No se puede echar sin un árbol adyacente.
-
+Draws on the vitality of leaf and bark to heal a large amount of damage.
+Cannot be cast without a tree adjacent.
 %%%%
 Word of Recall spell
 
-Recuerda a aliados inteligentes de otras partes en el mismo nivel a la casta,
-después de un breve retraso.
-
+Recalls intelligent allies from elsewhere on the same level to the caster,
+after a short delay.
 %%%%
 Yara's Violent Unravelling spell
 
-Si se echa sobre una criatura ya bendecida (o maldecida) con encantos mágicos,
-esos encantamientos se desgarran, transformando en un spray de
-radiación mutagénica destructiva. La víctima y cualquier persona adyacente ser
-volcado y muy deformado, debilitando y reduciendo su armadura.
-Las criaturas invocadas son particularmente vulnerables, ya que los encantos vinculantes
-ellos a este plano desentrañar y hacer que sean despedidos inmediatamente.
-
-%%%%
+If cast upon a creature already blessed (or cursed) with magical enchantments,
+those enchantments will be torn apart, transforming into a spray of
+destructive mutagenic radiation. The victim and anyone adjacent will be
+blasted and heavily deformed, weakening them and reducing their armour.
+Summoned creatures are particularly vulnerable, as the enchantments binding
+them to this plane will unravel and cause them to be dismissed immediately.

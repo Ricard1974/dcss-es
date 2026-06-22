@@ -1,1498 +1,1290 @@
 %%%%
 Fast status
 
-Todas tus acciones son 50% más rápidas.
-
+All of your actions are 50% faster.
 %%%%
 Invis status
 
-Eres invisible. La mayoría de los enemigos no pueden verte y sufren
-sanciones para golpear, aunque pueden ser capaces de adivinar en su ubicación general.
-Si el estado está gris, es activo pero ineficaz por alguna razón (por
-ejemplo si estás brillando con contaminación mágica o de pie en superficial
-agua).
-
+You are invisible. Most enemies will be unable to see you and will suffer
+penalties to hit, though they may be able to guess at your general location.
+If the status is greyed out, it is active but ineffective for some reason (for
+example if you are glowing with magical contamination or standing in shallow
+water).
 %%%%
 Tele status
 
-Estás a punto de teletransportar. Mientras espera para teletransportar, tratando de aplicar el
-status again (such as by using a pergamino de teletransporte) cancel the
-teletransportación.
-
+You are about to teleport. While waiting to teleport, attempting to apply the
+status again (such as by using a scroll of teleportation) will cancel the
+teleportation.
 %%%%
 !Tele! status
 
-Estás a punto de teletransportar hacia monstruos hostiles, si es posible. Antes de esto
-sucede, tratando de teletransportar de nuevo (como usando un pergamino de
-teletransportación) cancelar esta teletransportación.
-
+You are about to teleport towards hostile monsters, if possible. Before this
+happens, attempting to teleport again (such as by using a scroll of
+teleportation) will cancel this teleportation.
 %%%%
 Fly status
 
-Tú está volando sobre el suelo, y son capaces de cruzar el agua y lava o luchar
-arriba agua poco profunda sin penalizaciones. La mayoría de los tipos de flight tiempo fuera – ser
-Cuidado con lo que estás arriba cuando eso sucede!
-
+You are flying above the ground, and are able to cross water and lava or fight
+above shallow water without penalties. Most types of flight will time out – be
+careful what you are above when that happens!
 %%%%
 Agi status
 
-Tú es naturalmente ágil, y ganar un bono a su evasión.
-
+You are unnaturally agile, and gain a bonus to your evasion.
 %%%%
 Brill status
 
-Tú es naturalmente inteligente, y ganar un bono al poder de sus hechizos también
-como reducir su costo mágico (redondeando).
-
+You are unnaturally smart, and gain a bonus to the power of your spells as well
+as halving their magic cost (rounding up).
 %%%%
 Might status
 
-Tú es antinaturalmente poderoso, haciendo significativamente más daño en el combate físico.
-
+You are unnaturally mighty, doing significantly more damage in physical combat.
 %%%%
 Regen status
 
-Tú regenera la salud a un ritmo antinaturalmente rápido. Esto sólo se muestra para
-regeneración temporal.
-
+You regenerate health at an unnaturally fast rate. This is only shown for
+temporary regeneration.
 %%%%
 -Regen status
 
-Su salud ha dejado de regenerarse debido a la presencia de monstruos cercanos.
-
+Your health has stopped regenerating due to the presence of nearby monsters.
 %%%%
 MPRegen status
 
-Tú regenera la salud y la magia a un ritmo antinaturalmente rápido. Esto sólo se muestra
-para la regeneración temporal.
-
+You regenerate health and magic at an unnaturally fast rate. This is only shown
+for temporary regeneration.
 %%%%
 Touch status
 
-Tus ataques no dan ningún daño, pero tienen la oportunidad de confundir monstruos que ellos
-golpe.
-
+Your attacks deal no damage, but have a chance of confusing monsters that they
+hit.
 %%%%
-++ status
+Will++ status
 
-Su fuerza de voluntad es mucho más fuerte, protegiendo contra muchos efectos mágicos.
-
+Your willpower is much stronger, protecting against many magical effects.
 %%%%
-Regen ++ status
+Regen Will++ status
 
-Trog's Hand te hace regenerar la salud de forma antinatural
-ritmo rápido y fortalecer su fuerza de voluntad para protegerte contra muchos mágicos
-Efectos.
-
+Trog's Hand is simultaneously making you regenerate health at an unnaturally
+fast rate and strengthening your willpower to protect you against many magical
+effects.
 %%%%
 Berserk status
 
-Tú es apresurado, tratar el aumento del daño en el combate, y han aumentado la salud, pero
-son incapaces de realizar la mayoría de acciones que no se mueven y atacan en melee.
-El estado se apaga muy rápidamente a menos que estás ataque monstruos, y
-cuando caduca se ralentiza e incapaz de Berserk de nuevo por un corto
-duración.
-
+You are hasted, deal increased damage in combat, and have increased health, but
+are unable to perform most actions other than moving and attacking in melee.
+The status will wear off very quickly unless you are attacking monsters, and
+when it expires you will be slowed and unable to berserk again for a short
+duration.
 %%%%
 -Berserk status
 
-Te estás recuperando de tu rabia Berserk, y no puedes Berserk otra vez para
-una corta duración.
-
+You are recovering from your berserk rage, and are unable to berserk again for
+a short duration.
 %%%%
 Bearserk status
 
-¡Estás lleno de rabia barbárica! Tú es apresurado, tratar daño grizzly, y
-han aumentado enormemente la salud, pero no es posible hacer mucho más que
-Muévete y maul foes. Tú va a pedir furwell a este estado muy rápidamente a menos que tú
-están atacando, y cuando caduca tú ser lento e incapaz de ser grosero
-otra vez por un corto período.
-
+You are filled with barbearic rage! You are hasted, deal grizzly damage, and
+have greatly increased health, but find it impawsible to do much other than
+move and maul foes. You'll bid furwell to this status very quickly unless you
+are attacking, and when it expires you will be slowed and unable to bearserk
+again for a short duration.
 %%%%
 Pois status
 
-Tú está envenenado y pierde continuamente la salud. Mientras se envenena, su corriente
-salud ser parcialmente reconstruido para mostrar el eventual daño de veneno que
-ser tratado. El veneno se puede curar inmediatamente por pociones de curado.
-
+You are poisoned and will continually lose health. While poisoned, your current
+health will be partially recoloured to display the eventual poison damage that
+will be dealt. Poison can be cured immediately by potions of curing.
 %%%%
 Conf status
 
-Estás confundido. Tú puede tropezar en una dirección al azar al intentar moverse
-o ataque, y son incapaces de lanzar hechizos o utilizar la mayoría de artículos que no sean pociones.
-La confusión se puede curar inmediatamente por pociones de curado.
-
+You are confused. You may stumble in a random direction when attempting to move
+or attack, and are unable to cast spells or use most items other than potions.
+Confusion can be cured immediately by potions of curing.
 %%%%
 Contam status
 
-Estás brillando con radiación mutagénica. Esto puede infligir mutaciones con el tiempo
-(generalmente negativo) o incluso causar que tú sufre daño como la magia inestable
-explota violentamente. Además, su brillo evita la invisibilidad y reduce
-tu sigilo.
- LUA0
-
+You are glowing with mutagenic radiation. This can inflict mutations over time
+(usually negative) or even cause you to suffer damage as the unstable magic
+explodes violently. In addition, your glow prevents invisibility and reduces
+your stealth.
+{{
+    local dmg = you.contam_max_damage();
+    if dmg > 0 then
+        return "\nAn explosion at your current level of contamination could " ..
+               "inflict up to " .. dmg .. " damage."
+    end
+}}
 %%%%
 Drain status
 
-Su salud máxima ha sido drenada temporalmente por energía negativa. Esto
-estado no se desgastan esperando, pero gradualmente caduca a medida que gana
-experiencia.
-
+Your maximum health has been temporarily drained by negative energy. This
+status will not wear off by waiting, but will gradually expire as you gain
+experience.
 %%%%
 -Breath status
 
-Tú está atrapando su aliento, y son incapaces de utilizar su innata capacidad respiratoria
-hasta que el estado expira.
-
+You are catching your breath, and are unable to use your innate breath ability
+until the status expires.
 %%%%
 Breath status
 
-Indica cuántos usos de su arma respiratoria Draconian están disponibles. Si
-indicador es dim, hay cero. De lo contrario, el número de pluses indica
-usos adicionales disponibles.
-
+Indicates how many uses of your draconian breath weapon are available. If the
+indicator is dim, there are zero. Otherwise, the number of plusses indicate
+additional uses available.
 %%%%
 Breath+ status
 
 <Breath status>
-
 %%%%
 Breath++ status
 
 <Breath status>
-
 %%%%
 Exh status
 
-Tú están exhaustos, y no pueden activar poderes divinos que causan
-agotamiento hasta que el estado expira.
-
+You are exhausted, and are unable to activate divine powers that cause
+exhaustion until the status expires.
 %%%%
 Slow status
 
-Todas tus acciones tardan un 50% más.
-
+All your actions take 50% longer.
 %%%%
 Para status
 
-Estás paralizado y completamente incapaz de actuar.
-
+You are paralysed, and completely unable to act.
 %%%%
 Sleep status
 
-Estás dormido, y completamente incapaz de actuar. Tomar daño despertarte.
-
+You are asleep, and completely unable to act. Taking damage will wake you.
 %%%%
 Held status
 
-Tú se mantiene en una red o una web de araña. No puede moverse libremente y en su lugar
-tratar de luchar libre.
-
+You are held in a net or a spider web. You cannot move freely and will instead
+try to struggle free.
 %%%%
 Constr status
 
-Estás siendo restringido por un enemigo. Tu evasión está alterada, y tú...
-Tomar daño con el tiempo. Tú es incapaz de alejarse del enemigo, aunque tú
-puede luchar por escapar tratando de hacerlo, y cada vez más
-es probable que tenga éxito y quebrar la constricción al hacerlo múltiples veces.
-
+You are being constricted by an enemy. Your evasion is impaired, and you will
+take damage over time. You are unable to move away from the enemy, although you
+can struggle to escape by attempting to do so, and will become increasingly more
+likely to succeed and break the constriction when doing so multiple times.
 %%%%
 Mesm status
 
-Estás mesmerizado y no puedes alejarte del monstruo mesmerizándote. El
-efecto se puede romper matando o confundiendo al monstruo responsable o
-rompiendo la línea de visión con ellos.
-
+You are mesmerised and cannot move away from the monster mesmerising you. The
+effect can be broken by killing or confusing the responsible monster or by
+breaking line of sight with them.
 %%%%
 Fear status
 
-Estás vencido con miedo y no puedes avanzar hacia el monstruo causando miedo
-Tú. El efecto puede romperse matando o confundiendo al monstruo responsable
-o rompiendo la línea de visión con ellos.
-
+You are overcome with fear and cannot move towards the monster causing fear in
+you. The effect can be broken by killing or confusing the responsible monster
+or by breaking line of sight with them.
 %%%%
 -Tele status
 
-Se le impide teletransportar o parpadear.
-
+You are prevented from teleporting or blinking.
 %%%%
 -Move status
 
-No puedes caminar, Fly alrededor, deslizamiento, etc. Aún puedes tomar otras acciones,
-y todavía se puede mover a través de translocaciones o siendo empujado, tirado, y así sucesivamente.
-
+You cannot walk, fly around, slither, etc. You can still take other actions,
+and can still be moved via translocations or by being pushed, pulled, and so on.
 %%%%
 Mark status
 
-Su ubicación está marcada debido a los efectos de una trampa o un hechizo, y monstruos
-buscarte más precisamente y ser capaz de detectarte incluso si
-no están en su visión.
-
+Your location is marked due to the effects of a trap or a spell, and monsters
+will hunt you down more precisely and will be able to detect you even if you
+are not in their vision.
 %%%%
 Fire status
 
-Tú está cubierto con fuego pegajoso, que causa daño durante una duración moderada.
-Moving quell the fire much more quickly, and entering water extinguish
-inmediatamente.
-
+You are covered with sticky fire, which causes damage over a moderate duration.
+Moving will quell the fire much more rapidly, and entering water will extinguish
+it immediately.
 %%%%
 Fire+ status
 
 <Fire status>
-
 %%%%
 Fire++ status
 
 <Fire status>
-
 %%%%
 Corona status
 
-Estás rodeado de luz, reduciendo enormemente tu sigilo y haciéndote
-más fácil de golpear.
-
+You are surrounded by light, greatly reducing your stealth and making you
+easier to hit.
 %%%%
 Barbs status
 
-Hay barbs incrustados en su piel, y moverse alrededor de causa que tú tome
-daño. Permanecer en su lugar por un corto tiempo le permite quitar los barbs
-sin hacer daño.
-
+There are barbs embedded in your skin, and moving around will cause you to take
+damage. Remaining in place for a short time will allow you to remove the barbs
+without taking damage.
 %%%%
 Sick status
 
-Has sido enfermizado, y tu salud ya no se regenera.
-
+You have been sickened, and your health will no longer regenerate.
 %%%%
 Vertigo status
 
-Estás desorientado y mareado, reduciendo tu precisión, evasión y
-deletreando la tasa de éxito.
-
+You are disoriented and dizzy, reducing your accuracy, evasion, and
+spellcasting success rate.
 %%%%
 Corr status
 
-Tú está corroído, reduciendo su daño en el combate físico y su armadura por una
-cantidad dependiendo de la gravedad de la corrosión.
-
+You are corroded, reducing your damage in physical combat and your armour by an
+amount depending on the severity of the corrosion.
 %%%%
 Flay status
 
-Tú está cubierto de heridas ilusionarias, causando graves daños mientras el efecto
-sigue activo. Destruyendo la fuente de la ilusión restaurar toda la salud
-perdido a la fuga.
-
+You are covered in illusionary wounds, causing severe damage while the effect
+remains active. Destroying the source of the illusion will restore all health
+lost to the flaying.
 %%%%
 Weak status
 
-Tus ataques de meleo hacen un 25% menos daño.
-
+Your melee attacks do 25% less damage.
 %%%%
 Frozen status
 
-Tú está cubierto de hielo, y su velocidad de movimiento se reduce.
-
+You are covered in ice, and your movement speed is reduced.
 %%%%
 Sap status
 
-Tu magia está salpicada. Casting un hechizo hace que pierdas acceso a tu
-magia, previniendo brevemente que castigues otros hechizos.
-
+Your magic is sapped. Casting a spell will cause you to lose access to your
+magic, briefly preventing you from casting any further spells.
 %%%%
 -Cast status
 
-No puedes hacer hechizos.
-
+You are unable to cast spells.
 %%%%
 Crippled status
 
-Al menos una de tus fuerzas, inteligencia o destreza ha caído a 0 o
-abajo. Tú actúa lentamente hasta que esta situación sea remediada.
-
+At least one of your strength, intelligence, or dexterity has fallen to 0 or
+below. You will act slowly until this situation is remedied.
 %%%%
 DChan status
 
-Estás canalizando a los muertos, causando a cualquier criatura viviente muerta en tu
-cerca de ser criado como sirvientes espectrales.
-
+You are channelling the dead, causing any living creatures killed in your
+vicinity to be raised as spectral servants.
 %%%%
 Vit status
 
-Tú es divinamente vitalizado, proporcionando protección contra el veneno, la confusión,
-petrificación, y enfermedad, y aumentar y sostener su fuerza,
-inteligencia y destreza.
-
+You are divinely vitalised, providing protection from poison, confusion,
+petrification, and sickness, and increasing and sustaining your strength,
+intelligence and dexterity.
 %%%%
-/2 status
+Will/2 status
 
-Tu fuerza de voluntad es más débil, haciéndote vulnerable a muchos efectos mágicos.
-
+Your willpower is weaker, making you vulnerable to many magical effects.
 %%%%
 Stone status
 
-Estás petrificada y completamente incapaz de actuar. Eres muy fácil de golpear,
-pero todos los daños causados se reducen sustancialmente.
-
+You are petrified, and completely unable to act. You are very easy to hit,
+but all damage taken is substantially reduced.
 %%%%
 Petr status
 
-Te estás convirtiendo en piedra. Tus acciones son lentas, todo el daño es ligeramente
-reducido, y tú pronto será completamente petrificado (recogiendo el estado de Piedra).
-
+You are turning to stone. Your actions are slowed, all damage taken is slightly
+reduced, and you will soon be completely petrified (gaining the Stone status).
 %%%%
 Resist status
 
-Tú es más resistente al fuego, frío, electricidad, veneno y ácido.
-
+You are more resistant to fire, cold, electricity, poison and acid.
 %%%%
 Slime status
 
-Tu arma peluda o tus puños están recubiertos en el cuero cabelludo, y gire al siguiente
-monstruo viviente o no muerto corpóreo que golpeas en un eslido neutral.
-
+Your wielded weapon or your fists are coated in slime, and will turn the next
+living or corporeal undead monster you hit into a neutral slime.
 %%%%
 Swift status
 
-Estás cubriendo el suelo rápidamente.
-
+You are covering ground swiftly.
 %%%%
 -Swift status
 
-Estás cubriendo tierra lentamente.
-
+You are covering ground slowly.
 %%%%
 DDoor status
 
-Tú es temporalmente invulnerable para dañar, pero son llevados cerca de la muerte en el
-proceso y no puede afectado por la curación mientras el efecto es activo. Después de la
-El hechizo expira, no puede inmediatamente retransmitido.
-
+You are temporarily invulnerable to harm, but are brought close to death in the
+process and cannot be affected by healing while the effect is active. After the
+spell expires, it cannot be immediately recast.
 %%%%
 -DDoor status
 
-Aún estás cerca de la puerta de la muerte, y no puedes retransmitir la puerta de la muerte por un
-duración corta.
-
+You are still close to death's doorway, and cannot recast Death's Door for a
+short duration.
 %%%%
 Quad status
 
 QUAD DAMAGE!
-
 %%%%
 Sil status
 
-Estás silenciado. Esto hace pergaminos de lectura, hechizos de casting, invocando divino
-habilidades, o gritando imposible.
-
+You are silenced. This makes reading scrolls, casting spells, invoking divine
+abilities, or shouting impossible.
 %%%%
 Flooded status
 
-Sus pulmones están llenos de líquido, impidiéndole respirar correctamente. Esto
-hace imposible la lectura de pergaminos, hechizos de casting e invocando habilidades divinas.
-Tú también toma daño de asfixia cada vuelta.
-
+Your lungs are filled with liquid, preventing you from breathing properly. This
+makes reading scrolls, casting spells, and invoking divine abilities impossible.
+You will also take asphyxiation damage every turn.
 %%%%
 Stealth status
 
-Tu sigilo se incrementa mucho.
-
+Your stealth is greatly increased.
 %%%%
 Vortex status
 
-Estás en el ojo de una poderosa tormenta de hielo. Después del vórtice se desvanece, no puede
-llamó de nuevo por un corto tiempo.
-
+You are in the eye of a mighty ice storm. After the vortex fades, it cannot be
+called forth again for a short time.
 %%%%
 -Vortex status
 
-Tú está rodeado de vientos inestables, y no puede retransmitir Polar Vortex para un corto
-duración.
-
+You are surrounded by unstable winds, and cannot recast Polar Vortex for a short
+duration.
 %%%%
 Liquid status
 
-Estás licuando el suelo a tu alrededor, desacelerando el movimiento de todas las criaturas
-en la zona.
-
+You are liquefying the ground around you, slowing the movement of all creatures
+in the area.
 %%%%
 Hero status
 
-Tus habilidades de combate se incrementan temporalmente.
-
+Your combat skills are temporarily increased.
 %%%%
 Finesse status
 
-Su velocidad de combate se incrementa enormemente.
-
+Your combat speed is greatly increased.
 %%%%
 Duel status
 
-Tú está cavando un enemigo en la Arena de Okawaru, y ser devuelto cuando tú vino
-si estás victorioso.
-
+You are duelling a foe in Okawaru's Arena, and will be returned whence you came
+if you are victorious.
 %%%%
 Disjoin status
 
-Tú está desestabilizando el espacio alrededor de tú mismo, causando monstruos cercanos para ser
-al azar parpadeó lejos de ti.
-
+You are destabilising space around yourself, causing nearby monsters to be
+randomly blinked away from you.
 %%%%
 Fugue status
 
-Su arma es aumentada temporalmente por las almas de los condenados, proporcionando
-Matar bonos que aumentan con cada enemigo muerto. En el bono máximo,
-Los enemigos adyacentes a los objetivos de sus ataques sufren dolor.
-
+Your weapon is temporarily enhanced by the souls of the damned, providing
+slaying bonuses that increase with every enemy killed. At the maximum bonus,
+foes adjacent to your attacks' targets suffer pain damage.
 %%%%
 Debt status
 
-Has vivido más allá de tus medios. No puedes gastar oro de nuevo hasta ganar
-lo suficiente para cancelar tu deuda.
-
+You have lived beyond your means. You cannot spend gold again until you earn
+enough to cancel out your debt.
 %%%%
 Toxic status
 
-Está irradiando energía tóxica, y inflige continuamente veneno a todos
-criaturas cercanas.
-
+You are radiating toxic energy, and will continuously inflict poison on all
+nearby creatures.
 %%%%
 Recite status
 
-Estás recitando las leyes de Zin a monstruos cercanos, con una gama de efectos
-dependiendo del objetivo. Después de terminar una recitación, no se puede repetir
-por un corto tiempo.
-
+You are reciting Zin's laws to nearby monsters, with a range of effects
+depending on the target. After finishing a recitation, it cannot be repeated
+for a short time.
 %%%%
 -Recite status
 
-Recientemente has terminado de recitar las leyes de Zin, y no puedes recitar de nuevo para un
-duración corta.
-
+You have recently finished reciting Zin's laws, and cannot recite again for a
+short duration.
 %%%%
 rF- status
 
-Eres más vulnerable al fuego.
-
+You are more vulnerable to fire.
 %%%%
 rP- status
 
-Eres más vulnerable al veneno.
-
+You are more vulnerable to poison.
 %%%%
 Bullseye status
 
-Tú ha apuntado a un enemigo con un tirón dimensional, causando misiles disparados
-o arrojado a un enemigo diferente para ser teletransportado al objetivo.
-
+You have targeted an enemy with a dimensional bullseye, causing missiles fired
+or thrown at a different enemy to also be teleported at the target.
 %%%%
 Forest status
 
-Estás llamando a un avión boscoso a la existencia temporal, y despertar cerca
-árboles para daño a tus enemigos.
-
+You are calling a forested plane into temporary existence, and awakening nearby
+trees to damage your foes.
 %%%%
 Dragoncall status
 
-Estás llamando a dragones poderosos para atacar a tus enemigos. Cada dragón
-responde a la llamada Drain su energía mágica. Después de que la llamada termine, no puede
-se publicará de nuevo por un corto tiempo.
-
+You are calling forth mighty dragons to attack your foes. Each dragon which
+answers the call will drain your magical energy. After the call ends, it cannot
+be issued again for a short time.
 %%%%
 -Dragoncall status
 
-Has llamado recientemente a los dragones, y no puedes retransmitir el Llamado de Dragon para un
-duración corta.
-
+You have recently called forth dragons, and cannot recast Dragon's Call for a
+short duration.
 %%%%
 -Potion status
 
-No puedes hacer pociones.
-
+You are unable to quaff potions.
 %%%%
 rF+ status
 
-Eres más resistente al fuego.
-
+You are more resistant to fire.
 %%%%
 rC+ status
 
-Eres más resistente al frío.
-
+You are more resistant to cold.
 %%%%
 rElec+ status
 
-Eres más resistente a la electricidad.
-
+You are more resistant to electricity.
 %%%%
 Horr status
 
-Estás aterrorizado de monstruos cercanos, reduciendo tu daño y precisión en
-combate así como el poder de tus hechizos.
-
+You are terrified of nearby monsters, reducing your damage and accuracy in
+combat as well as the power of your spells.
 %%%%
 -Scroll status
 
-No puedes leer pergaminos.
-
+You are unable to read scrolls.
 %%%%
 Cleave status
 
-Tus ataques de melee se arrastren, golpeando todos los objetivos adyacentes.
-
+Your melee attacks cleave, hitting all adjacent targets.
 %%%%
 Ambros status
 
-Tú está regenerando la salud y la magia, pero también están confundidos. Curando
-confusión también termina la regeneración.
-
+You are regenerating health and magic, but are also confused. Curing the
+confusion will also end the regeneration.
 %%%%
 Surge status
 
-Su próximo uso de un dispositivo evocable tiene su potencia mejorada, al costo
-de algo de tu magia.
-
+Your next use of an evokable device will have its power enhanced, at the cost
+of some of your magic.
 %%%%
 Howl status
 
-Un aullido aterrador está haciendo eco en tu mente, llamando a criaturas poderosas a
-Ataque.
-
+A terrifying howl is echoing in your mind, calling forth powerful creatures to
+attack you.
 %%%%
 Blood status
 
-Su cuerpo está cubierto de sangre congealizada, sirviendo como armadura durante el tiempo que tú
-Sigue gravemente herido.
-
+Your body is covered in congealed blood, serving as armour for as long as you
+remain seriously injured.
 %%%%
 Channel status
 
-Estás canalizando energía mágica.
-
+You are channelling magical energy.
 %%%%
 Beast status
 
-Tú ha sido transformado en una monstruosa y furtiva fiesta. El feroz
-La energía que atraviesa tus extremidades te mantiene listo para matar.
-
+You have been transformed into a monstrous, furry were-beast. The ferocious
+energy pulsing through your limbs keeps you ready to kill.
 %%%%
 Flux status
 
-Eres inestable a nivel fundamental. Tú inflige niveles peligrosos
-contaminación mágica en foes con cada toque. Contaminación suficiente
-causa un derretimiento altamente localizado, causando enormes daños.
+You are unstable at a fundamental level. You inflict dangerous levels of
+magical contamination on foes with each touch. Sufficient contamination
+causes a highly localised meltdown, dealing enormous damage.
 
-Sin embargo, esta inestabilidad te hace incapaz de usar armas, escudos o
-armadura corporal. También brilla, reduciendo el robo y evitando la invisibilidad,
-y tú hace menos daño en la melee, ya que sus extremidades a veces desestabilizan el punto medio.
-
+However, this instability makes you unable to use weapons, shields, or
+body armour. You also glow, reducing stealth and preventing invisibility,
+and you do less damage in melee, as your limbs sometimes destabilise mid-swing.
 %%%%
 Serpent status
 
-Has sido transformado en una serpiente gigante, de sangre fría y resistente al veneno,
-listo para enrollar sus bobinas alrededor de enemigos y aplastarlos hasta la muerte.
-
+You have been transformed into a giant, cold-blooded, poison-resistant serpent,
+ready to wind your coils around foes and crush them to death.
 %%%%
 Maw status
 
-Tu sección media se ha transformado en una boca gigante, rociando y listo para devorar
-enemigos. La boca puede devorar criaturas muertas, sanándote hasta un grado aumentado
-por tu habilidad de Shapeshifting y el poder de la criatura comido. Habilidad también
-aumenta el daño causado por la mandíbula.
-
+Your midsection has transformed into a giant mouth, gnashing and ready to devour
+foes. The mouth may devour slain creatures, healing you to an extent increased
+by your Shapeshifting skill and the power of the creature eaten. Skill also
+increases the damage done by the maw.
 %%%%
 Statue status
 
-Tú ha sido transformado en una estatua de piedra Slow pero extremadamente robusta.
-Su daño meleo, tanto desarmado como con armas, se aumenta sustancialmente.
-Su cuerpo de piedra es inmune al veneno y al miasma, y gana resistencia a
-electricidad, energía negativa y tormento.
-
+You have been transformed into a slow but extremely robust stone statue.
+Your melee damage, both unarmed and with weapons, is substantially increased.
+Your stone body is immune to poison and miasma, and gains resistance to
+electricity, negative energy and torment.
 %%%%
 Dragon status
 
-LUA0 Tus ataques de melee dan un daño increíble, y estás mucho más robusto pero
-menos evasiva.
+{{
+    local desc = "You have been transformed into a mighty"
 
+    if you.race():find("Draconian") then
+        desc = desc .. " dragon"
+        if you.race() ~= "Grey Draconian" then
+            desc = desc .. ", increasing the power of any innate breath attacks"
+        end
+        if you.race() == "Red Draconian" then
+            desc = desc .. ". You are highly resistant to fire and " ..
+                           "resistant to poison, but vulnerable to cold"
+        elseif you.race() == "White Draconian" then
+            desc = desc .. ". You are highly resistant to cold and " ..
+                           "resistant to poison, but vulnerable to fire"
+        elseif you.race() == "Green Draconian" then
+            desc = desc .. " and retaining your innate colour"
+        else
+            desc = desc .. ". You retain your innate colour, and are " ..
+                           "also resistant to poison"
+        end
+    else
+        desc = desc .. ", fire-breathing dragon. You are highly resistant " ..
+                       "to fire and resistant to poison, but vulnerable to " ..
+                       "cold"
+    end
+
+    desc = desc .. "."
+
+    return desc
+}} Your melee attacks deal incredible damage, and you are much more robust but
+less evasive.
 %%%%
 Storm status
 
-Has sido transformado en una tempestad llena de rayos. Tu melee ataca
-son fortalecidos y electrificados, y golpean a todos los enemigos adyacentes. Ganaste flight,
-mayor evasión, inmunidad a veneno, miasma, petrificación y constricción,
-y resistencia a la electricidad. Ganas la capacidad de lanzarte a los enemigos
-como un rayo.
-
+You have been transformed into a lightning-filled tempest. Your melee attacks
+are strengthened and electrified, and strike all adjacent foes. You gain flight,
+increased evasion, immunity to poison, miasma, petrification, and constriction,
+and resistance to electricity. You gain the ability to launch yourself at foes
+as a lightning bolt.
 %%%%
 Death status
 
-Tú ha sido transformado en un delito inquebrantable contra la vida misma.
+You have been transformed into an undying offence against life itself.
 
-Las fosas golpeadas por tus manos o las armas meleadas están debilitadas, ralentizadas y drenadas,
-y puedes curarse a sí mismo atormentando a los enemigos vivientes cercanos. También te resistes
-frío, han mejorado la fuerza de voluntad, y son inmunes al veneno, el miasma, negativo
-energía y tormento. Desafortunadamente, estás vulnerable al daño santo y
-Dispelar Undead, y no puede consumir pociones.
-
+Foes struck by your hands or melee weapons are weakened, slowed, and drained,
+and you can heal yourself by tormenting living foes nearby. You also resist
+cold, have enhanced willpower, and are immune to poison, miasma, negative
+energy, and torment. Unfortunately, you are vulnerable to holy damage and
+Dispel Undead, and cannot consume potions.
 %%%%
 Bat status
 
-Has sido transformado en un murciélago rápido, aumentando tu evasión pero
-debilitando sustancialmente tus ataques de melee.
+You have been transformed into a swift-moving bat, increasing your evasion but
+substantially weakening your melee attacks.
 
-Cualquier arma, armadura y anillos equipados se combinan, y estás incapaz de lanzar
-hechizos. La eficacia de sus ataques de melee mientras que en esta forma se basa en
-nivel de experiencia en lugar de la habilidad Combate sin armas.
-
+Any equipped weapons, armour and rings are melded, and you are unable to cast
+spells. The effectiveness of your melee attacks while in this form is based on
+experience level instead of on Unarmed Combat skill.
 %%%%
 Pig status
 
-Te has convertido en un cerdo. Te mueves rápido pero eres menos eficaz
-en melee.
+You have been transformed into a pig. You move quickly but are less effective
+in melee.
 
-Cualquier arma, armadura y anillos equipados se combinan, y estás incapaz de lanzar
-hechizos. La eficacia de sus ataques de melee mientras que en esta forma se basa en
-nivel de experiencia en lugar de la habilidad Combate sin armas.
-
+Any equipped weapons, armour and rings are melded, and you are unable to cast
+spells. The effectiveness of your melee attacks while in this form is based on
+experience level instead of on Unarmed Combat skill.
 %%%%
 App status
 
-LUA0
-
+{{
+    if you.race() == "Octopode" then
+        return "A vicious spike has grown from one of your tentacles, " ..
+               "increasing the damage of your extra tentacle attacks."
+    else
+        return "Monstrous horns or talons have grown from your body, " ..
+               "granting a chance of making an extra attack in melee."
+    end
+}}
 %%%%
 Tree status
 
-Has sido transformado en un árbol y estás arraigado al suelo, incapaz de
-Muévete o teletransporte. Tú tiene una evasión mínima pero aumento de la salud y natural
-armadura, y son resistentes al veneno, e inmunes a tormento y ahogamiento.
+You have been transformed into a tree and are rooted to the ground, unable to
+move or teleport. You have minimal evasion but increased health and natural
+armour, and are resistant to poison, and immune to torment and drowning.
 
-Cualquier manto equipado, casco, guantes, botas y armadura corporal se combinan.
-
+Any equipped cloak, helmet, gloves, boots and body armour are melded.
 %%%%
 Wisp status
 
-Has sido transformado en un gas insustancial. Eres muy fuerte.
-evasivo y resistente al fuego, el frío, la electricidad y el ácido, e inmune a
-veneno, y energía negativa.
+You have been transformed into an insubstantial wisp of gas. You are highly
+evasive and are resistant to fire, cold, electricity and acid, and immune to
+poison, and negative energy.
 
-Cualquier arma, armadura y joyería equipados se combinan, y estás incapaz de
-Escribir hechizos. La eficacia de sus ataques de melee mientras que en esta forma se basa
-en nivel de experiencia en lugar de la habilidad Combate sin armas.
-
+Any equipped weapons, armour and jewellery are melded, and you are unable to
+cast spells. The effectiveness of your melee attacks while in this form is based
+on experience level instead of on Unarmed Combat skill.
 %%%%
 Fungus status
 
-Has sido transformado en un hongo sensible. Eres muy evasiva y
-puede liberar esporas para causar confusión cuando atacan en melee, pero son incapaces
-para moverse cuando las criaturas hostiles están presentes. Tú es resistente al veneno y
-inmune a energía negativa.
+You have been transformed into a sentient fungus. You are highly evasive and
+can release spores to cause confusion when attacking in melee, but are unable
+to move when hostile creatures are present. You are resistant to poison and
+immune to negative energy.
 
-Cualquier armamento y armadura equipados se funden, y estás incapaz de lanzar hechizos.
-La eficacia de sus ataques de melee mientras que en esta forma se basa en
-nivel de experiencia en lugar de la habilidad Combate sin armas.
-
+Any equipped weapons and armour are melded, and you are unable to cast spells.
+The effectiveness of your melee attacks while in this form is based on
+experience level instead of on Unarmed Combat skill.
 %%%%
 Shadow status
 
-Has sido transformado en una masa de sombras oscuras. Eres tú.
-permanentemente invisibles y son inmunes al veneno, el drenaje y el tormento. Todos
-el daño entrante se reduce a la mitad, tú sangró humo en cualquier ataque entrante, y tienes
-infinita fuerza de voluntad. Sin embargo, su capacidad para hacer frente a los daños en la melee y con
-los ataques de rango se reduce a la mitad, su poder de la ortografía se ve muy obstaculizado, y su
-la salud máxima se drena cuando se daña.
-
+You have been transformed into a swirling mass of dark shadows. You are
+permanently invisible and are immune to poison, draining, and torment. All
+incoming damage is halved, you bleed smoke on any incoming attack, and you have
+infinite willpower. However, your ability to deal damage in melee and with
+ranged attacks is halved, your spellcasting power is greatly hampered, and your
+maximum health is further drained when taking damage.
 %%%%
 Orb status
 
-Estás cerca (o tal vez sosteniendo) el Orbe de Zot, cuyas energías perturban
-magia de translocación. Teleportación tarda más y los desplazamientos de parpadeo pueden
-transporte a corta distancia de su destino previsto.
-
+You are near (or perhaps holding) the Orb of Zot, whose energies disrupt
+translocation magic. Teleportation will take longer and scrolls of blinking may
+transport you a short distance away from your intended destination.
 %%%%
 Orb? status
 
-Sostienes el Orbo de Charlatan, cuyas energías perturban la translocación
-magia. Teleportación tomar más tiempo y pergaminos de parpadeo puede transportarlo
-a corta distancia de su destino previsto.
-
+You are holding the Charlatan's Orb, whose energies disrupt translocation
+magic. Teleportation will take longer and scrolls of blinking may transport you
+a short distance away from your intended destination.
 %%%%
 -Hop status
 
-Sus piernas están cansadas, y estás incapaz de saltar. Este estado sólo se recupera
-después de pasar varios turnos sin moverse. (Otros actos, como el ataque o
-hechizos de casting, están bien.)
-
+Your legs are tired, and you are unable to hop. This status will only recover
+after you spend several turns not moving. (Other actions, such as attacking or
+casting spells, are fine.)
 %%%%
 Ray status
 
-Actualmente estás canalizando un rayo de energía mágica. Prensa
-<w>.</w> o <w></w> para esperar en el lugar mantener e intensificar el rayo, en
-el costo de 1 MP por turno. Cualquier otra acción, incluyendo retransmitir el hechizo,
-Termínalo.
-
+You are currently channelling a ray of searing magical energy. Pressing
+<w>.</w> or <w>s</w> to wait in place will maintain and intensify the ray, at
+the cost of 1 MP per turn. Any other action, including recasting the spell,
+will end it.
 %%%%
 Ray+ status
 
 <Ray status>
-
 %%%%
 Ray++ status
 
 <Ray status>
-
 %%%%
 Lash status
 
-Tú está moviendo a velocidad sobrenatural, causando acciones de movimiento para convertirse
-instantánea. Cualquier ataque marcial realizado mientras se mueve de esta manera el acuerdo aumentó
-daño y nunca falla.
-
+You are moving at supernatural speed, causing movement actions to become
+instant. Any martial attacks made while moving in this way deal increased
+damage and never miss.
 %%%%
 Heavenly status
 
-Estás rodeado de una tormenta de nubes celestiales. Mientras la tormenta se precipita, tu
-la evasión y la precisión de combate y los daños aumentan sustancialmente, y
-enemigos llamativos con ataques marciales aumenta este bono. La tormenta se debilita
-con el tiempo y se desvanece una vez que el bono alcanza cero. Las nubes celestiales
-prevenir la invisibilidad, y ocultar la visión de aquellos fuera de la tormenta.
-
+You are surrounded by a storm of heavenly clouds. While the storm rages, your
+evasion and combat accuracy and damage are substantially increased, and
+striking enemies with martial attacks increases this bonus. The storm weakens
+over time and fades away once the bonus reaches zero. The heavenly clouds
+prevent invisibility, and obscure the vision of those outside the storm.
 %%%%
 SlowM status
 
-Su movimiento se ralentiza en este terreno líquido.
-
+Your movement is slowed on this liquid ground.
 %%%%
 Alive status
 
-Estás lleno de sangre, y regenera la salud rápidamente.
-
+You are full of blood, and regenerate health quickly.
 %%%%
 Aug status
 
-Tú recibe bonificaciones de ortografía y matanza que escalan con su salud.
-
+You receive spellcasting and slaying bonuses that scale with your health.
 %%%%
 Beogh status
 
-Puedes jurar lealtad a Beogh, el dios de todos los orcos, a través de un sacerdote cercano.
-Para ello, utilice la capacidad de conversión a Beogh en el menú de habilidad.
-
+You can swear fealty to Beogh, the god of all orcs, through a nearby priest.
+To do so, use the Convert to Beogh ability in the ability menu.
 %%%%
 Bloodless status
 
-Su cuerpo está completamente desprovisto de sangre, reduciendo su salud máxima y
-previniendo que tú regenera la salud cuando los monstruos son visibles. Eres tú.
-inmune al veneno y energía negativa, resisten significativamente el frío y resisten
-tormento.
-
+Your body is entirely devoid of blood, reducing your maximum health and
+preventing you from regenerating health when monsters are visible. You are
+immune to poison and negative energy, significantly resist cold, and resist
+torment.
 %%%%
 Bribe status
 
-Está rebosando a los habitantes de la rama actual.
-
+You are bribing the inhabitants of the current branch.
 %%%%
 Cloud status
 
-Estás en una nube.
-
+You are in a cloud.
 %%%%
 -Clouds status
 
-El aire está demasiado quieto para formar nubes.
-
+The air is too still for clouds to form.
 %%%%
 Dig status
 
-Estás cavando.
-
+You are digging.
 %%%%
 Elixir status
 
-Su salud y/o magia están siendo restaurados rápidamente, así como la salud de
-tus aliados.
-
+Your health and/or magic are being rapidly restored, as well as the health of
+your allies.
 %%%%
 Fast+Slow status
 
-Está bajo efectos de ralentización y precipitación.
-
+You are under both slowing and hasting effects.
 %%%%
 Lava status
 
-Estás volando sobre lava.
-
+You are currently flying over lava.
 %%%%
 Recall status
 
-Estás recordando a tus aliados.
-
+You are recalling your allies.
 %%%%
 Water status
+{{
+    local verb = you.flying() and "flying over" or
+                 you.race() == "Merfolk" and "swimming in" or "standing in"
+    local feat = view.feature_at(0, 0):gsub("_", " ")
 
-LUA0
+    if feat ~= "deep water" and feat ~= "shallow water" then
+        feat = "water"
+        verb = "over"
+    end
 
+    return "You are currently " .. verb .. " " .. feat .. "."
+}}
 %%%%
 Attr status
 
-Los enemigos se translocaron mágicamente hacia ti. (Esto no los despertará.)
-
+Enemies are magically translocated toward you. (This won't wake them up.)
 %%%%
 Zot status
 
-Has pasado demasiado tiempo en una rama, permitiendo el poder malévolo de Zot
-para notarlo. Si pasa el número indicado de vueltas en la rama sin
-descendiendo a un nuevo piso, Zot le encuentra, causando daño permanente a la salud.
-
+You have spent too much time in one branch, allowing the malevolent power of Zot
+to notice you. If you spend the indicated number of turns in the branch without
+descending to a new floor, Zot will find you, causing permanent health damage.
 %%%%
 Zot count status
 
-Si tú pasa el número indicado de vueltas en esta rama sin descender a
-un nuevo piso, Zot le encuentra, causando daño permanente de salud.
-
+If you spend the indicated number of turns in this branch without descending to
+a new floor, Zot will find you, causing permanent health damage.
 %%%%
 Gem status
 
-Si pasas el número indicado de vueltas en esta rama, se encuentra su gem 
-y destrozado por el poder de Zot.
-
+If you spend the indicated number of turns in this branch, its gem will be found
+and shattered by the power of Zot.
 %%%%
 Gem (*) status
 
-El poder de Zot ya no te persigue, pero la gema de esta rama sigue siendo
-intacto.
-
+The power of Zot no longer hunts you, but this branch's gem still remains
+intact.
 %%%%
 rF0 status
 
-La ira de Ignis le impide resistir el fuego.
-
+The wrath of Ignis prevents you from resisting fire.
 %%%%
 -Blink status
 
-Eres inestable y no puedes lanzar blink o activar habilidades evocadas blink
-por un corto período de tiempo. Fuentes poderosas de la magia de translocación como
-desplazamientos de parpadeo ignoran esta limitación, al igual que las fuentes externas de parpadeo
-fuera de tu control.
-
+You are unstable and cannot cast Blink or activate evoked blink abilities
+for a short period of time. Powerful sources of translocation magic such as
+scrolls of blinking ignore this limitation, as do external sources of blinking
+outside of your control.
 %%%%
 -Bbolt status
 
-Tú está recuperando de convertirse en rayo, y son incapaces de parpadear otra vez
-por una corta duración.
-
+You are recovering from becoming lightning, and are unable to blinkbolt again
+for a short duration.
 %%%%
 Charge- status
 
-Actualmente está canalizando carga eléctrica. Presionando <w>.</w> o <w></w>
-para esperar en el lugar mantener y continuar este proceso hasta que se descarga.
-Cualquier otra acción, incluyendo retransmitir el hechizo, disipa el cargo
-inofensivamente.
-
+You are currently channelling electrical charge. Pressing <w>.</w> or <w>s</w>
+to wait in place will maintain and continue this process until it discharges.
+Any other action, including recasting the spell, will dissipate the charge
+harmlessly.
 %%%%
 Charge/ status
 
 <Charge- status>
-
 %%%%
 Charge\ status
 
 <Charge- status>
-
 %%%%
 Charge| status
 
 <Charge- status>
-
 %%%%
 Wave status
 
-Actualmente estás canalizando ondas de llamas. Presionando <w>.</w> o <w></w>
-para esperar en el lugar mantener e intensificar las olas, a costa de 1 MP por
-Gira. Cualquier otra acción, incluyendo retransmitir el hechizo, terminarlo.
-
+You are currently channelling waves of flames. Pressing <w>.</w> or <w>s</w>
+to wait in place will maintain and intensify the waves, at the cost of 1 MP per
+turn. Any other action, including recasting the spell, will end it.
 %%%%
 Wave+ status
 
 <Wave status>
-
 %%%%
 Ramparts status
 
-Estás encasillando paredes cercanas en hielo. El hielo.
-pasar a una nueva posición.
-
+You are encasing nearby walls in ice. The ice will crack and fall away if you
+move to a new position.
 %%%%
 Bog status
 
-Tú está creando un bog tóxico en la zona cercana, y son inmunes a sus efectos.
-Tú no puede sostener esta transformación en áreas fuera de su línea de visión.
-
+You are creating a toxic bog in the nearby area, and are immune to its effects.
+You cannot sustain this transformation in areas out of your line of sight.
 %%%%
 Enlightened status
 
-Tú está en contacto con una mayor verdad, aumentando su resistencia a los efectos
-que apuntan a su fuerza de voluntad. Trágicamente, esta epifanía no durará.
-
+You are in touch with a greater truth, increasing your resistance to effects
+which target your willpower. Tragically, this epiphany won't last.
 %%%%
-+ status
+Will+ status
 
 <Enlightened status>
-
 %%%%
 Reap status
 
-¡Los muertos están saltando! Las criaturas vivientes que matan pueden levantarse como sirvientes zombados.
-
+The dead are hopping! Living creatures you kill may rise as zombified servants.
 %%%%
 Peek status
 
-Estás mirando por las escaleras. Puede regresar libremente al nivel anterior, pero
-una vez que tú toma cualquier acción en este piso, todas las escaleras que conducen hacia atrás colapso.
-
+You are peering down the stairs. You can freely return to the previous level, but
+once you take any action on this floor, all stairs leading back up will collapse.
 %%%%
 Fragile status
 
-Tu cuerpo es tan frágil y frágil como el vidrio, aumentando el daño que tomas
-todas las fuentes.
-
+Your body is as fragile and brittle as glass, increasing the damage you take from
+all sources.
 %%%%
 Ooze status
 
-El ooze acidic sale de las paredes que te rodean. Cada vuelta, los enemigos están dañados
-dependiendo del número de paredes delgadas que permanecen adyacentes.
-
+Acidic ooze creeps out of the walls around you. Each turn, foes are damaged
+depending on the number of slimy walls they remain adjacent to.
 %%%%
 Dog status
 
-Has llamado a tu canino familiar.
-
+You have summoned your canine familiar.
 %%%%
 -Dog status
 
-Tu canino familiar se está recuperando de sus lesiones, y no puede convocado
-otra vez por un corto tiempo.
-
+Your canine familiar is recovering from its injuries, and cannot be summoned
+again for a short time.
 %%%%
 -Siphon status
 
-Hace poco habéis sofocado la esencia de los vivos, y no podéis hacerlo de nuevo por
-poco tiempo.
-
+You have recently siphoned the essence of the living, and cannot do so again for
+a short time.
 %%%%
 -Word status
 
-Estás cansado de hablar recientemente una palabra de caos, y no puedes hacerlo
-otra vez por un corto tiempo.
-
+You are fatigued from recently speaking a word of chaos, and are unable to do so
+again for a short time.
 %%%%
 Jinx status
 
-Los espíritus jinetes te rodean. Cuando atacas enemigos, los que fallan un cheque 
-están aturdidos, tomando daño y drenando. Los espíritus salen rápidamente cuando
-No hay enemigos a la vista.
-
+Jinxing spirits encircle you. When you attack foes, those who fail a Will check
+are jinxed, taking damage and becoming drained. The spirits depart quickly when
+no foes are in sight.
 %%%%
 Rise status
 
-Estás subiendo hacia el techo. Después de un breve retraso, Ignis' poder
-te derriba al nivel anterior.
-
+You are hovering upward toward the ceiling. After a short delay, Ignis' power
+will blast you into the level above.
 %%%%
 Challenge status
 
-Tú ha sido desafiado por un apóstol elegido de Beogh, que conoce su
-ubicación no importa dónde en el suelo estás. Derrotarlos y reclutar puedes
-para unirse a tú. Si huyes del suelo, Beogh te castigan temporalmente
-privarte de aliados.
-
+You have been challenged by a chosen apostle of Beogh, who will know your
+location no matter where on the floor you are. Defeat them, and you may recruit
+them to join you. If you flee the floor, Beogh will punish you by temporarily
+depriving you of allies.
 %%%%
 Vengeance status
 
-Uno de sus apóstoles ha sido asesinado, y tienes todavía no mató a todos los enemigos que
-estuvieron involucrados en su muerte. Si lo haces, Beogh resucitarlos antes.
-
+One of your apostles has been killed, and you have not yet killed all foes who
+were involved in their death. If you do so, Beogh will resurrect them sooner.
 %%%%
 Pray status
 
-Tú han invocado ayuda divina para vengar la muerte de un apóstol caído. Orcs 
-continuamente reunirse a su lado, aunque su oración termina más rápidamente cuando
-No hay más enemigos por ahí para luchar.
-
+You have invoked divine aid in avenging the death of a fallen apostle. Orcs will
+continuously rally to your side, though your prayer will end more rapidly when
+there are no more foes around to fight.
 %%%%
 Recruit status
 
-Un apóstol orcish está disponible para reclutar como compañero permanente.
-(Utilice la habilidad del apóstol de reclutamiento)
-
+An orcish apostle is available to recruit as a permanent companion.
+(Use the Recruit Apostle ability)
 %%%%
 Torch status
 
-Llevas la antorcha negra. Si este indicador es oscuro, la antorcha no está iluminada; si
-es brillante, tienes llamado Yredelemnul para encender la antorcha. Mientras tanto
-Quemaduras de antorcha, tú ganar piedad para matar. Con suficiente piedad, tú ser
-capaz de utilizar su fuego umbral para empoderar a sus sirvientes no muertos y daño a sus
-enemigos.
-
+You carry the Black Torch. If this indicator is dark, the torch is unlit; if it
+is bright, you have called upon Yredelemnul to light the torch. So long as the
+torch burns, you will gain piety for kills. With sufficient piety, you will be
+able to use its umbral fire to empower your undead servants and damage your
+enemies.
 %%%%
 Shackles status
 
 Yredelemnul's grip is engulfing an area in life-stealing chains.
-
 %%%%
 Rev status
 
-Empiezas a ensuciarte. Tus ataques con armas y sin armas están más cerca
-a plena fuerza, y continúan creciendo más poderoso con cada oscilación.
-
+You're starting to limber up. Your weapon-based and unarmed attacks are closer
+to full strength, and will continue to grow more powerful with each swing.
 %%%%
 Rev+ status
 
-Estás extiendo. Tus ataques con armas y sin armas están cerca de todo
-fuerza, y continúan creciendo más poderoso con cada oscilación.
-
+You're limbering up. Your weapon-based and unarmed attacks are close to full
+strength, and will continue to grow more powerful with each swing.
 %%%%
 Rev* status
 
-Estás alucinado. Sus ataques con armas y sin armas están a toda fuerza,
-y permanecen mientras sigan oscilando y durante un corto tiempo después.
-
+You're limbered up. Your weapon-based and unarmed attacks are at full strength,
+and will remain so as long as you keep swinging and for a short while afterward.
 %%%%
 -Gavotte status
 
-La gravedad alrededor de tú es todavía inestable, y no puedes cast Gell's Gavotte de nuevo
-hasta que se calme.
-
+Gravity around you is still unstable, and you cannot cast Gell's Gavotte again
+until it settles back down.
 %%%%
 Fusillade status
 
-Tú está abrazando reactivos alquímicos conjurados en monstruos cercanos.
-
+You are hurling conjured alchemical reagents at nearby monsters.
 %%%%
 Nightfall status
 
-Tú está canalizando la noche más profunda, reduciendo enormemente su rango de visión. It
-Volver gradualmente a la normalidad con el tiempo.
-
+You are channelling the deepest night, greatly reducing your sight range. It
+will gradually return to normal over time.
 %%%%
 Blind status
 
-Tu visión está mal deteriorada. Todos los hechizos y ataques que tú realiza (que no
-automáticamente golpeado) tienen una mayor oportunidad de perder. Esta oportunidad es mucho mayor
-más lejos estás de su objetivo.
-
+Your vision is badly impaired. All spells and attacks you perform (which do not
+automatically hit) have an increased chance to miss. This chance is much greater
+the further away you are from your target.
 %%%%
 Ruin status
 
-Tú está marcado con el signo de la ruina, causando cualquier melee ataques que le dañen
-a fuertemente Drain y al azar Slow, debilitar, o cegarte.
-
+You are marked with the sign of ruin, causing any melee attacks which damage you
+to heavily drain and randomly slow, weaken, or blind you.
 %%%%
 -GClaw status
 
-Aún no has cosechado suficiente muerte para echar a Grave Claw otra vez.
-
+You have not yet harvested enough death to cast Grave Claw again.
 %%%%
 Legion status
 
-Estás cayendo las legiones del caos; demonios de corta vida ser periódicamente
-Convocada cerca de ti.
-
+You are beckoning the legions of chaos; short-lived demons will be periodically
+summoned near you.
 %%%%
 -Bloodrite status
 
-Recientemente ha realizado un rito de sangre infernal y debe sanar completamente antes
-ser capaz de realizar otro.
-
+You have recently performed an infernal blood rite and must fully heal before
+being able to perform another.
 %%%%
 Execution status
 
-Tú está compartiendo su cuerpo con un ejecutante, dándole un poderoso auxiliar
-ataque que también desencadena cuando atacas, así como dejar que la rampa
-hacia los enemigos. Este caduca rápidamente si deja de atacar.
-
+You are sharing your body with an Executioner, giving you a powerful auxiliary
+attack that also triggers when you dodge attacks, as well as letting you rampage
+towards foes. This will expire quickly if you stop attacking.
 %%%%
 Destr status
 
-Su Destrucción Unleash está creciendo más poderosa mientras la usas consecutivamente.
-
+Your Unleash Destruction is growing more powerful as you use it consecutively.
 %%%%
 Destr+ status
 
 <Destr status>
-
 %%%%
 Destr++ status
 
 <Destr status>
-
 %%%%
 Destr+++ status
 
 <Destr status>
-Si lo usas de nuevo, desencadena una salva de tornillos adicionales dirigidos al azar
-objetivos y este bono reajuste.
-
+If you use it again, it will unleash a salvo of additional bolts aimed at random
+targets and this bonus will reset.
 %%%%
 Slaughter status
 
-Tú es un instrumento de Makhleb destructivo . Tu poder y tus defensas son
-mucho mejorada, pero debes soportar el crujiente una vez este efecto
-termina.
-
+You are an instrument of Makhleb's destructive will. Your power and defences are
+greatly enhanced, but you must endure the Crucible of Flesh once this effect
+ends.
 %%%%
 Pact status
 
-Makhleb ha venido a recoger ciertas promesas hechas a ellos.
- LUA0
-
+Makhleb has come to collect on certain promises made to them.
+{{ if you.religion == "Makhleb" then
+        return "Fulfill your oath as their instrument by slaying the terrified " ..
+               "mortals that have been gathered here, and they may grant you " ..
+               "freedom once again."
+   else
+        return "Fight and bleed and you may be granted freedom once again."
+    end}}
 %%%%
 Escape! status
 
-Se ha abierto un camino fuera del Crucible. Encuéntrelo y reclame su libertad de nuevo. Para
-una vez.
-
+A path out of the Crucible has opened. Find it and claim your freedom again. For
+a time.
 %%%%
 Shield status
 
-Estás protegido por un escudo divino. Enemigos que lo golpean en melee tienen
-sus ataques completamente bloqueados, y también pueden ser cegados por su luz.
-
+You are protected by a divine shield. Enemies that strike it in melee will have
+their attacks completely blocked, and they may also be blinded by its light.
 %%%%
 Blast status
 
-Te estás preparando para desencadenar una onda cinética y no puedes moverte hasta que esto sea
-completo.
-
+You are preparing to unleash a kinetic shockwave and cannot move until this is
+complete.
 %%%%
 Blast. status
 
 <Blast status>
-
 %%%%
 Blast.. status
 
 <Blast status>
-
 %%%%
 Blast... status
 
 <Blast status>
-
 %%%%
 Winding status
 
-Estás enrollando tu abeja de relojería. No puede atacar su objetivo hasta que sea
-Completamente herido.
-
+You are winding up your clockwork bee. It cannot attack its target until it is
+fully wound up.
 %%%%
 Winding. status
 
 <Winding status>
-
 %%%%
 Winding.. status
 
 <Winding status>
-
 %%%%
 Winding... status
 
 <Winding status>
-
 %%%%
 Unstable status
 
-Te has vuelto untethered en el espacio, parpadeando aleatoriamente cada vuelta y sufriendo un
-pequeña cantidad de daño cada vez que lo hace.
-
+You have become untethered in space, blinking randomly each turn and suffering a
+small amount of damage each time you do so.
 %%%%
 Vainglory status
 
-Tú ha anunciado recientemente su presencia real y simplemente no haría
-Deja el suelo de nuevo tan pronto después.
-
+You have recently announced your regal presence and it simply would not do to
+leave the floor again so soon afterward.
 %%%%
 Protected status
 
-Su paragon de platino está lo suficientemente cerca para tú a veces parry ataques dirigidos
-a ti.
-
+Your platinum paragon is close enough to you to sometimes parry attacks directed
+at you.
 %%%%
 Vexed status
 
-Tu mente está nublada por la frustración. Para los próximos turnos, tú 
-incontrolablemente ataquen criaturas adyacentes al azar (si son amigables o enemigas) o
-incluso espacio vacío.
-
+Your mind is clouded by frustration. For the next several turns, you will
+uncontrollably attack random adjacent creatures (whether friendly or enemy) or
+even empty space.
 %%%%
 Drowsy status
 
-Tú está creciendo rápidamente sueño y puede que pronto se duerma completamente.
-
+You are rapidly growing sleepy and may soon fall asleep completely.
 %%%%
 Vampire status
 
-Eres un vampiro, una criatura que atraviesa la frontera entre la vida y la
-Inmuerte. Puedes beber la sangre de los vivos para sanar, e incluso convertirlos
-matas sigilosamente en rábanos vampíricos, pero no sanas en presencia de
-monstruos.
-
+You are a vampire - a creature that straddles the border between life and
+undeath. You can drink the lifeblood of the living to heal, and even turn those
+you slay stealthily into vampiric thralls, but do not heal in the presence of
+monsters.
 %%%%
 Swarm status
 
-Te has transformado en un enjambre de murciélagos vampiros, permitiendo que te muevas rápidamente
-y evasivamente. Tú puede seguir nubes de murciélagos en su vela.
-
+You have transformed into a swarm of vampire bats, allowing you to move quickly
+and evasively. You may trail clouds of bats in your wake.
 %%%%
 Memories status
 
-Esto indica cuántos hechizos podrías echar de los recuerdos acumulados si tú
-Encendida ahora.
-
+This indicates how many spells you could cast from accumulated memories if you
+Enkindled now.
 %%%%
 Enkindled status
 
-Estás quemando recuerdos acumulados para el poder. Cada hechizo de destrucción de daños
-cast consumir un recuerdo. A cambio, su poder y el éxito del hechizo son
-aumento, las penas de encumbramiento son ignoradas, y sus ataques de hechizos sí
-daño de bonificación proporcional a la nivel de hechizo y sanar tú basado en el daño
-tratado.
-
+You are burning accumulated memories for power. Each damage-dealing spell you
+cast will consume a memory. In exchange, their power and spell success are
+increased, encumbrance penalties are ignored, and your spellclaw attacks do
+bonus damage proportional to the spell level and heal you based on the damage
+dealt.
 %%%%
 Cacophony status
 
-Estás atacando ruidosamente con toda tu armadura. Cada pedazo de armadura que
-embruja actualmente movimientos de su propia volición; cualquier daño que tome no afecta
-tú, puedes libremente fuego a través de ella, y sus ataques pueden desahogar, Drain, o confundir
-tus enemigos.
-
+You are noisily attacking with all of your armour. Every piece of armour you
+haunt currently moves of its own volition; any damage it takes will not affect
+you, you can freely fire through it, and its attacks may daze, drain, or confuse
+your enemies.
 %%%%
 Catalyst status
 
-Tienes un catalizador explosivo. El catalizador detonar, tratar el fuego
-daño al objetivo primario de cada uno de sus ataques de melee y cualquier enemigo
-adyacente a ellos, con cada golpe. Ataque extiende la duración de la
-catalizador aunque te pierdas.
-
+You have an explosive catalyst readied. The catalyst will detonate, dealing fire
+damage to the primary target of each of your melee attacks and any enemy
+adjacent to them, with each hit. Attacking will extend the duration of the
+catalyst even if you miss.
 %%%%
 Shroud status
 
-Tú está cubierto por un estruendo delgado de la slime que puede desviar un melee ataque. Cuando
-lo hace, el shroud romper por un corto tiempo, aunque pronto reparar
-naturalmente.
-
+You are covered by a thin shroud of slime that may deflect a melee attack. When
+it does, the shroud will break for a short time, though it will soon repair
+itself naturally.
 %%%%
 Yak status
 
-Eres un yak de llanto, piel incrustada con hielo.
-
+You are a rime yak, fur encrusted with ice.
 %%%%
 Spider status
 
-Tú es una araña de salto ágil cuyos ataques pueden web enemigos.
-
+You are an agile jumping spider whose attacks can web enemies.
 %%%%
 Quill status
 
-Tú tiene colillas espinasas que crecen fuera de su cuerpo que puede dañar los atacantes de la melea.
-
+You have spiny quills growing out of your body which may damage melee attackers.
 %%%%
 Hive status
 
-Eres una colmena viva, abuzz con insectos ocupados.
-
+You are a living beehive, abuzz with busy insects.
 %%%%
 -Swarm status
 
-Los insectos que habitan dentro de tienes recientemente enjaulado a su defensa. Esto
-no sucede de nuevo hasta que su salud se recupera completamente.
-
+The insects that dwell within you have recently swarmed to your defence. This
+will not happen again until your health fully recovers.
 %%%%
 Aqua status
 
-Su cuerpo está compuesto por agua elemental que puede alcanzar para atacar y ahogarse
-enemigos.
-
+Your body is composed of elemental water that can reach to attack and drown
+enemies.
 %%%%
 Sphinx status
 
-Eres una esfinge astuto, amante del enigma, con la fuerza de una tormenta de viento en tu
-Paws.
-
+You are a cunning, riddle-loving sphinx, with the force of a windstorm in your
+paws.
 %%%%
 Werewolf status
 
-Eres un hombre lobo vicioso.
-
+You are a vicious werewolf.
 %%%%
 Slay status
 
-El daño y la precisión de sus ataques se aumenta temporalmente.
-
+The damage and accuracy of your attacks is temporarily increased.
 %%%%
 Scroll status
 
-Eres un pergamino andante, pergamino crujiente y lleno de magia.
-
+You are a walking scroll, parchment crisp and full of magic.
 %%%%
 Crab status
 
-Eres un cangrejo muy ofensivo con respiración oxidante.
-
+You are a heavily-armoured crab with rusting breath.
 %%%%
 Scarab status
 
-Eres una bufanda solar, con fuego solar a tu lado.
-
+You are a sun scarab, with solar fire blazing beside you.
 %%%%
 Medusa status
 
-Tienes una manguera de tendriles venenosos para el cabello.
-
+You have a mane of venomous tendrils for hair.
 %%%%
 -Lithotox status
 
-Su litotoxina ha activado recientemente y no lo hace de nuevo hasta que tú completamente
-sanar.
-
+Your lithotoxin has recently activated and will not do so again until you fully
+heal.
 %%%%
 Doom status
 
-Un destino malévolo se está reuniendo a tu alrededor. Si su Doom alcanza el 100%, tú 
-ser afligido por un bane al azar y su Doom reset a 0. Las banes tienen diversas
-efectos negativos que pueden poner en peligro significativamente su carácter para una ampliación
-período de tiempo.
+A malevolent fate is gathering around you. If your Doom reaches 100%, you will
+be afflicted by a random bane and your Doom will reset to 0. Banes have diverse
+negative effects that can significantly endanger your character for an extended
+period of time.
 
-Tanto Doom y Banes sólo se curan ganando experiencia, aunque las Banas típicamente
-dura mucho más.
-
+Both Doom and Banes are only cured by gaining experience, though Banes typically
+last much longer.
 %%%%
 Ostracised status
 
-Tu conexión con lo divino ha sido cortada parcialmente, reduciendo temporalmente
-tu piedad efectiva. Obtención de experiencia eventualmente recuperar toda piedad que
-ha sido encerrado por aquí.
-
+Your connection to the divine has been partially cut-off, temporarily reducing
+your effective piety. Gaining experience will eventually recover all piety that
+has been locked away this way.
 %%%%
 Tesseract status
 
-Un Tesseract sin límites está dibujando en fuerzas de una realidad paralela. Nuevos monstruos
-aparecen constantemente en lugares aleatorios a través del suelo hasta cualquiera de los
-Tesseracts es destruido. Si esto se permite continuar durante mucho tiempo,
-Esos monstruos pueden aparecer a veces cerca de su ubicación.
-
+A Boundless Tesseract is drawing in forces from a parallel reality. New monsters
+will steadily appear at random locations across the floor until either of the
+tesseracts is destroyed. If this is allowed to continue for a very long time,
+those monsters may sometimes appear near your location instead.
 %%%%
 -Star status
 
-Su orbe de Stardust ha gastado recientemente su energía. Recargar una vez
-varias vueltas pasan mientras su MP está lleno y no hay enemigos a la vista.
-
+Your orb of stardust has recently expended its energy. It will recharge once
+several turns pass while your MP is full and there are no enemies in sight.
 %%%%
 -Mesm status
 
-Su orbe de mesmerismo ha gastado recientemente su energía. It recharge after
-una corta duración del tiempo (pero no puede recargar en turnos donde se mueve).
-
+Your orb of mesmerism has recently expended its energy. It will recharge after
+a short length of time (but cannot recharge on turns where you move).
 %%%%
 Phobia status
 
-Tu claustrofobia te ha dado un malus mortal. Esto depende de la
-número de paredes que te rodean.
-
+Your claustrophobia has given you a slaying malus. This is dependent on the
+number of walls surrounding you.
 %%%%
 Dim status
 
-El poder de todos tus hechizos se reduce a la mitad.
-
+The power of all your spells is reduced by half.
 %%%%
 Sunder status
 
-Su próximo ataque tiene mayor precisión, inflige tres veces su normal
-daño, y arrastre a un rango mayor. Este bono se pierde si tú realiza cualquier
-acción además de atacar.
-
+Your next attack will have increased accuracy, inflict three times its normal
+damage, and cleave at an increased range. This bonus is lost if you perform any
+action besides attacking.
 %%%%
 Devious status
 
-Su evasión y asesinato aumentan. Esto acumula hasta 3 veces y nunca
-expirar mientras sigas realizando ataques de melee.
-
+Your evasion and slaying are increased. This stacks up to 3 times and will never
+expire so long as you continue to perform melee attacks.
 %%%%
 Slimifying status
 
-Su cuerpo se está convirtiendo lentamente en limosna. Incluso si una transformación completa
-se produce, tienes suficiente fuerza de para eventualmente volver atrás.
-
+Your body is slowly being turned into slime. Even if a full transformation
+occurs, you have enough force of will to eventually revert back.
 %%%%
 Jelly status
 
-Has sido transformado temporalmente en una jalea. Tienes varios inusuales
-resistencias y salud extra, pero muy debilitada.
+You have been temporarily transformed into a jelly. You have several unusual
+resistances and extra health, but heavily weakened spells.
 
-Todas las armas y armaduras equipadas están soldadas. La eficacia de su
-nuevos ataques melee acidic mientras que en esta forma se basa en su nivel de experiencia
-en vez de Combate sin armas habilidad.
-
+Any equipped weapons and armour are melded. The effectiveness of your
+newly-acidic melee attacks while in this form is based on your experience level
+rather than Unarmed Combat skill.
 %%%%
 OozeRegen status
 
-Tú está cubierto de olor regenerativo de su reciente viaje por las escaleras. Para
-un breve tiempo, tus heridas sanan rápidamente y tus reservas de magia 
-Recuéstate rápido.
-
+You are covered in regenerative ooze from your recent trip down the stairs. For
+a brief time, your wounds will heal rapidly and your reserves of magic will
+recover quickly.
 %%%%
 -Hellfire status
 
-Tú es incapaz de echar a Hellfire Mortar otra vez hasta el efecto de su último elenco
-termina.
-
+You are unable to cast Hellfire Mortar again until the effect of your last cast
+ends.
 %%%%
 Engorged status
 
-Tu madre acaba de consumir una deliciosa comida, aumentando mucho tu
-regeneración hasta que termine de digerirlo.
-
+Your maw has just consumed a delicious meal, greatly increasing your
+regeneration until it finishes digesting it.
 %%%%
 Eel status
 
-Tus brazos son un par de anguilas eléctricas.
-
+Your arms are a pair of electric eels.
 %%%%
 Blade status
 
-Múltiples espadas viciosas están creciendo fuera de su cuerpo.
-
+Multiple vicious blades are growing out of your body.
 %%%%
 Spore status
 
-Tu brazo es una masa de hongos multicolores.
-
-%%%%
-Stampede status
-
-Estás sellando adelante. Cualquier movimiento que tome en un enemigo piso
-ellos hacia atrás, pero su estampida termina tan pronto como tú realiza cualquier acción
- LUA0
-
-%%%%
-Indom status
-
-Tú está regenerando rápidamente daño sostenido mientras estampado.
-
-%%%%
-Salvo status
-
-Tus siguientes ataques variados hacen que dispares un rayo adicional
-disparos a otros objetivos a la vista.
-
-%%%%
-Tailwind status
-
-Tu próximo movimiento de Rampage será instantáneo.
-
-%%%%
-Exegesis status
-
-Recientemente has utilizado la Exégesis Divina y puede repetir el mismo hechizo puedes
-de esta manera a un costo de piedad muy reducido.
-
-%%%%
+Your arm is a mass of multicoloured fungus.
