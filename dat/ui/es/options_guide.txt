@@ -372,7 +372,7 @@ ser utilizado para determinar el tipo de juego. "descenso" es sólo válido en a
 
 recordar nombre = verdadero
 Crawl recuerda las opciones (especie, fondo, etc.) que usaste
-para crear tu último personaje. Usted puede reciclarlos en el
+para crear tu último personaje. Tú puede reciclarlos en el
 la pantalla inicial para un nuevo personaje. Si esta opción se establece
 Cierto, Crawl también recordará el apellido que usaste.
 
@@ -598,7 +598,7 @@ $ Gold
 Tenga en cuenta que los elementos  whether  se recogen automáticamente o no, es
 controlado por el juego de toggle Ctrl-A.
 arriba toma un giro, pero sólo un giro (sin importar el número de
-Temas). Si usted teletransporta o parpadea en una plaza con interesante
+Temas). Si tú teletransporta o parpadea en una plaza con interesante
 artículos, estos no serán recogidos.
 
 autopickup excepciones ^= <pickup-regex, ноdon't-pickup-regex, ...
@@ -781,7 +781,7 @@ Opciones de visualización de 3 e Viewport.
 
 El mirador es la porción del mapa que se muestra durante la normalidad
 Toca. El puerto de vista es 33x17 por defecto, pero si utiliza terminal más grande
-tamaños, usted puede configurar estas opciones para hacer el juego mostrar un mayor
+tamaños, tú puede configurar estas opciones para hacer el juego mostrar un mayor
 Viewport.
 
 Ninguna de estas opciones afecta el juego. En particular, su carácter
@@ -940,7 +940,7 @@ Ven a ver.
 
 codicioso pickup: deténgase después de recoger automáticamente cualquier artículo
 elegible para autopickup, excluyendo el oro, pero incluyendo
-artículos lanzados / disparados por el jugador. Usted puede hacer ciertos elementos
+artículos lanzados / disparados por el jugador. Tú puede hacer ciertos elementos
 *no* activa esto con la opción explore stop pickup ignore
 
 codicioso pickup gold: parar cuando recoger automáticamente oro durante
@@ -950,7 +950,7 @@ codicioso pickup smart: Similar a codicioso pickup, pero trata de ser
 inteligente, lo que significa sólo parar los elementos que no son
 similar a cualquier que ya tenga en su inventario. It
 no se detiene para recoger automáticamente los elementos que fueron
-lanzado / disparado por el jugador; usted puede añadir "greedy pickup thrown"
+lanzado / disparado por el jugador; tú puede añadir "greedy pickup thrown"
 si quieres parar para eso.
 
 codicioso pickup thrown: Para después de recoger cualquier artículo que tengas
@@ -1002,7 +1002,7 @@ Los seis anteriores conforman la coloración del mapa de nivel ('X').
 Ellos son
 accesible: todos los cuadrados de forma segura accesible (sin salir del
 nivel)
-peligroso: cuadrados que sólo están conectados a usted mediante trampas,
+peligroso: cuadrados que sólo están conectados a tú mediante trampas,
 etc.
 desconexión: plazas que no se pueden alcanzar sin salir
 nivel
@@ -1028,7 +1028,7 @@ runrest stop message ^= Tu transformación casi ha terminado
 runrest stop message ^= Estás empezando a perder tu buoyancy
 
 O puedes ignorar explícitamente algunos mensajes:
-runrest ignore message ^= Completo con usted,exaltado
+runrest ignore message ^= Completo con tú,exaltado
 
 Tenga en cuenta que los ruidos de habla y mazmorra ya no interrumpen
 corriendo o descansando, por defecto.
@@ -1078,7 +1078,7 @@ son los defectos.
 runrest ignore monster ^= יregex contacto: indicadistance título, יregex contacto: implicadistance título, ...
 (opción de lista ordenada)
 Cualquier monstruo que coincida con la expresión regular sólo interrumpirá su
-actividad si la distancia entre usted y el monstruo es menor que la
+actividad si la distancia entre tú y el monstruo es menor que la
 número especificado. E.g. with
 runrest ignore monster ^= bat:3
 murciélagos, murciélagos de vampiros, bates de fuego y fósforos serán considerados
@@ -1131,7 +1131,7 @@ Cuando te encuentres con un monstruo dormido o estacionario durante
 exploración que se incluye en esta lista, una exclusión de viaje
 automáticamente centrado en este monstruo, lo que significa que el autoexplore no
 te trae a su línea de visión. Si el monstruo muere o despierta
-mientras usted está a la vista, esta exclusión se retira automáticamente de nuevo.
+mientras tú está a la vista, esta exclusión se retira automáticamente de nuevo.
 
 travel open doors = (evitar el acercamiento a la vida privada abierto)
 Configure cómo el autoexplore/travel interactúa con las puertas.
@@ -1148,7 +1148,7 @@ Esto no afecta a las puertas corregidas, que siempre se evitan.
 
 auto switch = falso
 Esta opción le permitirá cambiar automáticamente a un apropiado
-arma cuando atacan en melee, siempre y cuando el que usted está pelando
+arma cuando atacan en melee, siempre y cuando el que tú está pelando
 y al que cambias están en ranura 'a' o 'b'. Un "apropiado"
 arma es una que está destinada para melee, no inscrita con un
 inscripción sin atacante (`!a`), y no odiada por el dios del jugador.
@@ -1220,16 +1220,16 @@ ignorado, y los destinatarios serán mostrados por cada pergamino que tiene uno.
 
 show invis targeter = true
 Antes de volverse invisible, muestre un objetivo indicando qué monstruos hay
-ver realmente perdería de vista de usted (y pronto si todos los enemigos en
+ver realmente perdería de vista de tú (y pronto si todos los enemigos en
 línea de visión tienen sInv).
 
 permit self target = prompt
 Permite apuntarse con magia arriesgada (por ejemplo, el hechizo Stone Arrow
 o una varita de parálisis.) Valores: (sí Silencio no Silencio pronto).
-Cuando se establece en 'sí', usted es un objetivo válido. Cuando se establece en 'no', no puedes
+Cuando se establece en 'sí', tú es un objetivo válido. Cuando se establece en 'no', no puedes
 diríjase con tales hechizos. Cuando se establece en 'prompt' (el predeterminado),
 se le exigirá que confirme el auto-punteo. Esta opción no tiene
-efecto sobre los hechizos de efectos de área, como la Nube Mefática, donde usted está
+efecto sobre los hechizos de efectos de área, como la Nube Mefática, donde tú está
 siempre un objetivo válido.
 
 prompt menu = verdadero (por defecto de los dispositivos), falso (por defecto de consola)
@@ -1329,7 +1329,7 @@ Los elementos no identificados brillan/shiny/runed/etc aparecen primero.
 
 * identificado:
 Identified items show up before unidentified ones of the
-mismo tipo. Un artículo es considerado como identificado una vez que usted sabe
+mismo tipo. Un artículo es considerado como identificado una vez que tú sabe
 su subtipo o ego.
 
 * qty:
@@ -1351,7 +1351,7 @@ Bien (por ejemplo: ?acquirement), Normal, Peligroso (por ejemplo: !lignificació
 Mal (por ejemplo: la tortura mientras adora a un buen dios), y finalmente
 permanentemente inútil.
 
-Usted puede pedir un orden descendente por prefijo uno o más
+Tú puede pedir un orden descendente por prefijo uno o más
 clasificar los criterios con el título como:
 sort menus = verdadero : nombre de base,
 
@@ -1445,7 +1445,7 @@ autofight warning = 0
 Ejecute un tiempo mínimo (en milisegundos) entre comandos autofight.
 Si emite dos comandos consecutivos de autolusión dentro de esta cantidad
 de tiempo (por ejemplo, manteniendo la tecla de pestaña), el siguiente
-comandos serán ignorados, y el mensaje "Usted no debe luchar
+comandos serán ignorados, y el mensaje "Tú no debe luchar
 imprudentemente!" impreso al canal de peligro. Cualquier valor inferior a
 o igual a cero deshabilita este cheque.
 
@@ -1501,7 +1501,7 @@ para llamar ==am set spell.
 automagic fight = false
 Con el viejo sistema automagico habilitado, estableciendo esto a verdaderas causas
 un retroceso a la pelea regular (por ejemplo, melee) al intentar lanzar un
-hechizo que usted no tiene suficientes puntos mágicos para, o están abajo
+hechizo que tú no tiene suficientes puntos mágicos para, o están abajo
 el umbral establecido. Si es falso, aparecerá un mensaje y no más
 Se adoptan medidas.
 
@@ -1557,7 +1557,7 @@ autopickup search = false
 Si está habilitado, los elementos están anotados con {autopickup} mientras buscan
 con ^F si fueran recogidos por autopickup. Esto significa que
 buscar "autopickup" listará todos estos elementos. Note que esto
-opción puede retrasar su juego si usted tiene una costumbre complicada
+opción puede retrasar su juego si tú tiene una costumbre complicada
 función de autopickup.
 
 bad item prompt = true
@@ -1710,7 +1710,7 @@ comandos se muestran; si cualquier patrón coincide con "trap" todas las caracte
 (incluyendo las webs) se muestran.
 
 msg min height = 7
-Usted puede reducir esto para dar más espacio a la pantalla del mapa. El
+Tú puede reducir esto para dar más espacio a la pantalla del mapa. El
 valor mínimo es 5. En la consola, si este valor es lo suficientemente grande
 que el mapa no encaja, arrastrar no empezará.
 
@@ -1809,7 +1809,7 @@ arma.
 rango - Flashes la pantalla con un overlay indicando el
 rango real de un intento de hechizo, si hay
 No hay monstruos dentro del alcance del hechizo.
-hp - Flashes la pantalla roja cuando usted toma el daño
+hp - Flashes la pantalla roja cuando tú toma el daño
 debajo del nivel indicado por el hp warning
 Opción.
 monstruo in sight - Al intentar descansar, correr, viajar o explorar
@@ -1898,7 +1898,7 @@ jugando con azulejos, donde puedes ver la nube encima de ti, donde
 predeterminado a falso.
 
 siempre show zot = false
-Ya sea para mostrar la luz de estado "Zot" en todo momento, incluso cuando usted tiene
+Ya sea para mostrar la luz de estado "Zot" en todo momento, incluso cuando tú tiene
 Me queda mucho tiempo.
 
 siempre show gems = false
@@ -2017,7 +2017,7 @@ emergency item (Este artículo es invaluable en emergencias.)
 good item (Este artículo es generalmente un buen artículo.)
 dangerous item (Usar este artículo puede ser peligroso.)
 bad item (Este artículo es generalmente un mal artículo.)
-inútil item (Este artículo no sirve para usted.)
+inútil item (Este artículo no sirve para tú.)
 
 así como una gama de otras propiedades:
 equipados (Equipados artículos.)
@@ -2028,8 +2028,8 @@ melee (melee weapons, including magic staves.)
 ranged (Ranged weapons.)
 evoker (Evokers Elemental.)
 identificado (El tema está completamente identificado.)
-conocido (Usted reconoce el subtipo del artículo).
-no identificado (Usted no reconoce el subtipo del artículo.)
+conocido (Tú reconoce el subtipo del artículo).
+no identificado (Tú no reconoce el subtipo del artículo.)
 regalo de dios (un artículo que te ha dado un dios.)
 maldito (Maldito por Ashenzari.)
 
@@ -2281,7 +2281,7 @@ Primero, entre corchetes, lista la clave que desea utilizar, con
 Significa Ctrl-X. Después de ese nombre, el comando está obligado a
 Esa llave. Puede atar varios comandos a la misma llave, siempre y cuando
 como tienen efecto en diferentes áreas del juego, es decir, uno
-dirigir el comando y uno para el juego principal. Del mismo modo, usted puede
+dirigir el comando y uno para el juego principal. Del mismo modo, tú puede
 vincular el mismo comando a diferentes teclas. Puede utilizar la sintaxis \{}
 desde macros se unen para escribir códigos clave, y códigos clave como "F1", "NP+",
 y "Down" puede aparecer directamente en [].
@@ -2445,7 +2445,7 @@ Sólo baldosas locales.
 
 tile map pixels = 0
 El número máximo de píxeles cada minimap cuadrado debe asumir. Si tú
-tener una resolución baja, y sentir que el inventario es demasiado pequeño, usted
+tener una resolución baja, y sentir que el inventario es demasiado pequeño, tú
 puede intentar configurar esto a 1 para obtener más espacio para el inventario. El
 abajo es que viajar haciendo clic en el minimap se convierte mucho
 más fuerte. Si se establece a cero, se auto-dimensionará el minimap.
@@ -2483,7 +2483,7 @@ tile force overlay = false
 Establecer esta opción a la verdad obligará a la ventana del mensaje a aparecer como
 una superposición en la parte superior de la pantalla. Si utiliza esta opción, haga su
 tile font msg size más pequeño hará que el overlay más pequeño mientras retiene
-el mismo número de líneas. Aumente la opción view max height si usted
+el mismo número de líneas. Aumente la opción view max height si tú
 encuéntrate con propiedades de pantalla no utilizadas.
 
 tile overlay col = #646464
@@ -2560,7 +2560,7 @@ Mostrará bares de salud y magia en la parte superior de la baldosa del jugador 
 El jugador se lastima o gasta magia.
 
 tile show demon tier = false
-Will superpone las fichas de demonio con un icono destinado a representar sus
+ superpone las fichas de demonio con un icono destinado a representar sus
 tier (o rango de dificultad) entre demonios, reflejando el glifo
 (Consejo, 1, 2, 3, 4, 5) utilizado en construcciones no-Tiles.
 
@@ -2612,7 +2612,7 @@ son: habilidades, comandos, inventario, memorización, minimap, monstruos,
 navegación, habilidades, hechizos, comandos del sistema
 
 tile display mode = (tiles TENIDO Glyphs TEN híbrido)
-Controla cómo se hace la mazmorra. Usted puede utilizar azulejos normales (por defecto)
+Controla cómo se hace la mazmorra. Tú puede utilizar azulejos normales (por defecto)
 o hacer que parezca la versión de la consola usando glifos. híbrido
 superpone los iconos en la parte superior de la vista glifosa y utiliza un aspecto de azulejo cuadrado
 ratio.
@@ -2817,7 +2817,7 @@ para la opción menu colour (por ejemplo, "emergency item").
 note monsters += iereregex título, iereregex título, ...
 (opción de registro)
 Monstruos cuyo nombre coincide con un artículo en esta lista separada por coma
-se consideran interesantes. Usted puede tener múltiples note monsters
+se consideran interesantes. Tú puede tener múltiples note monsters
 líneas. Por ejemplo.
 note monsters += Klown,orb of fire
 
@@ -2846,7 +2846,7 @@ Esto añadirá una nota cuando Xom haga algo.
 note messages += iereregex título, iereregex confianza, ...
 (opción de registro)
 Los mensajes que coinciden con un artículo en esta lista separada por coma son
-considerado interesante. Usted puede tener múltiples notas mensajes
+considerado interesante. Tú puede tener múltiples notas mensajes
 líneas. Por ejemplo.
 note messages += Algo interfiere
 note messages += le protege del daño
@@ -3030,7 +3030,7 @@ pero la información de glifo se puede comprobar en el menú del monstruo de bú
 
 Puedes personalizar símbolos basados en nombres de monstruos o sus
 símbolos existentes. Por ejemplo, si quieres poner elfos en E
-y elementales en e, usted puede hacer esto:
+y elementales en e, tú puede hacer esto:
 
 mon glyph += e : E
 mon glyph += E : e
@@ -3047,7 +3047,7 @@ mon glyph += cognitogaunt : x
 
 También puede especificar otro monstruo, para que copias la base
 símbolo y color de ese monstruo (esto no es transitivo). Para
-ejemplo, si usted piensa que los colores del guerrero santo son hacia atrás:
+ejemplo, si tú piensa que los colores del guerrero santo son hacia atrás:
 
 mon glyph += daeva : ángel
 mon glyph += angel : daeva
@@ -3241,7 +3241,7 @@ permit extended colours.
 
 fondo color = negro
 Establece el color de fondo predeterminado por nombre (defaults a BLACK).
-Esto puede ser útil si usted está usando un terminal con un fondo
+Esto puede ser útil si tú está usando un terminal con un fondo
 color que no sea negro y desea conservar el esquema de color para gatear.
 
 Internamente, el negro se mapea al color de fondo pasado y
@@ -3292,7 +3292,7 @@ La memoria máxima en MB permite scripts Lua usuario.
 Los archivos Lua son scripts que pueden proporcionar comandos existentes con un nuevo
 significar o crear nuevos comandos (para ser utilizados en macros). Para usar Lua
 Archivos, Crawl necesita ser compilado con soporte para scripts Lua usuario.
-Usted puede comprobar para ver si su Crawl tiene soporte de Lua golpeando ?V en el juego.
+Tú puede comprobar para ver si su Crawl tiene soporte de Lua golpeando ?V en el juego.
 La lista de características Las pantallas de Crawl deben incluir "Lua scripts de usuario".
 
 Los archivos de lua se incluyen utilizando la opción lua file (un archivo por línea):

@@ -51,7 +51,7 @@ También puede leer estos documentos mientras juega Crawl golpeando '?' en el
 ayuda menú. Una lista de preguntas frecuentes sobre juego y diseño
 se puede acceder pulsando 'Q' en el juego.
 
-Mientras Crawl es estrictamente un juego de un solo jugador, usted puede interactuar con otros
+Mientras Crawl es estrictamente un juego de un solo jugador, tú puede interactuar con otros
 sobre un servidor. Conectarse a un servidor abre varias opciones interesantes.
 
 Puedes:
@@ -74,7 +74,7 @@ B. STARTING SCREEN
 
 En la pantalla de inicio Crawl, se le presentará con varios modos de juego, un
 lista de juegos guardados (si hay), y se le pedirá que escriba un nombre para su
-carácter. Usted puede navegar los modos de juego y los juegos guardados con el cursor
+carácter. Tú puede navegar los modos de juego y los juegos guardados con el cursor
 'up' y 'down' flechas.
 
 Los modos de juego son:
@@ -110,7 +110,7 @@ fondo. Los nombres son únicos; entrar un nombre de la lista de juegos guardados
 continuar ese juego guardado. Si selecciona un modo de juego en lugar de entrar en un
 nombre, eventualmente se le pedirá que introduzca un nombre.
 
-Usted puede elegir especies y fondo en orden o aleatorio cualquier
+Tú puede elegir especies y fondo en orden o aleatorio cualquier
 combinación si prefieres que el juego decida por ti. Si ambos son
 al azar, se le pedirá que confirme la combinación elegida antes de la
 El juego comienza.
@@ -142,8 +142,8 @@ especies en Crawl. Básicamente, el fondo determina lo que el personaje
 ha aprendido antes de entrar en el calabozo (es decir, las habilidades iniciales), y
 también ayuda a determinar el equipo al principio.
 
-Usted notará que un conjunto diferente de fondos será recomendado
-(blanco) para cada especie. Aunque usted es libre para elegir cualquier fondo con
+Tú notará que un conjunto diferente de fondos será recomendado
+(blanco) para cada especie. Aunque tú es libre para elegir cualquier fondo con
 casi cualquier especie (las únicas restricciones son antecedentes religiosos donde
 algunas especies no están permitidas para adorar a ciertos dioses, o fondos
 donde el equipo inicial es completamente inutilizable por una especie determinada),
@@ -168,7 +168,7 @@ i
 lista de equipos y artículos
 
 ^
-muestra información sobre su dios, si usted ha comenzado con una religión
+muestra información sobre su dios, si tú ha comenzado con una religión
 
 %
 da un general, si terse, vista general de su equipo y la mayoría de atributos
@@ -189,8 +189,8 @@ seguir muchos números. Estos describen diferentes aspectos del carácter.
 
 Salud
 Una medida de fuerza vital. Sinónimo de puntos de éxito y a veces
-abreviado como HP. Usted muere si su salud cae a cero o menos (aunque
-usted puede morir de otras maneras, también). La pantalla principal muestra su corriente
+abreviado como HP. Tú muere si su salud cae a cero o menos (aunque
+tú puede morir de otras maneras, también). La pantalla principal muestra su corriente
 y máxima salud. Normalmente, recuperas la salud lentamente con el tiempo. Prensa
 '5' o Shift-Num-5 le permite esperar un período más largo.
 
@@ -232,13 +232,13 @@ y lo poderosos que son esos hechizos.
 Dexteridad
 Abreviado a "Dex". Aumenta tu precisión con melee y ranged
 armas, y su daño con armas de alcance y cuchillas largas y cortas.
-Afecta significativamente su capacidad de esquivar ataques dirigidos a usted, su
+Afecta significativamente su capacidad de esquivar ataques dirigidos a tú, su
 eficacia con escudos, su sigilo y su eficacia cuando
 apuñalando enemigos inconscientes.
 
 Estos atributos primarios crecen permanentemente desde niveles de ganancia, y pueden
 aumentar o disminuir temporalmente de mutaciones o al utilizar ciertas
-artefactos o habilidades. Al ganar niveles 3, 9, 15, etc., usted puede elegir
+artefactos o habilidades. Al ganar niveles 3, 9, 15, etc., tú puede elegir
 un atributo para elevar por dos puntos. La mayoría de las especies ganan más
 atributos en algunos niveles, con la frecuencia y el atributo a ser
 aumento determinado por especies.
@@ -293,7 +293,7 @@ sólo en efectos más sutiles. Aunque su fuerza de voluntad aumenta con su
 nivel hasta un punto determinado por las especies de tu personaje, las criaturas
 se encontrarán más profundo en la mazmorra son mejores en los hechizos de casting, y son
 más probable que pueda afectarte. Puedes tener una idea difícil de tu
-Will presionando '%'.
+ presionando '%'.
 
 Tamaño
 Diferentes especies tienen diferentes tamaños: Spriggans y Felids son muy
@@ -382,7 +382,7 @@ Descansando
 Si presionas '5', descansarás hasta que tu salud o magia regresen a plenitud.
 Puedes descansar por un solo giro pulsando '.' o 's'.
 
-Descansar se detiene si aparece un monstruo o si usted es interrumpido de otra manera.
+Descansar se detiene si aparece un monstruo o si tú es interrumpido de otra manera.
 
 Examinando sus alrededores
 ================================================================================================================================================================================================================================================================
@@ -396,27 +396,27 @@ está sobre un monstruo o característica trae una descripción corta de ese mon
 así como una lista corta de sus diversas fortalezas, debilidades, inmunidades,
 y cualquier hechizo o habilidad que tenga. Esto es generalmente útil con monstruos
 Nunca te has encontrado antes. También puede seleccionar monstruos y características
-de una lista presionando 'Ctrl-X'. Usted puede conseguir un mapa de todo el nivel
+de una lista presionando 'Ctrl-X'. Tú puede conseguir un mapa de todo el nivel
 (que muestra dónde ya has estado) escribiendo 'X'.
 
-Usted puede ver el conjunto completo de comandos disponibles mientras mira alrededor por
+Tú puede ver el conjunto completo de comandos disponibles mientras mira alrededor por
 presionando '?', tanto en los modos 'x' como 'X'.
 
 Escaleras y Portales
 ================================================================================================================================================================================================================================================================
 
-Usted puede hacer su camino entre niveles utilizando escaleras, que aparecen como
+Tú puede hacer su camino entre niveles utilizando escaleras, que aparecen como
 "Consejo" (abajo) y "tratado" (abajo), pulsando las teclas 'consejo' o 'traducido'. Es importante
-para saber que la mayoría de los monstruos adyacentes a usted seguirá cuando usted cambia
+para saber que la mayoría de los monstruos adyacentes a tú seguirá cuando tú cambia
 niveles; esto es para monstruos hostiles y aliados. Excepciones notables
 son zombis y otros no muertos mentales, que son demasiado estúpidos para
 operar escaleras.
 
 Al tomar escaleras, se garantiza la oportunidad de actuar ante cualquier monstruo
-en el otro lado que usted no ha encontrado previamente.
+en el otro lado que tú no ha encontrado previamente.
 
 Si asciendes una escalera arriba en el nivel uno, dejarás la mazmorra
-para siempre; si usted está llevando el Orbo mágico de Zot, usted gana el juego por
+para siempre; si tú está llevando el Orbo mágico de Zot, tú gana el juego por
 haciendo esto. De lo contrario, el juego termina y pierdes.
 
 Además de la mazmorra que empiezas, la mazmorra de Crawl tiene muchas ramas. Todos
@@ -453,7 +453,7 @@ desencadenado por monstruos para desencadenar sus efectos sobre ti.
 Tiendas
 ================================================================================================================================================================================================================================================================
 
-Cuando visita una tienda (por medio de не o не mientras está de pie en uno), usted es
+Cuando visita una tienda (por medio de не o не mientras está de pie en uno), tú es
 muestra lo que el comerciante tiene en stock y puede elegir qué comprar.
 Desafortunadamente, todos los comerciantes tienen un trato exclusivo con el Gremio de
 Dungeon Procurers que les impide utilizar trabajos no guiados para obtener
@@ -461,14 +461,14 @@ stock, así que no puedes vender nada en una tienda. (Pero entonces, qué comerc
 compraría bienes robados de un aventurero irreputable, de todos modos?)
 
 Para comprar uno o más artículos, seleccione pulsando las letras de los
-artículo en el menú de la tienda y luego presiona Enter para hacer la compra; usted puede
+artículo en el menú de la tienda y luego presiona Enter para hacer la compra; tú puede
 examinar los artículos antes de comprarlos pulsando '!' y luego la letra de la
 ítem.
 
-Si usted ha perdido la pista de las tiendas en la mazmorra, usted puede conseguir una lista de todos
+Si tú ha perdido la pista de las tiendas en la mazmorra, tú puede conseguir una lista de todos
 las tiendas que has encontrado en la visión general de la mazmorra (utiliza 'Ctrl-O').
 
-Usted también puede utilizar la búsqueda de reserva: Hitting 'Ctrl-F' y la búsqueda de
+Tú también puede utilizar la búsqueda de reserva: Hitting 'Ctrl-F' y la búsqueda de
 "shop" listará todas las tiendas. El menú de búsqueda de datos le permite viajar
 rápidamente a una tienda en particular; si sólo quieres saber lo que hay en la tienda,
 también puede examinar el inventario de la tienda en el menú de búsqueda sin
@@ -478,7 +478,7 @@ Algunas tiendas son tiendas antiguas que venden artículos de procedencia descon
 generalmente con un buen descuento. La pantalla de visión de mazmorra muestra estos con
 glifos amarillos.
 
-Si usted está corto de oro para alguna mercancía particularmente interesante, usted
+Si tú está corto de oro para alguna mercancía particularmente interesante, tú
 puede colocarla en su lista de compras. El juego te interrumpirá cuando tú
 han recogido suficiente oro para finalmente comprar un artículo en esa lista. Tú.
 puede leer la lista de compras en el juego con '$'.
@@ -510,11 +510,11 @@ Stashes and Searching
 Ya que sólo puede llevar 52 artículos, de vez en cuando desea guardar
 cosas de distancia (dejándolos con el comando 'd'). Cuando quieras
 buscar algo en tus puestos, puedes hacerlo con el comando Find
-"Ctrl-F". El parser incluso acepta expresiones regulares, aunque usted lo hará
+"Ctrl-F". El parser incluso acepta expresiones regulares, aunque tú lo hará
 en su mayoría sólo necesitan cuerdas como 'mutación', 'heridas de cura', etc. Lo serás
 presentado con una lista de todos los lugares donde los objetos coinciden con la búsqueda
 (o han sido) localizados; entonces puede viajar allí o examinar la pila. El
-Encontrar comando también buscará en los inventarios de tiendas. Además, usted puede
+Encontrar comando también buscará en los inventarios de tiendas. Además, tú puede
 habilidades de búsqueda como 'palabras largas' (esto encontrará todas las armas entrenando el
 palas largas habilidad) o términos generales como 'shop', 'altar', 'portal',
 "artefacto", etc. Puedes conseguir ayuda para encontrar pulsando '?' en el aviso.
@@ -555,7 +555,7 @@ Juego visto
 
 Las mazmorras son determinadas por un número de "semillas" usado para inicializar el
 generador de números al azar del juego. Puedes dejar que el juego elija una semilla
-al azar, o especificar una semilla; si usted elige una semilla esto pone el juego en
+al azar, o especificar una semilla; si tú elige una semilla esto pone el juego en
 Modo "Verded", que se marca por separado. Jugar juegos con la misma semilla
 valor, siempre y cuando la versión del juego sea constante, debe (dentro de
 parámetros) conducen a la misma mazmorra. Toda la mazmorra conectada será
@@ -602,7 +602,7 @@ E. EXPERIENCE AND SKILLS
 ------------------------------------------------------------------------
 
 Cuando matas monstruos, ganas puntos de experiencia (XP). Cuando llegues
-suficiente XP, usted gana un nivel de experiencia, haciendo su carácter más
+suficiente XP, tú gana un nivel de experiencia, haciendo su carácter más
 poderoso. Mientras ganan niveles, los personajes ganan más salud, magia y
 niveles de hechizo.
 
@@ -632,10 +632,10 @@ Hay dos maneras de asignar habilidades a la práctica: una es automática
 modo, que pone puntos de experiencia en las habilidades que ha utilizado recientemente.
 El otro es un modo manual, donde se seleccionan específicamente las habilidades para
 Tren. Puede cambiar entre los modos pulsando '/' en el personaje
-pantalla de habilidad ('m'); también asegúrese de leer el texto de ayuda de la pantalla si usted
+pantalla de habilidad ('m'); también asegúrese de leer el texto de ayuda de la pantalla si tú
 quieres retocar tus habilidades.
 
-Usted puede elegir o no practicar una habilidad particular o centrarse en ella
+Tú puede elegir o no practicar una habilidad particular o centrarse en ella
 seleccionando una o dos veces en la pantalla de habilidad.
 
 Las habilidades grises oscuras no serán entrenadas, por lo que la habilidad permanecerá estática
@@ -694,7 +694,7 @@ diferente tipo de amenaza de los luchadores melee. Aprender de muertes pasadas y
 Recuerde qué monstruos plantean los más problemas. Si los monstruos particulares son
 darle problemas, tratar de alterar sus tácticas para futuros encuentros.
 
-Usted puede obtener información sobre un monstruo usando el 'x' (examina)
+Tú puede obtener información sobre un monstruo usando el 'x' (examina)
 comando, moviendo el cursor sobre el monstruo en cuestión, y pulsando 'v'
 para ver los detalles del monstruo; o buscando un monstruo por nombre o
 símbolo con '?/m'. La pantalla de detalles muestra:
@@ -783,9 +783,9 @@ lista de verificación de elementos ya descubiertos
 Uso del artículo
 ================================================================================================================================================================================================================================================================
 
-Usted recoge elementos con el comando 'g'et o ',' (comma) y los deja caer con
+Tú recoge elementos con el comando 'g'et o ',' (comma) y los deja caer con
 el comando 'd'rop. Cuando se le da un aviso como "¿de qué artículo?", si
-escriba un número antes de la carta del artículo, usted dejará que
+escriba un número antes de la carta del artículo, tú dejará que
 cantidad del artículo (similarmente al recoger). Lo mismo funciona si
 querer recoger sólo parte de una pila y hay varios tipos de elementos
 en la plaza (para que se muestren en una lista). Cuando sólo hay un
@@ -793,15 +793,15 @@ una sola pila de flechas y quieres recoger sólo algunos de ellos, utilizar el
 ';' comando. Tenga en cuenta que recoger elementos de un cuadrado toma exactamente uno
 Gira. Sin embargo, dejar varios artículos a la vez toma más turnos.
 
-La escritura 'i' muestra su inventario (lo que usted está llevando). Cuando estés
-dado un aviso como "Throw [or Wield, Wear, etc] qué artículo?", generalmente usted
+La escritura 'i' muestra su inventario (lo que tú está llevando). Cuando estés
+dado un aviso como "Throw [or Wield, Wear, etc] qué artículo?", generalmente tú
 obtener una lista de todas las opciones disponibles. Puedes presionar '*' por si quieres
 es algo inusual. Cuando la pantalla del inventario muestra "-más-", para mostrar
 que hay otra página de elementos, puede escribir la letra de la
 elemento que desea, incluso si no es visible, en lugar de presionar Espacio o
 Entra para ver la siguiente página.
 
-Usted puede llevar a la mayoría de 52 artículos a la vez, y su uso de ranura de artículo está impreso
+Tú puede llevar a la mayoría de 52 artículos a la vez, y su uso de ranura de artículo está impreso
 en la parte superior de la pantalla del inventario.
 
 Puede utilizar el comando Ajuste (la tecla '=) para cambiar las letras a las que
@@ -833,7 +833,7 @@ automatizar este proceso, ver Apéndice 5. "Inscripciones".
 Armas
 ================================================================================================================================================================================================================================================================
 
-Son bastante importantes. Usted encontrará una variedad de armas en el
+Son bastante importantes. Tú encontrará una variedad de armas en el
 mazmorra, desde pequeñas y rápidas dagas hasta enormes, engorrosas
 y polearmas. Cada tipo de arma hace una cantidad diferente
 daño, tiene una oportunidad diferente de golpear su objetivo, y toma un diferente
@@ -863,7 +863,7 @@ estos artículos normalmente.
 ================================================================================================================================================================================================================================================================
 
 Si los monstruos están disobligingly distantes, puedes usar misiles para debilitar (o
-matar!) de lejos. Usted encontrará una variedad de tipo, que van desde simple
+matar!) de lejos. Tú encontrará una variedad de tipo, que van desde simple
 piedras y javelinas perforantes a dardos sofisticados cubiertos de muchos tipos
 de venenos. Al impacto, los misiles pueden ser destruidos. La oportunidad de esto
 ocurrir depende del tipo de misil.
@@ -894,7 +894,7 @@ Cuanto más pesado sea una armadura, más AC (clase de tumor) proporcionará,
 el gasto de su EV (evasión) y robo. Armadura pesada también
 aumenta sus posibilidades de malcasting hechizos y ralentizar sus ataques con
 armas de misiles, efectos que sólo son ligeramente reducidos por su Armour
-habilidad. Estas penas son mayores si usted tiene baja fuerza.
+habilidad. Estas penas son mayores si tú tiene baja fuerza.
 
 Un escudo normalmente no aumenta ni su AC ni su evasión, pero permite
 intentas bloquear los ataques de melee y algunos ataques variados dirigidos a ti.
@@ -923,7 +923,7 @@ Escrolones mágicos
 
 Los olores tienen muchos hechizos mágicos diferentes inscritos en ellos, algunos buenos y
 algo malo. Uno de los pergaminos más útiles es el pergamino de identificación, que
-le dirá la función de cualquier artículo que tenga en su inventario; usted
+le dirá la función de cualquier artículo que tenga en su inventario; tú
 podría querer guardar estos para artículos que son peligrosos o desperdicio para usar
 cuando no identificado, como pociones u otros pergaminos. Puedes leer pergaminos
 (y al hacerlo invocar su magia) con el comando 'r'.
@@ -946,7 +946,7 @@ Reconoce inmediatamente cuando los recoges. Cuando recoges una varita
 tipo que ya tiene en inventario, sus cargas se absorben en el
 existente. Cuando los cargos de una varita están totalmente agotados, desaparece.
 
-Las armas están dirigidas de la misma manera que las armas de misiles, y usted puede liberar el
+Las armas están dirigidas de la misma manera que las armas de misiles, y tú puede liberar el
 poder de una varita evocando con 'V'. Véase la sección I para apuntar.
 
 Wands puede ser 'Q'uivered para disparar a través del fuego automático o 'f'ire
@@ -959,8 +959,8 @@ Los anillos mágicos están entre los más útiles de los elementos que encontra
 mazmorra. Mientras están equipados, proporcionan algún tipo de beneficio pasivo al
 portador, como aumentar sus atributos o proporcionar diversos tipos de
 protección. Usa el comando 'P' para poner los anillos, y 'R' para eliminarlos.
-Usted puede usar hasta dos anillos simultáneamente, uno en cada mano; qué mano
-Usted puso un anillo es inmaterial a su función. Si tratas de poner en un
+Tú puede usar hasta dos anillos simultáneamente, uno en cada mano; qué mano
+Tú puso un anillo es inmaterial a su función. Si tratas de poner en un
 Anillo mientras ambos dedos de anillo están llenos, se le preguntará cuál a
 Quítate. Los opodos son una excepción, y pueden usar hasta ocho anillos en sus
 tentáculos.
@@ -1091,9 +1091,9 @@ hechizo para olvidar.
 
 Cada hechizo tiene un nivel. El nivel de un hechizo denota la cantidad de habilidad
 requerido para utilizarlo, el coste MP de fundición, e indica cuán poderoso
-Puede ser. Usted sólo puede memorizar un cierto número de niveles de hechizos; tipo
-'M' para averiguar cuántos. Cuando usted gana niveles de experiencia o avance
-Destreza de transmisión, sus máximos aumentos; usted tendrá que ahorrar para
+Puede ser. Tú sólo puede memorizar un cierto número de niveles de hechizos; tipo
+'M' para averiguar cuántos. Cuando tú gana niveles de experiencia o avance
+Destreza de transmisión, sus máximos aumentos; tú tendrá que ahorrar para
 varios niveles para memorizar los hechizos más poderosos.
 
 Hay dos maneras de activar hechizos memorizados: "quiver" ellos y
@@ -1103,7 +1103,7 @@ acciones. Presione 'f' para entrar en la interfaz de destino, o cambio-tab / 'p'
 autentica un hechizo en el monstruo más cercano.
 
 Use 'I' para mostrar una lista de todos los hechizos memorizados sin realmente casting
-Uno. Los hechizos disponibles están etiquetados con letras; usted es libre de cambiar
+Uno. Los hechizos disponibles están etiquetados con letras; tú es libre de cambiar
 este etiquetado con el comando '='. Puede asignar ambos maletines y
 letras mayúsculas a hechizos. Algunos hechizos, por ejemplo la mayoría de los daños que se tratan
 Unos, requieren un objetivo. Vea la siguiente sección para detalles sobre cómo apuntar.
@@ -1114,7 +1114,7 @@ Magic Dart. En general, es una buena idea ver la salida del 'I'
 y 'II' pantallas para obtener una imagen en sus habilidades de casting. Esto es...
 especialmente útil si estás a punto de cambiar armadura o anillos.
 
-Los hechizos de alto nivel son difíciles de fundir, y usted puede maldecir cada uno
+Los hechizos de alto nivel son difíciles de fundir, y tú puede maldecir cada uno
 de vez en cuando (resultando en un desperdicio de magia y posiblemente peligroso
 efectos secundarios). Tu oportunidad de no lanzar un hechizo adecuadamente depende de
 tus habilidades, tu inteligencia, el nivel del hechizo y si eres
@@ -1134,11 +1134,11 @@ Al lanzar o disparar algo, evocando varitas, o echando ciertas
 hechizos, te piden una dirección. Hay varias maneras de decirle a Crawl
 que monstruo apuntar.
 
-Usted puede presionar '?' cuando se le pide una dirección; esto traerá una ayuda
+Tú puede presionar '?' cuando se le pide una dirección; esto traerá una ayuda
 pantalla. De lo contrario, utiliza los siguientes comandos:
 
 - El cursor apuntará al monstruo que está más cerca de tu posición.
-Si usted ha estado disparando a algo anteriormente, con el delincuente
+Si tú ha estado disparando a algo anteriormente, con el delincuente
 todavía estando a la vista, el cursor se descansará en el anterior
 objetivo.
 - Presionar '+' o '=' mueve el cursor al siguiente monstruo, pasando de
@@ -1178,7 +1178,7 @@ J. RELIGION
 Hay un número de dioses, demonios y otros poderes surtidos que harán
 aceptar la adoración de tu personaje, y a veces dar favores en
 intercambio. Puede utilizar el comando '^' para comprobar los requisitos de quien sea
-es que ustedes adoran, y si encuentran la religión para ser un inconveniente
+es que tú adoran, y si encuentran la religión para ser un inconveniente
 siempre puede renunciar a su fe (utiliza el comando 'a' - pero la mayoría de los dioses resentimiento
 ser despreciado). Más detalles se pueden ver con '!' mientras que en el '^'
 pantalla.
@@ -1193,10 +1193,10 @@ orar en un altar para dedicarse a una vida de servidumbre. Ahí está.
 son altares repartidos por toda la mazmorra, y hay rumores de
 templo especial cerca de la superficie.
 
-En un altar, usted puede entrar en el servicio de un dios pulsando не o не. Tú primero.
+En un altar, tú puede entrar en el servicio de un dios pulsando не o не. Tú primero.
 se le da una descripción del dios, y luego se le pregunta si realmente quieres
 únete. Para ver una lista de los dioses estándar y cuál de sus altares tienes
-visto en su juego actual, pulse 'Ctrl-O'. Usted también puede aprender sobre todo
+visto en su juego actual, pulse 'Ctrl-O'. Tú también puede aprender sobre todo
 dioses presionando '?/G'.
 
 Note que algunos dioses son exigentes acerca de quién puede entrar en su servicio; porque
@@ -1375,8 +1375,8 @@ En pocas palabras: Este juego pretende ser una mazmorra táctica con temática d
 Arrastre. Nos esforzamos por que la estrategia sea también una preocupación, y para exquisita
 juego e interfaz. Sin embargo, no esperes tramas o misiones.
 
-Usted puede reflexionar sobre la sabiduría de ciertas decisiones de diseño de Crawl. Esto
-La sección trata de explicar algunos de ellos. También podría ser de interés si usted
+Tú puede reflexionar sobre la sabiduría de ciertas decisiones de diseño de Crawl. Esto
+La sección trata de explicar algunos de ellos. También podría ser de interés si tú
 se utilizan para otros roguelikes y quieren un poco de fondo en
 diferencias. Los primeros pilares del desarrollo de Crawl son los siguientes, la mayoría
 de los cuales se explican con más detalle a continuación. Tenga en cuenta que muchas de estas fechas
@@ -1528,7 +1528,7 @@ Diseño de Dungeon
 Incluso los jugadores veteranos pueden encontrar la tumba o los infiernos emocionantes (que son
 diseñado tal que las situaciones que ponen en peligro la vida siempre pueden aparecer). Éstos
 y otras ramas pueden o no encajar en la acumulación de un determinado personaje. Por el
-manera, creemos firmemente que los juegos son inútiles si usted puede alcanzar el
+manera, creemos firmemente que los juegos son inútiles si tú puede alcanzar el
 estado invencible.
 
 Religión
@@ -1574,7 +1574,7 @@ de las tasas de ganancia más altas de todas las especies, pero se clasifican co
 "Avanzado" porque su mecánico de no-mp/no-books toma algo de adaptación
 a, y tiene interacciones no-triviales con el fondo y la elección de dios.)
 A pesar de ser el resultado de una discusión entre muchos jugadores, estos
-las categorizaciones definitivamente tienen un elemento subjetivo para ellos, y usted
+las categorizaciones definitivamente tienen un elemento subjetivo para ellos, y tú
 ¡No debería llevarlos a limitarlos!
 
 El orden dentro de las categorías es también, aproximadamente, determinado por nuestro mejor
@@ -2098,7 +2098,7 @@ primos, tienen una ligera ventaja en Evocations.
 2. LIST OF CHARACTER BACKGROUNDS
 ------------------------------------------------------------------------
 
-En su búsqueda, usted juega como uno de un gran número de diferentes tipos de
+En su búsqueda, tú juega como uno de un gran número de diferentes tipos de
 personajes. Aunque cada uno tiene sus propias fortalezas y debilidades, algunos son
 Definitivamente más fácil que otros, al menos para empezar. Los mejores antecedentes
 para un principiante son probablemente Gladiators y Berserkers; si realmente quieres
@@ -2304,7 +2304,7 @@ materia que arma su carácter está marchitando (si hay). La lucha también es
 la habilidad que determina la cantidad de salud que tu personaje gana mientras
 aumento de los niveles (nota que esto se calcula para que no tengas un
 ventaja de largo plazo al comenzar con una alta habilidad de lucha). A diferencia de
-habilidad de arma específica, La lucha no cambia la velocidad con la que usted
+habilidad de arma específica, La lucha no cambia la velocidad con la que tú
 Haz tus ataques.
 
 Las habilidades de armamento afectan su capacidad de luchar con armas de meleo específicas.
@@ -2333,7 +2333,7 @@ con él. Tanto la velocidad base como la mejor velocidad posible (o menor)
 mostrado en la entrada de inventario para un arma. Aunque las armas más ligeras son
 más fácil de usar inicialmente, ya que golpean rápida y precisamente, más pesado
 las armas aumentan el potencial de daño muy rápidamente a medida que mejora su habilidad
-con ellos. Usted puede comprobar el retraso actual de su arma columpio en
+con ellos. Tú puede comprobar el retraso actual de su arma columpio en
 aire (utilizando ctrl-direction) y mirando el número de paréntesis junto a
 tu cuenta.
 
@@ -2370,7 +2370,7 @@ Destrezas mágicas
 Spellcasting es la habilidad básica para el uso mágico. Afecta sus reservas
 energía mágica (Magia) de la misma manera que la lucha afecta a su salud:
 cada vez que aumentas la habilidad de Spellcasting ganas algunos puntos mágicos,
-y usted gana un nivel de hechizo cada vez que alcanza un nivel de habilidad divisible por
+y tú gana un nivel de hechizo cada vez que alcanza un nivel de habilidad divisible por
 0.5. Spellcasting también ayuda con la tasa de potencia y éxito de su
 hechizos, pero en menor medida que las habilidades mágicas más especializadas.
 
@@ -2467,7 +2467,7 @@ o
 Autoexplore. Configurar la opción explore greedy a verdaderos hechos
 autoexplore run to interesantes items (aquellos que se recogen
 automáticamente) o pilas (ver el contenido). Autoexploración
-abrir las puertas por su cuenta a menos que usted ponga viaja open doors para evitar o
+abrir las puertas por su cuenta a menos que tú ponga viaja open doors para evitar o
 enfoque.
 
 G o Ctrl-G
@@ -2588,14 +2588,14 @@ X
 Examine el mapa de nivel, ver abajo. ¿Tiene ayuda?
 
 Ctrl-X
-Lista todos los monstruos, elementos y características a la vista. Usted puede leer sus
+Lista todos los monstruos, elementos y características a la vista. Tú puede leer sus
 descripciones y viajar a un artículo o característica.
 
 Ctrl... O
 Mostrar vista de mazmorras (marcas, tiendas, etc.).
 
 !
-Anota un nivel. Usted puede anotar cualquier nivel de una rama de la cual usted
+Anota un nivel. Tú puede anotar cualquier nivel de una rama de la cual tú
 han encontrado la entrada. Puedes introducir cualquier texto. Esta anotación es entonces
 lista en el resumen de la mazmorra (Ctrl-O) y también se muestra cuando entra
 ese nivel otra vez. Si su anotación contiene una marca de exclamación (!),
@@ -2630,11 +2630,11 @@ A
 Mostrar habilidades/mutaciones.
 
 \
-Mostrar conocimiento del artículo. Usted puede cambiar las excepciones de autopickup para los tipos de elementos
+Mostrar conocimiento del artículo. Tú puede cambiar las excepciones de autopickup para los tipos de elementos
 en esta pantalla. La pantalla tiene su propio texto de ayuda.
 
 m
-Mostrar la pantalla de habilidad. Usted puede obtener descripciones de las habilidades actuales de que
+Mostrar la pantalla de habilidad. Tú puede obtener descripciones de las habilidades actuales de que
 pantalla, así como las aptitudes. La pantalla tiene su propio texto de ayuda.
 
 i
@@ -2735,7 +2735,7 @@ están buscando altares a un dios especial, una búsqueda de 'Trog', etc.
 funciona. Una cadena como 'D:13' listará todos los elementos conocidos en ese nivel.
 'D:1}' buscará artículos en el nivel 1 solamente, en lugar de 'D:1', que
 listará también los elementos de D:10 a D:15. Una vez que la lista de todos encontrados
-los lugares se muestran, usted puede causar auto-travel para ir allí (presione el
+los lugares se muestran, tú puede causar auto-travel para ir allí (presione el
 carta asociada) o puede examinar los elementos (prensión ? seguido por el
 carta).
 
@@ -2849,7 +2849,7 @@ Invertir la selección. Esto le permitirá seleccionar todos los elementos inclu
 la opción drop filter.
 
 .
-Selecciona el siguiente artículo. (Si usted ha presionado la clave de un artículo en la lista,
+Selecciona el siguiente artículo. (Si tú ha presionado la clave de un artículo en la lista,
 '.' cambiará el siguiente artículo. Esto se puede repetir, seleccionar rápidamente
 varios temas posteriores).
 
@@ -3008,7 +3008,7 @@ Tab
 Ciclo tiendas y portales.
 
 Ctrl-X
-Lista todos los monstruos, elementos y características a la vista. Usted puede leer sus
+Lista todos los monstruos, elementos y características a la vista. Tú puede leer sus
 descripciones y mover el cursor a un elemento, monstruo o característica.
 
 Objetivo
@@ -3051,14 +3051,14 @@ Shift-direction
 Fuego directo en esa dirección.
 
 Ctrl-X
-Lista todos los objetivos válidos. Usted puede seleccionar un objetivo de la lista para mover
+Lista todos los objetivos válidos. Tú puede seleccionar un objetivo de la lista para mover
 el cursor a ese objetivo.
 
 ------------------------------------------------------------------------
 5. INSCRIPCIONES
 ------------------------------------------------------------------------
 
-Puede utilizar el { comando para inscribir manualmente los elementos; alternativamente, usted
+Puede utilizar el { comando para inscribir manualmente los elementos; alternativamente, tú
 también puede inscribirse al ver los artículos del inventario (haciendo presión
 la carta del artículo). Esto añade una nota en los frenos rizados al artículo
 descripción. Además de permitirle hacer comentarios sobre los artículos,
@@ -3195,7 +3195,7 @@ Todos los juegos de sprint tienen lugar en un solo mapa. La velocidad más notab
 el cambio es mucho más rápido ganancia de experiencia, así como el crecimiento de la piedad. Muchos
 los modos sprint se centran en algún aspecto específico del juego, y varios
 introducir mecánica variante o elementos únicos en ese modo. En todos los
-sprint mapas, usted gana por encontrar y escapar con el Orbo de Zot, pero el
+sprint mapas, tú gana por encontrar y escapar con el Orbo de Zot, pero el
 condiciones para encontrar el Orb varían.
 
 Sprint I: "Red Sonja"
@@ -3239,7 +3239,7 @@ Este mapa es un mapa de la huella de estilo tradicional que incrusta la búsqued
 el Orbo de Zot en un nivel de mazmorra con tres runas.
 
 Sprint VIII: "Arena de sangre"
-En la Arena de la Sangre, también conocida como "impresión", usted es un vaso de
+En la Arena de la Sangre, también conocida como "impresión", tú es un vaso de
 Makhleb, desgarrando el inmenso hacha de Ay de Makhleb contra un
 gran variedad de monstruos basados en carne en una arena abierta. Para ganar este modo,
 matar al Meatlord, recoger el Orbe de Zot, y escapar.

@@ -13,7 +13,7 @@ para cosas como hacer una clave ejecutar una secuencia de comandos (por ejemplo,
 asociando un golpe clave a la casting de un cierto hechizo) sin
 tener que preocuparse de arruinar lo que esa llave hace en los avisos (por ejemplo.
 puede macro un número o carta sin preocuparse por él haciendo el
-sustitución cuando usted está tratando de dejar un artículo).
+sustitución cuando tú está tratando de dejar un artículo).
 
 Los teclados son para cuando quieres arreglar problemas de diseño y comportamiento en
 su teclado (es decir, secuencias numpadas no reconocidas pueden por mapeado en
@@ -34,7 +34,7 @@ Estos números son los códigos clave para ciertas teclas no alfanuméricas y
 puede variar entre diferentes sistemas.
 
 Por defecto, la mayoría de las teclas alfanuméricas superior e inferior ya están
-Funciones asignadas en Crawl. Mientras usted es libre de remap esas llaves como
+Funciones asignadas en Crawl. Mientras tú es libre de remap esas llaves como
 Bueno, podría ser mejor empezar con algunas de las teclas actualmente no utilizadas,
 como Ins o las teclas de función (F1 a F12), posiblemente combinadas con
 Ctrl, Shift o ambos. En algunos sistemas, también puede ser posible
@@ -87,7 +87,7 @@ Ejemplos
 Esta sección contiene algunos ejemplos para darle una idea de lo macros y
 se pueden usar teclados. Note que por el bien de la integridad, ambos
 línea clave y línea de comando se dan, pero que probablemente debe
-Sustituya sus propias llaves aquí ya que éstas no siempre funcionan para usted.
+Sustituya sus propias llaves aquí ya que éstas no siempre funcionan para tú.
 
 
 '@' es un personaje que puede no funcionar por defecto en algún teclado

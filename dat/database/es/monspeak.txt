@@ -6565,7 +6565,7 @@ Nergalle
 
  VAR1   dice, "He vivido lo suficiente como para ver a cien personas como tú fracasan."
 
-VISUAL:  VAR2   consulta un enorme pergamino y fideos.
+VISUAL:  VAR2   consulta un enorme pergamino y gnolls.
 
 VISUAL:  VAR3   participa en una conversación animada con el aire al lado   VAR4  .
 

@@ -16,3 +16,4 @@ Thumbs.db
 # Proyecto
 .upstream_cache/
 *.bak
+crawl

@@ -1,4 +1,4 @@
-Nota: Si usted está experimentando una desaceleración significativa y retrasos con los azulejos
+Nota: Si tú está experimentando una desaceleración significativa y retrasos con los azulejos
 versión de Dungeon Crawl Stone Soup, baja hasta el final de este archivo.
 
 
@@ -63,7 +63,7 @@ El artículo generalmente mostrará una "pista de herramientas" de los comandos 
 Ataque a monstruos
 - Sí.
 
-Usted puede atacar a un monstruo en la melee moviéndose en ella con las teclas de movimiento
+Tú puede atacar a un monstruo en la melee moviéndose en ella con las teclas de movimiento
 o haciendo clic en él con el ratón.
 
 Para ataques variados (incluyendo hechizos y varitas), ratón sobre los monstruos
@@ -125,11 +125,11 @@ cada sprite personalizado. Guarda tus cambios y selección con 'Ctrl-S'.
 
 
 
-Si usted está experimentando una desaceleración significativa y retrasos...
+Si tú está experimentando una desaceleración significativa y retrasos...
 ------
 
 Crawl renderiza sus gráficos usando OpenGL y SDL. Sin embargo, necesita hardware
-aceleración para no correr lentamente. Si usted está en Windows, asegúrese de actualizar
+aceleración para no correr lentamente. Si tú está en Windows, asegúrese de actualizar
 tu chofer de tarjetas gráficas. Si está en Linux, asegúrese de que está usando
 DRI.
 
@@ -147,7 +147,7 @@ interrumpido.
 
 tile update rate = 1000
 Por defecto, la pantalla se enrojece al menos cada 1000 milisegundos,
-más a menudo si usted toma acciones que cambian la pantalla. Podrías intentarlo.
+más a menudo si tú toma acciones que cambian la pantalla. Podrías intentarlo.
 anhelando este valor, aunque esto puede llevar a actualizar tomar demasiado tiempo.
 
 tile runrest rate = 17
@@ -165,4 +165,4 @@ tile window width = 1024
 tile window height = 768
 Cuanto más grande es el área del mapa más células hay que redibujar cada vuelta.
 Si tienes una gran pantalla mostrando mucho más que el necesario 17x17
-cuadrículas del mapa, usted podría intentar especificar una resolución menor.
+cuadrículas del mapa, tú podría intentar especificar una resolución menor.

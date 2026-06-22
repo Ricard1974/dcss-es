@@ -9,7 +9,7 @@ Así que, quieres empezar a jugar a Crawl inmediatamente sin molestarte con el
 
 Sugiero imprimirlo y seguir sus instrucciones mientras juega su
 primeros juegos (también se puede presionar `?` dos veces mientras juega para una lista de
-comandos). Usted también debe probar el modo tutorial; sólo toma unos pocos
+comandos). Tú también debe probar el modo tutorial; sólo toma unos pocos
 minutos.
 
 Cuando tengas más tiempo, puedes leer `crawl manual.txt` en los docs/
@@ -65,7 +65,7 @@ más información. Usas los comandos `O`, `C` para abrir o cerrar puertas, y los
 " (up) y " título " (down) ordenan subir escaleras.
 
 El Dungeon se vuelve más peligroso (pero más interesante!) mientras bajas. Si tú
-perderse usted puede acceder a un mapa de todo el nivel que usted está en con el `X`
+perderse tú puede acceder a un mapa de todo el nivel que tú está en con el `X`
 comando, que utiliza toda la pantalla.
 
 ITEMS
