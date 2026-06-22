@@ -1,0 +1,3447 @@
+Guía para las opciones de Crawl
+====================================================================
+
+Este documento explica todas las opciones en la última versión de Dungeon
+Crawl Stone Soup. Si te atascas o algunas cosas no parecen funcionar correctamente,
+pedir ayuda en cualquiera de los recursos de discusión comunitaria descritos
+http://crawl.develz.org/.
+
+Los contenidos de este texto son:
+
+0 Generalidades.
+0-a Archivos de opción estándar y adicionales.
+0-b Opciones en la línea de comandos.
+0-c Opciones y cómo configurarlas.
+0-d Opciones de lista.
+0-e Aliases y variables.
+1- Pantalla de inicio.
+nombre, tipo, remember name, arma, especies, fondo, combo,
+restart after game, restart after save, newgame after quit,
+name bypasses menu, default manual training,
+autopickup starting ammo, game seed, pregen dungeon,
+supresión startup errores, mapa, completamente random, arena teams
+2- Sistema de archivos y sonido.
+gate dir, morgue dir, save dir, macro dir, sound, hold sound,
+sound file path, one SDL sound channel
+3- Interfaz.
+3-a Cayendo y Recogiendo.
+autopickup, autopickup exceptions, default autopickup,
+pickup thrown, assign item slot, pickup menu limit,
+drop filter, drop disables autopickup
+3-b Avistamientos pasivos (entidades detendidas y recordadas).
+detect monster colour, detect item colour,
+record monster colour
+3-c Dungeon View Item and Monster Highlighting.
+friend highlight, neutral highlight, inusual highlight,
+stab highlight, may stab highlight, heap highlight,
+característica item highlight, trap item highlight
+3-d Funciones de mapa de nivel.
+level map cursor step
+Opciones de visualización de 3 e Viewport.
+view max width, view max height, view lock x,
+view lock y, view lock, centre on scroll,
+symmetric scroll, desplazarse margin x, desplazarse margin y,
+scroll margin, always show exclusions
+3-f Viajes y Exploración.
+travel delay, explore delay, rest delay, travel avoid terrain,
+explore greedy, explore greedy visit, explore item greed,
+explore stop, explore stop pickup ignore, explore wall bias,
+travel key stop, travel one unsafe move, tc reachable,
+tc dangerous, tc disconnected, tc excluded, tc exclude circle,
+tc forbidden, runrest ignore message, runrest stop message,
+interrumpir  novato, retard safe poison, runrest ignore monster,
+rest wait both, rest wait ancestor, rest wait percent,
+explore auto rest, explore auto rest status,
+auto exclude, travel open doors
+3-g Mejoras del Mando.
+auto switch, easy unequip, equip unequip, jewellery prompt,
+easy confirm, simple targeting, force spell targeter,
+force ability targeter, force scroll targeter,
+show invis targeter allow self target, ability menu, spell menu,
+easy floor use, sort menus, spell slot, gear slot,
+consumible shortcut, ability slot, autofight stop,
+autofight warning, autofight fires, autofight nomove fires,
+autofight fire stop, autofight caught, autofight wait,
+autofight prompt range, automagic enable, automagic slot,
+automagic fight, automagic stop, fail severity to confirm,
+easy door, warn hatches, enable recast spell, confirm action,
+regex search, autopickup search, bad item prompt,
+auto hide spells, menu arrow control, single column item menus,
+show paged inventory
+3-h Mensaje y mejoras de visualización.
+hp warning, mp warning, hp colour, mp colour, stat colour,
+status caption colour, enemy hp colour, clear messages,
+show more, small more, show newturn mark, show game time,
+equip bar, animate equip bar, item stack summary minimum,
+mlist min height, mlist allow alternative layout,
+monstruo item view coordinates, monstruo item view features,
+msg min height, msg max height, msg webtiles height,
+mensajes at top, msg condense repeats, msg condense short,
+show travel trail, skill focus, default show all skills,
+monstruo list color, view delay, reduce animaciones,
+use animaciones, inusual monster items, darken beyond range,
+show blood, food snacking frequency, source line frequency,
+force more message, flash screen message, monstruo alert,
+cloud status, always show zot, always show gems, more gem info,
+action panel, action panel filter,
+action panel show unidentified,  panel scale,
+action panel orientation, action panel font family,
+action panel font size, show resist percent
+3-i Colores (mensajes y menús).
+menu colour, message colour
+3-j Quivers, disparo y munición.
+fire items start, fire order, fire order spell,
+fire order ability, fail severity to quiver,
+quiver menu focus
+Canales de mensaje de 3 k.
+claro, rápido, dios, duración, peligro, advertencia, recuperación,
+hablar, talk visual, timed portal, sound, intrinsic gain,
+mutación, monstruo spell, monstruo enchant, monstruo warning,
+amigo spell, amigo enchant, amigo action, monstruo damage,
+monstruo target, destierro, equipo, piso, multiturn,
+examinar, examinar filter, diagnóstico, error, tutorial, orb,
+hell effect, dgl message
+3-l Inscripciones.
+autoinscribe, show god gift
+Opciones relacionadas con Macro de 3 m.
+flush.failure, flush.command, flush.message,
+adicional macro file, bindkey
+3-n Opciones de azulejos.
+tile show items, tile skip title, tile menu icons,
+tile player col, tile monster col, tile neutral col,
+tile peaceful col, tile friendly col, tile plant col,
+tile item col, tile unseen col, tile floor col, tile wall col,
+tile mapped floor col, tile mapped wall col,
+tile explore horizon col, tile door col, tile downstairs col,
+tile upstairs col, tile branchstairs col, tile portal col,
+tile transporter col, tile transporter landing col,
+tile feature col, tile trap col, tile water col,
+tile deep water col, tile lava col, tile excluded col,
+tile excl centre col, tile window col, tile update rate,
+tile runrest rate, tile key repeat delay, tile tooltip ms,
+tile tag pref, tile window width, tile window height,
+tile window ratio, tile window limit size, game scale,
+tile map pixels, tile viewport scale, tile map scale,
+tile cell pixels, tile sidebar pixels, tile filter scaling,
+tile force overlay, tile overlay col,
+tile min stat width characters, tile overlay alpha percent,
+tile full screen, tile use small layout, tile font crt file,
+tile font stat file, tile font msg file, tile font tip file,
+tile font lbl file, tile font crt family,
+tile font stat familia, tile font msg familia,
+tile font lbl family, tile font crt size, tile font stat size,
+tile font msg size, tile font tip size, tile font lbl size,
+tile font ft light, glyph mode font, glyph mode font size,
+tile show minihealthbar, tile show minimagicbar,
+tile show demon tier, tile water anim, tile misc anim,
+tile realtime anim, tile show player species,
+tile player status icons, tile show threat levels,
+tile layout priority, tile display mode,
+tile level map hide messages, tile level map hide sidebar,
+tile player tile, tile  weapons offsets, tile shield offsets,
+Tile grinch, tile web mouse control,
+tile web mobile input helper
+4- Bomba de caracteres.
+4-a Salvación.
+dump on save
+4-b artículos y asesinatos.
+kill map, dump kill places, dump item origins,
+dump item origin price, dump message count, dump order,
+dump kill breakdowns
+4-c Notas.
+user note prefix, note items, note monsters, note hp percent,
+note skill levels, note all skill levels, note skill max,
+note xom effects, note messages, note chat messages,
+note dgl messages
+5- Varios.
+5-a Todo el sistema operativo.
+mouse input, wiz mode, explore mode, char set, colour,
+display char, función, mon glyph, item glyph,
+use fake player cursor, show player species,
+use modifier prefix keys, idioma, fake lang, mensajería
+read persist options
+
+5-b Windows.
+dos use background intensity
+5-c Unix.
+blink brightens background, bold brightens foreground,
+best effort brighten background,
+best effort brighten foreground, allow extended colours,
+background colour, foreground colour,
+use default terminal colours, use fake cursor
+
+6- Lua.
+lua max memory
+6-a Incluyendo archivos de lua.
+6-b Ejecutando lua inline.
+6-c Opciones condicionales.
+6-d Opción condicional caveats.
+
+7- Opciones recomendadas para jugadores ciegos.
+
+------
+
+0- Generalidades en opciones.
+================================================================================================================================================================================================================================================================
+
+La forma estándar de ajustar una opción desde el default es manualmente
+establecerlo en su archivo de opciones; ver (0-a) y (0-c) a continuación para detalles. Un pequeño
+el número de opciones se guardan automáticamente de sus valores actuales en el
+interfaz de usuario relevante en el juego; estos están marcados con "(persistente)" en
+su documentación y puede ser anulado por un ajuste manual en el
+archivo de opciones.
+
+0-a Archivos de opción estándar y adicionales.
+-------
+
+En el juego en línea, elija "edit rc" de la pantalla de selección de juegos webtiles,
+o introduzca el editor de archivos rc a través de ssh.
+
+En el juego offline, Crawl utiliza el primer archivo de la siguiente lista como su opción
+archivo:
+
+* Ajustes/init.txt
+* init.txt (en el directorio Crawl)
+* .crawlrc (en el directorio de Unix)
+
+Alternativamente, puede utilizar la opción de línea de comandos
+-rc
+que le dice a Crawl que use precisamente ese archivo.
+
+En la pantalla inicial, Crawl te dice qué archivo de entrada utiliza, si lo hay. El
+La ubicación del directorio Crawl es específica para el sistema.
+
+Es posible incluir archivos adicionales dentro del archivo de opciones a través de
+incluir =
+Tenga en cuenta que estos se tratan como si su contenido fuera introducido verbatim
+en el archivo de opciones. Por defecto, Crawl busca todos estos incluidos
+archivos en la configuración / directorio pero puede especificar una carpeta especial
+usando la opción de línea de comandos
+-rcdir
+
+Los archivos de opción externa tienen varios usos: Permiten una rápida personalización
+de la apariencia general de Crawl (coloura / supresión de mensajes, y
+el estilo de inventario). Más elaborada opción magia (generalmente conteniendo
+lua) también se puede ocultar convenientemente de esta manera. Por último, hay algunos
+archivos de opción adicionales en la configuración/ directorio; estos permiten establecer
+algunas opciones y glifos monstruo a sus defectos de versiones anteriores.
+Vea el encabezado del init.txt predeterminado para más detalles.
+
+Los siguientes archivos se incluyen automáticamente con Crawl para uso fácil, y
+se puede incluir sin ninguna otra configuración:
+
+* advanced optioneering.txt
+* dvorak command keys.txt
+* colemak command keys.txt
+* neo command keys.txt
+* no vi command keys.txt
+* safe move shift.txt
+
+0-b Opciones en la línea de comandos.
+--------------------
+
+Una manera rápida de hacer pequeños cambios en las opciones, sin tener que
+cambiar a un archivo de opción diferente, es utilizar las opciones de línea de comando
+-extra-opt-first or -extra-opt-last, which make it as if the given
+La opción era (respectivamente) en la parte superior o inferior del archivo de opción. Para
+ejemplo,
+
+-extra-opt-last wiz mode=yes
+
+hará que cualquier nuevo juego comience en modo mago. -extra-opt-first and
+-extra-opt-last se puede utilizar varias veces en la misma línea de comandos.
+
+0-c Opciones y cómo configurarlas.
+--------------------
+
+Hay tres tipos amplios de opciones de Crawl: valores verdaderos/falsos
+(booleans), valores arbitrarios y listas de valores. En este documento,
+las opciones se describen generalmente con sus valores predeterminados (si hay un
+por defecto); esto también debe explicar cuál de los tipos mencionados
+Lo es. Cada opción debe tener algunos comentarios sobre cómo se utiliza normalmente
+- pero tenga en cuenta que las opciones que desea utilizar dependen de su
+jugando estilo y a veces también en su sistema operativo.
+
+Hay dos estilos que puedes utilizar para configurar opciones. El clásico
+nombre=valor sintaxis, una opción por línea:
+recordar nombre = verdadero
+explore greedy = false
+
+Y la línea de opción combinada de estilo NetHack:
+OPTION = remember name, !explore greedy
+
+El segundo estilo es útil para especificar opciones simples en algunas líneas,
+pero no se puede utilizar para opciones que toman listas complejas de valores
+(como la opción autopickup exceptions).
+
+Algunas opciones necesitan un camino como argumento; aquí tienes que usar un
+ruta del sistema de archivos adecuado para su sistema. Otras opciones aceptan regular
+expresiones (regexes): aquí simplemente puede utilizar cadenas ordinarias, adaptar
+el regexes sugerido a sus necesidades o buscar en Internet para regex
+sintaxis.
+
+Tenga en cuenta que en los modos tutoriales y consejos, algunos de los ajustes de sus opciones pueden
+ser sobrescrito para facilitar las explicaciones. This concerns the following
+opciones, y su configuración forzada para juegos tutoriales son los siguientes:
+clear messages = true
+arma = hacha de mano, para Berserkers en modo de pistas
+
+0-d Opciones de lista.
+---
+
+Varias opciones pueden tener una lista de valores. La mayoría pero no todos estos
+opciones permiten establecer múltiples valores en una sola línea, separadas por comas.
+Es posible restablecer, añadir artículos a, o eliminar artículos de tal opción.
+Agregar valores al final de la lista (apéndice):
+drop filter += inútil, encantador
+Agregar valores al comienzo de la lista (prependiendo):
+drop filter ^= prohibido
+Eliminar los valores de la lista (exactar sólo el partido):
+drop filter -= enchant
+Restablecer la lista:
+drop filter = bad item, dangerous item
+Vacía la lista:
+drop filter =
+
+La sintaxis "listopt = valor" primero aclara la lista, luego añade valores. In
+versiones anteriores de Crawl era un sinónimo para +=, y sólo desnudo
+"listopt =" limpió la lista.
+
+Para muchas opciones, como drop filter, no hay ninguna diferencia
+entre el gasto y el prependimiento. Sin embargo, otras opciones, como
+message colour, preocúpate del orden de los artículos; estos serán notados como
+"Ordenadas opciones de lista" en sus descripciones. En la mayoría de los casos, artículos anteriores
+tomar precedencia sobre los posteriores, por lo que += diferir a los partidos existentes (incluyendo
+predeterminados) mientras ^= los anula. Así, por ejemplo, con la secuencia de
+opciones:
+message colour = cyan:hits
+message colour ^= red:crimson
+message colour += amarillo:killer
+el mensaje "El carmesí imp golpea!" se mostrará en rojo, mientras que "El
+la abeja asesina te golpea!" se mostrará en cyan.
+
+0-e Aliases, variables, y otras directivas
+
+
+Para nombres de opciones largas, puede definir alias de opción haciendo:
+alias := long option name
+Por ejemplo, puede usar:
+ae := autopickup exceptions
+y luego utilizar "ae" en lugar de "autopickup excepciones":
+ae += < > >
+
+Puede definir atajos para valores de opción (variables). Por ejemplo,
+$useless := darkgrey
+podría utilizarse conjuntamente con
+menu colour += $useless:Aleatorio sin uso
+
+Para evitar que una variable se cambie puede hacer que sea una constante:
+constante = inútil
+
+Esto es útil si desea evitar que un archivo incluido altere
+una variable.
+
+Véase dat/defaults/standard colours.txt para el uso de alias y variables. Nota
+que cambiar las variables definidas en estos archivos sólo afectará a su propio
+archivo de configuración, ya que las opciones predeterminadas ya se habrán cargado. Si
+quieres cambiarlos, tendrás que anular las opciones.
+
+Para restablecer un valor a sus defectos, puede utilizar:
+default = option name
+
+Esto no funcionará para ciertas opciones que tienen perspicacia personalizada.
+
+1- Pantalla de inicio.
+===============================================================
+
+Las siguientes opciones son una comodidad para ayudarle a iniciar rápidamente su
+juego de Crawl, y/o configurar el inicio del juego desde un archivo o el
+línea de mando.
+
+nombre = Delilah
+Si está listo, ese es el nombre que todos tus personajes de Crawl recibirán. Ajuste
+esto evitará el menú principal por defecto; véase `name bypasses menu`.
+
+tipo = normal
+Elige un tipo de juego. Los valores válidos son "normales", "seeded", "tutorial",
+"arena", "sprint", "descent", y "hintas". Si se establece explícitamente (no sólo
+izquierda al predeterminado), esto establece el tipo de juego predeterminado en el menú principal.
+Si el menú principal se pasa por alto (por ejemplo, estableciendo `nombre'), esta opción puede
+ser utilizado para determinar el tipo de juego. "descenso" es sólo válido en alfa
+(desarrollo) construye.
+
+recordar nombre = verdadero
+Crawl recuerda las opciones (especie, fondo, etc.) que usaste
+para crear tu último personaje. Usted puede reciclarlos en el
+la pantalla inicial para un nuevo personaje. Si esta opción se establece
+Cierto, Crawl también recordará el apellido que usaste.
+
+Si utiliza esta opción y desea introducir un nombre  after 
+elegir su especie y fondo, debe entrar . en
+aviso inicial - golpear Entra en el aviso de nombre
+simplemente reutiliza tu antiguo nombre si se establece el nombre.
+
+arma += (short sword ←...
+(opción de registro)
+Especificar la opción de arma permite evitar el arma
+Pantalla de selección. Tridents, flails, rapiers, espadas largas y guerra
+los ejes están restringidos a combatientes y gladiadores, y los cuartos
+sólo están restringidos a los gladiadores. El aviso de arma estándar será
+muestra si se especifica una opción ilegal para el fondo seleccionado.
+La opción "viable" hace una elección aleatoria entre las armas "buenas"
+para el personaje elegido. Especificar más de una opción provoca la
+juego para seleccionar al azar un arma de la lista dada. La opción combo
+anula (y está anulado por) esta opción.
+
+especie += (Human confidencialidad...
+(opción de registro)
+Las abreviaturas habituales (Hu, MD, etc.) funcionan. "viable" elegirá un
+especies viables para un fondo dado si el fondo es elegido
+primero. Especificar múltiples especies hace que se seleccione una en
+al azar de la especie dada. La opción combo anula (y es
+overridden by) esta opción.
+
+fondo += (Fighter tención...
+(opción de registro)
+Aquí se pueden utilizar las abreviaturas (Fi, HW, CA, etc.). Lo mismo
+caveat se aplica a "viable": sólo es realmente significativo si el
+también se establece la opción de especies. Especificación de múltiples antecedentes causas
+uno para ser seleccionado al azar de la especie dada. La opción combo
+anula (y está anulado por) esta opción.
+
+combo += (HuFi . corta espada ← Human Monk ← ...), ...
+(opción de registro)
+Especifica un conjunto completo de especies, antecedentes y (donde
+aplicable) arma. Si un combo requiere una elección de arma y uno no
+especificado, se solicita. Los combos pueden ser abreviados o especificados
+en su totalidad. Si se especifican varios combos, se selecciona aleatoriamente
+de los combos especificados. El arma, la especie y el fondo
+las opciones están anuladas por (y anular) esta opción.
+
+restart after game = tal vez/true
+Cuando se establece a la verdad, en el extremo del juego, arrastrar volverá al menú principal.
+Si se establece a tal vez, arrastrar volverá al menú principal sólo si la startup
+las opciones no pasan el menú principal, de lo contrario saldrá. Si se establece
+falso, saldrá incondicionalmente. Esta opción se establece para la verdad
+azulejos locales construye por defecto, y tal vez por defecto para otras construcciones.
+Esta opción es ignorada para juegos en línea.
+
+restart after save = true
+Cuando se guarda el juego, vuelva al menú principal. Esta opción
+sólo tiene un efecto si reinart after game se establece a tal vez o verdad.
+Esta opción es ignorada para juegos en línea.
+
+newgame after quit = false
+Cuando sea cierto, si se establece un nombre/combo, renuncia hará un reinicio rápido. En esto
+configuración, con restart after game como no falso, puede ser posible
+salida gate sólo a través del ahorro.
+
+name bypasses menu = true
+Cuando se establece a la verdad, tener un nombre válido establecido a través de opciones saltará el principal
+menú y saltar derecho a un juego o selección de caracteres (si no hay
+salvo).
+
+default manual training = false (persistent)
+Cuando se establece en la verdad, nuevos personajes comenzarán con entrenamiento de habilidad
+se establece en modo manual en lugar de modo automático. Esto también establecerá el
+[!] selección en el menú de habilidad (m) a "costo" por defecto, en lugar de
+"entrenamiento".
+
+autopickup starting ammo = true
+Cuando se establece, al inicio del juego, el autopickup se ve forzado (como por el menú \)
+para el tipo de munición inicial del jugador. Incluso cuando esta opción es
+set, autopickup de esos elementos se puede deshabilitar desde el menú \ una vez
+el juego ha comenzado.
+
+game seed = ninguno
+Un número que indica la semilla para inicializar el generador de números aleatorios
+de. Dentro de ciertos límites, la misma semilla conducirá deterministamente
+a la misma mazmorra. Si se establece en "ninguno" o 0, la semilla será elegida
+al azar. Esto también se puede configurar directamente a través de la línea de comandos
+"seed", que anulará cualquier configuración de archivo rc. Este valor es un
+sin firmar 64 bits entero.
+
+pregen dungeon = incremental
+Este ajuste determina el modo de generación de nivel para nuevos juegos, que
+interactúa con la visualización aleatoria (ver la sección "juego visto" de la
+manual). Para generar una mazmorra estable de una semilla, los niveles necesitan
+para ser generado en un orden consistente. The recommended setting of
+`incremental` generará niveles según sea necesario al entrar en un nuevo nivel
+para que el juego siempre genere niveles en el mismo orden, potencialmente
+ponerse al día al saltar niveles en el orden estándar.
+
+Cuando se establece en 'verdad' o 'full', el juego pregenerará todo
+mazmorra conectada al iniciar un nuevo personaje. Esto conduce a
+determinista generación de mazmorras en relación con una semilla de juego particular,
+y no tiempos de carga al entrar niveles, pero al costo de un juego lento
+Empieza. Algunos servidores pueden desactivar la pregeneración completa para jugar en línea.
+
+Cuando se establece en 'falso' o 'clásico', el juego generará todos los niveles en
+nivel de entrada, como era la regla antes de 0.23. Dungeons no será estable
+dada una semilla con esta opción.
+
+supresión startup errores = falso
+Si esto es falso, y se detecta un error mientras el juego comienza primero
+(como un error en un archivo de configuración), subir una pantalla antes
+cargando para mostrar estos.
+
+El menú principal contendrá una advertencia de errores independientemente de esto
+configuración, y no afecta lo que sucede con errores detectados como
+El personaje está cargado.
+
+mapa = ""
+Esto se puede utilizar para elegir un mapa de sprint. Si se establece en un archivo rc, esto
+valor salta el sprint mapa selección submenu. Las opciones válidas son:
+dungeon sprint 1, the violet keep of menkaure, dungeon sprint mu,
+dungeon sprint fedhas, sprint v, arena sprint, pitsprint, carnesprint,
+y lineprint.
+
+completamente aleatorio = falso
+Es verdad elegir un combo aleatoriamente. Si alguna especie o trabajo es
+establecido en 'viable', esto elegirá un combo de "recomendado"
+caracteres, de lo contrario, elegirá combos al azar. Cuando
+set, los menús de selección de caracteres se reemplazan con un impulso que
+le ofrece un combo, y le permite aceptar o rerollar.
+
+arena teams = ""
+Establecer para preselegir equipos en modo arena. Cuando se establece, el modo arena va directamente
+a la competencia.
+
+2- Sistema de archivos.
+====================
+
+Las siguientes opciones de directorio pueden ser ignoradas o anuladas en algunos sistemas
+y construye. Por ejemplo, no se pueden establecer en un archivo rc para jugar en línea. Ellos
+también se puede configurar a través de la línea de comandos.
+
+gate dir =
+Un camino a ser utilizado para los caminos relativos al buscar otros
+archivos. El valor predeterminado depende del sistema y
+tipo de construcción. Esta opción también puede establecerse en el entorno 'CRAWL DIR'
+variable. Cuando se establece, esto superará los tres directorios siguientes
+opciones si han sido previamente establecidas.
+
+save dir = saves/
+Directorio donde se almacenan los ahorros y los huesos. Un camino relativo
+se interpretará en relación con el valor de `crawl dir`.
+
+morgue dir = morgues/
+Directorio donde morgue descarga archivos (morgue*.txt y
+morgue*.lst) así como archivos de volcados de caracteres están escritos. Un pariente
+el camino se interpretará en relación con el valor de `crawl dir`.
+
+macro dir =
+Directorio para la lectura macro.txt.
+Debe terminar con el delimitador del camino. El valor predeterminado para esto
+depende del sistema y del tipo de construcción.
+
+sonidos on = verdadero
+(Requiere "Apoyo de sonido"; consulte la información de su versión)
+Si es cierto, juega efectos sonoros en varias situaciones.
+
+sonido ^= <regex confianza: se realizó a través de un archivo de sonido
+(opción de lista ordenada)
+Reproduce el archivo de sonido si un mensaje contiene regex. En caso de
+múltiples regexes coincidentes, sólo el sonido del último regex
+se juega. El regex no debe incluir comas ni colones.
+Por ejemplo
+sonido += LOW HITPOINT WARNING:sound\sounds2\danger3.wav
+Hay ciertos regexes predefinidos, también, que pueden ser
+usó para conseguir un sonido para desencadenar algo que no puede
+de lo contrario se igualan usando una cadena regex. Por ejemplo,
+usando FIRE PROMPT SOUND para el regex causará que Crawl
+Toca un sonido cada vez que se abre el aviso de incendios. Check
+sound.h para una lista completa de todos estos regex predefinidos
+cuerdas.
+
+sound file path =
+Al reproducir sonidos (con la opción anterior), el contenido de
+esta variable se adjunta al inicio de la ruta. Esto es
+diseñado para hacer más fácil tomar una configuración en
+varias plataformas. Estas dos líneas son equivalentes a las
+ejemplo anterior:
+sound file path = sound\sounds2\
+sonido += LOW HITPOINT WARNING:danger3.wav
+La instancia más reciente de esta opción es la que
+toma efecto, y no se aplica retroactivamente a anterior
+instancias de la opción de sonido.
+
+one SDL sound channel = false
+Cuando es cierto, sólo un sonido puede jugar a la vez (si utiliza SDL).
+Es falso por defecto ya que los backends de sonido no SDL no
+apoyar ese control.
+
+
+3- Interfaz.
+=================
+
+3-a Picking up and Dropping.
+
+
+autopickup = $?!+"/♦
+Lo anterior es la lista predeterminada. Los símbolos válidos son
+Armas
+( Misiles
+[ Armour]
+/ Wands
+? Scrolls
+"o = Joyería
+Pociones
++ o : Libros
+Silencio
+0 Orbes
+% Talismanos
+} Otros temas
+$ Gold
+♦ Gems
+• Baubles
+Tenga en cuenta que los elementos  whether  se recogen automáticamente o no, es
+controlado por el juego de toggle Ctrl-A.
+arriba toma un giro, pero sólo un giro (sin importar el número de
+Temas). Si usted teletransporta o parpadea en una plaza con interesante
+artículos, estos no serán recogidos.
+
+autopickup excepciones ^= <pickup-regex, ноdon't-pickup-regex, ...
+(opción de lista ordenada)
+Un conjunto de regexes que obligan a recoger objetos iguales (si
+prefijado con <), o nunca recogido (si prefijo con √≥n).
+La lista es sensible al orden: la primera regla coincidente se aplicará a
+un artículo.
+
+Un ejemplo:
+autopickup exceptions +=
+Las fuerzas autopickup para agarrar todos los dardos curare-tipped, incluso si
+Los misiles no se establecen en la opción "autopickup".
+
+Espacio blanco entre la expresión del partido es significativo,
+así que los siguientes no funcionarán:
+autopickup exceptions +=
+
+autopickup excepciones reemplazan a la antigua ban pickup. Uso
+autopickup excepciones += Sin embargo,
+es el mismo que el uso
+ban pickup += falta de uso, inexactitud
+
+Si los regexes no están prefijados con не o нел, неннне es implícito, por lo que
+la opción anterior también se puede escribir como
+autopickup excepciones += falta de uso, inexactitud
+
+Puede utilizar múltiples líneas de autopickup exceptions. Algunos ejemplos:
+autopickup excepciones += inexactitud, inmolación
+autopickup exceptions += inutilidad, ruido, tormento
+
+A menos que despejes la lista de excepciones, no necesitarás establecer
+autopickup excepciones para pociones excepto quizás para muy especial
+casos.
+
+default autopickup = true
+Cuando se establece en falso, el juego comienza con autopickup apagado.
+Aún puedes cambiar de autopickup en el juego con Ctrl-A.
+
+pickup thrown = verdadero
+pickup thrown = verdadera causa autopickup para recoger misiles lanzados,
+Tenga en cuenta que el autopickup utiliza un giro, aunque no activará si
+Hay monstruos hostiles a la vista.
+
+assign item slot = (para adelante, tención al revés)
+Al recoger los artículos, la ranura del inventario en el cual el artículo
+va es normalmente la primera ranura libre de a-zA-Z (este es el
+comportamiento predeterminado "para adelante". Ajuste de la asignación item slot
+"backward" cambia la asignación de ranura a la primera carta después
+la última ranura.
+Por ejemplo, si tienes artículos en 'a' y 'c', entonces con
+asigna item slot = adelante, el siguiente artículo entrará en 'b',
+asigna item slot = atrasado, el siguiente artículo irá a 'd'
+en lugar de eso.
+Con "backward", los artículos caídos / disparados y recogidos más tarde son
+más probable para recuperar su vieja ranura.
+
+pickup menu limit = 1
+Si hay más elementos que este en su cuadrado, un menú será
+mostrado al recoger varios elementos en lugar de pedir por cada
+ítem. Si cero, nunca use el menú. Si es negativo, utilice el valor de
+item stack summary minimum - 1, en cambio.
+
+Tenga en cuenta que no importa el valor de la opción, recoger siempre
+Toma un turno.
+
+drop filter += > > >
+(opción de registro)
+Al seleccionar los elementos usando las teclas globales (de)seleccionar (',' o
+'-') en un menú multidrop, puede elegir sólo los elementos
+que coincida con un regex de búsqueda utilizando esta opción.
+
+Por ejemplo, para seleccionar rápidamente elementos prohibidos por tu dios, podrías
+uso:
+drop filter +=prohibido
+
+drop filter coincidirá con las mismas palabras clave menu colour utiliza,
+excepto que carece de estado de identificación. Por defecto
+inútil item.
+
+Cuando se establece un drop filter, usando las teclas selectas/deseleccionadas
+set/clear selección de elementos que coinciden con el filtro
+expresiones.
+
+drop disables autopickup = false
+drop disables autopickup = verdadero automáticamente elimina la caída
+artículos no-misiles de autopickup.
+
+3-b Avistamientos pasivos (entidades detendidas o recordadas).
+--------
+
+detect monster colour = lightred
+Se dará este color a los monstruos detectados.
+
+detect item colour = verde
+Los elementos detectados se darán este color.
+
+record monster colour = darkgrey
+El color de los monstruos que has visto antes.
+
+3-c Dungeon Ver artículo y monstruo destacando
+- Sí
+
+Estas opciones permiten controlar la forma en que se muestran ciertos monstruos y objetos
+en la vista de mazmorra de la consola, cambiando su color o reversando de ante y
+fondo. Hay varias opciones destacadas (estos no funcionarán)
+en todas partes; depende de OS y terminal):
+ninguno - destacamento desactivado para la categoría
+standout -- a menudo igual que el reverso, podría ser subrayado o
+dim
+negrita - utilizado por maldiciones de color para el primer plano brillante
+colores
+parpadeo -- utilizado por maldiciones de color para brillo de fondo
+colores
+reverso - esto probablemente funcionará
+Dim... probablemente no surta efecto
+underline -- esto probablemente funcionará
+resaltar:color -- color de fondo conjunto de monstruos destacados a
+"color"
+El último puede ser abreviado a hola:color.
+Ver parte Windows (5-b) para dos use background intensity.
+
+Anteriormente estas opciones se llamaban `... brand`, y los nombres antiguos son
+disponible para la compatibilidad atrasada.
+
+friend highlight = hola: verde
+Amigos destacados de alguna manera. Esto es muy útil para los convocadores. El
+configuración predeterminada muestra amigos con un fondo verde. Si el amigo es
+se verá como negro en verde.
+
+neutral highlight = hola:lightgrey
+Destacar monstruos neutrales de alguna manera. Ambos útiles para salir de
+el camino de un monstruo neutral, y evitar matar accidentalmente.
+El ajuste predeterminado muestra neutros con fondo gris oscuro. Desde entonces
+ya no hay glifos de monstruo oscuro, esto funciona bien.
+
+inusual altaluz = hola:magenta
+Destacan los monstruos hostiles que llevan objetos inusuales. Útil para mostrar si un
+monstruo debe ser manejado con cuidado porque tiene un elemento atípico,
+como una varita o un arma de distorsión.
+
+Esto se utiliza junto con la opción inusual monster items:
+inusual monster items determina qué elementos harán que un monstruo sea
+resaltado.
+
+stab highlight = hi:blue
+Esta opción destaca los monstruos que son completamente inconscientes del jugador
+y por lo tanto no serán atacados, y están garantizados para tomar la puñalada
+daño si es atacado apropiadamente por el jugador.
+
+may stab highlight = hola:brown
+Esta opción destaca monstruos que están teniendo problemas para pagar
+atención al jugador por, por ejemplo, estar confundido o
+distraído. Estos monstruos pueden ser apuñalados, dependiendo
+en los niveles de habilidad de Stealth y arma y varios otros factores, y
+(al menos) tienen problemas para atacar al jugador con su estado actual.
+
+heap highlight = reverso
+Destaca los montones de elementos (más de un elemento o pila).
+
+característica item highlight = reverso
+Características destacadas (hermanos, tiendas, altares) que de otro modo serían
+escondido por objetos. Si utiliza esta opción, el punto glyph(s) en el
+cuadrado están ocultos por el símbolo de la característica.
+
+trap item highlight = reverso
+Destaca las trampas que de otro modo estarían ocultas por objetos. Si tú
+utilizar esta opción, el artículo glyph(s) en la plaza están ocultos por la trampa
+símbolo (^).
+
+3-d Funciones de mapa de nivel.
+----------
+
+level map cursor step = 7
+Cuantas plazas el cursor se mueve en el mapa de nivel al utilizar
+Cambio de dirección.
+
+Opciones de visualización de 3 e Viewport.
+- Sí.
+
+El mirador es la porción del mapa que se muestra durante la normalidad
+Toca. El puerto de vista es 33x17 por defecto, pero si utiliza terminal más grande
+tamaños, usted puede configurar estas opciones para hacer el juego mostrar un mayor
+Viewport.
+
+Ninguna de estas opciones afecta el juego. En particular, su carácter
+la línea de visión no se ve afectada por estas opciones.
+
+view max width = 33 (max 81)
+Establece la anchura máxima del puerto de visualización (predeterminados a 33).
+Hacer esto más grande permitirá que Crawl muestre un mirador más amplio
+en terminales más grandes. Esto es ignorado en los azulejos, el mirador
+siempre utilice todo el espacio disponible.
+
+view max height = 21 (max 71)
+Similar a view max width, pero establece la altura máxima del mirador.
+En los azulejos, este valor se utiliza para establecer cuando el espacio comienza a ser afectado
+al área del mensaje en lugar del mirador. Cuando el área del mensaje
+alcanza msg max height, el espacio restante va al mirador.
+Si por razones de rendimiento necesita un puerto de visión más pequeño, o reducir
+el tamaño de la ventana, o aumentar el área del mensaje.
+
+* Tenga en cuenta que el uso de grandes miradores puede frenar el juego.
+
+view lock x = true
+Mantiene el personaje del jugador centrado horizontalmente en el
+mirador, desplazando continuamente el mirador para coincidir con el
+Movimientos de PC. Si esto no está fijado, el personaje del jugador puede
+moverse horizontalmente dentro del mirador, y el mirador
+desplazamiento sólo cuando la línea de visión del personaje alcanza el
+borde izquierdo o derecho.
+
+view lock y = true
+Mantiene el personaje centrado verticalmente en el mirador.
+
+view lock = true
+Opción Aliased que establece tanto view lock x como view lock y.
+
+centre on scroll = false
+Si se establece esto, el mirador se centra en el personaje jugador
+cuando se desplaza (esta opción es irrelevante si view lock x
+y view lock y están establecidos).
+
+symmetric scroll = verdadero
+Si esto se establece, el mirador se desplazará de una manera consistente
+con el movimiento de carácter que causó el desplazamiento.
+
+Para ilustrar, digamos que el PC está en el borde inferior del
+mirador, pero está cerca del centro horizontal. Ahora el PC se mueve
+diagonalmente hacia abajo y hacia la derecha, obligando al mirador a desplazarse hacia arriba
+Una línea. Si se establece simétrico scroll, el mirador también
+desplazar a la izquierda una columna para igualar el movimiento diagonal del PC. Si
+symmetric scroll no está establecido, el mirador sólo se desplazará hacia arriba,
+no horizontalmente. symmetric scroll puede ser menos desoriente
+que libre de desplazamiento.
+
+Esta opción no es relevante si view lock o centre on scroll
+están listos.
+
+desplazamiento margin x = 2
+Cuán lejos de los bordes izquierdos o derecho comienza el desplazamiento. Por
+por defecto, si el cuadrado de la línea de visión del PC es más cercano que
+dos cuadrados desde el borde, los pergaminos del mirador. Si se establece en
+cero, el mirador gira sólo cuando el círculo de LOS alcanza
+el borde del mirador.
+
+desplazamiento margin y = 2
+Cuán lejos de los bordes superior o inferior comienza el desplazamiento.
+
+desplazamiento margin = 2
+Una opción aliada que establece tanto desplazamiento margin x como
+Pergamino margin y.
+
+siempre show exclusiones = verdadero
+Si es cierto, muestre las exclusiones de viaje y su radio de exclusión en
+el mirador. Las exclusiones siempre son visibles en el mapa de nivel
+(acceso con X) independientemente del valor de esta opción.
+Las exclusiones también son visibles en modo solo terreno (acceso con TEN).
+Esta opción no tiene efecto en los azulejos construidos, donde las exclusiones son
+siempre se muestra tanto en el mirador como en el mapa de nivel.
+
+3-f Viajes y Exploración.
+-------------
+
+travel delay = 20 (defaults a -1 para servidores en línea)
+Cuán largo viaje espera después de cada movimiento (milliseconds), y también
+cuánto tiempo auto-explore espera después de cada movimiento a menos que explore delay
+está listo. Depende de la plataforma. Ajuste a -1 saltará al final de
+viajar - no verás los movimientos individuales.
+
+explore delay = 1
+Cuán largo auto-explore espera después de cada movimiento (milliseconds). Depende
+plataforma. En particular, la fijación de viajes delay = -1 y
+explore delay = 20 significa que verás los movimientos individuales de
+autoexplore, pero no el individuo se mueve de otras formas de viaje.
+Ajuste a -1 significa que el retraso de autoexplorar será el mismo que
+travel delay.
+
+rest delay = 0 (defaults a -1 para servidores en línea)
+Cuánto tiempo de descanso espera después de cada movimiento (milliseconds). Depende
+plataforma. Ajuste rest delay = -1 evitará la actualización de la pantalla
+durante el descanso.
+
+travel avoid terrain = (agua corriente rígida agua profunda)
+Evitar viajar a través del agua poco profunda. Por defecto,
+ningún terreno es evitado. Para merfolk y/o caracteres con
+vuelo permanente,
+viajes avoid terrain = aguas poco profundas
+evitará que el viaje o explorar pase por cualquier agua.
+Esta opción admite sintaxis de lista.
+
+explore greedy = verdadero
+Greedy explore viajes a artículos que son elegibles para
+autopickup además de explorar el nivel, pero es
+de otra manera idéntica a la exploración regular. Explora la codicia
+deshabilitado si el autopickup está apagado (Ctrl-A).
+
+explore greedy visit = artefactos,glowing items
+explore greedy visit += pilas
+(opción de registro)
+La exploración graciosa visitará plazas con elementos basados en
+estas condiciones.
+
+pilas: hace que explore greedy visite todas las pilas incluso si no
+necesariamente tienen objetivos de recogida automática
+
+brighting items: hace explore grandeedy visit brighting items,
+incluso si no en una pila
+
+artefactos: hace explorar grandeedy visitar artefactos, incluso
+si no en una pila
+
+explore item greed = 10
+La exploración de salud trata temas como si estuvieran mucho más cerca (o
+más lejos, si negativo) al decidir si visitar un cuadrado con
+un artículo o explorar una nueva plaza.
+
+explore stop = items,stairs,shops,altars,portals,branches,runed doors
+explore stop += codiciay pickup smart,greedy visited item stack
+(opción de registro)
+Explorar se detendrá para una de estas condiciones. Como sea.
+establecer esta opción a, cualquier cosa que deje de viajar también se detendrá
+explorar.
+
+La condición de "marcas" se detiene para las entradas de rama pero no para
+otros tipos de escaleras o portales.
+
+NOTA: runrest ignore message no tiene ningún efecto en explore stop.
+
+Cuando se utiliza exploración no convencional, los elementos causan que se detenga
+cuando cualquier nuevo artículo viene a la vista. Al utilizar la exploración avaricia,
+las condiciones actúan como sigue:
+
+items: stop when items that are not eligible for autopickup come
+a la vista.
+
+codicioso items: para cuando los artículos que son elegibles para autopickup
+Ven a ver.
+
+codicioso pickup: deténgase después de recoger automáticamente cualquier artículo
+elegible para autopickup, excluyendo el oro, pero incluyendo
+artículos lanzados / disparados por el jugador. Usted puede hacer ciertos elementos
+*no* activa esto con la opción explore stop pickup ignore
+
+codicioso pickup gold: parar cuando recoger automáticamente oro durante
+un explorador codicioso.
+
+codicioso pickup smart: Similar a codicioso pickup, pero trata de ser
+inteligente, lo que significa sólo parar los elementos que no son
+similar a cualquier que ya tenga en su inventario. It
+no se detiene para recoger automáticamente los elementos que fueron
+lanzado / disparado por el jugador; usted puede añadir "greedy pickup thrown"
+si quieres parar para eso.
+
+codicioso pickup thrown: Para después de recoger cualquier artículo que tengas
+Disparado/ disparado. codicioso pickup automáticamente hace esto, pero
+codicioso pickup smart no. explore stop pickup ignore
+no afecta esta afección.
+
+codicioso visited item stack: Pare cuando visite una pila de elementos
+anteriormente desconocido para el jugador, incluso si la pila contiene
+nada elegible para autopickup.
+
+brillo Artículos: como artículos, pero sólo para artículos que son
+brillante / correda / bordada / etc.
+
+artefactos: como objetos, pero sólo para artefactos.
+
+runas: como artículos, pero sólo para runas.
+
+explore stop pickup ignore += > > > > > >
+(opción de registro)
+Si explore stop tiene codicioso pickup o codicioso pickup smart set,
+entonces recoger cualquier artículo que coincida con cualquiera de los regexes en la lista
+*no* detendrá auto-explore.
+
+Esta opción no tiene ningún efecto en los elementos que fueron lanzados por el jugador.
+
+explore wall bias = 0
+Ajusta cuánto autoexplore favorece intentar descubrir la habitación
+perímetros y esquinas. A valores más altos, el autoexplore será más
+Es muy favorable visitar cuadrados que están junto a las paredes; a 0
+no los favorecerá en absoluto. En valores negativos preferirá
+para alejarse de las paredes. Tenga en cuenta que establecer esto a un valor no-0
+generalmente hace que sea más lento para explorar completamente un nivel.
+
+travel key stop = true
+Si se establece a la verdad, entonces el viaje se detendrá en cualquier pulsante clave.
+
+travel one unsafe move = false
+Si se establece a la verdad entonces el viaje hará un movimiento antes de la seguridad
+cheques por peligro cercano.
+
+tc reachable = azul
+tc dangerous = cyan
+tc disconnected = darkgrey
+tc excluded = lightmagenta
+tc exclude circle = rojo
+tc forbidden = lightcyan
+Los seis anteriores conforman la coloración del mapa de nivel ('X').
+Ellos son
+accesible: todos los cuadrados de forma segura accesible (sin salir del
+nivel)
+peligroso: cuadrados que sólo están conectados a usted mediante trampas,
+etc.
+desconexión: plazas que no se pueden alcanzar sin salir
+nivel
+excluido: el color para el centro de las exclusiones de viaje ('e')
+excluido circle: el color para las exclusiones de viaje aparte de
+centro
+prohibido: plazas que no pueden ser alcanzadas sin cruzar excluidas
+cuadrados.
+
+runrest ignore message ^= יregex título, יregex título, ...
+runrest stop message ^= יregex título, יregex título, ...
+(opción de registro)
+Use estos para forzar mensajes para interrumpir el viaje y descansar, o no.
+Estos son compatibles con el texto completo del mensaje. Para limitar una subestring
+partido a un canal de mensaje, prefijo la subestring con el nombre del canal
+y un colon (ver sección 3-k abajo en los canales de mensajes). Por ejemplo,
+si quieres que el viaje se detenga cuando te golpea la retribución divina,
+podría utilizar:
+runrest stop message ^= god:wrath te encuentra
+
+O para recordarse a sí mismo renovar los hechizos que expiran:
+runrest stop message ^= Tu transformación casi ha terminado
+runrest stop message ^= Estás empezando a perder tu buoyancy
+
+O puedes ignorar explícitamente algunos mensajes:
+runrest ignore message ^= Completo con usted,exaltado
+
+Tenga en cuenta que los ruidos de habla y mazmorra ya no interrumpen
+corriendo o descansando, por defecto.
+
+Se pueden usar múltiples líneas. El primer partido entre ambos ignorar y
+Parar mensajes anula líneas posteriores. El archivo runrest messages.txt
+contiene un número de ajustes predeterminados. Estas opciones aceptan `^=`
+prependiendo y '+=` para añadir; el primero es necesario para anular
+defaults, including overriding defaults for `ignore` matchs with
+"Parar" partidos y viceversa.
+
+Reiniciar cualquier opción tiene el efecto de restablecer ambos.
+
+Nota también que runrest ignore message no tiene efecto en lo que
+explore stop se detiene.
+
+interrumpido completo interrupt type confianza, iereactividad interrupt type confianza, ...
+(opción de registro)
+Utilice esta opción para no interrumpir una acción retardada en un determinado gatillo.
+Por ejemplo, uso
+interrumpir travel -= sense monster
+para no interrumpir el autotravel cuando un monstruo es sentido pero no visto.
+
+Los posibles tipos de demora son: equip on, equip off, ascending stairs,
+descending stairs, imbue servidor, imprint ar, macro,
+macro process key, memorizar, multidrop, passwall, descanso, ejecutar,
+eje, transformación, viaje. (Estos se derivan del `nombre()`
+funciones en retard.h.)
+
+Posibles tipos de interrupción son: abyss exit spawned, ally attacked,
+ancestor hp, force, full hp, full mp, hp loss, hit monster, keypress,
+mensaje, mimic, monstruo, monstruo ataque, sense monster, teleport.
+(Estos se derivan de la matriz 'actividad interrupt names` en
+delay.cc.)
+
+delay safe poison = Identificado% de hp título:
+El daño de veneno será ignorado si se proyecta caer su hp
+por menos de x% de su hp actual y menos de y% de su máx
+hp si has definido delay safe poison = x:y. Esto se aplica a todos
+retrasos. Sólo se considera una línea de demora safe poison. Note que para
+esto para trabajar con correr y descansar, Crawl necesita saber ignorar
+los mensajes "Te sientes enfermo", así como el daño. Por ejemplo,
+runrest ignore message ^= Te sientes.*sick
+retraso safe poison = 80:100
+son los defectos.
+
+runrest ignore monster ^= יregex contacto: indicadistance título, יregex contacto: implicadistance título, ...
+(opción de lista ordenada)
+Cualquier monstruo que coincida con la expresión regular sólo interrumpirá su
+actividad si la distancia entre usted y el monstruo es menor que la
+número especificado. E.g. with
+runrest ignore monster ^= bat:3
+murciélagos, murciélagos de vampiros, bates de fuego y fósforos serán considerados
+seguro para viajar, explorar y descansar mientras la distancia esté a
+menos 3. Si un monstruo coincide con múltiples expresiones, su distancia es
+comparado con el primer partido.
+
+rest wait both = false
+Si rest wait both está listo para la verdad entonces el descanso sólo parará
+cuando ambos HP y MP están completamente restaurados, no cuando uno de
+están restaurados.
+
+rest wait ancestor = false
+Si rest wait ancestor está establecido a la verdad entonces descansar sólo se detendrá cuando
+la salud del ancestro está completamente restaurada además del reproductor HP o MP
+(o ambos, si rest wait both está establecido).
+
+rest wait percent = 100
+Cuando descansa, si su HP o MP está por debajo de este porcentaje de estar lleno,
+dejará de descansar cuando se rellene este porcentaje de HP o MP máximo.
+Descansar después de este punto seguirá descansando hasta el 100%.
+
+explore auto rest = verdadero
+Si es cierto, el autoexplore espera hasta que su HP y MP estén ambos en
+rest wait porcent antes de moverse.
+
+explore auto rest status = יstatus name título título, יcooldown name monedas, ...
+(opción de registro)
+Auto-explore esperará hasta que todos los estados, duración y refrigeración en
+la lista está terminada antes de moverse. La lista aceptará la mayoría
+estado de duración basado en el nombre de su luz de estado o
+la frase que aparece en la pantalla del %.
+
+Hay varios valores especiales:
+"all negative" = todos los estados negativos basados en el tiempo (por ejemplo: Slow)
+"all cooldown" = todos los refrescos basados en el tiempo (por ejemplo: -Blink)
+"contam" = cualquier cantidad de contaminación mágica
+"transformación" = cualquier forma negativa basada en el tiempo (es decir: cerdo/wisp).
+
+Para excluir un estado específico de all negative o all cooldown, incluya
+el estado con un * al principio. Por ejemplo:
+explore auto rest status += *-blink
+eliminará -blink de la lista de enfriamientos que quiere esperar.
+
+Defaults to "all negative", "all cooldown", "contam".
+
+auto exclude += <monster name prendas, Identificamonster name monedas, ...
+(opción de registro)
+Cuando te encuentres con un monstruo dormido o estacionario durante
+exploración que se incluye en esta lista, una exclusión de viaje
+automáticamente centrado en este monstruo, lo que significa que el autoexplore no
+te trae a su línea de visión. Si el monstruo muere o despierta
+mientras usted está a la vista, esta exclusión se retira automáticamente de nuevo.
+
+travel open doors = (evitar el acercamiento a la vida privada abierto)
+Configure cómo el autoexplore/travel interactúa con las puertas.
+evitar = Autoexplore/travel tratará puertas cerradas como paredes. Si
+la única manera de continuar la exploración o el viaje es
+una puerta cerrada, se parará por una puerta cerrada.
+enfoque = Autoexplore/travel no abrirá puertas, en lugar de parar
+delante de cualquier puerta en su camino.
+abrir = Autoexplore/travel abrirá puertas. (por defecto)
+Esto no afecta a las puertas corregidas, que siempre se evitan.
+
+3-g Mejoras del Mando.
+-------
+
+auto switch = falso
+Esta opción le permitirá cambiar automáticamente a un apropiado
+arma cuando atacan en melee, siempre y cuando el que usted está pelando
+y al que cambias están en ranura 'a' o 'b'. Un "apropiado"
+arma es una que está destinada para melee, no inscrita con un
+inscripción sin atacante (`!a`), y no odiada por el dios del jugador.
+
+easy unequip = true
+Permite la eliminación automática de la armadura y la joyería al soltarla.
+
+equip unequip = verdadero
+Si esto es cierto, seleccionando un equipo ya equipado a través de
+los menús 'w', 'W' o 'P' (para armas, armadura o joyas
+respectivamente) desequipará ese artículo.
+
+joyería prompt = falso
+Si esto es verdad, la joyería inequipadora siempre pedirá un artículo
+para eliminar, en lugar de saltar el impulso si sólo un elemento de joyería
+está equipado. Además, si todas las ranuras están llenas al equipar una joyería
+ítem, se pedirá para el cual se elimina incluso si todos son idénticos.
+
+easy confirm = (no hay nadie que esté a salvo para todos)
+Hacer preguntas de confirmación más fácil de responder:
+ninguno = capitales de fuerza en preguntas Y/N y aumentos de puestos
+seguro = fuerza sólo en preguntas peligrosas y aumentos de puestos (por defecto)
+todos = nunca fuerza capitales
+WARNING TO PUTTY USERS: Si tu configuración de Putty establece el
+keypad numeric a "NetHack mode", el teclado '7' será mapeado
+a la letra 'y', que puede resultar en respuesta accidental
+Sí a las preguntas.
+
+simple targeting = falso
+Si se establece en verdad, deshabilita el blanco inteligente para la explosión y el bouncing
+hechizos de perno, haciéndolos blanco automáticamente al monstruo más cercano en
+rango en lugar de tratar de encontrar un lugar que afecta a múltiples monstruos
+evitando al jugador. Esto se aplica a la selección de objetivos cuando
+zapping así como la selección de autotargets para ortografías.
+
+force spell targeter = hailstorm, starburst, freeze ramparts, ignition,
+El ruidoso bog de Eringya, angustia, miedo, Alistair
+intoxicación, discordia, dispersión, englaciación metabólica,
+gloom, onda de llamas, haz de plasma,
+amontonador portátil de Maxwell, sierras de diamantes,
+fortaleza explosión
+Fuerza mostrando un objetivo para los hechizos enumerados al casting normalmente,
+incluso si el hechizo no es blanco. Esto sólo tiene fines prácticos
+un efecto sobre los hechizos puntiagudos, como los de los
+valor predeterminado; es particularmente útil para los hechizos con un inusual
+Patrón de objetivos. Si "todo" aparece en la lista de opciones, el resto de
+la lista (cuando sea construida) será ignorada, y los destinatarios
+se muestra con cada hechizo.
+
+force ability targeter = santuario, llamas purificadoras, palabra de caos, recita,
+fuerza elemental, osoemancia, aliento galvánico,
+grilletes sin grasa, bolsa, área de desastre, apocalipsis,
+corrupto, foxfire swarm, siphon esencia, shadowslip,
+tumba acuosa
+Fuerza mostrando un objetivo para las habilidades enumeradas al activarlas
+normalmente, incluso si la habilidad no es apuntada. Esto es práctico
+los propósitos sólo tienen un efecto en las capacidades objeto de determinación estadística, como
+los del valor predeterminado; es particularmente útil para las habilidades
+con un patrón de orientación inusual. Si "todo" aparece en la lista de opciones,
+el resto de la lista (cuando sea construida) será ignorada, y
+los objetivos se mostrarán con cada habilidad.
+
+force scroll targeter = miedo, silencio, vulnerabilidad, inmolación, tormento
+Fuerza mostrando un objetivo para los pergaminos enumerados al leerlos
+normalmente (ya que no se pretenden, esto es generalmente para mostrar éxito
+oportunidad o qué objetivos podrían verse afectados). Si "todo" aparece en el
+lista de opciones, el resto de la lista (cuando sea construido)
+ignorado, y los destinatarios serán mostrados por cada pergamino que tiene uno.
+
+show invis targeter = true
+Antes de volverse invisible, muestre un objetivo indicando qué monstruos hay
+ver realmente perdería de vista de usted (y pronto si todos los enemigos en
+línea de visión tienen sInv).
+
+permit self target = prompt
+Permite apuntarse con magia arriesgada (por ejemplo, el hechizo Stone Arrow
+o una varita de parálisis.) Valores: (sí Silencio no Silencio pronto).
+Cuando se establece en 'sí', usted es un objetivo válido. Cuando se establece en 'no', no puedes
+diríjase con tales hechizos. Cuando se establece en 'prompt' (el predeterminado),
+se le exigirá que confirme el auto-punteo. Esta opción no tiene
+efecto sobre los hechizos de efectos de área, como la Nube Mefática, donde usted está
+siempre un objetivo válido.
+
+prompt menu = verdadero (por defecto de los dispositivos), falso (por defecto de consola)
+Siempre mostrar menús rápidos como popups si es posible, en lugar de en el
+mensaje pane. This currently applies to Y/N prompts, and to the `G`o
+menú.
+
+habilidad menu = verdadero
+Mostrar siempre el menú de "a" habilidad de pantalla completa. Si es falso, 'a' pide
+en el área del mensaje, y el menú se puede ver con '?' o '*'.
+
+hechizo menu = falso
+Si se establece en la verdad, el menú de selección de hechizos de pantalla completa siempre será
+se muestra cuando usa 'z'. Si es falso, 'z' pide en el área del mensaje, y
+el menú se puede ver con '?' o '*.
+
+fácil floor use = verdadero
+Si se establece a la verdad, menús de interacción de elementos que permiten utilizar elementos de los
+tierra responderá al cambio de los artículos de inventario a los elementos de suelo
+pulsando ',' cada vez que hay sólo un objeto de piso, seleccionando que
+artículo en lugar de empaquetar el menú. Por ejemplo, 'r' leerá el
+Pergamino en el suelo, si sólo hay uno. Esto funcionará incluso si
+no hay artículos que coincidan en su inventario.
+
+sort menus = [menu:](true tención false tención auto:X)[:sort order]
+Controles si y cómo los artículos se clasifican en inventario y recogida
+menús.
+
+Cuando sort menus = falso (por defecto), los elementos no están ordenados, y
+será ordenado por carta de inventario (o en el orden que están
+apilado para elementos en el suelo).
+
+Cuando sort menus = verdadero, los elementos se clasifican según el especificado
+sort order, con el default siendo:
+equipado, nombre de base, nombre, maldición, qty
+
+Si sort menus = auto:X, los elementos se clasifican si hay al menos
+X artículos en la misma categoría. Por ejemplo:
+sort menus = auto:5
+ordenará clases de artículos que tengan al menos 5 artículos. Por ejemplo,
+tener 4 tipos de pociones no las clasificaría, pero tener 5
+Lo haría.
+
+Puede especificar explícitamente los criterios de clasificación en el sort menus
+opción como:
+sort menus = true : art, basename, qualname, maldición, qty
+
+Se compararán dos artículos sobre la base de los criterios de primera clase
+donde difieren. Así que con la línea kind menus dada arriba,
+si sólo uno de dos elementos diferentes es un artefacto conocido, será
+enumerado primero, si ambos o ninguno son artefactos)
+los nombres de base son diferentes que serán comparados alfabéticamente usando
+sus nombres de base; si los nombres de base son los mismos pero los calificados
+los nombres son diferentes que comparará sus nombres calificados, y así
+adelante.
+
+Los criterios disponibles son:
+
+* nombre de base:
+Este es el nombre del tipo de artículo. El nombre base para todos
+"una túnica +0", "una túnica bordadada" y "la túnica maldecida +2
+Ponies es sólo "robe". El nombre base para ambos "un metal
+Anillo y "un anillo de resistencia al fuego" son "ring".
+
+* qualname:
+El nombre del artículo sin artículos (a/an/the), cantidades,
+encantamientos, o maldición-estado. Los nombres calificados para los
+las túnicas descritas anteriormente son "robo", "túnica bordadada" y "robe"
+de Ponies", respectivamente. Los nombres calificados para los anillos
+descritos arriba son "anillo del cerebro" y "ring of fire
+resistencia", respectivamente.
+
+* nombre completo:
+Este es el nombre del elemento que se muestra en los menús (incluyendo
+(cuantidades, estado de maldición, etc.)
+
+* dbname:
+Clasificaciones basadas en el nombre interno único de un artículo que está vinculado
+a su descripción. Los artículos con la misma descripción serán
+agrupados.
+
+* maldición:
+Curse-status del artículo (si se sabe). Los artículos incursionados aparecen
+primero.
+
+* equipado:
+Los elementos equipados aparecen primero.
+
+* art:
+Los artefactos identificados aparecen primero.
+
+* ego:
+Los objetos de ego identificados aparecen primero.
+
+* Brillante:
+Los elementos no identificados brillan/shiny/runed/etc aparecen primero.
+
+* identificado:
+Identified items show up before unidentified ones of the
+mismo tipo. Un artículo es considerado como identificado una vez que usted sabe
+su subtipo o ego.
+
+* qty:
+La cantidad para elementos apilables (como pergaminos, pociones,
+etc.)
+
+* ranura:
+The inventory letter for items in inventory; irrelevant for
+artículos en el suelo.
+
+* Cargado:
+Hace aparecer a los evokers con cargos disponibles antes de aquellos que
+están vacíos; irrelevantes para todos los demás tipos de artículos.
+
+* utilidad:
+Ordenará los consumibles por su 'usocidad' actual en el
+siguiente orden: Emergencia (por ejemplo: ?blinking, !heal wounds),
+Bien (por ejemplo: ?acquirement), Normal, Peligroso (por ejemplo: !lignificación),
+Mal (por ejemplo: la tortura mientras adora a un buen dios), y finalmente
+permanentemente inútil.
+
+Usted puede pedir un orden descendente por prefijo uno o más
+clasificar los criterios con el título como:
+sort menus = verdadero : nombre de base,
+
+También puede solicitar la clasificación sólo para menús específicos:
+sort menus = pickup: true
+o
+class menus = inv: true
+(Los tipos de menu deben especificarse como nombre:, sin espacio entre
+nombre y colon.)
+
+Los selectores de menú disponibles son:
+
+recoger: Todos los menús de recogida, menús de búsqueda de datos, etc. para los elementos no
+en su inventario.
+menú desplegable.
+inv: Listas de inventario para cualquier comando (pero no para dejar caer
+Temas).
+cualquiera: Todos los menús; este es el predeterminado cuando no especificado.
+
+Por ejemplo,
+sort menus = true : equipado, nombre de base, nombre de la misma, maldición, qty
+producirá el mismo inventario y menús de gota que por defecto,
+con la excepción de que todos los artículos usados / blindados vienen primero. Esto
+puede ser conveniente si utiliza el comando '.' para seleccionar
+artículos posteriores.
+Si defines el sort menus de forma diferente para dos o más selectores,
+el último que coincida siempre tendrá precedencia, es decir, "nada"
+como último ajuste anularía a cualquiera de los otros.
+
+Por defecto los menús de recogida están ordenados, y los criterios de clasificación son:
+"Equipado, nombre base, nombre, maldición, qty".
+Los menús de entrada y caída se clasifican por "equipados, cargados, identificados,
+utilidad, ranura".
+
+spell slot ^= <regex
+(Opción de lista ordenada, un valor por línea)
+Cuando memorices cualquier hechizo que coincida con el regex, asignará
+a la primera carta disponible en la lista. A + en la lista de
+letras en "modo de escritura": todas las letras hasta el siguiente "-" son
+considerado disponible incluso si ya se ha asignado; en ese caso, cualquier
+hechizo ya asignado a esa ranura, siempre que no
+coinciden con el mismo.
+
+Si todas las letras de la lista están ocupadas para cada regex el hechizo
+fósforos, utilizará el abc...xyzABC..XYZ. Si
+hechizo coincide con múltiples regexes, sólo el primero se considera.
+
+Ejemplos:
+* si quieres que Apportation sea colocado en A:
+spell slot ^= Aportación: A
+* si quieres que el Armour de Ozocubu sea colocado en r normalmente o R si
+r no está disponible:
+hechizo slot ^= Armour de Ozocubu:rR
+* si quieres que el primer hechizo "Bolt" sea colocado en un, incluso si
+ya hay un hechizo no-bolt allí:
+hechizo slot ^= Bolt:+a
+* si desea cambiar la asignación por defecto de la ranura del hechizo
+para utilizar letras mayúsculas: (situar esto después de todas las demás
+orto slot lines):
+spell slot += .*:ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+gear slot
+(Opción de lista ordenada, un valor por línea)
+Usa la misma interfaz que spell slot, excepto ese modo de sobreescritura
+está por defecto; el modo de sobreescritura puede ser deshabilitado con un - en el
+lista de cartas.
+
+consumible shortcut += 0 Nombre del artículo
+(Opción de lista ordenada, un valor por línea)
+Similar a gear slot, pero acepta solo una sola letra por consumible
+nombre y no maneja regex.
+
+El juego intentará muy difícil asignar automáticamente un consumible a
+cualquier carta dada por esta opción, a menos que sea identificada
+artículo de una categoría diferente. (por ejemplo: 'potion of curing:c' resultará
+en ninguna otra poción siendo auto-assignado a 'c' y no identificado
+pergaminos también evitarlo cuando sea posible, ya que comparten el menú ?id
+juntos.)
+
+ability slot ^= <regex
+(Opción de lista ordenada, un valor por línea)
+Usa la misma interfaz que spell slot, pero se aplica a las habilidades
+en el menú 'a'.
+
+autofight stop = 50
+Autofight no actuará si su HP está en o más bajo que este
+porcentaje de su HP max. Discapacitados cuando se establece a 0. Esta configuración se aplica
+tanto para la autolusión como para el autofuego.
+
+autofight warning = 0
+Ejecute un tiempo mínimo (en milisegundos) entre comandos autofight.
+Si emite dos comandos consecutivos de autolusión dentro de esta cantidad
+de tiempo (por ejemplo, manteniendo la tecla de pestaña), el siguiente
+comandos serán ignorados, y el mensaje "Usted no debe luchar
+imprudentemente!" impreso al canal de peligro. Cualquier valor inferior a
+o igual a cero deshabilita este cheque.
+
+autofight fires = false
+Si su quiver contiene una acción incendiable que hace directamente
+daño al enemigo, CMD AUTOFIGHT regular (tab en el defecto
+vinculante) lo desencadenará en enemigos fuera de rango de melee. Sin esto
+opción, sólo un lanzador con barniz (un arco, arco cruzado o sling)
+disparado por CMD AUTOFIGHT. Si una acción que hace daño directo es
+pero fuera de rango, se moverá hacia el enemigo. Si
+acción es analizada que no hace daño directo, CMD AUTOFIGHT
+ignóralo completamente. Para evitar el movimiento en conjunto, rebinado con
+CMD AUTOFIGHT NOMOVE en lugar de CMD AUTOFIGHT. (Nombre legal:
+`autofight throw`.)
+
+autofight nomove fires = true
+Esta opción modifica el comportamiento de CMD AUTOFIGHT NOMOVE (unbound by
+default) de una manera similar a cómo 'autofight fires`, arriba, modifica
+CMD AUTOFIGHT. (Nombre legal: `autofight throw nomove`.)
+
+autofight fire stop = false
+Cuando se disparan misiles o se lanzan objetos usando autolusión, si esto
+la opción es verdad, los disparos se detendrán en el objetivo (como "f.") en lugar de
+continuando pasado. Tenga en cuenta que este ajuste puede ser decididamente suboptimal
+para misiles de penetración.
+
+autofight caught = false
+Si es cierto, la lucha automática intentará escapar de las redes o redes que son
+sosteniendote, incluso si no hay enemigos en vista.
+
+autofight wait = false
+Si es verdad, ==hit closest nomove mientras no en el rango de un enemigo lo hará
+Espera un giro en lugar de abortar la auto pelea.
+
+autofight prompt range = true
+Al manipular un arma que normalmente causaría un ataque
+(como un arma con una inscripción !a, o una no apreciada por tu dios),
+si esta opción es verdadera, entonces el aviso se mostrará cuando autofight
+trata de caminar hacia un enemigo, en lugar de sólo cuando en realidad intenta
+para atacar.
+
+automagic enable = falso
+Opción para habilitar el viejo sistema automagic; se recomiendan nuevos jugadores
+para usar hechizos depilados. Si es verdad, auto-lucha (es decir, pestaña en
+Los enlaces predeterminados) lanzarán un hechizo en una ranura designada a un objetivo.
+La ranura de hechizo inicial es a. (deprected)
+
+automagic slot = a
+Ajuste de esto cambia la ranura de hechizo inicial para el viejo automagic
+sistema. Se puede cambiar para juegos en progreso en el juego estableciendo una macro
+para llamar ==am set spell.
+
+automagic fight = false
+Con el viejo sistema automagico habilitado, estableciendo esto a verdaderas causas
+un retroceso a la pelea regular (por ejemplo, melee) al intentar lanzar un
+hechizo que usted no tiene suficientes puntos mágicos para, o están abajo
+el umbral establecido. Si es falso, aparecerá un mensaje y no más
+Se adoptan medidas.
+
+automagic stop = 0
+Similar a autofight stop, si los puntos mágicos están por debajo de este número
+(porcentaje del total), se evita el casting a través de la autolusión/autofuego.
+Discapacitados cuando se establece a 0.
+
+fail severity to confirm = 3
+Solicitar confirmación al intentar lanzar un hechizo donde un error
+causaría penas severas. Promueve si la gravedad de la transmisión errónea
+ortografía (el color mostrado en el menú de ortografía) es mayor que
+o igual al número especificado:
+
+5: magenta (la transmisión puede causar mayores daños que la HP max)
+4: rojo oscuro (hasta 70% de daño)
+3: rojo claro (hasta un 50% de daño)
+2: amarillo (hasta un 30% de daño)
+1: blanco (hasta 10% de daño)
+
+Si el valor 0 o -1 se da, nunca se indique acerca de las transmisiones.
+
+easy door = verdadero
+Cuando (O)pening or (C)perando puertas, no incite en una dirección
+si sólo hay una puerta adyacente. Esta opción no afecta
+abriendo puertas caminando hacia ellos.
+
+warn hatches = falso
+Solicitar confirmación antes de usar una escotilla de escape de un solo sentido o un eje.
+
+warn contam cost = true
+Solicitar confirmación antes de lanzar un hechizo con un coste de contam, si
+es posible que la casting a su nivel actual de contaminación mágica
+podría causar que alcance niveles dañinos de contaminación.
+
+enable recast spell = true
+Si está habilitado, permite retransmitir el hechizo de fundición previamente pulsando
+Entra o '.' en el aviso de la ortografía.
+
+confirm action += יregex título, <regex título, ...
+(opción de registro)
+Casting un hechizo o habilidad con un nombre que coincida con cualquiera de los
+las expresiones se iniciarán antes del uso.
+
+regex search = false
+Si está habilitado, la búsqueda de artículos con ^F utiliza sintaxis de expresión regular
+por defecto, en lugar de la búsqueda de subestring. Note que independientemente de
+esta configuración, consultas prefijadas con / se realizará como un regular
+búsqueda de expresión y consultas prefijadas con = se realizará como
+búsqueda de subestring.
+
+autopickup search = false
+Si está habilitado, los elementos están anotados con {autopickup} mientras buscan
+con ^F si fueran recogidos por autopickup. Esto significa que
+buscar "autopickup" listará todos estos elementos. Note que esto
+opción puede retrasar su juego si usted tiene una costumbre complicada
+función de autopickup.
+
+bad item prompt = true
+Solicitar confirmación antes de usar pergaminos y pociones malos o peligrosos.
+
+auto hide spells = false
+Cuando se establece a la verdad, los hechizos añadidos a la biblioteca serán automáticamente
+escondido.
+
+menu arrow control = verdadero
+Si se establece en falso, deshabilitar usando las teclas de flecha para controlar la selección del menú.
+Esto no tiene efecto en las interacciones del ratón con los menús, y sólo afecta
+menús que usan hotkeys para la selección. (E.g. el menú principal para el local
+el juego no se ve afectado.)
+
+single column item menus = true
+Si se establece en falso, ciertos menús de elementos enumerarán los elementos en dos columnas,
+mientras el menú sea demasiado largo para encajar en la pantalla actual. Si se establece
+a cierto, todos los menús utilizarán una sola columna bajo cualquier circunstancia.
+Esta opción sólo está disponible en fichas locales y consola; en WebTiles
+todos los menús son monocolumn independientemente del valor de esta opción.
+
+show paged inventory = true
+Si se establece a la verdad, el menú 'i' dividirá los elementos del jugador en
+páginas (gear, pociones, pergaminos y elementos evocables) de la misma manera
+que el menú 'd'rop lo hace.
+
+3-h Mensaje y mejoras de visualización.
+------
+
+hp warning = 10
+hp warning da " * * * * LOW HITPOINT WARNING * * *" en el
+canal de peligro cuando el jugador toma daño y sus puntos de referencia
+son menos que este porcentaje de su máximo (utilizar 0 para girar
+de estos mensajes).
+
+mp warning = 0
+mp warning da "* * * LOW MAGIC WARNING * * sobre el peligro
+canal cuando los puntos mágicos del jugador caen por debajo de este
+porcentaje de su máximo (utilizar 0 para apagar estos mensajes).
+
+hp colour = 70:amarillo, 40:red
+(opción de registro)
+hp colour colores su salud apropiadamente en el estado
+Pantalla. En el entorno predeterminado, su salud aparecerá en
+rojo si a menos de 25%, amarillo si a menos de 50%, y en
+el color predeterminado de lo contrario.
+
+mp colour = 50:yellow, 25:red
+(opción de registro)
+mp colour hace a Magic lo que hp colour hace a Salud.
+
+stat colour = 1:lightred, 3:red
+(opción de registro)
+stat colour colores sus estadísticas si bajan por debajo de un valor dado,
+en el orden de su definición. Este cheque tiene lugar antes
+los de por ejemplo. Podría o degeneración.
+Para la coloración gris normal, póngalo a
+stat colour -= 3:red
+
+status caption colour = marrón
+Establece el color que se utiliza para mostrar las capas en el estado
+área (por ejemplo la "Salud:" en "Salud: 10/10").
+
+enemigo hp colour = verde marrón verde magenta rojo
+Colorea la salud enemiga apropiadamente en el panel de monstruos. El
+las coloraciones corresponden a la salud plena, ligeramente herida, moderadamente
+herido, gravemente herido, gravemente herido y casi muerto. In
+Además de los nombres de color, "default" se puede utilizar en esta lista, y
+omitted color ranuras se establecerá en el predeterminado.
+
+clear messages = false
+Establecer esta opción a la verdad hará que los mensajes se despejen
+entre acciones del jugador (por defecto es falso que retrasará
+despejar mensajes hasta que el espacio del mensaje esté lleno).
+
+show more = false
+La configuración de esta opción a la verdad hará que el juego incite si más
+que una ventana llena de mensajes son de salida a la vez. Esta opción
+no tiene ningún efecto si se fijan mensajes claros. Además, no tiene
+efecto sobre si la fuerza more message activa.
+
+Small more = false
+Con pequeño more = falso (por defecto), el --más--
+línea separada en la parte inferior de la ventana del mensaje. Con
+small more = verdadero, es sólo el personaje inferior izquierdo.
+Nota: Esto superará la primera letra del último mensaje
+line if clear messages is set.
+
+show newturn mark = true
+Cuando se establece en falso, esta opción desactiva el subrayado ( ) mostrado en
+frente de la primera línea de un giro.
+
+show game time = true
+Por defecto, el contador en el área de estatura muestra el tiempo de juego pasado.
+La mayoría de las acciones toman una unidad de tiempo, pero algunas son más rápidas (poner en una
+anillo, el pelado de un arma, ...) y otros son más lentos (el coser un arma
+con baja habilidad, cambio de armadura, ...).
+Cuando se establece en falso, el contador mostrará el jugador turno, que
+es el número de acciones tomadas independientemente de su duración. Es esto
+cuenta de giro que se utiliza para la puntuación (y este recuento de vuelta es siempre
+visible en la pantalla de vista general %).
+La duración de la última acción se muestra en paréntesis, después de la
+tiempo/jugador gira la pantalla.
+
+equip bar = falso
+Cuando se establece a la verdad, esta opción reemplaza la barra de ruido con una
+"equipment bar" mostrando los glifos de todos los elementos actualmente equipados,
+con lagunas para las ranuras de equipo disponibles pero actualmente no llenas.
+
+animate equip bar = false
+Cuando se establece a la verdad, los elementos mostrados en la barra de equipos que tienen un
+el color variable será animado.
+
+item stack summary minimum = 4
+Si pasas por encima de una pila con este número o más de elementos en
+la primera línea de descripción contendrá un resumen de todo
+elementos en la pila (hasta 50 elementos), en un formato que parece
+así:
+( )))) [[[[[[
+Los artefactos y los evokers no aleatorios serán coloreados en lightcyan; al azar
+los artefactos estarán en amarillo; los elementos brillantes o corredos estarán en blanco,
+a menos que ya sepas que no son objetos del ego.
+
+mlist min height = 4
+Si hay espacio extra disponible para el área del mensaje y
+lista de monstruos, la lista de monstruos se expandirá a esta altura
+antes de dejar que el área del mensaje consiga más.
+(Nota que la lista de monstruos sólo está disponible para ASCII.)
+
+mlist allow alternative layout = false
+Mostrar la lista de monstruos dondequiera que Crawl puede encontrar espacio en
+su pantalla de consola, generalmente a la izquierda del mapa, más bien
+que usar la posición fija debajo del área de estatura.
+Esta opción no es compatible con la construcción de baldosas.
+
+monstruo item view coordinates = falso
+Mostrar coordenadas centradas en el reproductor en la descripción de la vista ^x.
+
+monstruo item view features +=
+(opción de registro)
+Mostrar características que corresponden a la descripción de la vista ^x. Cada uno
+יregex confía es una expresión regular que describe una función de mazmorra. Esto
+regex debe coincidir con la descripción al usar el comando 'x'. En caso
+el regex coincide con varias descripciones, todas estas características se enumeran.
+
+Dos palabras clave especiales están activas aquí, si algún patrón coincide con la cadena
+"estar" todas las características que se pueden interactuar con el uso de la escalera
+comandos se muestran; si cualquier patrón coincide con "trap" todas las características de la trampa
+(incluyendo las webs) se muestran.
+
+msg min height = 7
+Usted puede reducir esto para dar más espacio a la pantalla del mapa. El
+valor mínimo es 5. En la consola, si este valor es lo suficientemente grande
+que el mapa no encaja, arrastrar no empezará.
+
+msg max height = 10
+En la consola, si hay espacio extra disponible después de la lista de monstruos
+se ha expandido, el área del mensaje se expandirá hasta esta altura.
+La lista de monstruos conseguirá el resto.
+En los azulejos, controle el tamaño máximo del área del mensaje. The viewport
+el resto.
+
+msg webtiles height = -1
+Esto establecerá la altura del panel de mensajes en (sólo) WebTiles,
+escalando el mapa en consecuencia. Valores inferiores a `msg min height`
+no tienen impacto; en este caso la altura del panel del mensaje es
+heredado de la consola (y así normalmente será 7). Uno de estos
+líneas pueden ser reservadas para mensajes `más` dependiendo de otros
+Ajustes.
+
+mensajes at top = falso
+Ponga la ventana del mensaje en la parte superior de la pantalla. Esto se mueve
+el último mensaje cerca del centro de la vista cuando no
+usando clear messages=true.
+
+msg condense repeats = true
+Si el mismo mensaje se repite varias veces durante el mismo
+girar, entonces será la salida en un formato condensado indicando
+cuántas veces se repitió. Si la misma salida (incluyendo la
+contra) se repite en varias vueltas, el mensaje anterior del espectáculo
+comando (Ctrl-P) también los condensará en uno. Por ejemplo:
+La abeja asesina te extraña. x5
+
+msg condense short = true
+Si se establece, los mensajes cortos en el mismo canal no todos comienzan un nuevo
+línea.
+
+show travel trail = false (defaults to true for online servers)
+Cuando se establece a la verdad, el camino tomado durante el autoexploro o el viaje
+será resaltado. El color de la consola y el glifo de la ruta de viaje
+se puede configurar más a través de la opción de características para anular el
+Función de "travel trail". Si se muestra una ruta de viaje,
+el comando Clear Map (Ctrl-C) aclara el sendero en lugar del mapa
+(presionándolo una segunda vez luego aclara el mapa como siempre).
+
+habilidad focus = verdadero
+Cuando se establece en la verdad, el ciclo de habilidades entre discapacitados, habilitados y enfocados en
+la pantalla de habilidad. Cuando se ponen en falso, sólo se mueven entre
+y discapacitados. Configurar la opción de "retroceder" añade una palanca a la habilidad
+pantalla para cambiar el comportamiento en el juego.
+
+default show all skills = false
+Cuando se establece a la verdad, el menú de habilidad (m) predetermina mostrar todas las habilidades,
+incluso sin entrenamiento y sin entrenamiento. Como siempre, '*' se mueve de nuevo a
+Modo de entrenamiento. Esta opción no afecta las pistas y los juegos tutoriales.
+
+monstruo list colour = amistoso: verde, neutral: marrón, bueno neutral: marrón
+monstruo list colour += trivial:darkgrey, fácil:ligroso, duro:amarillo,
+desagradable: iluminado, inusual: lightmagenta
+(opción de registro)
+Cambia los colores utilizados para mostrar nombres de monstruos en la lista de monstruos.
+Las claves válidas y sus colores iniciales son:
+
+Actitudes monstruosas:
+amigable - verde
+neutral - marrón ("indiferente")
+good neutral - marrón ("pacífico")
+
+Niveles de amenaza para monstruos hostiles:
+trivial - oscuro
+fácil - gris claro
+duro - amarillo
+desagradable.
+inusual - lightmagenta
+
+Si una categoría es inestable o tiene un color perdido, su color predeterminado a
+Ligero. Para la eliminación con `-=`, el nombre de la categoría se puede utilizar solo,
+y limpiará cualquier asignación para esa categoría (ajustándolo a la luz).
+
+view delay = 600
+Controla la velocidad de las animaciones desde, por ejemplo, rango y mágico
+ataques e invocaciones con efectos visuales.
+
+reduce animaciones = falso
+Si se establece a la verdad, simplifica algunas animaciones para que los pasos incrementales son
+No dibujado. Por ejemplo, para lanzar un hechizo de haz o disparar un rango
+arma, sólo se muestra el camino final del rayo. Defaults to `true` for
+juegos webtiles.
+
+use animaciones = haz, rango, hp, monstruo in sight, pickup, monstruo, jugador
+use animations += branch entry
+Controla si se realizan o no animaciones especiales, como cuando se
+Desterrado. Todas las animaciones están habilitadas por defecto, y las categorías
+que puede ser habilitado/desactivado independientemente son:
+
+viga - Animación para lanzar un hechizo de haz o disparar un rayo
+arma.
+rango - Flashes la pantalla con un overlay indicando el
+rango real de un intento de hechizo, si hay
+No hay monstruos dentro del alcance del hechizo.
+hp - Flashes la pantalla roja cuando usted toma el daño
+debajo del nivel indicado por el hp warning
+Opción.
+monstruo in sight - Al intentar descansar, correr, viajar o explorar
+con monstruos peligrosos en la vista, flashes las partes
+de la pantalla donde los monstruos no son, para
+ayudar a que los monstruos mismos sean más visibles.
+pickup - Varias animaciones que ocurren al recoger
+artículos. Actualmente sólo las runas y el orb tienen
+animaciones.
+monstruo - Animaciones que corren cuando un monstruo usa una habilidad
+o lanza un hechizo.
+jugador - Animaciones que corren cuando el jugador utiliza un
+habilidad o lanza un hechizo.
+branch entry - Animations that run when you enter a new branch.
+Actualmente sólo el Abyss y Zot tienen animaciones.
+
+inusual monster items += <regex título, <regex confianza, ...
+(opción de registro)
+Monstruos cuyos artículos de inventario coinciden con un regex en este apartado de coma
+lista se mostrará con nivel de amenaza inusual. Por ejemplo.
+inusual monster items = varita
+inusual monster items += disto,chaos
+inusual monster items += curare,atropa,datura,dispersal
+inusual monster items += red de lanzamiento
+Las descripciones de los elementos coinciden con los nombres de los elementos cortos que
+normalmente se muestra cuando un monstruo es examinado con 'xv'.
+
+Esta opción determina qué monstruos serán considerados "normales" para
+las opciones tile show threat levels (sólo para los equipos), monstruo list colour,
+y inusual altaluz (sólo consola).
+
+darken beyond range = true
+Si se establece a la verdad, todo más allá del alcance cuando el objetivo será
+gris de colores. Poner esto a falso también deshabilitará el "range"
+categoría de la opción use animations.
+
+show blood = true
+La configuración de esta opción para falso ocultará los estampados de sangre en el suelo
+y en las paredes. En los azulejos, los cadáveres se mostrarán como esqueletos.
+
+food snacking frequency = 40
+Controla la frecuencia de producir mensajes de sabor al caminar sobre
+caché de frutas, carnes o panadería, con el número correspondiente a un
+por ciento de posibilidades. Como uno esperaría, 100% significa siempre, 0% significa nunca,
+y el 40% predeterminado significa dos quintas partes del tiempo. A menos que la frecuencia
+está fijado al 100%, la oportunidad se reduce a un cuarto si hay hostil
+enemigos a la vista en la mayoría de las situaciones.
+
+fuente line frecuencia = 40
+Controla la frecuencia de producir mensajes de sabor al caminar
+cualquier tipo de fuente, con el número correspondiente a un porcentaje
+azar. Como con la opción anterior, 100% significa siempre, 0% significa
+nunca, el 40% predeterminado significa dos quintas partes del tiempo, y un no-100%
+frecuencia ha reducido las posibilidades si los enemigos hostiles están a la vista.
+
+force more message +=
+(opción de registro)
+Cualquier mensaje que contenga un regex especificado aquí hará cumplir un
+--Más-- rápido, así que se puede utilizar para destacar realmente importante
+eventos. Esta opción ignora la opción show more. Esta opción será
+no interrumpir los retrasos de viaje por defecto; use runrest stop message
+por eso. La sintaxis es idéntica a la de
+runrest ignore message (3-f).
+
+flash screen message +=
+(opción de registro)
+Cualquier mensaje que contenga un regex especificado aquí flasheará
+pantalla amarilla, por lo que se puede utilizar para destacar eventos muy importantes
+De hecho.
+La sintaxis es idéntica a la de force more message.
+
+monstruo alert += 0 nombre de pila o símbolo
+(opción de registro)
+Cualquier monstruo enumerado aquí por nombre causará un --Más--
+se encuentra primero por el jugador. Varios valores especiales también
+disponible, que coincidirá con grupos de monstruos:
+-nastía, duro, fácil, trivial Cualquier monstruo cuyo nivel de amenaza es
+al menos tan alto.
+Todos los únicos.
+- inusual Cualquier monstruo que lleve objetos habituales
+(como se define por inusual monster items)
+
+cloud status = verdadero
+Ya sea para mostrar la luz de estado "Cloud"; predeterminados a la verdad, excepto si
+jugando con azulejos, donde puedes ver la nube encima de ti, donde
+predeterminado a falso.
+
+siempre show zot = false
+Ya sea para mostrar la luz de estado "Zot" en todo momento, incluso cuando usted tiene
+Me queda mucho tiempo.
+
+siempre show gems = false
+Ya sea para mostrar la luz de estado "Gem", indicando cuánto tiempo hasta el
+gema en la rama actual se rompe (si es aplicable).
+
+more gem info = false
+Ya sea para mostrar límites de tiempo de gema y sfx para romper.
+
+action panel show = true
+Ya sea para mostrar o ocultar el panel de acción. Esta opción es automática
+guardado entre juegos, y sólo está disponible en Webtiles.
+
+action panel = /?}
+Lo anterior es la lista predeterminada de elementos para mostrar en el panel de acción.
+Los símbolos válidos son
+? Scrolls
+Pociones
+} Otros temas
+/ Wands
+Si se fija en una cuerda vacía, el panel estará escondido completamente. La orden
+de los tipos de elementos en esta opción determina el orden de los tipos de elementos en el
+panel de acción; suborden se determina por carta de inventario. Esta opción
+sólo está disponible en Webtiles.
+
+action panel filter += iereregex título, iereregex confianza, ...
+(opción de registro)
+Cualquier artículo que coincida con la expresión(s) del filtro no se mostrará en el
+panel de acción. Esta opción solo está disponible en Webtiles.
+El archivo dat/defaults/misc.txt contiene ajustes predeterminados.
+
+action panel show unidentified = false
+Cuando se establece a la verdad, el panel de acción mostrará desplazamientos no identificados
+y pociones. Esta opción solo está disponible en Webtiles.
+
+action panel scale = 100 (persistente)
+Un factor de escala porcentual para aplicar al panel de acción. Esta opción es
+guardado automáticamente entre juegos, y sólo disponible en Webtiles.
+
+action panel orientation = horizontal (persistente)
+(valores: horizontal tención vertical)
+Cuando se establece en 'horizontal', el panel de acción se colocará a lo largo de la parte superior
+borde de la pantalla. Cuando se establece en 'vertical', se colocará el panel
+a lo largo del borde izquierdo. Esta opción se guarda automáticamente entre juegos,
+y sólo está disponible en Webtiles.
+
+action panel font family = monospace (persistent)
+action panel font size = 16 (persistent)
+Fuente utilizada para mostrar cantidades de elementos en el panel de acción.
+La opción de tamaño se guarda automáticamente entre los juegos, y ambos son sólo
+disponible en Webtiles.
+
+action panel glyphs = false
+Si se establece a la verdad, muestre glifos en lugar de baldosas en el panel de acción. Esto
+La opción sólo está disponible en los webtiles.
+
+show resist percent = true
+Cuando se establece en la verdad, el porcentaje exacto de daño que el jugador tomará
+de cada elemento, basado en sus actuales pipas de resistencia,
+mostrado en la pantalla %.
+
+siempre show doom contam = false
+Si se establece a la verdad, siempre muestre los metros de doom y contam en
+superior derecha del panel lateral, incluso si el jugador no
+tienen cualquier condena o contaminación.
+
+3-i Colores (mensajes y menús)
+- Sí
+
+menu colour ^= <match título: Utilizar instrucciones para mejorar el contenido:
+(opción de lista ordenada)
+Para menús y otras pantallas que imprimen elementos (y algunos otros casos; vea
+lista abajo) esta opción le permite controlar el color que se utiliza
+Mostrar una línea utilizando una expresión regular. Por ejemplo, el defecto
+las opciones utilizan la siguiente línea:
+menu color += lightmagenta:.*orb.*Zot
+para destacar el orbe de Zot como púrpura en el menú de recogida de elementos. Para
+ítems, la expresión regular también se comprueba contra diversos elementos
+anotaciones como se describe a continuación. Por ejemplo, la siguiente línea:
+menu color += amarillo:.*emergency item.*
+causa elementos que obtienen la anotación `emergence item` (como pergaminos
+de teletransportación) a destacar en amarillo en inventario y otros
+menús de artículos.
+
+Puede haber varias declaraciones en una lista, y también varios menu colour
+líneas. Al utilizar varias líneas menu colour, el color del  first 
+se aplica regex correspondiente; la opción es compatible con `^=`, que es útil
+para anular los ajustes predeterminados sin construir la lista desde cero.
+Para una lista de colores, consulte la opción de color en 5-a.
+
+La parte de la `match ' especifica qué listados son afectados por la
+colorear. Si especificas 'item', o salta completamente el <match título:
+parte, entonces el patrón se aplicará a todas las categorías relacionadas con los artículos.
+Los posibles valores relacionados con los artículos para el partido son:
+inventario (inventario y menús de recogida y caída)
+recoger (pantallas, y elementos en el suelo)
+equipar (las [ y " pantallas)
+use item (equip, unequip, read, quaff, etc)
+tienda (pantallas)
+stash (los resultados de Ctrl-F)
+descripción (la pantalla \)
+Estadísticas (artículos blindados/preparados en las estadísticas de pantalla principal
+panel)
+resiste (artículos en la pantalla %)
+
+Los posibles valores no relacionados con el tema son los siguientes:
+explicit `match`:
+ayuda (el manual)
+notas (la?: pantalla)
+
+Los elementos son anotados con muchas etiquetas útiles que hacen el control del color
+más fácil. Los elementos están anotados con su tipo de base (armour, arma, varita,
+etc.) También están anotados con ciertas etiquetas que indican utilidad:
+prohibido (Tu dios lo odiaría si utilizaste este artículo.)
+emergency item (Este artículo es invaluable en emergencias.)
+good item (Este artículo es generalmente un buen artículo.)
+dangerous item (Usar este artículo puede ser peligroso.)
+bad item (Este artículo es generalmente un mal artículo.)
+inútil item (Este artículo no sirve para usted.)
+
+así como una gama de otras propiedades:
+equipados (Equipados artículos.)
+ego (Se trata de una marca mágica ofensiva/defensiva).
+artefacto (Para artefactos, identificados o no).
+unrand (Para artefactos no aleatorios.)
+melee (melee weapons, including magic staves.)
+ranged (Ranged weapons.)
+evoker (Evokers Elemental.)
+identificado (El tema está completamente identificado.)
+conocido (Usted reconoce el subtipo del artículo).
+no identificado (Usted no reconoce el subtipo del artículo.)
+regalo de dios (un artículo que te ha dado un dios.)
+maldito (Maldito por Ashenzari.)
+
+(Por supuesto, algunos de estos sólo se aplicarán a algunos menús inherentemente: solamente
+los elementos transportados pueden ser equipados, sólo los artículos no cargados pueden ser
+no identificado, etc.)
+
+Al buscar los partidos de menu colour, estos prefijos se tratan como si
+son prepended to the actual item name, for example:
+identificado mal Artículo prohibido error una pieza de Xom
+tablero de ajedrez (15/15)
+
+Los mismos prefijos también se pueden utilizar para resaltar los impulsos correspondientes
+a los elementos que coincidan con la descripción, o para definir autopickup  excepciones.
+
+Para más ejemplos, vea la configuración predeterminada en
+`dat/defaults/menu colours.txt`.
+
+menu colour también se puede utilizar para colorear notas de morgue en el juego ( legible
+en color con `?:`), utilizando el partido de las notas. Por ejemplo, el
+siguiente línea mostrará niveles en verde:
+menu colour ^= Notas:verde:Conseguido nivel XP
+
+message colour ^= > = > =
+(opción de lista ordenada)
+message colour le permite anular los colores individuales
+mensajes. Por ejemplo, si encuentras la advertencia de baja hp para ser
+no suficiente atención, puedes hacer algo como
+mensaje color += amarillo:LOW HITPOINT WARNING
+También puede reducir la coincidencia del mensaje a un canal específico:
+message colour += lightred:god:xom
+Si no quieres ver un mensaje en absoluto, puedes callarlo:
+mensaje color += mute:Empieza a descansar
+
+3-j Quivers, disparo y munición.
+- Sí.
+
+fire items start = a
+Establece el primer artículo de inventario a considerar al ciclismo a través de misiles
+para disparar a través de la palanca. El defecto es a.
+
+fire order = lanzador, lanzamiento, inscrito, hechizo, evokable, habilidad
+(opción de lista ordenada)
+Controla el orden de los ítems al ciclismo. Tipos
+debe ser separado por comas y artículos que aparecen primero conseguir
+mayor prioridad. Los tipos de acción ausentes no se utilizan cuando ciclismo
+la palanca. Esta opción también afecta el autoquivering en el inicio del juego.
+
+'launcher' se refiere a disparar un arma pelada (es decir, ballesta cruzada,
+arco, picazón). 'golpe' se refiere a todo lanzamiento de munición. Tirado específico
+los tipos de munición pueden ser referidos por nombre ('javelin', 'boomerang', 'stone',
+'rock', 'net', 'dart'), pero el orden sólo afecta el orden interno
+para lanzar tipos de munición; 'inscritos' también se puede utilizar para controlar los
+orden de munición que se ha inscrito con "+f". Ver las "Inscripciones"
+sección del manual de Crawl para más información sobre las inscripciones. Ammo
+los tipos se pueden separar con un "/" para indicar que el orden de inventario
+debe determinar el orden del ciclo. El orden dentro de los tipos se determina por carta
+orden en el submenú pertinente (por ejemplo, inventario para el lanzamiento, etc.).
+
+fire order spell = all
+(opción lista)
+Esto le permite excluir o incluir hechizos de la orden de fuego por
+nombre. Orden dentro de los hechizos se determina por asignación de cartas, esto
+Sólo controla lo que está en la lista. Esta puede ser una lista separada de coma
+de hechizos por nombre, y soporta += y -=. Permite dos valores especiales:
+'todo' es corto para todos los hechizos, y 'ataque' es corto para el
+lista de hechizos que se consideran hechizos de daño para la lucha auto
+propósitos; ver autofight fires para más información.
+
+fire order ability = all
+fire order ability -= berserk
+(opción lista)
+Esto le permite excluir o incluir habilidades de la orden de fuego por
+nombre. Orden dentro de las capacidades se determina por asignación de cartas, esto
+Sólo controla lo que está en la lista. Esta puede ser una lista separada de coma
+de habilidades por nombre, y soporta += y -=. Permite dos especiales
+valores: 'todo' es corto para todos los hechizos, y 'ataque' es corto para
+la lista de habilidades que se consideran hechizos de daño para la lucha auto
+propósitos; ver autofight fires para más información.
+
+fail severity to quiver = 2
+Excluir los hechizos con este nivel de malcast o más alto de ciclismo de quiver
+y automático. -1 se puede utilizar para excluir los hechizos enteramente de
+automático. Ver fail severity to confirm para un colapso de
+valores de transmisión errónea.
+
+launcher autoquiver = true
+Si se establece en la verdad, cambiar el acolchado al lanzador en la manipulación de él;
+si se establece en falso, el perchador no se cambia en la manipulación de un lanzador.
+(Firing via tab or `v` will still work.).
+
+quiver menu focus = false (persistent)
+Si se establece a la verdad, inicie el menú de preguntas en modo "enfocado" donde la acción
+letras se extrae de la letra de artículo / teléfono/capacidad y sólo uno de
+estos pueden ser seleccionados a la vez. De lo contrario, cualquier acción puede ser seleccionada
+desde el menú, pero la letra no es estable en este menú. Esta opción
+es persistente de modo que el valor actual en el menú del quiver se guarda
+a través de juegos y automáticamente recargado a menos que se establezca explícitamente.
+
+Canales de mensaje de 3 k.
+-----
+
+Crawl se comunica a los jugadores con su ventana de mensajes. Cada mensaje
+pertenece a uno de los llamados canales. El comportamiento de cada canal
+se puede cambiar con la opción
+
+canal.CHANNEL NAME = (COLOUR TENIDO mute ANTERIOR predeterminado TENIDO EN TENIDO Silencioso)
+
+CHANNEL NAME puede ser uno de estos:
+llano = texto regular (y cosas "no cubiertas")
+prompt = impulso de entrada al jugador
+Dios = mensajes de los dioses
+duración = mensajes sobre hechizos/efectos de carácter que se agotan
+peligro = amenazas graves a la existencia del personaje
+advertencia = varias otras advertencias
+recuperación = recuperación de enfermedades/estatal pérdida/envenenamiento
+hablar = monstruos hablando
+talk visual = monstruo realizando alguna acción que el jugador ve
+timed portal = mensajes de timeout portal
+sonido = otros sonidos
+intrinsic gain = nivel/stat/especie aumentos de potencia
+mutación = ganancia o pérdida
+monstruo spell = mensajes sobre monstruos gesturing or casting hechizos
+monstruo enchant = mensajes relativos a los encantamientos de monstruo
+monstruo warning = monstruos que vienen a la vista
+amigo spell = como monstruo spell, pero sólo para monstruos amistosos
+amigo enchant = como monstruo enchant, pero sólo para monstruos amistosos
+friend action = otras acciones de monstruos amigables
+monstruo damage = mensajes diciendo lo dañado que es un monstruo
+monstruo target = mensajes que marcan al monstruo como un objetivo (no utilizado)
+destierro = mensajes sobre el destierro y el destierro al abismo
+equipo = mensajes que indican el equipo gastado / blindado
+suelo = mensajes al mirar o caminar sobre un objeto de piso
+multiturn = indica acciones largas (desgastando armadura, diseccionando etc.)
+examinar = mensajes de examinar su entorno
+examine filter = mensajes aburridos de examinar su entorno
+diagnóstico = mensajes de depuración
+error = mensajes de error
+tutorial = mensajes del tutorial
+orb = mensajes sobre el Orbe de Zot
+hell effect = mensajes sobre los efectos ambientales de los infiernos
+dgl message = mensajes de los vigilantes (sólo juegos de consola en línea)
+
+Las opciones del canal son
+mute = no mostrar mensajes del canal (peligroso, ten cuidado!)
+default = canal de encendido a su esquema predeterminado
+alternativa = canalizar a su esquema alternativo "courioso"
+on = same as default
+llano = hacer el canal el mismo color que el canal "plain"
+(no hacer nada tonto como "mute" si claro == mudo,
+aunque)
+fuera = igual que simple
+
+COLOUR puede ser cualquiera de los colores descritos en la sección 5-a (opción de color).
+
+Los únicos canales multicolores actualmente son monstruo damage y dios. Todos
+otros canales están predeterminados.
+
+3-l Inscripciones.
+---
+
+Vea la sección "Inscripciones" del manual de rastreo para más información
+sobre inscripciones.
+
+autoincríbete +=
+(Opción de lista ordenada, un valor por línea)
+Cualquier artículo cuya descripción contenga el regex será automáticamente
+inscrito (si el autopickup se activa).
+
+Por ejemplo, se puede utilizar para evitar el uso accidental de cargos
+varitas potencialmente peligrosas, como en
+autoinscribe += varita de polimorfo:!V
+
+Los prefijos de color de menú (forbidden, etc.) también se pueden utilizar aquí.
+Por ejemplo:
+autoinscribe += (bad habitdangerous) item.*scroll:!
+evitará la lectura accidental de cualquier mal identificado o
+Pergaminos potencialmente peligrosos.
+
+A diferencia de la mayoría de las opciones de lista ordenadas, múltiples entradas coincidentes tienen
+un efecto: el orden sólo determina el orden de las inscripciones.
+
+show god gift = unident imperyes
+Apende {god gift} a los artículos que se originaron como uno. Si se establece
+"incidente", los elementos perderán esta etiqueta una vez que sus propiedades son
+totalmente conocido. Independientemente de este ajuste, se puede ver el artículo
+origen en su descripción.
+
+Opciones relacionadas con Macro de 3 m.
+------------
+macros += M \{9} za
+Estas opciones añaden una macro o un teclado.
+
+Cada definición consiste en exactamente tres argumentos separados por
+espacios. El primero describe si es un macro o un teclado.
+Los teclados son generalmente más útiles para renombrar las teclas por completo y son
+procesados antes de macros. Si no sabes qué usar, probablemente
+Quiero una macro.
+
+macros "M" (procesados al entrar en los comandos del juego)
+
+Principales contextos especializados:
+Keymap de contexto de mapa de nivel "K1" (durante la vista 'X' solamente)
+Keymap del contexto "K2" (durante la orientación y la vista "x")
+Keymap del contexto de confirmación "K3" (cuando responde a un y/n prompt)
+"K4" menu context keymap (todos los menús, excepto el menú de habilidad)
+
+Contexto de teclado predeterminado:
+Keymap de contexto predeterminado "K" (cualquier otro contexto)
+
+El segundo argumento describe la clave del disparador y consiste en
+carácter o clave de esa clave (por ejemplo 'a', 'A' o \{9} para el
+A, teclas Shift-A o Tab). El tercer argumento describe la macro o
+keymap acción y consiste la secuencia de comandos para estar asociado con
+el segundo argumento. (por ejemplo "zap" para activar el hechizo en ranura a
+en el objetivo anterior). Claves de función, llaves numpadas y navegación
+las teclas se pueden introducir a través de códigos de texto (ejemplos: \{F2}, \{NP-},
+\{PgUp}, \{Down}, etc).
+
+Si tiene macros/keymaps en su archivo rc, automáticamente
+ser guardado en su archivo macro.txt en carga, silenciosamente sobreriding cualquier
+macros/keymaps ya guardados en su archivo macro.txt.
+
+Esta sintaxis se basa en pero no idéntico al formato utilizado en el
+archivo macro.txt.
+
+flash.failure = true
+flush.command = false
+flush.lua = true
+Estos son útiles cuando usan macros. Ajuste uno de estos
+subopciones a la verdad hará que todo el amortiguador de entrada sea
+vertido y así efectivamente detener la macro. Las subopciones
+Actualmente
+fracaso - cuando los hechizos/capacidades se malinterpretan
+comando -- cada vez que el juego está a punto de obtener el siguiente comando
+lua -- siempre que gate.flush input() se llama de lua
+
+adicional macro file = path/to/filename
+Añadir un archivo macro adicional para ser cargado después de macro.txt.
+Puede tener múltiples líneas adicionales macro file.
+
+bindkey = [^D] CMD CHARACTER DUMP
+Cambio que clave invoca que ordena a un nivel inferior
+operación que macros. Útil en las macros no puede (a la vez)
+invocar uno al otro, pero una macro puede invocar un comando cuyo comando
+La llave ha cambiado.
+La sintaxis es siempre la misma: [key] comando
+Primero, entre corchetes, lista la clave que desea utilizar, con
+Significa Ctrl-X. Después de ese nombre, el comando está obligado a
+Esa llave. Puede atar varios comandos a la misma llave, siempre y cuando
+como tienen efecto en diferentes áreas del juego, es decir, uno
+dirigir el comando y uno para el juego principal. Del mismo modo, usted puede
+vincular el mismo comando a diferentes teclas. Puede utilizar la sintaxis \{}
+desde macros se unen para escribir códigos clave, y códigos clave como "F1", "NP+",
+y "Down" puede aparecer directamente en [].
+Para una lista completa de posibles comandos, vea keybind.txt.
+
+3-n Opciones de azulejos.
+----
+En los juegos no-tiles se ignoran las opciones de azulejos.
+
+tile show items =
+Esta opción controla el orden de los elementos en las fichas
+inventario. Por defecto, su valor es: !?/=([)}:
+Los artículos con glifos no en la lista serán mostrados por última vez.
+
+tile skip title = false
+Cuando esto sea cierto, no se te pedirá una llave en el título
+pantalla cuando el juego ha terminado de cargar y se llevará directamente a
+el menú inicial.
+
+tile menu icons = verdadero
+Causa menús de inventario y algunos otros para incluir iconos de baldosas
+y los menús que se muestran en hasta dos columnas para compensar
+la reducción del espacio.
+Si prefiere que los menús simples establezcan esta opción a falso.
+
+tile player col = blanco
+tile monster col = #660000
+tile neutral col = #660000
+tile peaceful col = #664400
+tile friendly col = #664400
+tile plant col = #446633
+tile item col = #005544
+tile unseen col = negro
+tile floor col = #333333
+tile wall col = #66666666
+tile mapped floor col = #222266
+tile mapped wall col = #444499
+tile explore horizon col = #6b301b
+tile door col = #775544
+tile downstairs col = #ff00ff
+tile upstairs col = cyan
+tile branchstairs col = #ff7788
+tile portal col = #ffdd00
+tile transporter col = #0000ff
+tile transporter landing col = #5200aa
+tile feature col = #997700
+tile trap col = #aa6644
+tile water col = #114455
+tile deep water col = #001122
+tile lava col = #552211
+tile excluded col = #552266
+tile excl centre col = #552266
+tile window col = #558855
+
+Estas opciones permiten configurar los colores utilizados para la minimapa de la mazmorra
+nivel. También se permite utilizar códigos de hex RGB, como #00ff00 para verde.
+tile player col - color de posición de jugador, así como de
+centro de mapas durante el modo de mapa de nivel ('X')
+tile monster col - color de monstruos hostiles
+tile neutral col - color de monstruos neutros
+tile peaceful col - color de monstruos pacíficos
+tile friendly col - color de monstruos amigables
+tile plant col - color de cero monstruos xp (planta y hongo)
+tile item col - color de objetos conocidos o detectados
+tile unseen col - color de zonas invisibles (generalmente piedra)
+tile floor col - color del suelo
+tile wall col - color de cualquier tipo de pared
+tile mapped floor col - color del suelo detectado mediante cartografía mágica
+tile mapped wall col - color de las paredes detectadas mediante cartografía mágica
+tile explore horizon col - color del borde del territorio explorado
+tile door col - color de puertas conocidas, abiertas o cerradas
+tile downstairs col - color de abajo
+tile upstairs col - color de arriba, incluyendo salidas de rama
+tile branchstairs col - color de las entradas de rama
+tile portal col - color de cualquier portal
+tile transporter col - color de transportadores
+tile transporter landing col - color de los destinos transportadores
+tile feature col - color de cualquier característica no original
+(altar, tienda, fuente, ...)
+tile trap col - color de trampas conocidas de cualquier tipo
+tile water col - color de aguas poco profundas
+tile deep water col - color de agua profunda
+tile lava col - color de lava
+tile excluded col - color de cuadrados excluidos para autotravel
+(sólo anulará el color tile floor col)
+tile excl centre col - color del centro de exclusión (overrides
+tile floor col y tile item col, only)
+tile window col - color de la ventana de vista rectangular
+
+custom text colours = lightmagenta:#fd59fa, blue:#005afa
+Remaps cualquiera de los 16 colores finales básicos utilizados por la interfaz de Crawl,
+especificado como pares de nombres de color y códigos de hex RGB. Cualquier color no
+incluido en la lista utilizará sus valores predeterminados.
+
+tile update rate = 1000
+El número de milisegundos que se marcan antes de la pantalla es rojizo
+sin ninguna entrada. Si la respuesta del juego es lenta, trate de aumentar esto
+Número. Si, por otro lado, el tiempo de respuesta está bien, pero también se necesita
+anhelo para que ocurran redecoraciones, establecerlo a un valor inferior.
+
+tile runrest rate = 17
+El número de milisegundos que se marcan antes de la pantalla es rojizo
+cuando corres o descansas. Si Crawl es lento mientras corre o descansa,
+aumentar este número.
+
+tile key repeat delay = 200
+Si sostienes una llave, hay un retraso hasta que la llave presionada
+tomen medidas. Esta opción controla este retraso, en milisegundos. Si
+está fijado a 0 prensas clave nunca repetirá.
+
+tile tooltip ms = 500
+El número de milisegundos antes de que aparezca un puntal de herramientas cuando se mueve
+ratón sobre parte de la pantalla. Configurar esta opción a 0 will
+desactivar completamente las herramientas.
+
+tile tag pref = (ninguno llamado "Enemigo eterno" tutorial )
+Este ajuste determina qué monstruos reciben una etiqueta de texto en el local
+vista de mazmorras.
+auto - elige dependiendo del modo de juego
+ninguno - apaga todas las etiquetas
+todos - muestra etiquetas para todos los enemigos
+nombrado - muestra nombres de todos los monstruos nombrados, aliados o enemigos
+enemigo - muestra nombres de monstruos enemigos nombrados
+tutorial - muestra nombres de todos los monstruos que aún no han matado este juego
+y de monstruos enemigos nombrados
+Ejemplos de "monstruos llamados" son únicos y fantasmas. En modo automático,
+los juegos regulares utilizan "enemy", el modo arena utiliza "nombre", y tutorial/hijas
+Los modos utilizan "tutorial".
+
+tile window width = -90
+tile window height = -90
+Opciones para fijar el ancho y la altura de la ventana, en píxeles. Cuando
+positivo, estos establecen el tamaño de la ventana directamente. Cuando se establece a 0, la ventana
+es auto tamaño. Cuando se establece en un número negativo, estos valores serán
+interpretado como la resolución de la pantalla menos el valor dado. El ancho
+puede ser superado por `tile window ratio`, abajo, en cuyo caso
+`tile window width` se utiliza como un ancho máximo. En una ventana
+administradores, la posición de los elementos de interfaz de usuario de OS puede hacer cumplir
+valores más pequeños para estos. Por ejemplo, en MacOS la ventana no
+solapa con el muelle o la barra de menús.
+
+tile window ratio = 1618
+Cuando se establece en un valor positivo, las fichas utilizarán este valor para determinar
+el ancho de la ventana como una relación de la altura de la ventana, escalada por 1000. In
+particular: w = h * tile window ratio / 1000.
+Si este valor se establece, `tile window width` se utiliza como un ancho máximo.
+El ancho mínimo está determinado por el diseño UI. Este valor se ignora en
+modo de pantalla completa. Se establece en un valor 0 para desactivar.
+
+tile window limit size = true
+Limita el tamaño mínimo de la ventana. Sólo debe ser deshabilitado para las pruebas
+propósitos.
+
+game scale = 1
+Un valor de escala entero entre 1 y 8 que aumentará el tamaño de
+todos los elementos de la UI. Esto se puede utilizar para simular el renderizado de alta presión en
+pantallas de alta resolución que no soportan directamente alta-dpi, o ajustar
+escalada para pantallas muy grandes. Para una pantalla de 4k, recomendamos un valor
+de 3 o 4, y una pantalla de 2k se verá normalmente mejor con un valor de 2.
+Sólo baldosas locales.
+
+tile map pixels = 0
+El número máximo de píxeles cada minimap cuadrado debe asumir. Si tú
+tener una resolución baja, y sentir que el inventario es demasiado pequeño, usted
+puede intentar configurar esto a 1 para obtener más espacio para el inventario. El
+abajo es que viajar haciendo clic en el minimap se convierte mucho
+más fuerte. Si se establece a cero, se auto-dimensionará el minimap.
+
+tile viewport scale = 1.0
+Un factor de escala para aplicar a la vista de mazmorra. El valor mínimo es 0,2
+y el valor máximo se determina por resolución; el zoom se cubrirá
+para que al mínimo, su línea de vista sea siempre visible. Esto puede
+también se ajustan en el juego en azulejos locales con ctrl-'- y ctrl-'='
+(o ctrl-'+' en algunos teclados).
+
+tile map scale = 0,6
+Un factor de escala para aplicar a la vista de mazmorra en modo de mapa (X). Esto puede
+también se ajustan en modo de mapa en azulejos con '{' y '}, así como en
+azulejos locales con ctrl-'-' y ctrl-'=' (o ctrl-'+' en algunos teclados).
+
+tile cell pixels = 32
+El ancho y la altura de las baldosas en la vista de la mazmorra a 1.0 escala, en
+(lógica) píxeles. Esta es una opción heredada, y se recomienda
+ajusta el escalado a través de tile viewport scale en su lugar.
+
+tile min stat width characters = 42
+Ancho mínimo de la barra lateral de estadísticas en caracteres.
+
+tile sidebar pixels = 32
+El ancho y la altura de las baldosas en la vista lateral de las baldosas locales,
+en píxeles (lógicos).
+
+tile filter scaling = false
+Usado en conjunto con tile cell pixels o tile sidebar pixels.
+Ajuste a los filtros verdaderos las texturas que resultan en un más suave pero
+imagen borrosa.
+
+tile force overlay = false
+Establecer esta opción a la verdad obligará a la ventana del mensaje a aparecer como
+una superposición en la parte superior de la pantalla. Si utiliza esta opción, haga su
+tile font msg size más pequeño hará que el overlay más pequeño mientras retiene
+el mismo número de líneas. Aumente la opción view max height si usted
+encuéntrate con propiedades de pantalla no utilizadas.
+
+tile overlay col = #646464
+Color de fondo de la ventana del mensaje, como cuando
+Tile force overlay es cierto. Usado en conjunción con
+Tile overlay alpha percent.
+
+tile overlay alpha percent = 40
+Valor de transparencia para la ventana de mensajes de fondo superpuesto, como cuando
+Tile force overlay es cierto. Configurar esta opción a 0 causará
+la ventana del mensaje para sólo mostrar texto sin ningún fondo. Y
+establecer esta opción a 100 obligará un fondo opaco a
+ventana del mensaje.
+
+tile full screen = auto
+Establecer esta opción a verdadero o falso obligará el modo de pantalla completa para ser
+encendido o apagado. Ponerlo a cualquier otra cosa lo pondrá en modo automático, que
+permite el modo de pantalla completa sólo si la resolución de la pantalla es más pequeña que
+ancho 1200, o altura 800.
+
+tile use small layout = auto
+Diseño alternativo diseñado para pantallas estrechas. Si es auto, será
+habilitado cuando el espacio horizontal disponible no es suficiente para mostrar el
+diseño normal de una manera cómoda.
+
+tile font crt file = VeraMono.ttf
+tile font stat file = VeraMono.tf
+tile font msg file = VeraMono.ttf
+tile font tip file = VeraMono.tf
+tile font lbl file = Vera.tf
+Fuentes utilizadas en varias secciones de la pantalla para azulejos locales. Para
+WebTiles usan tile font * familia en su lugar. Si quieres usar otro
+font, you'll have to place the corresponding *.tf file into the
+dat/tiles/ carpeta.
+Las regiones de pantalla son las siguientes:
+crt - pantallas no-mapa (menús, historia del mensaje, etc.)
+stat - área de puestos (puntos de identificación, AC, etc.)
+msg - área del mensaje
+punta - puntas de herramientas (información adicional)
+lbl - los nombres de los artículos/monstruos en el mapa de inventario/principal
+
+tile font crt family = monospace
+tile font stat family = monospace
+tile font msg family = monospace
+tile font lbl family = monospace
+Fuentes utilizadas en varias secciones de la pantalla para WebTiles. Para el local
+Los azulejos usan tile font * file en su lugar.
+
+tile font crt size = 15
+tile font stat size = 16
+tile font msg size = 14
+tile font tip size = 15
+tile font lbl size = 14
+Tamaño de la fuente para las regiones de pantalla enumeradas anteriormente. Si se establece a cero (por defecto),
+El tamaño se basará en el tamaño de la pantalla.
+
+tile font ft light = false
+Selecciona "light" fuente de insinuación.
+
+glyph mode font = DejaVu Sans Mono
+Fuente usada para renderizar la mazmorra en modo glifo para WebTiles. Si se establece
+monoespacio o la fuente no está disponible, el monoespacial predeterminado del navegador
+font will be used. El "DéVu Sans Mono" predeterminado está disponible como
+webfont (y es el mismo que se utiliza en la versión de escritorio). Esta opción
+sólo está disponible en WebTiles.
+
+glyph mode font size = 24
+Tamaño de la fuente (en puntos) para la vista de la mazmorra en modo glifo para WebTiles.
+Esta opción solo está disponible en WebTiles.
+
+tile show minihealthbar = verdadero
+tile show minimagicbar = true
+Mostrará bares de salud y magia en la parte superior de la baldosa del jugador cuando la
+El jugador se lastima o gasta magia.
+
+tile show demon tier = false
+Will superpone las fichas de demonio con un icono destinado a representar sus
+tier (o rango de dificultad) entre demonios, reflejando el glifo
+(Consejo, 1, 2, 3, 4, 5) utilizado en construcciones no-Tiles.
+
+tile water anim = true
+Si está deshabilitado, se suprimirá la animación de líquidos.
+Defaults to false on WebTiles.
+
+tile misc anim = true
+Si está deshabilitado, animación de cosas diversas como altares y
+Las antorchas serán suprimidas.
+
+tile realtime anim = false
+Si está habilitado, las animaciones de azulejos se ejecutarán en tiempo real y no serán atadas
+a acciones de jugador.
+Esta opción solo está disponible en WebTiles.
+
+tile show player species = false
+Si está habilitado, muestra al jugador usando el azulejo de monstruo para su especie,
+en lugar de usar la muñeca normal y mostrar el equipo.
+
+tile show threat levels = desagradable, inusual
+Esta opción controla cuáles monstruos serán destacados con sus
+nivel de amenaza. Los niveles válidos incluyen: trivial, fácil, duro, desagradable,
+inusual. Puede especificar múltiples niveles a la vez, o 'ninguno'.
+
+Cuando se especifique 'normal', la opción inusual monster items será
+determinar qué elementos hacen que un monstruo para resaltar como inusual.
+
+tile player status icons = lento, constr
+Esta opción construye qué iconos se mostrarán en la parte superior de la
+ficha del jugador cuando están afectados por ciertos efectos de estado.
+Los valores válidos incluyen: lento, frágil, petr, mark, will/2, haste, weak,
+Corr, podría, Brill, Move.
+
+tile layout prioridad = minimap, inventario, comando, hechizo, monstruo
+(opción de lista ordenada)
+Esta opción le permite controlar el orden en el que los elementos son
+colocado a la derecha de la pantalla, debajo del área de estatura. En pequeño
+resolución, no habrá suficiente espacio para todo, así que sólo la
+se colocarán los primeros artículos. También puede eliminar los elementos que no desea
+para ser exhibido permanentemente. La ficha de inventario siempre se colocará en
+el fondo pero se inicializa a un tamaño mínimo (4 líneas). Si pones un
+ficha antes que en la línea de opción, la pestaña se colocará por encima de ella,
+pero tendrá prioridad sobre ella para que el inventario no pueda
+ampliar a su tamaño máximo (6 líneas). El minimap siempre se coloca
+entre el área de puestos y las pestañas. Las pestañas de memorización y habilidad pueden
+ser añadido a la lista también, pero no por defecto. Las posibles opciones
+son: habilidades, comandos, inventario, memorización, minimap, monstruos,
+navegación, habilidades, hechizos, comandos del sistema
+
+tile display mode = (tiles TENIDO Glyphs TEN híbrido)
+Controla cómo se hace la mazmorra. Usted puede utilizar azulejos normales (por defecto)
+o hacer que parezca la versión de la consola usando glifos. híbrido
+superpone los iconos en la parte superior de la vista glifosa y utiliza un aspecto de azulejo cuadrado
+ratio.
+
+Esta opción sólo está disponible en los azulejos locales y en los webtiles.
+
+tile level map hide messages = true
+tile level map hide sidebar = false
+Controla qué elementos de pantalla se ocultan al usar el mapa de nivel.
+Estas opciones solo están disponibles en WebTiles.
+
+tile player tile = (normal  durable playermons ← mons: identificadomonster confianza ¦ tile: obtenidosmonster-tile título)
+Si se establece a los jugadores, muestra al jugador usando la ficha monstruosa para
+su especie, en lugar de usar la muñeca normal.
+
+Si se establece en un valor de la forma mons:
+nombre de un monstruo, utilizar el azulejo base de
+Azulejos. Por ejemplo, un valor de mons:ijyb hará que el azulejo de Ijyb sea
+usado. Cualquier espacio en el nombre del monstruo debe ser incluido. Por ejemplo:
+un valor de mons: la jalea real es válida.
+
+Si se establece en un valor de la ficha de la forma: seleccionaplayer-tile instrucciones en donde se hace
+el nombre de una baldosa en la ficha del jugador, utilizar esta ficha como
+jugador azul. Esta forma es más útil para usar fichas de variante específicas
+de monstruo con múltiples azulejos, como la hidra y grandes abominaciones,
+o fichas especiales como el Monstruo de Cigotuvi o transformaciones de jugador que
+No tienes su propio monstruo base. El nombre de la baldosa debe ser el nombre completo,
+Por ejemplo, mons slymdra 7. Por ejemplo, para usar la baldosa de hidra con muchas cabezas,
+use un valor de baldosas:mons slymdra 7. Los nombres de las baldosas se pueden encontrar en
+fuente de la carpeta del árbol fuente/rltiles en los archivos dc-mon.txt,
+dc-demon.txt, y dc-player.txt. En estos archivos, el nombre de la ficha está en
+la segunda palabra en cada entrada después del nombre de archivo de la imagen, y
+caso es ignorado por coincidencia. Los nombres de azulejos Monster son generalmente de
+forma mons  verificamonster-nombre de propiedad, pero otras fichas como transformaciones son
+llamado diferente, por ejemplo tran tree para el azulejo de transformación del árbol.
+
+tile  weapons offsets = (Seguido, escritoy confidencial  permanente reset)
+tile shield offsets = (Seguido de instrucciones, instruccionesy confianza ¦
+Al utilizar un azulejo personalizado con tile player tile, esta opción establece el
+pixel x (horizontal) y y (vertical) offsets para la ubicación donde
+el arma o el escudo se dibujará en la baldosa. Las compensaciones x y y
+debe ser entero entre -32 y 32, incluyendo. Valores negativos x
+ajustar a la izquierda, y los valores Negativos y se ajustarán. En 0,0, el arma
+se dibuja en el lado izquierdo de la baldosa, y en 0,0 el escudo se dibuja
+en el lado derecho. Un arma x offset de 10 a 20 (dependiendo de
+azulejos) junto con un escudo x offset de -10 a -20 por lo tanto puede ser
+usó para cambiar lugares de arma y escudo.
+
+Usando el valor "reset" eliminará cualquier compensación definida anteriormente, que
+es útil para los cambios de azulejos en el juego a través de lua.
+
+tile grinch = false
+Cuando se establece, deshabilita las fichas de vacaciones personalizadas (por ejemplo, sombreros de Santa).
+
+tile web mouse control = verdadero
+Ya sea para permitir el control del ratón para la interacción de herramientas/cursor
+WebTiles. Independientemente del valor del ajuste, el minimap
+responder al control del ratón.
+
+tile web mobile input helper = auto
+Esta opción controla un campo de entrada auxiliar opcional en el WebTiles
+interfaz que se puede enfocar para habilitar el teclado virtual en móvil
+dispositivos. Cuando se establece a verdadero o falso, el campo está habilitado manualmente o
+discapacitados. Cuando se establece para auto, el campo sólo se muestra en dispositivos con
+una pantalla táctil.
+
+4- Bomba de caracteres.
+==========================
+
+4-a Salvación.
+---------------
+
+dump on save = verdadero
+Si se establece a la verdad, se creará un vertedero de caracteres automáticamente o
+actualizado cuando se guarda el juego.
+
+4-b artículos y asesinatos.
+------
+
+Los archivos de volcado o morgue de carácter terminan con una lista de todos los monstruos que
+pereció mientras el personaje estaba activo. Por defecto, los monstruos muertos son
+agrupado en tres partes:
+Criaturas vencidas -- monstruos asesinados por el personaje
+Matas colaterales... mata a monstruos amistosos
+Otros -- todas las demás víctimas (por ejemplo, trampas, hostiles
+monstruos)
+
+matar map = amigo: tú, otro:
+se fusionará amistoso y otros asesinatos en la principal derrota
+lista de criaturas. Tenga en cuenta que la fusión es sólo para la visualización (el
+juego todavía mantiene tres listas separadas internamente) y que
+matar lugares (ver abajo) puede estar en el orden equivocado para fusionarse
+entradas. El defecto es una lista vacía.
+
+dump kill places = (none ← all Silencio single)
+En la lista de criaturas vencidas, esta opción controla cómo la
+localizaciones de cada asesinato se muestran. Use 'none' para suprimir
+Mostrar todo, 'todo' para mostrar todo lo conocido (hasta 5)
+matar lugares, y 'single' usar el predeterminado de mostrar matar
+lugares sólo para asesinatos individuales.
+
+dump item origins = artefactos
+El juego recuerda dónde se encuentran los elementos. Si quieres este artículo
+memoria de origen lista en sus vertederos, utilice esta opción para seleccionar
+qué artículos se anotan. Los selectores disponibles son:
+artefactos, ego arm, ego weap, joyería, runas,
+los puestos, los libros, todos, ninguno.
+Si utiliza múltiples líneas dump item origins, la última línea toma
+efecto; se ignoran todas las líneas anteriores.
+
+Si no quieres que ningún artículo sea anotado, listo
+dump item origins to none, and set dump item origin price to -1.
+
+dump item origin price = 1
+Los orígenes del artículo se vertieron si el precio del artículo es mayor que el
+o igual a esta cantidad. Establecer esto a -1 para evitar la selección por
+precio.
+
+dump message count = 20
+El número de mensajes pasados a mostrar en el vertedero de caracteres
+archivos.
+
+dump order = header,hiscore,stats,misc,apostles,inventory,skills,spells,
+dump order += panorama,mutaciones,mensajes, screenshot,monlist,kills,
+dump order += notas, screenshots,vaults,skill gains,action counts
+(opción de lista ordenada)
+Controla el orden de las secciones en el vertedero.
+
+Dos secciones de dump opcionales son "turns by place" y
+"kills by place", que añaden estadísticas detalladas a dónde gira
+fueron gastados y mataron a monstruos. Puedes añadirlos a tu
+como:
+dump order += turn by place, kills by place
+
+La sección "turns by place" está habilitada por defecto
+en la construcción de troncos de Crawl (no liberas o betas de liberación previa),
+apareciendo al final del vertedero.
+
+Para hacer tu chardump más alto, puedes añadir
+dump order += -
+colocar un separador entre secciones.
+
+También puede agregar sus propias secciones escribiendo una función Lua y
+añadir su nombre a la lista. El valor de retorno de la función entonces
+Que te den. Puede hacer referencia a variables globales como Lua regular
+funciones, pero su nombre debe estar en minúscula, y sin argumentos de llamada
+se proporcionará.
+
+Ejemplo:
+{}
+myRace = you.race()
+función mydumpfn()
+Regreso
+"Esto será impreso para tirar. Tu especie es mi Raza
+final
+}
+dump order += mydumpfn
+
+
+4-c Notas.
+----------------
+
+Crawl puede registrar automáticamente ciertos eventos durante el juego. Puedes leer
+estos en los archivos de basura o morgue. A continuación se presentan las opciones para ajustar esto
+comportamiento.
+Los siguientes eventos se han identificado:
+- Ganar o perder un nivel
+- Entrando en un nivel de mazmorras por primera vez
+- Memorizar un hechizo de mayor nivel que cualquier aprendido antes
+- Ser adorador de un dios
+- Abandonar a un dios
+- Ser puesto bajo penitencia y ser perdonado
+- Recibir un regalo de un dios (excepto Xom)
+- Muerte de un aliado orcish (cuando adoraba Beogh)
+- Ser capaz de invocar un poder divino por primera vez
+- Recoger una runa, el Orbe de Zot, o un artefacto por primera vez.
+- Identificando objetos.
+- Matar OOD o monstruos únicos (ver abajo)
+- Alcanzar niveles críticos de HP (ver más abajo)
+- Obtención o pérdida de mutaciones
+- Alcanzar niveles significativos en una habilidad (ver abajo)
+- Dying
+Puede utilizar el comando ':' para agregar notas manualmente.
+
+user note prefix =
+Prefijos añadidos manualmente notas con la cadena dada, para hacer
+más fácil de encontrar. Actualmente no es posible añadir un
+espacio al final de esta o cualquier opción, pero puede utilizar el
+Unicode non-breaking space character ' ' en cambio.
+
+note items += iereregex título, iereregex título, ...
+(opción de registro)
+Cuando un artículo se identifique por primera vez, será
+notó si su descripción corta coincide con un regex. Por ejemplo.
+note items += book,acquirement
+Artefactos (fijo, unrand, o aleatorio) siempre serán notados cuando
+identificado, independientemente de note items.
+
+La descripción coincide con los mismos prefijos que las notas
+para la opción menu colour (por ejemplo, "emergency item").
+
+note monsters += iereregex título, iereregex título, ...
+(opción de registro)
+Monstruos cuyo nombre coincide con un artículo en esta lista separada por coma
+se consideran interesantes. Usted puede tener múltiples note monsters
+líneas. Por ejemplo.
+note monsters += Klown,orb of fire
+
+note hp percent = 5
+Si su HP cae debajo de una cierta nota hp percentaje de su máx.
+puntos de éxito, se tomará una nota. Hay algún código para evitar
+repeticiones de notas basadas en el mismo incidente.
+
+note skill levels = 1,5,10,15,27
+Esto establece que los niveles de habilidad son notables. Es una sola línea,
+aunque puede utilizar += como continuación.
+
+note all skill levels = false
+Este es un atajo para note skill levels = 1,2,..,27. Si te fijas
+esto a la verdad, todos los niveles de habilidad se consideran dignos de mención.
+
+note skill max = true
+Establecer esta opción causará una nota cada vez que un nuevo máximo en
+nivel de habilidad se alcanza. Si note skill max es verdad y
+note skill levels is nonempty, notes will be taken every
+cualquiera de los criterios se cumplen.
+
+note xom effects = true
+Esto añadirá una nota cuando Xom haga algo.
+
+note messages += iereregex título, iereregex confianza, ...
+(opción de registro)
+Los mensajes que coinciden con un artículo en esta lista separada por coma son
+considerado interesante. Usted puede tener múltiples notas mensajes
+líneas. Por ejemplo.
+note messages += Algo interfiere
+note messages += le protege del daño
+Si quieres todos los destierros al Abismo señalado, usa
+note messages += [bB]anish. *Abyss
+Si deseas una nota cuando tus escalas draconianas giren
+note messages += Sus escalas comienzan
+
+note chat messages = false
+Si se establece en falso, esto deshabilitará el registro de chat de WebTiles
+mensajes de otros jugadores. (Esta configuración sólo se aplica en
+servidores en línea).
+
+note dgl messages = true
+Si se establece en falso, esto deshabilitará el registro de mensajes DGL
+enviado por otros jugadores. (Esta configuración sólo se aplica en línea
+servidores).
+
+
+5- Varios.
+=========================
+
+5-a Todo el sistema operativo.
+---------------
+
+mouse input = false
+Cuando está habilitado, la opción mouse input permite que el juego use
+eventos de entrada de ratón en ciertas plataformas (Windows y Unix).
+Tenga en cuenta que el alcance del soporte del ratón varía enormemente
+plataformas y está fuertemente influenciada por la configuración de su terminal.
+
+En Unixes, sólo es probable que consiga apoyo del ratón trabajando con
+ncurses en xterms (específicamente su $TERM probablemente necesita
+contener "xterm" para los ncurses para activar sus eventos del ratón;
+si estás corriendo Crawl en la pantalla GNU en un xterm, el ratón
+probablemente no funcionará).
+
+En Windows, necesitará desactivar el modo QuickEdit en su
+consola para Crawl para usar el ratón (QuickEdit está deshabilitado por
+Por defecto, no deberías cambiar nada si eres
+usando una consola de stock). Puede deshabilitar QuickEdit por
+haciendo clic derecho en la barra de título de su comando-prompt, seleccionando
+Propiedades y desactivar QuickEdit en la pestaña Opciones.
+
+wiz mode = (no tención nunca Silencio sí)
+Opciones de modo mago (disponible solamente en compilaciones WIZARD):
+sí -- iniciar juegos en modo mago (el juego no será marcado)
+no -- todavía permite que el jugador introduzca el modo mago después de comenzar
+del juego
+nunca -- nunca permitir que un comando mago sea utilizado
+
+explore mode = (no Silencio nunca Silencio sí)
+Explore las opciones de modo (disponible sólo en las compilaciones WIZARD):
+sí -- iniciar juegos en modo de explorar (el juego no será marcado)
+no -- todavía permite al jugador entrar en modo de explorar después de comenzar
+del juego
+nunca -- nunca permitir que el modo de explorar sea introducido
+
+char set = (default tención ascii)
+Elija diferentes conjuntos de caracteres pre-set para la pantalla de juego.
+A diferencia de versiones anteriores de Crawl, esto no selecciona el I/ O
+codificando más.
+
+También puede incluir ibm glyphs.txt, dec glyphs.txt, o old unicode 
+glyphs.txt para traer algunos conjuntos de caracteres antiguos que son
+Ya no está incorporado.
+
+Tiene un efecto insignificante en la construcción de Azulejos.
+
+color.OLDCOLOUR = NEWCOLOUR
+Útil para terminales donde algunos colores son difíciles de leer (y
+no se puede ajustar), así como para crear un esquema personalizado,
+especialmente cuando se utiliza con la opción de fondo en un terminal
+con un fondo no negro.
+Formato es color.OLDCOLOUR = NEWCOLOUR, reglas posteriores toman
+la precedencia y el NUEVO CORAZÓN siempre es literal (es decir, no
+re-evaluar a otro color).
+Los colores son:
+negro, azul, verde, cian, rojo, magenta, marrón, ligero,
+oscuro, azul claro, verde claro, ligero, iluminado,
+lightmagenta, amarillo, blanco
+con luminosidad = gris claro, oscuro = oscuro. Algunos ejemplos:
+color claro = negro
+color.lightcyan = cyan
+color amarillo = marrón
+
+display char = Гdungeon character name : symbol
+también se permite una lista de estos.
+
+Las posibles entradas para dungeon character name son: pared, permawall,
+wall magic, floor, floor magic, door open, door closed, trap,
+escaleras down, escaleras up, grata, altar, arco, fuente, onda, estatua,
+invis exposed, item detected, item orb, item rune, item nuclear,
+item armour, item wand, item scroll, item ring, item potion,
+item missile, item book, item staff, item rod, item miscellany,
+elemento corpse, item skeleton, item gold, item gem, item amulet, cloud,
+cloud weak, cloud fading, cloud terminal, árbol, transportador,
+transportr landing, espacio, fired bolt, fired zap, fired burst,
+fired debug, fired missile, fired missile, explosion, frame horiz,
+frame vert, frame top left, frame top right, frame bottom left,
+frame bottom right, draw horiz, draw vert, draw slash,
+draw backslash, draw top left, draw top right, draw bottom left,
+draw bottom right, draw down, draw up, draw right, draw left
+
+La mayoría de ellos son autoexplicativos. "arch" se utiliza para tiendas y
+portales. "floor magic" y "wall magic" se utilizan para mostrar la magia
+cuadrados en el mapa de nivel. "invis exposed" es el personaje del agua
+criaturas sumergidas en aguas poco profundas, o criaturas invisibles que caen en
+Agua poco profunda. "vaba" es agua y lava. "cloud", "cloud weak",
+"cloud fading", y "cloud terminal" distinguen las nubes por permanecer
+duración, lista de la caducidad más cercana a la caducidad; tipos de nubes
+no revelar visualmente su duración restante siempre utilizar el "cloud"
+Glyph.
+
+Las signaturas se pueden especificar utilizando una carta, o por su ASCII/Unicode
+código: un número decimal o un hexadecimal (prefijado con x).
+
+función += יregex confianza { <symbol título, יmagicmap symbol título, יview colour propiedad,
+■levelmap magic colour título, <levelmap seen colour confianza,
+■emphasised colour confianza, יlevelmap emphasised colour confidencial } ;
+- No.
+función -= <regex título , <regex
+(opción similar a la lista)
+donde se hace una expresión regular describiendo una mazmorra
+función. Este regex debe coincidir con la descripción al utilizar el
+"x". En caso de que el regex coincida con varias descripciones, todas
+tales características se ven afectadas. El conjunto de posibles características en un
+dada la versión de gateo se puede encontrar en busca de `.*
+menú de características de búsqueda (`?/f`).
+
+La lista en {...} especifica la apariencia de la mazmorra
+caracter(s), y debe ser autoexplicativo. se puede utilizar
+para anular las opciones de display char anteriores, o también para distinguir
+entre subtipos de carácter.
+
+'magic' se refiere a la cartografía mágica. Así que el símbolo del mapa magnético
+entrada determina qué símbolo se utilizará para características
+detectado mediante cartografía mágica. También se utilizará el símbolo de mapas magnéticos
+para escaleras de piedra con destino desconocido y transportadores no vistos.
+
+'emphasised colour' se refiere al color utilizado para destacar las escaleras de piedra
+y transportistas con destino desconocido; para características no esenciales,
+fijar colores de énfasis no hace nada útil.
+
+Los parámetros principales de la lista {...} pueden omitirse dejando
+ellos en blanco y el uso de las comas de los propietarios. Parámetros de rastreo
+ser omitido sin comas de titular.
+
+Se pueden utilizar múltiples líneas de opción de características, como pueden ser múltiples
+descripciones de características strung juntos en la misma línea separada
+por semilón.
+
+Las anulaciones de las características se pueden limpiar usando -=, proporcionando un regex solamente
+(y no una apariencia). Esto restaurará todas las características
+Las descripciones coinciden con el regex a sus apariencias predeterminadas.
+
+Ejemplos:
+* Color paredes de roca rojas:
+característica += pared de roca { , , rojo }
+* Uso # para paredes metálicas en todos los conjuntos de caracteres:
+función += pared de metal {#}
+* Color de arriba verde y abajo rojo:
+característica += escalera de piedra que conduce {,,,,, verde}
+característica += escalera de piedra que conduce {,,,,,red}
+
+Los símbolos se pueden especificar como con display char:
+función += pared de metal {#}
+característica += pared metálica {35}
+característica += pared metálica {x23}
+Todos hacen lo mismo.
+
+mon glyph += 0 Nombre de pilar o símbolo de confianza : ( indicativocolour conveniente יglyph confianza √Īo = nombre de pila) ,
+Nombre o símbolo del ratón:
+mon glyph -=
+(opción de registro)
+La opción mon glyph permite personalizar el símbolo y
+color utilizado para mostrar un monstruo. La lista completa de glifos predeterminados
+se puede encontrar con más confianza mirando el código fuente (mon-data.h),
+pero la información de glifo se puede comprobar en el menú del monstruo de búsqueda
+(`?/m`), como puede la lista de monstruos.
+
+Puedes personalizar símbolos basados en nombres de monstruos o sus
+símbolos existentes. Por ejemplo, si quieres poner elfos en E
+y elementales en e, usted puede hacer esto:
+
+mon glyph += e : E
+mon glyph += E : e
+
+Puede especificar un símbolo diferente, o un color, o ambos, en cualquier
+Orden. Aquí hay más ejemplos:
+
+mon glyph += profundo elf anihilator : E lightmagenta
+mon glyph += Xtahua : lightmagenta D
+mon glyph += ghoul : darkgrey
+mon glyph += cognitogaunt : x
+
+(El lado izquierdo del : es sensible al caso.)
+
+También puede especificar otro monstruo, para que copias la base
+símbolo y color de ese monstruo (esto no es transitivo). Para
+ejemplo, si usted piensa que los colores del guerrero santo son hacia atrás:
+
+mon glyph += daeva : ángel
+mon glyph += angel : daeva
+
+Puede especificar símbolos usando sus puntos de código usando la sintaxis
+como se muestra en la opción "comida". También puede utilizar código Unicode
+puntos:
+
+mon glyph += draconian scorcher : x6e9
+
+Un solo   es tratado como un espacio; si quieres un real subrayado,
+poner un \ en frente de él como este:
+
+mon glyph += jugador fantasma : \ 
+
+También puede redefinir varios monstruos "pseudo", siendo:
+
+jugador
+monstruo sentido
+{trivial,fácil,aunque,nasty,friendly} monstruo sentido
+
+Especies jugables que normalmente no tienen ningún monstruo del mismo nombre puede
+también se redefine, para su uso con show player species = verdadero.
+
+Monster glyph overrides se puede limpiar usando -=, que restaura
+el monstruo llamado (o todos los monstruos del glifo dado) a su defecto
+apariencia. Especifique sólo el nombre de monstruo o glifo para -=, no el
+Retirada.
+
+item glyph
+item glyph -=
+(opción de lista ordenada)
+Personaliza el símbolo y/o el color de todos los artículos que coincidan con el regexp.
+A diferencia de mon glyph, esto es una coincidencia de nombre parcial.
+
+Los elementos son prefijados por etiquetas, tanto de rastreo de basura como de
+para colorear menú. Así, puedes colorear {artefact} o inútil item.
+
+Múltiples reglas pueden modificar un solo elemento, que es útil si quieres
+para cambiar el color y el glifo por separado:
+item glyph += dart : x2191
+item glyph += curare.*dart : rojo
+
+Las reglas se aplican en orden, por lo que las reglas posteriores son más prioritarias.
+
+Eliminar una regla con -= elimina todas las reglas usando el registro exacto
+no especificar un color o glifo en ese caso.
+
+use fake player cursor = true
+Hace que la vista principal resaltar el jugador sin utilizar el
+terminal cursor. Esto significa que no se flicker cuando el cursor
+se apaga para moverse a otro lugar para dibujar, y permite
+apagar el cursor por defecto. No tiene efecto en la construcción de Azulejos.
+
+show player species = false
+Muestra su carácter como miembro de su especie. Por ejemplo, si
+eres un Hill Orc, se te mostrará como un 'o' en lugar de '@'. Has
+sin efecto en los azulejos.
+
+use modifier prefix keys = true
+Cuando es cierto, '*' se comporta como un keypress CTRL, y '/' como SHIFT.
+
+idioma = código de idioma de dos letras
+Muestra algún texto en el idioma dado. No todo el texto en Dungeon Crawl
+tiene traducciones en cada idioma compatible, pero traductores voluntarios
+han ofrecido traducciones de texto particularmente de palabras tales como dios y
+descripciones de monstruos. Texto sin traducción conocida se mostrará
+en inglés. Algunos idiomas pueden requerir cambiar la fuente.
+
+Códigos de idiomas parcialmente compatibles:
+cs: checo
+da: danés
+de: alemán
+el: Griego
+es: español
+fi: finlandés
+fr: francés
+húngaro
+it: Italian
+Japonés
+ko: coreano
+lt: Lithuanian
+lv: Letonia
+nl: Dutch
+pl: polaco
+pt: Portugués
+Ruso: ruso
+sv: Swedish
+zh: chino
+
+fake lang = > > >
+Establecer uno o más idiomas falsos, aplicados en el orden proporcionado (orden)
+importa!) El mismo idioma se puede establecer más de una vez, aunque sea
+puede no terminar teniendo mucho sentido... A la mayoría de 3 langs falsos se pueden establecer en
+una vez.
+
+Las opciones son: (dwarven WordPressjagerkin sometidakraut soportarunes impertinewide sometidagrunt WordPressbutt: interpretadon contactos)
+Experimenta para descubrir lo que hacen!
+
+mensajería = verdadero
+Si se establece en verdad, esto le permite recibir mensajes DGL enviados
+por otros jugadores. (Esta configuración sólo se aplica en los servidores en línea).
+
+read persist options = false
+Cuando se establece a la verdad, el juego leerá opciones adicionales de
+la variable lua c persist.options si contiene una cadena.
+Esta opción no tiene efecto a menos que se utilice explícitamente en scripting.
+Esta opción es persistente para que el valor actual que se establece en
+el menú de habilidad se guarda a través de juegos y automáticamente se recarga,
+a menos que se establezca explícitamente.
+
+5-b Windows.
+------
+
+dos use background intensity = false
+En Windows, si está usando una consola que puede hacer alta intensidad
+colores de fondo, establecer esta opción a la verdad para superior
+amigo-altapiz. Si a tu consola no le gusta esta opción,
+algunos monstruos amistosos aparecerán como personajes parpadeantes (y
+establecer esta opción a falso puede ser recomendable para preservar su
+sanidad en tales casos).
+
+5-c Unix.
+-----------
+permit extended colours = true
+Intento utilizar más que los ocho colores básicos de la terminal para los rastreadores
+colores brillantes. La mayoría de los terminales modernos deben utilizar este entorno. Si
+exitoso, esto pone consola en modo 16-color.
+
+Si esta opción está habilitada y hay suficientes colores disponibles en
+la terminal, utilice la paleta de colores extendida de la terminal directamente para
+colores internos.
+
+Se debe establecer una variable adecuada de entorno TERM para esta opción a
+función como esperada para terminales capaces. Por ejemplo:
+* XTerm, MacOS Terminal, o iTermino: xterm-256color
+* gnome-terminal: vte-256color
+* PuTTY: putty-256color
+(configurado en 'Connection- ConfData-Concordinal')
+
+Si estas condiciones no se cumplen, los rastreadores caerán de nuevo al modo 8-color
+y utilizar atributos de carácter para renderizar colores brillantes, con azul oscuro
+como un color "falback" para hacer gris oscuro en negro. En 8 colores
+modo, una de las siguientes opciones puede ser mejor.
+
+bold brightens foreground = false
+Para el modo 8-color, asuma que un atributo de texto audaz terminará
+brillando el color del primer plano. If set to `force` instead of `true`,
+los colores brillantes serán atrevidos incluso en modo de 16 colores. De lo contrario,
+esta opción se ignora cuando se ejecuta en modo de 16 colores a través de
+permit extended colours.
+
+Si está habilitado en 8 modos de color en un terminal donde la suposición que audaz
+cambios el color no sostiene, esto dará lugar a glifos invisibles
+para combos de color normal/de color derecho del mismo color base. Por ejemplo,
+en la pantalla de mazmorras, si los cuadrados que están fuera de línea de visión aparecen
+negro, no deberías poner esto en "verdad".
+
+blink brightens background = false
+Para el modo 8-color, asuma que un atributo de texto parpadea terminará
+brillo del color de fondo.
+
+Si está habilitado en un terminal donde esta suposición no se mantiene, esto será
+resultado en glifos invisibles para combos de color normal/bright de los mismos
+Color base.
+
+Esta opción se ignora cuando se ejecuta en modo de 16 colores a través de
+permit extended colours.
+
+best effort brighten background = false
+Si se establece a la verdad, trate de aclarar un color de fondo utilizando parpadeo incluso si
+no se supone que sea exitoso.
+
+Esta opción sólo afecta los colores que son seguros para iluminar. Si
+blink brightens background opción se establece a la verdad, esta opción es
+efectivamente ignorado.
+
+Esta opción se ignora cuando se ejecuta en modo de 16 colores a través de
+permit extended colours.
+
+best effort brighten foreground = true
+Si se establece a la verdad, trate de aclarar un color de primer plano usando negrita incluso si
+no se supone que sea exitoso.
+
+Esta opción sólo afecta los colores que son seguros para iluminar. Si
+bold brightens foreground option is set to true, this option is
+efectivamente ignorado.
+
+Esta opción se ignora cuando se ejecuta en modo de 16 colores a través de
+permit extended colours.
+
+fondo color = negro
+Establece el color de fondo predeterminado por nombre (defaults a BLACK).
+Esto puede ser útil si usted está usando un terminal con un fondo
+color que no sea negro y desea conservar el esquema de color para gatear.
+
+Internamente, el negro se mapea al color de fondo pasado y
+viceversa.
+
+Esta opción requiere el apoyo extendido por la biblioteca terminal también
+como el terminal en sí. Además, los colores por defecto brillantes no son
+disponible a menos que el soporte de color extendido esté presente y explícitamente
+habilitado mediante permit extended colours. Si el apoyo no está presente, tampoco
+vertical o para el color seleccionado, esta opción tendrá una eficacia
+valor de negro.
+
+Vea la opción permit extended colours para más información sobre habilitación
+uso de colores predeterminados brillantes. Cuidado con el término buggy o engañosoinfo
+archivos.
+
+foreground colour = lightgrey
+Establece el color predeterminado por nombre (defaults a LIGHTGREY).
+
+Internamente, el gris claro se mapea al color del primer plano pasado y
+viceversa.
+
+Esta opción viene con el mismo equipaje que la opción background colour.
+Vea su documentación para más detalles.
+
+use terminal default colours = false
+Utilice el foreground y los colores de fondo predeterminados del terminal. Esto puede
+ser utilizado para permitir un fondo transparente.
+
+use fake cursor = verdadero
+Si es cierto, Crawl dibuja el cursor explícitamente en el nivel-mapa y
+en lugar de confiar en el término para dibujar
+cursor. Use esto si su término no puede mostrar un cursor sobre
+cuadrados oscuros y negros.
+En non-Unix construye esta opción predeterminada a falso, y establecerla a
+a la verdad puede tener resultados impredecibles.
+
+
+6- Lua.
+========
+
+lua max memory = 16
+La memoria máxima en MB permite scripts Lua usuario.
+
+6-a Incluyendo archivos de lua.
+-----
+
+Los archivos Lua son scripts que pueden proporcionar comandos existentes con un nuevo
+significar o crear nuevos comandos (para ser utilizados en macros). Para usar Lua
+Archivos, Crawl necesita ser compilado con soporte para scripts Lua usuario.
+Usted puede comprobar para ver si su Crawl tiene soporte de Lua golpeando ?V en el juego.
+La lista de características Las pantallas de Crawl deben incluir "Lua scripts de usuario".
+
+Los archivos de lua se incluyen utilizando la opción lua file (un archivo por línea):
+
+lua file = <path/name.lua
+
+Las funciones de lua pueden ser macroeconadas en el juego estableciendo la acción macro a "===",
+seguido del nombre de la función.
+
+El mago-modo Lua intérprete ( aportar^T), la primera vez que se invoca,
+cargar todos los archivos que se especifican con la opción terp file:
+
+terp file = <path/name.lua
+
+El Lua en estos archivos tendrá acceso a todos los internos de Crawl Lua
+(es decir, se ejecutará en el contexto de dlua, no clua).
+
+6-b Ejecutando lua inline.
+-------
+
+El código lua se puede utilizar directamente en su init.txt/.crawlrc. Puedes
+ejecutar el código Lua usando la siguiente sintaxis.
+
+: Línea única de código lua
+
+* Posiblemente multilínea
+Código de lua
+
+{ Posiblemente multilínea
+Código de la lua
+
+En los casos segundo y tercero, la restricción es que el delimitador
+caracteres aparecen al principio y al final de una línea, respectivamente.
+La diferencia entre el nombre de usuario y {} es cuando el código se ejecuta.
+Código {}, se ejecuta inmediatamente. Otro código Lua se ejecuta solamente
+después de que el archivo entero se lee.
+
+Ejemplos:
+
+Imprimir un mensaje de bienvenida
+: gate.mpr("Hola " .. tu nombre())
+
+c)
+-- Another welcome message (lua code uses lua comments)
+gate.mpr("Hola allí")
+■
+
+{}
+función ch autopickup(it) [ ... cuerpo omitido ... ] final
+}
+
+6-c Opciones condicionales.
+----------
+
+Puede utilizar Lua para incluir selectivamente partes de su init.txt (basado
+en el tipo de caracteres, por ejemplo) usando la misma sintaxis.
+
+Ejemplo:
+
+Si tú.race() == "Mamá" entonces
+autopickup = $?+"/
+:
+autopickup = $?+"/!
+: final
+
+Las opciones pueden ser referenciadas por lua a través de "options.option name". Para
+ejemplo:
+
+:if string.find(options.autopickup, "!") entonces
+# Haz algo aquí si las pociones están incluidas en el autopickup
+:end
+
+"options.option name" puede incluso ser utilizado para opciones que se arrastran a sí mismo
+no reconoce. Esto se puede combinar con opciones de configuración en
+línea de comandos (ver sección 0-b) para utilizar la línea de comandos para controlar
+condicionalización de opciones en los archivos de opciones. Por ejemplo, en el
+línea de comando que podría establecer la opción "foobar" con "-extra-opt-first
+foobar=true", y luego hacer:
+
+:si opciones.foobar entonces
+# Hacer cosas aquí
+:end
+
+6-d Opción condicional caveats.
+---
+
+Tenga en cuenta que ninguna de las opciones enumeradas en "Starting Screen" (sección 1)
+puede establecerse condicionalmente. Esto es porque los archivos de opciones son
+leer en dos ocasiones: una vez antes de la creación de carácter con Lua girado
+y una segunda vez después de la creación de carácter con Lua encendido. Si
+intenta establecer una opción de pantalla inicial condicionalmente entonces el valor
+más lejos en el archivo de opciones se utilizará independientemente de qué
+condiciones establecidas.
+
+La caveat anterior también se aplica a la opción "wiz mode". En lugar de
+wiz mode condicionalizado, se puede añadir a la línea de comandos
+"-extra-opt-last wiz mode=yes" para hacer que cualquier nuevo juego comience en wizard
+Modo.
+
+7- Opciones recomendadas para jugadores ciegos.
+================================================================================================================================================================================================================================================================
+
+Se recomiendan los siguientes ajustes para facilitar el uso de la consola arrastre
+con un lector de pantalla.
+
+Desactivar animaciones y ver demoras para que la pantalla actualice inmediatamente después de cada
+comando:
+view delay = 0
+travel delay = 1
+rest delay = 1
+use animations = 0
+
+Colocar mensajes en la parte superior de la pantalla y eliminar el mensaje condensando para
+lectura de pantalla más fácil:
+mensajes at top = verdadero
+clear messages = true
+msg condense short = false
+
+Hacer que el cursor del jugador sea más fácil de rastrear con la lectura de la pantalla, estableciendo una costumbre
+símbolo para el jugador:
+use fake player cursor = false
+show player species = false
+mon glyph += jugador:x263A
+
+Utilice los clics de entrada del ratón para el automóvil (ver la discusión del ratón input
+opción para configuraciones terminales:
+mouse input = true
+
+Permitir auto-travel/move para avanzar un paso incluso cuando los monstruos están presentes:
+travel one unsafe move = true
+
+Coordenadas relativas al jugador en la pantalla ^x:
+monstruo item view coordinates = verdadero
+
+La pantalla ^x puede enumerar un conjunto personalizable de características controladas con regularidad
+expresiones. Por ejemplo, incluir todo el agua en ^x set:
+monstruo item view features += agua
+
+Marque el camino tomado por auto-travel y el horizonte de exploración con especial
+caracteres:
+show travel trail = true
+característica += ruta de viaje {x25AA}
+función += explorar horizonte {x25AB}
+
+Establece un glifo separado para escaleras y transportadores no visibles:
+característica += escalera de piedra que conduce {
+característica += escalera de piedra que conduce { prenda,x25B8}
+característica += transportador {xA9, x25CE}
+
+Visita cuadrados con pilas de elementos al explorar para imprimir todos los nuevos
+objetos encontrados:
+explore greedy visit += pilas

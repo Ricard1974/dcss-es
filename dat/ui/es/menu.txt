@@ -62,13 +62,6 @@ Seeded play|Partida con semilla
 Picks a random sprint map|Elige un mapa de Sprint al azar
 Select your previous sprint map and character|Selecciona tu mapa y personaje de Sprint anteriores
 
-# Nombres de lecciones del tutorial
-Lesson 1: Movement and Exploration|Lección 1: Movimiento y Exploración
-Lesson 2: Monsters and Combat|Lección 2: Monstruos y Combate
-Lesson 3: Items and Inventory|Lección 3: Objetos e Inventario
-Lesson 4: Magic and Spellcasting|Lección 4: Magia y Hechicería
-Lesson 5: Gods and Divine Abilities|Lección 5: Dioses y Habilidades Divinas
-
 # ============================================================================
 # CATEGORÍAS DE TRASFONDO (newgame.cc)
 # ============================================================================
@@ -82,29 +75,3 @@ Mage|Mago
 # MENÚS GENÉRICOS (menu.cc)
 # ============================================================================
 Select what (regex)?|¿Seleccionar qué? (regex)
-
-# Menú principal
-Dungeon Crawl|Mazmorras de Piedra Sopa
-Choose Game Seed|Elegir Semilla de Mazmorra
-Tutorial for Dungeon Crawl|Tutorial de Mazmorras de Piedra Sopa
-Hints Mode for Dungeon Crawl|Modo de Consejos para Mazmorras de Piedra Sopa
-Dungeon Descent|Descenso a la Mazmorra
-Dungeon Sprint|Modo Explosivo
-Instructions|Instrucciones
-The Arena|La Arena
-High Scores|Puntuaciones Altas
-New Game|Nueva Partida
-Enter your name:|Introduce tu nombre:
-Choices:|Opciones:
-Saved games:|Partidas guardadas:
-
-# Descriptions
-Dungeon Crawl: The main game: full of monsters, items, gods and danger!|Mazmorras de Piedra Sopa: El juego principal, lleno de monstruos, objetos, dioses y peligro.
-Play with a chosen custom dungeon seed.|Juega con una semilla de mazmorra personalizada.
-Tutorial that covers the basics of Dungeon Crawl survival.|Tutorial que cubre lo básico para sobrevivir en Mazmorras de Piedra Sopa.
-A mostly normal game that provides more advanced hints than the tutorial.|Un juego casi normal que ofrece consejos más avanzados que el tutorial.
-Mode with a branching, one-way path through the Dungeon.|Modo con un camino ramificado de un solo sentido a través de la Mazmorra.
-Hard, fixed single level game mode.|Modo de juego difícil de un solo nivel fijo.
-Help menu.|Menú de ayuda.
-Pit computer controlled teams versus each other!|¡Enfrenta equipos controlados por el ordenador!
-View the high score list.|Ver la lista de puntuaciones altas.

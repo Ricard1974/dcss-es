@@ -1,0 +1,3251 @@
+DUNGEON CRAWL Stone Soup
+- el manual -
+
+Índice
+---
+A. Panorama general
+B. Pantalla inicial
+C. Atributos y estadísticas
+D. Exploring the dungeon
+E. Experiencia y aptitudes
+F. Monstruos
+G. Temas
+H. Spellcasting
+I. Objetivo
+J. Religión
+K. Mutaciones
+L. Licencia, contacto, historia
+M. Macros, opciones, rendimiento
+N. Philosophy (pas de faq)
+
+Apéndices
+1. Lista de especies de caracteres
+2. Lista de antecedentes de carácter
+3. Lista de aptitudes
+4. Lista de llaves y comandos
+5. Inscripciones
+6. Modos de impresión Dungeon
+
+
+------------------------------------------------------------------------
+A. Examen general
+------------------------------------------------------------------------
+
+Crawl es un juego divertido en la gran tradición de juegos similares como Rogue,
+Hack y Moria. El objetivo es viajar profundamente en una cueva subterránea
+complejo y recuperar el Orbo de Zot, custodiado por muchos horribles y horribles
+criaturas.
+
+Si nunca has jugado a Crawl (o un juego similar) antes, selecciona el
+tutorial desde el menú de inicio. El tutorial explica la interfaz en
+5 lecciones fáciles. Una vez que esté familiarizado con los controles, es posible que desee
+jugar algunos juegos usando el modo de pistas.
+
+Instrucciones detalladas para jugar Crawl seguir. Para simplificar este manual, nosotros
+supone que estás usando la distribución estándar y no has cambiado la
+Opciones predeterminadas. Si no quieres leer todo el manual y prefiere un
+resumen de los puntos importantes, revisar el archivo guía de inicio rápido
+(quickstart.txt) y aprender como juega.
+
+También puede leer estos documentos mientras juega Crawl golpeando '?' en el
+ayuda menú. Una lista de preguntas frecuentes sobre juego y diseño
+se puede acceder pulsando 'Q' en el juego.
+
+Mientras Crawl es estrictamente un juego de un solo jugador, usted puede interactuar con otros
+sobre un servidor. Conectarse a un servidor abre varias opciones interesantes.
+
+Puedes:
+
+- ver a otros jugadores e incluso comunicarse con ellos
+- ver sus juegos pasados o los de otros
+- fantasmas de batalla de otros jugadores
+- competir usando una lista de puntuación común
+- participar en el torneo semianual
+- jugar la versión de desarrollo más reciente
+
+Vea el sitio web de Crawl para encontrar un servidor en línea, enlaces para descargar el juego
+para juegos fuera de línea, y otros recursos comunitarios:
+
+http://crawl.develz.org/
+
+------------------------------------------------------------------------
+B. STARTING SCREEN
+------------------------------------------------------------------------
+
+En la pantalla de inicio Crawl, se le presentará con varios modos de juego, un
+lista de juegos guardados (si hay), y se le pedirá que escriba un nombre para su
+carácter. Usted puede navegar los modos de juego y los juegos guardados con el cursor
+'up' y 'down' flechas.
+
+Los modos de juego son:
+
+Dungeon Crawl
+Empieza un juego estándar de Crawl.
+
+Elija la semilla del juego
+Iniciar un juego estándar de Crawl con una semilla personalizada (ver "juego visto"
+infra).
+
+Tutorial para Dungeon Crawl
+Iniciar uno de varios tutoriales especializados para aprender a jugar.
+
+Modo de Hints para Crawl Dungeon
+Comience un juego estándar de Crawl, modificado para proporcionar ayuda mientras juega.
+
+Dungeon Sprint
+Comience uno de varios juegos del modo de desafío de una sola hoja de Crawl.
+
+Instrucciones
+Vea el texto de ayuda instructiva que está leyendo actualmente.
+
+La Arena
+Iniciar un modo de lucha automatizado entre dos grupos combatientes especificados.
+
+Altas puntuaciones
+Ver puntuaciones para juegos anteriores jugados, ordenados por puntuación decreciente.
+
+Presionar 'enter' inmediatamente después de escribir su nombre seleccionará estándar
+modo Crawl Dungeon, y se le pedirá que seleccione una especie y
+fondo. Los nombres son únicos; entrar un nombre de la lista de juegos guardados
+continuar ese juego guardado. Si selecciona un modo de juego en lugar de entrar en un
+nombre, eventualmente se le pedirá que introduzca un nombre.
+
+Usted puede elegir especies y fondo en orden o aleatorio cualquier
+combinación si prefieres que el juego decida por ti. Si ambos son
+al azar, se le pedirá que confirme la combinación elegida antes de la
+El juego comienza.
+
+La elección de especies afecta varias características importantes, en
+particular la velocidad a la que aprendes diferentes habilidades. Esto es muy
+importante, y ayuda a diferenciar claramente las muchas especies disponibles.
+Los siguientes factores dependen de las especies:
+
+Mayor:
+
+- La cantidad de salud que obtienes cada nivel
+- Tu tasa de progreso de habilidad
+- Sus atributos primarios iniciales (esto también depende del fondo)
+- Diversas habilidades especiales, poderes y limitaciones
+
+Menor:
+
+- Tu tasa de avance de nivel
+- Puntos de bonificación ocasional añadidos a algunos atributos primarios
+- La cantidad de puntos mágicos que obtienes cada nivel
+- Tu fuerza de voluntad innata, tu resistencia a la magia sutil
+- Su equipo inicial (también depende del fondo)
+
+Nota: Los humanos son el promedio al que se comparan todas las otras especies.
+
+La elección de fondo de carácter es definitivamente menos decisiva que la de
+especies en Crawl. Básicamente, el fondo determina lo que el personaje
+ha aprendido antes de entrar en el calabozo (es decir, las habilidades iniciales), y
+también ayuda a determinar el equipo al principio.
+
+Usted notará que un conjunto diferente de fondos será recomendado
+(blanco) para cada especie. Aunque usted es libre para elegir cualquier fondo con
+casi cualquier especie (las únicas restricciones son antecedentes religiosos donde
+algunas especies no están permitidas para adorar a ciertos dioses, o fondos
+donde el equipo inicial es completamente inutilizable por una especie determinada),
+mirar las combinaciones recomendadas debe darle una impresión difícil
+de las debilidades, fortalezas y sabor de juego de roles de las diferentes
+especie.
+
+Para algunos antecedentes, debe elegir un arma inicial antes de comenzar el
+juego.
+
+Cuando empiezas un nuevo personaje (o cargas uno viejo) y quieres conseguir un rudo
+impresión, puede leer el vertedero completo de caracteres con ?# o examinarlo con
+los siguientes comandos:
+
+A
+muestra cualquier peculiaridad como velocidad inusual o partes del cuerpo
+
+m
+muestra tus habilidades y te permite deshabilitar (o enfocar) entrenamiento como se desee
+
+i
+lista de equipos y artículos
+
+^
+muestra información sobre su dios, si usted ha comenzado con una religión
+
+%
+da un general, si terse, vista general de su equipo y la mayoría de atributos
+
+Ctrl... O
+da una visión general de las partes de la mazmorra que ha descubierto hasta ahora
+
+------------------------------------------------------------------------
+C. ATRIBUCIONES Y SITUACIONES
+------------------------------------------------------------------------
+
+La zona de puestos a la derecha del mapa de juego muestra mucha información.
+Comienza con el nombre y el título del personaje (determinado por el
+la habilidad más alta del personaje), seguido de una línea que enumera la especie. Si
+el carácter adora a un dios, el nombre de la deidad también se enumera en el
+segunda línea, junto con un indicador de piedad. Debajo de estas dos líneas
+seguir muchos números. Estos describen diferentes aspectos del carácter.
+
+Salud
+Una medida de fuerza vital. Sinónimo de puntos de éxito y a veces
+abreviado como HP. Usted muere si su salud cae a cero o menos (aunque
+usted puede morir de otras maneras, también). La pantalla principal muestra su corriente
+y máxima salud. Normalmente, recuperas la salud lentamente con el tiempo. Prensa
+'5' o Shift-Num-5 le permite esperar un período más largo.
+
+Magia
+Una medida de magia u otro poder intrínseco. Esto se utiliza principalmente para
+ortografía, pero a veces también se utiliza para evocar e invocar
+muchas otras habilidades especiales. Se muestran de la misma manera que
+salud; nada malo sucede si estas gotas a cero, excepto, por supuesto,
+que no puedes hacer hechizos. El descanso también restaura sus reservas de
+magia.
+
+A continuación, sus defensas. Para todos ellos, más es mejor.
+
+Clase de armadura
+Abreviado a "AC". Su AC reduce la cantidad de daño que sufre
+la mayoría de los ataques (con algunas excepciones raras), y proporciona algunos garantizados
+protección mínima contra los daños causados por los ataques.
+
+Evasión
+Abreviado a "EV". Esto te ayuda a evitar ser golpeado por cosas desagradables
+(pero no reducirá la cantidad de daño que sufres si te golpean).
+
+Escudo
+Abreviado a "SH". Este número es una medida de lo bueno que su escudo (si
+cualquiera) está bloqueando ataques.
+
+Los atributos primarios de tu personaje son Fuerza, Inteligencia y
+Dexteridad:
+
+Fuerza
+Abreviado a "Str". Aumenta su daño con las armas melee (excepto
+para cuchillas largas y cortas), con combate desarmado, y con lanzamiento
+armas. Reduce las penas de usar escudos o armadura pesada.
+
+Inteligencia
+Abreviado a "Int". Afecta tus probabilidades de lanzar con éxito hechizos
+y lo poderosos que son esos hechizos.
+
+Dexteridad
+Abreviado a "Dex". Aumenta tu precisión con melee y ranged
+armas, y su daño con armas de alcance y cuchillas largas y cortas.
+Afecta significativamente su capacidad de esquivar ataques dirigidos a usted, su
+eficacia con escudos, su sigilo y su eficacia cuando
+apuñalando enemigos inconscientes.
+
+Estos atributos primarios crecen permanentemente desde niveles de ganancia, y pueden
+aumentar o disminuir temporalmente de mutaciones o al utilizar ciertas
+artefactos o habilidades. Al ganar niveles 3, 9, 15, etc., usted puede elegir
+un atributo para elevar por dos puntos. La mayoría de las especies ganan más
+atributos en algunos niveles, con la frecuencia y el atributo a ser
+aumento determinado por especies.
+
+Si algún atributo cae a cero por alguna razón, experimentarás muy
+efectos secundarios desagradables, ser ralentizado y sufrir algunos efectos secundarios específicos
+efectos negativos. Estos efectos persistirán durante un corto tiempo, incluso después
+el atributo es restaurado.
+
+Finalmente alguna información adicional sobre su carácter y su progreso
+a través de la mazmorra se muestra.
+
+Nivel de experiencia
+Abreviado a "XL". Los caracteres iniciales tienen nivel de experiencia 1;
+el nivel más alto posible es 27. Obtener una red de nivel adicional salud y
+puntos mágicos, y otorgarán ranuras de hechizo y a veces primaria
+atributos.
+
+Lugar
+Esto muestra la rama en la que se encuentra actualmente, así como el nivel dentro
+la rama. La rama inicial se llama Dungeon, así que el lugar
+la información leerá "Dungeon:1" para un nuevo personaje.
+
+Noise
+Esta es una barra de colores que indica la intensidad del ruido que escuchaste
+tu último turno. El color proporciona una guía áspera para cuán lejos está el
+ruido que indica podría ser audible. Si la barra es gris, el sonido es
+menos probable que sea audible fuera de su línea de visión (al menos en un
+área abierta); si es amarilla, es probable que el sonido sea audible fuera de
+tu línea de visión; y si es roja, el sonido será audible a
+distancia sustancial. Si el bar gira magenta, has hecho uno de los
+ruidos más ruidosos en la mazmorra. N.b.: el terreno puede reducir o bloquear
+esparcido de ruido.
+
+Hora
+Esto indica la cantidad de tiempo que ha pasado desde la entrada
+mazmorra, y también muestra entre corchetes la cantidad de tiempo que su
+la acción anterior tomó. La mayoría de las acciones toman 1.0 unidades de tiempo, pero ciertas
+acciones son particularmente lentas o rápidas (como cambiar la armadura y
+intercambio de armas, respectivamente), y otras acciones pueden variar en el tiempo tomado
+dependiendo de su estado (como atacar con diferentes armas y
+diferentes niveles de habilidad).
+
+Hay algunas estadísticas adicionales que no son tan importantes en un turno para girar
+la base y por lo tanto no se enumeran en el área de estadísticas principales. Pueden ser fácilmente
+chequeado con los comandos '@' o '%', sin embargo.
+
+Willpower
+Afecta su capacidad de resistir los efectos de los encantamientos y similares
+magia dirigida a ti. No tiene efecto en el daño directo causado por la magia,
+sólo en efectos más sutiles. Aunque su fuerza de voluntad aumenta con su
+nivel hasta un punto determinado por las especies de tu personaje, las criaturas
+se encontrarán más profundo en la mazmorra son mejores en los hechizos de casting, y son
+más probable que pueda afectarte. Puedes tener una idea difícil de tu
+Will presionando '%'.
+
+Tamaño
+Diferentes especies tienen diferentes tamaños: Spriggans y Felids son muy
+pequeños; Kobolds son pequeños; Oni y Trolls son grandes; Nagas y Armataurs
+son grandes con torso mediano; todas las otras especies son de tamaño mediano. Muchos
+Los talismanos cambiarán tu tamaño. El tamaño afecta a su evasión: el menor
+tu personaje, cuanto más evasivo sea. Por otro lado, personajes de
+más grande que el tamaño medio no sufren las sanciones usuales de ataque cuando
+De pie en aguas poco profundas. Personajes de menor que tamaño mediano
+tienen problemas con algunas armas más grandes. caracteres muy pequeños y grandes
+Los caracteres no pueden usar la mayoría de tipos de armadura. Jugadores y monstruos
+sólo pueden constreñir foes del mismo tamaño o menor. En la mazmorra
+también pueden encontrarse con enemigos pequeños y gigantes.
+
+Stealth
+Alta sigilo permite que su personaje se mueva a través de la mazmorra
+sin ser detectado. Se ve afectada por su especie, destreza, habilidad de Stealth y
+la encumbrancia de tu armadura corporal. Su nivel actual de Stealth también puede
+fue visto pulsando '@' o '%'.
+
+Hay muchas dolencias o encantamientos que pueden ocasionarte temporalmente.
+Estos son observados en el área de estadísticas debajo de la línea de experiencia. Muchos de ellos
+son autoexplicativos, como Pois o Slow. Sin embargo, muchos otros pueden ser
+sutil, y sus efectos pueden ser examinados pulsando '?/T' y buscando
+para el nombre del efecto de estado.
+
+Monstruos dentro de su campo de visión se enumeran en un panel especial, el
+lista de monstruos. Los monstruos individuales también obtienen indicadores de su estado de salud en
+la forma de una caja de colores, y también sobre los efectos que disfrutan o sufren.
+Si hay muchos monstruos en la vista, la lista de monstruos extendidos puede ser
+mostrado con 'Ctrl-X'. Dentro del modo de destino se puede apuntar directamente
+monstruos usando la lista de monstruos usando 'Ctrl-X'.
+
+A veces los personajes podrán usar habilidades especiales, por ejemplo, las de Naga
+habilidad para escupir veneno o el poder mágico para volver invisible
+bufanda de invisibilidad. Estos se acceden a través del comando 'a'.
+
+------------------------------------------------------------------------
+D. EXPLORACIÓN DEL DUNGEON
+------------------------------------------------------------------------
+
+Movimiento
+================================================================================================================================================================================================================================================================
+
+Puede hacer que su personaje pase por ahí con el teclado numérico (tratar ambos
+NumLock on and off) o las teclas "Rogue" (hjklyubn). Si esto es demasiado lento,
+puede hacer que su personaje pase repetidamente pulsando Shift y un
+dirección; alternativamente, prensa '/' seguido de una dirección. Caminarás
+en esa dirección hasta que ocurran algunas cosas: un monstruo hostil
+es visible en la pantalla, un mensaje se envía a la ventana del mensaje para cualquier
+razón, presionas una llave, o estás a punto de pisar algo más que
+piso normal y no es su primer movimiento de la larga caminata. Note que esto
+es funcionalmente equivalente a sólo presionar la tecla de dirección varios
+veces.
+
+Otro método conveniente para mover largas distancias se describe en el
+sección sobre viajes y exploración automatizados a continuación.
+
+Combate
+================================================================================================================================================================================================================================================================
+
+La mazmorra es un lugar hostil, y es probable que necesite defender
+tú mismo. El caso básico de combate implica ataques de melee: si eres
+adyacente a un monstruo, moverse hacia ese monstruo te hará atacar
+con un arma fundida, o tus puños. También hay un ancho
+variedad de maneras de atacar monstruos que están más lejos, incluyendo
+polearms (que puede llegar a una baldosa), diversos arcos, lanzadores y
+objetos lanzables, objetos mágicos que pueden ser evocados como varitas, hechizos,
+y habilidades. Estas se describen a lo largo del resto de este documento.
+Estos son desencadenados de diversas maneras, pero una coincidencia es que todo
+de estos pueden ser analizados: el quiver proporciona acceso rápido a una acción
+que se puede despedir.
+
+Ambos combates melee y ranged proporcionan atajos que autotarget el más cercano
+enemigo, si hay uno disponible. Su arma marchitada puede ser disparada por
+Tab ("Autofight"), avanzando hacia o atacando al enemigo más cercano dependiendo
+sobre si hay uno en rango para el arma. Su acción despreocupada puede
+ser activado por Shift-Tab o 'p' ("Autofire"); si la acción toma un objetivo
+el enemigo más cercano será seleccionado, de lo contrario la acción será activada.
+Ver "Ataque y disparo" para la lista de claves completa relacionada con el ataque,
+y disparos.
+
+Descansando
+================================================================================================================================================================================================================================================================
+
+Si presionas '5', descansarás hasta que tu salud o magia regresen a plenitud.
+Puedes descansar por un solo giro pulsando '.' o 's'.
+
+Descansar se detiene si aparece un monstruo o si usted es interrumpido de otra manera.
+
+Examinando sus alrededores
+================================================================================================================================================================================================================================================================
+
+La sección de la ventana de visualización de color (con la "@"
+representarte en el centro) es lo que puedes ver a tu alrededor. La oscuridad
+gris alrededor es las partes del nivel que has visitado, pero no
+Actualmente lo veo. El comando 'x' le permite mover el cursor alrededor para conseguir un
+descripción de las diversas características de mazmorra, y escribiendo 'v' cuando el cursor
+está sobre un monstruo o característica trae una descripción corta de ese monstruo,
+así como una lista corta de sus diversas fortalezas, debilidades, inmunidades,
+y cualquier hechizo o habilidad que tenga. Esto es generalmente útil con monstruos
+Nunca te has encontrado antes. También puede seleccionar monstruos y características
+de una lista presionando 'Ctrl-X'. Usted puede conseguir un mapa de todo el nivel
+(que muestra dónde ya has estado) escribiendo 'X'.
+
+Usted puede ver el conjunto completo de comandos disponibles mientras mira alrededor por
+presionando '?', tanto en los modos 'x' como 'X'.
+
+Escaleras y Portales
+================================================================================================================================================================================================================================================================
+
+Usted puede hacer su camino entre niveles utilizando escaleras, que aparecen como
+"Consejo" (abajo) y "tratado" (abajo), pulsando las teclas 'consejo' o 'traducido'. Es importante
+para saber que la mayoría de los monstruos adyacentes a usted seguirá cuando usted cambia
+niveles; esto es para monstruos hostiles y aliados. Excepciones notables
+son zombis y otros no muertos mentales, que son demasiado estúpidos para
+operar escaleras.
+
+Al tomar escaleras, se garantiza la oportunidad de actuar ante cualquier monstruo
+en el otro lado que usted no ha encontrado previamente.
+
+Si asciendes una escalera arriba en el nivel uno, dejarás la mazmorra
+para siempre; si usted está llevando el Orbo mágico de Zot, usted gana el juego por
+haciendo esto. De lo contrario, el juego termina y pierdes.
+
+Además de la mazmorra que empiezas, la mazmorra de Crawl tiene muchas ramas. Todos
+son temáticos y oponentes anfitriones de algún tipo especial. No lo es
+obligatorio para visitar cualquier rama particular, pero debe explorar algunos de
+ellos: progreso a los Reinos de Zot (donde se encuentra el Orbo) es sólo
+posible para los aventureros que tienen al menos tres runas mágicas de Zot. El
+Los fondos de varias ramas contienen tales runas.
+
+Ocasionalmente encontrarás un arco (displayado como "\" o como real
+arco); estos conducen a lugares especiales como tiendas, portales temáticos, o
+ramas especiales como el Infierno y el Pandemonio. Puedes entrar en esto
+escribiendo 'traducido' o 'conejo'. Unos pocos portales sólo aceptan uno de 'Seguido' y 'Conejo'.
+
+Puertas y trampas
+================================================================================================================================================================================================================================================================
+
+Por lo general, las puertas se pueden abrir caminando hacia ellas (hay una opción
+para desactivar esto); de lo contrario esto también se puede hacer utilizando el comando 'O'. Ellos
+puede cerrarse con el comando 'C'. Presionando Ctrl más una dirección, o '*'
+seguido de una dirección, abrirá/cerrar puertas, también.
+
+Si no hay puerta en el espacio indicado, tanto Ctrl-dirección como
+'*'-dirección intentará atacar a cualquier monstruo que pueda estar de pie
+allí (esta es la única manera de atacar a una criatura amistosa con melee
+combate). Si aparentemente no hay nada allí, todavía lo atacarás,
+por si hay algo invisible acechando.
+
+Las fuerzas malévolas de Zot intentarán frustrar su progreso a través de
+la mazmorra, y ocasionalmente manifestará trampas para forzaros a
+situaciones peligrosas. Algunas trampas son visibles por adelantado y pueden ser
+desencadenado por monstruos para desencadenar sus efectos sobre ti.
+
+Tiendas
+================================================================================================================================================================================================================================================================
+
+Cuando visita una tienda (por medio de не o не mientras está de pie en uno), usted es
+muestra lo que el comerciante tiene en stock y puede elegir qué comprar.
+Desafortunadamente, todos los comerciantes tienen un trato exclusivo con el Gremio de
+Dungeon Procurers que les impide utilizar trabajos no guiados para obtener
+stock, así que no puedes vender nada en una tienda. (Pero entonces, qué comerciante
+compraría bienes robados de un aventurero irreputable, de todos modos?)
+
+Para comprar uno o más artículos, seleccione pulsando las letras de los
+artículo en el menú de la tienda y luego presiona Enter para hacer la compra; usted puede
+examinar los artículos antes de comprarlos pulsando '!' y luego la letra de la
+ítem.
+
+Si usted ha perdido la pista de las tiendas en la mazmorra, usted puede conseguir una lista de todos
+las tiendas que has encontrado en la visión general de la mazmorra (utiliza 'Ctrl-O').
+
+Usted también puede utilizar la búsqueda de reserva: Hitting 'Ctrl-F' y la búsqueda de
+"shop" listará todas las tiendas. El menú de búsqueda de datos le permite viajar
+rápidamente a una tienda en particular; si sólo quieres saber lo que hay en la tienda,
+también puede examinar el inventario de la tienda en el menú de búsqueda sin
+tener que viajar hasta la tienda.
+
+Algunas tiendas son tiendas antiguas que venden artículos de procedencia desconocida,
+generalmente con un buen descuento. La pantalla de visión de mazmorra muestra estos con
+glifos amarillos.
+
+Si usted está corto de oro para alguna mercancía particularmente interesante, usted
+puede colocarla en su lista de compras. El juego te interrumpirá cuando tú
+han recogido suficiente oro para finalmente comprar un artículo en esa lista. Tú.
+puede leer la lista de compras en el juego con '$'.
+
+Viajes y exploración automatizados
+================================================================================================================================================================================================================================================================
+
+Crawl tiene un amplio sistema automatizado de viajes: pulsando 'G' (o también
+'Ctrl-G') le permite elegir cualquier nivel de mazmorra; el juego entonces tomará el
+ruta más corta para llegar a este destino. También puede utilizar el autotravel en el
+plano ('X'): Mueva el cursor al lugar donde desea ir y golpear
+Entra. Hay varios atajos al elegir destinos: Por ejemplo,
+intenta 'tratar'' y 'como' para llegar rápidamente a las escaleras.
+
+Cuando tu autotravel se interrumpe, Crawl recordará lo anterior
+destino. Contratar 'G' o 'Ctrl-G' de nuevo y seguir con Enter pone
+el cursor en esa plaza. Ver Apéndice 4. "Lista de Llaves y Comandos" para
+todos los comandos y atajos en modo de mapa de nivel, o pulse 'G' o 'X?' dentro
+el juego.
+
+Otro uso de autotravel es la exploración: 'o' hace que su personaje se mueva a
+la zona más cercana sin explotar. Tenga en cuenta que este algoritmo no intenta
+Optimización por defecto. Mediante la exploración manual puede guardar turnos, pero
+auto-explore generalmente ahorrará tiempo real.
+
+Stashes and Searching
+================================================================================================================================================================================================================================================================
+
+Ya que sólo puede llevar 52 artículos, de vez en cuando desea guardar
+cosas de distancia (dejándolos con el comando 'd'). Cuando quieras
+buscar algo en tus puestos, puedes hacerlo con el comando Find
+"Ctrl-F". El parser incluso acepta expresiones regulares, aunque usted lo hará
+en su mayoría sólo necesitan cuerdas como 'mutación', 'heridas de cura', etc. Lo serás
+presentado con una lista de todos los lugares donde los objetos coinciden con la búsqueda
+(o han sido) localizados; entonces puede viajar allí o examinar la pila. El
+Encontrar comando también buscará en los inventarios de tiendas. Además, usted puede
+habilidades de búsqueda como 'palabras largas' (esto encontrará todas las armas entrenando el
+palas largas habilidad) o términos generales como 'shop', 'altar', 'portal',
+"artefacto", etc. Puedes conseguir ayuda para encontrar pulsando '?' en el aviso.
+
+El Objetivo
+================================================================================================================================================================================================================================================================
+
+Su objetivo es localizar el Orbe de Zot, que se mantiene en algún lugar bajo
+la superficie del mundo. El Orb es un antiguo e increíblemente poderoso
+artefacto, y las leyendas prometen grandes cosas para alguien lo suficientemente valiente para
+Extraelo del temible Dungeon. Algunos dicen que otorgará inmortalidad o
+incluso la piedad al que la lleva a la luz del sol; muchos no muertos
+las criaturas lo buscan con la esperanza de que las restaurará a la vida. Pero entonces,
+Algunas personas creerán cualquier cosa. ¡Buena suerte!
+
+Zot
+================================================================================================================================================================================================================================================================
+
+Nadie sabe quién o qué Zot es: demonio, dios, mago, algo más
+¿Por completo? Pero los aventureros que buscan al Orb serán cazados por Zot.
+Incluso un momento de contacto con Zot es suficiente para dañar permanentemente uno
+salud.
+
+Zot es muy lento, y sólo puede sentir a los aventureros una vez que han pasado
+un tiempo extraordinariamente largo en una zona de la mazmorra. Incluso una vez
+pasa, los aventureros tendrán mucha advertencia para descender a nuevo
+profundidades en la zona (obligar la atención de Zot una vez más) o dejar la
+área enteramente.
+
+El Abismo está más allá de la comprensión de Zot, y los aventureros hay seguros
+de ella (aunque sujeto a muchos otros peligros). Los Infiernos, junto con sus
+Vestibule, son un área única en lo que respecta a Zot. Reclamación de rumores
+hay maneras de escapar de la persecución de Zot para siempre, pero qué magia podría ser
+¿Lo suficientemente poderoso para prevenir una entidad tan implacable?
+
+Juego visto
+================================================================================================================================================================================================================================================================
+
+Las mazmorras son determinadas por un número de "semillas" usado para inicializar el
+generador de números al azar del juego. Puedes dejar que el juego elija una semilla
+al azar, o especificar una semilla; si usted elige una semilla esto pone el juego en
+Modo "Verded", que se marca por separado. Jugar juegos con la misma semilla
+valor, siempre y cuando la versión del juego sea constante, debe (dentro de
+parámetros) conducen a la misma mazmorra. Toda la mazmorra conectada será
+determinado por la semilla del juego, incluyendo el diseño de mazmorras, colocación de monstruos,
+y artículos. Las bóvedas y las zonas caóticas como el Abismo no son
+garantizado para ser el mismo, y la colocación de artefactos únicos raros puede
+varían dependiendo de ciertas acciones de jugador.
+
+Para configurar una semilla de juego, utilice la opción "Elige la semilla de juego" en el menú principal;
+también puede utilizar la opción de archivo 'game seed' rc, o el comando '-seed'
+opción de línea. En juegos offline puedes ver la semilla de tu juego con '?V' como
+así como en un archivo de caracteres; en juegos en línea una semilla elegida aleatoriamente
+sólo se le mostrará después de terminar el juego.
+
+Si encuentras que la misma semilla genera partes distintas de una mazmorra en la
+mismos o diferentes dispositivos, por favor reporte como un error. Sin embargo, tenga en cuenta
+que actualizar su juego de ahorro entre múltiples versiones de gate
+naturalmente conduce a la divergencia de semillas. Cuando juegas fuera de línea, si quieres
+para asegurar que su juego puede ser actualizado sin divergencia, se puede establecer
+'pregen dungeon = full' en el archivo de opciones. (Esto también garantizará
+colocación de artefactos únicos completamente estable.) Por otro lado, a
+pregeneración incremental completamente deshabilitada, puede establecer 'pregen dungeon =
+falso.
+
+Más ayuda
+================================================================================================================================================================================================================================================================
+
+Para acceder al menú de ayuda de Crawl, presione '? Para obtener la lista de todos los comandos,
+presione '?' otra vez. Una descripción diferente, más verbosa de los comandos también
+aparece en el Apéndice 4. "Lista de Llaves y Comandos" de este texto. Varios
+otros textos de ayuda también están disponibles, incluyendo este manual. También puede
+leer el libro de registro desde allí pulsando ':'. Note que varios comandos
+tienen sus propias pantallas de ayuda, entre ellas están apuntando ('f'), mapa de nivel
+('X'), viaje ('G' o 'Ctrl-G') y búsqueda ('Ctrl-F'); de nuevo, pulse '?
+cuando se le pide entrada.
+
+Si no te gusta el teclado estándar (ya sea porque algunas teclas no funcionan
+correctamente, o porque desea disminuir la cantidad de escritura necesaria),
+puede usar teclados y macros. Ver macros guide.txt en los docs/
+directorio, o leerlo desde el menú de ayuda en el juego.
+
+------------------------------------------------------------------------
+E. EXPERIENCE AND SKILLS
+------------------------------------------------------------------------
+
+Cuando matas monstruos, ganas puntos de experiencia (XP). Cuando llegues
+suficiente XP, usted gana un nivel de experiencia, haciendo su carácter más
+poderoso. Mientras ganan niveles, los personajes ganan más salud, magia y
+niveles de hechizo.
+
+Además, la experiencia que ganas se utiliza para entrenar tus habilidades. Éstos
+los conocimientos prácticos representan una competencia con todas las esferas de trabajo ambiciosa
+aventurero podría necesitar en las mazmorras. Ellos van desde diferentes armas
+habilidades (tanto para un combate cercano y variado) a muchas habilidades mágicas y
+varias actividades adicionales como Dodging o Stealth. Véase el apéndice 3.
+"Lista de habilidades" para una descripción detallada de todas las habilidades presentes en Crawl.
+La facilidad con que un personaje aprende una habilidad depende exclusivamente de las especies.
+Estas habilidades se muestran al ver sus habilidades y una tabla completa
+se puede ver en aptitudes.txt (también desde la pantalla de ayuda durante el juego a través de
+'?
+
+Puedes ver las habilidades de tu personaje pulsando la tecla 'm'; cuanto más alto
+nivel de habilidad, mejor estás en ello. Todos los personajes comienzan con unos pocos
+conocimientos ya capacitados (determinados por sus antecedentes), aquellos que son
+no presente tiene que ser aprendido de cero. Cada habilidad puede subir a 27.
+
+La pantalla de habilidad le permite cambiar qué habilidades se ejercen y en
+qué velocidad. Nota a los nuevos jugadores: generalmente no es necesario afinar
+la selección de habilidades.
+
+Si desea modificar la selección de habilidades, aquí está cómo:
+
+Hay dos maneras de asignar habilidades a la práctica: una es automática
+modo, que pone puntos de experiencia en las habilidades que ha utilizado recientemente.
+El otro es un modo manual, donde se seleccionan específicamente las habilidades para
+Tren. Puede cambiar entre los modos pulsando '/' en el personaje
+pantalla de habilidad ('m'); también asegúrese de leer el texto de ayuda de la pantalla si usted
+quieres retocar tus habilidades.
+
+Usted puede elegir o no practicar una habilidad particular o centrarse en ella
+seleccionando una o dos veces en la pantalla de habilidad.
+
+Las habilidades grises oscuras no serán entrenadas, por lo que la habilidad permanecerá estática
+y no se utilizarán puntos de experiencia para aumentarlo. En consecuencia,
+más experiencia se gastará en sus otras habilidades (y por lo tanto ellos
+aumentar más rápidamente). Tenga en cuenta que no puede deseleccionar todas las habilidades; al menos
+una habilidad debe ser ejercida activamente.
+
+Las habilidades destacadas se centran en y utilizarán una mayor proporción de
+experiencia disponible. Puedes destacar tantas habilidades como quieras, sin embargo
+obviamente si todas las habilidades que se entrenan se destacan no habrá ninguna red
+Efecto.
+
+De vez en cuando puede encontrar un manual de una habilidad que le permite hacer
+rápido progreso en esta esfera. Cuando lo recoges, la experiencia solía
+practicar la habilidad dada tendrá dos veces el efecto habitual por un tiempo.
+
+------------------------------------------------------------------------
+F. MONSTERS
+------------------------------------------------------------------------
+
+En las cavernas de Crawl encontrarás una gran variedad de criaturas, la mayoría
+de los cuales se muestran por mayúsculas o pequeñas letras del alfabeto. Muchos de
+les gustaría mucho comerte. Para evitar que hagan esto, tú
+generalmente necesita luchar contra ellos. Para atacar a un monstruo, pararse al lado de él
+y moverse en su dirección; esto te hace atacar con tu barrido
+arma. Por supuesto, algunos monstruos son demasiado desagradables para vencer, y lo harás
+encontrar que la discreción es a menudo la mejor parte del valor. Sneaky caracteres
+son conocidos por elegir encuentros a su gusto.
+
+Hay varias otras maneras de matar monstruos. Al usar un arco u otro
+El comando 'v' disparará. Véase la sección sobre Metas
+el Capítulo de Artículos para más sobre esto. Del mismo modo, muchos magos preferirán
+use hechizos desde una distancia segura. Pueden usar el comando 'z' para lanzar
+hechizos previamente 'M'emorizados. Una vez más, vea la sección Targeting.
+
+Algunos monstruos pueden ser amistosos; monstruos amistosos te seguirán y
+luchar en su nombre. Puedes mandar a tus aliados usando la tecla 't', que
+les permite decirles quién atacar, o si no les dice que se queden donde están,
+Retirarse, o seguirte de nuevo. También puede gritar para llamar la atención
+todos los monstruos en rango si, por alguna razón, quieres hacer eso.
+
+Algunos monstruos especiales son Uniques. Puedes identificar un único porque él,
+ella o ellos tienen un nombre y personalidad. Muchos de estos vienen con muy
+ideas desagradables cómo librar la mazmorra de ti. Tratarlos con mucho cuidado,
+especialmente si conoces a uno de ellos por primera vez.
+
+Otros, incluso más raros, los obstáculos son estatuas. Una variedad de estatuas pueden aparecer,
+que van desde los granitos inofensivos (que a menudo significan algo
+interés) a los realmente terribles. Ten cuidado cuando veas una estatua así.
+
+Al jugar Crawl, sin duda querrás desarrollar un sentimiento para el
+diferentes tipos de monstruos. Por ejemplo, algunos monstruos se mueven impredeciblemente
+mientras la mayoría ataca de frente. Del mismo modo, atacantes variados o mágicos probarán un
+diferente tipo de amenaza de los luchadores melee. Aprender de muertes pasadas y
+Recuerde qué monstruos plantean los más problemas. Si los monstruos particulares son
+darle problemas, tratar de alterar sus tácticas para futuros encuentros.
+
+Usted puede obtener información sobre un monstruo usando el 'x' (examina)
+comando, moviendo el cursor sobre el monstruo en cuestión, y pulsando 'v'
+para ver los detalles del monstruo; o buscando un monstruo por nombre o
+símbolo con '?/m'. La pantalla de detalles muestra:
+
+- El nombre y descripción del monstruo.
+
+- Bares o números indicando su:
+
+* Max HP: puntos de impacto; cuánto daño puede tomar
+
+* AC: clase de armadura; lo bien que ignora la mayoría de los daños
+
+* EV: evasión; qué bien evita ser golpeado (y tus probabilidades de golpearlo)
+con su ataque de melee actual)
+
+* Voluntad: fuerza de voluntad; su resistencia a la mayoría de Hexes y efectos similares.
+
+- Su nivel de dificultad, velocidad (si diferente a la velocidad media), tamaño,
+resistencias y ataques especiales.
+
+- Sus hechizos y habilidades especiales. Los hechizos y habilidades del monstruo son
+de cuatro tipos:
+
+* Las habilidades naturales son efectos innatos, no mágicos.
+
+* Las habilidades mágicas son efectos mágicos innatos. Se ven afectados
+por antimágico.
+
+* Las habilidades divinas llaman al dios del monstruo por un efecto mágico.
+Son prevenidos por el silencio, pero no afectados por el antímago.
+
+* Los discursos son lanzados usando palabras mágicas memorizadas. Son ambos.
+prevenido por el silencio y afectado por el antimagismo.
+
+------------------------------------------------------------------------
+G. ITEMS
+------------------------------------------------------------------------
+
+En las mazmorras de Crawl hay muchos tipos diferentes de normal y
+artículos mágicos para ser encontrados y utilizados. Algunos de ellos son útiles, algunos son
+desagradable, y algunos dan gran poder, pero a un precio. Algunos artículos son únicos;
+estas tienen propiedades interesantes que pueden hacer su vida bastante extraña
+por un tiempo. Todos caen en varias clases de artículos, cada uno de los cuales es
+utilizado de una manera diferente. Aquí hay una lista general de lo que puede encontrar en
+el curso de tus aventuras, cómo se muestran, y qué comandos
+hay que utilizarlos:
+
+================================================================================================================================================================================================================================================================ ================================================================================================================================================================================================================================================================
+) armas (utilizar 'w'ield)
+(misiles (utilizar 'f'ire o 'F'ire, 'Q' a quiver)
+[ armadura (utiliza 'W'ear y 'T'ake off)
+Pergaminos (usar 'r'ead)
+pociones (utilizar 'q'uaff)
+/ varitas (usar 'V' para evocar, 'Q' para picar)
+= anillos (utiliza 'P'ut on y 'R'emove)
+"amulets (usar 'P'ut on and 'R'emove)
+Permanentes (uso 'w'ield)
+: Libros de hechizos (usar 'M'emorise y 'z'ap, 'Q' to quiver)
+% talismanos (utiliza 'P'ut on and 'R'remove)
+} miscelánea (utilizar 'V' para evocar, 'Q' para picar)
+$ oro (utilizar 'g' para recoger)
+================================================================================================================================================================================================================================================================ ================================================================================================================================================================================================================================================================
+
+Hay varias claves generales para la gestión de los elementos:
+
+d
+elemento de gota; si desea soltar sólo algunos elementos de una pila (de flechas,
+por ejemplo), luego pulse 'd' seguido por un número y luego el artículo
+llave
+
+g
+recoger el artículo del suelo (también con la llave de coma ',')
+
+=
+reasignar la ranura del elemento (trabajos también para ranuras de hechizo y habilidades)
+
+i
+Mostrar inventario - pulsar la clave de un artículo muestra información adicional
+
+{}
+(ver Apéndice 5. "Inscripciones")
+
+\
+lista de verificación de elementos ya descubiertos
+
+Uso del artículo
+================================================================================================================================================================================================================================================================
+
+Usted recoge elementos con el comando 'g'et o ',' (comma) y los deja caer con
+el comando 'd'rop. Cuando se le da un aviso como "¿de qué artículo?", si
+escriba un número antes de la carta del artículo, usted dejará que
+cantidad del artículo (similarmente al recoger). Lo mismo funciona si
+querer recoger sólo parte de una pila y hay varios tipos de elementos
+en la plaza (para que se muestren en una lista). Cuando sólo hay un
+una sola pila de flechas y quieres recoger sólo algunos de ellos, utilizar el
+';' comando. Tenga en cuenta que recoger elementos de un cuadrado toma exactamente uno
+Gira. Sin embargo, dejar varios artículos a la vez toma más turnos.
+
+La escritura 'i' muestra su inventario (lo que usted está llevando). Cuando estés
+dado un aviso como "Throw [or Wield, Wear, etc] qué artículo?", generalmente usted
+obtener una lista de todas las opciones disponibles. Puedes presionar '*' por si quieres
+es algo inusual. Cuando la pantalla del inventario muestra "-más-", para mostrar
+que hay otra página de elementos, puede escribir la letra de la
+elemento que desea, incluso si no es visible, en lugar de presionar Espacio o
+Entra para ver la siguiente página.
+
+Usted puede llevar a la mayoría de 52 artículos a la vez, y su uso de ranura de artículo está impreso
+en la parte superior de la pantalla del inventario.
+
+Puede utilizar el comando Ajuste (la tecla '=) para cambiar las letras a las que
+tus posesiones están asignadas. Este comando se puede utilizar para cambiar el hechizo o
+cartas de habilidad, también.
+
+Artículos como pergaminos, pociones y otros tipos cada uno tiene un
+característica, como una etiqueta o un color, que le permitirá decirles
+aparte sobre la base de su función. Sin embargo, estas características cambian
+entre cada juego, así que mientras en un juego cada poción de curación puede ser
+amarillo, en otro juego todos podrían ser púrpura y bública. Una vez que tengas
+descubrió la función de tal artículo, lo recordarás por el resto
+del juego actual. Puedes acceder a tus descubrimientos con la tecla '\'.
+
+Para obtener una descripción de lo que hace un artículo, inventar el inventario
+(con 'i') y pulse la carta de ese artículo. Prueba esto al comparar
+diferentes tipos de armaduras y armas, pero no esperes demasiado
+información de examinar objetos no identificados.
+
+En la mayoría de los avisos y menús relacionados con el equipo, la tecla ';' es un atajo para
+"último objeto no equipado", que significa la armadura, joyería o arma que más
+recientemente se despegó o desenrolló.
+
+Otro comando útil es la tecla '{', que le permite inscribir artículos con un
+comentario. También puede inscribir artículos al mirar su inventario con
+'i', simplemente pulsando la carta de un artículo. Para más detalles, y cómo
+automatizar este proceso, ver Apéndice 5. "Inscripciones".
+
+Armas
+================================================================================================================================================================================================================================================================
+
+Son bastante importantes. Usted encontrará una variedad de armas en el
+mazmorra, desde pequeñas y rápidas dagas hasta enormes, engorrosas
+y polearmas. Cada tipo de arma hace una cantidad diferente
+daño, tiene una oportunidad diferente de golpear su objetivo, y toma un diferente
+cantidad de tiempo para oscilar. Hay varias habilidades de arma (prisa 'm' para mostrar
+una lista de los que estás entrenando) como Short Blades, Long Blades,
+Ejes, etc. Estas habilidades afectan el daño, la precisión y la velocidad (hasta un punto).
+Lo mismo ocurre con el Combate Desarmado.
+
+Las armas pueden ser encantadas; cuando las identificas primero, revelas valores
+que te dicen cuánto más efectivos son que un inmutable
+versión. Las armas que no están encantadas son simplemente '+0'. Algunas armas también
+tienen efectos mágicos especiales que los hacen muy eficaces contra
+enemigos vulnerables.
+
+Puedes usar armas con el comando 'w', que es una acción muy rápida.
+Si por alguna razón quieres ir con las manos desnudas, escriba 'w' seguido de un
+Hifeno ('-').
+
+La llave de ' (apostrofe) es un atajo que ejerce automáticamente el elemento en
+ranura a. Si el elemento a está siendo pelado, ' te hace pelar el elemento b en lugar,
+si es posible. Trate de asignar la carta a su arma primaria, y b a
+tu arco o algo más que necesites limpiar solo a veces. Note que esto
+es sólo un atajo de escribir y no es funcionalmente diferente a la manipulación
+estos artículos normalmente.
+
+( Misiles
+================================================================================================================================================================================================================================================================
+
+Si los monstruos están disobligingly distantes, puedes usar misiles para debilitar (o
+matar!) de lejos. Usted encontrará una variedad de tipo, que van desde simple
+piedras y javelinas perforantes a dardos sofisticados cubiertos de muchos tipos
+de venenos. Al impacto, los misiles pueden ser destruidos. La oportunidad de esto
+ocurrir depende del tipo de misil.
+
+Los comandos 'F' y 'f' se pueden utilizar para lanzar un misil. El tipo predeterminado
+para ser lanzado (que 'f' lanzará) se muestra en la pantalla "quiver" abajo
+tu arma. Muchos otros artículos, hechizos y habilidades pueden rellenar este cubo
+también.
+
+Ver Apéndice 5. "Inscripciones" para inscripciones que le permiten ajustar el
+lista de artículos a elegir. Vea también la sección de Misiles
+options guide.txt.
+
+Usar el '(', ')' para recorrer el quiver sin disparar, y 'Q' para
+elegir un artículo extraído de una lista. Si quieres elegir algo
+para disparar sin insertarlo en el quiver, use 'F' en su lugar.
+
+La interfaz para disparar o tirar cosas también se utiliza para evocar
+varitas y fundición de ciertos hechizos, y se describe detalladamente en la sección I
+(Targeting).
+
+[ Armour]
+================================================================================================================================================================================================================================================================
+
+Esto también es bastante importante. La armadura más usada mejora su Clase Armour,
+que disminuye la cantidad de daño que toma de la mayoría de los tipos de lesión.
+Cuanto más pesado sea una armadura, más AC (clase de tumor) proporcionará,
+el gasto de su EV (evasión) y robo. Armadura pesada también
+aumenta sus posibilidades de malcasting hechizos y ralentizar sus ataques con
+armas de misiles, efectos que sólo son ligeramente reducidos por su Armour
+habilidad. Estas penas son mayores si usted tiene baja fuerza.
+
+Un escudo normalmente no aumenta ni su AC ni su evasión, pero permite
+intentas bloquear los ataques de melee y algunos ataques variados dirigidos a ti.
+Usar un escudo (especialmente escudos más grandes) ralentiza tus ataques, obstáculos
+tu habilidad para lanzar hechizos, y reduce tu evasión. Los personajes de Weaker son
+más afectado por estas sanciones, pero todos los caracteres pueden reducir y
+eventualmente eliminar estas sanciones dominando la habilidad de los escudos. Tú.
+También obviamente no puede usar un arma de dos manos mientras usa un escudo.
+Los escudos están limitados en cuántos ataques pueden bloquear cada vuelta; más grande
+Los escudos pueden bloquear más.
+
+Algunas armaduras mágicas tienen poderes especiales. Estos poderes a veces
+automático, afectándote cuando usas la armadura, y a veces debes
+ser activado con el comando 'a'.
+
+Puedes usar armadura con el comando 'W', y quitártela con el 'T'
+Comando. Con '[' puedes echar un vistazo rápido a tu equipo actual.
+
+La mayoría de las armaduras se pueden mejorar leyendo el pergamino apropiado. Brazo corporal
+y las barcazas pueden ser encantadas hasta el valor base de AC que proporcionan.
+Los escudos pueden ser encantados hasta +3, +5, o +8, dependiendo de su tamaño.
+Otros equipos se limitan a +2.
+
+Escrolones mágicos
+================================================================================================================================================================================================================================================================
+
+Los olores tienen muchos hechizos mágicos diferentes inscritos en ellos, algunos buenos y
+algo malo. Uno de los pergaminos más útiles es el pergamino de identificación, que
+le dirá la función de cualquier artículo que tenga en su inventario; usted
+podría querer guardar estos para artículos que son peligrosos o desperdicio para usar
+cuando no identificado, como pociones u otros pergaminos. Puedes leer pergaminos
+(y al hacerlo invocar su magia) con el comando 'r'.
+
+Pociones mágicas
+================================================================================================================================================================================================================================================================
+
+Mientras que los desplazamientos tienden a afectar su equipo o su entorno, la mayoría
+las pociones afectan tu carácter de alguna manera. El tipo más común es el
+poción curativa simple, que restaura algunos salud y cura muchas enfermedades,
+pero hay muchas otras variedades de pociones que se encuentran. Pociones pueden ser
+con el comando 'q'.
+
+/ Wands
+================================================================================================================================================================================================================================================================
+
+A veces tendrá la suerte de encontrar un palo que contiene almacenado
+energías mágicas. Wands each have a certain number of charges, which you
+Reconoce inmediatamente cuando los recoges. Cuando recoges una varita
+tipo que ya tiene en inventario, sus cargas se absorben en el
+existente. Cuando los cargos de una varita están totalmente agotados, desaparece.
+
+Las armas están dirigidas de la misma manera que las armas de misiles, y usted puede liberar el
+poder de una varita evocando con 'V'. Véase la sección I para apuntar.
+
+Wands puede ser 'Q'uivered para disparar a través del fuego automático o 'f'ire
+interfaz, como hechizos y munición.
+
+=" Anillos y amuletos
+================================================================================================================================================================================================================================================================
+
+Los anillos mágicos están entre los más útiles de los elementos que encontrará en los
+mazmorra. Mientras están equipados, proporcionan algún tipo de beneficio pasivo al
+portador, como aumentar sus atributos o proporcionar diversos tipos de
+protección. Usa el comando 'P' para poner los anillos, y 'R' para eliminarlos.
+Usted puede usar hasta dos anillos simultáneamente, uno en cada mano; qué mano
+Usted puso un anillo es inmaterial a su función. Si tratas de poner en un
+Anillo mientras ambos dedos de anillo están llenos, se le preguntará cuál a
+Quítate. Los opodos son una excepción, y pueden usar hasta ocho anillos en sus
+tentáculos.
+
+Los amuletos son similares a los anillos, pero tienen diferentes tipos de efectos. Amulets
+se llevan alrededor del cuello, y sólo se puede usar uno a la vez. Es muy
+rápido para llevar o quitar un anillo, pero las magias de los amuletos hacen que sean engorrosos
+Ponte o lárgate.
+
+Puedes presionar '"" para comprobar rápidamente qué joyería estás usando.
+
+Silencio
+================================================================================================================================================================================================================================================================
+
+Hay una serie de tipos de tallas mágicas, cada uno afinado a un diferente
+clase de hechizos. Mientras se marchitan aumentan enormemente el poder de eso
+clase de hechizos. Incluso se pueden utilizar en el combate de la melee, aunque con
+eficacia mediocre a menos que pueda aprovechar su poder especial, utilizando un
+combinación de la habilidad Evocations y la habilidad específica del personal
+tipo.
+
+: Libros
+================================================================================================================================================================================================================================================================
+
+La mayoría de los libros contienen hechizos mágicos que su personaje puede ser capaz de
+aprender. Al recoger un libro, todos los hechizos en él se añadirán a
+su biblioteca de hechizos, que le permite acceder a una descripción de cada hechizo o
+memorizar hechizos con el comando 'M'.
+
+De vez en cuando encontrará manuales de alguna habilidad. Cuando recojas uno,
+su experiencia tendrá el doble de efecto habitual cuando se utiliza para el entrenamiento
+esa habilidad. Una vez que se ha ganado cierta cantidad de experiencia de bonificación
+De esta manera, descarte automáticamente el manual terminado.
+
+% Talismanos
+================================================================================================================================================================================================================================================================
+
+Los talismanos permiten que su usuario se convierta en una forma diferente. Entrar o
+dejar un formulario con un talismán requiere un breve período de concentración,
+pero de lo contrario, los formularios duran hasta que el usuario decide dejarlos.
+
+La mayoría de los talismanos requieren cierta cantidad de habilidad de Shapeshifting, sin la cual a
+el usuario encontrará su salud máxima reducida hasta que deje el formulario.
+Shapeshifting habilidad también aumenta otros beneficios proporcionados por los talismanos
+formas, aunque los talismanos más débiles tienen un límite a la habilidad útil que puede ser.
+
+{ Varios
+================================================================================================================================================================================================================================================================
+
+Estos son artículos que no entran en ninguna otra categoría. Pueden ser
+Evocado con V, como varitas. Runes, un artículo en particular en este
+categoría, no tienen ninguna función excepto abrir el juego final. Debes
+recoger al menos tres para entrar en el reino de Zot. Algunos
+particularmente arrogantes aventureros jactan acerca de haber recuperado diez o incluso
+15 corre por su fuerza y astucia, pero la mayoría de los eruditos en los
+sujeto de Zot está de acuerdo en que tal cosa es probablemente imposible en el primer
+lugar, y segundo sería un logro sin sentido en cualquier sentido.
+
+Miscelánea a menudo puede ser 'Q'uivered para disparar a través del fuego automático o
+'f'ire interface, como hechizos y munición.
+
+$ Oro y gemas
+================================================================================================================================================================================================================================================================
+
+El oro se puede utilizar para comprar artículos si se corre a través de tiendas. También hay un
+pocos usos esotéricos más para el oro.
+
+Las gemas son artículos extremadamente raros que se encuentran al final de muchas ramas de mazmorras.
+Son completamente inútiles dentro de la mazmorra, y sólo un
+aventurero arrogante se establecería para recuperar incluso uno al mundo exterior.
+Zot acapara estas gemas celosamente, y las destruirá sin descanso poco después
+un aventurero entra en la rama de la mazmorra en la que descansan.
+
+Sin embargo, un aventurero muy rápido puede tomar una gema primero y mantener su
+preciosos fragmentos. Zot no puede rastrear gemas fuera de sus ramas de casa, así que con
+verdaderamente sorprendente velocidad, incluso podría ser posible abstenerse con uno
+todavía intacto... pero tal hazaña es difícil de acreditar, y probablemente
+Sin sentido además.
+
+Una vez que el Orbo de Zot sea tomado, Zot será incapaz de romper cualquier gema.
+
+Artefactos
+================================================================================================================================================================================================================================================================
+
+Armas, armaduras, joyas y libros de hechizos pueden ser artefactos. Vienen
+dos sabores: artefactos creados aleatoriamente ('randarts') y predefinidos
+('unrandarts'). Randarts siempre llevará nombres inusuales, como "golden
+Espada doble o "paquete de escala brillante". Artefactos no se pueden modificar en
+de cualquier manera, incluyendo encantamientos.
+
+Aparte de eso, los artículos mundanos pueden obtener una propiedad especial.
+Estos se denominan 'objetos', y los ejemplos son: botas de vuelo, un arma
+de inflamación, un casco de invisible, y así sucesivamente. Tenga en cuenta que, a diferencia
+artefactos, tales elementos pueden ser modificados por pergaminos encantadores.
+
+Todos los elementos del ego se observan con adjetivos especiales pero no todos los elementos señalados en
+de esta manera necesitan tener una propiedad especial (con frecuencia tienen algo positivo
+encantamiento, en cambio):
+
+:general: resplandeciente, corredo;
+: armaduras metálicas: brillante;
+: armaduras de cuero: teñido;
+: otras armaduras: bordadas.
+
+------------------------------------------------------------------------
+H. SPELLCASTING
+------------------------------------------------------------------------
+
+Los hechizos mágicos son una parte muy importante de sobrevivir en la mazmorra. Cada uno
+el carácter puede hacer uso de hechizos mágicos.
+
+Hay muchas habilidades relacionadas con la magia, siendo el principal
+Spellcasting. Spellcasting determina el número de Puntos Mágicos disponibles;
+también ayuda a lanzar cualquier hechizo, aunque menos que las escuelas asociadas
+con un hechizo. A continuación, hay varias escuelas mágicas generales (Conjuración,
+Hexes, Summoning, Necromancy, Forgecraft, Translocation and Alchemy) as
+así como varias escuelas elementales (Fire, Hielo, Aire y Tierra). A particular
+El hechizo puede pertenecer a hasta tres escuelas. Ser calificado en las escuelas de un hechizo
+mejora la oportunidad de fundición y el poder de ese hechizo.
+
+Los discursos se almacenan en libros, que ocasionalmente encontrará en el
+mazmorra. Una vez que haya recogido un libro y añadido su contenido a su
+biblioteca de hechizos, puedes memorizar un hechizo usando el comando 'M'.
+
+Además de recoger nuevos hechizos, su personaje también puede desear conseguir
+deshacerse de los viejos leyendo un pergamino de amnesia, que le permitirá escoger un
+hechizo para olvidar.
+
+Cada hechizo tiene un nivel. El nivel de un hechizo denota la cantidad de habilidad
+requerido para utilizarlo, el coste MP de fundición, e indica cuán poderoso
+Puede ser. Usted sólo puede memorizar un cierto número de niveles de hechizos; tipo
+'M' para averiguar cuántos. Cuando usted gana niveles de experiencia o avance
+Destreza de transmisión, sus máximos aumentos; usted tendrá que ahorrar para
+varios niveles para memorizar los hechizos más poderosos.
+
+Hay dos maneras de activar hechizos memorizados: "quiver" ellos y
+usando la interfaz de fuego, o directamente pulsando 'z' (para Zap). Para elegir
+un hechizo para el acolchado, utilizar 'Q', o '(' y ') para el ciclo entre lo posible
+acciones. Presione 'f' para entrar en la interfaz de destino, o cambio-tab / 'p' para
+autentica un hechizo en el monstruo más cercano.
+
+Use 'I' para mostrar una lista de todos los hechizos memorizados sin realmente casting
+Uno. Los hechizos disponibles están etiquetados con letras; usted es libre de cambiar
+este etiquetado con el comando '='. Puede asignar ambos maletines y
+letras mayúsculas a hechizos. Algunos hechizos, por ejemplo la mayoría de los daños que se tratan
+Unos, requieren un objetivo. Vea la siguiente sección para detalles sobre cómo apuntar.
+
+La mayoría de los hechizos tienen tapas sobre sus efectos: no importa lo inteligente y
+competente eres, hay un límite al daño que puedes lograr con un
+Magic Dart. En general, es una buena idea ver la salida del 'I'
+y 'II' pantallas para obtener una imagen en sus habilidades de casting. Esto es...
+especialmente útil si estás a punto de cambiar armadura o anillos.
+
+Los hechizos de alto nivel son difíciles de fundir, y usted puede maldecir cada uno
+de vez en cuando (resultando en un desperdicio de magia y posiblemente peligroso
+efectos secundarios). Tu oportunidad de no lanzar un hechizo adecuadamente depende de
+tus habilidades, tu inteligencia, el nivel del hechizo y si eres
+usando armadura pesada. La posibilidad de malinterpretar un hechizo se muestra en el
+pantalla de hechizos, y coloreado basado en la gravedad (amarillo para daño moderado,
+rojo claro para daños mayores, rojo para daño extremo, y magenta para
+daño potencialmente letal).
+
+¡Ten cuidado con los enemigos que usan magia! Algunos de ellos pueden usar la magia también
+como tú, si no mejor, y a menudo lo usas inteligentemente.
+
+------------------------------------------------------------------------
+I. TARGETING
+------------------------------------------------------------------------
+
+Al lanzar o disparar algo, evocando varitas, o echando ciertas
+hechizos, te piden una dirección. Hay varias maneras de decirle a Crawl
+que monstruo apuntar.
+
+Usted puede presionar '?' cuando se le pide una dirección; esto traerá una ayuda
+pantalla. De lo contrario, utiliza los siguientes comandos:
+
+- El cursor apuntará al monstruo que está más cerca de tu posición.
+Si usted ha estado disparando a algo anteriormente, con el delincuente
+todavía estando a la vista, el cursor se descansará en el anterior
+objetivo.
+- Presionar '+' o '=' mueve el cursor al siguiente monstruo, pasando de
+más cerca
+más lejos. Del mismo modo, '-' ciclos hacia atrás.
+- Cualquier tecla de dirección mueve el cursor por un cuadrado. En ocasiones, puede ser
+útil para apuntar cuadrados no habitados.
+- Los objetivos se pueden seleccionar en una lista pulsando 'Ctrl-X'.
+- Cuando estés satisfecho con tu elección del objetivo, pulsa una tecla de Enter,
+Del,
+o espacio para disparar al objetivo. Si presionas '.', también llamas, pero el
+hechizo/misil se detendrá en la plaza del objetivo si se pierde. Esto puede ser
+útil para mantener a los amigos fuera del fuego, o para asegurarse de que su precioso
+Los misiles no terminarán en aguas profundas.
+- Puedes presionar a Escape si cambiaste de opinión - no se deducen giros.
+
+Hay algunos atajos mientras se apuntan:
+
+- Titular la dirección Shift en sus fuegos de teclado de inmediato en eso
+- Presionar 'p' o 'f' incendios en el objetivo anterior (si es
+todavía vivo y en
+vista). Debido a esto, la mayoría de los cazadores pueden ir un largo camino pulsando 'vf' a
+disparar su munición a un monstruo y luego seguir disparando con
+más 'vf' golpes. A veces, será útil cambiar objetivos con
+los comandos '+' o '-', sin embargo.
+
+Si te apuntas mientras disparas algo dañino (que puede ser
+sensible a veces), se le pedirá confirmación.
+
+Finalmente, la tecla ':' le permite ocultar el camino de su
+hechizo/wand/missile.
+
+------------------------------------------------------------------------
+J. RELIGION
+------------------------------------------------------------------------
+
+Hay un número de dioses, demonios y otros poderes surtidos que harán
+aceptar la adoración de tu personaje, y a veces dar favores en
+intercambio. Puede utilizar el comando '^' para comprobar los requisitos de quien sea
+es que ustedes adoran, y si encuentran la religión para ser un inconveniente
+siempre puede renunciar a su fe (utiliza el comando 'a' - pero la mayoría de los dioses resentimiento
+ser despreciado). Más detalles se pueden ver con '!' mientras que en el '^'
+pantalla.
+
+Para usar cualquier poder que tu dios te considere adecuado, accede a las habilidades
+menu via el comando 'a'; habilidades dadas por Dios se enumeran como invocaciones.
+Muchas habilidades de dios pueden ser 'Q'uivered para desencadenar a través del 'f'ire o
+interfaz de autofuego.
+
+Dependiendo del fondo, algunos personajes comienzan religiosos; otros tienen
+orar en un altar para dedicarse a una vida de servidumbre. Ahí está.
+son altares repartidos por toda la mazmorra, y hay rumores de
+templo especial cerca de la superficie.
+
+En un altar, usted puede entrar en el servicio de un dios pulsando не o не. Tú primero.
+se le da una descripción del dios, y luego se le pregunta si realmente quieres
+únete. Para ver una lista de los dioses estándar y cuál de sus altares tienes
+visto en su juego actual, pulse 'Ctrl-O'. Usted también puede aprender sobre todo
+dioses presionando '?/G'.
+
+Note que algunos dioses son exigentes acerca de quién puede entrar en su servicio; porque
+ejemplo, los dioses buenos no aceptarán devotos demoníacos o no muertos.
+
+Si desea comenzar el juego con una religión, elija su fondo
+de Berserker, Caos Knight, o Cinder Acolyte.
+
+------------------------------------------------------------------------
+K. MUTATIONS
+------------------------------------------------------------------------
+
+El Dungeon contiene muchas fuentes de radiación mutagénica y mágica
+contaminación, lo que puede causar que su carácter obtenga semipermanente
+mutaciones si están afectadas. Puede utilizar el comando 'A' para ver una lista de cualquier
+mutaciones que has adquirido. Las mutaciones individuales pueden ser examinadas
+más detalles pulsando la carta con la que se etiquetan.
+
+Muchas mutaciones son en realidad beneficiosas para su carácter, pero hay
+Muchos desagradables también. Algunas mutaciones tienen múltiples niveles, cada una
+que cuenta como una sola mutación.
+
+Los hechizos erráticos causarán contaminación mágica, que a su vez puede causar
+mutaciones si se acumula demasiada contaminación inmediatamente. Ciertos poderosos
+hechizos mágicos (como 'Irradiate') también causan contaminación como un
+Efecto secundario incluso cuando tenga éxito. Un único uso de estos efectos es seguro
+sus propios, pero múltiples usos en sucesión corta, o uso con existente
+contaminación procedente de otras fuentes puede causar niveles peligrosos
+contaminación.
+
+Las mutaciones de contaminación mágica son casi siempre dañinas. Mutaciones
+también puede ser causado por pociones específicas o por hechizos lanzados por poderosos
+enemigos encontrados en el mazmorra.
+
+Es más difícil deshacerse de las malas mutaciones que conseguir una. Uso
+pociones de mutación eliminarán una serie de sus mutaciones actuales, pero
+te dará más mutaciones. Esto podría ser mejor para tu gusto. Sin embargo,
+las únicas maneras seguras es unirse a los dioses Zin o Jiyva, cada uno de los cuales
+proporciona algún remedio contra las mutaciones.
+
+Los demonios son un caso especial. Los personajes de esta especie se aseguran
+mutaciones especiales a medida que ganan niveles; éstas se enumeran en cian. Ellos son
+permanente y nunca se puede eliminar. Si uno de tus poderes Demonspawn tiene
+aumentada por una mutación al azar, se muestra en un color más claro.
+
+Muchas especies tienen características intrínsecas especiales, como garras de Trolls y
+La piel de los amigos. Estos también se pueden ver en la pantalla 'A'. Si mejorada por a
+mutación, se mostrarán en azul claro. (Las mutaciones no pueden eliminar
+especies intrínsecas.) Algunas de estas características innatas proporcionarán un
+habilidad activada, que se puede utilizar con el comando 'a'.
+
+Algunas mutaciones son sólo temporales y se disiparán después de matar más
+enemigos. Estos están listados en púrpura en la lista de mutaciones, y marcados como
+temporal.
+
+------------------------------------------------------------------------
+L. LICENCIA, CONTACTO, HISTORIA
+------------------------------------------------------------------------
+
+Consulte la licencia.txt para obtener información sobre las licencias de Crawl. La mayoría del juego
+componentes están licenciados en la versión 2 o posterior del GNU General Public
+Licencia; aquellos que no están bajo licencias compatibles.
+
+Descargo
+Este software se proporciona como es, sin absolutamente ninguna garantía expresa o
+implícito. El uso de ella está en el único riesgo del usuario. No hay responsabilidad
+aceptado por cualquier daño al usuario o a cualquiera de las posesiones del usuario.
+
+Contacto e información comunitaria
+================================================================================================================================================================================================================================================================
+
+La página principal de Crawl es:
+
+http://crawl.develz.org
+
+Utilice esta página para enlaces directos a descargas de la versión más reciente. Tú.
+también puede presentar informes de fallos sobre el rastreador de problemas GitHub en:
+
+https://github.com/crawl/crawl/issues
+
+Si quieres discutir Crawl, un buen lugar para hacerlo es el canal #dcs
+de la discordia Roguelikes:
+
+https://discord.gg/GtT7xMe
+
+También hay un subreddit activo para la discusión del juego:
+
+https://www.reddit.com/r/dcss/
+
+En ambas comunidades, los temas relacionados con este juego suelen reunirse con un
+respuesta cálida, incluyendo cuentos de runas incautadas, victorias (especialmente primera
+victorias), y tristes historias de personajes fallecidos. También hay generalmente
+jugadores experimentados alrededor listo para dar consejos sobre opciones de equipo, apretado
+manchas u otros dilemas. La discordia tiene un relé al bot Sequell IRC
+que proporciona información útil y estadísticas sobre el juego.
+
+Algunos jugadores frecuentan el canal #crawl en la red Libera IRC, que
+es también el hogar de Sequell y otros bots info. Para los interesados en
+desarrollo del juego, ver el canal #crawl-dev, que es frecuentado por muchos
+miembros del equipo de desarrollo del juego.
+
+Historia
+================================================================================================================================================================================================================================================================
+
+Crawl comenzó como Dungeon Crawl de Linley, creado en 1995 por Linley Henzell.
+Linley basado Crawl en los populares roguelikes del tiempo, a saber Moria, Hack,
+y NetHack, también tomando inspiración de los RPG tradicionales como Ultima IV.
+El objeto de su búsqueda en Crawl, el Orbo de Zot, fue tomado del Mago
+Castillo, una aventura de texto escrita en BASIC.
+
+Linley produjo versiones Crawl hasta las 3.30, publicadas en marzo de 1999. Further
+trabajo fue llevado a cabo por un grupo de desarrolladores que liberaron 3.40 en
+Febrero de 2000. De estos desarrolladores, Brent Ross surgió como el único
+mantenedor, produciendo versiones hasta 4.0 beta 26 en 2002. Brent soltó un
+alpha version 4.1 in August 2005, which vastly overhauled the codebase and
+reelaboró muchos de los aspectos del juego, pero también aumentó considerablemente
+dificultad. Para este punto, Brent ya no tenía suficiente tiempo libre para desarrollar
+Crawl. De ahí que Darshan Shaligram, que había contribuido anteriormente a muchos UI
+mejoras, reclutado el jugador a largo plazo Erik Piper para iniciar un nuevo proyecto
+y continuar el desarrollo.
+
+Darshan y Erik intentaron incorporar ideas del alfa 4.1 y producir
+un juego más equilibrado y agradable. Llamando a su proyecto "Dungeon Crawl:
+Stone Soup" en referencia a su proceso de colaboración, ellos sacaron a muchos
+4.1 mejoras en la base de código 4.0 beta 26, prueba de juego y ajuste
+los resultados. Dungeon Crawl: Stone Soup versión 0.1 fue lanzado a USENET
+en septiembre de 2006, con muchos desarrolladores adicionales
+equipo. Vea la propia cuenta de Darshan de la creación del proyecto aquí:
+
+https://crawl.develz.org/wordpress/the-dawn-of-stone-soup
+
+El desarrollo de Crawl continúa hasta hoy, con un equipo de muchos
+desarrolladores y cientos de colaboradores.
+
+------------------------------------------------------------------------
+M. MACROS, OPTIONS, PERFORMANCE
+------------------------------------------------------------------------
+
+Crawl soporta las teclas de redefinición a través de mapas clave. Esto es útil cuando tu
+El diseño del teclado hace que una clave sea incómoda para usar. También puede definir macros:
+estas son secuencias de comandos que pueden hacer jugar mucho más
+conveniente. Tenga en cuenta que la asignación 'a' a otra clave tratará casi todo
+presiones de 'a' de esa nueva manera (incluido el descenso y el marchito, etc.),
+así que no se recomienda. Macroing 'a' a otra clave sólo cambiará
+comando key 'a'.
+
+Puedes configurar mapas clave y macros en el juego con la tecla '~' ('Ctrl-D')
+también trabajo); esto también permite guardar todos los enlaces clave actuales y
+macros. Alternativamente, puede editar directamente el archivo macro.txt. Para más
+información sobre ambos y para ejemplos, vea macros guide.txt.
+
+Crawl admite un gran número de opciones que permiten una gran flexibilidad
+en la interfaz. Están completamente documentados en el archivo options guide.txt.
+Las opciones se establecen en el archivo ~/.crawlrc (para sistemas UNIX -
+copiar init.txt a ~/.crawlrc) o init.txt (para Windows).
+
+Varias rutinas de interfaz son subcontratadas a scripts Lua externos. El
+La distribución estándar los tiene en el directorio dat/clua/. Echa un vistazo
+los scripts individuales para descripciones cortas.
+
+En general, Crawl debe funcionar rápidamente en todas las máquinas (se compila fuera de la
+caja para Linux, Windows, OS X y, en menor medida, otros Unices.
+Si, por alguna razón, encuentra Crawl corre inaceptablemente lentamente en su
+máquina, hay algunas medidas que pueden mejorar la situación:
+
+- set travel delay = -1 para evitar rocíos de pantalla durante el viaje (esto podría
+Ser
+especialmente útil si juega en un servidor remoto)
+- intenta jugar en modo consola en lugar de fichas
+
+------------------------------------------------------------------------
+N. PHILOSOPHY (PAS DE FAQ)
+------------------------------------------------------------------------
+
+En pocas palabras: Este juego pretende ser una mazmorra táctica con temática de fantasía
+Arrastre. Nos esforzamos por que la estrategia sea también una preocupación, y para exquisita
+juego e interfaz. Sin embargo, no esperes tramas o misiones.
+
+Usted puede reflexionar sobre la sabiduría de ciertas decisiones de diseño de Crawl. Esto
+La sección trata de explicar algunos de ellos. También podría ser de interés si usted
+se utilizan para otros roguelikes y quieren un poco de fondo en
+diferencias. Los primeros pilares del desarrollo de Crawl son los siguientes, la mayoría
+de los cuales se explican con más detalle a continuación. Tenga en cuenta que muchas de estas fechas
+volver a las primeras versiones de Linley.
+
+Principales objetivos de diseño
+* juego desafiante y aleatorio, con habilidad haciendo una diferencia real
+* decisiones significativas (sin cerebros)
+* evitación de la molienda (sin recortar)
+* juego de soporte de interfaz indoloro y soporte de novato
+
+Objetivos de diseño menores
+* claridad (jugabilidad sin necesidad de spoilers)
+* Congruencia interna
+* replayability (usando ramas, especies, jugando estilos y dioses)
+* uso adecuado de monstruos fuera de profundidad
+
+Saldo
+================================================================================================================================================================================================================================================================
+
+Las nociones de equilibrio, o de desequilibrio, son extremadamente vagas. Aquí está.
+nuestra definición: Crawl está diseñado para ser un juego desafiante, y también es
+reconocido por su aleatoriedad. Sin embargo, esto no significa que los triunfos sean un
+cuestión arbitraria de la suerte: la habilidad de los jugadores tendrá la mayor
+impacto. Así que, sí, puede haber situaciones en las que estás condenado - sin acción
+Podría haberte salvado la vida. Pero entonces, desde el medio juego, la mayoría de las muertes son
+no de este tipo: En esta etapa, casi todas las bajas se pueden rastrear
+a errores reales; si no tácticos, entonces de tipo estratégico, como
+destrezas erróneas (demasiado amplias o demasiado estrechas), uso no racional de los recursos (demasiado
+conservador o demasiado liberal), o decisiones erróneas sobre rama/god/gear.
+
+La posibilidad de muertes inevitables es un tema más grande en los juegos de computadora.
+Idealmente, un juego como este sería muy difícil y ambos al azar
+diseño y curso de acción al azar, sin embargo todavía ser winnable con perfecto
+Toca. Este objetivo parece estar fuera de alcance. Así, los juegos de computadora pueden ser suaves en el
+sentido que el juego óptimo garantiza una victoria. Aparte de los rompecabezas, esto
+significa que el juego se resuelve desde el principio; aquí es donde la falta de un
+El maestro de juego humano es obvio. Alternativamente, pueden ser difíciles en el sentido
+que pueden ocurrir muertes inevitables. Sentimos que la última elección proporciona
+mucho más divertido a largo plazo.
+
+Crawl tiene un gran número de bóvedas/mapas hechas a mano para recortar el azar.
+Mientras que la colocación, y a menudo partes del contenido, de tales bóvedas son
+al azar también, proporcionan varias ventajas: bóvedas ofrecen desafíos
+que son muy difíciles de conseguir a través de monstruos aleatorios y la generación de diseño;
+pueden centrarse en algún tema, proporcionando inmersión adicional; finalmente,
+a menudo contienen algunos botín, obligando a los jugadores a decidir entre seguridad
+y codicia.
+
+(El próximo tema también puede ser archivado en equilibrio; vea Rejugabilidad por lo que
+el equilibrio no significa para nosotros.)
+
+Cruzada contra no cerezos
+================================================================================================================================================================================================================================================================
+
+Un punto muy importante en Crawl es alejarse de los no cerebros. Hablando
+sobre juegos en general, donde sea que no hay cerebro, eso significa el
+equipo de desarrollo puso mucho esfuerzo en proporcionar una "elección" que es
+Realmente no es una opción interesante. Y eso es una perdida horrible
+oportunidad para divertirse. Ejemplos para esto son las resistencias: hay muy
+pocas fuentes permanentes, la mayoría implica una opción (como anillos o específicos
+armadura) o son sólo semipermanentes (como mutaciones). Otro ejemplo es el
+ausencia de los mejores artículos de corte claro, que viene del hecho de que la mayoría
+Los artefactos se generan aleatoriamente. Además, pergaminos de la oferta de adquisición
+una selección aleatoria de artículos en lugar de un deseo específico. Del mismo modo, hay
+no seguro-fuego medios de salvar vidas (los equivalentes más cercanos son pergaminos de
+parpadear, y una buena posición religiosa para algunas deidades).
+
+Antigrinding
+================================================================================================================================================================================================================================================================
+
+Otro principio básico del diseño es la evitación de la molienda (también conocido como
+scumming). Estas son actividades que tienen bajo riesgo, toman mucho tiempo, y
+trae algo de recompensa. Esto es malo para el diseño de un juego porque alienta
+jugadores para aburrirse. Aún peor, puede ser óptimo hacerlo. Lo intentamos
+para evitar esto!
+
+Esto explica por qué las tiendas no compran: de lo contrario los jugadores rebosarán
+mazmorra para vender artículos. No meterse con la iluminación también cae en esto
+categoría: puede haber un beneficio para el estado de ánimo cuando los jugadores tienen que llevar
+velas/torchas, pero no vemos ningún beneficio de juego. La táctica profunda
+gameplay Crawl busca los niveles de mazmorras permanentes necesarios. Muchas veces
+los personajes tienen que elegir entre descender o luchar. Mientras que la precaución es
+una virtud en Crawl, como es en muchos otros roguelikes, hay fuerte
+fuerza a conducir personajes más profundos.
+
+Interfaz
+================================================================================================================================================================================================================================================================
+
+La interfaz está diseñada radicalmente para facilitar el juego - este sonido
+trivial, pero en serio. Todo tedioso, pero necesario, las tareas deben ser
+automatizado. Ejemplos son viajes de larga distancia, exploración y toma de notas.
+Además, tratamos de atender diferentes preferencias: tanto ASCII como baldosas son
+apoyados; como son vi-keys y numpad. La documentación es abundante,
+context-specific and always available in-game. Finalmente, nos relajamos
+comenzó a través de tutoriales.
+
+Claridad
+================================================================================================================================================================================================================================================================
+
+Las cosas deben funcionar de manera intuitiva. Crawl definitivamente es winnable
+sin acceso de spoiler. Relativa a detalles importantes pero ocultos (es decir, hechos
+nuestra política es esta: la alegría de descubrir algo
+El botín es bueno, una vez. (Y desaparece antes de que pueda empezar si te sientes
+necesidad de leer los spoilers - un sentimiento legítimo.) La alegría de tratar con
+situaciones estratégicas y tácticas siempre cambiantes, inesperadas y desafiantes
+que surge de reglas transparentes, por otro lado, es agradable de nuevo y
+otra vez. Dicho esto, creemos que la retroalimentación cualitativa es a menudo mejor que
+números precisos.
+
+En términos concretos, o bien deletreamos un mecánico de juego explícitamente
+(ya sea en el manual, o por retroalimentación en el juego) o dejarlo a min-maxers si
+sentimos que el enfoque ingenuo es lo suficientemente bueno.
+
+Consistencia
+================================================================================================================================================================================================================================================================
+
+Mientras no hay trama de la que hablar, el juego todavía debe ser establecido en
+universo Crawl consistente. Por ejemplo, los nombres de los artefactos deben ajustarse a los
+humor, las bóvedas deben ser colocadas y los monstruos deben encajar de alguna manera
+Bueno. Esencialmente, esto es sobre la inmersión del jugador. Como tal, es bueno
+tienen en mente, pero la consistencia es siempre secundaria a juego. Un típico
+ejemplo es el comportamiento del jugador vs. monstruo: mientras tratamos de hacer estos
+idéntica (o similar), hay buenas razones para mantenerlas distintas en
+ciertos casos.
+
+Replayability
+================================================================================================================================================================================================================================================================
+
+Esto es realmente muy importante, pero en algún sentido sólo un corolario al
+grandes objetivos de diseño. Además de estos, hay varios otros puntos ayudando
+para hacer que Crawl se divierta una y otra vez:
+
+Diversidad
+cada vez que hay opciones para el jugador, sea esa elección de especies, dios,
+arma o hechizo, las diversas opciones deben ser realmente diferentes. Es
+no es bueno proporcionar docenas de armas con nombres diferentes (y tal vez
+incluso números) si, al final, todos juegan igual.
+
+Muchas especies diferentes
+Esto se debe en parte al sistema de habilidades y aptitud. Del mismo modo importante
+son los bonos de inicio incorporados/handicaps de especies; estos a menudo tienen
+gran impacto en el juego. Para nosotros, el equilibrio no significa que todas las combinaciones
+de fondo y especies juegan igualmente bien! Algunos son mucho más
+desafiante que otros, y esto está bien con nosotros. Cada especie tiene
+menos algunos antecedentes jugando bastante bien, sin embargo.
+
+Diseño de Dungeon
+Incluso los jugadores veteranos pueden encontrar la tumba o los infiernos emocionantes (que son
+diseñado tal que las situaciones que ponen en peligro la vida siempre pueden aparecer). Éstos
+y otras ramas pueden o no encajar en la acumulación de un determinado personaje. Por el
+manera, creemos firmemente que los juegos son inútiles si usted puede alcanzar el
+estado invencible.
+
+Religión
+Esto aborda a los nuevos jugadores, como llegar al Templo y elegir un dios
+se convierte en la primera tarea importante de la mayoría de los juegos. Pero la religión también es un punto
+en favor de la replayabilidad para jugadores experimentados, desde la elección de
+Dios puede importar tanto como las especies.
+
+Jugar estilos
+Relacionados con, pero abarcando, especies, fondo, dios son fundamentalmente
+diferentes estilos de juego como melee luchador orientado, apuñalado, etc.
+Decidir si (y cuándo!) hacer una transición de estilo puede hacer o
+juegos de descanso.
+
+De las profundidades
+================================================================================================================================================================================================================================================================
+
+De vez en cuando una discusión sobre el AOD injusto de Crawl (sin profundidad)
+Los monstruos aparecen, como un dragón en el segundo nivel de mazmorras. No.
+bichos! En realidad, son parte del objetivo de diseño de aleatoriedad. En este caso,
+también sirven como motivación adicional: en muchas situaciones, la OOD
+monstruo puede ser sobrevivido de alguna manera, y el vínculo mental con el personaje
+entonces seguramente crecerá. Los monstruos de OOD también ayudan a mantener a los jugadores en sus pies
+haciendo niveles poco profundos aún no triviales. En una vena similar, viajes tempranos
+al Abismo no son déficits: hay más de una salida, y
+escapar con éxito es emocionante para cualquiera.
+
+################################################################################################################################################################################################################################################################
+Apéndices
+################################################################################################################################################################################################################################################################
+
+------------------------------------------------------------------------
+1. LIST OF CHARACTER SPECIES
+------------------------------------------------------------------------
+
+Las especies se clasifican, aproximadamente, por lo difícil y complejo que son
+aprender a jugar, en tres categorías: *Simple*, *Avanzado*, y
+*Advanced*. Estas categorías no necesariamente se ajustan a las dificultades
+un experimentado jugador de Crawl, pero más bien están destinados como una indicación de
+qué grado tiene una especie mecánica inusual o compleja, o requiere
+conocimiento más profundo/más amplio de cómo funciona el juego. (Por ejemplo, Djinn tiene uno
+de las tasas de ganancia más altas de todas las especies, pero se clasifican como
+"Avanzado" porque su mecánico de no-mp/no-books toma algo de adaptación
+a, y tiene interacciones no-triviales con el fondo y la elección de dios.)
+A pesar de ser el resultado de una discusión entre muchos jugadores, estos
+las categorizaciones definitivamente tienen un elemento subjetivo para ellos, y usted
+¡No debería llevarlos a limitarlos!
+
+El orden dentro de las categorías es también, aproximadamente, determinado por nuestro mejor
+juicio sobre la relativa facilidad de aprendizaje para jugar cada especie.
+
+Al lado del nombre de cada especie, entre paréntesis, está la abreviación canónica
+para la especie.
+
+Nota: Use 'A' para comprobar qué peculiaridades particulares podría una especie
+Sí. Además, algunas especies tienen habilidades especiales que pueden ser
+accedido por el menú de habilidades. Algunos también tienen físico
+características que les permiten realizar ataques adicionales.
+
+Nota: Los humanos son un punto de referencia útil al considerar otras especies:
+tienen 0 para casi todas las aptitudes; no tienen habilidades especiales,
+debilidad o limitaciones contra el uso de ciertos tipos de
+equipo; moverse normalmente; y ganar experiencia y fuerza de voluntad
+Tasa "típica". Sin embargo, verás que están categorizados
+como una especie * Intermedio* - porque son decentes, pero no
+excelente, en casi todo, un humano puede necesitar hacer uso de
+todo tipo de mecánica de juego dependiendo de lo que encuentren en el
+mazmorra, y saber cómo defenderse contra cualquier tipo de daño
+o atacarlo se encuentra.
+
+Especies simples
+=================
+
+Especies clasificadas como *Simple* trabajan directamente para los jugadores que tienen
+menos experiencia con la mecánica de juego de Crawl. Mientras que muchos tienen arcas,
+estos quirks tienden a ser rasgos pasivos que simplifican el juego, en lugar de
+desafíos que un jugador tiene que trabajar conscientemente alrededor. Mientras que todos estos
+las especies tienen debilidades de algún tipo, estas debilidades son simples
+entender, no son fundamentalmente lisiados a todos los miembros de la especie,
+y están equilibrados por otras fortalezas. En muchos casos las propiedades especiales
+de estas especies permiten al jugador dejar a un lado muchos aspectos del juego
+mientras todavía se desarrolla un carácter fuerte.
+
+
+Gnolls (Gn)
+Los gnolls son una especie de humanoides caniformes que originalmente aclaman desde los
+desiertos áridos y pastizales del este. En la historia reciente tienen
+se atrajo inusualmente al Dungeon, estableciendo tribus alrededor y
+incluso dentro de ella. Desafortunadamente su larga estancia en el Dungeon tiene
+expusieron sus mentes algo frágiles a cantidades excesivas de su magia.
+
+Por un lado, sus cerebros extrañamente alterados ahora tienen increíbles
+competencia para aprender cada habilidad. Por el otro, estas mismas alteraciones
+han dejado a los Gnolls incapaz de aprender selectivo. Ellos aprenden todo
+habilidades al mismo tiempo, así que generalmente no pueden especializarse en nadie
+cosa.
+
+Para sobrevivir con esta limitación, los Gnolls utilizan su universalidad
+conocimiento para aprovechar todos los recursos que encuentran en el Dungeon.
+También tienen un cuchillo para encontrar objetos, permitiéndoles localizar fácilmente
+los tesoros escondidos de Dungeon.
+
+Minotauros (Mi)
+Los Minotauros son una especie de híbridos, poseyendo cuerpos humanos con
+Cabezas bovinas. Se adentran en el Dungeon por su instinto
+amor a los pasajes retorcidos.
+
+Los minotauros son extremadamente buenos en todas las formas de combate físico, pero son
+horrible al usar cualquier tipo de magia. Pueden usar toda la armadura excepto para
+un poco de cabeza. Cuando en combate cercano, Minotauros son capaces de reflexivamente
+los que se atreven a atacarlos.
+
+Merfolk (Mf)
+El Merfolk es una especie híbrida de medio humano, medio pez que típicamente
+viven en los océanos y ríos, rara vez ventándose hacia la tierra. Sin embargo,
+Merfolk no son tan limitados en la tierra como algunos mitos sugieren; sus colas serán
+reformar rápidamente en las piernas una vez que salen del agua (y, igualmente, sus
+piernas se reformará rápidamente en una cola si alguna vez entran en el agua). Ellos
+tiende a ser sorprendentemente ágil en la tierra, así como en el agua. Expertos
+en la natación, no necesitan miedo ahogarse y moverse rápidamente a través de
+agua.
+
+El Merfolk ha desarrollado sus artes marciales fuertemente en el empuje y
+grappling, ya que esas son las formas más eficientes de luchar bajo el agua.
+Por lo tanto, prefieren polearmas y espadas cortas sobre todas las demás armas,
+aunque también pueden usar espadas más largas bastante bien.
+
+Como deletreadores, tienden a ser bastante buenos en áreas específicas. Sus
+la relación mística con el agua hace más fácil para ellos utilizar alquimia
+y magia de hielo, que utilizan el agua ocasionalmente como componente material. El
+legendaria magia de agua de la Merfolk se perdió en tiempos antiguos, pero algunos
+de esa afinidad sigue siendo. La mayoría de la magia les parece extraña.
+
+Gargoyles
+Una cruz entre los gárgolos de piedra ordinario y los seres vivos, los gargoyles son
+horribles humanoides con una afinidad a la magia de la tierra. Tienen baja salud,
+pero grandes cantidades de armadura innata que aumenta más a medida que ganan
+niveles. Con el tiempo ganan la capacidad de volar.
+
+La forma de vida parcial de Gargoyles les otorga inmunidad al veneno, también
+como resistencia a la electricidad, y protección contra algunos efectos
+necromancia. Su armadura natural los hace fuertes luchadores meleos, y
+son naturalmente hábiles con armas contundentes y en combate desarmado. Ellos
+puede ser también conjuradores terrestres excepcionales.
+
+Enanos de montaña (MD)
+Montaña Los enanos son estiércol y gente dura, adepta en la lucha con los ejes
+y armas de ruborización, aunque falta la destreza para sobresalir en otras
+formas de combate. Sus reservas de magia son algo pobres,
+todavía hacen los deletreadores pasivos, y su conexión con la sangre de
+la tierra les da un talento particular en las magias de fuego y tierra. Sus
+el éxito del hechizo es significativamente menos gravado por armadura que otra
+especie.
+
+Son artesanos y herreros superlativos, empleados en tiempos antiguos por
+incluso los dioses mismos, y esta historia espiritual los hace
+excepcional al invocar la ayuda divina. Incluso pueden usar pergaminos encantadores
+mejorar los artefactos que estarían más allá de la comprensión de cualquier otro
+especie.
+
+Draconians (Dr)
+Los Draconianos son híbridos humanos-dragón: humanoide en forma y aproximadamente
+Tamaño humano, con alas, colas y pieles escamosas. Los Draconianos comienzan en
+una forma inmaduro con escamas marrones, pero a medida que crecen en el poder toman
+en una variedad de colores. Esto sucede en una etapa temprana de su carrera,
+y el color está determinado por cromosomas, no por comportamiento.
+
+La mayoría de los Draconianos tienen armas respiratorias o resistencias especiales.
+Los Draconianos no pueden llevar armadura corporal y avanzar muy lentamente en los niveles, pero
+son razonablemente buenos en todas las habilidades que no sean armas de misiles, y
+desarrollar defensas físicas naturales que compensan la falta de cuerpo
+armadura, sin necesidad de entrenar su habilidad Armour en absoluto. Aún así, cada uno
+el color tiene sus propias fortalezas y algunas tienen debilidades complementarias,
+que a veces requiere un poco de flexibilidad por parte del jugador.
+Son buenos ortografías para fines generales, y típicamente sus
+habilidades de ortografía se adaptan ligeramente cuando adquieren un color.
+
+Los colores Draconianos se detallan a continuación, en la subsección titulada
+"Tipos draconianos".
+
+Trolls (Tr)
+Los troles son criaturas monstruosas con garras poderosas. Tienen grueso,
+pieles de cualquier color de verde púrpura a marrón mucky, que son
+cubierto de manchas de piel gruesa.
+
+Son increíblemente fuertes, y regeneran rápidamente de incluso los más
+terribles heridas. Sin embargo, son inútiles en la ortografía y aprender
+la mayoría de las habilidades muy lentamente. Su tamaño grande les impide usar la mayoría
+formas de armadura.
+
+Deep Elves (DE)
+Los Elfos Profundos son una especie de Elfos que hace mucho tiempo huyeron del planeta
+vivir en la oscuridad bajo tierra. Allí desarrollaron sus poderes mentales,
+evolucionando un regalo natural para todas las formas de magia, y adaptado físicamente
+a su nuevo entorno, debilitándose y perdiendo toda la coloración.
+Son pobres en el combate melee y la defensa física, aunque son
+capaz de usar arcos y otras armas.
+
+Armataurs (At)
+Los Armataurs son una especie mamífera grande, escalada, caminando a cuatro pies
+y balanceando una poderosa cola detrás de ellos. Sus ejércitos de elefante
+aterrorizar las tierras fuera del Dungeon.
+
+Armataurs instintivamente rodar cuando se mueve hacia los enemigos, conseguir un movimiento libre
+y regenerando la magia. Tienen grandes aptitudes con armadura y
+escudos, aunque su forma corporal reduce la protección ofrecida por el cuerpo
+armadura temprano. En niveles más altos también regeneran la salud y
+magia al rodar, haciéndolos realmente resilientes.
+
+
+Especies intermedias
+===============================================================
+
+Especies clasificadas como * Intermedio* requieren una comprensión más amplia del
+mecánica de Crawl, tienen algunas debilidades que deben ser activas
+compensado y/o añadir un mecánico relativamente complejo (o cambio en
+mecánico) a juego.
+
+Humans (Hu)
+Los humanos son exploradores naturales. Al descubrir nuevos espacios en la mazmorra,
+son refrescante y vigorizado, curando rápidamente y recuperando la magia.
+También son los más versátiles de todas las especies - habiendo equilibrado
+Las aptitudes para todas las habilidades les permiten adaptarse para usar lo que encuentren.
+
+Kobolds (Ko)
+Los Kobolds son pequeñas y misteriosas criaturas de origen desconocido. Están bien.
+apto para acechar en la oscuridad del Dungeon, y tener una reducción
+rango de visión que también reduce el rango en el que pueden ser vistos por
+enemigos.
+
+Son competentes en combate, especialmente con cuchillas cortas, maces o
+armas variadas, y son cómodas con todas las formas de magia. Ellos son
+también muy dependiente en el uso de dispositivos mágicos. Su pequeño tamaño los hace
+incapaz de manejar armas grandes, pero son ágiles y sigilosas, y
+avanzar en niveles ligeramente más rápido que los humanos.
+
+Demonspawn (Ds)
+Demonspawn son horribles criaturas medio mortales y medio infernales. Demonspawn
+puede ser creado en cualquier número de maneras: experimentos mágicos, cría,
+pactos impíos, etc. Aunque muchos Demonspawn pueden ser inicialmente
+indistinguibles de los de pura acción mortal, inevitablemente
+crecer cuernos, escalas u otras características inusuales. Poderosos miembros de este
+clase de seres también desarrollan una gama de habilidades impía, que son
+lista como mutaciones.
+
+Demonspawn avance lentamente en la experiencia y aprender la mayoría de habilidades ligeramente
+más lento que los humanos, aunque tienen talento en algunas formas de magia.
+Ellos aprenden las invocaciones especialmente rápidamente, aunque los buenos dioses
+no aceptar su adoración debido a su naturaleza impía.
+
+Djinn (Dj)
+Djinn son seres de fuego sin humo. Entran al mundo espontáneamente
+y sin explicación, nacido con un hambre incansable de conocimiento y
+aventura. Djinn tiene una relación única con la magia: en lugar de
+aprender los hechizos de los libros, sus hechizos vienen de dentro,
+desde su núcleo ardiente mientras ganan experiencia. Se extraen de lo mismo
+núcleo ardiente para lanzar hechizos - para Djinn, poder mágico y salud son uno
+y lo mismo.
+
+Como seres elementales, Djinn son inmunes al veneno y altamente resistentes a
+fuego, aunque el daño frío es profundamente inimaginable para ellos. Desde que flotan
+a través del aire sin necesidad de piernas o pies, no pueden usar botas.
+
+Djinn son medianamente competentes en la mayoría de las formas de combate físico, pero tienen
+a particular aptitud para la ortografía. Sus aptitudes para todas las formas
+la magia es fenomenal, aunque su relación única con los medios mágicos
+que no pueden elegir entrenar habilidades mágicas independientemente.
+
+Spriggans (Sp)
+Los Spriggans son pequeñas criaturas mágicas distantemente relacionadas con Elves. Ellos
+amor a las heladas y a los hechizos traviesos.
+
+Son pobres luchadores y tienen poca resistencia física, pero se mueven
+extremadamente rápido y sigilosamente, y son increíbles en atacar.
+Son terribles en la magia destructiva - conjuraciones, citaciones,
+necromancia y hechizos elementales. Por otro lado, son excelentes en
+otras formas de magia y evocando objetos mágicos. Su tamaño los hace
+incapaz de usar la mayor parte de la armadura. No pueden usar armas grandes, e incluso
+Las armas más pequeñas requieren que ambas manos sean manipuladas por un Spriggan.
+
+Revenants (Re)
+Los vengadores son muertos esqueletos, creados cuando un individuo muere por violencia
+magia sin ser llorada o recordada. Se levantan con fragmentario
+recuerdos de su vida anterior y un hambre que consume todo el tiempo
+de nuevo esa existencia que el mundo olvidó.
+
+Tan poderoso es esta unidad que los anima que realmente pueden madurar
+la misma existencia de otros, fragmentos de almas y recuerdos
+e incluso la esencia fundamental de los objetos inanimados
+en combustible para el fuego impío que para siempre golpea su forma.
+
+Su naturaleza los hace singularmente hábiles al manipular la magia destructiva;
+mientras sus reservas de energía mágica son pobres y sus aptitudes
+irremarcable (además de una afinidad para hielo, tierra y necromética
+magia), pueden canalizar hechizos de daño a través de sus garras,
+permitiéndoles realizar ataques al mismo tiempo que lanzar
+hechizos. Incluso pueden quemar los recuerdos que han recogido
+brevemente empoderar su magia y permitirles echar sin obstáculos por la armadura.
+
+Más allá de esto, son robustos y hábiles al usar sus garras en desarmadas
+combatir y poseer la misma inmunidad para envenenar, energía negativa y
+tormento que todos los muertos comparten, así como una resistencia al frío.
+
+Tengu (Te)
+Los Tengu son una especie antigua y temida de gente de aves con un
+legendaria propensión a la violencia. Básicamente humanoide con forma de pájaro
+cabezas y pies de garra, el Tengu puede usar todo tipo de armadura excepto
+cascos y botas. Su naturaleza mágica les ayuda a evadir los ataques mientras
+movimiento, y a pesar de su falta de alas, más experimentado Tengu puede
+mágicamente volar.
+
+Son expertos en todas las formas de lucha, incluyendo las artes mágicas de
+combate (conjuraciones, citaciones y, en menor medida, necromancia).
+Son buenos en el aire y fuego magia elemental, pero pobre en el hielo y la tierra
+magia. Tengu no aprecia ninguna forma de servidumbre, y también son pobres en
+usando invocaciones. Sus cuerpos de luz aviar no pueden sostener mucho
+de lesión.
+
+Oni (On)
+Los oni son grandes y remosas criaturas que aman una buena pelea. Ellos son
+excepcionalmente fuerte y robusto, y su cariño por la bebida les permite
+para curar dos veces más de las pociones curativas e incluso realizar el melee libre
+gira alrededor de sí mismos mientras los tiran.
+
+Son competentes con la mayoría de las armas y formas de magia, pero la falta
+la destreza o la inclinación a utilizar armas o dispositivos mágicos
+Bueno. Son, sin embargo, buenos para tirar cosas, en particular grandes
+rocas.
+
+Su tamaño grande les impide usar la mayoría de las formas de armadura, y son
+pobre en el atraco, confiando en su enorme volumen para sobrevivir batallas
+en lugar de eso.
+
+Barachim (Ba)
+Barachim son una especie humanoide anfibia, espaciada al amanecer del tiempo
+como sirvientes para los dioses. Inevitablemente, se rebelaron y huyeron a
+mundo mortal; pero incluso años no contados más tarde, la oscuridad todavía huye a
+su enfoque, recordando a aquellos que una vez sirvieron.
+
+El rasgo más notable de Barachim es sus piernas bruscamente tenebrosas, que
+les permite saltar grandes distancias. Cuando no saltan, son algo
+lento, y las largas líneas de visión que su patrimonio crea pueden ser
+una desventaja importante, pero pueden dominar casi cualquier habilidad.
+
+Especies avanzadas
+====================
+
+*Las especies avanzadas* tienen algunas debilidades sustanciales y/o añaden múltiples
+nuevos mecánicos complejos para jugar. Esta categoría incluye varias especies
+que los jugadores experimentados no pueden encontrar difícil per se, pero eso puede
+requiere un poco de experiencia para adaptarse. También incluye especies
+Eso es difícil, como Mummies.
+
+Coglins (Co)
+A diferencia de la mayoría de sus parientes goblin, Coglins aumentan sus pequeños marcos con
+Acero malhumorado. Sus exoesqueletos, capaces de manipular armas
+independientemente en cada brazo, se comienzan con las manos-me-downs de su
+familias esparcidas. Para cuando vienen de la edad, son inseparables
+de sus creaciones, y los individuos experimentados a menudo más
+personalizarse con adiciones únicamente poderosas.
+
+Haphazard y jerry-rigged, Coglin exoskeletons carecen de la flexibilidad de
+cuerpos naturales. Aunque sus brazos puedan volar en un látigo de destrucción,
+toma un poco de oscilación para revisarlos hasta esa velocidad. Además,
+con sus cuerpos tragados en los controles de su máquina,
+no puede llevar joyería - la interferencia de múltiples campos mágicos
+¡Sé catastrófico!
+
+Incluso así, un verdadero Coglin nunca criticaría su creación. Ellos
+creer que los espíritus de acero y madera de sandalia vienen a descansar dentro de cada
+cosa que atrae la sangre, lentamente y cuidadosamente re-attuning su
+exoesqueletos a esos espíritus cuando pelan o eliminan armas.
+¡Nunca despreciar a los espíritus!
+
+Vine Stalkers (VS)
+Limber in shape, Vine Stalkers son masas antropomorfas de vides gruesas.
+Poseen un núcleo humanoide, momentos parasitarios antes de la muerte por
+las vides mágicas. Falta de otras características discernibles, sus rostros
+están dominadas por la malvada y desproporcionada con la que
+interrumpir y devorar las energías mágicas de sus enemigos.
+
+Cursos de magia libremente a través de sus cuerpos, y cualquier daño que tomen es
+división entre su salud y sus reservas mágicas. También físicamente
+regenerarse a un ritmo alarmante. Sin embargo, estos rasgos vienen a un precio:
+la naturaleza dual de sus cuerpos los hace extremadamente frágiles, y ellos
+no pueden beneficiarse de pociones para curar sus heridas.
+
+Ejemplos vivos de adaptación, Vine Stalkers nivelar rápidamente y prestar
+bien a un estilo ofensivo completo; confiar en su robo para elegir
+sus presas y luego sus capacidades regeneradoras para el poder a través de
+heridas que pueden sostener en la batalla. Muchos miembros de la especie, sin embargo,
+son vistos magia brillante bastante competente y luego cambiar a un híbrido
+estilo cuando sus reservas comienzan a funcionar bajo, reponiendo así
+El ruido de la magia y el combustible de sus hechizos con cada mordedura voraz.
+
+Poltergeists (Po)
+Los polacos son espíritus no muertos que se complacen en causar problemas para los
+vivir. Completamente incorporales, interactúan con el mundo físico por
+poseer objetos pequeños y hacerlos volar a través del aire. Ellos pueden
+utilizar esto para luchar con las armas y los vivos, así como ganar
+los beneficios protectores de muchos sombreros, botas, guantes y mantos diferentes
+a la vez, aunque la armadura corporal es demasiado grande para que puedan manipular en este
+moda. En niveles más altos de experiencia, incluso pueden controlar estos
+poseído objetos a una distancia de tiempo a tiempo, acosando a sus enemigos
+con un aluvión de armadura descarada.
+
+Su aptitud superlativa para ambos robos y hexagonales los hacen poderosos
+encantadores, y son adecuados a la mayoría de otras formas de magia, aunque
+luchan con conjuramientos. Son adeptos con cuchillas cortas, si un
+poco inferior al promedio con armas más pesadas, y su falta de un
+el cuerpo los hace terribles en el combate desarmado. El mismo poder que usaban
+poseer objetos los hace expertos naturales al lanzar.
+
+Finalmente, su naturaleza como espíritus de mala suerte también les otorga temporalmente
+AC cuando infligen males a sus enemigos.
+
+Demigods (Dg)
+Los semidioses son mortales con alguna ascendencia divina o angelical, sin embargo
+distante. Los semidioses parecen más o menos miembros de su parte mortal
+especies, pero son extremadamente robustas y pueden aprovechar grandes suministros de
+energía mágica. Son capaces de esculpir sus atributos a un mucho mayor
+extensión que cualquier otra especie, ganando impulsos sustanciales a su elección
+de fuerza, inteligencia o destreza mientras ganan experiencia. En el
+abajo, avanzan más lentamente en la experiencia que cualquier otra especie,
+obtener habilidades ligeramente menos rápidas que los humanos y, debido a su estado,
+rehúsa adorar a cualquier dios.
+
+Formicidas (Fo)
+Los Formicidas son una especie de hormigas humanoides. Como su pequeño insectos
+ancestros, los Formicidos están bien adeptos en la obra de la tierra, ambos en los
+lado físico y mágico. Sus habilidades se han utilizado para túnel
+inmensas comunidades y estructuras subterráneas, muchas de las cuales son decenas de
+miles de años.
+
+Quizás desafortunadamente, sus fuertes lazos con la tierra los han dejado
+completamente impermeable a ser teletransportado o apresurado; Los formicidos están atados
+a la tierra con un sentido completo de estasis. Mientras esto es un aparentemente
+mala propiedad para un aventurero de mazmorras, la estasis tiene el efecto beneficioso
+de la prevención de muchos tipos de hexes desagradables y maldicciones.
+
+Con la capacidad de levantar diez veces su propio peso, los Formicidas tienen
+La fuerza rivaliza con la de Oni. Esto, junto con el hecho de que tienen
+cuatro brazos, permite a los guerreros Formicid equipar un escudo y un
+arma de dos manos al mismo tiempo.
+
+Los formicidos hacen buenos magos de tierra y alquimistas, pero son bastante capaces en
+ambos combates melee y variado también. Son naturalmente malos en la magia del aire y
+conjuraciones.
+
+Nagas (Na)
+Nagas son una especie híbrida: Humana de la cintura con una gran serpiente
+cola en lugar de piernas.
+
+Son razonablemente buenos en la mayoría de las cosas y avanzar en los niveles de experiencia
+al mismo ritmo que los humanos. Son naturalmente resistentes a los venenos, pueden
+ver criaturas invisibles, y tener piel dura, pero sus colas son
+relativamente lento y no puede moverlos tan rápido como puede otros
+piernas de las criaturas (esto sólo afecta su ritmo de movimiento; todas las otras acciones
+están a velocidad normal). Como Armataurs, su forma corporal también los impide
+de obtener protección total de la armadura corporal. El forte más grande de A Naga es
+Los nagas son muy buenos para moverse sin darse cuenta. Sus colas eventualmente
+crecer lo suficientemente fuerte como para restringir sus enemigos en combate.
+
+Los nagas pueden escupir veneno; la precisión y el daño de este veneno aumenta
+con el nivel de experiencia de Naga.
+
+Octopodos (Op)
+Estos familiares de pulpos comunes pueden moverse tan rápido
+como humanos y aún conservan la capacidad de nadar bajo el agua, aunque sus
+La doble adaptación no es tan buena como la de la Merfolk que cambia la forma.
+
+Los opodos tienen ocho patas en forma de tentáculo, y necesitan cuatro de ellas para moverse.
+Mientras un tentáculo carece de de dedos, dos tentáculos son un equivalente áspero de un
+Brazo humano en el que se refiere la manipulación de los elementos - incluyendo la manipulación
+armas de dos manos con cuatro. No pueden usar armaduras que no estén sueltas
+sombreros, pero puede manejar escudos bien. Otra peculiaridad que tienen es
+la capacidad de llevar ocho anillos, uno en cada tentáculo.
+
+Su camuflaje natural los hace sobresalir en el sigilo, y tienen bien
+conocimiento de la alquimia también. También pueden utilizar sus tentáculos
+para restringir enemigos - potencialmente varios a la vez!
+
+Felids (Fe)
+Los feligreses son una raza de gatos que se han concedido centiencia. Originalmente
+eran los familiares de las brujas que se aumentaban mágicamente para proporcionar
+ayudar a los rituales de sus maestros, pero muchos han abandonado, sobrevivido o,
+en al menos un caso, evisceró a sus antiguos maestros y salió a
+el mundo.
+
+Aunque es totalmente capaz de usar el discurso y la mayoría de las formas de magia, los Felids son
+en una grave desventaja debido a su incapacidad de usar armadura o
+armas.
+
+Su agilidad y su sigilo son legendarios, al igual que su capacidad para llegar a
+Es difícil llegar a lugares. Los sentimientos avanzan en niveles muy lentamente. Ellos son
+cualificado con muchas formas de magia, aunque menos con elemental crudo
+magia.
+
+Los creyentes comienzan con una vida extra, y ganan más a medida que aumentan en
+niveles. Al morir, serán resucitados en un lugar seguro.
+
+Mummies (Mu)
+Son criaturas no muertas que viajan a las profundidades en busca de
+venganza, redención, o sólo porque quieren.
+
+Las momias progresan lentamente en niveles, la mitad de nuevo tan lentamente como los humanos en todos
+habilidades excepto la lucha, la ortografía y la necromancia. La sagrada embalsamación
+rituales que los trajeron a la vida libre también les otorgan un especial
+conexión con lo divino, y a medida que aumentan los niveles, se convierten en
+Cada vez más en contacto con los poderes de la muerte. However, their desiccated
+los cuerpos son altamente inflamables. También no pueden beber.
+
+Como otros no muertos, las momias son naturalmente inmunes a los venenos, negativos
+energía y tormento; han dejado poco calor para ser afectado por el frío; y
+no son susceptibles a las mutaciones.
+
+Tipos de Draconian
+================================================================================================================================================================================================================================================================
+
+Draconianos rojos
+sentirse como en casa en un entorno ardiente. Son malos con la magia del hielo pero muy
+competente con fuego. Pueden respirar incrustaciones altamente combustibles
+causan una explosión ardiente cuando golpean a un enemigo.
+
+Draconianos blancos
+se derivan de tierras con cojinete, y son naturalmente resistentes a la helada. Ellos
+beathe piercing frío que encierra cualquier cosa que mata en un bloque sólido
+hielo. Están versados en magia de hielo, pero mal a fuego.
+
+Draconianos Verdes
+se utilizan para un entorno venenoso y respirar nubes de vapores mefiticos.
+Son especialmente buenos en las artes de la alquimia y sin deficiencias
+en otros reinos mágicos. Más tarde, desarrollarán una picadora venenosa.
+
+Dracones amarillos
+tienen un aliento sulfuroso lleno de ácido corrosivo, y son naturalmente ácidos
+resistente. Su conocimiento de la corrosión los hace especialmente buenos en la
+mantenimiento de maquinaria de forgecraft. Más tarde, ganan una mordida ácida
+ataque.
+
+Draconianos Grises
+puede respirar torrentes de barro que impiden el movimiento y los ataques
+enemigos que no luchan. Son competentes con la magia de la tierra pero mal con el aire
+magia. Más tarde, los fusibles de hierro sobre sus escamas para hacerlos más difíciles que
+otros Draconianos.
+
+Draconianos negros
+puede desencadenar descargas eléctricas arcing, y son naturalmente aislados.
+Son buenos en la magia del aire pero se sienten engorrosos con la magia de la tierra. Sus
+alas eventualmente crecerán más grandes, lo que les permite volar cuando se combinan
+con su habilidad natural con magia de aire.
+
+Dracones púrpura
+son altamente adaptados a todas las ortografías en general, y a hexes en
+particular. Son un poco mejores evocando cosas que la mayoría de las otras
+Draconianos. Pueden respirar energía que despoja a los que golpea
+de encantamientos y menoscaba su deletreo. Son más fuertes.
+que otros draconianos, y más adelante, ganan resistencia a ambos
+Mana externa drenante y desnudamiento del encantamiento.
+
+Pale Draconians
+son mejores en el aire y la magia del fuego, y no tienen deficiencias en otros
+escuelas. Respiran el vapor de observación y, como su púrpura
+primos, tienen una ligera ventaja en Evocations.
+
+------------------------------------------------------------------------
+2. LIST OF CHARACTER BACKGROUNDS
+------------------------------------------------------------------------
+
+En su búsqueda, usted juega como uno de un gran número de diferentes tipos de
+personajes. Aunque cada uno tiene sus propias fortalezas y debilidades, algunos son
+Definitivamente más fácil que otros, al menos para empezar. Los mejores antecedentes
+para un principiante son probablemente Gladiators y Berserkers; si realmente quieres
+para jugar a un mago, probar un Conjurer o un Hedge Wizard. Sin embargo, no todos
+especies son igualmente adecuadas para todos los antecedentes. Después de que tengas
+seleccionado una especie, el menú de selección de fondo mostrará fondos
+generalmente se considera más accesible para una especie en un más brillante
+color.
+
+Cada fondo comienza con un conjunto diferente de habilidades y artículos, pero
+desde allí puedes configurarlos como quieras. Note que debido a las peculiaridades
+de tamaño o forma corporal, algunas combinaciones de fondo de especies comienzan con un
+diferentes inventarios que se describen aquí.
+
+Fondos guerreros
+==========================
+
+Los guerreros tienen experiencia en el uso de armas físicas y la defensa
+ellos mismos.
+
+Combatientes
+Los combatientes generalmente comienzan con un buen arma de su elección, un traje de
+armadura media, escudo y dos pociones de poder.
+
+Gladiadores
+El Gladiator ha sido entrenado para luchar en el ring. Empiezan con un
+buen arma de su elección, armadura ligera, cabecero y un poco de lanzamiento
+armas y redes.
+
+Monks
+Los monjes tienen un comienzo de cabeza con lo divino. Empiezan con sólo un simple
+arma de su elección, una poción de ambrosia divina, una túnica, y un orbe
+de luz para guiarlos. Sin embargo, cuando adoran a un dios para el primero
+tiempo, su entrenamiento espiritual les da un impulso de piedad.
+
+Hunters
+El Hunter es un tipo de luchador que se especializa en armas de misiles. A
+Hunter comienza con un arco corto, un pergamino de mariposas, y un conjunto de
+cueros.
+
+Brigands
+Un Brigand es un personaje sombrío que es especialmente bueno en matar, usando
+dagas o dardos. Empiezan con una daga, una túnica y un manto, envenenados
+dardos, y unos dardos curare mortíferos y raros.
+
+Fondos de Zealot
+=========================
+
+Los zalots comienzan el juego ya adorando a un dios.
+
+Berserkers
+Los Berserkers son guerreros duros que adoran a Trog el Wrathful, de quien
+obtienen el poder de ir al berserk (así como varios otros poderes,
+si son dignos), pero que prohíbe el uso de la magia del hechizo. Ellos
+entrar en el Dungeon con un arma de su elección, y vestido de animal
+pieles.
+
+Caos Knights
+El Caballero Caos es un juguete de Xom, sujeto a la constante del dios
+cambiando de humor. Xom es un muy impredecible (y posiblemente psicótico)
+entidad que recompensa o castiga según capricho. Empiezan con un
+armadura de cuero ligeramente encantada, un simple arma de su elección, y un
+Pergamino de mariposas.
+
+Cinder Acolytes
+Cinder Acolytes sirven Ignis, la Llama Dying, que les otorga increíble
+poder sobre el fuego... pero queda mucho fuego para encender, y
+Una vez que se quema, los acólitos pueden necesitar abandonar Ignis. Empiezan con un
+Robe, una selección de armas en llamas, y el hechizo Scorch.
+
+Fondos de aventura
+==================================================================
+
+Los aventureros tienen habilidades variadas e idiosincraticas que han recogido
+en sus viajes.
+
+Artificers
+Los artificios han construido, comprado o robado una variedad de varitas mágicas a
+Ayúdales por el Dungeon temprano. Wands tiene un número limitado de usos,
+Así que querrán mejorar su club lo antes posible.
+
+Shapeshifters
+Los ladrones usan talismanos para cambiar su cuerpo en formas diferentes,
+otorgarles un poder incrédulo pero hacerlos incapaces de usar algunos artículos.
+Entran en la mazmorra con dos talismanos, algunos babulos de flujo, y un
+poción de la lignificación.
+
+Wanderers
+Los cazadores son "jacks-of-all-trades, maestros de ninguno". Empiezan el juego
+con un surtido aleatorio de habilidades, artículos, y tal vez hechizos.
+
+Delvers
+Delvers han encontrado, a través de algunos mishap varios pisos debajo
+la superficie del Dungeon. Están equipados con una gran variedad de
+mágicas herramientas de escape, y son bien aconsejados para utilizarlas para viajar a
+pisos de mazmorra lo más rápido posible.
+
+Fondos guerreros-mage
+====================================================================
+
+Warrior mages comienzan el juego con una mezcla de combate físico y magia
+habilidades, aunque generalmente sobresalen a ninguno. Empiezan con una biblioteca de
+hechizos y (normalmente) alguna forma de defenderse.
+
+Warpers
+Warpers se especializa en la magia de la translocación, y son expertos en viajar
+largas distancias y posicionarse con precisión y utilizar esto a sus
+ventaja en combate de melee o misiles. Empiezan con un pergamino de
+parpadeo, una selección de hechizos de translocación, algunos dardos de disyunción, un
+arma simple de su elección, y armadura de cuero.
+
+Hexslinger
+Los hexslingers usan hechizos debilitantes para ayudar a sus ataques variados. Ellos
+comenzar el juego con un sling, algunos hechizos para apoyar su uso, un pergamino de
+veneno para mantener enemigos a distancia, y una túnica.
+
+Encantadores
+El Enchanter se especializa en el arte sutil de los hexes. En lugar de directamente
+perjudiciales enemigos, hexes desactivados y debilitados, permitiendo al Enchanter
+para acabar con las criaturas indefensas en combate. El encantador comienza con un
+daga ligeramente encantada, una túnica, pociones de invisibilidad, y una
+selección de hexes.
+
+Reaver
+Los inversores tienen una variedad de poderosos, pero altamente situacionales,
+conjuramientos para aprovechar cuando su habilidad en la melodía es insuficiente. Ellos
+empezar con un arma simple de su elección y armadura de cuero.
+
+Mage backgrounds
+====================
+
+Un mage no es un fondo de carácter disponible por sí mismo, sino un tipo de
+fondo, que abarca Hedge Wizards, Conjurers, Invocadores, Necromancers,
+Forgewrights, varios elementalistas y alquimistas. Los magos son los mejores
+usando magia. Entre otras cosas, comienzan con una bata, una poción de magia,
+y hechizos que deben ver a través de los primeros varios niveles de
+Dungeon.
+
+Hedge Magos
+A Hedge Wizard es un mago que no se especializa en ninguna zona
+magia. Hedge Wizards comienza con una variedad de habilidades mágicas y con
+Magic Dart memorizó, desde una gran biblioteca de variados hechizos de bajo nivel.
+También tienen un sombrero mago.
+
+Conjuradores
+El Conjurer se especializa en la magia violenta y destructiva de
+hechizos de conjuración. Como magos, el Conjurer comienza con el Dardo Mágico
+hechizo, en su caso de una biblioteca de conjuramientos destructivos.
+
+Invocadores
+El Invocador se especializa en llamar criaturas de este y otros mundos
+para prestar asistencia. Aunque pueden al principio convocar sólo muy débiles
+criaturas, los hechizos de convocatoria más avanzados permiten a los convocadores llamar
+tales poderes como hidratos y dragones.
+
+Necromancers
+El Necromancer es un mago que se especializa en el lado menos agradable
+de magia. Los hechizos necrométicos son un grupo variado, pero muchos implican algunos
+grado de riesgo o daño a la castra.
+
+Forgewright
+El Forgewright se especializa en la creación de construcciones mágicas, que van desde
+de armas simples a golems elaborados y poderosos. Muchos de ellos
+las creaciones se benefician de luchar junto a ellas.
+
+Elementalistas
+Los elementalistas son magos que se especializan en uno de los cuatro tipos de
+magia elemental: aire, fuego, tierra o hielo.
+
+Fuego mágico
+tiende hacia conjuros destructivos indiscriminados y de gran alcance
+iniciando incendios.
+
+Ice Magic
+ofrece efectos difusos, sutiles, tanto defensivos como ofensivos.
+
+Air Magic
+proporciona hechizos poderosos pero difíciles de dirigir.
+
+Earth Magic
+ofrece efectos directos, algunos destructivos y algunos debilitantes.
+
+Alchemist
+Los alquimistas comienzan con el conocimiento de la magia venenosa, que es extremadamente
+útil en los niveles más bajos del Dungeon donde pocas criaturas son
+inmune a ella.
+
+------------------------------------------------------------------------
+3. LISTA DE SKILLS
+------------------------------------------------------------------------
+
+Aquí hay una descripción de las habilidades que puede tener. Puedes comprobar tu
+las habilidades actuales con el comando 'm', y allí se relacionan entre el progreso
+visualización y visualización de aptitude usando '*'. También puede leer la tabla de
+habilidades del menú de ayuda usando '?%', y durante la elección del personaje con
+'.
+
+Destrezas de lucha
+================================================================================================================================================================================================================================================================
+
+Luchar es la habilidad básica utilizada en combates variados y sencillos, y no aplica
+materia que arma su carácter está marchitando (si hay). La lucha también es
+la habilidad que determina la cantidad de salud que tu personaje gana mientras
+aumento de los niveles (nota que esto se calcula para que no tengas un
+ventaja de largo plazo al comenzar con una alta habilidad de lucha). A diferencia de
+habilidad de arma específica, La lucha no cambia la velocidad con la que usted
+Haz tus ataques.
+
+Las habilidades de armamento afectan su capacidad de luchar con armas de meleo específicas.
+Las habilidades de armamento incluyen:
+
+* Cortas cortas
+* Long Blades
+* Maces & Flails
+* Axes
+# Staves
+* Polearms
+
+Si ya eres bueno usando una clase de armas, dice Long Blades,
+obtener un bono para usar armas similares, como Short Blades; esto se llama
+crosstraining y se muestra en azul en el menú de habilidad. Tipos similares de
+Las armas son:
+
+* Cortas cortas y largas cuchillas
+* Maces " Flails and Axes
+* Polearms and Axes
+# Staves and Polearms
+* Cuevas y Maces & Flails
+
+Ser bueno en un arma específica mejora la velocidad con la que atacan
+con él. Tanto la velocidad base como la mejor velocidad posible (o menor)
+mostrado en la entrada de inventario para un arma. Aunque las armas más ligeras son
+más fácil de usar inicialmente, ya que golpean rápida y precisamente, más pesado
+las armas aumentan el potencial de daño muy rápidamente a medida que mejora su habilidad
+con ellos. Usted puede comprobar el retraso actual de su arma columpio en
+aire (utilizando ctrl-direction) y mirando el número de paréntesis junto a
+tu cuenta.
+
+Algunos tipos de armas tienen habilidades especiales. Los ejes son capaces de atravesar
+múltiples enemigos en un solo golpe, golpeando enemigos en un arco alrededor del
+con cada ataque. Polearms puede llegar más lejos y permitir el wielder
+para atacar a un oponente a dos plazas de distancia, e incluso alcanzar monstruos. Uso
+el comando 'v' para apuntar a un monstruo específico con un ataque de alcance, o utilizar
+Autofight ('tab') para alcanzar automáticamente.
+
+Finalmente, la habilidad Unrmed Combat aumenta la precisión, el daño y la velocidad
+atentados hechos sin armas. Tenga en cuenta que la mayoría de los ataques auxiliares, como un
+La cola de Armataur o la cabeza de un Minotauro no se ven afectados por una Desarmada
+Combate. La única excepción es el ataque de golpe fuera de la mano concedido mediante
+ni arma ni escudo, que Combate Desarmado hace algo más
+eficaz.
+
+Competencias de combate
+================================================================================================================================================================================================================================================================
+
+Armas extendidas es la habilidad para arcos, arcos cruzados y eslingas, mientras que
+Lanzar gobierna todas las cosas hurled sin un lanzador: boomerangs,
+javelinas, redes, dardos, etc.
+
+Al igual que con armas de meleo, habilidades de arma y habilidades de lanzamiento
+aumentar la velocidad a la que atacan, junto con aumentar ligeramente su
+precisión y daño. Las armas de misiles, a diferencia de melee o lanzando armas, son
+se ralentizó con armadura pesada. Aumentar tu habilidad de fuerza y armadura
+mitigará parcialmente esto.
+
+Destrezas mágicas
+================================================================================================================================================================================================================================================================
+
+Spellcasting es la habilidad básica para el uso mágico. Afecta sus reservas
+energía mágica (Magia) de la misma manera que la lucha afecta a su salud:
+cada vez que aumentas la habilidad de Spellcasting ganas algunos puntos mágicos,
+y usted gana un nivel de hechizo cada vez que alcanza un nivel de habilidad divisible por
+0.5. Spellcasting también ayuda con la tasa de potencia y éxito de su
+hechizos, pero en menor medida que las habilidades mágicas más especializadas.
+
+También hay habilidades individuales para cada tipo diferente de magia; el
+más alto la habilidad, más poderoso el hechizo. Uso de hechizos multidisciplinarios
+un promedio de dos o tres habilidades.
+
+Destrezas diversas
+================================================================================================================================================================================================================================================================
+
+Armour
+Tener una habilidad de Armour alta significa que eres experto en usar armadura
+de todo tipo, multiplicando la protección proporcionada no sólo por la armadura corporal
+pero también por capas, guantes, etc. También mitiga muy ligeramente los
+penalizaciones para el deletreo y la velocidad de las armas de misiles
+armadura.
+
+Dodging
+Una habilidad de Dodging alta le ayuda a evadir melee y ataca más
+efectivamente. Esto se hace más fácilmente en la armadura ligera, pero todavía puede ser
+útil en armadura más pesada.
+
+Stealth
+Ayuda a evitar ser notado, y hace que los monstruos más propensos a perder
+rastro de ti cuando dejas su línea de visión. Armadura pesada
+penaliza intentos de robo. Grandes criaturas (como trolls) son malas en
+sigilo, excepto Nagas, que son inusualmente sigilosos.
+
+Stealth también le ayuda a hacer una huelga primera muy poderosa contra un
+durmiendo/resting monstruo que no te ha notado todavía. Esto es lo más
+eficaz con una daga, ligeramente menos eficaz con otras cuchillas cortas
+y las garras Felid, y menos útiles (aunque todavía por ningún medio insignificante)
+con cualquier otro arma.
+
+Stealth también mejora algunos ataques contra confusas, distraídas o
+monstruos incapacitados, aunque esto es mucho menos efectivo que
+cuando el monstruo está dormido o paralizado.
+
+Tenga en cuenta que además del bono del tipo de arma, hay un
+bono adicional de apuñalamiento basado en el promedio de su habilidad de robar y
+tu habilidad con tu arma peluda.
+
+Escudos
+Afecta la cantidad de protección que obtienes usando un escudo, y la
+grado en el que obstaculiza su evasión, velocidad de ataque y ortografía
+éxito. Mastering the Shields habilidad elimina todas las penas de usar un
+escudo.
+
+Invocaciones
+Afecta tu habilidad de llamar a tu dios por ayuda. Esos expertos en
+Las invocaciones han reducido las tasas de fracaso y producen efectos más poderosos.
+Algunos dioses (como Trog) no requieren seguidores para aprender esta habilidad, o
+utilizar una habilidad diferente para sus habilidades en su lugar (como Necromancy
+bajo Kikubaaqudgha).
+
+Las invocaciones pueden aumentar sus reservas mágicas máximas, aunque tiene una
+menor efecto que Spellcasting en este sentido. Los bonos no
+acumulativo: la mayor contribución de Spellcasting o Invocations es
+usado.
+
+Evocaciones
+Esta habilidad te permite usar varitas mucho más eficazmente, en términos de ambos
+daño y precisión. Análogamente, otros artículos que tienen evocables
+poderes funcionan mejor para los personajes entrenados en esta habilidad.
+
+------------------------------------------------------------------------
+4. LIST OF KEYS AND COMMANDS
+------------------------------------------------------------------------
+
+Pantalla principal
+================================================================================================================================================================================================================================================================
+
+Crawl tiene muchos comandos para ser emitidos por golpes clave individuales. Esto se puede convertir
+confuso, ya que también hay varios modos; aquí está la lista completa. Algunos
+comandos son particularmente útiles en combinación con cierta interfaz
+opciones; tales opciones se mencionan en la lista. Para una descripción de ellos,
+Por favor, busque en options guide.txt. Para una lista más terse de todos los comandos,
+usa '??' en el juego. La mayoría de los modos (targeting, plano de nivel, viajes de nivel intermedio) también
+tener menús de ayuda vía '?' por su cuenta.
+
+Movimiento
+------
+
+dirección
+Esto mueve un cuadrado. La dirección es uno de los cursores numpados
+teclas (entradas en y fuera de NumLock) o una de las teclas Rogue vi
+(hjklyubn).
+
+Cambio de dirección o / dirección
+Esto se mueve recto hasta que se encuentra algo interesante (como un
+monstruo). Si la primera plaza es una trampa, el movimiento comienza sin embargo.
+
+o
+Autoexplore. Configurar la opción explore greedy a verdaderos hechos
+autoexplore run to interesantes items (aquellos que se recogen
+automáticamente) o pilas (ver el contenido). Autoexploración
+abrir las puertas por su cuenta a menos que usted ponga viaja open doors para evitar o
+enfoque.
+
+G o Ctrl-G
+Viajes de nivel intermedio (a niveles arbitrarios de mazmorras o puntos de referencia). Recuerdas
+viejos destinos si se interrumpe. Este comando tiene su propio conjunto de
+atajos; utilizar ? para ayudar en ellos.
+
+Ctrl... W
+Establecer el punto de referencia (un dígito entre 0 y 9). Vaya a un punto de vista presionando
+Ctrl-G o mayúscula G, luego el dígito del punto de referencia.
+
+Ataque y disparo
+------
+
+Varios de estos comandos entran en modo de selección; vea "Targeting" para más
+información sobre este modo.
+
+dirección
+Si un monstruo está en la plaza de destino, ataque a ese monstruo.
+
+Tab
+Autofight: Ataque al monstruo más cercano con su arma actual. Si
+monstruo más cercano no está en rango, por defecto, esto se moverá hacia él.
+
+v
+Ataques dirigidos con su arma primaria, incluyendo ataque
+monstruos no-adyacentes con un polearm, o disparando un lanzador pelado
+(independientemente del estado del quiver principal).
+
+Q
+Quiver un elemento, hechizo o habilidad de un menú.
+
+(y )
+Quinto ciclo a la acción adecuada siguiente/previa (tema, hechizo, habilidad).
+
+f
+Fuego actualmente accionado, mostrando un objetivo. Si algún monstruo está dentro
+la vista y la acción toma un objetivo, ya sea el último objetivo o el
+monstruo más cercano será resaltado automáticamente. Si la acción no
+tomar un objetivo, la pantalla típicamente mostrará un área de efecto.
+Presionar f de nuevo activa la acción.
+
+Shift-tab, p
+Autofire: Dispare una acción intercalada, si es necesario seleccionar un objetivo
+automáticamente; normalmente dispara al monstruo más cercano.
+
+F
+Escoja directamente la munición para tirar o disparar. En contraste con 'f' esto no
+interactuar con el arcón.
+
+V
+Evoque un artículo directamente del inventario. Esto incluye usar varitas.
+
+Gasto y habilidades
+------
+
+Los discursos y habilidades también pueden ser analizados; vea "Ataque y fuego". Muchos
+hechizos y habilidades entran en modo de selección en activación; vea "Targeting"
+para más información sobre este modo.
+
+a
+Mostrar el menú de habilidad, lo que le permite activar una habilidad o leer su
+descripción.
+
+z
+Escribe un hechizo. Si el hechizo demanda monstruos como objetivos pero hay
+ninguno dentro del alcance, el casting será detenido. En este caso, ni giros
+ni magia se usan. Si quieres lanzar el hechizo, usa Z.
+
+Z
+Escribe un hechizo independientemente de los objetivos disponibles.
+
+Descansando
+------
+
+s, Del, o Numpad 5
+Descansa para un turno. Esto se utiliza tácticamente para esperar unos pocos
+turnos. El descanso serio debe hacerse con el comando 5, por el bien de
+tu teclado y tu cordura.
+
+5 o Shift-Numpad 5
+Larga descanso, hasta que tanto los puntos de salud y magia estén llenos.
+
+El descanso es generalmente indistinguible de cualquier otra acción; la curación,
+restauración de puntos mágicos, etc., proceda al mismo ritmo, ya sea que esté
+descansando o no. Algunos hechizos específicos pueden ser 'canalados' a través de la llave del resto
+para efectos continuos, como se menciona en sus descripciones.
+
+Interacción de Dungeon
+------
+
+O
+Puerta abierta. Esto también se hace automáticamente caminando hacia la puerta.
+
+C
+Cerca de la puerta.
+
+Ctrl-direction o * dirección
+Abre / cierra una puerta en la dirección especificada (si hay uno), o
+otros ataques sin moverse (incluso si no se ve ningún monstruo).
+
+c)
+Use escaleras para ir más alto, o utilice una tienda, altar o portal.
+
+■
+Use escaleras para ir más profundo, o utilice una tienda, altar o portal.
+
+;
+Examinar los artículos elegibles de baldosas ocupadas y autoetiquetas. También se puede utilizar para
+recoger sólo parte de una pila sin otro artículo en la misma plaza.
+Cuando un monstruo está presente la primera prensa de ; sólo examinará la ficha
+y una segunda prensa de ; recogerá todos los artículos elegibles de auto-golpe.
+
+x
+Examine los alrededores, ver abajo. ¿Tiene ayuda?
+
+X
+Examine el mapa de nivel, ver abajo. ¿Tiene ayuda?
+
+Ctrl-X
+Lista todos los monstruos, elementos y características a la vista. Usted puede leer sus
+descripciones y viajar a un artículo o característica.
+
+Ctrl... O
+Mostrar vista de mazmorras (marcas, tiendas, etc.).
+
+!
+Anota un nivel. Usted puede anotar cualquier nivel de una rama de la cual usted
+han encontrado la entrada. Puedes introducir cualquier texto. Esta anotación es entonces
+lista en el resumen de la mazmorra (Ctrl-O) y también se muestra cuando entra
+ese nivel otra vez. Si su anotación contiene una marca de exclamación (!),
+se le pedirá antes de entrar en el nivel. Una cuerda vacía se aclara
+anotaciones.
+
+Información sobre las características
+----
+
+'display' abajo significa el uso del área del mensaje, 'show' significa el uso del
+Toda la pantalla.
+
+@
+Mostrar el estado del personaje.
+
+[
+Muestra la armadura usada.
+
+}
+Mostrar lista de runas recolectadas.
+
+"
+Mostrar joyas gastadas.
+
+E
+Ver información de experiencia.
+
+^
+Mostrar la pantalla de la religión.
+
+A
+Mostrar habilidades/mutaciones.
+
+\
+Mostrar conocimiento del artículo. Usted puede cambiar las excepciones de autopickup para los tipos de elementos
+en esta pantalla. La pantalla tiene su propio texto de ayuda.
+
+m
+Mostrar la pantalla de habilidad. Usted puede obtener descripciones de las habilidades actuales de que
+pantalla, así como las aptitudes. La pantalla tiene su propio texto de ayuda.
+
+i
+Mostrar lista de inventarios. Dentro de esta lista, pulsando una tecla de ranura muestra
+información sobre ese tema.
+
+I
+Mostrar lista de hechizos memorizados.
+
+%
+Mostrar resistencias y carácter general: salud, experiencia,
+dinero, equipo y estado, mutaciones, habilidades (los últimos tres más
+terse que con el comando @, A, a). Esto es un altamente condensado
+conglomeración de [, ", E, ^, @, A, a, $ en una sola pantalla. Prensando
+clave de un elemento mostrado lo ve.
+
+Otros comandos de juego
+------
+
+t
+Diga órdenes a los aliados, o grite (con tt).
+
+Ctrl... A
+Toggle autopickup. Note que encuentros con monstruos invisibles siempre
+apaga el autopickup. Tienes que encenderlo con Ctrl-A después.
+
+Silencio
+Cambie varias capas de pantalla y superposiciones. (Sólo consola)
+
+`
+Re-do anterior comando
+
+0
+Repita el siguiente comando un número dado de veces
+
+Comandos de juego no juego
+------
+
+?
+El menú de ayuda.
+
+Ctrl-P
+Mostrar mensajes anteriores.
+
+Ctrl-R
+Pantalla roja.
+
+Ctrl... C
+Borrar mapas principales y de nivel.
+
+#
+Carácter de bomba a archivo (nombre.txt).
+
+:
+Añadir nota al archivo de dumping (véase la opción take notes).
+
+?
+Lea las notas en el juego.
+
+V
+Ver información de la versión.
+
+?
+Describir un monstruo, hechizo o característica. Puedes introducir un nombre parcial o un nombre parcial
+regex en lugar del nombre completo.
+
+~ o Ctrl-D
+Añadir o guardar macros y mapas clave.
+
+=
+Reasignar las cartas de inventario/palabra/capacidad.
+
+ (consola) o F12 (Tiles Web)
+Lea los mensajes (al jugar en línea; no para juegos locales).
+
+-
+Muñeca de reproductor de edición (Tiles solamente).
+
+Juegos de ahorro
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+S
+Guardar el juego con la consulta y la salida.
+
+Ctrl... S
+Guardar juego sin consulta y salida.
+
+Ctrl-Q
+Dejar sin guardar (con un aviso de confirmación).
+
+Stashes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Ctrl-F
+Encuentra. Esta búsqueda en puestos y tiendas, puede utilizar expresiones regulares
+y también términos como 'pacas largas', 'tienda', 'altar', 'artefact'. Si tú
+están buscando altares a un dios especial, una búsqueda de 'Trog', etc.
+funciona. Una cadena como 'D:13' listará todos los elementos conocidos en ese nivel.
+'D:1}' buscará artículos en el nivel 1 solamente, en lugar de 'D:1', que
+listará también los elementos de D:10 a D:15. Una vez que la lista de todos encontrados
+los lugares se muestran, usted puede causar auto-travel para ir allí (presione el
+carta asociada) o puede examinar los elementos (prensión ? seguido por el
+carta).
+
+Interacción de elementos (inventario)
+================================================================================================================================================================================================================================================================
+
+Vea también "Ataque y disparo" para comandos de interacción de elementos relacionados con
+atacando y disparando.
+
+{}
+Inscribir el elemento (ver la opción de autoinscribir). Una inscripción vacía o
+inscribir sólo el espacio eliminará las inscripciones previas. Véase el apéndice 5.
+"Inscripciones". También puede inscribir artículos al verlas pulsando
+su llave de ranura en el inventario.
+
+q
+Muévete una poción.
+
+r
+Lee un rollo.
+
+M
+Memorizar un hechizo de un libro.
+
+w
+Anular un artículo ( - para ninguno).
+
+'
+Anillo elemento a, o cambio a b.
+
+W
+Usar armadura.
+
+T
+Quítate la armadura.
+
+P
+Ponte joyas.
+
+R
+Quita joyas.
+
+e
+Acciones de equipación (muerte, desgaste, puestas)
+
+c
+Inequip actions (unwield, take off, remove)
+
+Interacción del elemento (flor)
+================================================================================================================================================================================================================================================================
+
+g o ,
+Recoger artículos. Use un prefijo para recoger cantidades más pequeñas. Como con
+Cayendo, Ctrl-F te permite recoger artículos que coincidan con la expresión regular.
+
+d
+Suelta un artículo. Dentro de la lista desplegable, puede seleccionar ranuras basadas en una
+expresión regular pulsando Ctrl-F, seguido del regex.
+
+D#
+Suelta el número exacto de elementos, donde # es un número.
+
+D
+Suelta los elementos recogidos por última vez.
+
+Atajos en listas (como multidrop)
+================================================================================================================================================================================================================================================================
+
+Al bajar, el menú desplegable acepta varios atajos. Lo mismo se aplica a
+el menú de recogida. En lo siguiente, si un artículo ya está seleccionado, la clave
+lo deseleccionará (excepto ',' y '-', obviamente).
+
+(Asuntos)
+Seleccione todos los misiles.
+
+)
+Seleccione todas las armas de mano.
+
+[
+Seleccione toda la armadura.
+
+?
+Seleccione todos los pergaminos.
+
+/
+Seleccione todas las varitas.
+
+Silencio
+Seleccione todos los puestos.
+
+!
+Seleccione todas las pociones.
+
+=
+Seleccione todos los anillos.
+
+"
+Seleccione todos los amuletos.
+
+}
+Seleccione todos los elementos diversos.
+
+,
+Global select (sujeto a opción drop filter).
+
+-
+Deselección global (sujeto a opción drop filter).
+
+*
+Invertir la selección. Esto le permitirá seleccionar todos los elementos incluso si utiliza
+la opción drop filter.
+
+.
+Selecciona el siguiente artículo. (Si usted ha presionado la clave de un artículo en la lista,
+'.' cambiará el siguiente artículo. Esto se puede repetir, seleccionar rápidamente
+varios temas posteriores).
+
+;
+Seleccione el último inequipado. Selecciona el equipo (amor, joyería, o
+arma) la última vez que te has quitado o desenrollado.
+
+Mapa de nivel ('X')
+================================================================================================================================================================================================================================================================
+
+El mapa de nivel (herido por 'X' en la pantalla principal) utiliza toda la pantalla
+para mostrar la mazmorra.
+
+Esc, Space
+Deja el plano.
+
+?
+Ayuda de mapa de nivel.
+
+-
+Mapa del nivel de la ranura arriba.
+
++
+Mapa del nivel de la ranura abajo.
+
+dirección
+Mueva el cursor.
+
+Shift-direction
+Mover cursor en pasos más grandes (determinado por la opción
+level map cursor step).
+
+.
+Viaja al cursor (también Enter, Del, ',' y ';'). Si el cursor está en el
+carácter, mueva cursor a último destino de viaje en su lugar.
+
+o
+Mueva el cursor al siguiente objetivo de autoexploración.
+
+v
+Describir la función recordada o monstruo bajo el cursor.
+
+c)
+Ciclo por las escaleras.
+
+■
+Ciclo por escaleras abajo.
+
+^
+Ciclo a través de trampas.
+
+¿Qué?
+Ciclo por altares.
+
+Tab
+Ciclo a través de tiendas y portales.
+
+I
+Ciclo hacia adelante a través de todos los elementos y pilas.
+
+O
+Ciclo hacia atrás a través de todos los elementos y pilas.
+
+G
+Seleccione otro nivel (por rama y profundidad) para ver el mapa de.
+
+[
+Ver el nivel anterior.
+
+]
+Vea el siguiente nivel.
+
+!
+Añadir una anotación al nivel actual.
+
+Ctrl... C
+Nivel claro y mapas principales (de monstruos vistos temporalmente, nubes, etc.).
+
+Ctrl-F
+Olvida el mapa de nivel.
+
+Ctrl... U
+Restaurar el plano olvidado.
+
+Waypoints se puede establecer en el mapa de nivel. Puedes viajar a waypoints usando G.
+Los comandos son:
+
+Ctrl... W
+Establece el punto de referencia.
+
+W
+Ciclo a través de puntos.
+
+Las exclusiones de viaje marcan ciertos puntos del mapa como áreas de no-go para
+autotravel y explorar.
+
+e
+Establecer la exclusión de viaje. Si una exclusión ya está presente, cambio de tamaño
+(de un solo cuadrado a un campo de visión completo); después de eso, eliminar
+exclusión.
+
+R#
+Establecer una exclusión con un radio arbitrario, donde # es un número de 1 a
+8. Si una exclusión ya está presente, cambie su radio a #.
+
+Ctrl-E
+Borrar todas las exclusiones de viaje inmediatamente.
+
+E
+Ciclo a través de exclusiones de viaje.
+
+Examinar el entorno ('x')
+================================================================================================================================================================================================================================================================
+
+Al andar por la mazmorra, el modo de entorno es activado por 'x'. It
+te permite mirar artículos, monstruos u otras características en línea de visión.
+
+Esc, Space, x
+Vuelve al modo de juego.
+
+?
+Pantalla de ayuda especial.
+
+* o
+Objetos de ciclo hacia adelante.
+
+/ o ;
+Objetos de ciclo hacia atrás.
+
++ o =
+Los monstruos del ciclo hacia adelante.
+
+-
+Monstruos del ciclo hacia atrás.
+
+dirección
+Mueva el cursor.
+
+. o Entrar
+Viaja al cursor (también Del).
+
+v
+Describir característica o monstruo bajo el cursor. Algunas entradas de sucursales
+información especial.
+
+■
+Ciclo abajo.
+
+c)
+Ciclo arriba.
+
+¿Qué?
+Ciclo por altares.
+
+Tab
+Ciclo tiendas y portales.
+
+Ctrl-X
+Lista todos los monstruos, elementos y características a la vista. Usted puede leer sus
+descripciones y mover el cursor a un elemento, monstruo o característica.
+
+Objetivo
+================================================================================================================================================================================================================================================================
+
+El modo de destino es similar al entorno de examen. Se activa
+cada vez que dispara proyectiles, evoca una varita o hechizos de fundición que usan
+objetivos. Todos los comandos descritos para el examen de los alrededores
+trabajo, con excepción del Espacio (que dispara).
+
+Esc o x
+Deja de apuntar.
+
+?
+Pantalla de ayuda especial.
+
+Entra
+Fuego en dirección cursor (también Del y Espacio).
+
+.
+Fuego en posición de cursor y parar allí. Esto puede ser útil para evitar
+dañar aliados, o evitar perder flechas.
+
+p
+Fuego al objetivo anterior (si todavía está a la vista).
+
+f
+Smart-firing: fuego al objetivo anterior, si todavía está a la vista; y si no
+fuego en la posición del cursor. Puedes empezar a dispararle a un oponente con
+'ff' y luego sigue disparando con 'ff'.
+
+:
+Pantalla de la viga.
+
+(y )
+Cuando 'f'iring, estos dos comandos le permiten ciclo entre quiverable
+acciones (artículos, hechizos, habilidades).
+
+Shift-direction
+Fuego directo en esa dirección.
+
+Ctrl-X
+Lista todos los objetivos válidos. Usted puede seleccionar un objetivo de la lista para mover
+el cursor a ese objetivo.
+
+------------------------------------------------------------------------
+5. INSCRIPCIONES
+------------------------------------------------------------------------
+
+Puede utilizar el { comando para inscribir manualmente los elementos; alternativamente, usted
+también puede inscribirse al ver los artículos del inventario (haciendo presión
+la carta del artículo). Esto añade una nota en los frenos rizados al artículo
+descripción. Además de permitirle hacer comentarios sobre los artículos,
+hay varios usos adicionales.
+
+Inscripciones como atajos
+================================================================================================================================================================================================================================================================
+
+Puede utilizar inscripciones para definir atajos para facilitar el acceso a los artículos,
+independientemente de su carta de inventario real. Por ejemplo, si un artículo es
+la inscripción contiene "@w9", se puede escribir 'w9' para limpiarla. En cambio.
+del 9, cualquier otro dígito funciona también. Y en lugar de 'w'ield, cualquier otro
+comando used for handling items can be used: 'r'ead, 'q'uaff, e'v'oke,
+'f'ire, etc. Usando "@*9" hará cualquier comando de acción seguido de '9' uso
+este artículo.
+
+Inscripciones de seguridad
+================================================================================================================================================================================================================================================================
+
+Las inscripciones que contienen las siguientes cadenas afectan el comportamiento de algunas
+comandos:
+
+!
+Apunta antes de cualquier acción utilizando este artículo.
+
+!
+Apunta antes de limpiar y desenrollar este artículo.
+
+!a
+Prompta antes de atacar al manipular este artículo. Non- Weaponss and ranged
+las armas son automáticas. Además, si respondes 'y', no serás
+se volvió a pedir hasta que cambies las armas. Para restablecer este aviso mientras
+mantener el arma actual marchitado, utilizar 'w' y seleccionar la corriente
+arma.
+
+!d
+Apunta antes de dejar caer este artículo.
+
+!
+Apunta antes de equipar este artículo.
+
+!
+Apunta antes de deshacerse de este artículo.
+
+!q
+Apunta antes de atenuar este artículo.
+
+!r
+Apunta antes de leer este artículo.
+
+!
+Apunta antes de disparar o lanzar este artículo.
+
+!
+Apunta antes de usar esta armadura.
+
+!
+Apunta antes de quitarse la armadura.
+
+!
+Prepárate antes de poner esta joyería.
+
+!
+Apunta antes de quitar esta joyería.
+
+!v
+Apunta antes de evocar este artículo.
+
+=g
+Recoge este artículo automáticamente si el autopickup está encendido.
+
+=f
+Excluya este artículo desde el quivering automático.
+
++f
+Incluya este artículo en el quivering automático.
+
+= F
+Excluya este artículo cuando se ejecuten ciclistas.
+
++F
+Incluya este artículo cuando se ejecuten ciclistas.
+
+!Q
+Apunta antes de examinar explícitamente este artículo. Entails =F,=f.
+
+= R
+No te ofrezcas a cambiar este equipo si otro podría ser
+Retirada.
+
+!
+Provoca antes de realizar una acción que pueda destruir este tema. No lo hará.
+proteger contra la lava o accidentes de agua profundos.
+
+Puede utilizar la opción de autoinscripción para tener algunos elementos automáticamente
+inscrito. Ver opciones guide.txt para más detalles. Algunos ejemplos son:
+
+autoinscribe = piedra:=f
+autoinscribe = varita de heridas de sanidad:!v
+
+Autoinscripciones de artefactos
+================================================================================================================================================================================================================================================================
+
+Los artefactos se inscriben automáticamente con descripciones abreviadas de
+sus propiedades. Las inscripciones utilizan las siguientes ideas generales:
+
+rXXX
+significa una resistencia, por ejemplo rF+ (un nivel de resistencia al fuego), rN++++
+(tres niveles de resistencia a la energía negativa), rC- ( vulnerabilidad fría).
+
++XXX
+significa una habilidad que puede evocar a través del comando 'a'. E.g. +Inv
+(invisibilidad evocable, temporal).
+
+-XXX
+significa una capacidad suprimida. Por ejemplo -Cast (prohibido el rotulamiento).
+
+XX+6
+significa un impulso a alguna estatura numérica (similar con XX-2, etc.). Por ejemplo.
+Slay+3 (+3 a la precisión y el daño del combate de la melee y el combate extendido).
+
+Para obtener más información, examine un artículo (por seleccionarlo en su
+i) inventario); cada propiedad de un artefacto se enumerará y describirá.
+
+------------------------------------------------------------------------
+6. DUNGEON SPRINT MODES
+------------------------------------------------------------------------
+
+Las huellas de Dungeon son variantes cortas y de ritmo más rápido de Crawl que apuntan a más
+de un estilo de juego "coffee break". Se puede acceder desde el principal
+menú, y guardar archivos coexisten con los ahorros regulares del juego. Modos Sprint todos uso
+la mecánica básica de Crawl, pero con ciertos aspectos del juego surgió.
+Todos los juegos de sprint tienen lugar en un solo mapa. La velocidad más notable
+el cambio es mucho más rápido ganancia de experiencia, así como el crecimiento de la piedad. Muchos
+los modos sprint se centran en algún aspecto específico del juego, y varios
+introducir mecánica variante o elementos únicos en ese modo. En todos los
+sprint mapas, usted gana por encontrar y escapar con el Orbo de Zot, pero el
+condiciones para encontrar el Orb varían.
+
+Sprint I: "Red Sonja"
+Red Sonja, originalmente llamada "dungeon sprint 1", es la mazmorra original
+sprint map, poniendo la búsqueda para el Orb de Zot en un solo nivel.
+
+Sprint II: "The Violet Keep of Menkaure"
+Menkaure ha robado el Orbo de Zot y lo ha escondido en su guarda; puede
+¿Lo encuentras?
+
+Sprint III: "The Ten Rune Challenge"
+Inicialmente introducido en el torneo de 2010, este mapa de sprint sitúa 10
+runas y el Orbo de Zot en un solo nivel de mazmorras.
+
+Sprint IV: "Fedhas' Mad Dash"
+Fedhas' Mad Dash es un mapa más corto, un concurso organizado por Fedhas
+Madash. Los monstruos son Fedhas-themed; cuidado con los muchos sabores
+de Oklobs! Como siempre, tu objetivo es encontrar el Orbe de Zot y luego escapar.
+
+Sprint V: "Ziggurat Sprint"
+Ziggurat Sprint se centra en el mecánico Ziggurat. El mapa consta de un
+secuencia de salas abiertas de tamaño y dificultad creciente, cada
+con muchos monstruos alrededor de algún tema; las habitaciones están conectadas por
+transportadores. La sala de inicio proporciona un equipo potente para conseguir
+comenzó, así como altares. Si puedes pasar por todas las habitaciones,
+se llevará a una habitación con el Orb y algunas escaleras de salida.
+
+Sprint VI: "Thunderdome"
+En el Thunderdome se enfrentan a un gran conjunto de monstruos, incluyendo muchos
+únicos, en una arena en forma de cruz. Los monstruos aparecen en rondas, con el jefe
+ronda cada 5 rondas (cada 3 después de la ronda 27), y el jefe final en
+ronda 27. Si matas a cada monstruo en una ronda normal o jefe, lo harás
+obtener algunos puntos de oro, arena, y un poco de tiempo para descansar. En un rayo
+Para ganar solo necesitas sobrevivir. Una variedad de artículos interesantes
+están disponibles para comprar en tiendas a lo largo de los lados - no se pierda
+QUAD DAMAGE! Para ganar este sprint, matar al jefe final, y el Orb lo hará
+Aparece.
+
+Sprint VII: "The Pits"
+Este mapa es un mapa de la huella de estilo tradicional que incrusta la búsqueda
+el Orbo de Zot en un nivel de mazmorra con tres runas.
+
+Sprint VIII: "Arena de sangre"
+En la Arena de la Sangre, también conocida como "impresión", usted es un vaso de
+Makhleb, desgarrando el inmenso hacha de Ay de Makhleb contra un
+gran variedad de monstruos basados en carne en una arena abierta. Para ganar este modo,
+matar al Meatlord, recoger el Orbe de Zot, y escapar.
+
+Sprint IX: "La vida en la vida eterna es insoportable".
+Este modo, también conocido como "marcal", pone todo el juego de Crawl en un
+pasillo 1-espacio único, con cada región como una línea recta.
+Lucha tu camino hacia el centro del mapa para reclamar el Orbo de Zot. Escape
+con él, o seguir adelante para recoger todas las runas primero.

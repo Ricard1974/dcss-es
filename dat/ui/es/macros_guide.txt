@@ -1,0 +1,151 @@
+Macros y Keymaps
+=========================
+
+¿Qué son macros y teclados? La explicación simple es:
+
+Los macros de comandos hacen claves en comandos.
+Los teclados hacen las llaves en otras llaves.
+
+O un poco más de verbose:
+
+En su mayor parte, la gente probablemente querrá macros de comando. Ellos permiten
+para cosas como hacer una clave ejecutar una secuencia de comandos (por ejemplo,
+asociando un golpe clave a la casting de un cierto hechizo) sin
+tener que preocuparse de arruinar lo que esa llave hace en los avisos (por ejemplo.
+puede macro un número o carta sin preocuparse por él haciendo el
+sustitución cuando usted está tratando de dejar un artículo).
+
+Los teclados son para cuando quieres arreglar problemas de diseño y comportamiento en
+su teclado (es decir, secuencias numpadas no reconocidas pueden por mapeado en
+sus números, los diseños de teclado extranjeros se pueden modificar para ser más
+cómodo). También hay conjuntos especiales de teclados para el mapa de nivel,
+el modo de destino y las indicaciones de confirmación, que permiten asignaciones
+que se limitan a esas situaciones.
+
+
+¿Cómo crear macros y teclados?
+================================================================================================================================================================================================================================================================
+
+La forma más simple es en el juego: Presione la tecla '~' o Ctrl-D, seleccione
+'m' para definir una macro, luego elegir una clave para asignar para su macro y
+Entra en la secuencia de comandos. Para algunas teclas (o combinaciones de teclas), Crawl
+mostrará un número extraño (por ejemplo \{13} para la llave de retorno).
+Estos números son los códigos clave para ciertas teclas no alfanuméricas y
+puede variar entre diferentes sistemas.
+
+Por defecto, la mayoría de las teclas alfanuméricas superior e inferior ya están
+Funciones asignadas en Crawl. Mientras usted es libre de remap esas llaves como
+Bueno, podría ser mejor empezar con algunas de las teclas actualmente no utilizadas,
+como Ins o las teclas de función (F1 a F12), posiblemente combinadas con
+Ctrl, Shift o ambos. En algunos sistemas, también puede ser posible
+incorpora la tecla Alt (Meta).
+
+Definir teclados funciona exactamente de la misma manera. Sólo presiona 'k'
+(default), 'x' (mapa de nivel), 't' (targeting) o 'c' (confirmación)
+en lugar de 'm' después de presionar '~'.
+
+Después de definir tal macro o teclado, debe probarlo. Si eres
+cómodo con él, entonces debe guardar la macro. Para salvar todas las macros
+y teclados, presione '~' y luego 's' para guardar macros en el indicador de inclinación).
+
+
+El archivo macro.txt
+=========================
+
+Macros y teclados se almacenan en un archivo llamado macro.txt en su
+configuración/ directorio. Puede cambiar de dónde se lee el archivo y
+escrito para especificar un directorio diferente con el macro dir
+opción en su archivo de entrada (ver opciones guide.txt para más detalles). El
+archivo macro.txt es legible y editable humano, pero es posible que tenga que
+encontrar los códigos clave para las teclas no alfanuméricas a través del juego
+experimentación o utilidades externas.
+
+Las líneas que comienzan con el '#' son comentarios y serán ignoradas. Nota
+que Crawl no preservará necesariamente sus comentarios al guardar macros
+y teclados al archivo macro.txt.
+
+Cada definición macro consiste en exactamente dos líneas. El primero
+describe la clave del disparador macro y consiste en "M:" seguido por la
+carácter o clave de esa clave (por ejemplo 'a', 'A' o \{9} para
+las teclas A, Shift-A o Tab). El segundo describe la acción macro
+y consiste en "A:" seguido por la secuencia de comandos para ser asociado
+con la tecla anterior (por ejemplo "zap" para zapping el hechizo en ranura a
+en el objetivo anterior). Las definiciones macro individuales deben ser
+separado por líneas vacías.
+
+Para los teclados simplemente reemplazar la "M:" en la primera línea de la definición
+con uno de los siguientes:
+"K:" por defecto,
+"K1:" nivel-mapa,
+"K2:" apuntando o
+"K3:" confirmación.
+
+
+Ejemplos
+========
+
+Esta sección contiene algunos ejemplos para darle una idea de lo macros y
+se pueden usar teclados. Note que por el bien de la integridad, ambos
+línea clave y línea de comando se dan, pero que probablemente debe
+Sustituya sus propias llaves aquí ya que éstas no siempre funcionan para usted.
+
+
+'@' es un personaje que puede no funcionar por defecto en algún teclado
+diseños. Lo siguiente debe remediar que mediante la asignación '@' a '@'.
+
+# @: estado del personaje de visualización
+K:\{17}
+A:@
+
+
+Jugar a un citador puede ser molesto porque a menudo necesita echar el
+los mismos hechizos múltiples veces seguidas, cada casting que requiere múltiples
+Keystrokes. Esta macro permite lanzar el hechizo en ranura 'a' con un
+Una sola llave. Tenga en cuenta que puede redefinir ranuras de hechizo con el '='
+llave. Destacamos de nuevo que la tecla F1 puede obtener un código diferente en
+tu sistema.
+
+# F1: cast spell 'a'
+M:\{368}
+A:za
+
+
+Ahora que nos hemos encargado de la citación, todavía tenemos que ordenar nuestro
+criaturas llamadas. La siguiente macro debe hacer que sea más fácil
+Bueno. Tenga en cuenta que esta macro supone que la opción default target es
+establecido a la verdad (es por defecto; ver gate options.txt para detalles).
+
+# Tab: Ordene a los aliados que ataquen su objetivo anterior o el objetivo más cercano
+M:\{9}
+A:ta.
+
+
+Los conjuradores necesitan una macro ligeramente diferente para el casting, como este
+uno, ya que necesitan presionar '.' o regresar para confirmar el disparo a un objetivo.
+De nuevo, esta macro asume que la opción default target se establece para
+Cierto.
+
+# F1: hechizo de fundición 'a' en tu objetivo anterior o más cercano
+M:\{368}
+A:za.
+
+
+Sin embargo, incluso los conjuristas podrían no querer siempre disparar en su anterior
+objetivo, por lo que el siguiente conjunto de macros les permite lanzar el hechizo
+en ranura 'a' y luego ciclo a través de los objetivos disponibles con el mismo
+llave y luego confirmar con la misma llave que usamos para disparar en la
+macro anterior. Este ejemplo también trata de ilustrar cómo tomar
+ventaja de que las teclas pueden tener diferentes funciones en
+diferentes teclados.
+
+# Shift-F1: cast hechizo 'a'
+M:\{1392}
+A:za
+
+# Shift-F1: ciclo a través de objetivos cuando se dirige al modo
+K2:\{1392}
+A:+
+
+# F1: fuego al blanco cuando en modo de apuntar
+K2:\{368}
+A:.

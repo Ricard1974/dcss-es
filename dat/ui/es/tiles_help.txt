@@ -1,0 +1,168 @@
+Nota: Si usted está experimentando una desaceleración significativa y retrasos con los azulejos
+versión de Dungeon Crawl Stone Soup, baja hasta el final de este archivo.
+
+
+Tiles comandos específicos
+-----
+
+Hay varias maneras diferentes de interactuar con su entorno, ambos
+escribiendo las teclas de comando, y utilizando el ratón.
+
+De interés notable es el área de pestañas clicable a la derecha de la pantalla
+que permite un fácil acceso a, por ejemplo, inventario, hechizos o comandos comunes.
+
+Dependiendo de su resolución de pantalla, uno de estos paneles puede ser
+abierto en cualquier momento, aunque puede cambiar temporalmente la vista del inventario
+con otro tipo de panel de azulejos haciendo clic en los iconos de la pestaña.
+
+Puede personalizar la prioridad de los paneles de control modificando la
+tile layout priority opción init.txt en el directorio de configuración.
+
+
+Movimiento
+---
+
+Puedes moverte usando las teclas de flecha, las teclas vi, o el pad número.
+(Para este último prueba tanto Numlock encendido y apagado.)
+
+Numpad: 7 8 9 vi-keys: y k u
+\ sufrimiento/
+4--6 h-l
+/ Subtítulos\ /
+1 2 3 b
+
+
+Para ejecutar varios pasos en la misma dirección, pulse Shift junto con estos
+llaves.
+
+También puede moverse haciendo clic en algún lugar del mapa o minimap con su
+ratón. Si el cuadrado es accesible desde su posición actual y hay
+ningún monstruo hostil a la vista, viajarás automáticamente allí. Si hay
+son monstruos hostiles a la vista, sólo darás un solo paso a la vez.
+
+Para la exploración automática, puede escribir el comando 'o' o puede
+haga clic en la ficha correspondiente en el panel de comandos a la derecha de su
+pantalla. Como el ratónclick viaje, estos se negarán a trabajar si hay
+monstruos hostiles a la vista.
+
+
+Obtener información
+---
+
+Hacer un clic derecho con el ratón en cualquier característica, monstruo o artículo en el
+mapa principal o en los paneles de control de azulejos mostrará la descripción de
+dicha característica, monstruo o artículo en una pantalla separada.
+
+Una simple mouseover generalmente mostrará la misma descripción, o tanto de
+en el área del mensaje.
+
+Del mismo modo, dejar que su ratón descanse por un tiempo en una característica, monstruo o
+El artículo generalmente mostrará una "pista de herramientas" de los comandos aplicables.
+
+
+Ataque a monstruos
+- Sí.
+
+Usted puede atacar a un monstruo en la melee moviéndose en ella con las teclas de movimiento
+o haciendo clic en él con el ratón.
+
+Para ataques variados (incluyendo hechizos y varitas), ratón sobre los monstruos
+y esperar a que aparezca la punta de la herramienta. Alternativamente, puedes lanzar hechizos por
+haciendo clic en las fichas de hechizo en el panel de hechizos, o munición de fuego o
+evoque varitas haciendo clic en ellos en el panel de inventario.
+
+En el panel de comandos, también encontrará una baldosa descrita como "Autofight",
+que, si se hace clic, atacará a un monstruo adyacente en melee, o si hay
+ningún monstruo adyacente, dar un paso en la dirección del monstruo más cercano.
+
+
+Uso del artículo
+--------
+
+La forma más fácil de usar es haciendo clic en ellos en el panel de inventario.
+La punta de la herramienta mouseover le dirá lo que un clic del ratón hará, y también
+la tecla de comando correspondiente para ejecutar la misma acción.
+Como alternativa, también puede utilizar un artículo seleccionandolo en el inventario
+('i' command) y luego presionar la llave apropiada en el aviso de acción.
+
+Para recoger los elementos en el suelo, puede hacer clic en ellos uno por uno
+la sección del piso del panel de inventario, o puede hacer clic en el reproductor
+Tile y tire hacia arriba un menú de elementos seleccionables en su lugar. En este último caso,
+'Enter' confirmará su selección y empezará a recoger.
+
+Los elementos de desembarque funcionan de forma similar, ya sea haciendo clic en los elementos individuales en los
+panel de inventario, o escribiendo el comando 'd' y luego seleccionando elementos
+de un menú.
+
+
+Interactuando con la mazmorra
+----------
+
+Una vez más, haciendo un mouseover en características (como escaleras o puertas) en las
+mapa principal te dirá cómo interactuar con ellos.
+
+
+Situación de los caracteres
+.
+
+Hacer un clic derecho en la ficha del jugador mostrará una vista general de carácter
+equipos de lista de pantalla, resistencias y estadísticas.
+
+Las pantallas más detalladas sobre aspectos específicos de sus caracteres pueden ser
+accedido haciendo clic en las fichas correspondientes del panel de comandos.
+
+
+Característica
+--------------------
+
+Puedes cambiar la apariencia de tu personaje con el Editor Doll, accedido con
+el comando '-'. Utilice 'm' para cambiar entre modos: Equip, donde su apariencia
+actualizaciones dinámicas basadas en los elementos que equip; Default, un sprite basado en
+la raza y el fondo de su personaje; y Personalizado, que le permite completamente
+personalizar cada parte del aspecto de tu personaje. Utilice las teclas de número para cambiar
+entre ranuras de muñeca personalizadas y las teclas de flecha para modificar las diferentes partes de
+cada sprite personalizado. Guarda tus cambios y selección con 'Ctrl-S'.
+
+
+
+Si usted está experimentando una desaceleración significativa y retrasos...
+------
+
+Crawl renderiza sus gráficos usando OpenGL y SDL. Sin embargo, necesita hardware
+aceleración para no correr lentamente. Si usted está en Windows, asegúrese de actualizar
+tu chofer de tarjetas gráficas. Si está en Linux, asegúrese de que está usando
+DRI.
+
+Se ha probado con éxito con tarjetas tan antiguas como el i865. Desafortunadamente,
+se sabe que es lento en el i810 y hay poco que hacer
+ese caso pero para ejecutar la versión de consola o cambiar a otro
+máquina.
+
+Puede intentar retocar una serie de opciones en init.txt en la configuración
+directorio para ver si el rendimiento mejora:
+
+travel delay = 1
+Este ajuste suprime el enrojecimiento hasta que el viaje esté terminado o
+interrumpido.
+
+tile update rate = 1000
+Por defecto, la pantalla se enrojece al menos cada 1000 milisegundos,
+más a menudo si usted toma acciones que cambian la pantalla. Podrías intentarlo.
+anhelando este valor, aunque esto puede llevar a actualizar tomar demasiado tiempo.
+
+tile runrest rate = 17
+Mientras se ejecuta y descansa la pantalla se enrojece cada 17 milisegundos.
+Si Crawl es lento mientras corre o descansa, aumenta este número.
+
+tile tooltip ms = 0
+Desactivar las herramientas significa que hay menos cosas que dibujar cada vez.
+
+clear map = false
+No tener que redibujar monstruos recordados fuera de tu línea de visión
+quita algo de carga las rutinas de enrojecimiento.
+
+tile window width = 1024
+tile window height = 768
+Cuanto más grande es el área del mapa más células hay que redibujar cada vuelta.
+Si tienes una gran pantalla mostrando mucho más que el necesario 17x17
+cuadrículas del mapa, usted podría intentar especificar una resolución menor.
