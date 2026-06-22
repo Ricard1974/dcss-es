@@ -6,7 +6,7 @@ Todas tus acciones son 50% más rápidas.
 %%%%
 Invis status
 
-Eres invisible. La mayoría de los enemigos Will no pueden verte y Will sufren
+Eres invisible. La mayoría de los enemigos no pueden verte y sufren
 sanciones para golpear, aunque pueden ser capaces de adivinar en su ubicación general.
 Si el estado está gris, es activo pero ineficaz por alguna razón (por
 ejemplo si estás brillando con contaminación mágica o de pie en superficial
@@ -16,7 +16,7 @@ agua).
 Tele status
 
 Estás a punto de teletransportar. Mientras espera para teletransportar, tratando de aplicar el
-status again (such as by using a pergamino de teletransporte) Will cancel the
+status again (such as by using a pergamino de teletransporte) cancel the
 teletransportación.
 
 %%%%
@@ -24,13 +24,13 @@ teletransportación.
 
 Estás a punto de teletransportar hacia monstruos hostiles, si es posible. Antes de esto
 sucede, tratando de teletransportar de nuevo (como usando un pergamino de
-teletransportación) Will cancelar esta teletransportación.
+teletransportación) cancelar esta teletransportación.
 
 %%%%
 Fly status
 
 Tú está volando sobre el suelo, y son capaces de cruzar el agua y lava o luchar
-arriba agua poco profunda sin penalizaciones. La mayoría de los tipos de flight Will tiempo fuera – ser
+arriba agua poco profunda sin penalizaciones. La mayoría de los tipos de flight tiempo fuera – ser
 Cuidado con lo que estás arriba cuando eso sucede!
 
 %%%%
@@ -89,8 +89,8 @@ Berserk status
 
 Tú es apresurado, tratar el aumento del daño en el combate, y han aumentado la salud, pero
 son incapaces de realizar la mayoría de acciones que no se mueven y atacan en melee.
-El estado Will se apaga muy rápidamente a menos que estás ataque monstruos, y
-cuando caduca Will se ralentiza e incapaz de Berserk de nuevo por un corto
+El estado se apaga muy rápidamente a menos que estás ataque monstruos, y
+cuando caduca se ralentiza e incapaz de Berserk de nuevo por un corto
 duración.
 
 %%%%
@@ -105,15 +105,15 @@ Bearserk status
 ¡Estás lleno de rabia barbárica! Tú es apresurado, tratar daño grizzly, y
 han aumentado enormemente la salud, pero no es posible hacer mucho más que
 Muévete y maul foes. Tú va a pedir furwell a este estado muy rápidamente a menos que tú
-están atacando, y cuando caduca tú Will ser lento e incapaz de ser grosero
+están atacando, y cuando caduca tú ser lento e incapaz de ser grosero
 otra vez por un corto período.
 
 %%%%
 Pois status
 
-Tú está envenenado y Will pierde continuamente la salud. Mientras se envenena, su corriente
-salud Will ser parcialmente reconstruido para mostrar el eventual daño de veneno que
-Will ser tratado. El veneno se puede curar inmediatamente por pociones de curado.
+Tú está envenenado y pierde continuamente la salud. Mientras se envenena, su corriente
+salud ser parcialmente reconstruido para mostrar el eventual daño de veneno que
+ser tratado. El veneno se puede curar inmediatamente por pociones de curado.
 
 %%%%
 Conf status
@@ -135,7 +135,7 @@ tu sigilo.
 Drain status
 
 Su salud máxima ha sido drenada temporalmente por energía negativa. Esto
-estado Will no se desgastan esperando, pero Will gradualmente caduca a medida que gana
+estado no se desgastan esperando, pero gradualmente caduca a medida que gana
 experiencia.
 
 %%%%
@@ -164,7 +164,7 @@ Breath++ status
 %%%%
 Exh status
 
-Ustedes están exhaustos, y no pueden activar poderes divinos que causan
+Tú están exhaustos, y no pueden activar poderes divinos que causan
 agotamiento hasta que el estado expira.
 
 %%%%
@@ -180,12 +180,12 @@ Estás paralizado y completamente incapaz de actuar.
 %%%%
 Sleep status
 
-Estás dormido, y completamente incapaz de actuar. Tomar daño Will despertarte.
+Estás dormido, y completamente incapaz de actuar. Tomar daño despertarte.
 
 %%%%
 Held status
 
-Tú se mantiene en una red o una web de araña. No puede moverse libremente y Will en su lugar
+Tú se mantiene en una red o una web de araña. No puede moverse libremente y en su lugar
 tratar de luchar libre.
 
 %%%%
@@ -193,7 +193,7 @@ Constr status
 
 Estás siendo restringido por un enemigo. Tu evasión está alterada, y tú...
 Tomar daño con el tiempo. Tú es incapaz de alejarse del enemigo, aunque tú
-puede luchar por escapar tratando de hacerlo, y Will cada vez más
+puede luchar por escapar tratando de hacerlo, y cada vez más
 es probable que tenga éxito y quebrar la constricción al hacerlo múltiples veces.
 
 %%%%
@@ -225,14 +225,14 @@ y todavía se puede mover a través de translocaciones o siendo empujado, tirado
 Mark status
 
 Su ubicación está marcada debido a los efectos de una trampa o un hechizo, y monstruos
-Will buscarte más precisamente y Will ser capaz de detectarte incluso si
+buscarte más precisamente y ser capaz de detectarte incluso si
 no están en su visión.
 
 %%%%
 Fire status
 
 Tú está cubierto con fuego pegajoso, que causa daño durante una duración moderada.
-Moving Will quell the fire much more quickly, and entering water Will extinguish
+Moving quell the fire much more quickly, and entering water extinguish
 inmediatamente.
 
 %%%%
@@ -254,14 +254,14 @@ más fácil de golpear.
 %%%%
 Barbs status
 
-Hay barbs incrustados en su piel, y moverse alrededor de Will causa que tú tome
-daño. Permanecer en su lugar por un corto tiempo Will le permite quitar los barbs
+Hay barbs incrustados en su piel, y moverse alrededor de causa que tú tome
+daño. Permanecer en su lugar por un corto tiempo le permite quitar los barbs
 sin hacer daño.
 
 %%%%
 Sick status
 
-Has sido enfermizado, y tu salud Will ya no se regenera.
+Has sido enfermizado, y tu salud ya no se regenera.
 
 %%%%
 Vertigo status
@@ -279,7 +279,7 @@ cantidad dependiendo de la gravedad de la corrosión.
 Flay status
 
 Tú está cubierto de heridas ilusionarias, causando graves daños mientras el efecto
-sigue activo. Destruyendo la fuente de la ilusión Will restaurar toda la salud
+sigue activo. Destruyendo la fuente de la ilusión restaurar toda la salud
 perdido a la fuga.
 
 %%%%
@@ -295,7 +295,7 @@ Tú está cubierto de hielo, y su velocidad de movimiento se reduce.
 %%%%
 Sap status
 
-Tu magia está salpicada. Casting un hechizo Will hace que pierdas acceso a tu
+Tu magia está salpicada. Casting un hechizo hace que pierdas acceso a tu
 magia, previniendo brevemente que castigues otros hechizos.
 
 %%%%
@@ -307,7 +307,7 @@ No puedes hacer hechizos.
 Crippled status
 
 Al menos una de tus fuerzas, inteligencia o destreza ha caído a 0 o
-abajo. Tú Will actúa lentamente hasta que esta situación sea remediada.
+abajo. Tú actúa lentamente hasta que esta situación sea remediada.
 
 %%%%
 DChan status
@@ -337,7 +337,7 @@ pero todos los daños causados se reducen sustancialmente.
 Petr status
 
 Te estás convirtiendo en piedra. Tus acciones son lentas, todo el daño es ligeramente
-reducido, y tú Will pronto será completamente petrificado (recogiendo el estado de Piedra).
+reducido, y tú pronto será completamente petrificado (recogiendo el estado de Piedra).
 
 %%%%
 Resist status
@@ -347,7 +347,7 @@ Tú es más resistente al fuego, frío, electricidad, veneno y ácido.
 %%%%
 Slime status
 
-Tu arma peluda o tus puños están recubiertos en el cuero cabelludo, y Will gire al siguiente
+Tu arma peluda o tus puños están recubiertos en el cuero cabelludo, y gire al siguiente
 monstruo viviente o no muerto corpóreo que golpeas en un eslido neutral.
 
 %%%%
@@ -389,7 +389,7 @@ Flooded status
 
 Sus pulmones están llenos de líquido, impidiéndole respirar correctamente. Esto
 hace imposible la lectura de pergaminos, hechizos de casting e invocando habilidades divinas.
-Tú Will también toma daño de asfixia cada vuelta.
+Tú también toma daño de asfixia cada vuelta.
 
 %%%%
 Stealth status
@@ -427,7 +427,7 @@ Su velocidad de combate se incrementa enormemente.
 %%%%
 Duel status
 
-Tú está cavando un enemigo en la Arena de Okawaru, y Will ser devuelto cuando tú vino
+Tú está cavando un enemigo en la Arena de Okawaru, y ser devuelto cuando tú vino
 si estás victorioso.
 
 %%%%
@@ -452,7 +452,7 @@ lo suficiente para cancelar tu deuda.
 %%%%
 Toxic status
 
-Está irradiando energía tóxica, y Will inflige continuamente veneno a todos
+Está irradiando energía tóxica, y inflige continuamente veneno a todos
 criaturas cercanas.
 
 %%%%
@@ -494,7 +494,7 @@ Estás llamando a un avión boscoso a la existencia temporal, y despertar cerca
 Dragoncall status
 
 Estás llamando a dragones poderosos para atacar a tus enemigos. Cada dragón
-responde a la llamada Will Drain su energía mágica. Después de que la llamada termine, no puede
+responde a la llamada Drain su energía mágica. Después de que la llamada termine, no puede
 se publicará de nuevo por un corto tiempo.
 
 %%%%
@@ -543,12 +543,12 @@ Tus ataques de melee se arrastren, golpeando todos los objetivos adyacentes.
 Ambros status
 
 Tú está regenerando la salud y la magia, pero también están confundidos. Curando
-confusión Will también termina la regeneración.
+confusión también termina la regeneración.
 
 %%%%
 Surge status
 
-Su próximo uso de un dispositivo evocable Will tiene su potencia mejorada, al costo
+Su próximo uso de un dispositivo evocable tiene su potencia mejorada, al costo
 de algo de tu magia.
 
 %%%%
@@ -704,14 +704,14 @@ la salud máxima se drena cuando se daña.
 Orb status
 
 Estás cerca (o tal vez sosteniendo) el Orbe de Zot, cuyas energías perturban
-magia de translocación. Teleportación Will tarda más y los desplazamientos de parpadeo pueden
+magia de translocación. Teleportación tarda más y los desplazamientos de parpadeo pueden
 transporte a corta distancia de su destino previsto.
 
 %%%%
 Orb? status
 
 Sostienes el Orbo de Charlatan, cuyas energías perturban la translocación
-magia. Teleportación Will tomar más tiempo y pergaminos de parpadeo puede transportarlo
+magia. Teleportación tomar más tiempo y pergaminos de parpadeo puede transportarlo
 a corta distancia de su destino previsto.
 
 %%%%
@@ -725,7 +725,7 @@ hechizos de casting, están bien.)
 Ray status
 
 Actualmente estás canalizando un rayo de energía mágica. Prensa
-<w>.</w> o <w></w> para esperar en el lugar Will mantener e intensificar el rayo, en
+<w>.</w> o <w></w> para esperar en el lugar mantener e intensificar el rayo, en
 el costo de 1 MP por turno. Cualquier otra acción, incluyendo retransmitir el hechizo,
 Termínalo.
 
@@ -840,13 +840,13 @@ Zot status
 
 Has pasado demasiado tiempo en una rama, permitiendo el poder malévolo de Zot
 para notarlo. Si pasa el número indicado de vueltas en la rama sin
-descendiendo a un nuevo piso, Zot Will le encuentra, causando daño permanente a la salud.
+descendiendo a un nuevo piso, Zot le encuentra, causando daño permanente a la salud.
 
 %%%%
 Zot count status
 
 Si tú pasa el número indicado de vueltas en esta rama sin descender a
-un nuevo piso, Zot Will le encuentra, causando daño permanente de salud.
+un nuevo piso, Zot le encuentra, causando daño permanente de salud.
 
 %%%%
 Gem status
@@ -883,8 +883,8 @@ por una corta duración.
 Charge- status
 
 Actualmente está canalizando carga eléctrica. Presionando <w>.</w> o <w></w>
-para esperar en el lugar Will mantener y continuar este proceso hasta que se descarga.
-Cualquier otra acción, incluyendo retransmitir el hechizo, Will disipa el cargo
+para esperar en el lugar mantener y continuar este proceso hasta que se descarga.
+Cualquier otra acción, incluyendo retransmitir el hechizo, disipa el cargo
 inofensivamente.
 
 %%%%
@@ -906,8 +906,8 @@ Charge| status
 Wave status
 
 Actualmente estás canalizando ondas de llamas. Presionando <w>.</w> o <w></w>
-para esperar en el lugar Will mantener e intensificar las olas, a costa de 1 MP por
-Gira. Cualquier otra acción, incluyendo retransmitir el hechizo, Will terminarlo.
+para esperar en el lugar mantener e intensificar las olas, a costa de 1 MP por
+Gira. Cualquier otra acción, incluyendo retransmitir el hechizo, terminarlo.
 
 %%%%
 Wave+ status
@@ -946,7 +946,7 @@ Reap status
 Peek status
 
 Estás mirando por las escaleras. Puede regresar libremente al nivel anterior, pero
-una vez que tú toma cualquier acción en este piso, todas las escaleras que conducen hacia atrás Will colapso.
+una vez que tú toma cualquier acción en este piso, todas las escaleras que conducen hacia atrás colapso.
 
 %%%%
 Fragile status
@@ -994,27 +994,27 @@ No hay enemigos a la vista.
 Rise status
 
 Estás subiendo hacia el techo. Después de un breve retraso, Ignis' poder
-Will te derriba al nivel anterior.
+te derriba al nivel anterior.
 
 %%%%
 Challenge status
 
-Tú ha sido desafiado por un apóstol elegido de Beogh, que Will conoce su
+Tú ha sido desafiado por un apóstol elegido de Beogh, que conoce su
 ubicación no importa dónde en el suelo estás. Derrotarlos y reclutar puedes
-para unirse a tú. Si huyes del suelo, Beogh Will te castigan temporalmente
+para unirse a tú. Si huyes del suelo, Beogh te castigan temporalmente
 privarte de aliados.
 
 %%%%
 Vengeance status
 
 Uno de sus apóstoles ha sido asesinado, y tienes todavía no mató a todos los enemigos que
-estuvieron involucrados en su muerte. Si lo haces, Beogh Will resucitarlos antes.
+estuvieron involucrados en su muerte. Si lo haces, Beogh resucitarlos antes.
 
 %%%%
 Pray status
 
-Ustedes han invocado ayuda divina para vengar la muerte de un apóstol caído. Orcs Will
-continuamente reunirse a su lado, aunque su oración Will termina más rápidamente cuando
+Tú han invocado ayuda divina para vengar la muerte de un apóstol caído. Orcs Will
+continuamente reunirse a su lado, aunque su oración termina más rápidamente cuando
 No hay más enemigos por ahí para luchar.
 
 %%%%
@@ -1028,7 +1028,7 @@ Torch status
 
 Llevas la antorcha negra. Si este indicador es oscuro, la antorcha no está iluminada; si
 es brillante, tienes llamado Yredelemnul para encender la antorcha. Mientras tanto
-Quemaduras de antorcha, tú Will ganar piedad para matar. Con suficiente piedad, tú Will ser
+Quemaduras de antorcha, tú ganar piedad para matar. Con suficiente piedad, tú ser
 capaz de utilizar su fuego umbral para empoderar a sus sirvientes no muertos y daño a sus
 enemigos.
 
@@ -1041,19 +1041,19 @@ Yredelemnul's grip is engulfing an area in life-stealing chains.
 Rev status
 
 Empiezas a ensuciarte. Tus ataques con armas y sin armas están más cerca
-a plena fuerza, y Will continúan creciendo más poderoso con cada oscilación.
+a plena fuerza, y continúan creciendo más poderoso con cada oscilación.
 
 %%%%
 Rev+ status
 
 Estás extiendo. Tus ataques con armas y sin armas están cerca de todo
-fuerza, y Will continúan creciendo más poderoso con cada oscilación.
+fuerza, y continúan creciendo más poderoso con cada oscilación.
 
 %%%%
 Rev* status
 
 Estás alucinado. Sus ataques con armas y sin armas están a toda fuerza,
-y Will permanecen mientras sigan oscilando y durante un corto tiempo después.
+y permanecen mientras sigan oscilando y durante un corto tiempo después.
 
 %%%%
 -Gavotte status
@@ -1070,7 +1070,7 @@ Tú está abrazando reactivos alquímicos conjurados en monstruos cercanos.
 Nightfall status
 
 Tú está canalizando la noche más profunda, reduciendo enormemente su rango de visión. It
-Will Volver gradualmente a la normalidad con el tiempo.
+Volver gradualmente a la normalidad con el tiempo.
 
 %%%%
 Blind status
@@ -1093,7 +1093,7 @@ Aún no has cosechado suficiente muerte para echar a Grave Claw otra vez.
 %%%%
 Legion status
 
-Estás cayendo las legiones del caos; demonios de corta vida Will ser periódicamente
+Estás cayendo las legiones del caos; demonios de corta vida ser periódicamente
 Convocada cerca de ti.
 
 %%%%
@@ -1107,7 +1107,7 @@ Execution status
 
 Tú está compartiendo su cuerpo con un ejecutante, dándole un poderoso auxiliar
 ataque que también desencadena cuando atacas, así como dejar que la rampa
-hacia los enemigos. Este Will caduca rápidamente si deja de atacar.
+hacia los enemigos. Este caduca rápidamente si deja de atacar.
 
 %%%%
 Destr status
@@ -1128,8 +1128,8 @@ Destr++ status
 Destr+++ status
 
 <Destr status>
-Si lo usas de nuevo, Will desencadena una salva de tornillos adicionales dirigidos al azar
-objetivos y este bono Will reajuste.
+Si lo usas de nuevo, desencadena una salva de tornillos adicionales dirigidos al azar
+objetivos y este bono reajuste.
 
 %%%%
 Slaughter status
@@ -1153,7 +1153,7 @@ una vez.
 %%%%
 Shield status
 
-Estás protegido por un escudo divino. Enemigos que lo golpean en melee Will tienen
+Estás protegido por un escudo divino. Enemigos que lo golpean en melee tienen
 sus ataques completamente bloqueados, y también pueden ser cegados por su luz.
 
 %%%%
@@ -1252,7 +1252,7 @@ Encendida ahora.
 Enkindled status
 
 Estás quemando recuerdos acumulados para el poder. Cada hechizo de destrucción de daños
-cast Will consumir un recuerdo. A cambio, su poder y el éxito del hechizo son
+cast consumir un recuerdo. A cambio, su poder y el éxito del hechizo son
 aumento, las penas de encumbramiento son ignoradas, y sus ataques de hechizos sí
 daño de bonificación proporcional a la nivel de hechizo y sanar tú basado en el daño
 tratado.
@@ -1261,23 +1261,23 @@ tratado.
 Cacophony status
 
 Estás atacando ruidosamente con toda tu armadura. Cada pedazo de armadura que
-embruja actualmente movimientos de su propia volición; cualquier daño que tome Will no afecta
+embruja actualmente movimientos de su propia volición; cualquier daño que tome no afecta
 tú, puedes libremente fuego a través de ella, y sus ataques pueden desahogar, Drain, o confundir
 tus enemigos.
 
 %%%%
 Catalyst status
 
-Tienes un catalizador explosivo. El catalizador Will detonar, tratar el fuego
+Tienes un catalizador explosivo. El catalizador detonar, tratar el fuego
 daño al objetivo primario de cada uno de sus ataques de melee y cualquier enemigo
-adyacente a ellos, con cada golpe. Ataque Will extiende la duración de la
+adyacente a ellos, con cada golpe. Ataque extiende la duración de la
 catalizador aunque te pierdas.
 
 %%%%
 Shroud status
 
 Tú está cubierto por un estruendo delgado de la slime que puede desviar un melee ataque. Cuando
-lo hace, el shroud Will romper por un corto tiempo, aunque Will pronto reparar
+lo hace, el shroud romper por un corto tiempo, aunque pronto reparar
 naturalmente.
 
 %%%%
@@ -1304,7 +1304,7 @@ Eres una colmena viva, abuzz con insectos ocupados.
 -Swarm status
 
 Los insectos que habitan dentro de tienes recientemente enjaulado a su defensa. Esto
-Will no sucede de nuevo hasta que su salud se recupera completamente.
+no sucede de nuevo hasta que su salud se recupera completamente.
 
 %%%%
 Aqua status
@@ -1351,14 +1351,14 @@ Tienes una manguera de tendriles venenosos para el cabello.
 %%%%
 -Lithotox status
 
-Su litotoxina ha activado recientemente y Will no lo hace de nuevo hasta que tú completamente
+Su litotoxina ha activado recientemente y no lo hace de nuevo hasta que tú completamente
 sanar.
 
 %%%%
 Doom status
 
 Un destino malévolo se está reuniendo a tu alrededor. Si su Doom alcanza el 100%, tú Will
-ser afligido por un bane al azar y su Doom Will reset a 0. Las banes tienen diversas
+ser afligido por un bane al azar y su Doom reset a 0. Las banes tienen diversas
 efectos negativos que pueden poner en peligro significativamente su carácter para una ampliación
 período de tiempo.
 
@@ -1369,14 +1369,14 @@ dura mucho más.
 Ostracised status
 
 Tu conexión con lo divino ha sido cortada parcialmente, reduciendo temporalmente
-tu piedad efectiva. Obtención de experiencia Will eventualmente recuperar toda piedad que
+tu piedad efectiva. Obtención de experiencia eventualmente recuperar toda piedad que
 ha sido encerrado por aquí.
 
 %%%%
 Tesseract status
 
 Un Tesseract sin límites está dibujando en fuerzas de una realidad paralela. Nuevos monstruos
-Will aparecen constantemente en lugares aleatorios a través del suelo hasta cualquiera de los
+aparecen constantemente en lugares aleatorios a través del suelo hasta cualquiera de los
 Tesseracts es destruido. Si esto se permite continuar durante mucho tiempo,
 Esos monstruos pueden aparecer a veces cerca de su ubicación.
 
@@ -1389,7 +1389,7 @@ varias vueltas pasan mientras su MP está lleno y no hay enemigos a la vista.
 %%%%
 -Mesm status
 
-Su orbe de mesmerismo ha gastado recientemente su energía. It Will recharge after
+Su orbe de mesmerismo ha gastado recientemente su energía. It recharge after
 una corta duración del tiempo (pero no puede recargar en turnos donde se mueve).
 
 %%%%
@@ -1406,21 +1406,21 @@ El poder de todos tus hechizos se reduce a la mitad.
 %%%%
 Sunder status
 
-Su próximo ataque Will tiene mayor precisión, inflige tres veces su normal
+Su próximo ataque tiene mayor precisión, inflige tres veces su normal
 daño, y arrastre a un rango mayor. Este bono se pierde si tú realiza cualquier
 acción además de atacar.
 
 %%%%
 Devious status
 
-Su evasión y asesinato aumentan. Esto acumula hasta 3 veces y Will nunca
+Su evasión y asesinato aumentan. Esto acumula hasta 3 veces y nunca
 expirar mientras sigas realizando ataques de melee.
 
 %%%%
 Slimifying status
 
 Su cuerpo se está convirtiendo lentamente en limosna. Incluso si una transformación completa
-se produce, tienes suficiente fuerza de Will para eventualmente volver atrás.
+se produce, tienes suficiente fuerza de para eventualmente volver atrás.
 
 %%%%
 Jelly status
@@ -1436,7 +1436,7 @@ en vez de Combate sin armas habilidad.
 OozeRegen status
 
 Tú está cubierto de olor regenerativo de su reciente viaje por las escaleras. Para
-un breve tiempo, tus heridas Will sanan rápidamente y tus reservas de magia Will
+un breve tiempo, tus heridas sanan rápidamente y tus reservas de magia Will
 Recuéstate rápido.
 
 %%%%
@@ -1469,8 +1469,8 @@ Tu brazo es una masa de hongos multicolores.
 %%%%
 Stampede status
 
-Estás sellando adelante. Cualquier movimiento que tome en un enemigo Will piso
-ellos hacia atrás, pero su estampida Will termina tan pronto como tú realiza cualquier acción
+Estás sellando adelante. Cualquier movimiento que tome en un enemigo piso
+ellos hacia atrás, pero su estampida termina tan pronto como tú realiza cualquier acción
  LUA0
 
 %%%%
@@ -1481,7 +1481,7 @@ Tú está regenerando rápidamente daño sostenido mientras estampado.
 %%%%
 Salvo status
 
-Tus siguientes ataques variados Will hacen que dispares un rayo adicional
+Tus siguientes ataques variados hacen que dispares un rayo adicional
 disparos a otros objetivos a la vista.
 
 %%%%

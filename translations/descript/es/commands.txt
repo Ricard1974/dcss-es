@@ -162,7 +162,7 @@ CMD_EXPLORE_NO_REST
 
 Explora automáticamente el nivel actual, coleccionando artículos en el camino.
 La exploración se detiene tan pronto como un monstruo hostil llega a la vista, o cuando tú
-encontrar nuevos elementos o características. A diferencia de CMD EXPLORE, Will tratar
+encontrar nuevos elementos o características. A diferencia de CMD EXPLORE, tratar
 explore auto rest como si fuera falso y explore auto rest status como si fuera
 vacío.
 

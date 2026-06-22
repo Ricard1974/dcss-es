@@ -158,7 +158,7 @@ mutación proporciona Stealth+.
 %%%%
 passive freeze mutation
 
-Foes que te golpean en la melee Will se congelan, tomando daño. Este efecto es
+Foes que te golpean en la melee se congelan, tomando daño. Este efecto es
 garantizado para disparar si su enemigo hace algún daño.
 
 %%%%
@@ -167,7 +167,7 @@ time-warped blood mutation
 Su sangre se ha desincronizado del flujo del tiempo. Cada vez que caes
 por debajo del 66% de su máximo HP, el derramamiento de su sangre surge extrañamente
 a través de su entorno, contando a dos de sus aliados más fuertes a la vista
-cada nivel de esta mutación. Después de hacerlo, su sangre Will no puede
+cada nivel de esta mutación. Después de hacerlo, su sangre no puede
 más tiempo de dilatación hasta que su HP se ha recuperado completamente.
 
 %%%%
@@ -310,7 +310,7 @@ agua, pero te hace mover mucho más lentamente que la mayoría de las especies.
 
 El segundo nivel de esta mutación le permite constreñir enemigos con la cola
 cuando atacan en melee. Tu cola puede limitar sólo a un enemigo a la vez, y
-cada ataque a este nivel de mutación Will comienza o renueva un intento de constricción.
+cada ataque a este nivel de mutación comienza o renueva un intento de constricción.
 Las posibilidades de éxito están determinadas principalmente por Dexterity, Fighting habilidad,
 y cualquier bonificación de matar.
 
@@ -351,7 +351,7 @@ Eres inmune al daño causado por el aliento de vapor y las nubes de vapor.
 %%%%
 mutation resistance mutation
 
-Su código genético es inusualmente estable, haciendo menos probable que tú Will sea
+Su código genético es inusualmente estable, haciendo menos probable que tú sea
 mutado (o se han eliminado las mutaciones existentes). Cada nivel de esta mutación hace
 más resistente.
 
@@ -421,13 +421,13 @@ Tú es vulnerable a la electricidad y toma más daño de ella.
 %%%%
 strong-willed mutation
 
-Tú tiene un Will antinaturalmente fuerte, mejorando su resistencia a ciertos tipos
+Tú tiene un antinaturalmente fuerte, mejorando su resistencia a ciertos tipos
 de magia hostil. Cada nivel de esta mutación aumenta aún más su fuerza de voluntad.
 
 %%%%
 weak-willed mutation
 
-Tú tiene un Will antinaturalmente débil, reduciendo su resistencia a ciertos tipos
+Tú tiene un antinaturalmente débil, reduciendo su resistencia a ciertos tipos
 de magia hostil. Cada nivel de esta mutación reduce aún más su fuerza de voluntad.
 
 %%%%
@@ -497,13 +497,13 @@ Tu salud es pobre. Cada nivel de esta mutación empeora aún más su salud
 %%%%
 evolution mutation
 
-Al ganar experiencia, el potencial oculto de su cuerpo Will se expresa en el
+Al ganar experiencia, el potencial oculto de su cuerpo se expresa en el
 forma de nuevas mutaciones beneficiosas.
 
 %%%%
 devolution mutation
 
-Al ganar experiencia, el potencial oculto de su cuerpo Will se expresa en el
+Al ganar experiencia, el potencial oculto de su cuerpo se expresa en el
 forma de nuevas mutaciones perjudiciales.
 
 %%%%
@@ -573,7 +573,7 @@ Tú absorbe el doble de energía mutagénica de estar contaminada.
 initially attractive mutation
 
 La primera vez ves un monstruo, puede ser mágicamente tirado hacia ti. Esto
-tiene la oportunidad de despertar monstruos dormidos, aunque Will no necesariamente ser
+tiene la oportunidad de despertar monstruos dormidos, aunque no necesariamente ser
 alertado a su posición.
 
 El segundo nivel de esta mutación aumenta la probabilidad de que esto suceda.
@@ -609,7 +609,7 @@ a su nueva ubicación. Si tú translocó una corta distancia, este Will
 siempre sea un monstruo a la vista de su ubicación anterior, pero larga distancia
 Los telepuertos pueden sacar a un monstruo de cualquier otro lugar del piso.
 
-La experiencia es ligeramente desorientante para el monstruo, y Will no ser capaz
+La experiencia es ligeramente desorientante para el monstruo, y no ser capaz
 para actuar inmediatamente después de ser tirado de esta manera.
 
 %%%%
@@ -621,7 +621,7 @@ menos exacto. Este efecto empeora con cada nivel de esta mutación.
 %%%%
 demonic guardian mutation
 
-Cuando el estás dañó, existe la posibilidad de que un guardián demoníaco Will se apresure a ayudar
+Cuando el estás dañó, existe la posibilidad de que un guardián demoníaco se apresure a ayudar
 Tú. Cuanto mayor sea el daño hecho y más cerca estás a la muerte, mayor
 las probabilidades. Cada nivel de esta mutación aumenta la fuerza de sus tutores.
 
@@ -719,7 +719,7 @@ hechizos de malcast.
 %%%%
 ignite blood mutation
 
-Siempre ves sangre derramada (ustedes u otros), puede encenderse, irrumpiendo en
+Siempre ves sangre derramada (tú u otros), puede encenderse, irrumpiendo en
 una nube de llama. Cada nivel de esta mutación lo hace más probable. Esto
 mutación también le otorga inmunidad a las nubes de la llama.
 # XXX: también mencionar que esto hace que la gente sea más propensa a sangrar?
@@ -753,7 +753,7 @@ Tú lanza hechizos Hex con mayor poder.
 %%%%
 demonic willpower mutation
 
-Tu fuerza de voluntad tiene un Will propio, a veces hiriendo a los que intentan
+Tu fuerza de voluntad tiene un propio, a veces hiriendo a los que intentan
 Te hex. Esta mutación también refuerza su fuerza de voluntad.
 
 %%%%
@@ -842,12 +842,12 @@ El segundo nivel de esta mutación le permite saltar más lejos.
 %%%%
 forlorn mutation
 
-No puedes, Will no, y Will nunca adorar a ningún dios.
+No puedes, no, y nunca adorar a ningún dios.
 
 %%%%
 nightstalker mutation
 
-Tú está afinado a las sombras, reduciendo la distancia que §GT§ ver o ser
+Tú está afinado a las sombras, reduciendo la distancia que GT ver o ser
 visto de.
 
 %%%%
@@ -894,7 +894,7 @@ no más de una vez por acción de jugador.
 multi-lived mutation
 
 Cada tercer nivel de experiencia, ganas una vida extra. Si estás es asesinado mientras
-todavía tiene una vida restante, tú Will reaparecer en otro lugar sobre la corriente
+todavía tiene una vida restante, tú reaparecer en otro lugar sobre la corriente
 piso. Tú puede seguir ganando vidas adicionales incluso una vez que alcanza el máximo
 nivel de experiencia, pero puedes no tiene más de dos vidas adicionales a la vez.
 
@@ -929,7 +929,7 @@ Melee. Cada tentáculo puede usar un anillo, pero necesitas cuatro de ellos para
 y dos o cuatro tentáculos para sostener un arma dependiendo de su tamaño, y
 dos tentáculos para mantener un escudo.
 
-Tus tentáculos Will tratan de constreñir enemigos que atacas en la melea. (No puedes
+Tus tentáculos tratan de constreñir enemigos que atacas en la melea. (No puedes
 monstruos más grandes que tú.) Independently, tienes a two-thirds chance
 de lanzar un ataque 'squeeze' dañino cuando atacas en la melee.
 
@@ -937,7 +937,7 @@ de lanzar un ataque 'squeeze' dañino cuando atacas en la melee.
 mertail mutation
 
 Su matriz morfógena es inestable, permitiendo que su cuerpo inferior se cambie a
-una poderosa cola acuática cuando en superficial o agua profunda. Will rápidamente
+una poderosa cola acuática cuando en superficial o agua profunda. rápidamente
 reformar las piernas una vez que salgas del agua. Cuando está en merforme, su cola permite
 a los enemigos de cola cuando lanzan ataques de melee.
 
@@ -953,7 +953,7 @@ no regeneration mutation
 
 Tú no regenera la salud mientras descansa, y no puede recibir el
 efectos de la magia que acelera la velocidad de la regeneración. Fuentes de ganancia HP
-como pociones e invocaciones religiosas Will todavía te curan, y ciertas
+como pociones e invocaciones religiosas todavía te curan, y ciertas
 Las invocaciones divinas pueden conceder temporalmente la capacidad de regenerarse.
 Para compensar, estás capaz de curarse a sí mismo a través de la
 <input>$cmd[CMD_USE_ABILITY]</input> clave, a costa del MP permanente.
@@ -962,7 +962,7 @@ Para compensar, estás capaz de curarse a sí mismo a través de la
 treasure sense mutation
 
 Tú tiene un cuchillo increible para saber dónde se pueden encontrar los elementos. Mientras exploras
-la Mazmorra, localizaciones cercanas que no puedes ver directamente Will ganar un
+la Mazmorra, localizaciones cercanas que no puedes ver directamente ganar un
 marcador para artículos no descubiertos.
 
 %%%%
@@ -990,7 +990,7 @@ más precisión.
 slime shroud mutation
 
 Cuando se golpea en la melee, el baboso que cubre su cuerpo puede desviar el
-ataque. Tal deflexión Will romper el shroud, sin embargo, y Will tomar tiempo
+ataque. Tal deflexión romper el shroud, sin embargo, y tomar tiempo
 para que se reconstituya.
 
 %%%%
@@ -1014,12 +1014,12 @@ el cuerpo puede comerlo, sanándote un poco.
 ooze flood mutation
 
 Tus ataques pueden inundar las vías respiratorias de tus enemigos con ooze. Aquellos que necesitan
-para respirar aire Will ser silenciado y tomar daño de asfixia con el tiempo.
+para respirar aire ser silenciado y tomar daño de asfixia con el tiempo.
 
 %%%%
 otherworldly mutation
 
-Ustedes son extranjeros a este mundo, fácilmente percibidos por fuerzas oscuras. Sólo tienes
+Tú son extranjeros a este mundo, fácilmente percibidos por fuerzas oscuras. Sólo tienes
 una décima parte del tiempo normal en cada planta de mazmorras antes de Zot te encuentra y
 reduce permanentemente su salud.
 
@@ -1035,7 +1035,7 @@ y los buenos adoradores de Dios toman más.
 explore regen mutation
 
 Estás vigorizado por el descubrimiento de lo desconocido. Mientras exploras la Mazmorra,
-tus heridas Will sanar y tu magia Will reponer.
+tus heridas sanar y tu magia reponer.
 
 %%%%
 faith mutation
@@ -1148,7 +1148,7 @@ infortunio.
 
 Cada vez que tú o sus aliados infligen nuevos efectos negativos sobre el estado cercano
 enemigos (excepto el veneno), su AC aumenta temporalmente. Este bono mejora
-con el número de diferentes enemigos afectados, pero Will decaimiento con el tiempo si tú
+con el número de diferentes enemigos afectados, pero decaimiento con el tiempo si tú
 no siga infligiendo nuevas desgracias.
 
 En su actual XL, puedes ganar un bono máximo de
@@ -1188,7 +1188,7 @@ stampede mutation
 Tú rampa rápidamente hacia los enemigos y puede continuar pisoteando hacia adelante una vez
 los alcanzas, empujando líneas enteras de enemigos hacia atrás mientras atacas.
 
-Realizar cualquier acción además de un movimiento de rampa Will terminar su estampida.
+Realizar cualquier acción además de un movimiento de rampa terminar su estampida.
 
 El segundo nivel de esta mutación aumenta su estampida con la bendición de
 uno de los cuatro vientos, basado en su habilidad más alta:
@@ -1215,11 +1215,11 @@ se hace habilitado para disparar a múltiples enemigos a la vez.
 East Wind's embodiment mutation
 
 Cuando tú Rampage, tú recupera un pequeño porcentaje de su maxmimum MP y
-desatar un viento amargo que hace a todos los enemigos dentro de 2 espacios de ustedes Expuestos,
+desatar un viento amargo que hace a todos los enemigos dentro de 2 espacios de tú Expuestos,
 aumentar el daño que reciben de fuentes no atacantes en un 35% y también sus
 oportunidad de ser golpeado o afectado por ellos.
 
-Además, los hechizos de casting Will no hacen que detengas el Stampeding.
+Además, los hechizos de casting no hacen que detengas el Stampeding.
 
 %%%%
 South Wind's embodiment mutation
@@ -1240,7 +1240,7 @@ bloodcurse mutation
 Cuando matas a un monstruo vivo con un ataque de apuñalas, pueden levantarse de nuevo para servir
 como un timón caprichoso. Los Thralls poseen todas las habilidades que tenían en la vida,
 pero no están muertos, y ganar un ataque de mordedura vampírico, así como un aumento de la melee
-daño contra los enemigos dormidos. Spellcaster thralls Will también ganar conocimiento de
+daño contra los enemigos dormidos. Spellcaster thralls también ganar conocimiento de
 el hechizo Vampiric Draining.
 
 Sólo puedes crear un thrall si no tienes uno ya, y ellos Will
@@ -1269,7 +1269,7 @@ Las paredes se derriten rápidamente si dejas de atacar.
 %%%%
 hive swarm mutation
 
-Siempre que una lesión reduce su salud a menos del 50%, abejas enojadas Will enano
+Siempre que una lesión reduce su salud a menos del 50%, abejas enojadas enano
 fuera de tu cuerpo para defenderte.
 
 Este efecto no puede suceder de nuevo hasta que su salud esté completamente recuperada.
@@ -1328,7 +1328,7 @@ werefury mutation
 Cuando matas a un enemigo con un simple ataque, ganas un asesinato temporal
 bono que aumenta con tu habilidad de Shapeshifting.
 
-Esta bonificación apila hasta +12 y Will no caduca mientras continúes
+Esta bonificación apila hasta +12 y no caduca mientras continúes
 realizar ataques de melee.
 
 %%%%
@@ -1342,7 +1342,7 @@ con miedo si supera su fuerza de voluntad.
 stinger hair mutation
 
 Tu cabello está hecho de largas medusas-como tendriles. Siempre
-ataque en melee, ellos Will echan fuera e intentan envenenar varios visibles
+ataque en melee, ellos echan fuera e intentan envenenar varios visibles
 enemigos dentro de 2 fichas del jugador al azar.
 
 El número de enemigos que pueden afligir a la vez es mejorado por Shapeshifting
@@ -1352,7 +1352,7 @@ habilidad.
 lithotoxin mutation
 
 Cuando su salud cae al 60% de su HP max o menos, sus tendriles reflexivamente
-intentar Petrify todos los enemigos envenenados dentro de 3 fichas de ustedes.
+intentar Petrify todos los enemigos envenenados dentro de 3 fichas de tu.
 
 Este efecto no puede activarse de nuevo hasta que sane completamente y su oportunidad de éxito
 mejora con tu habilidad de Shapeshifting.
@@ -1361,8 +1361,8 @@ mejora con tu habilidad de Shapeshifting.
 contaminating mutation
 
 Cuando golpeas a un enemigo en melee, una parte de la energía transmutacional
-sobrevivir a través de Will contaminarlos. Sobre el landing la tercera huelga seguida,
-esta contaminación Will crece tan aguda que Will retorce su forma corporal,
+sobrevivir a través de contaminarlos. Sobre el landing la tercera huelga seguida,
+esta contaminación crece tan aguda que retorce su forma corporal,
 infligir daños significativos por AC y malmutarlos.
 
 %%%%
@@ -1411,7 +1411,7 @@ sporulate mutation
 
 Tus ataques de meleo causan que varios cuartos de erupción comiencen a crecer sin preocupaciones
 fichas detrás de tu objetivo. Si se les permite crecer por varios giros, ellos
-Will explotar en una explosión de esporas que daña a enemigos cercanos y puede brevemente
+explotar en una explosión de esporas que daña a enemigos cercanos y puede brevemente
 Dales una paliza.
 
 %%%%
@@ -1419,7 +1419,7 @@ armoured shell mutation
 
 Su armadura corporal se fusiona en su cáscara, multiplicando su base AC por un factor
 que aumenta con tu habilidad de Shapeshifting. La eficacia de su ego y
-la mayoría de las propiedades del artefacto Will también se doblan, aunque ciertos artefactos raros pueden
+la mayoría de las propiedades del artefacto también se doblan, aunque ciertos artefactos raros pueden
 ser demasiado inusual para mejorar de esta manera.
 
 %%%%
@@ -1427,7 +1427,7 @@ hypnotic gaze mutation
 
 Tu mirada tiene un efecto hipnótico en muchas criaturas. Cada vez que un vivo, demoníaco,
 o el monstruo santo primero te nota, puede ser momentáneamente aturdido, evitando
-de gritar. Criaturas que fallan en un cheque de Willpower Will se despierten incluso
+de gritar. Criaturas que fallan en un cheque de Willpower se despierten incluso
 más tiempo.
 
 %%%%
@@ -1480,7 +1480,7 @@ Mark of the Legion mutation
 
 Su habilidad de sirviente infernal es reemplazada por Legión Infernal, lo que le permite
 llama a un pequeño ejército de demonios con el tiempo. Mientras que individualmente de corta duración, sus
-los números son inagotables por el tiempo que dura el estado, y ellos Will nunca
+los números son inagotables por el tiempo que dura el estado, y ellos nunca
 ser hostil a ti.
 
 También puede desencadenar la destrucción de Makhleb a través de sus aliados convocados sin
@@ -1521,7 +1521,7 @@ Mark of Execution mutation
 
 Una encarnación demoníaca del asesinato se encuentra en tu alma. Siempre que matas
 un enemigo en melee, hay una pequeña oportunidad para que se despierte y se manifieste como
-maelstrom de cuchillas parecidas a las de hielo envolviéndote. Estas cuchillas Will ataque
+maelstrom de cuchillas parecidas a las de hielo envolviéndote. Estas cuchillas ataque
 cada vez que lo hace y también tomar represalias cada vez que tú con éxito
 ataque.
 
@@ -1534,7 +1534,7 @@ Mark of Atrocity mutation
 
 Su destrucción Unleash está habilitada más veces que lo usas consecutivamente
 sin pausa, aumentando tanto en el daño como en el costo de la salud. Al usarlo un cuarto
-tiempo seguido, tú Will desata automáticamente un bombardeo salvaje de pernos adicionales
+tiempo seguido, tú desata automáticamente un bombardeo salvaje de pernos adicionales
 apuntado a objetivos aleatorios y restablecer este impulso.
 
 %%%%
@@ -1549,14 +1549,14 @@ después y hecho para luchar por su libertad.
 renounce potions mutation
 
 Se niega a beber pociones en combate a menos que se lesione gravemente. Mientras que los enemigos están
-su línea de visión (y por varios giros después), tú Will no puede
+su línea de visión (y por varios giros después), tú no puede
 beber cualquier cosa a menos que su HP sea inferior al 50% de su máximo.
 
 %%%%
 renounce scrolls mutation
 
 Se niega a leer pergaminos en combate a menos que se lesione gravemente. Mientras que los enemigos están
-su línea de visión (y por varios giros después), tú Will no puede
+su línea de visión (y por varios giros después), tú no puede
 leer cualquier cosa a menos que su HP sea inferior al 50% de su máximo.
 
 %%%%
@@ -1570,7 +1570,7 @@ un anillo mágico a la vez.
 no stealth mutation
 
 No tienes Stealth. Siempre alertas a los monstruos cuando te ven, y
-ellos Will te rastrean muy eficazmente.
+ellos te rastrean muy eficazmente.
 
 %%%%
 no forms mutation
@@ -1589,7 +1589,7 @@ Melee.
 %%%%
 hated by all mutation
 
-Ustedes son odiados por todos y no pueden adquirir aliados, temporalmente o permanentemente, por
+Tú son odiados por todos y no pueden adquirir aliados, temporalmente o permanentemente, por
 cualquier medio. Construcciónes simplistas e impensables, como armas espectrales,
 los orbes de destrucción, y los estadios de batalla, no son afectados.
 
@@ -1766,7 +1766,7 @@ multiplicity bane
 
 Enemigos a la vista de tienes una pequeña oportunidad cada vuelta para crear múltiples clones
 de ellos mismos. Estos clones son muy frágiles y reducen los daños con ataques
-y hechizos, pero Will no caducan por su cuenta.
+y hechizos, pero no caducan por su cuenta.
 
 %%%%
 dilettante bane
@@ -1792,18 +1792,18 @@ nubes, si su creador es actualmente no-adyacente).
 %%%%
 hunted bane
 
-Cada vez que un enemigo llama a los monstruos contra ti, ellos Will generalmente aparecen
+Cada vez que un enemigo llama a los monstruos contra ti, ellos generalmente aparecen
 adyacente a tú en lugar de su citador. Su duración también aumenta y
-Will nunca perder el seguimiento de su posición, no importa dónde huya.
+nunca perder el seguimiento de su posición, no importa dónde huya.
 
 %%%%
 mortality bane
 
 Cuando estás mal herido y solo, un segador puede venir a reclamarte. Estos segadores
-Will Sea inmune a todos los daños de fuentes no adyacentes y, si su XL es menor
-que 14, Will adicionalmente ser Slow. A mayor XL, pueden aparecer múltiples cosechadores
+Sea inmune a todos los daños de fuentes no adyacentes y, si su XL es menor
+que 14, adicionalmente ser Slow. A mayor XL, pueden aparecer múltiples cosechadores
 una vez.
 
-Cuando se levanta esta prohibición, todos los segadores convocaron así Will desaparecen inmediatamente.
+Cuando se levanta esta prohibición, todos los segadores convocaron así desaparecen inmediatamente.
 
 %%%%

@@ -31,7 +31,7 @@ Alistair's Intoxication spell
 
 Convierte una pequeña porción del cerebro de los que te rodean en alcohol,
 tratando de confundir a todas las criaturas inteligentes en la vista (aunque
-Las criaturas resistentes al veneno pueden resistir los efectos). El caster Will experiencia
+Las criaturas resistentes al veneno pueden resistir los efectos). El caster experiencia
 vértigo brevemente si logran contactar con otras mentes. Es
 Con frecuencia se utiliza como rompehielos en fiestas magos.
 
@@ -41,7 +41,7 @@ Alistair's Walking Alembic spell
 Construye una manufactura alquímica móvil y capaz de combatir. Utiliza el
 fricción de combate melee para elaborar una variedad de pociones útiles, ventilando nubes de
 sus subproductos tóxicos en lo que golpee. Cuando se ha construido suficiente calor
-para completar su síntesis, Will automáticamente dispensa las pociones terminadas
+para completar su síntesis, automáticamente dispensa las pociones terminadas
 a aliados cercanos antes de desmoronarse.
 
 %%%%
@@ -56,8 +56,8 @@ Animate Dead spell
 
 Por algún tiempo después de lanzar esto, criaturas vivientes asesinadas por la lanzador Will
 como zombies. La posibilidad de reanimar un monstruo y la duración del efecto
-aumentar con poder de hechizo. Re-casting this spell Will return zombies to dust, as
-Will dejando el suelo.
+aumentar con poder de hechizo. Re-casting this spell return zombies to dust, as
+dejando el suelo.
 
 %%%%
 Antimagic Gaze spell
@@ -86,14 +86,14 @@ de la armadura de defensores.
 %%%%
 Avatar Song spell
 
-Canta una canción poderosamente inquietante. Los aventureros que no resisten Will se vuelven
-incapaz de alejarse del cantante (y Will a veces se acercan más
-involuntariamente), mientras que otras criaturas Will se vuelven descaradas.
+Canta una canción poderosamente inquietante. Los aventureros que no resisten se vuelven
+incapaz de alejarse del cantante (y a veces se acercan más
+involuntariamente), mientras que otras criaturas se vuelven descaradas.
 
 Además, puede provocar almas ahogadas de cualquier cuerpo cercano de profundo
 agua.
 
-Dejar la línea de visión de la lanzador Will terminar el efecto de control del movimiento.
+Dejar la línea de visión de la lanzador terminar el efecto de control del movimiento.
 
 %%%%
 Awaken Armour spell
@@ -116,13 +116,13 @@ a cualquier enemigo lo suficientemente desafortunado como para estar a su lado.
 Awaken Forest spell
 
 Da un poco de motilidad limitada a los árboles cercanos, permitiéndoles balancear su
-ramas y cambiar sus raíces. Tales árboles encantados Will lash at any adjacent
+ramas y cambiar sus raíces. Tales árboles encantados lash at any adjacent
 enemigo.
 
 %%%%
 Awaken Vines spell
 
-Causa que las vides crezcan desde la tierra. Las vides Will alcanzan y agarran
+Causa que las vides crezcan desde la tierra. Las vides alcanzan y agarran
 interlopers, arrastrándolos hacia cualquier árbol cercano.
 
 %%%%
@@ -254,7 +254,7 @@ Dispara un perno penetrante de llamas.
 %%%%
 Bolt of Flesh spell
 
-Incendia una barraca penetrante de carne conjurada, que Will brevemente permanecen como un
+Incendia una barraca penetrante de carne conjurada, que brevemente permanecen como un
 apilar en el suelo al final de su camino.
 
 %%%%
@@ -282,13 +282,13 @@ Sana instantáneamente todas las heridas sufridas por la lanzador, pero también
 daña su salud, en un grado dependiente del poder (y inversamente relacionado con).
 
 Es lo suficientemente poderoso para cancelar los efectos de la Puerta de la Muerte, aunque hacerlo
-Will brevemente paralizar la lanzador. No tiene efecto en los muertos vivientes.
+brevemente paralizar la lanzador. No tiene efecto en los muertos vivientes.
 
 %%%%
 Borgnjor's Vile Clutch spell
 
 Llama las manos de los cadáveres que intervinieron bajo el suelo del the Dungeonhace mucho tiempo.
-Enemigos atrapados en la zona Will ser mantenidos y restringidos hasta que ellos
+Enemigos atrapados en la zona ser mantenidos y restringidos hasta que ellos
 libre.
 
 %%%%
@@ -296,7 +296,7 @@ Brain Bite spell
 
 Dibuja una pequeña cantidad de la mente de un enemigo visible y una proporción de su magia,
 sin línea directa de fuego requerida. Si el enemigo tiene magia casi vacía
-reservas, ellos Will toman doble daño.
+reservas, ellos toman doble daño.
 
 %%%%
 Brom's Barrelling Boulder spell
@@ -307,8 +307,8 @@ empujar a otros indefensos hacia atrás (junto con alguien más desafortunado
 lo suficiente para estar detrás de ellos).
 
 Su tamaño y locomoción imprudente dificultan el uso en áreas confinadas; si
-lanzado hacia abajo pasajes estrechos, Will rápidamente abrade contra las paredes y caída
-aparte. Will también se desmorona si deja la vista del caster o golpea una pared
+lanzado hacia abajo pasajes estrechos, rápidamente abrade contra las paredes y caída
+aparte. también se desmorona si deja la vista del caster o golpea una pared
 o de otra manera criatura inmóvil.
 
 %%%%
@@ -330,7 +330,7 @@ Invoca un inugami a la ayuda de la lanzador. Estos caninos místicos forman un v
 su convocador, reforzándolos en proporción directa con el caster
 fuerza de hechizos.
 
-Rechazar este hechizo mientras que su familiar está cerca Will lo imbue con adicional
+Rechazar este hechizo mientras que su familiar está cerca lo imbue con adicional
 magia, reparando algunas de sus heridas, limpiando de veneno, y causando su siguiente
 ataque para golpear más rápido y libere enemigos adyacentes.
 
@@ -376,8 +376,8 @@ atornillado, polimorfo o lleno de llama interior.
 Call Tide spell
 
 Permite que la lanzador afecte la fase de marea de todo el agua dentro de un gran
-distancia. Poco después de llamarlo, las aguas de todo el nivel Will alcanzan alto
-marea. Aguas cerca de la lanzador Will alcanzan niveles aún más altos que ellos
+distancia. Poco después de llamarlo, las aguas de todo el nivel alcanzan alto
+marea. Aguas cerca de la lanzador alcanzan niveles aún más altos que ellos
 normalmente.
 
 %%%%
@@ -391,7 +391,7 @@ Cause Fear spell
 
 Causa el miedo en los que están cerca de la lanzador, causando que los afectados no puedan
 acercarse a la lanzador, y a veces no atacarlos en melee. Dejando el
-La línea de visión de la casta Will termina el efecto.
+La línea de visión de la casta termina el efecto.
 
 %%%%
 Caustic Breath spell
@@ -429,12 +429,12 @@ Cigotuvi's Putrefaction spell
 Acelera mágicamente la decadencia de tejido vivo dañado, causando grandes nubes
 de miasma para secarse de las heridas de una víctima en varias vueltas
 que puede Slow y envenenar fuertemente a cualquier criatura viviente que esté en ellos. Aire
-corrientes Will evitar que esta pestilencia forme dondequiera que esté el caster
+corrientes evitar que esta pestilencia forme dondequiera que esté el caster
 de pie, pero no están protegidos de sus efectos.
 
 Este hechizo sólo puede ser lanzado en una criatura viviente que es al menos fuertemente
-heridos, y canalizando tales energías necróticas Will dejar el caster propio
-salud temporalmente drenada (aunque fuerza de hechizo Will reduce la intensidad de este
+heridos, y canalizando tales energías necróticas dejar el caster propio
+salud temporalmente drenada (aunque fuerza de hechizo reduce la intensidad de este
 efecto secundario).
 
 %%%%
@@ -501,7 +501,7 @@ Construct Spike Launcher spell
 
 Construye una simple trampa mecánica dentro de una pared adyacente que repetidamente
 skewers enemigos adyacentes al azar. Protegido por la pared misma, es
-invulnerable a la mayoría de las formas de daño, pero Will se desmoronan si la casta deja
+invulnerable a la mayoría de las formas de daño, pero se desmoronan si la casta deja
 sus alrededores.
 
 %%%%
@@ -528,14 +528,14 @@ Corrupting Pulse spell
 
 Inculca una corrupción dentro de todos los objetivos visibles, mutando temporalmente su
 cuerpos de una manera adversa. No puede afectar a los seres artificiales, y
-undead Will descomposición si afectado.
+undead descomposición si afectado.
 
 %%%%
 Creeping Frost spell
 
 Se llama frío frío de las paredes. Cualquier enemigo de la lanzador de pie
-junto a las paredes Will ser congelado y Will encontrar sus movimientos lento. Cold
-resistencia Will reducir el daño, pero no prevenir el efecto de congelación.
+junto a las paredes ser congelado y encontrar sus movimientos lento. Cold
+resistencia reducir el daño, pero no prevenir el efecto de congelación.
 
 %%%%
 Creeping Shadow spell
@@ -572,11 +572,11 @@ Death's Door spell
 
 Renders the caster nigh invulnerable to harm for a brief period, but bringss
 peligrosamente cerca de la muerte en el proceso. Tan cerca, de hecho, que
-el cuerpo se cree muerto — efectos curativos Will no hacen nada.
+el cuerpo se cree muerto — efectos curativos no hacen nada.
 
-El caster Will recibe un warning poco antes de que expire el hechizo. Después
+El caster recibe un warning poco antes de que expire el hechizo. Después
 expiación, el hechizo no puede retransmitido inmediatamente, pero con alto poder el caster
-Will ser dejado más lejos de la muerte cuando el efecto termina. No tiene efecto en esos
+ser dejado más lejos de la muerte cuando el efecto termina. No tiene efecto en esos
 que ya no están muertos.
 
 %%%%
@@ -624,7 +624,7 @@ Dimensional Bullseye spell
 
 Oculta un vínculo entre el armamento del caster y un blanco elegido. Siempre
 lanza fuegos o lanza algo a un enemigo * diferente*, un proyectil de coincidencia
-Will sea teletransportado al objetivo. Spellpower aumenta su precisión.
+sea teletransportado al objetivo. Spellpower aumenta su precisión.
 
 %%%%
 Diminish Spells spell
@@ -660,18 +660,18 @@ juntos.
 Dispersal spell
 
 Teleporta a cualquier criatura a poca distancia de la casta. Cualquier
-criatura con el Will para resistir Will todavía ser irresistiblemente parpadeado un más corto
+criatura con el para resistir todavía ser irresistiblemente parpadeado un más corto
 distancia, y cualquier monstruo que afecta en absoluto tiene una oportunidad separada Will
 de estar confundida por la vigilancia del espacio.
 
 %%%%
 Divine Armament spell
 
-Manifiesta la fe de la castora como arma espiritual, que Will lucha y asesinato
+Manifiesta la fe de la castora como arma espiritual, que lucha y asesinato
 los enemigos del caster bajo su propio poder.
 
 Como es un reflejo directo del celo único de la lanzador, el arma que ellos
-recibir de su dios Will ser el mismo cada vez.
+recibir de su dios ser el mismo cada vez.
 
 %%%%
 Dominate Undead spell
@@ -680,7 +680,7 @@ Intentos de cambiar por la fuerza la lealtad de todos los no muertos cercanos qu
 ya leal a la lanzador.
 
 Los aventureros, siendo famosos, no pueden ser totalmente controlados por esto
-hechizo. Ellos Will en lugar de echar fuera aleatoriamente por la duración de su efecto,
+hechizo. Ellos en lugar de echar fuera aleatoriamente por la duración de su efecto,
 atacar a un amigo cercano y enemigo igual antes de recuperar sus ingenios.
 
 Este hechizo se puede romper prematuramente por la muerte de su casta.
@@ -691,11 +691,11 @@ Doomsaying spell
 Foretells a terrible futuro, infligiendo Doom igual a la mitad de lo que tomaría
 para que llegues al 100%. En la muerte de la lanzador, un sliver de este destino viene Will
 para pasar en forma de emboscada; varios enemigos bien escondidos del suelo
-Will buscar su posición infaliblemente y todas las escaleras Will temporalmente
+buscar su posición infaliblemente y todas las escaleras temporalmente
 sellado.
 
 Sólo se puede lanzar una sola vez, pero incluso matar al mensajero en su Sleep
-Will no evitar lo que el destino tiene guardado para tú.
+no evitar lo que el destino tiene guardado para tú.
 
 %%%%
 Doom Bolt spell
@@ -706,7 +706,7 @@ Dispara un perno penetrante de malicia accursada que inflige a Doom.
 Oblivion Howl spell
 
 Libera un aullido penetrante que atrapa y hace eco en las mentes de las víctimas. Mientras tanto
-esos ecos engendran, criaturas de pesadilla Will escuchar y rastrearlos a sus
+esos ecos engendran, criaturas de pesadilla escuchar y rastrearlos a sus
 fuente. Sólo puede ser usado una vez por una criatura dada.
 
 %%%%
@@ -714,7 +714,7 @@ Dragon's Call spell
 
 Se trata de una poderosa llamada a un reino dracónico, acercándose al dragón después del dragón
 para involucrar a los enemigos del citador. El hechizo está imponiendo para mantener, y cada nuevo
-dragón que responde a la llamada Will más Drain el mágico
+dragón que responde a la llamada más Drain el mágico
 reservas. Después de que la llamada termine, no se puede emitir de nuevo por un corto tiempo. El
 la duración de la llamada y las especies de dragones llamadas dependen de poder de hechizo.
 
@@ -740,7 +740,7 @@ su salud máxima. Este hechizo requiere línea de visión pero no línea de fueg
 Dream Dust spell
 
 Overwhelms el objetivo con polvo de sueño soporoso, poniéndolos a Sleep con un
-Pantalla visual encantadora. Otros sueños ovejas Will aumentar la fuerza
+Pantalla visual encantadora. Otros sueños ovejas aumentar la fuerza
 y duración de este efecto.
 
 %%%%
@@ -757,7 +757,7 @@ Tira un perno penetrante de electricidad al objetivo, con alta precisión.
 Enfeeble spell
 
 Abruma a un enemigo con energías malignas, debilitando irresistiblemente su melee
-ataca y reduce el poder de sus hechizos. It Will additionally daze and
+ataca y reduce el poder de sus hechizos. It additionally daze and
 ciego cualquier enemigo que no resista la fuerza total de la maldición - incluso los
 sin sentidos visuales!
 
@@ -770,7 +770,7 @@ Dispara una corriente de frotar a una criatura, enredando el objetivo en una red
 Ensorcelled Hibernation spell
 
 Baja la tasa metabólica de su objetivo, induciendo la hibernación. Después de despertar, el
-target Will no puede puesto a Sleep de nuevo por algún tiempo.
+target no puede puesto a Sleep de nuevo por algún tiempo.
 
 %%%%
 Entropic Weave spell
@@ -785,7 +785,7 @@ en un bog tóxico. El lodo daña y envenena a todos los monstruos, incluso a los
 resistente al veneno. El bog no puede formar en áreas adyacentes a múltiples sólidos
 características, ni en áreas que carecen de suelo sólido, como agua profunda o lava. El
 la transformación es temporal y no puede sostenida fuera de la vista de la lanzador.
-Spellpower Will aumentar cuánto tiempo el bog llantas.
+Spellpower aumentar cuánto tiempo el bog llantas.
 
 %%%%
 Eringya's Surprising Crocodile spell
@@ -805,8 +805,8 @@ Se divide la tierra para elaborar una Volcano localizada y de corta duración ba
 Fastroot spell
 
 Dispara una semilla mágica, enredando víctimas en raíces de árboles de rápido crecimiento. Aquellos
-enredados Will ser dolorosamente restringido hasta que escapen o las raíces se marchen
-lejos. Las raíces Will sólo brotan de terreno sólido.
+enredados ser dolorosamente restringido hasta que escapen o las raíces se marchen
+lejos. Las raíces sólo brotan de terreno sólido.
 
 %%%%
 Flay spell
@@ -837,7 +837,7 @@ Flame Wave spell
 
 Deslumbra el entorno de la lanzador con una ola de fuego. Si el caster mantiene
 enfocar y suministrar el hechizo con poder mágico (esperando en el lugar y no
-tomar cualquier otra acción), más y más grandes ondas de llama Will irradian hacia fuera.
+tomar cualquier otra acción), más y más grandes ondas de llama irradian hacia fuera.
 
 %%%%
 Flaming Cloud spell
@@ -867,7 +867,7 @@ Force Lance spell
 
 Dispara un eje de fuerza concusiva. Si el impacto daña, puede golpear el
 Atrás. Si este golpe hace que el objetivo golpee una pared u otra
-criatura, ambos Will toman daño adicional.
+criatura, ambos toman daño adicional.
 
 %%%%
 Forceful Invitation spell
@@ -885,7 +885,7 @@ el golem en sí es a menudo dañado por su impacto.
 
 Sólo tenuemente independiente de la magia de su creador, las llamas dentro de ella Will
 Si los dos se dejan de lado. Si su caparazón es
-destruido mientras el golem sigue activo, su núcleo expuesto Will violentamente
+destruido mientras el golem sigue activo, su núcleo expuesto violentamente
 detonar un momento después.
 
 Gana mayor daño explosivo a mayor potencia.
@@ -902,7 +902,7 @@ Forge Monarch Bomb spell
 
 Construye una fábrica incendiaria voladora, empacada al borde con racimo
 bombas que puede desplegar tanto en melee como en lanzamiento a distancia. Mientras que
-Las bombas de monarca no tienen ningún ataque propio, ellos Will persiguen la lanzador
+Las bombas de monarca no tienen ningún ataque propio, ellos persiguen la lanzador
 enemigos hasta que se dé la señal para explotar.
 
 Reproducir este hechizo mientras que todo lo que ha creado sigue activo Will
@@ -915,8 +915,8 @@ Forge Phalanx Beetle spell
 Construye un pequeño guardián mecánico que refuerza la armadura de su creador
 clase por el tiempo que permanezca adyacente a ellos.
 
-Aunque también es capaz de morder enemigos, el escarabajo phalanx Will nunca voluntariamente
-dejar el lado de su creador, y si se separa por la fuerza, Will prioritis
+Aunque también es capaz de morder enemigos, el escarabajo phalanx nunca voluntariamente
+dejar el lado de su creador, y si se separa por la fuerza, prioritis
 a ellos por cualquier otra preocupación.
 
 Spellpower aumenta la magnitud del aumento de AC, así como el escarabajo
@@ -927,7 +927,7 @@ Fortress Blast spell
 
 Dibuja sobre la propia integridad física del caster para crear una onda de choque cinética
 que daña a los enemigos en un área grande. El caster está bloqueado para varios
-se convierte cuando la onda de choque comienza a formar, y el hechizo Will se cancela si
+se convierte cuando la onda de choque comienza a formar, y el hechizo se cancela si
 son desplazados durante ese tiempo, pero pueden realizar otras acciones
 libremente.
 
@@ -938,7 +938,7 @@ completamente en el AC de la lanzador.
 Foxfire spell
 
 Conjura dos bolas de gas pantano quema junto a la lanzador. Las bolas Will
-buscar rápidamente al monstruo más cercano y quemarlos. Ellos Will disipan inofensivamente
+buscar rápidamente al monstruo más cercano y quemarlos. Ellos disipan inofensivamente
 si no es capaz de alcanzar un objetivo o si el caster intercambia lugares con ellos.
 
 %%%%
@@ -962,10 +962,10 @@ vapor en su velada.
 Frozen Ramparts spell
 
 Encases que rodean paredes con hielo durante un corto tiempo. Foes que vagan cerca de
-paredes heladas Will se dañan, y esto puede temporalmente Slow criaturas de sangre fría.
+paredes heladas se dañan, y esto puede temporalmente Slow criaturas de sangre fría.
 Cada víctima sólo se ve afectada por una pared helada a la vez.
 
-El hielo Will crack y caer si la casta se mueve a una nueva posición.
+El hielo crack y caer si la casta se mueve a una nueva posición.
 
 %%%%
 Fugue of the Fallen spell
@@ -973,11 +973,11 @@ Fugue of the Fallen spell
 Llama a los restos persistentes de los muertos largos. Mientras que activo, cada uno
 enemigo no consumado la lanzador o sus aliados matan a atraer más vengativo
 almas en el arma de la lanzador, mejorando temporalmente su melee y variando
-eficacia. Cuando este bono alcanza su máximo, cada golpe Will desencadena un
+eficacia. Cuando este bono alcanza su máximo, cada golpe desencadena un
 brillo del sufrimiento de los muertos, causando daño al dolor uno al otro enemigo adyacente
 a tu objetivo.
 
-Retransmitir este hechizo Will libera tu dominio sobre las almas que has atraído,
+Retransmitir este hechizo libera tu dominio sobre las almas que has atraído,
 reajustando cualquier bonificación que haya acumulado, y la onda cacofónica de los muertos
 puede atraer la atención no deseada incluso mientras la mantiene.
 
@@ -985,8 +985,8 @@ puede atraer la atención no deseada incluso mientras la mantiene.
 Fulminant Prism spell
 
 Conjura un prisma brillante de una aleación de oro blando inestable. Esto es inútil
-licitación legal, sin embargo, como Will por desgracia violentamente explota con arcane
-fuerza después de una corta duración. Si se destruye prematuramente, su explosión Will será mucho
+licitación legal, sin embargo, como por desgracia violentamente explota con arcane
+fuerza después de una corta duración. Si se destruye prematuramente, su explosión será mucho
 Más débil.
 
 %%%%
@@ -994,14 +994,14 @@ Fulsome Fusillade spell
 
 Un magnum opus de la química imprudente, este hechizo provoca un surfeit de
 reactivos volátiles para llover sobre sus enemigos. Para las próximas vueltas, arriba
-a 3 enemigos aleatorios a la vista Will ser golpeado por un beaker explosivo que inflige
+a 3 enemigos aleatorios a la vista ser golpeado por un beaker explosivo que inflige
 o fuego, frío, eléctrico o daño de veneno. Si alguna de estas explosiones
-la reacción resultante Will inflige aún mayor
+la reacción resultante inflige aún mayor
 daño irresistible y a veces aplicar un estado borrador aleatorio sobre quienquiera
 está atrapado en la explosión.
 
 Este hechizo cuesta una pequeña cantidad de energía mágica de la lanzador cada vuelta a
-mantener, y mientras que Will nunca apuntar una explosión donde podría herir
+mantener, y mientras que nunca apuntar una explosión donde podría herir
 casta, los aliados de la casta (y cualquier otra cosa en la vecindad general) no son
 tan afortunado.
 
@@ -1025,7 +1025,7 @@ dirección.
 
 La casta no es inmune a los efectos gravitatorios de este hechizo, pero Will
 ser amortiguado así que no tienen daño de colisión. Otras criaturas no son así
-afortunado, y el impacto abrupto Will batir cualquier cosa que no era ya
+afortunado, y el impacto abrupto batir cualquier cosa que no era ya
 de pie junto a su nuevo "flor".
 
 Se necesita un corto tiempo para que la gravedad se estabilice lo suficiente para replantear este hechizo,
@@ -1072,14 +1072,14 @@ sus efectos.
 Grasping Roots spell
 
 Llama a las raíces gigantesca captación de profundos subterráneos que sostienen y limitan sus
-víctima. Las raíces Will retiro si la víctima se libera o si el callador se mueve
+víctima. Las raíces retiro si la víctima se libera o si el callador se mueve
 fuera de vista.
 
 %%%%
 Grave Claw spell
 
 Llama el a pesar de los muertos recientemente para golpear a un enemigo objetivo con
-fragmentos de hueso. Este hechizo nunca falla, y Will marca su objetivo en lugar para
+fragmentos de hueso. Este hechizo nunca falla, y marca su objetivo en lugar para
 varios giros, pero lanzarlo rápidamente consume los restos de la muerte que moran
 sobre la lanzador.
 
@@ -1114,7 +1114,7 @@ Acelera las acciones de un aliado cercano.
 %%%%
 Harpoon Shot spell
 
-Dispara una larga y flexible masa de púas. La víctima enredada Will sea
+Dispara una larga y flexible masa de púas. La víctima enredada sea
 Sacó adyacente a la lanzador o collide con cualquier cosa que bloquee el camino.
 
 %%%%
@@ -1126,7 +1126,7 @@ Acelera las acciones de la casta.
 Haunt spell
 
 Llama a los espectros y fantasmas para perseguir el objetivo del castor. Sólo atacan
-la criatura que están persiguiendo, y Will disipa rápidamente una vez su objetivo
+la criatura que están persiguiendo, y disipa rápidamente una vez su objetivo
 muere. El número de espectros invocados aumenta con poder de hechizo.
 
 %%%%
@@ -1138,11 +1138,11 @@ Invoca demonios de llama y condenación.
 Hellfire Mortar spell
 
 Se divide el suelo frente a la lanzador y esculpe un arma aterradora
-fuera de roca fundida. Este mortero Will se mueve lentamente a lo largo del chasis lleno de lava,
+fuera de roca fundida. Este mortero se mueve lentamente a lo largo del chasis lleno de lava,
 autónomamente lanzando gotas de magma a los enemigos de la lanzador como lo hace.
 
 Cuando llega al final de su camino, o se obstruye en su movimiento por otro
-criatura, que Will se hunden de nuevo en la lava, y el chasm Will sello en sí mismo cerrado
+criatura, que se hunden de nuevo en la lava, y el chasm sello en sí mismo cerrado
 poco después.
 
 %%%%
@@ -1173,8 +1173,8 @@ Hoarfrost Bullet spell
 Dispara un trozo de hielo que recubre lo que sea que golpee con una capa de helada frágil
 que ralentiza su movimiento.
 
-Cada disparo disparó Will agota la durabilidad restante del cañón, pero si
-sobrevive a disparar 5 veces, el disparo final Will fragmento para golpear a todos los enemigos alrededor
+Cada disparo disparó agota la durabilidad restante del cañón, pero si
+sobrevive a disparar 5 veces, el disparo final fragmento para golpear a todos los enemigos alrededor
 el objetivo principal para daños adicionales.
 
 %%%%
@@ -1206,7 +1206,7 @@ criaturas.
 Hurl Torchlight spell
 
 Hurls a gout of umbral torchlight which deals irresistible damage to living,
-seres demoníacos y santos. El torchlight Will también faculta brevemente a cualquier amigo
+seres demoníacos y santos. El torchlight también faculta brevemente a cualquier amigo
 undead atrapado en su explosión y es inofensivo para aquellos que adoran Yredelemnul.
 
 %%%%
@@ -1226,7 +1226,7 @@ caster no se afecta directamente.
 Ignition spell
 
 Todos los enemigos del entorno de la lanzador están envueltos en bolas de fuego. El caster
-y sus aliados están protegidos del fuego y Will nunca ser dañado por esto
+y sus aliados están protegidos del fuego y nunca ser dañado por esto
 hechizo.
 
 %%%%
@@ -1295,7 +1295,7 @@ peligrosamente contaminada después de unas cuantas castings.
 Iskenderun's Battlesphere spell
 
 Conjura a un pequeño globo de energía destructiva. Cada vez que su creador lanza un
-hechizo ofensivo, la esfera de batallas Will también dispara un voleibol infalible de energía
+hechizo ofensivo, la esfera de batallas también dispara un voleibol infalible de energía
 el enemigo más herido cerca puede llegar.
 
 El creador de la batalla puede disparar libremente a través de su posición sin dañar
@@ -1313,10 +1313,10 @@ Jinxbite spell
 
 Llama la atención de los espíritus tramposos. Mientras que sostiene, los espíritus Will
 seguimiento de los ataques de la lanzador. Si el hechizo supera la voluntad de las víctimas,
-ellos Will sufren daños menores y ser drenado por la malicia juguetona de los sprites.
+ellos sufren daños menores y ser drenado por la malicia juguetona de los sprites.
 
 Sin embargo, la asistencia falsa es insensata; no pueden ser aprehendidas a menos que sea susceptible
-la víctima es visible, y Will partir rápidamente una vez que ya no quedan. Llamando a la
+la víctima es visible, y partir rápidamente una vez que ya no quedan. Llamando a la
 Fae también reduce la fuerza de voluntad de la lanzador por un tiempo.
 
 %%%%
@@ -1324,7 +1324,7 @@ Kinetic Grapnel spell
 
 Ojea un fino filamento cinético alrededor del arma de la fundición y lanza el
 otro extremo en un enemigo cercano. Si este grapnel golpea y hace
-dañino, que Will se aloja en ellos, permitiendo que la próxima melee ataque la caster
+dañino, que se aloja en ellos, permitiendo que la próxima melee ataque la caster
 realiza contra ellos para golpear con la precisión perfecta y un pequeño bono de asesinato.
 
 %%%%
@@ -1368,7 +1368,7 @@ inactivo.
 %%%%
 Launch Sporangium spell
 
-Lanza un esporangio caustico que Will persigue cualquier fuente intrigante
+Lanza un esporangio caustico que persigue cualquier fuente intrigante
 nutrientes - como tú mismo - y engullarlos en una explosión ácido masiva.
 Plasmodia naciente, capaz de disparar ácido propio, puede tener raíces en cualquier
 paredes esta explosión toca - aunque ninguna dentro de 2 fichas de cualquier otro.
@@ -1377,11 +1377,11 @@ paredes esta explosión toca - aunque ninguna dentro de 2 fichas de cualquier ot
 Leda's Liquefaction spell
 
 Licua el suelo alrededor de la lanzador, lo que hace difícil pasar.
-Cualquier movimiento a través del suelo licuado Will se ralentiza, y las criaturas atrapados en
-el terreno licuado Will no puede Fly. Intentos de atacar al caster
+Cualquier movimiento a través del suelo licuado se ralentiza, y las criaturas atrapados en
+el terreno licuado no puede Fly. Intentos de atacar al caster
 en melee puede fallar.
 
-El efecto comienza con un radio dependiendo del poder, que Will luego se contraen,
+El efecto comienza con un radio dependiendo del poder, que luego se contraen,
 eventualmente cubriendo sólo la lanzador, antes de que se fije. Mantener el
 La conexión al suelo frena el movimiento de la lanzador, incluso si están volando.
 
@@ -1393,9 +1393,9 @@ Metralla mortal. Se puede utilizar en monstruos hechos de hielo, hueso o cualqui
 sustancia, así como los convertidos en piedra por petrificación. Su daño es
 fuertemente reducido por armadura.
 
-Los objetivos hechos de roca, piedra, hielo o hueso Will causan una pequeña explosión. Metal
-blancos Will causan una pequeña pero más dañina explosión, y objetivos hechos de
-cristal Will causa una explosión grande y más dañina.
+Los objetivos hechos de roca, piedra, hielo o hueso causan una pequeña explosión. Metal
+blancos causan una pequeña pero más dañina explosión, y objetivos hechos de
+cristal causa una explosión grande y más dañina.
 
 %%%%
 Legendary Destruction spell
@@ -1438,9 +1438,9 @@ desata un poderoso aumento de la electricidad que arcs irrestrictamente hacia ca
 blanco visible recubierto en estos fragmentos - disparando un rayo adicional en cada uno
 objetivo marcado así.
 
-Las criaturas magnetizadas no pueden evadir ataques y Will ser
-revelado si invisible. Si mueren mientras todavía están cubiertos, ellos Will dejar detrás de una
-nube corta de metal electrificado que Will continúan sirviendo como
+Las criaturas magnetizadas no pueden evadir ataques y ser
+revelado si invisible. Si mueren mientras todavía están cubiertos, ellos dejar detrás de una
+nube corta de metal electrificado que continúan sirviendo como
 barra de relámpago para este hechizo.
 
 %%%%
@@ -1458,9 +1458,9 @@ Malign Gateway spell
 
 Tears a gash en realidad, creando un portal autosostenido pero temporal a un
 desconocido, contaminado en el otro mundo. Se requiere espacio abierto para tener éxito. Después de un corto
-tiempo, un poderoso tentáculo garratado Will llegar a través del portal, restante
+tiempo, un poderoso tentáculo garratado llegar a través del portal, restante
 a la sección Willde la lanzador por una duración dependiendo del poder. Con el portal
-vencimiento, el tentáculo Will ser cortado y encender la lanzador. La duración del
+vencimiento, el tentáculo ser cortado y encender la lanzador. La duración del
 el portal aumenta con poder de hechizo.
 
 %%%%
@@ -1472,7 +1472,7 @@ Dibuja la vida de un enemigo, curando aliados cercanos en el proceso.
 Malmutate spell
 
 Le otorga una mutación a un objetivo. La mutación es casi siempre dañina. It
-no puede afectar a los seres artificiales, y el no-muerto Will se descompone si se ve afectado.
+no puede afectar a los seres artificiales, y el no-muerto se descompone si se ve afectado.
 
 %%%%
 Manifold Assault spell
@@ -1497,7 +1497,7 @@ como el original, y puede lanzar los mismos hechizos.
 March of Sorrows spell
 
 Conjura una corriente de sufrimiento robado, dejando nubes de miseria atroz en
-su velada y sus objetivos. Estas nubes de energía negativa Will rápidamente
+su velada y sus objetivos. Estas nubes de energía negativa rápidamente
 Drain la vida de pequeñas fracciones de su salud máxima.
 
 %%%%
@@ -1513,8 +1513,8 @@ Martyr's Knell spell
 Beca el alma de un mártir de larga data para proteger a tus aliados por un tiempo.
 Esta alma sufre una porción del daño que sus aliados recibirían de otro modo.
 
-Si es asesinado (¡de nuevo!), se transforma Will en un fantasma muerto, infligiendo
-heridas ilusorias en enemigos. Tales heridas son fugaces, y Will desaparecen cuando el
+Si es asesinado (¡de nuevo!), se transforma en un fantasma muerto, infligiendo
+heridas ilusorias en enemigos. Tales heridas son fugaces, y desaparecen cuando el
 El fantasma sale - a menos que mate a sus víctimas primero.
 
 %%%%
@@ -1535,7 +1535,7 @@ Maxwell's Capacitive Coupling spell
 Gradualmente construye carga eléctrica en la casta, siempre y cuando mantengan
 enfoque (esperando en su lugar y no tomando ninguna otra acción). Cuando un umbral
 es alcanzado, las parejas de carga con el enemigo más cercano, vaporizando instantáneamente.
-Superior poder de hechizo Will permite a la lanzador acumular carga más rápidamente. El
+Superior poder de hechizo permite a la lanzador acumular carga más rápidamente. El
 el hechizo requiere un objetivo visible para comenzar a acumular carga, aunque diferente
 El enemigo puede ser apuntado cuando el cargo es liberado.
 
@@ -1559,17 +1559,17 @@ Las criaturas más duras y experimentadas tienen menos probabilidades de ser afe
 Mesmerise spell
 
 Intenta entrar a todos los enemigos a la vista. Los aventureros que no resisten Will
-ser incapaz de alejarse de la lanzador, mientras que otras criaturas Will se vuelven
+ser incapaz de alejarse de la lanzador, mientras que otras criaturas se vuelven
 aturdido.
 
-Dejar la línea de visión de la lanzador Will terminar el efecto de control del movimiento.
+Dejar la línea de visión de la lanzador terminar el efecto de control del movimiento.
 
 %%%%
 Metabolic Englaciation spell
 
 Reduce la tasa metabólica de cada criatura en los alrededores de la lanzador, disminuyendo
-todos aquellos que no son resistentes al frío. Criaturas de sangre fría Will Ser
-afecta mucho más fuerte, y las criaturas más duras Will se ralentiza para un
+todos aquellos que no son resistentes al frío. Criaturas de sangre fría Ser
+afecta mucho más fuerte, y las criaturas más duras se ralentiza para un
 Tiempo más corto.
 
 %%%%
@@ -1626,7 +1626,7 @@ Mourning Wail spell
 
 Exhala una corriente de dolor olvidado, dejando nubes de miseria atroz en
 su velada pero saltando criaturas pasadas que serían vulnerables a ella. Éstos
-clouds of energía negativa Will quickly Drain the living of small fractions of
+clouds of energía negativa quickly Drain the living of small fractions of
 su salud máxima.
 
 %%%%
@@ -1696,10 +1696,10 @@ Conjura un orbe hecho de pura magia destructiva. Comparado con la mayoría de lo
 proyectiles, estos orbes viajan a un ritmo relativamente Slow. Los orbes a casa
 sus objetivos, sin embargo debido a su enorme inercia, especialmente los opositores ágiles
 puede ser capaz de superarlos. Los orbes necesitan tiempo para estabilizarse, y un
-nascent orb Will trato reducido daño.
+nascent orb trato reducido daño.
 
 Los residentes de la Mazmorra pueden mantener el Orbe hasta que impacte a
-blanco, pero cuando es lanzado por tú el Orbe Will disipate al dejar su línea de
+blanco, pero cuando es lanzado por tú el Orbe disipate al dejar su línea de
 Mira.
 
 %%%%
@@ -1713,11 +1713,11 @@ Ostracise spell
 
 Aisla un blanco de lo divino - reduciendo temporalmente su piedad en los ojos
 de cualquier dios que ellos adoran y negarles acceso a cualquier habilidad divina
-esa piedad lo permitiría. Ser afectado repetidamente por este hechizo Will reduce el
+esa piedad lo permitiría. Ser afectado repetidamente por este hechizo reduce el
 una piedad efectiva más y más allá, pero nunca puede conducir directamente a
 excomunión.
 
-Este efecto Will desgasta lentamente como el ser afligido gana experiencia,
+Este efecto desgasta lentamente como el ser afligido gana experiencia,
 eventualmente restaurando el acceso a toda la piedad que poseían una vez.
 
 %%%%
@@ -1725,7 +1725,7 @@ Ozocubu's Armour spell
 
 Envuelve el cuerpo de la fundición en una capa protectora de hielo grueso, otorgando una
 bonificación sustancial para armar mientras permanezcan en su ubicación actual.
-El hielo Will crack y caer si la casta se mueve a una nueva posición. El
+El hielo crack y caer si la casta se mueve a una nueva posición. El
 disminución del hechizo en la eficacia en armadura más pesado, otorgando un bono menor
 más alto el grado de encumbrancia de la armadura de la lanzador.
 
@@ -1734,7 +1734,7 @@ Ozocubu's Refrigeration spell
 
 Gira el aire amargamente frío, congelando a todas las demás criaturas en línea de visión.
 Esto es menos eficaz contra las criaturas empacadas apretadamente juntas - aquellas
-adyacente a sus aliados Will ser parcialmente aislado del frío, tomando menos
+adyacente a sus aliados ser parcialmente aislado del frío, tomando menos
 daño.
 
 %%%%
@@ -1766,7 +1766,7 @@ Passwall spell
 
 Permite que la casta viaje a corta distancia a través de una pared de roca adyacente y
 emerger de nuevo en el otro lado. Este hechizo tarda un poco en lanzar,
-durante el cual el caster Will no puede actuar, pero también ganar mayor armadura
+durante el cual el caster no puede actuar, pero también ganar mayor armadura
 de su attunement a la roca.
 
 %%%%
@@ -1777,14 +1777,14 @@ fuerza de su emergencia explosión roca desde el techo, golpeando el objetivo
 con fuerza inevitable. El frío en sí es breve pero insoportablemente amargo,
 Pasando la armadura enteramente mientras congela el objetivo y sus vecinos.
 
-Will siempre intentan volar la mayor concentración de enemigos a la vista, y
+siempre intentan volar la mayor concentración de enemigos a la vista, y
 Nunca explota al lado de la lanzador.
 
 %%%%
 Petrify spell
 
 Petrifica a una criatura dirigida y hasta dos otros enemigos en una cadena. Aquellas
-no debe hacer que el Will para resistir se ralentice brevemente, y luego se vuelva a la piedra.
+no debe hacer que el para resistir se ralentice brevemente, y luego se vuelva a la piedra.
 Hasta que regresen a la carne, son incapaces de actuar, pero también toman medio daño.
 El poder del hechizo se disminuye contra objetivos secundarios.
 
@@ -1804,7 +1804,7 @@ El desfile de ilusiones puede abrumar a las víctimas de la lanzador.
 %%%%
 Phantom Mirror spell
 
-Crea una copia fantasma de una criatura. La copia Will es algo frágil, pero
+Crea una copia fantasma de una criatura. La copia es algo frágil, pero
 de lo contrario casi indistinguible del original.
 
 %%%%
@@ -1812,7 +1812,7 @@ Planar Overlay spell
 
 Supera parte de una realidad adyacente sobre esta, causando aleatoria local
 monstruos para aparecer en otro lugar en el suelo. La primera vez que se utiliza, múltiple
-monstruos Will llegan inmediatamente; después, ellos Will aparecen en un Slow, estable
+monstruos llegan inmediatamente; después, ellos aparecen en un Slow, estable
 tarifa.
 
 Después de una cantidad considerable de tiempo ha pasado, estos monstruos pueden incluso aparecer
@@ -1845,15 +1845,15 @@ hechizo puede ser retransmitido para sobrecargar el paragón, desatando una corr
 en un área amplia que inflige mayores daños, pero destruyendo el parago en el
 proceso.
 
-Debido al vínculo mágico que mantiene con su creador, Will realiza un
-ataque extra cada vez que lo hacen, y Will a veces incluso parry ataques dirigidos a
+Debido al vínculo mágico que mantiene con su creador, realiza un
+ataque extra cada vez que lo hacen, y a veces incluso parry ataques dirigidos a
 si están lo suficientemente unidos.
 
 %%%%
 Poison Arrow spell
 
 Dispara una flecha mágica recubierta con la toxina más vil y nociva. Incluso aquellos
-resistente al veneno Will ser envenenado por él, y una pequeña porción de su directa
+resistente al veneno ser envenenado por él, y una pequeña porción de su directa
 daño evita la resistencia al veneno.
 
 %%%%
@@ -1866,7 +1866,7 @@ Poisonous Vapours spell
 
 Transmuta una pequeña cantidad de aire alrededor de un objetivo en vapores tóxicos,
 envenenar a alguien lo suficientemente desafortunado para respirar. La cantidad de aire
-afectado es pequeño y Will no persiste más allá del giro en el que se funde.
+afectado es pequeño y no persiste más allá del giro en el que se funde.
 
 No puede afectar a aquellos con resistencia al veneno.
 
@@ -1875,7 +1875,7 @@ Polar Vortex spell
 
 Hace que el aire alrededor de la fundición se convierta en un vórtice helado, haciendo enormes daños
 a todo el mundo atrapado en él que sólo puede ser semimitigado por la resistencia a
-frío. Los afectados Will también serán barridos en el aire y arrojados alrededor.
+frío. Los afectados también serán barridos en el aire y arrojados alrededor.
 Sólo el ojo de la tormenta es un lugar seguro, y sigue la casta. El
 La eficacia del hechizo se disminuye enormemente en áreas cerradas. Después del vórtice
 se desvanece, no puede llamado de nuevo por un corto tiempo.
@@ -1890,7 +1890,7 @@ criaturas que cambian de forma.
 Porkalator spell
 
 Transforma el objetivo en un cerdo. El objetivo se mueve rápidamente pero no se puede lanzar
-hechizos. La desaparición de la lanzador Will hace que la transformación termine.
+hechizos. La desaparición de la lanzador hace que la transformación termine.
 
 %%%%
 Portal Projectile spell
@@ -1916,13 +1916,13 @@ Lanza un rayo de fuego líquido que se aferra a una criatura dirigida, tratando
 Armour-ignoring daño de fuego sobre múltiples giros. La víctima puede apagar el fuego
 mucho más rápido moviéndose.
 
-Si el objetivo es insustancial, el fuego líquido Will no se pega.
+Si el objetivo es insustancial, el fuego líquido no se pega.
 
 %%%%
 Pyroclastic Surge spell
 
 Dibuja llamas de lava. Cualquier enemigo de la lanzador de pie
-al lado o arriba de lava Will ser quemado.
+al lado o arriba de lava ser quemado.
 
 %%%%
 Pyrrhic Recollection spell
@@ -1930,7 +1930,7 @@ Pyrrhic Recollection spell
 Enciende un recuerdo del nimbo que rodea a Nadie, otorgando temporalmente
 ellos el conocimiento de un poderoso hechizo y curando sus lesiones.
 
-Esta potencia es fugaz y Will se extinguirán después de tomar cualquier significativo
+Esta potencia es fugaz y se extinguirán después de tomar cualquier significativo
 cantidad de daño, pero mientras que cualquier otro recuerdo permanezca, no pueden ser
 descansad para siempre.
 
@@ -1945,8 +1945,8 @@ Ravenous Swarm spell
 
 Desliza un torrente de murciélagos vampiros, llenando el aire alrededor de un objetivo.
 
-Estos vampiros Will rozan sobre cualquier cosa que no sea inmuerto con un hambre voraz,
-y sus mordeduras Will eventualmente incluso atraer a sus víctimas a §NT§, dejándolos
+Estos vampiros rozan sobre cualquier cosa que no sea inmuerto con un hambre voraz,
+y sus mordeduras eventualmente incluso atraer a sus víctimas a NT, dejándolos
 Fácil presa.
 
 %%%%
@@ -1972,11 +1972,11 @@ Rending Blade spell
 
 Condena la energía mágica de la lanzador en forma de un crujido violento
 Hoja. Cada vez que la lanzador golpea con éxito con un ataque de melee mientras la
-el hechizo es activo, esta hoja Will rend un camino de ida y vuelta a través de enemigos cercanos,
+el hechizo es activo, esta hoja rend un camino de ida y vuelta a través de enemigos cercanos,
 Tratando daños irresistibles.
 
 Repartiendo este hechizo drena temporalmente *todo* del resto de la lanzador mágica
-poder para constituir la espada, pero esta energía Will se devolverá a ellos tan pronto
+poder para constituir la espada, pero esta energía se devolverá a ellos tan pronto
 como la espada deja de existir. Cada punto de poder mágico secuestrado de esta manera
 aumenta ligeramente el daño que inflige la hoja.
 
@@ -1992,13 +1992,13 @@ Rimeblight spell
 
 Aflige a una criatura (y hasta a otros dos cerca de ella) con una plaga mágica que
 lentamente los congela desde dentro. Las víctimas hacen caso omiso de AC daño de frío
-cada vuelta, y a medida que la enfermedad progresa, fragmentos de hielo cristalino Will start
+cada vuelta, y a medida que la enfermedad progresa, fragmentos de hielo cristalino start
 erupción violenta de su cuerpo, dañando enemigos cercanos. Cuando finalmente
 Sucumbe, la plaga puede extenderse a los que los rodean.
 
 En seres vivos, santos o demoníacos, la enfermedad es especialmente virulenta,
 alimentar las energías necrométicas liberadas por el sufrimiento de su anfitrión. Como ellos
-acercar el punto de la muerte, Will acelerar rápidamente, devorando el último
+acercar el punto de la muerte, acelerar rápidamente, devorando el último
 vestigios de su cuerpo y no dejando nada atrás sino un pilar retorcido de
 hielo estigiano.
 
@@ -2007,7 +2007,7 @@ Roll spell
 
 Enrolla una bola, otorgando al escarabajo boulder tremenda velocidad, así como
 doble daño de melee. El rollo sólo se puede realizar cuando a distancia de un
-foe, y el escarabajo Will siempre se desenrollan después de un intento de ataque.
+foe, y el escarabajo siempre se desenrollan después de un intento de ataque.
 
 %%%%
 Sandblast spell
@@ -2033,7 +2033,7 @@ se quemó por poco tiempo.
 Sculpt Simulacrum spell
 
 Formas icy simulacra de una criatura viviente adyacente, demoníaca o santa. Éstos
-doppelgangers frágiles Will tomar forma durante un corto período de tiempo, eventualmente
+doppelgangers frágiles tomar forma durante un corto período de tiempo, eventualmente
 ganando la capacidad de moverse y atacar a los enemigos del caster.
 
 Los buenos dioses fruncieron el ceño en este hechizo, ya que funciona sangre e ichor en antinatural
@@ -2114,8 +2114,8 @@ daño que daña la armadura de la víctima por completo.
 %%%%
 Shadow Prism spell
 
-Conjura un prisma sombrío que Will desencadena una violenta explosión de sombras después de una
-duración corta. Si se destruye prematuramente, esta explosión Will será mucho más débil.
+Conjura un prisma sombrío que desencadena una violenta explosión de sombras después de una
+duración corta. Si se destruye prematuramente, esta explosión será mucho más débil.
 
 %%%%
 Shadow Puppet spell
@@ -2183,12 +2183,12 @@ cuerpo.
 %%%%
 Sigil of Binding spell
 
-Crea dos sigiles cerca. Cualquiera que pase por encima de ellos Will sea obligado, capaz de
+Crea dos sigiles cerca. Cualquiera que pase por encima de ellos sea obligado, capaz de
 actuar y esquivar normalmente pero incapaz de alejarse. Para criaturas atadas que no sean
-el caster, su velocidad de movimiento Will rebote cuando el efecto se apaga, dando
+el caster, su velocidad de movimiento rebote cuando el efecto se apaga, dando
 ellos de rapidez temporal. El deslizamiento de cualquier fuente otorga inmunidad a la unión.
 
-Sólo un conjunto de sigiles se puede mantener a la vez, y ellos Will caducan
+Sólo un conjunto de sigiles se puede mantener a la vez, y ellos caducan
 prematuramente si te dejan ver.
 
 %%%%
@@ -2196,7 +2196,7 @@ Sign of Ruin spell
 
 Inflicta el signo de la ruina sobre un grupo de enemigos, condenando sus cuerpos a
 decaimiento inexorable y colapso. Cuando cualquier cosa que tenga este signo recibe
-daño de un ataque de melee, ellos Will sufren drenaje pesado y puede además
+daño de un ataque de melee, ellos sufren drenaje pesado y puede además
 o bien Slow, débil o ciego.
 
 %%%%
@@ -2206,10 +2206,10 @@ Elimina todo el sonido cerca del caster. Esto hace pergaminos de lectura, castin
 hechizos, invocando habilidades divinas, o gritando imposible en la lanzador
 cerca.
 
-Ciertos monstruos tienen habilidades mágicas o especiales que Will todavía sean
+Ciertos monstruos tienen habilidades mágicas o especiales que todavía sean
 usable mientras silenciado.
 
-El efecto comienza con un radio dependiendo del poder, que Will luego se contraen,
+El efecto comienza con un radio dependiendo del poder, que luego se contraen,
 eventualmente cubriendo sólo la lanzador, antes de que se fije.
 
 %%%%
@@ -2222,15 +2222,15 @@ directamente letal. El dolor infligido cura al usuario.
 Siren Song spell
 
 Canta una canción inquietante que fusiona a los oyentes cercanos. Los aventureros que no logran
-resistir Will no puede alejarse del cantante, mientras que otras criaturas
-Will se tornan sacudidos.
+resistir no puede alejarse del cantante, mientras que otras criaturas
+se tornan sacudidos.
 
-Dejar la línea de visión de la lanzador Will terminar el efecto de control del movimiento.
+Dejar la línea de visión de la lanzador terminar el efecto de control del movimiento.
 
 %%%%
 Sleep spell
 
-Pone a una criatura dirigida a Sleep. Tomar daño Will normalmente despertar
+Pone a una criatura dirigida a Sleep. Tomar daño normalmente despertar
 objetivo, y sonidos ruidosos pueden hacerlo también.
 
 %%%%
@@ -2261,7 +2261,7 @@ Sojourning Bolt spell
 
 Respira una explosión de bijeción penetrante e inestable. Si golpea, puede teletransportar
 víctimas después de un breve retraso. Para morseles particularmente interesantes de los aventureros
-como tú mismo, este telepuerto Will transloca a las víctimas hacia
+como tú mismo, este telepuerto transloca a las víctimas hacia
 Los aliados de la casta y llevar la casta para el viaje, si es posible.
 
 %%%%
@@ -2269,9 +2269,9 @@ Soul Splinter spell
 
 Intenta forzar un pequeño fragmento de un ser vivo, santo o demoníaco para
 tomar la licencia de su cuerpo y manifestarse como un wisp de alma. Este wisp es nominal
-bajo el control del necromancer, pero Will centran sus ataques sobre todo en el
+bajo el control del necromancer, pero centran sus ataques sobre todo en el
 criatura que fue creada, instintivamente tratando de volver a su hogar apropiado
-una vez más. La víctima Will se debilita hasta que el wisp se revierte a donde se
+una vez más. La víctima se debilita hasta que el wisp se revierte a donde se
 pertenece.
 
 Las esposas creadas de almas más poderosas tienen ataques más dañinos, pero son
@@ -2344,13 +2344,13 @@ Dispara una explosión de espinillas de madera. Su daño se reduce fuertemente p
 Sporulate spell
 
 Libera una cuchara flotante rápida y llena de gas. Después de buscar a su enemigo, el
-espore Will explotar, dañar cualquier cosa atrapada en la explosión y más confuso
+espore explotar, dañar cualquier cosa atrapada en la explosión y más confuso
 criaturas vivientes.
 
 %%%%
 Stampede spell
 
-Carga rápidamente en una línea recta hacia un enemigo. El usuario Will se mueve a doble
+Carga rápidamente en una línea recta hacia un enemigo. El usuario se mueve a doble
 velocidad en esa dirección cada vuelta después, atacando a cualquier enemigo en su camino
 con mayor daño y precisión y empujarlos hacia atrás, hasta que o
 convertirse en incapaz de moverse o tener sobresale su objetivo.
@@ -2384,7 +2384,7 @@ Steam Breath spell
 %%%%
 Sticks to Snakes spell
 
-Saca palos y los transforma en serpientes. Casters más fuertes Will siempre
+Saca palos y los transforma en serpientes. Casters más fuertes siempre
 crear serpientes más fuertes.
 
 %%%%
@@ -2392,9 +2392,9 @@ Sticky Flame spell
 
 Libera un spray corto de goo incendiario que se aferra a un adyacente
 criatura y trata de armadura ignorando daño de fuego en varias vueltas. Si la víctima
-se permite moverse, Will apagar el fuego prematuramente.
+se permite moverse, apagar el fuego prematuramente.
 
-Si el objetivo es insustancial, el fuego líquido Will no se pega.
+Si el objetivo es insustancial, el fuego líquido no se pega.
 
 %%%%
 Still Winds spell
@@ -2407,9 +2407,9 @@ empezar a formar de nuevo como normal.
 %%%%
 Sting spell
 
-Conjura un fragmento de toxinas cristalizadas. El impacto del stinger Will siempre
+Conjura un fragmento de toxinas cristalizadas. El impacto del stinger siempre
 envenenar un blanco susceptible. Incluso los objetivos resistentes tienen la oportunidad de ser envenenados
-y monstruos inmunitarios Will todavía se dañan por el impacto físico del picador.
+y monstruos inmunitarios todavía se dañan por el impacto físico del picador.
 
 %%%%
 Stoke Flames spell
@@ -2451,7 +2451,7 @@ Summon Cactus Giant spell
 
 Invoca a un guerrero de una tribu particularmente caprichosa. Foes que golpean a estos
 ¡Los gigantes de la melee están en una dolorosa sorpresa! Cuando se lanza a un poder superior,
-mayores, guerreros más robustos Will responden a la llamada.
+mayores, guerreros más robustos responden a la llamada.
 
 %%%%
 Summon Demon spell
@@ -2501,8 +2501,8 @@ Invoca a uno o más elementales de fuego.
 Summon Forest spell
 
 Interseca forzadamente un avión boscoso con este mundo. Requiere espacio abierto
-para tener éxito. Mientras el hechizo sostiene, un espíritu del bosque Will ser llamado adelante,
-y los árboles del bosque Will sean despertados para hacer daño a enemigos cercanos.
+para tener éxito. Mientras el hechizo sostiene, un espíritu del bosque ser llamado adelante,
+y los árboles del bosque sean despertados para hacer daño a enemigos cercanos.
 Potencia de la palanca aumenta la duración, tamaño y grosor de la intersectada
 plano; así como la fuerza del espíritu.
 
@@ -2568,7 +2568,7 @@ Invocaciones entre uno y tres demonios menores (rank 5).
 Summon Mortal Champion spell
 
 Llama a uno de los campeones mortales más poderosos y más rápidos del Shining
-Uno. En este Dungeon, Spriggan defensores y elfo profundo cuchillas Will respuesta
+Uno. En este Dungeon, Spriggan defensores y elfo profundo cuchillas respuesta
 la llamada.
 
 %%%%
@@ -2590,7 +2590,7 @@ Llama a un enjambre de escorpiones venenosos.
 Summon Seismosaurus Egg spell
 
 Invoca el huevo de un lagarto bruto, justo al borde de la eclosión. Mientras tanto
-hay enemigos cerca y la casta permanece adyacente al huevo, es Will escotilla
+hay enemigos cerca y la casta permanece adyacente al huevo, es escotilla
 varias vueltas después de ser convocados para causar estragos en los enemigos de su citador.
 
 Incluso como un menor, un sísmosaurio es una fuerza con la que se debe considerar. Es casi
@@ -2620,7 +2620,7 @@ Invoca un tzitzimitl, un demonio de enfermedad y desesperación.
 %%%%
 Ufetubi Swarm spell
 
-Invoca a un grupo de Berserk ufetubi; demonios menores irritantes que Will rápidamente enjambre
+Invoca a un grupo de Berserk ufetubi; demonios menores irritantes que rápidamente enjambre
 y rodear a los enemigos de la lanzador.
 
 %%%%
@@ -2643,7 +2643,7 @@ Invoca uno o más elementales de agua.
 Swiftness spell
 
 Llama a los vientos para aumentar enormemente la velocidad de movimiento de la lanzador. Después de la
-el efecto termina, los movimientos de la lanzador Will se deslumbran por un tiempo.
+el efecto termina, los movimientos de la lanzador se deslumbran por un tiempo.
 
 %%%%
 Symbol of Torment spell
@@ -2714,18 +2714,18 @@ Trog's Hand spell
 Kiss of Death spell
 
 Conjura un fragmento de la esencia de la lanzador y lo retorce en un fragmento
-de la muerte, drenando dolorosamente a la víctima. La casta también, Will encuentra su salud
+de la muerte, drenando dolorosamente a la víctima. La casta también, encuentra su salud
 reducido, hasta que obtengan suficiente experiencia para recuperarse.
 
 %%%%
 Tukima's Dance spell
 
 Anima el arma de un enemigo apuntado, arrancarla de sus manos y causar
-para atacarlos sin descanso. Una vez que el objetivo muere, el arma Will cae a
+para atacarlos sin descanso. Una vez que el objetivo muere, el arma cae a
 el terreno poco después.
 
 Ciertos potentes artefactos no pueden ser animados, y cualquier propiedad que
-requiere habilidad en evocaciones Will no ser activo.
+requiere habilidad en evocaciones no ser activo.
 
 %%%%
 Upheaval spell
@@ -2745,7 +2745,7 @@ Llama a las almas persistentes de orcos que murieron en edades anteriores, y, pa
 breve momento, les da propósito en la batalla una vez más.
 
 Más anclados a sus vidas pasadas que la mayoría de los espectrales, empuñan polearmas con
-habilidad viva, y Will rodear su cantera con eficacia fría.
+habilidad viva, y rodear su cantera con eficacia fría.
 
 %%%%
 Venom Bolt spell
@@ -2768,14 +2768,14 @@ Hace que una criatura dirigida sea más vulnerable al veneno.
 Momentum Strike spell
 
 Culpa a un objetivo con energía prestada del movimiento futuro de la lanzador. Para
-un corto tiempo después, la lanzador Will se deja inmóvil - incapaz de caminar, Fly
+un corto tiempo después, la lanzador se deja inmóvil - incapaz de caminar, Fly
 alrededor, deslizamiento, etc. Sólo criaturas fútiles pueden lanzar este hechizo.
 
 %%%%
 Vhi's Electric Charge spell
 
 Envia el dolor de casta a un enemigo cercano elegido, lanzando una alta precisión
-melee attack on arrival. Daño eléctrico adicional Will se tratará basado en
+melee attack on arrival. Daño eléctrico adicional se tratará basado en
 longitud de la carga, el poder del hechizo, y el daño físico del
 ataque. El yeso está envuelto en un sobre de espacio retorcido, permitiéndoles
 pasar a través de criaturas, trampas y terrenos dañinos, y desplazarse
@@ -2820,7 +2820,7 @@ Warp Body spell
 
 Twists el cuerpo de una criatura con corrupción mutagénica, haciendo una pequeña cantidad de
 daño e infligir una mutación transitoria. Si el objetivo ya está sufriendo
-de múltiples mutaciones transitorias, que Will infligen Vitrify en su lugar.
+de múltiples mutaciones transitorias, que infligen Vitrify en su lugar.
 
 %%%%
 Warp Space spell
@@ -2844,7 +2844,7 @@ requiriendo la línea de visión pero no la línea de fuego.
 Wind Blast spell
 
 Causa una fuerte ráfaga de viento, empujando criaturas y nubes en un cono. Si
-Esto hace que una criatura collide con algo, que Will tomar daño.
+Esto hace que una criatura collide con algo, que tomar daño.
 
 %%%%
 Woodweal spell
@@ -2862,10 +2862,10 @@ después de un breve retraso.
 Yara's Violent Unravelling spell
 
 Si se echa sobre una criatura ya bendecida (o maldecida) con encantos mágicos,
-esos encantamientos Will se desgarran, transformando en un spray de
-radiación mutagénica destructiva. La víctima y cualquier persona adyacente Will ser
+esos encantamientos se desgarran, transformando en un spray de
+radiación mutagénica destructiva. La víctima y cualquier persona adyacente ser
 volcado y muy deformado, debilitando y reduciendo su armadura.
 Las criaturas invocadas son particularmente vulnerables, ya que los encantos vinculantes
-ellos a este plano Will desentrañar y hacer que sean despedidos inmediatamente.
+ellos a este plano desentrañar y hacer que sean despedidos inmediatamente.
 
 %%%%

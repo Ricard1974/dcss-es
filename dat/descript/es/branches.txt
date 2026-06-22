@@ -15,12 +15,12 @@ encontrado desde el tercer nivel en adelante, y es más común a mayores profund
 Portals back to la Mazmorra are disperseed throughout el Abismo, and are found
 más comúnmente a mayores profundidades o mientras lleva la runa abissal.
 
-Matar monstruos Will acariciar la sustancia del Abyss, eventualmente generando un
-Puerta de entrada. Persistencia adicional Will desgastar agujeros en el Abyss, permitiendo descenso
+Matar monstruos acariciar la sustancia del Abyss, eventualmente generando un
+Puerta de entrada. Persistencia adicional desgastar agujeros en el Abyss, permitiendo descenso
 en capas más profundas.
 
 El tejido del Abyss toma mayor aviso de los poderosos; no importa cómo
-llegan, más experimentados aventureros Will se encuentran dibujados más profundo
+llegan, más experimentados aventureros se encuentran dibujados más profundo
 dentro de la loca exposición de ese reino.
 
 %%%%
@@ -47,7 +47,7 @@ incluso en un trato.
 %%%%
 Cocytus
 
-Cocytus es un desperdicio desperdicio sombrío y desperdicio. Intrusos Will encontrar la mordida
+Cocytus es un desperdicio desperdicio sombrío y desperdicio. Intrusos encontrar la mordida
 vientos y habitantes helados de los desechos que impedían su progreso.
 
 Las frígidas pociones de congeales fríos.
@@ -89,7 +89,7 @@ del legendario tesoro del culto aún permanece.
 Dis
 
 La Ciudad de Hierro de Dis es el hogar de muchos de los guardianes más resilientes del infierno.
-Aquellos que no pertenecen a los salones de Dis Will encuentran la misma tierra misma
+Aquellos que no pertenecen a los salones de Dis encuentran la misma tierra misma
 oponiéndolos.
 
 La malicia de este equipo de metal corroe.
@@ -141,7 +141,7 @@ gulches sirven como un espacio de contención para la basura acumulada, varios
 experimentos abandonados, plagas de arrastre desórdenes, y los particularmente rotos
 cadáveres de intrusos. Una gran cantidad de energía mutagénica emana de
 la escoria mística y las aguas mohosas que corren a través de ella, tal que incluso cruzar
-su umbral Will muta temporalmente nuevos invitados. Aún así, el bien conocido
+su umbral muta temporalmente nuevos invitados. Aún así, el bien conocido
 las defensas de las Bóvedas nunca descartarían ningún frente de seguridad potencial: leve
 mantenimiento a través de guardias castigados manejan apenas suficiente dirección para enviar tales
 monstruosidades del gulch a cualquiera que se atrevería a tratar de extraer riquezas ocultas de
@@ -214,7 +214,7 @@ Portals to Pandemonium se encuentran abundantemente en las Profundidades.
 Pandemonium es infinito. Cada área de Pandemonium tiene una pequeña posibilidad
 que contiene un portal de vuelta a la Mazmorra, ya sea directamente o a través del Abyss.
 
-No menos de cinco runas de Zot se pueden encontrar en §NT§:
+No menos de cinco runas de Zot se pueden encontrar en NT:
 • la runa ardiente reside en el reino resplandeciente de Cerebov
 • la capa brillante se puede encontrar en el dominio contaminado de Mnoleg
 • la runa mágica está custodiada por los poderes arcanos de Lom Lobon
@@ -339,14 +339,14 @@ A Ziggurat es una extraña torre construida de combate incrementalmente mayor
 arenas, cada una con mayor riqueza y mayor peligro que el último.
 Ten cuidado, porque un Ziggurat no es un lugar para los débiles de corazón: incluso el más valiente
 y los aventureros más hábiles han alcanzado sus fines en uno. Mientras que un portal a
-seguridad Will estar presente en cada nivel, una vez dejado, un Ziggurat no puede
+seguridad estar presente en cada nivel, una vez dejado, un Ziggurat no puede
 reingresó.
 
 One Ziggurat is guaranteed in las Profundidades. Tales cuentan de un artículo mágico encontrado
 en el fondo de cada Ziggurat, otorgando acceso a un nuevo Ziggurat a su vez. Tal
 también se dice que un artículo se encuentra en el fondo de la Tumba de los Antiguos. Cada uno
 tiempo un Ziggurat es conquistado por salir de la planta final, después
-ziggurats Will se vuelve cada vez más peligroso y lucrativo.
+ziggurats se vuelve cada vez más peligroso y lucrativo.
 
 %%%%
 Zot

@@ -228,7 +228,7 @@ Wu Jian
 El Wu Jian Concilio es una congregación de monjes marciales, ascendidos a la divinidad
 después de luchar contra su salida de la otra vida. Los discípulos del Consejo son
 capaz de ejecutar maniobras marciales acrobáticas, tales como saltos de pared, girando
-ataca y castiga los pulmones. They Will eventually become able to request
+ataca y castiga los pulmones. They eventually become able to request
 ayuda en la forma de una tormenta de nubes celestiales.
 
 %%%%
@@ -268,18 +268,18 @@ Ashenzari exhorta a los seguidores a maldecir sus posesiones, ofreciendo periód
 estas maldiciones a los adoradores mientras exploran. Estas maldiciones otorgan mejoras
 a habilidades específicas, pero el equipo maldecido normalmente no puede encantado y puede
 Sólo se eliminará destrozándolo para siempre. Mientras los adoradores equipan más maldecidos
-equipo, Ashenzari Will otorgar conocimiento creciente de la mazmorra circundante.
-Eventualmente, Ashenzari Will revelan lo invisible, conceder Clarity de la mente, y
+equipo, Ashenzari otorgar conocimiento creciente de la mazmorra circundante.
+Eventualmente, Ashenzari revelan lo invisible, conceder Clarity de la mente, y
 protege a los adoradores de las fuerzas malévolas de la Mazmorra.
 
 %%%%
 Beogh powers
 
-Worshippers Will ganar el poder de rechazar la ira de Beogh sobre su
-opresores, y otros orcos Will comienzan a verlos como uno de sus propios.
-Especialmente prometedores adherentes Will se encuentran acosados por rivales por Beogh
-favor, pero superar estos juicios sin huir Will ganarlos leales
-compañeros que Beogh Will resucitan una y otra vez, siempre y cuando sean
+Worshippers ganar el poder de rechazar la ira de Beogh sobre su
+opresores, y otros orcos comienzan a verlos como uno de sus propios.
+Especialmente prometedores adherentes se encuentran acosados por rivales por Beogh
+favor, pero superar estos juicios sin huir ganarlos leales
+compañeros que Beogh resucitan una y otra vez, siempre y cuando sean
 continuar luchando y vengarse en el nombre de Beogh. Un verdadero elegido puede incluso reunirse
 un ejército orcish entero para vengar una muerte equivocada.
 
@@ -298,7 +298,7 @@ la habilidad de abandonar el flujo del tiempo por completo.
 Dithmenos powers
 
 Los seguidores de Dithmenos están rodeados por una tranquilidad antinatural, que ayuda a los
-Suena que no se dan cuenta. Mientras se levantan en devoción, ellos Will encuentran su
+Suena que no se dan cuenta. Mientras se levantan en devoción, ellos encuentran su
 su sombra comienza a imitar algunas de sus acciones, atacando cuando atacan
 e incluso lanzar magias sombrías que imitan la forma - si no la sustancia - de
 que escuelas de magia habían estado utilizando.
@@ -348,7 +348,7 @@ esencia de la vida, en la forma de su mayor antepasado. Este antepasado está en
 primero recordado como estaban al comienzo de sus aventuras fábulas, pero Will
 avanzar en la habilidad como lo hace su descendiente. Hepliaklqana siempre permite a los seguidores
 para recordar su antepasado a su lado, e incluso si el antepasado es destruido,
-Hepliaklqana Will llámalo de nuevo no mucho después. Nuevos avances en
+Hepliaklqana llámalo de nuevo no mucho después. Nuevos avances en
 Hepliaklqana's service allows worshippers to restore and strengthen their
 ancestro, para cambiarlos con otras criaturas, y elegir cómo recordar
 sus talentos de vida.
@@ -360,27 +360,27 @@ Los seguidores pueden armarse en llamas, llamar a un enjambre de foxfires contra
 foes, o dejar Ignis' calor elevarlos a otro nivel de la Mazmorra. Sin embargo, el
 llamas de la energía Ignis sólo sostienen un número limitado de
 invocaciones antes de que sólo se mantengan las brasas. No importa lo agotado, Ignis
-Will siempre otorgar resistencia a los seguidores al fuego.
+siempre otorgar resistencia a los seguidores al fuego.
 
 %%%%
 Jiyva powers
 
-Jiyva Will rellenar gradualmente la Mazmorra con jellies. Estos y cualquier otro tipo
-slimes Will consumir rápidamente artículos cercanos, así como consumir lentamente artículos de
+Jiyva rellenar gradualmente la Mazmorra con jellies. Estos y cualquier otro tipo
+slimes consumir rápidamente artículos cercanos, así como consumir lentamente artículos de
 en otro lugar del la Mazmorra. A medida que se extienden deslizando más de la Mazmorra, Jiyva
-Will otorgar a los seguidores una salud cada vez más rápida y regeneración mágica, y Will
-empezar a mutarlos para reflejar mejor la imagen de Jiyva. Followers Will later become
+otorgar a los seguidores una salud cada vez más rápida y regeneración mágica, y Will
+empezar a mutarlos para reflejar mejor la imagen de Jiyva. Followers later become
 capaz de sacar ooze ácido de las paredes de la Mazmorra, y para girar
 monstruos para deslizarse con un toque.
 
 %%%%
 Kikubaaqudgha powers
 
-Kikubaaqudgha Will potenciar la proeza necromética de los sirvientes con regalos
-Necromancy hechizos. Kikubaaqudgha Will proteger a los seguidores de los efectos
+Kikubaaqudgha potenciar la proeza necromética de los sirvientes con regalos
+Necromancy hechizos. Kikubaaqudgha proteger a los seguidores de los efectos
 maldiciones necrométicas y maldiciones de muerte, e incluso puede protegerlos de impío
 tormento. Los seguidores pueden desenterrar las arañazos moribundos como forraje necrótico, y puede
-invocar el signo de la ruina para daño a sus enemigos. § § § § § § § § § § §
+invocar el signo de la ruina para daño a sus enemigos.           
 permitir a los seguidores recibir conocimiento de la necromética más prohibida
 magia, o tener su arma llena de dolor.
 
@@ -388,12 +388,12 @@ magia, o tener su arma llena de dolor.
 Lugonu powers
 
 Los seguidores del Lugonu ganan poderes para partir el Abyss en Will, para desterrar monstruos
-y huir de nuevo dentro cuando sea necesario. Lugonu Will also banish nearby foes
+y huir de nuevo dentro cuando sea necesario. Lugonu also banish nearby foes
 si algún otro dios intenta interferir con sus seguidores. Más tarde, seguidores
-Will ser capaz de corromper el mundo ordenado, abrir una puerta para las criaturas
+ser capaz de corromper el mundo ordenado, abrir una puerta para las criaturas
 de la Abyss para pasar, y para entrar directamente en este reino de
-caos. Lugonu Will Protege a los seguidores que infunden armas
-distorsionar las energías del Abyss, y eventualmente Will ofrecen distorsionar un
+caos. Lugonu Protege a los seguidores que infunden armas
+distorsionar las energías del Abyss, y eventualmente ofrecen distorsionar un
 El melee arma del seguidor. Lugonu espera que los seguidores se difundan incesantemente
 el caos en el mundo, y como tal no otorga piedad a los adoradores mientras
 permanecen en el propio Abyss.
@@ -403,19 +403,19 @@ Makhleb powers
 
 Makhleb ofrece a los seguidores la capacidad de desencadenar pernos de destrucción caótica en
 el costo de su propia salud, así como la llamada a la ayuda de los poderosos (si a veces
-demonios. Los más devotos de los adoradores Will eventualmente ser dotados
+demonios. Los más devotos de los adoradores eventualmente ser dotados
 con conocimiento de Marcas Infernales, permitiéndoles marcar ritualmente sus propias
 cuerpos a cambio de uno de los muchos poderes infernales del Destructor.
 
-Makhleb's powers all come with a price in blood. However, Makhleb Will grant
+Makhleb's powers all come with a price in blood. However, Makhleb grant
 seguidores renovaron la salud a cambio de matar seres de todo tipo.
 
 %%%%
 Nemelex Xobeh powers
 
 Los seguidores del Trickster ganan varias maneras de influir en el destino cuando juegan
-sus cartas. Los efectos de las tarjetas Will son más poderosos con piedad superior
-y con mayor habilidad de Invocaciones. Más tarde, los seguidores Will ganan poderoso
+sus cartas. Los efectos de las tarjetas son más poderosos con piedad superior
+y con mayor habilidad de Invocaciones. Más tarde, los seguidores ganan poderoso
 habilidades para manipular las tarjetas, permitiéndoles elegir uno de los tres
 tarjetas, para obtener los efectos de múltiples tarjetas a la vez, y finalmente para apilar
 cubiertas y reordenar sus contenidos.
@@ -423,8 +423,8 @@ cubiertas y reordenar sus contenidos.
 %%%%
 Okawaru powers
 
-Los seguidores de Okawaru Will ganan la capacidad de aumentar temporalmente sus habilidades
-en combate, y mucho más tarde, para hacer frente a golpes mucho más rápidos. § § § § § § § § § § §
+Los seguidores de Okawaru ganan la capacidad de aumentar temporalmente sus habilidades
+en combate, y mucho más tarde, para hacer frente a golpes mucho más rápidos.           
 seguidores de regalos con municiones, armas y armadura. Los más favorecidos
 Okawaru puede desafiar a sus enemigos a un combate único honorable.
 
@@ -436,7 +436,7 @@ prohibido utilizar medios externos para hacerlo; en cambio, se les concede
 energía mágica en matar seres. Pueden usar cantidades crecientes de magia
 energía para fortalecer sus dispositivos, concediéndoles temporalmente más
 poder, y también puede utilizar su energía mágica para recargar sus dispositivos.
-Los seguidores suficientemente devotos Will reciben nuevos dispositivos de Pakellas, y pueden
+Los seguidores suficientemente devotos reciben nuevos dispositivos de Pakellas, y pueden
 eventualmente petición Pakellas para cargar personalmente uno de sus dispositivos más allá
 sus límites normales.
 
@@ -456,11 +456,11 @@ Aliados elementales.
 %%%%
 Ru powers
 
-Ru Will ofrecen a los seguidores una serie de sacrificios mientras viajan la Mazmorra. On
-aceptar estos sacrificios, seguidores Will gradualmente ganar un aura de inmenso
-Poder. Este aura Will inicialmente causan enemigos que intentan dañarlos para falsificar
+Ru ofrecen a los seguidores una serie de sacrificios mientras viajan la Mazmorra. On
+aceptar estos sacrificios, seguidores gradualmente ganar un aura de inmenso
+Poder. Este aura inicialmente causan enemigos que intentan dañarlos para falsificar
 y se arrastre con males. Después de hacer más sacrificios, seguidores
-Will ser capaz de aprovechar este poder para restaurar su salud y magia, o para
+ser capaz de aprovechar este poder para restaurar su salud y magia, o para
 Haz un salto explosivo rápido y rápido. Excepcionales sacrificios pueden desencadenar
 su poder en una huelga masiva contra todos sus enemigos. Cada uno de los poderes de
 Ru's sacrificionts aumenta en fuerza con más piedad de más sacrificios.
@@ -478,10 +478,10 @@ recibir libros de hechizos que contienen una amplia gama de hechizos.
 el Resplandeciente powers
 
 Los seguidores del Shining One están rodeados de un halo que revela sus
-enemigos para ellos. Seguidores Will ganar poder matando seres malvados, y con
-cultivar piedad su fuerza vital Will ser protegido. El Shining One Will mantener
+enemigos para ellos. Seguidores ganar poder matando seres malvados, y con
+cultivar piedad su fuerza vital ser protegido. El Shining One mantener
 aliados convocados y encantados a su lado más tiempo, si los aliados prueban
-digno de la cruzada. Seguidores Will ganar uso de un escudo divino para proteger
+digno de la cruzada. Seguidores ganar uso de un escudo divino para proteger
 en batalla. Más tarde, pueden canalizar las explosiones de la llama de limpieza que son
 particularmente dañino para los seres no santos, y puede llamar a la poderosa divina
 seres como aliados temporales. Los seguidores muy piadosos pueden solicitar el resplandor
@@ -491,9 +491,9 @@ interviene para salvar la vida de un seguidor.
 %%%%
 Trog powers
 
-Trog ofrece varios poderes para ayudar a los seguidores en la batalla. Seguidores Will ganar el
-habilidad para ir Berserk en Will, y Trog Will extender la duración de su
-Berserk rage on killing foes. Trog Will otorgar a los seguidores la capacidad de
+Trog ofrece varios poderes para ayudar a los seguidores en la batalla. Seguidores ganar el
+habilidad para ir Berserk en Will, y Trog extender la duración de su
+Berserk rage on killing foes. Trog otorgar a los seguidores la capacidad de
 curan sus heridas mientras fortifican su fuerza de voluntad, y más tarde la capacidad de
 llama a poderosos aliados furtivos. Eventualmente, Trog Will
 armas, a menudo con efectos antimagicos.
@@ -503,8 +503,8 @@ Uskayaw powers
 
 Los adoradores de Uskayaw pueden golpear a los enemigos que los rodean, y moverse rápidamente
 a través de una línea de criaturas al confundirlas. Cuando un adorador baila
-alcanza un cierto punto, Uskayaw Will detiene inmediatamente a todos los enemigos para que el
-La bailarina puede tomar un solo. Mientras el baile continúa, Uskayaw Will vincula las emociones
+alcanza un cierto punto, Uskayaw detiene inmediatamente a todos los enemigos para que el
+La bailarina puede tomar un solo. Mientras el baile continúa, Uskayaw vincula las emociones
 de enemigos, obligándolos a compartir su dolor. La duración de estos efectos Will
 aumentar con la habilidad Invocations, y mientras la intensidad del baile sea
 suficiente pueden repetirse después de poco tiempo. Si el baile continúa
@@ -546,7 +546,7 @@ la antorcha como sirvientes sin mente, hurl torchlight para escour a los vivos y
 los muertos, y atar almas especialmente notables para luchar por ellos en la muerte con
 las plenas capacidades que tenían en la vida. Especialmente adoradores devotos pueden incluso
 anotar el ineludible agarre del Fallen directamente, los enemigos vinculantes de forma indefensa
-en su lugar como la vida misma es succionada de ellos. § § § § § § § § § § § § § § § § §
+en su lugar como la vida misma es succionada de ellos.                 
 sirvientes no muertos para ayudar a los seguidores al comienzo de cada nueva conquista.
 
 %%%%
@@ -564,7 +564,7 @@ forma directa para salvarle la vida a un seguidor.
 %%%%
 Ashenzari wrath
 
-Aquellos que abandonan Ashenzari Will inmediatamente tienen sus maldiciones destrozadas,
+Aquellos que abandonan Ashenzari inmediatamente tienen sus maldiciones destrozadas,
 destruyendo cada uno de los elementos que imbuyeron con sabiduría divina. Después,
 Ashenzari La ira es constante e incesante para su duración. Víctimas
 encontrar sus habilidades deterioradas, y sus enemigos divinamente guiados – nunca perder
@@ -576,13 +576,13 @@ Beogh wrath
 Blasphemers contra la palabra de Beogh se encuentran agredidos por olas de
 guerreros orcos, o bailando armas eléctricas. Beogh may also simply smite
 tales blasfemos – y al golpear verdaderos pecadores, Beogh tiene una mano pesada
-¡De hecho! Aquellos que todavía adoran Beogh Will también encuentran a sus seguidores regularmente
+¡De hecho! Aquellos que todavía adoran Beogh también encuentran a sus seguidores regularmente
 desertándolos.
 
 %%%%
 Cheibriados wrath
 
-Los delincuentes contra Cheibriados Will encuentran que sus movimientos permanecen Slowmientras que
+Los delincuentes contra Cheibriados encuentran que sus movimientos permanecen Slowmientras que
 la atención de Cheibriados permanece sobre ellos, y puede tener cualquier precipitación mágica
 Despojado. También pueden ser más lentos, ser puestos a Sleep, o ser
 ajustado por el volumen sin paralelo del inevitable paso del tiempo anillo
@@ -607,7 +607,7 @@ de la muerte.
 %%%%
 Fedhas wrath
 
-Los que ofenden § 1. Will encuentran las fuerzas de la naturaleza invocadas contra ellos
+Los que ofenden  1. encuentran las fuerzas de la naturaleza invocadas contra ellos
 a través de un dramático aumento de vegetación. Pueden encontrarse transmutados.
 en las plantas que han abandonado, o rodeado de muros impenetrables
 Briars más plantas de Oklob que escupen ácidos viciosos.
@@ -619,7 +619,7 @@ Hepliaklqana cree que el único castigo razonable para convertir el
 volver al camino de la memoria es ser negado su uso. Toda nueva experiencia es
 negada al desafortunado apóstata, hasta que Hepliaklqana decide que han
 fue castigado lo suficiente. La esencia de la vida sacrificada para manifestar un ancestro Will
-no ser devuelto hasta que Hepliaklqana sea molido, y este Will no sea rápido:
+no ser devuelto hasta que Hepliaklqana sea molido, y este no sea rápido:
 a diferencia de algunos, Hepliaklqana tiene un largo recuerdo.
 
 %%%%
@@ -627,9 +627,9 @@ Gozag wrath
 
 El primero de los castigos de Gozag es comercial: todas las tiendas abiertas
 La intervención de Gozag cierra sus puertas para siempre. Se aconseja al disloyal
-terminar sus compras antes de lanzar su traición. Por el tiempo que § 1.
+terminar sus compras antes de lanzar su traición. Por el tiempo que  1.
 permanece enojada, los ex usurpadores pueden a veces ser deslumbrados por el brillo de la moneda,
-y sus pociones Will tienen la oportunidad de fallar cuando se cuarte. Cualquier enemigo que sea
+y sus pociones tienen la oportunidad de fallar cuando se cuarte. Cualquier enemigo que sea
 también se pueden conceder pociones propias para ayudarles contra
 los que renuncian al servicio de Gozag.
 
@@ -637,17 +637,17 @@ los que renuncian al servicio de Gozag.
 Ignis wrath
 
 La ira de Ignis es ahora más débil que la de la mayoría de otros dioses. Apostates Will
-encontrar su resistencia al fuego despojado completamente, y Will ser periódicamente
+encontrar su resistencia al fuego despojado completamente, y ser periódicamente
 agredidos por elementales de fuego, encontrar a sus enemigos fortalecidos por fuego, o incluso
 Que el suelo se queme por debajo de ellos. Experiencia y cautela
-aventureros Will probablemente dominan estos ataques.
+aventureros probablemente dominan estos ataques.
 
 %%%%
 Jiyva wrath
 
 La venganza de Jiyva es rápida y gurgling. Todos los delgados se vuelven contra los que
 ofender Jiyva, y Jiyva garantiza un suministro abundante de más delgados. Víctimas,
-Will encontrar sus propios cuerpos inestables; adquirir debilitantes
+encontrar sus propios cuerpos inestables; adquirir debilitantes
 mutaciones o contaminación, así como tener regalos de mutaciones slime
 Despojado de ellos.
 
@@ -658,7 +658,7 @@ La ira de Kikubaaqudgha produce todos los poderes terribles de la necromancia. V
 puede ser testigo de la devastadora Señal de Ruin sobre sí mismos, o ambos condenados
 y drenado sin ningún respeto por su resistencia energía negativa.
 Además, los regalos de Kikubaaqudgha se contaminan: los muertos se levantan de nuevo como enemigos,
-y aquellos que intentan usar la magia necromética para evitar la ira Will encontrarlo
+y aquellos que intentan usar la magia necromética para evitar la ira encontrarlo
 colocándolos cuando menos se esperaba.
 
 %%%%
@@ -668,7 +668,7 @@ Lugonu's ire renders the barrier between reality and the Abyssweak and
 permeable. Warps espaciales, hurling victims across la Mazmorra, or even directly
 en el Abyss. Lugonu también llega y envía a los habitantes caóticos
 el Abyss contra las víctimas, con veteranos aventureros que enfrentan los mayores horrores
-de la Abyss. Lugonu no perdona fácilmente, y Will no permite ex-combatientes
+de la Abyss. Lugonu no perdona fácilmente, y no permite ex-combatientes
 para unirse al pliegue mientras la ira de Lugonu todavía dura.
 
 %%%%
@@ -698,9 +698,9 @@ rodeado de titanes y elvish cuchillas.
 %%%%
 Pakellas wrath
 
-Aquellos que ofenden Pakellas Will se encuentran completamente incapaces de hacer uso
+Aquellos que ofenden Pakellas se encuentran completamente incapaces de hacer uso
 de sus dispositivos durante el descontento de Pakellas. Los que abandonan
-Pakellas en conjunto Will también continúan siendo incapaces de regenerar su magia
+Pakellas en conjunto también continúan siendo incapaces de regenerar su magia
 poder mientras la atención de Pakellas permanezca en ellos.
 
 %%%%
@@ -714,7 +714,7 @@ crear potentes truenos para alertar a sus enemigos.
 Ru wrath
 
 Aquellos que dejan el servicio Ru Willno reciben ningún castigo adicional; sin embargo,
-su piedad Will se pierda incluso al unirse, y sus sacrificios permanecen
+su piedad se pierda incluso al unirse, y sus sacrificios permanecen
 Para siempre.
 
 %%%%
@@ -729,7 +729,7 @@ peligroso.
 el Resplandeciente wrath
 
 La ira del Shining One es directa e inconfundible. Sus víctimas encuentran
-ellos mismos tropezaron con fuego santo y se pusieron con guerreros santos. Sinners Will be
+ellos mismos tropezaron con fuego santo y se pusieron con guerreros santos. Sinners be
 silenciado, y el Shining One también gritan para alertar a los enemigos de la víctima.
 
 %%%%
@@ -737,14 +737,14 @@ Trog wrath
 
 La ira de Trog es incandescente. Los delincuentes se encuentran enjaulados por berserkers –
 de paquetes de osos a, para los más poderosos, multitud de gigantes y troles.
-De lo contrario, los que enojan Trog Will pierden regularmente su fuerza y
+De lo contrario, los que enojan Trog pierden regularmente su fuerza y
 autocontrol como ellos sin pensar pulverizar en su lugar.
 
 %%%%
 Uskayaw wrath
 
 La ira de Uskayaw convierte los poderes de la danza contra el delincuente. El prude
-Will encontrar a sus enemigos yendo Berserk y Will ser forzados a mirar sin ayuda como
+encontrar a sus enemigos yendo Berserk y ser forzados a mirar sin ayuda como
 Los enemigos ejecutan sus propios solos. Cuando el baile está recibiendo también Slow, Uskayaw Will
 causar ruido para atraer más revendedores.
 
@@ -761,12 +761,12 @@ Wu Jian wrath
 Los que se oponen al Consejo deben estar dispuestos a sufrir la muerte por un
 mil cortes. Ningún escondite es seguro, ningún disfraz perfecto para evitar
 la repentina primavera de trampas, las dagas voladoras y los ejércitos de animación
-armas que Will embosca al traidor.
+armas que embosca al traidor.
 
 %%%%
 Xom wrath
 
-Ex-siguientes infieles Will se encuentran sufriendo a través de Xom malos estados de ánimo
+Ex-siguientes infieles se encuentran sufriendo a través de Xom malos estados de ánimo
 por tanto tiempo como Xom puede ser molestado para recordar sobre ellos. Aún así, caprice de Xom
 restos; los infieles son recompensados así como los fieles son castigados.
 
@@ -774,16 +774,16 @@ restos; los infieles son recompensados así como los fieles son castigados.
 Yredelemnul wrath
 
 Aquellos que enojan Yredelemnul se encuentran aturdidos por legiones de los muertos.
-A veces, el dios Will también interviene directamente, obligando a los infieles en
+A veces, el dios también interviene directamente, obligando a los infieles en
 cadenas ineludibles como el ejército oscuro de Yredelemnul demuestra el precio de
 traición.
 
 %%%%
 Zin wrath
 
-Aquellos bajo la ira de Zin Will encuentran sus mutaciones beneficiosas despojadas,
+Aquellos bajo la ira de Zin encuentran sus mutaciones beneficiosas despojadas,
 sus enemigos alertados, y sus sentidos confundidos por los axiomas de la ley;
-confusión, desmayo, ceguera y completa Paralysis Will ser su suerte.
+confusión, desmayo, ceguera y completa Paralysis ser su suerte.
 
 %%%%
 Wu Jian extra

@@ -1,13 +1,13 @@
 %%%%
 flame cloud
 
-Una nube de fuego furioso. Cualquier criatura no totalmente inmune al fuego Will ser herido
+Una nube de fuego furioso. Cualquier criatura no totalmente inmune al fuego ser herido
 por el tiempo gastado en las llamas.
 
 Los ataques en frío que pasan por la nube se reducen sustancialmente en
 rango, disipando la nube en el proceso.
 
-Si se coloca cerca o sobre el agua, el calor Will genera vapor cerca.
+Si se coloca cerca o sobre el agua, el calor genera vapor cerca.
 
 %%%%
 noxious fumes cloud
@@ -19,7 +19,7 @@ las criaturas más experimentadas son menos propensos a ser afectadas.
 %%%%
 freezing vapour cloud
 
-Una nube de aire helado. Cualquier criatura no totalmente inmune al frío Will ser herida
+Una nube de aire helado. Cualquier criatura no totalmente inmune al frío ser herida
 por el tiempo pasado dentro.
 
 Los ataques de fuego extendidos que pasan por la nube se reducen sustancialmente en
@@ -28,7 +28,7 @@ rango, disipando la nube en el proceso.
 %%%%
 poison gas cloud
 
-Una nube de veneno mortal. Cualquier criatura sin resistencia al veneno Will ser
+Una nube de veneno mortal. Cualquier criatura sin resistencia al veneno ser
 ambos envenenados y directamente dañados por el tiempo gastado en él.
 
 %%%%
@@ -68,21 +68,21 @@ estornudos. Tal vez metafísicamente grosero, pero de otro modo inofensivo.
 %%%%
 spreading flames cloud
 
-Un incendio forestal en llamas. Cualquier criatura no totalmente inmune al fuego Will ser lastimada
-tiempo pasado en las llamas. Las llamas Will intermitentemente se encienden y llenan
+Un incendio forestal en llamas. Cualquier criatura no totalmente inmune al fuego ser lastimada
+tiempo pasado en las llamas. Las llamas intermitentemente se encienden y llenan
 sus alrededores con fuegos menores. Cualquier árbol lo suficientemente desafortunado como para estar cerca
-Will a menudo se encuentran transformados en más amables para el fuego.
+a menudo se encuentran transformados en más amables para el fuego.
 
 Los ataques en frío que pasan por la nube se reducen sustancialmente en
 rango, disipando la nube en el proceso.
 
-Si se coloca cerca o sobre el agua, el calor Will genera vapor cerca.
+Si se coloca cerca o sobre el agua, el calor genera vapor cerca.
 
 %%%%
 steam cloud
 
-Una nube de vapor de escalada. Creatures caught within Will be levemente injured,
-y resistencia al fuego Will reducen aún más el daño.
+Una nube de vapor de escalada. Creatures caught within be levemente injured,
+y resistencia al fuego reducen aún más el daño.
 
 %%%%
 ink cloud
@@ -100,14 +100,14 @@ para resistir los efectos.
 blessed fire cloud
 
 Una nube de fuego divino, impregnada de poder santo. Aquellos al servicio de uno de los
-los buenos dioses Will no sean afectados por ello. Todas las otras criaturas Will sean lastimadas por él,
+los buenos dioses no sean afectados por ello. Todas las otras criaturas sean lastimadas por él,
 con criaturas no muertas y demoníacas siendo grandes daños.
 
 %%%%
 foul pestilence cloud
 
 # XXX: aclarar gárgolas
-Una nube de pestilencia nefasta. Cualquier ser viviente atrapado dentro de ella Will encontrar
+Una nube de pestilencia nefasta. Cualquier ser viviente atrapado dentro de ella encontrar
 ellos mismos envenenados, y también pueden encontrar sus movimientos lentos.
 
 %%%%
@@ -132,9 +132,9 @@ agua. Los seres hechos de fuego son inversos a pasar mucho tiempo en la lluvia.
 mutagenic fog cloud
 
 Una nube de magia pura y sin estructura, condensada en una niebla desgarradora;
-esencialmente residuos mágicos tóxicos. Creatures venturing within Will find
+esencialmente residuos mágicos tóxicos. Creatures venturing within find
 cada vez más contaminados con radiación mágica, cantidades suficientes
-of which Will inflict negative mutations when dissipating.
+of which inflict negative mutations when dissipating.
 
 %%%%
 magical condensation cloud
@@ -144,7 +144,7 @@ El despertar de una energía mágica altamente concentrada, en sí misma totalme
 %%%%
 whirling frost cloud
 
-Los vientos de un vórtice polar. It Will deal severe damage to anyone within it,
+Los vientos de un vórtice polar. It deal severe damage to anyone within it,
 sólo mitigado parcialmente por la resistencia al frío.
 
 %%%%
@@ -156,27 +156,27 @@ Una nube de polvo espeso. Atmosférico, pero inofensivo.
 spectral mist cloud
 
 Una nube de niebla espectral. Causa daños menores a todas las criaturas distintas
-los no muertos. Peligrosos pero de corta vida espectral criaturas undead Will coalesce
+los no muertos. Peligrosos pero de corta vida espectral criaturas undead coalesce
 de la niebla con el tiempo.
 
 %%%%
 acidic fog cloud
 
-Una nube de ácido portador de carne, que Will daña y aplica corrosión a
-los que están dentro. La resistencia a la corrosión Will proporciona inmunidad a sus efectos.
+Una nube de ácido portador de carne, que daña y aplica corrosión a
+los que están dentro. La resistencia a la corrosión proporciona inmunidad a sus efectos.
 
 %%%%
 thunder cloud
 
-Una nube de tormenta oscura. It Will intermittently strike those within with lightning,
+Una nube de tormenta oscura. It intermittently strike those within with lightning,
 Tratar graves daños a aquellos sin resistencia a la electricidad.
 
 %%%%
 excruciating misery cloud
 
 Una nube de desesperación persistente y energía necromética. criaturas vivientes atrapadas
-dentro de Will pierden repetidamente pequeñas fracciones de su salud máxima, aunque
-protección de energía negativa Will mitigar los efectos.
+dentro de pierden repetidamente pequeñas fracciones de su salud máxima, aunque
+protección de energía negativa mitigar los efectos.
 
 %%%%
 white fluffiness cloud
@@ -200,7 +200,7 @@ ganar tremenda fuerza en combate.
 smouldering embers cloud
 
 Una nube de brasas. Puede ser fácilmente ahogado por cualquier criatura
-De pie sobre ella, pero si se deja solo Will se enciende en una nube de llama abrasadora.
+De pie sobre ella, pero si se deja solo se enciende en una nube de llama abrasadora.
 
 %%%%
 wisps of flame cloud
@@ -234,14 +234,14 @@ lo suficientemente densa como para ser dañina aún, está engrosando rápidamen
 magnetised fragments cloud
 
 Una nube de innumerables fragmentos diminutos de metal magnetizado, aún vibrando
-ligeramente de una descarga eléctrica reciente. Ellos función Will como atracción
+ligeramente de una descarga eléctrica reciente. Ellos función como atracción
 para el hechizo Magnavolt hasta que se disipan.
 
 %%%%
 bats cloud
 
 Un enjambre de pequeños murciélagos vampiro, tan denso que es imposible contarlos todos.
-Ellos Will implacablemente asaltan cualquier cosa excepto los no muertos que están en medio de ellos,
+Ellos implacablemente asaltan cualquier cosa excepto los no muertos que están en medio de ellos,
 poco a poco acercándolos a Sleep con sus mordeduras soporíficas - y continuando
 Alimenten su cuerpo indefenso, una vez que caen.
 

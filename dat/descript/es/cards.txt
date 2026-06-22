@@ -57,7 +57,7 @@ Vitriol card
 
 La tarjeta representa una planta de oklob, goteando con su salto corrosivo distintivo.
 
-Dibujo esta carta Will desencadena un hechizo de ataque corrosivo.
+Dibujo esta carta desencadena un hechizo de ataque corrosivo.
 
 %%%%
 the Storm card
@@ -65,7 +65,7 @@ the Storm card
 La tarjeta representa un barco en el mar hundiendo en una tormenta.
 
 Dibujar esta tarjeta desata una tormenta de viento y descargas eléctricas.
-Aumentar el poder de la tarjeta Will resulta en una fuerza de viento más fuerte y más fuerte,
+Aumentar el poder de la tarjeta resulta en una fuerza de viento más fuerte y más fuerte,
 numerosas descargas.
 
 %%%%
@@ -88,8 +88,8 @@ Degeneration card
 La tarjeta representa a un dragón cuyas escamas se deslumbran, revelando una oveja
 debajo.
 
-Dibujar esta tarjeta Will intentar polimorfo y malmutar enemigos cercanos en
-formas más débiles, y Will brevemente daze aquellos que no pueden ser polimorfos.
+Dibujar esta tarjeta intentar polimorfo y malmutar enemigos cercanos en
+formas más débiles, y brevemente daze aquellos que no pueden ser polimorfos.
 
 %%%%
 Wild Magic card
@@ -97,7 +97,7 @@ Wild Magic card
 La tarjeta representa el gorro de un mago puntiagudo, anotado y descansando en un montón de cenizas.
 
 Dibujar esta tarjeta causa magia salvaje (como si de malcasting un hechizo) para actuar sobre
-enemigos de su usuario. Cada criatura afectada Will restaurar algunos de los usuarios
+enemigos de su usuario. Cada criatura afectada restaurar algunos de los usuarios
 magia.
 # Invocando
 
@@ -106,14 +106,14 @@ the Elements card
 
 La tarjeta representa las figuras de grandes bestias que se acechan en una tormenta de arena.
 
-Dibujo esta carta Will convocar tres bestias de los cuatro elementos.
+Dibujo esta carta convocar tres bestias de los cuatro elementos.
 
 %%%%
 the Pentagram card
 
 La tarjeta representa a los cultos marcando un pentagrama ritual en el suelo.
 
-Dibujar esta tarjeta Will convocar un par de demonios a la ayuda del usuario. Hay un
+Dibujar esta tarjeta convocar un par de demonios a la ayuda del usuario. Hay un
 pequeña posibilidad de que uno de los demonios sea hostil.
 
 %%%%
@@ -122,7 +122,7 @@ the Dance card
 La tarjeta representa una figura extravagante y enmascarada bailando sola en una
 vasta habitación.
 
-Dibujo esta carta Will convocar un arma de baile. Su calidad, marca y
+Dibujo esta carta convocar un arma de baile. Su calidad, marca y
 La amabilidad se ve afectada por la potencia de la tarjeta.
 
 %%%%
@@ -130,7 +130,7 @@ the Swarm card
 
 La tarjeta representa un oso rodeado de un enjambre de abejas. Humsamente.
 
-Dibujo esta tarjeta Will cita abejas.
+Dibujo esta tarjeta cita abejas.
 
 %%%%
 the Rangers card
@@ -138,7 +138,7 @@ the Rangers card
 La tarjeta representa una flecha en el ojo de un toro, que ha sido dividida por un segundo
 flecha.
 
-Dibujo esta carta Will convocar a varios arqueros.
+Dibujo esta carta convocar a varios arqueros.
 
 %%%%
 the Illusion card
@@ -146,7 +146,7 @@ the Illusion card
 La tarjeta representa a alguien de pie en un pasillo de espejos, rodeado por sus propios
 reflexiones.
 
-Dibujar esta tarjeta Will convocar una ilusión del usuario. Su poder depende
+Dibujar esta tarjeta convocar una ilusión del usuario. Su poder depende
 sobre uno mismo.
 
 %%%%
@@ -155,28 +155,28 @@ Wrath card
 La carta representa la mano de lo divino, llegando de los cielos a la choza
 Rayo furioso.
 
-Dibujar esta tarjeta Will dibujar la ira de un dios contra el usuario.
+Dibujar esta tarjeta dibujar la ira de un dios contra el usuario.
 
 %%%%
 the Wraith card
 
 La tarjeta no representa absolutamente nada.
 
-Dibujo esta tarjeta Will Drain el usuario.
+Dibujo esta tarjeta Drain el usuario.
 
 %%%%
 the Swine card
 
 La tarjeta representa varios cerdos ferales revolcándose en un pozo de barro.
 
-Dibujar esta tarjeta Will hace que su usuario gire rosa y raíz para truffles.
+Dibujar esta tarjeta hace que su usuario gire rosa y raíz para truffles.
 
 %%%%
 Torment card
 
 La tarjeta representa una figura Screaming siendo torturada en el rack.
 
-Dibujar esta tarjeta Will causa daño agonizante al usuario.
+Dibujar esta tarjeta causa daño agonizante al usuario.
 
 %%%%
 a buggy card

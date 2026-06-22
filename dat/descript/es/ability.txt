@@ -36,7 +36,7 @@ nubes de vapor oscuras en su vela.
 %%%%
 Galvanic Breath ability
 
-Exhala una explosión cargada de electricidad que Will arc a través de un objetivo y cada uno
+Exhala una explosión cargada de electricidad que arc a través de un objetivo y cada uno
 otra criatura que está conectada con ella.
 
 %%%%
@@ -89,7 +89,7 @@ Word of Chaos ability
 
 Habla una palabra de caos, forzando enemigos cercanos a blink lejos del usuario.
 Además, los afectados pueden ser ralentizados, enredados o aterrorizados por los afectados
-experiencia. Invocar una palabra de caos no es una hazaña fácil y Will Drain del usuario
+experiencia. Invocar una palabra de caos no es una hazaña fácil y Drain del usuario
 salud máxima un poco, y la capacidad entonces no se puede utilizar de nuevo para un corto
 tiempo.
 
@@ -107,7 +107,7 @@ moviéndose en una pared. Hacerlo hace algo de ruido y drenajes
 la salud máxima del usuario.
 
 Una vez activado, activando la capacidad de nuevo o haciendo cualquier movimiento no-digging
-acción Will cancelar el estado de Dig.
+acción cancelar el estado de Dig.
 
 %%%%
 Shaft Self ability
@@ -152,7 +152,7 @@ crean en el futuro, reemplazando cualquier hechizo que se les haya concedido ant
 caster debe ser capaz de lanzar este hechizo ellos mismos con una tasa de fracaso
 no más del 20%.
 
-Nota: imbuir un hechizo de esta manera Will tomar varias vueltas y también descartar
+Nota: imbuir un hechizo de esta manera tomar varias vueltas y también descartar
 tu servidor si es activo.
 
 %%%%
@@ -165,7 +165,7 @@ una réplica funcional de ella cada vez que crea uno.
 %%%%
 Cacophony ability
 
-Manifiesta plenamente su naturaleza Poltergeist, haciendo que toda la armadura estáspersiguiera §
+Manifiesta plenamente su naturaleza Poltergeist, haciendo que toda la armadura estáspersiguiera 
 Fly out and attack independently of your other actions for a short while - boots
 y bufandas y cascos que salvan a sus enemigos desde todas direcciones, mientras que un gleeful
 Din llena el aire.
@@ -187,7 +187,7 @@ de su cuerpo es tan inmenso que incluso llena espacios cercanos como un ahogamie
 cloud, assailing enemigos y gradualmente ponerlos a Sleep.
 
 Después de usar esta habilidad, debes ganar puntos de experiencia antes de puedes recuperar
-suficiente poder para usarlo de nuevo. (Destreza de cambio Will aumentar la tasa a
+suficiente poder para usarlo de nuevo. (Destreza de cambio aumentar la tasa a
 que esta habilidad recarga.)
 
 %%%%
@@ -202,7 +202,7 @@ encumbrancia, y tú recibe un bono a su éxito de hechizo y poder (el
 mientras Enkindled inflige daño de bonificación proporcional al nivel de hechizo lanzado,
 y te cura por un porcentaje de los daños tratados.
 
-Cada hechizo que lanzas mientras Enkindled consume un recuerdo, y el estado Will final
+Cada hechizo que lanzas mientras Enkindled consume un recuerdo, y el estado final
 una vez tienes no más izquierda (o después de un corto período de tiempo, independientemente).
 
 En su nivel de experiencia actual, puedes tiene suficientes recuerdos para lanzar un máximo
@@ -227,10 +227,10 @@ Recite ability
 Preaches to nearby monstruos about Zin's laws for a short duration. Después
 terminar una recitación, no puede repetirse por un corto tiempo.
 
-La recitación Will tiene diferentes efectos dependiendo del objetivo: el caótico
-e impuro Will ser afectado por efectos poderosos y dañinos, no muertos y
-demonios Will ser afectados por reprensiones más débiles, y cualquier otra criatura inteligente
-Will tienen confusión sembrada entre ellos, con herejes y sacerdotes de dioses otros
+La recitación tiene diferentes efectos dependiendo del objetivo: el caótico
+e impuro ser afectado por efectos poderosos y dañinos, no muertos y
+demonios ser afectados por reprensiones más débiles, y cualquier otra criatura inteligente
+tienen confusión sembrada entre ellos, con herejes y sacerdotes de dioses otros
 que Zin siendo castigado mucho más fuerte. La eficacia de la recitación
 aumenta por la habilidad y la piedad de las invocaciones.
 
@@ -264,12 +264,12 @@ Se curan todas tus mutaciones — pero sólo por una vez.
 Divine Shield ability
 
 Manifiesta un blindante brillante escudo delante del usuario. Held aloft by the
-Shining One's power, it Will unerringly block the next several attacks which
-podría ser bloqueado por un escudo mundano. Los ataques extendidos Will se reflejan y se milan
+Shining One's power, it unerringly block the next several attacks which
+podría ser bloqueado por un escudo mundano. Los ataques extendidos se reflejan y se milan
 los atacantes tienen la oportunidad de ser brevemente cegados por el flash resultante de
 Luz.
 
-Este escudo Will bloquea sólo un número limitado de ataques antes de desaparecer, con
+Este escudo bloquea sólo un número limitado de ataques antes de desaparecer, con
 Invocaciones de habilidad aumentando cuántos.
 
 %%%%
@@ -291,7 +291,7 @@ este mundo.
 Brand Weapon With Holy Wrath ability
 
 Bendice permanentemente un arma de su elección con el ira divina del Shining
-Uno. Las armas demonio Will se convierten en un arma sagrada más poderosa. Esto
+Uno. Las armas demonio se convierten en un arma sagrada más poderosa. Esto
 la bendición sólo se puede utilizar una vez, y no se puede utilizar en armas de artefacto.
 
 %%%%
@@ -339,21 +339,21 @@ Aquellos que han ganado algunos de los favores de Yredelemnul se dan regalos tem
 siervos no muertos para ayudar a comenzar su conquista, siendo siervos más fuertes
 proporcionado a los experimentados y especialmente piadosos.
 
-Yredelemnul no ofrece segundas oportunidades - la antorcha Will se extinguirá cuando
+Yredelemnul no ofrece segundas oportunidades - la antorcha se extinguirá cuando
 sales del piso actual, y sólo puede ser iluminado una vez por piso, siempre.
 
 %%%%
 Hurl Torchlight ability
 
 Abraza un fuego umbral de la Antorcha Negra, que trata irresistible
-daño a seres vivos, demoníacos y santos. La linterna Will también brevemente
+daño a seres vivos, demoníacos y santos. La linterna también brevemente
 empoderar a cualquiera de sus sirvientes no muertos atrapados en su explosión, y es inofensivo
 los que adoran Yredelemnul. El daño se incrementa por la habilidad Invocations.
 
 Esta capacidad se puede utilizar sólo mientras la antorcha está encendida, y sólo un número limitado
 de veces en cada piso. El número de usos disponibles por piso aumenta con
 piedad, y golpeando las llamas de la Antorcha Negra con un alma particularmente notable
-matando a un enemigo único llamado Will también proporcionan un uso adicional.
+matando a un enemigo único llamado también proporcionan un uso adicional.
 
 %%%%
 Bind Soul ability
@@ -374,11 +374,11 @@ Fathomless Shackles ability
 
 Engulfs el entorno del usuario en Yredelemnul es un agarre inexorable. Mientras tú
 permanecer dentro de este santuario profano, todas las criaturas hostiles que lo comparten con
-tu Will estar atado en su lugar, y su fuerza de vida Will ser continuamente drenado a
-restaurar el suyo. Las víctimas que están aisladas de sus aliados Will toman daño en
+tu estar atado en su lugar, y su fuerza de vida ser continuamente drenado a
+restaurar el suyo. Las víctimas que están aisladas de sus aliados toman daño en
 una tasa mucho mayor.
 
-El área afectada Will se encoge con el tiempo, y una nueva no se puede crear hasta
+El área afectada se encoge con el tiempo, y una nueva no se puede crear hasta
 el viejo ha caducado completamente.
 
 %%%%
@@ -398,11 +398,11 @@ exposición prolongada puede ser mala para tu salud.
 Duel ability
 
 Te entra en combate único con un enemigo digno. Con éxito, tú y el
-desafiado foe Will ser transportado a Okawaru's Arena para luchar hasta la muerte,
+desafiado foe ser transportado a Okawaru's Arena para luchar hasta la muerte,
 sin escape hasta que salgas victorioso o seas muerto.
 
-La mitad de su salud perdida Will ser restaurado mientras el duelo comienza, y sobre
-victoria, Okawaru Will devolver su salud y poder mágico a lo que sea
+La mitad de su salud perdida ser restaurado mientras el duelo comienza, y sobre
+victoria, Okawaru devolver su salud y poder mágico a lo que sea
 antes de que tú emitió el desafío - dejar que sacudir cualquier daño tomado
 durante él en el blink de un ojo.
 
@@ -441,14 +441,14 @@ Brand Self ability
 Permanentemente talla una marca infernal en ti mismo, para siempre cuerpo y
 alma al servicio del Destructor.
 
-Mientras sigas adorando Makhleb, esta marca Will te otorga la
+Mientras sigas adorando Makhleb, esta marca te otorga la
 siguiente poder:
 
 %%%%
 Infernal Legion ability
 
 Usa el propio cuerpo como conducto para desencadenar un ejército de caos sobre el mundo.
-Por un corto tiempo, demonios menores Will se manifiestan continuamente cerca del usuario -
+Por un corto tiempo, demonios menores se manifiestan continuamente cerca del usuario -
 siempre que hay algo alrededor para que peleen. Mientras estos demonios puedan
 ser individualmente de corta duración, las legiones del caos en su conjunto son virtualmente
 inagotable.
@@ -458,9 +458,9 @@ Globe of Annihilation ability
 
 Lanza una esfera rugiente de fuerza destructiva intensa dibujada desde el   LUA0  
 
-Esta esfera reúne fuerza a medida que viaja, y Will intentan entrar en un
+Esta esfera reúne fuerza a medida que viaja, y intentan entrar en un
 objetivo designado, aunque se mueve y gira con inercia considerable. Cuando sea
-colisiona con una criatura u otra obstrucción, Will detona en un violento
+colisiona con una criatura u otra obstrucción, detona en un violento
 explosión de   LUA1   cuyo radio depende de la distancia viajada.
 
 Estás protegido de esta explosión.
@@ -471,13 +471,13 @@ Vessel of Slaughter ability
 Invoca un pacto de sangre con el Destructor, otorgando temporalmente un enorme poder
 a un precio peligroso.
 
-En el momento en que el pacto está sellado, una explosión masiva de condenación Will rodea
+En el momento en que el pacto está sellado, una explosión masiva de condenación rodea
 tú, y tú... te transformas en un avatar demoníaco, concediéndote demoníaco.
 resistencias, invulnerables Will, doble curación de los asesinatos, y reduciendo todo
-daño que tomas por 1/3. Tú Will además ganar un bono a todos los salientes
+daño que tomas por 1/3. Tú además ganar un bono a todos los salientes
 daño proporcional a lo lesionado que estabas cuando usaste esta habilidad.
 
-Cuando su transformación expira, tú Will ser arrastrado hacia abajo en el Crucible de
+Cuando su transformación expira, tú ser arrastrado hacia abajo en el Crucible de
 Flesh, y hecho para luchar a través de olas de demonios hasta Makhleb considera sus
 deuda pagada.
 
@@ -504,10 +504,10 @@ niveles equivalentes de capacitación en las habilidades pertinentes del propio 
 Berserk ability
 
 Envía al usuario a una rabia Berserk. Going Berserk aumenta temporalmente la salud,
-la velocidad y el daño se reparten en la melee. It Will time out quickly outside of combat,
+la velocidad y el daño se reparten en la melee. It time out quickly outside of combat,
 pero puede ser extendido por múltiples asesinatos. Mientras Berserk, casi todas las acciones otras
 que el movimiento y el combate melee se evitan. Cuando la rabia expira, el usuario
-Will ser retardado e incapaz de Berserk de nuevo por un corto tiempo.
+ser retardado e incapaz de Berserk de nuevo por un corto tiempo.
 
 %%%%
 Trog's Hand ability
@@ -525,13 +525,13 @@ Convocas a aliados enormes y furiosos para causar estragos.
 Purification ability
 
 Provoca su cuerpo de veneno, confusión, lentitud, petrificación, debilidad y
-enfermedad. Cualquier salud máxima drenada Will también será completamente restaurada.
+enfermedad. Cualquier salud máxima drenada también será completamente restaurada.
 
 %%%%
 Heal Other ability
 
 Cura a una criatura que no sea tú por una cantidad moderada, dependiendo de
-Invocaciones de habilidad. Usando esta habilidad en monstruos hostiles Will tratar de convertirlos
+Invocaciones de habilidad. Usando esta habilidad en monstruos hostiles tratar de convertirlos
 neutral. Esto funciona mejor en las criaturas vivientes, siendo los demonios y los muertos vivientes
 progresivamente más difícil de pacificar. Las criaturas inteligentes también son más difíciles
 para pacificar.
@@ -554,7 +554,7 @@ Cura una cantidad moderada de salud, dependiendo de la habilidad Invocations.
 Divine Vigour ability
 
 Aumenta mucho su salud máxima y puntos de magia, dependiendo de
-Invocaciones de habilidad. Su salud actual y puntos de magia Will también aumentan
+Invocaciones de habilidad. Su salud actual y puntos de magia también aumentan
 proporcionalmente.
 
 %%%%
@@ -621,7 +621,7 @@ Smiting ability
 
  REF0  La fuerza del smiting se aumenta por la habilidad de las invocaciones.
 
-Beogh Will no permite que tú utilice esto directamente contra otro apóstol durante un
+Beogh no permite que tú utilice esto directamente contra otro apóstol durante un
 prueba divina.
 
 %%%%
@@ -643,7 +643,7 @@ Unge a un apóstol derrotado, y los acoge como un seguidor permanente. Ellos...
 seguirte entre pisos y en cualquier peligro, dando voluntariamente su vida por
 la causa y sus parientes.
 
-Si mueren, Beogh Will eventualmente reviven una vez que ganan suficiente piedad -
+Si mueren, Beogh eventualmente reviven una vez que ganan suficiente piedad -
 este proceso se puede acelerar enormemente satisfaciendo Beogh con el asesinato de
 todos los enemigos que hayan contribuido a la muerte de su apóstol.
 
@@ -654,9 +654,9 @@ descartar libremente a los viejos para invitar a los nuevos.
 Blood for Blood ability
 
 Beseeches Beogh para otorgarle un ejército con el que arruinar la retribución sangrienta.
-El usuario Will estar inmediatamente rodeado por aliados orcos, con más de ellos
+El usuario estar inmediatamente rodeado por aliados orcos, con más de ellos
 llegar con el tiempo de todas las direcciones. La oración dura un considerable
-la duración del tiempo, pero Will caduca mucho más rápidamente una vez que no hay más enemigos en
+la duración del tiempo, pero caduca mucho más rápidamente una vez que no hay más enemigos en
 Mira.
 
 Útil sólo mientras estás de pie sobre el cuerpo de uno de sus apóstoles, y
@@ -682,7 +682,7 @@ así como daño de sus esporas explosivas.
 Overgrow ability
 
 Destruye permanentemente una estructura similar a la pared, creciendo un aliado de planta de corta duración en
-su lugar. Incluso un árbol Will da su vida para apoyar el Will de Fedhas, y
+su lugar. Incluso un árbol da su vida para apoyar el de Fedhas, y
 Sólo paredes verdaderamente indestructibles son inmunes a este poder.
 
 %%%%
@@ -749,9 +749,9 @@ Shadowslip ability
 
 Intercambia instantáneamente lugares con su sombra (siempre que sea activa) y malévolas
 todos los enemigos a la vista sobre cuál de los dos es cuál. Enemigos que fueron
-anteriormente centrado en tú Will en lugar de centrar su atención exclusivamente en
+anteriormente centrado en tú en lugar de centrar su atención exclusivamente en
 su sombra por varios giros antes de darse cuenta de su error - aunque si
-tener éxito en destruir tu sombra, la ilusión Will termina prematuramente.
+tener éxito en destruir tu sombra, la ilusión termina prematuramente.
 
 La duración de este efecto aumenta con la habilidad Invocations, como Will
 durabilidad de tu sombra inmediatamente después de usarlo.
@@ -761,8 +761,8 @@ Aphotic Marionette ability
 
 Agarra la sombra de otra criatura y desata rápidamente sus hechizos y
 habilidades como si fueran tuyas, dirigidas a enemigos aleatorios. Creatures they
-citar así Will pertenece a tú, y muchos efectos beneficiosos que ellos harían
-aplicar a ellos mismos Will ser aplicado a tú en su lugar. Tú también está completamente protegido
+citar así pertenece a tú, y muchos efectos beneficiosos que ellos harían
+aplicar a ellos mismos ser aplicado a tú en su lugar. Tú también está completamente protegido
 por cualquier daño que causarían.
 
 Sólo se puede utilizar en criaturas con hechizos elegibles que podrían productivamente
@@ -770,14 +770,14 @@ De momento. El proceso también deja la sombra de la víctima demasiado tensa pa
 una segunda vez - una vez utilizado con éxito en un objetivo, puede nunca ser utilizado en ellos
 otra vez.
 
-(No todos los hechizos pueden ser emitidos a través de este método; aquellos que no pueden Will ser marcados
+(No todos los hechizos pueden ser emitidos a través de este método; aquellos que no pueden ser marcados
 con una marca de exclamación cuando se examina.)
 
 %%%%
 Primordial Nightfall ability
 
 Invoca una noche desde antes que las estrellas quemaron primero en el cielo, envolviendo tu
-entorno en oscuridad impenetrable. El radio visual del usuario Will se reduce
+entorno en oscuridad impenetrable. El radio visual del usuario se reduce
 a nada, evitando que los enemigos rastreen o apunten habilidades a tú, y
 se expande lentamente hacia la normalidad durante la duración del efecto. Tu robo...
 también aumentar.
@@ -792,7 +792,7 @@ Potion Petition ability
 
 Peticiones Gozag para venderle los efectos de un conjunto de pociones. (Estos efectos Will
 se aplica de manera instantánea y directa al peticionario, en lugar de ser proporcionado
-o estar borracho como una poción normal.) Gozag Will ofrecen tres listas a la vez, con
+o estar borracho como una poción normal.) Gozag ofrecen tres listas a la vez, con
 precios variables.
 
 %%%%
@@ -807,16 +807,16 @@ Bribe Branch ability
 Da 3000 oro a Gozag para extenderse a través de los habitantes de la corriente
 rama, sólo posible si la rama tiene habitantes inteligentes. Esos monstruos
 puede entonces ser ininteresado en la lucha contra tú (con habitantes más duros tener
-una oportunidad creciente de ser sobornado), y más raramente Will se unen a sus filas,
+una oportunidad creciente de ser sobornado), y más raramente se unen a sus filas,
 Aunque no dejan su rama de casa. Enemigos aceptando un soborno Will
-bajar el fondo de soborno restante; cuando se agota, los enemigos sobornados Will se vuelven
+bajar el fondo de soborno restante; cuando se agota, los enemigos sobornados se vuelven
 indiferente si no se han convertido en sus aliados.
 
 %%%%
 Upheaval ability
 
 Llama a las fuerzas de la naturaleza a volar una pequeña zona con magma, hielo, viento,
-o escombros. Esta explosión Will nunca te daña ni ningún elemental manifestado por ti.
+o escombros. Esta explosión nunca te daña ni ningún elemental manifestado por ti.
 La habilidad de invocaciones aumenta tanto el daño como el área afectada.
 
 %%%%
@@ -949,7 +949,7 @@ inmediatamente y también tener el nivel máximo puedes alcanza reducido por uno
 Sacrifice Skill ability
 
 Sacrifica tus habilidades, haciendo que tengas todas tus habilidades
-disminuyó en uno. Este Will probablemente te haga perder rangos en habilidades entrenadas.
+disminuyó en uno. Este probablemente te haga perder rangos en habilidades entrenadas.
 
 %%%%
 Sacrifice an Eye ability
@@ -965,12 +965,12 @@ vulnerable al calor y al frío.
 %%%%
 Reject Sacrifices ability
 
-Rechaza todos los sacrificios ofrecidos. Hacerlo significa § § § § § § § § § § § § § 1. Tomar más tiempo
-evaluar su preparación para futuros sacrificios. Ru Will not offer more
+Rechaza todos los sacrificios ofrecidos. Hacerlo significa              1. Tomar más tiempo
+evaluar su preparación para futuros sacrificios. Ru not offer more
 sacrificios mientras hay una oferta existente todavía extendida.
 
 Cada rechazo consecutivo aumenta significativamente el temporizador de sacrificio.
-Aceptar un sacrificio Will restablecer el temporizador a la longitud estándar.
+Aceptar un sacrificio restablecer el temporizador a la longitud estándar.
 
 %%%%
 Stomp ability
@@ -983,7 +983,7 @@ su salud actual, más daño aumentando con habilidad Invocations.
 Line Pass ability
 
 Pasa por una línea contigua de criaturas a velocidad superhumana, terminando
-en una nueva ubicación. Cualquier criatura pasó por aquí Will sea confundido
+en una nueva ubicación. Cualquier criatura pasó por aquí sea confundido
 brevemente, con la duración de la confusión aumentando con la habilidad Invocations.
 
 %%%%
@@ -1016,7 +1016,7 @@ Todos los demás dios odian a Beogh, y no se tomarán la deserción a la ligera.
 %%%%
 Donate Gold ability
 
-Dona la mitad de tu oro a Zin, que Will aumenta tu piedad con el tiempo. El
+Dona la mitad de tu oro a Zin, que aumenta tu piedad con el tiempo. El
 El aumento general se determina por el tamaño de su donación.
 
 %%%%
@@ -1040,7 +1040,7 @@ Transference ability
 Fuerzas una criatura dirigida a pasar por los reinos de la memoria y el intercambio
 lugares con su antepasado.
 
-Con gran piedad, aquellos cerca del objetivo Will se drenan en un grado dependiendo
+Con gran piedad, aquellos cerca del objetivo se drenan en un grado dependiendo
 sobre Invocaciones habilidad.
 
 %%%%
@@ -1101,7 +1101,7 @@ Te golpeo en la melee. El fuego tarda mucho en quemar.
 Foxfire Swarm ability
 
 Conjura un enjambre de llamas animadas a tu alrededor. Estos buscan rápidamente
-monstruos más cercanos, quemándolos. They Will dissipate harmlessly if unable to
+monstruos más cercanos, quemándolos. They dissipate harmlessly if unable to
 alcanzar un objetivo o si cambias de lugar con ellos.
 
 %%%%
@@ -1115,7 +1115,7 @@ sólo se puede utilizar una vez.
 Hop ability
 
 Hops hacia un destino elegido, landing en algún lugar cercano. Después de usar esto
-habilidad, tú Will no puede saltar de nuevo hasta que tienespasó algún tiempo no
+habilidad, tú no puede saltar de nuevo hasta que tienespasó algún tiempo no
 moviéndose. (Otras acciones, como el casting hechizos y el ataque, están bien.)
 
 %%%%
@@ -1123,7 +1123,7 @@ Blinkbolt ability
 
 Convierte al usuario en un rayo viviente y los libera al monstruo elegido,
 tratar el daño eléctrico a todo en su camino y depositar al usuario
-al final del perno. Después de usar esta habilidad, tú Will no puede utilizarla
+al final del perno. Después de usar esta habilidad, tú no puede utilizarla
 otra vez por un corto tiempo.
 
 %%%%
@@ -1131,13 +1131,13 @@ Siphon Essence ability
 
 Tormentos cerca de enemigos vivos, amalgamando su salud. El dolor infligido cura
 el usuario hasta un punto determinado por Shapeshifting habilidad. Después de usar esto
-habilidad, tú Will no puede utilizarlo de nuevo por un corto tiempo.
+habilidad, tú no puede utilizarlo de nuevo por un corto tiempo.
 
 %%%%
 Evoke the Sceptre of Asmodeus ability
 
 Llama al poder de Asmodeus para convocar demonios ardientes del infierno. Los demonios
-Will sigue siendo amistoso sólo por un tiempo limitado, eventualmente convirtiéndose
+sigue siendo amistoso sólo por un tiempo limitado, eventualmente convirtiéndose
 hostil antes de desaparecer. El éxito de las escalas de habilidad con las Evocaciones
 habilidad, y esta habilidad está disponible sólo mientras que el esceptro
 Asmodeus.
@@ -1163,7 +1163,7 @@ mientras ejerce el Estado Mayor de Olgreb.
 Jump ability
 
 Leaps through the air in the blink of an eye. Aunque es imposible controlar
-tu destino, el movimiento es tan abrupto y ágil que ningún monstruo §NT§ sea
+tu destino, el movimiento es tan abrupto y ágil que ningún monstruo NT sea
 capaz de aterrizar un golpe en tú hasta que puedes actuar de nuevo, y muchos pueden perder pista de
 tu posición enteramente.
 
@@ -1173,7 +1173,7 @@ Tú debe pasar un corto mientras se recupera entre cada uso de esta habilidad.
 Watery Grave ability
 
 Convierte todo el agua cerca de ti en una marea que intenta ahogar cada
-enemigo parado en o sobre él. Aquellos que necesitan aire para respirar Will también se vuelven
+enemigo parado en o sobre él. Aquellos que necesitan aire para respirar también se vuelven
 Inundado, impidiéndoles desechar hechizos afectados por el silencio para varios
 daños menores de asfixia.
 

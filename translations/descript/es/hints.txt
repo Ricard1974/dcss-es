@@ -14,7 +14,7 @@ Por el momento, recuerde las siguientes teclas y sus funciones:
 (pero note que la muerte es permanente)
 <input>$cmd[CMD_LOOK_AROUND]</input> examina algo en sus alrededores
 
-El modo de insinuación Will te ayuda a jugar Crawl sin leer ninguna documentación. Si
+El modo de insinuación te ayuda a jugar Crawl sin leer ninguna documentación. Si
 Aún no, quieres probar el tutorial. Además, si sientes
 intrigado, hay más información disponible en los siguientes archivos de los
 docs/ directory (todo lo cual también se puede leer en el juego):
@@ -31,7 +31,7 @@ death
 
 ¡Condolencias! La muerte prematura de tu personaje es triste, pero ocurrencia común
 en Crawl. Tenga la seguridad de que con diligencia y experiencia de juego
-caracteres Will duran más tiempo.
+caracteres duran más tiempo.
 
 Tal vez el siguiente consejo puede mejorar su estilo de juego:
 
@@ -63,7 +63,7 @@ death random 1
 
 Aprenda cuándo escapar de las cosas puedes no manejar — ¡esto es importante! Es
 a menudo sabio para saltar un nivel particularmente peligroso. Pero no exageres esto como
-monstruos Will sólo consiguen más duro el más profundo que acaricias.
+monstruos sólo consiguen más duro el más profundo que acaricias.
 
 %%%%
 death random 2
@@ -71,13 +71,13 @@ death random 2
 Descanso entre encuentros, si es posible en un área ya explorada y despejada de
 monstruos. Prensa <input>$cmd[CMD_REST] </input><localtiles>, or
 <input>haga clic en el botón 'resto' en la barra de comandos</input></localtiles>
-Will descanso para 100 vueltas, o hasta que esté completamente curado.
+descanso para 100 vueltas, o hasta que esté completamente curado.
 
 %%%%
 death random 3
 
 Recuerda usar esos pergaminos, pociones o varitas que has encontrado. Aprender a
-improvisar: tú Will necesita identificar pociones y pergaminos utilizando ellos.
+improvisar: tú necesita identificar pociones y pergaminos utilizando ellos.
 
 %%%%
 death random 4
@@ -97,14 +97,14 @@ finished
 
 ¡Felicidades! Sobreviviste hasta el final del modo de pistas - asegúrese de probar el
 otros personajes también. Tenga en cuenta que el comando ayuda pantalla
-(<input>$cmd[CMD_DISPLAY_COMMANDS]?</input>) Will parecen muy diferentes desde ahora
+(<input>$cmd[CMD_DISPLAY_COMMANDS]?</input>) parecen muy diferentes desde ahora
 adelante. Aquí hay una última pista de juego:
 
 %%%%
 finished explored
 
 Caminando por ahí y explorando niveles se hace más fácil usando autoexplor
-(<input>$cmd[CMD_EXPLORE]</input>). Crawl Will te permite moverte automáticamente
+(<input>$cmd[CMD_EXPLORE]</input>). Crawl te permite moverte automáticamente
 y recoger artículos interesantes. <localtiles>
 
 La autoexploración también puede ser iniciada por <input>Ctrl-Leftclick</input> en el
@@ -116,14 +116,14 @@ finished travel
 Hay una manera conveniente de viajar entre los niveles distantes de mazmorras: la prensa
 <input>$cmd[CMD_INTERLEVEL_TRAVEL]</input> y entrar en el destino deseado.
 Si su viaje se interrumpe, emitiendo <input>$cmd[CMD_INTERLEVEL_TRAVEL]
-Entrar</input> Will continuar.
+Entrar</input> continuar.
 
 %%%%
 finished stashes
 
 Tú puede buscar entre todos los elementos existentes en la Mazmorra con el
 <input>$cmd[CMD_SEARCH_STASHES]</input> command. Por ejemplo,
-<input>$cmd[CMD_SEARCH_STASHES]</input> <w> "dagger"</w> Will list all daggers,
+<input>$cmd[CMD_SEARCH_STASHES]</input> <w> "dagger"</w> list all daggers,
 y te permite viajar a ellos. Incluso puede buscar características de mazmorra, como
 <w> "shop"</w> o <w> "altar"</w>.
 
@@ -141,7 +141,7 @@ finished random 1
 
 Crawl tiene una función macro construida en: prensa <input>$cmd[CMD_MACRO_MENU] </input>
 para definir una macro especificando primero una tecla de activación (por ejemplo, <input>F1</input>)
-y una secuencia de comandos, por ejemplo <input>za.</input>. El último Will hacer
+y una secuencia de comandos, por ejemplo <input>za.</input>. El último hacer
 la tecla <input>F1</input> siempre activa el hechizo en ranura a la más cercana
 monstruo. Para más información sobre macros, escriba
 <input>$cmd[CMD_DISPLAY_COMMANDS]~</input>.
@@ -166,7 +166,7 @@ HINT_CONVERT Ashenzari
 Acabas de convertirte en adorar <w>Ashenzari</w>. A diferencia de otros dioses,
 Ashenzari sólo se preocupa por las maldiciones. Mientras exploras la Mazmorra, Ashenzari Will
 ofrecer maldiciones, guardar un artículo sobre ti. Los artículos más malditos que llevas, más
-Ashenzari Will mejorar sus habilidades y de otro modo ayudarle.
+Ashenzari mejorar sus habilidades y de otro modo ayudarle.
 
 %%%%
 HINT_CONVERT Gozag
@@ -181,8 +181,8 @@ HINT_CONVERT Ru
 Te has convertido en adorar <w>Ru</w>. A diferencia de otros dioses, Ru subvenciones
 piedad a cambio de sacrificios permanentes, como perder el
 habilidad para entrenar ciertas habilidades, o perder permanentemente una mano. Cuanto más piedad
-tienes, las mayores habilidades Ru Will Grant, y las más poderosas
-habilidades Will se convierten. Ru Will ofrecen más sacrificios mientras exploras las Profundidades
+tienes, las mayores habilidades Ru Grant, y las más poderosas
+habilidades se convierten. Ru ofrecen más sacrificios mientras exploras las Profundidades
 de la Mazmorra.
 
 %%%%
@@ -215,7 +215,7 @@ la muerte, y puedes los envían a invocar la ayuda del Yredelemnul.
 HINT_CONVERT
 
 Acabas de convertirte en adorar <w> LUA0</w>. Tu piedad
-(a favor divino) Will aumentar mientras tú hace cosas para complacer a su nuevo dios, y Will
+(a favor divino) aumentar mientras tú hace cosas para complacer a su nuevo dios, y Will
 disminuyendo gradualmente con el tiempo.
 
 Tú puede comprobar los gustos y disgustos de su dios, así como su posición actual
@@ -228,14 +228,14 @@ HINT_SEEN_FIRST_OBJECT
 
 Ese <console>$1 </console> es un elemento. Si te mueves ahí y presionas
 <input>$cmd[CMD_PICKUP] </input><localtiles>, o <input>left-click</input> on it
-en su inventario</localtiles>, tú Will recogerlo. <console> Generalmente, artículos
+en su inventario</localtiles>, tú recogerlo. <console> Generalmente, artículos
 son mostrados por símbolos no letras como <w>%?!"=()[ </w>.</console> Algunos
 objetos<tiles>, marcado con un marco verde,</tiles> Will
 automáticamente.
 
 Una vez que esté en su inventario, puedes la gota de nuevo con <localtiles>a
 <input>Shift-left-click</input>. Siempre que tú <input>haga clic derecho</input> on an
-item</localtiles>§AG20<input>$cmd[CMD_DROP]</input>. Cuando mires a un
+item</localtiles>AG20<input>$cmd[CMD_DROP]</input>. Cuando mires a un
 artículo en su inventario (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>)</console>,
 puedes leer sobre sus propiedades y su descripción.
 
@@ -283,13 +283,13 @@ ortografías de ella a través de <w>$cmd[CMD_MEMORISE_SPELL]</w>, y fundirlas c
 %%%%
 HINT_SEEN_WEAPON
 
-Esta es la primera arma §<console> ('<w>$item[nuclear]</w>')</console>
+Esta es la primera arma <console> ('<w>$item[nuclear]</w>')</console>
 recogido. Use <w>$cmd[CMD_WIELD_WEAPON] </w><localtiles> or
 <w>-left-click</w> on it</localtiles> to wield it, but be aware that this
 arma Might entrena una habilidad diferente de la actual. Puedes ver el
 propiedades de su arma
-<w>$cmd[CMD_DISPLAY_INVENTORY]§AG§12§nventory<localtiles> or by
-§AG14 §-click derecho</w> en él</localtiles>.
+<w>$cmd[CMD_DISPLAY_INVENTORY]AG12nventory<localtiles> or by
+AG14 -click derecho</w> en él</localtiles>.
 
  LUA0
 
@@ -310,9 +310,9 @@ HINT_SEEN_ARMOUR
 
 Esta es la primera pieza de armadura<console> ('<w>$item[armour]</w>')</console>
 Has recogido. <localtiles>Tú puede hacer clic en él para usarlo, y haga clic de nuevo
-para quitarlo. <w>Haciendo clic derecho</w> en él Will dar más información.
+para quitarlo. <w>Haciendo clic derecho</w> en él dar más información.
 </localtiles><nomouse>Use <w>$cmd[CMD_WEAR_ARMOUR]</w> para usarlo y
-<w>$cmd[CMD_REMOVE_ARMOUR]AG13§ to take it off again. Tú puede ver su
+<w>$cmd[CMD_REMOVE_ARMOUR]AG13 to take it off again. Tú puede ver su
 propiedades de su <w>$cmd[CMD_DISPLAY_INVENTORY]</w>nventory.
 </nomouse>
 
@@ -328,7 +328,7 @@ amulet<console> ('<w>$item[amulet]</w>')</console>.
 <w>$cmd[CMD_REMOVE_JEWELLERY]</w> para eliminarlo. Tú puede ver sus propiedades
 de su <w>$cmd[CMD_DISPLAY_INVENTORY]</w>nventory.</nomouse>
 <localtiles>Tú puede hacer clic en él para ponerlo en, y haga clic de nuevo para eliminarlo. Por
-§AG17 §-click derecho</w> on it, puedes sus propiedades.</localtiles>
+AG17 -click derecho</w> on it, puedes sus propiedades.</localtiles>
 
 %%%%
 HINT_SEEN_MISC
@@ -370,7 +370,7 @@ HINT_SEEN_ESCAPE_HATCH
 
 Este_artículo_es_una_escotilla_de_escape._Puedes_usarlo_para_dejar_un
 nivel_con_<w>$cmd[CMD_GO_UPSTAIRS]</w> y <w>$cmd[CMD_GO_DOWNSTAIRS] </w>
-§<localtiles> (o por §<w>-left-clicking</w>)</localtiles>, como escaleras;
+<localtiles> (o por <w>-left-clicking</w>)</localtiles>, como escaleras;
 a diferencia de las escaleras, sin embargo, los cascos son un viaje de ida, así que tenga cuidado cuando
 descendiendo!
 
@@ -383,7 +383,7 @@ entradas a otras ramas. Puedes aprender más examinando esto
 entrada<localtiles> por acaparar el ratón sobre su baldosa</localtiles><nomouse
 by pressing <w>$cmd[CMD_LOOK_AROUND]</w> y mover el cursor sobre él."
 
-Algunas ramas Will sean mucho más seguras y gratificantes que su rama actual.
+Algunas ramas sean mucho más seguras y gratificantes que su rama actual.
 Otros pueden ser muy peligrosos, mejor visitados cuando su carácter es más
 poderoso.
 
@@ -392,14 +392,14 @@ HINT_SEEN_PORTAL
 
 Esta sección<console> '$1'</console> es un portal a un nivel opcional, ofreciendo extra
 botín a cambio de peligro extra. No hay penalidad para saltarlo, pero el
-portal Will desaparecen si esperas, así que tienes decidir ahora si quieres arriesgarte
+portal desaparecen si esperas, así que tienes decidir ahora si quieres arriesgarte
 Es.
 
 %%%%
 HINT_SEEN_BAZAAR_PORTAL
 
 Esta frase "1'</console> es un portal a una Bazaarinterdimensional llenada
-con tiendas. It Will desaparece si no entras pronto, así que date prisa.
+con tiendas. It desaparece si no entras pronto, así que date prisa.
 
 %%%%
 HINT_SEEN_PORTAL_2
@@ -425,13 +425,13 @@ HINT_HEAP_BRAND
 <tiles>Un pequeño símbolo en una ficha de elemento significa que hay al menos otro
 artículo en el mismo montón que puedes quiere comprobar fuera. </tiles>
 <console>Si dos o más elementos están en un solo cuadrado, entonces el cuadrado Will
-resaltado, y el símbolo para el artículo en la parte superior del montón Will se muestra.
+resaltado, y el símbolo para el artículo en la parte superior del montón se muestra.
 </console>
 
 %%%%
 HINT_TRAP_BRAND
 
-<console>Si alguno de los elementos está cubriendo una trampa, entonces que Will sea indicado por
+<console>Si alguno de los elementos está cubriendo una trampa, entonces que sea indicado por
 destacando el símbolo <w>^</w>, en lugar de ocultar el símbolo de la trampa con un elemento
 Glyph. </console>
 
@@ -447,9 +447,9 @@ HINT_SEEN_ALTAR
 Esa sección<console> $1</console> es un altar.
 <localtiles>By <w>haga clic derecho</w> en él con el ratón</localtiles>
 <nomouse>Si tú apunta al altar con <w>$cmd[CMD_LOOK_AROUND]</w>, entonces pulse
-<console>0§$cmd[CMD_TARGET_DESCRIBE]<console>1§<console>2§ puedes obtener una breve descripción.
+<console>0$cmd[CMD_TARGET_DESCRIBE]<console>1<console>2 puedes obtener una breve descripción.
 
-Press <console>3§$cmd[CMD_GO_UPSTAIRS]<console>4§ or <console>5§$§cmd[CMD GO DOWNSTAIRS]<console>6§ while
+Press <console>3$cmd[CMD_GO_UPSTAIRS]<console>4 or <console>5$cmd[CMD_GO_DOWNSTAIRS]<console>6 while
 de pie en la plaza para unirse a la fe o leer alguna información sobre el dios
 en cuestión. Antes de asumir la fe correspondiente se te pedirá
 confirmación.
@@ -460,13 +460,13 @@ confirmación.
 HINT_SEEN_SHOP
 
 Ese<console> $1</console> es una tienda. Puedes introducirlo escribiendo
-<w>$cmd[CMD_GO_UPSTAIRS]§ o <w>$cmd[CMD_GO_DOWNSTAIRS] </w>
+<w>$cmd[CMD_GO_UPSTAIRS] o <w>$cmd[CMD_GO_DOWNSTAIRS] </w>
 <tiles>, or by <w>left-click</w> on it<tiles>
 mientras estaba de pie en la plaza.
 
 Si hay algo que tú quiere que puedes no se permite todavía, puedes hold
 <w>Shift</w> y pulse la carta correspondiente para ponerla en su lista de compras.
-El juego Will entonces te recuerda cuando recoges suficiente oro para comprarlo.
+El juego entonces te recuerda cuando recoges suficiente oro para comprarlo.
 
 %%%%
 HINT_SEEN_DOOR
@@ -474,7 +474,7 @@ HINT_SEEN_DOOR
 Ese<console> $1</console> es una puerta cerrada. Puedes abrirla caminando.
 A veces es útil cerrar una puerta. Hazlo por <nomouse>pressing
 <w>$cmd[CMD_CLOSE_DOOR]</w> al lado. Si hay varias puertas, tú
-Will entonces ser impulsado para una dirección. </nomouse><localtiles>haciendo clic en la puerta
+entonces ser impulsado para una dirección. </nomouse><localtiles>haciendo clic en la puerta
 mientras está al lado. </localtiles>
 
 %%%%
@@ -482,13 +482,13 @@ HINT_SEEN_RUNED_DOOR
 
 Ese<console> $1</console> es una puerta correda, que probablemente está delante de
 algo inusualmente peligroso. Los monstruos nunca lo abren. Si lo haces, los corredores
-Will ser roto, y Will convertirse en una puerta normal.
+ser roto, y convertirse en una puerta normal.
 
 %%%%
 HINT_KILLED_MONSTER
 
 ¡Felicidades, tu personaje acaba de ganar experiencia matando a este monstruo!
-Este Will levanta algunas de tus habilidades, haciéndote más mortal.
+Este levanta algunas de tus habilidades, haciéndote más mortal.
  LUA0
 
 %%%%
@@ -514,13 +514,13 @@ HINT_GAINED_MAGICAL_SKILL
 
 Ser calificado en una "escuela" mágica hace más fácil aprender y lanzar hechizos de
 esa escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en las que
-el caso de la habilidad promedio en estas escuelas Will determinar el éxito de la ortografía y
+el caso de la habilidad promedio en estas escuelas determinar el éxito de la ortografía y
 Poder.
 
 %%%%
 HINT_GAINED_MELEE_SKILL
 
-Ser experto con un tipo particular de arma Will te hace tratar ligeramente más
+Ser experto con un tipo particular de arma te hace tratar ligeramente más
 daño y ataque significativamente más rápido con todas las armas de ese tipo. Es un
 buena idea para centrarse en un tipo de arma, por lo general uno que empieza con, aunque
 encontrar un arma particularmente buena puede justificar un cambio.
@@ -528,7 +528,7 @@ encontrar un arma particularmente buena puede justificar un cambio.
 %%%%
 HINT_GAINED_RANGED_SKILL
 
-Ser hábil con armas variadas Will le permite tratar ligeramente más daño y
+Ser hábil con armas variadas le permite tratar ligeramente más daño y
 ataque significativamente más rápido con ellos. Recuerda que usar armadura pesada hace
 atacas más lentamente con armas variadas.
 
@@ -573,7 +573,7 @@ para descripciones completas del hechizo pulsando <w>$cmd[CMD_DISPLAY_COMMANDS]/
 %%%%
 HINT_YOU_POISON
 
-Veneno Will reduce rápidamente su salud. Puedes esperarlo con
+Veneno reduce rápidamente su salud. Puedes esperarlo con
 <w>$cmd[CMD_REST]</w>, pero si estás en combate o envenenado lethally, lo harás
 Probablemente quiera cortar un poción de curación.
 
@@ -598,7 +598,7 @@ letra<localtiles>, o haciendo clic en ellos</localtiles>.
 HINT_SHIFT_RUN
 
 Caminando por ahí toma menos pulsaciones si pulsa <w>Shift-direction</w> o
-<w>/ direction</w>. Que Will te deja correr hasta que un monstruo venga a la vista o
+<w>/ direction</w>. Que te deja correr hasta que un monstruo venga a la vista o
 tu personaje ve algo interesante.
 
 %%%%
@@ -610,15 +610,15 @@ la lista de comandos de mapa de nivel. Lo más importante, moviendo el cursor a 
 y presionando <w>.</w> o <w>Enter</w> permite que su carácter se mueva allí por su cuenta.
 
 <localtiles>También, haciendo clic en el minimapa del lado derecho con el ratón derecho <w>
-botón</w>0§ Will zoom en el área de la mazmorra. Haciendo clic con el ratón </w>1§izquierda
-botón</w>2§ en lugar Will te permite moverte allí. </w>3 §
+botón</w>0 zoom en el área de la mazmorra. Haciendo clic con el ratón </w>1izquierda
+botón</w>2 en lugar te permite moverte allí. </w>3 
 
 %%%%
 HINT_AUTO_EXPLORE
 
 Explorando completamente un nivel y recogiendo todos los elementos interesantes de aspecto puede ser
 tedioso. Para guardar en este tedio puedes prensa <w>$cmd[CMD_EXPLORE]</w> a
-autoexplore, que Will explora automáticamente las regiones no incluidas, automáticamente
+autoexplore, que explora automáticamente las regiones no incluidas, automáticamente
 recoger artículos interesantes, y parar si un monstruo o una característica de mazmorra interesante
 (piedras, altar, etc.) se encuentra.
 
@@ -627,9 +627,9 @@ HINT_DONE_EXPLORE
 
 Hey, has terminado de explorar la Mazmorra en este nivel! Puedes buscar
 escaleras desde el mapa de nivel (<w>$cmd[CMD_DISPLAY_MAP]</w>) pulsando <w> titulada</w>.
-El cursor Will salta a la escalera más cercana, y pulsando <w>. </w> or
+El cursor salta a la escalera más cercana, y pulsando <w>. </w> or
 <w>Enter</w> su carácter puede moverse allí, también. Cada nivel de Crawl tiene tres
-<console> white </console>up and three <console>white §AG11down§ steps.
+<console> white </console>up and three <console>white AG11down steps.
 Las partes no exploradas se pueden acceder a menudo a través de otro nivel.
 
 %%%%
@@ -640,10 +640,10 @@ puede establecer exclusiones de viaje introduciendo la vista del mapa (<w>$cmd[C
 y luego toggling el radio de exclusión en la posición monstruo con <w>e</w>.
 Para facilitar esto, algunos monstruos inmóviles enumerados en el <w>auto exclude</w>
 opción (como ésta) se consideran suficientemente peligrosas para justificar
-Ajuste automático de una exclusión. Will ser automáticamente aclarado si tú
+Ajuste automático de una exclusión. ser automáticamente aclarado si tú
 consigue matar al monstruo. También puede eliminar manualmente la exclusión con
 <w>$cmd[CMD_DISPLAY_MAP]ee</w> pero a menos que retire este monstruo del
-auto exclude list, the exclusion Will be reset the next turn.
+auto exclude list, the exclusion be reset the next turn.
 
 %%%%
 HINT_HEALING_POTIONS
@@ -683,7 +683,7 @@ HINT_INVISIBLE_DANGER
 Luchar contra un monstruo no puedes ver es difícil. Si no tienes un
 fuente de invisibilidad, puedes encontrar monstruos invisibles atrayendolos
 agua poco profunda, nubes opacas (de un pergamino de niebla), o un pasillo, donde su
-los movimientos Will sean más predecibles. Si las cosas van al sur, intenta teletransportar o
+los movimientos sean más predecibles. Si las cosas van al sur, intenta teletransportar o
 ¡Dejando el nivel por completo!
 
 %%%%
@@ -718,7 +718,7 @@ alternativa a la lucha.
 %%%%
 HINT_LAST_MINUTE_BERSERK
 
-Con el apoyo de Trog, puedes usa tu habilidad Berserk(<w>$cmd[CMD_USE_ABILITY]§1§) para ganar temporalmente más salud y mayor
+Con el apoyo de Trog, puedes usa tu habilidad Berserk(<w>$cmd[CMD_USE_ABILITY]1) para ganar temporalmente más salud y mayor
 fuerza. Tenga en cuenta que el rodar en el último minuto es a menudo arriesgado,
 y le impide usar artículos para escapar!
 
@@ -773,8 +773,8 @@ panel</w>)</localtiles> para echar un vistazo a sus habilidades o para utilizar 
 %%%%
 HINT_ITEM_FLIGHT
 
-flight Will le permite cruzar agua profunda o lava. Artículos que le permiten Fly
-Will activa automáticamente cuando se usa.
+flight le permite cruzar agua profunda o lava. Artículos que le permiten Fly
+activa automáticamente cuando se usa.
 
 %%%%
 HINT_ITEM_RESISTANCES
@@ -827,29 +827,29 @@ sus aliados pulsando <w>$cmd[CMD_SHOUT]</w>.
 %%%%
 HINT_TEMPORARILY_FRIENDLY
 
-Sin embargo, es sólo <w> temporalmente</w> amistoso, y Will se vuelve peligroso
+Sin embargo, es sólo <w> temporalmente</w> amistoso, y se vuelve peligroso
 otra vez cuando esta amistad se apaga.
 
 %%%%
 HINT_MONSTER_SHOUTED_UNSEEN
 
 Uh-oh, algún monstruo te notó, o uno que está a la vuelta de una esquina o uno que es
-invisible. Además, el ruido que hizo Will alerta a otros monstruos en los alrededores,
-que Will ven a comprobar lo que era la conmoción.
+invisible. Además, el ruido que hizo alerta a otros monstruos en los alrededores,
+que ven a comprobar lo que era la conmoción.
 
 %%%%
 HINT_MONSTER_SHOUTED_SEEN
 
-¡Ese monstruo te notó! Además, el ruido que hizo Will alerta a otros
-monstruos en la vecindad, que Will vienen a ver qué conmoción
+¡Ese monstruo te notó! Además, el ruido que hizo alerta a otros
+monstruos en la vecindad, que vienen a ver qué conmoción
 era sobre.
 
 %%%%
 HINT_MONSTER_NO_SHOUT
 
 ¡Ese monstruo te notó! Afortunadamente, no hizo ruido, pero muchos
-Los monstruos hacen ruido cuando te notan. Que Will alerta a otros monstruos en
-el área, que Will viene para ver qué era la conmoción.
+Los monstruos hacen ruido cuando te notan. Que alerta a otros monstruos en
+el área, que viene para ver qué era la conmoción.
 
 %%%%
 HINT_MONSTER_LEFT_LOS
@@ -884,7 +884,7 @@ HINT_SPELL_MISCAST_EFFECTS
 Maltraer un hechizo puede tener consecuencias desagradables, especialmente para los más
 hechizos difíciles. Su oportunidad de lanzar con éxito un hechizo aumenta con
 tus habilidades mágicas, y también se puede mejorar con la ayuda de algunos elementos. Uso
-el comando <w>$cmd[CMD_DISPLAY_SPELLS]</w>§§ o ratón sobre el hechizo
+el comando <w>$cmd[CMD_DISPLAY_SPELLS]</w> o ratón sobre el hechizo
 baldosas</localtiles> para comprobar sus tasas de fracaso actuales.
 
 %%%%
@@ -912,7 +912,7 @@ Efecto. Normalmente esto no es un problema, ya que la contaminación mágica san
 con el tiempo, pero si tú está contaminado repetidamente en una cantidad corta de tiempo
 mutará o sufrirá otros efectos secundarios malos.
 
-Tenga en cuenta que un hechizo de error Will todavía consume la cantidad completa de MP que un
+Tenga en cuenta que un hechizo de error todavía consume la cantidad completa de MP que un
 con éxito el hechizo sería.
 
 %%%%
@@ -925,7 +925,7 @@ invisibilidad, o de hechizos erráticos.
 %%%%
 HINT_CONTAMINATION_MILD
 
-Mientras el estatus sólo muestre en gris nada Will realmente sucede como
+Mientras el estatus sólo muestre en gris nada realmente sucede como
 resultado de ello, pero como tú continúa sofocándose con contaminación mágica
 eventualmente empezarás a brillar de verdad, que puede tener efectos desagradables, como
 mutarte o hacer daño directo. Además, el resplandor te hará
@@ -965,7 +965,7 @@ Mientras estás silenciado, no puedes escribir hechizos, leer pergaminos o utili
 invocaciones. Lo mismo es cierto para cualquier monstruo dentro del radio de efecto. El
 campo de silencio (reconocible por <tiles> las fichas de marco de aspecto especial</tiles>
 <console>diferente-coloured floor squares</console>) siempre está centrado en tú
-y Will moverse con tú. El radio Will gradualmente se encoge, eventualmente
+y moverse con tú. El radio gradualmente se encoge, eventualmente
 hacerte el único afectado, antes de que el efecto se desvaneca por completo.
 
 %%%%
@@ -976,8 +976,8 @@ Al pisar los elementos que has lanzado, se recogen automáticamente.
 %%%%
 HINT_GAINED_SPELLCASTING
 
-A medida que su habilidad de Spellcasting aumenta, tú Will puede memorizar más hechizos,
-y Will tienen un poco más MP. También te sentirás mejor en el casting
+A medida que su habilidad de Spellcasting aumenta, tú puede memorizar más hechizos,
+y tienen un poco más MP. También te sentirás mejor en el casting
 todo tipo de hechizos.
 
 Presionar <w>$cmd[CMD_DISPLAY_SKILLS]</w> <localtiles>(o haga clic en el <w>skill
@@ -987,7 +987,7 @@ manejar su entrenamiento.
 %%%%
 HINT_FUMBLING_SHALLOW_WATER
 
-Luchar en agua poco profunda Will a veces te hace deslizar y fusionar tu
+Luchar en agua poco profunda a veces te hace deslizar y fusionar tu
 ataque. Si es posible, trate de luchar en terreno firme.
 
 %%%%

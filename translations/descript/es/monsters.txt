@@ -74,7 +74,7 @@ Bai Suzhen
 A weary Draconian with foreign and watery scales. Ella ha llegado a la Mazmorra
 en esperanzas de resucitar a su marido mortal; una causa noble, por un ser una vez
 conocido por pelear con santos e inundar templos desafortunados. Si es presionado
-a sus límites, ella Will revela su verdadera forma, la mera vista de la cual golpeó
+a sus límites, ella revela su verdadera forma, la mera vista de la cual golpeó
 su marido muerto. Los aventureros tal vez deseen que hayan tenido tanta suerte!
 
 %%%%
@@ -308,7 +308,7 @@ Jeremiah
 Jeremías era un soñador pacífico, propenso a las siestas improvisadas. Se deslizaron en
 soñando con un viejo y odioso
 el poder los obliga al servicio. Ahora Jeremías tropieza a través de la Mazmorra,
-buscando el precioso sueño que Will restaurar el poder de su maestro,
+buscando el precioso sueño que restaurar el poder de su maestro,
 inseguro si todavía despiertan o duermen. Sus sueños se filtran en la realidad
 la forma de una corriente constante de mariposas.
 
@@ -483,7 +483,7 @@ que perdió su vida en su gran éxodo en la Mazmorra, e incluso si esto es
 una mentira, sin embargo parece estar en una base de primer nombre con muchos de ellos.
 
 Más que cualquier otro orco que aún respira, conoce la sangre y la sacrifica.
-tomó para hacer de este lugar un refugio para su tipo. Ella Will no brook it being
+tomó para hacer de este lugar un refugio para su tipo. Ella no brook it being
 inculcado por cualquiera, menos por ti.
 
 %%%%
@@ -508,7 +508,7 @@ especie por completo. Ya sean todas las víctimas de una sola masacre o
 mil almas desechadas durante mil años es imposible de decir ahora;
 La historia no los recuerda.
 
-Pero una cosa es clara: ellos Will luchan para cambiar eso hasta cada último recuerdo
+Pero una cosa es clara: ellos luchan para cambiar eso hasta cada último recuerdo
 han dejado quemaduras lejos.
 
 %%%%
@@ -557,7 +557,7 @@ Robin
 
 Un hobgoblin de montaña, recientemente viene en busca de la legendaria Orb. No
 tonto o imprudente lo suficiente para entrar en las Profundidades de la Mazmorra solo,
-Robin ha construido un pequeño ejército de mineros. Competidores potenciales Will rápidamente
+Robin ha construido un pequeño ejército de mineros. Competidores potenciales rápidamente
 encontrar una corriente de Screaming duendes volando hacia ellos!
 
 %%%%
@@ -852,7 +852,7 @@ aspiring flesh
 
 Los restos divididos y retorcidos de un progenitor proteico, luchando desesperadamente
 para la forma. Sea lo que sea, el último poder de su progenitor lo asegura
-Will ser más fuerte y más rápido que cualquier criatura encontrada en otro lugar del
+ser más fuerte y más rápido que cualquier criatura encontrada en otro lugar del
 mazmorra.
 
 %%%%
@@ -882,7 +882,7 @@ libera una espola flotante mortal que explota en sus víctimas.
 ballistomycete spore
 
 Una cuchara flotante rápida y llena de gas liberada por un balaistomycete cuando siente un
-amenaza. Después de buscar a su enemigo, la cuchara Will explota, dañando cualquier cosa
+amenaza. Después de buscar a su enemigo, la cuchara explota, dañando cualquier cosa
 atrapado en la explosión y confusos criaturas vivientes.
 
 %%%%
@@ -910,7 +910,7 @@ Myopic y utiliza ecolocalización para navegar.
 battlesphere
 
 Un pequeño globo de energía destructiva. Cada vez que su creador lanza una ofensiva
-hechizo, Will lanzar un bombardeo mágico en el enemigo más herido cerca puede
+hechizo, lanzar un bombardeo mágico en el enemigo más herido cerca puede
 alcance.
 
 %%%%
@@ -952,7 +952,7 @@ sin su cáscara, está en proceso de explosión violenta.
 blazeheart golem
 
 Una chispa elemental volátil envuelta en una cáscara de hierro escoria. Si se destruye mientras
-sus incendios todavía se encienden, el núcleo expuesto Will violentamente detonan un momento más tarde.
+sus incendios todavía se encienden, el núcleo expuesto violentamente detonan un momento más tarde.
 
 %%%%
 blink frog
@@ -1002,7 +1002,7 @@ una tumba ardiente.
 bomblet
 
 Una pequeña esfera metálica que rodea un núcleo de inactivo magia de fuego. Cuando se le da
-correcto comando, it Will detonar en una explosión de metal y llama que es sólo
+correcto comando, it detonar en una explosión de metal y llama que es sólo
 parcialmente afectado por la resistencia al fuego.
 
 %%%%
@@ -1029,7 +1029,7 @@ para chocar contra su objetivo por daños pesados.
 bound soul
 
 El alma de una criatura viviente, santa o demoníaca, capturada por un sacrificio oscuro
-a Yredelemnul. El alma atada Will seguir su captor por las escaleras y venir
+a Yredelemnul. El alma atada seguir su captor por las escaleras y venir
 cuando se recuerda desde un nivel diferente.
 
 %%%%
@@ -1055,7 +1055,7 @@ el intelecto de los demás mientras se mueve a través de la inmundicia.
 briar patch
 
 Un cúmulo enredado de espinosos briares, lo suficientemente afilado como para perforar el escondite grueso y
-armadura. Aunque estacionario, sus ramas están poseídas con un Will de sus
+armadura. Aunque estacionario, sus ramas están poseídas con un de sus
 propio. Se mueven para permitir la magia y los misiles disparados por aquellos amistosos a esto
 planta para pasar por sin afectar.
 
@@ -1115,7 +1115,7 @@ fluir incongruentemente a través de la oscuridad de la cueva.
 cactus giant
 
 Un coloso de piel verde, espinoso, con un cofre de barril y una sed
-batalla. Cualquier enemigo que lo golpee en melee Will tenga suerte de vivir para lamentarlo.
+batalla. Cualquier enemigo que lo golpee en melee tenga suerte de vivir para lamentarlo.
 
 %%%%
 cacodemon
@@ -1216,7 +1216,7 @@ atentados, eventualmente dejando que no pueda moverse hasta que su creador lo ec
 colossal amoeba
 
 Una pila insondablemente masiva de protoplasma pulsante místico. El más mínimo
-amenaza Will hace que se someta a mitosis armada rápida, rápidamente abrumadora
+amenaza hace que se someta a mitosis armada rápida, rápidamente abrumadora
 comidas potenciales en una ola de marea citoplasmática.
 
 %%%%
@@ -1439,7 +1439,7 @@ Una figura humana con un aura del poder traicionando su ascendencia divina.
 demonic crawler
 
 Una criatura insectoide infernal, alimentada por un poder infernal que constantemente
-renueva sus segmentos elegantes. Nada menos que un golpe letal Will detenerlo
+renueva sus segmentos elegantes. Nada menos que un golpe letal detenerlo
 por mucho tiempo.
 
 %%%%
@@ -1501,7 +1501,7 @@ Un espíritu elemental formado por fuego sin humo.
 oblivion hound
 
 Un lapdog demonio de la reina de Tartarus, obligado a cazar a sus enemigos. La primera
-el tiempo que un enemigo escucha su aullido, Will eco en su mente, llamando marica nocturna
+el tiempo que un enemigo escucha su aullido, eco en su mente, llamando marica nocturna
 criaturas para cazarlos. Los que sobreviven tienen el pequeño consuelo de ser
 inoculado contra el aullido de ese sabueso.
 
@@ -1814,7 +1814,7 @@ Y sin embargo, MH NATURAL es:)
 %%%%
 foxfire
 
-Un poco de gas pantano en llamas. Will quema la primera cosa hostil
+Un poco de gas pantano en llamas. quema la primera cosa hostil
 toca y luego disipa.
 
 %%%%
@@ -1873,7 +1873,7 @@ Se asemeja a una enorme y espinosa polilla.
 ghoul
 
 Un cadáver decaído, reanimado y aterrado con un hambre terrible. Desea
-nada más que alimentarse de la carne de los vivos, y Will cayó sus víctimas con
+nada más que alimentarse de la carne de los vivos, y cayó sus víctimas con
 sus garras viciosas.
 
 %%%%
@@ -1927,7 +1927,7 @@ como lo hace.
 glowmurk ghast
 
 Una aparición estremecedora y brillante de los muertos ahogados, repetidamente
-llamó a este avión por un experimento místico cruel. It Will share its memories
+llamó a este avión por un experimento místico cruel. It share its memories
 y experiencias de ahogamiento en aguas contaminadas con lo que toque primero,
 Entonces disipa.
 
@@ -1936,7 +1936,7 @@ goblin
 
 Un humanoide corto, impaciente y poco amistoso. Los duendes primero aparecieron sólo unos pocos
 hace años, pero ahora son notablemente numerosos. Tristemente, ningún número de raucous goblin
-fiestas Will los puso en un ambiente acogedor hacia los aventureros.
+fiestas los puso en un ambiente acogedor hacia los aventureros.
 
 %%%%
 goblin rider
@@ -2354,7 +2354,7 @@ kobold blastminer
 
 A Kobold, listo con múltiples armamentos para defenderse de los muchos
 peligros de las Profundidades. El cañón lleno de blastmote sobre su hombro lleva sus
-marca del fabricante, y es ferozmente leal; Will fuego para ninguno otro.
+marca del fabricante, y es ferozmente leal; fuego para ninguno otro.
 
 %%%%
 kobold demonologist
@@ -2474,7 +2474,7 @@ como una vez partió el agua. Quema con hambre que no podía satisfacer en la vi
 es impulsado singularmente por la muerte.
 
 Mientras uno solo puede ser sólo una molestia, el enjambre nunca está muy atrás, y
-cada mordedura que tierra Will convocar más y más de ellos hasta cada pedazo de carne
+cada mordedura que tierra convocar más y más de ellos hasta cada pedazo de carne
 sobre su presa ha sido devorada.
 
 %%%%
@@ -2542,7 +2542,7 @@ monarch bomb
 
 Una fábrica de municiones voladoras, sostenida en jets de escape ardiente y embalada a
 el borde con explosivos. Puede llenar rápidamente un área con bombas, y cuando
-ordenado por su creador, Will explotar todo (y en sí mismo) a devastador
+ordenado por su creador, explotar todo (y en sí mismo) a devastador
 Efecto.
 
 %%%%
@@ -2782,7 +2782,7 @@ giros agudos para alcanzar objetivos adyacentes.
 orb of entropy
 
 Un globo de profunda nada y el olvido que espera todas las cosas - carne,
-almas, e incluso tiempo mismo. Cuando el universo termina, sólo estos Will permanecen.
+almas, e incluso tiempo mismo. Cuando el universo termina, sólo estos permanecen.
 
 %%%%
 orb of fire
@@ -2825,14 +2825,14 @@ orc apostle follower
 
 Un niño favorecido de Beogh, una vez no tan diferente a ti mismo.
 
-Ahora que tienes se comprobó a ellos, ellos Will luchan y mueren por ambos
+Ahora que tienes se comprobó a ellos, ellos luchan y mueren por ambos
 y la causa. Los pastoree bien.
 
 %%%%
 orc high priest
 
 Un siervo exaltado del dios orco Beogh y un maestro de muchos ritos malos,
-cuya ayuda Beogh Will incluso envía seres del mundo del nether.
+cuya ayuda Beogh incluso envía seres del mundo del nether.
 
 %%%%
 orc knight
@@ -2907,8 +2907,8 @@ Un escarabajo mecánico intrincado cubierto de placas metálicas reforzadas que 
 un escudo. Desarrolla una barrera cinética alrededor de su creador al lado de
 ellos, aumentando su clase de armadura.
 
-Will nunca abandone voluntariamente el lado de su creador, y si seperó por la fuerza,
-Will prioritis volver a ellos sobre cualquier otra preocupación.
+nunca abandone voluntariamente el lado de su creador, y si seperó por la fuerza,
+prioritis volver a ellos sobre cualquier otra preocupación.
 
 %%%%
 phantasmal warrior
@@ -3018,7 +3018,7 @@ protean progenitor
 Un humanoide gargantuano de forma fracturada de los eones cuando los mares eran pero
 sopa primordial. Los muchos manipuladores de la Mazmorra una vez se escabulló de
 estos seres insondablemente antiguos, y cuando ellos mismos finalmente cesan,
-sus restos Will dan a luz una última vez a monstruos furiosos.
+sus restos dan a luz una última vez a monstruos furiosos.
 
 %%%%
 putrid mouth
@@ -3198,7 +3198,7 @@ Una horrible figura humanoides con piel de metal manchada de óxido, corrosión 
 y decaimiento a todo lo que toca.
 
 %%%%
-rusted inspector
+rtú inspector
 
 Una vez construido para monitorear las entidades mutadas
 invadiendo en las Bóvedas y desde hace mucho tiempo abandonado. Mientras que todavía puede humedecer
@@ -3355,7 +3355,7 @@ Un demonio menor sombrío, con una afinidad para las artes necrométicas.
 shadow prism
 
 Una silueta como el prisma que se desvanece con energía destructiva apenas conservada.
-Cualquier golpe que interrumpa su forma Will resulta en una violenta explosión de sombra.
+Cualquier golpe que interrumpa su forma resulta en una violenta explosión de sombra.
 
 %%%%
 shadow puppet
@@ -3528,7 +3528,7 @@ extensible y puede llegar y picar desde lejos.
 solar ember
 
 Un foso de luz intensa y calor manifestado por un escarabajo del sol. Está ligada a
-su esencia y Will nunca dejar su lado, siendo reconstituido tiempo y tiempo
+su esencia y nunca dejar su lado, siendo reconstituido tiempo y tiempo
 otra vez cuando se apaga.
 
 Algunos mitos incluso afirman que el sol que brilla sobre el mundo exterior era
@@ -3576,7 +3576,7 @@ Una horrible aparición brillante.
 spectral weapon
 
 Un espíritu extraído de un arma — nunca golpea por sí mismo. Daño hecho
-Will ser parcialmente reflejado en la rueda.
+ser parcialmente reflejado en la rueda.
 
 %%%%
 spellspark servitor
@@ -3625,7 +3625,7 @@ y su proeza con armamento avanzado.
 spriggan druid
 
 A Spriggan cuya conexión con los pájaros y las bestias es excepcionalmente
-fuerte. Si muere, su sacrificio Will sana y fortalece temporalmente cerca
+fuerte. Si muere, su sacrificio sana y fortalece temporalmente cerca
 animales.
 
 %%%%
@@ -3768,7 +3768,7 @@ Un experimento arcano abandonado, su propósito original más inescrutable que l
 Hecho de cristal mágico fusionado con el tejido cerebral mutante, rebosa sobre
 autónoma y erráticamente, despertando todo el tiempo.
 
-Cuando está mal dañado, Will desencadena una onda telequinética asombrosa, golpeando
+Cuando está mal dañado, desencadena una onda telequinética asombrosa, golpeando
 los que están en su entorno e infligiendo confusión irresistible a cualquiera que
 Might dañarlo.
 
@@ -3904,7 +3904,7 @@ Tzitzimitl
 
 Una horrible divinidad caída, poseyendo mandíbulas de piedra rociadora y un collar de
 órganos estrellados. Difunde enfermedad y desesperación, y espera pacientemente el fin de
-días cuando Will devorar el sol.
+días cuando devorar el sol.
 
 %%%%
 ufetubus
@@ -4027,7 +4027,7 @@ walking alembic
 
 Una manufactura alquímica portátil y capaz de combatir que utiliza la fricción
 combate melee para elaborar una variedad de pociones útiles. Cuando se ha construido lo suficiente
-calor para completar su síntesis, Will automáticamente dispensa el acabado
+calor para completar su síntesis, automáticamente dispensa el acabado
 pociones a aliados cercanos y desmoronarse.
 
 %%%%
@@ -4121,8 +4121,8 @@ su antigua vida igual.
 %%%%
 wendigo
 
-Un espíritu de hambre congelada, tan atroz que Will consume amigo y enemigo
-Igual. De acuerdo con la leyenda, si uno corta sus piernas, Will festividad sobre su propio
+Un espíritu de hambre congelada, tan atroz que consume amigo y enemigo
+Igual. De acuerdo con la leyenda, si uno corta sus piernas, festividad sobre su propio
 Marrow. Acecha a los perdidos vagando en el frío y caza con la fuerza de
 ventiscas.
 
@@ -4748,7 +4748,7 @@ observer
 
 Ves a los invisibles, miras y miran hacia atrás. Susurran y ríen,
 Griten y lloran, te miran con desprecio y te miran en adoración. Ellos
-son los observadores, son el juez de su valía y Will decide su fin.
+son los observadores, son el juez de su valía y decide su fin.
 
 %%%%
 wretched soul
@@ -4786,7 +4786,7 @@ Su escudo está emblazado con imágenes de llamas infernales.
 %%%%
 The Meatlord
 
-Ustedes contemplan la encarnación de la suciedad, la corrupción y la depravación: el Meatlord. Su
+Tú contemplan la encarnación de la suciedad, la corrupción y la depravación: el Meatlord. Su
 cuerpo foul está hinchado al extremo, filtrando fluido viscoso y el hedor de
 muerte. Su cabeza es la de un jabalí con ojos abultados y tusks divididos en dos, su
 bengalas y onzas mientras él ronca y chilla a la vista de tú, y sus
@@ -4801,7 +4801,7 @@ mientras te ahogas en el olor opresivo.
 %%%%
 The Unspeakable
 
-Ustedes escuchan los ecos de los planetas detrás del rugido ensordecedor de las estrellas como
+Tú escuchan los ecos de los planetas detrás del rugido ensordecedor de las estrellas como
 enfoques. Es la mandíbula de la Abyss. Trae el caos arrastrado de
 dentro. Es la última vista que ves.
 

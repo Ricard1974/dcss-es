@@ -24,14 +24,14 @@ desgaste para expirar dos veces más rápido con el tiempo.
 amulet of faith
 
 Un encanto elaborado para llamar la atención de los dioses a su portador. Esta divina
-la atención hace más fácil complacer a su dios, pero su dios Will también tomar más
-aviso de sus transgresiones. El amuleto Will Drain algunos de vuestro divino favor
+la atención hace más fácil complacer a su dios, pero su dios también tomar más
+aviso de sus transgresiones. El amuleto Drain algunos de vuestro divino favor
 cuando se retira.
 
 %%%%
 amulet of guardian spirit
 
-Un amuleto que contiene un espíritu protector que Will causa cualquier daño causado a
+Un amuleto que contiene un espíritu protector que causa cualquier daño causado a
 dividir entre las reservas de salud y magia del usuario.
 
 %%%%
@@ -57,7 +57,7 @@ amulet of reflection
 
 Un amuleto que mejora la capacidad de su portador para proteger contra los ataques. Si
 ningún escudo es usado, la fuerza que emite el amuleto puede servir como un escudo débil en
-propio. Independientemente, cualquier ataque variado los bloques de desgaste Will se reflejan
+propio. Independientemente, cualquier ataque variado los bloques de desgaste se reflejan
 hacia el atacante.
 
 %%%%
@@ -102,7 +102,7 @@ Una flecha, hecha para ser disparada con un arco.
 %%%%
 athame
 
-Un cuchillo ritual ordenado y embrujado. Incluso el pelado de la Will cuesta un pequeño
+Un cuchillo ritual ordenado y embrujado. Incluso el pelado de la cuesta un pequeño
 pedazo de su salud, pero golpes hechos con ella contra aquellos que sufren negativo
 estados (excepto el veneno) han aumentado el daño base, hasta +4 para dos
 semejantes dolencias.
@@ -625,7 +625,7 @@ box of beasts
 Una caja llena de las extrañas sobras de un mago depravado mágico
 experimentaciones. Abrirlo Might soltar una amistosa bestia mutante: extraño
 criaturas, cada una con su propia combinación de rasgos. Mayor habilidad con
-Evocaciones Will permiten que las bestias más fuertes sean liberadas.
+Evocaciones permiten que las bestias más fuertes sean liberadas.
 
 Hay seis rasgos conocidos:
 * Bat animals Fly and move very quickly, but erratically.
@@ -702,7 +702,7 @@ condenser vane
 Un dispositivo mágico que condensa la energía ambiente en varias nubes destructivas.
 Cuando evocan estas nubes se forman alrededor de monstruos hostiles cerca del usuario. El
 la cantidad y la letalidad de estas nubes aumenta con habilidad Evocations. Abajo
-potenciarlo Will crear gases nocivos, y como el poder aumenta esto da paso a
+potenciarlo crear gases nocivos, y como el poder aumenta esto da paso a
 llamas rugientes, vapores de congelación y gas venenoso. En los más altos niveles de
 nubes de energía, niebla ácida y nubes de miseria atroz se convierten en
 disponible.
@@ -799,7 +799,7 @@ Un extraño fósil marino, adornado con abalona y perla.
  LUA0 
 para transformarse en un par de anguilas eléctricas que a veces se descargan
 arcos de electricidad a través de objetivos conectados cuando se utiliza para atacar enemigos. Cuando
-la salud del usuario se vuelve peligrosamente baja, ellos Will descargan aún más
+la salud del usuario se vuelve peligrosamente baja, ellos descargan aún más
 Tensión violenta.
 
 %%%%
@@ -879,12 +879,12 @@ nivel fundamental.
 
 En este estado de flujo, tus ataques de melee son mucho más débiles, pero cada huelga Will
 contamina todo lo que golpeas con energía transmutacional - creciendo tan intensa
-en la tercera huelga que Will hace que su cuerpo torcida y deforme,
+en la tercera huelga que hace que su cuerpo torcida y deforme,
 infligiendo daños importantes. La falta de certeza en su forma física también
 te hace mucho más difícil de golpear, aunque brillas de una manera que dificulta el robo.
 
 El poder contenido en cada bauble es finito, y una vez que está agotado por
-difundiéndolo a los enemigos, tú Will volver a su forma anterior.
+difundiéndolo a los enemigos, tú volver a su forma anterior.
 
 %%%%
 fortress talisman
@@ -914,14 +914,14 @@ gem
 Una piedra de belleza y valor casi inconmensurable fuera de la Mazmorra.
 Dentro de sus confines, es absolutamente inútil.
 
-Zot acapara estas gemas celosamente, y Will a pesar de los golpes pronto después de una
+Zot acapara estas gemas celosamente, y a pesar de los golpes pronto después de una
 aventurero entra en la rama de la Mazmorra en la que descansan. Aún así, una muy
 aventurero de movimiento rápido Might tomar uno primero y mantener sus preciosos fragmentos.
 Zot no puede rastrear gemas fuera de sus ramas de casa, así que con verdaderamente asombroso
 Velocidad, será posible abstenerse con uno todavía intacto... pero tal
 La hazaña es difícil de crédito, y probablemente sin sentido además.
 
-Una vez que el Orbe de Zot se toma, Zot Will no puede romper ninguna gema.
+Una vez que el Orbe de Zot se toma, Zot no puede romper ninguna gema.
 
 %%%%
 giant club
@@ -1050,13 +1050,13 @@ Una colmena conservada y decorada, todavía goteando con néctar ambrosial. Tran
 el portador en una colmena viviente, llena del zumbido de innumerables insectos
 trabajando dentro de ellos. El néctar producido dentro aumenta enormemente el desgaste
 salud y regeneración mágica y si se vuelven gravemente heridos, abejas enojadas
-Will enjambre para defender su colmena.
+enjambre para defender su colmena.
 
 %%%%
 horn of Geryon
 
 El cuerno de Geryon, guardián de el Vestíbulo del Infierno. Tiene
-poder para sacar bestias demoníacas. Con alta habilidad Evocations, it Will call
+poder para sacar bestias demoníacas. Con alta habilidad Evocations, it call
 mayor número de bestias, con menor probabilidad de que esas bestias sean hostiles.
 
 %%%%
@@ -1171,8 +1171,8 @@ lupine talisman
 
 Un parche pintado hecho de un pedazo de pelt de lobo. Transforma el usuario en un
 Hombre lobo vicioso, músculos que surgían con instinto depredador. Matar enemigos con
-melee attacks in this form Will dar un bono de apilación a su daño y
-precisión, y matar a bastantes de ellos en una fila Will hace que tú desata un
+melee attacks in this form dar un bono de apilación a su daño y
+precisión, y matar a bastantes de ellos en una fila hace que tú desata un
 vicioso aullido que hace a cualquier vaca vivo en el miedo - y los deja
 susceptible a una devastadora precipitación.
 
@@ -1418,7 +1418,7 @@ ojos.
 potion of enlightenment
 
 Una poción que eleva tanto el cuerpo como la mente de sus bebedores, levantandolos
-desde el suelo y aumentando su Will para resistir las tentaciones del mundo.
+desde el suelo y aumentando su para resistir las tentaciones del mundo.
 
 %%%%
 potion of experience
@@ -1550,7 +1550,7 @@ encantadores, el casting Hex hechizos mucho más fácil e ignorando una parte de
 El Willpower del enemigo.
 
 Alas, su armadura por los enigmas es tan compulsivo que incluso el más endurecido
-aventurero Will ser incapaz de resistir posándolos a nuevos enemigos que encuentran, no
+aventurero ser incapaz de resistir posándolos a nuevos enemigos que encuentran, no
 importa lo insensato que sea esto.
 
 %%%%
@@ -1683,7 +1683,7 @@ Un talismán que permite la entrada a los dominios de Zot.
 %%%%
 sack of spiders
 
-Una bolsa de seda tejida. Abrirlo Will cubre el área con telas, arañas y otros
+Una bolsa de seda tejida. Abrirlo cubre el área con telas, arañas y otros
 esquiando cosas. Evocaciones de habilidad aumenta la calidad de araña, la cantidad y el atraco.
 
 %%%%
@@ -1762,16 +1762,16 @@ control preciso.
 %%%%
 scroll of brand weapon
 
-Un pergamino que imbue un arma con una marca aleatoria. Cualquier marca existente Will ser
+Un pergamino que imbue un arma con una marca aleatoria. Cualquier marca existente ser
 reemplazado por otro, y cualquier marca prohibida por su dios actual Will
 no ser elegido. Los artefactos no se pueden marcar de esta manera.
 
-Armas Melee Will comúnmente se marcan con el encendido, congelamiento, pesado,
+Armas Melee comúnmente se marcan con el encendido, congelamiento, pesado,
 Venom o marca de protección (o con la marca especial exclusiva de la categoría
 de arma que se marca), y raramente con el drenaje, electrocución, espectral,
 marca vampiric o caos.
 
-Armas extendidas Will comúnmente se marcan con el encendido, congelación, pesado o
+Armas extendidas comúnmente se marcan con el encendido, congelación, pesado o
 marca de drenaje, y raramente con la marca de electrocución o caos.
 
 %%%%
@@ -1866,10 +1866,10 @@ Un pergamino que elimina todo el sonido cerca del lector. Esto hace pergaminos d
 casting hechizos, invocando habilidades divinas, o gritando imposible en los
 El lector está cerca.
 
-Ciertos monstruos tienen habilidades mágicas o especiales que Will todavía sean
+Ciertos monstruos tienen habilidades mágicas o especiales que todavía sean
 usable mientras silenciado.
 
-El efecto comienza con un gran radio, que Will luego encoge, eventualmente
+El efecto comienza con un gran radio, que luego encoge, eventualmente
 cubriendo sólo al lector, antes de que se fije.
 
 %%%%
@@ -2006,7 +2006,7 @@ spore talisman
 Un pequeño encanto hecho de un hongo todavía vivo. Transforma uno del portador
 brazos y partes de su cuerpo inferior en una vibrante masa de hongos multicolores.
 Los ataques de Melee en esta forma pueden liberar esporas que debilitan su objetivo, también
-como causar hongos para brotar en el suelo detrás de ellos que Will liberan sus
+como causar hongos para brotar en el suelo detrás de ellos que liberan sus
 propias roturas de esporas desgarradoras si se permite crecer. Aumenta la habilidad para cambiar la forma
 la durabilidad de estos hongos así como su daño.
 
@@ -2248,7 +2248,7 @@ wand of light
 
 Un dispositivo mágico que dispara un rayo de luz sellante, hiriendo y cegando
 los golpeados. Sólo los monstruos vivos, no muertos, demoníacos y angélicos pueden ser cegados,
-y monstruos más duros Will recuperar su visión más rápidamente.
+y monstruos más duros recuperar su visión más rápidamente.
 
 %%%%
 wand of mindburst
@@ -2280,8 +2280,8 @@ Encantamientos sobre criaturas golpeadas.
 wand of roots
 
 Un dispositivo mágico que dispara una semilla mágica, enredando su objetivo y adyacente
-enemigos en raíces de árboles de rápido crecimiento. Los enredados Will se inmovilizan y toman
-daño con el tiempo hasta que escapan o las raíces se marchitan. Las raíces Will solamente
+enemigos en raíces de árboles de rápido crecimiento. Los enredados se inmovilizan y toman
+daño con el tiempo hasta que escapan o las raíces se marchitan. Las raíces solamente
 salpicada de tierra firme.
 
 %%%%

@@ -59,7 +59,7 @@ Armour habilidad.
 concussion (concuss) weapon ego
 
 Empuja a aquellos que golpea hacia atrás, brevemente arruinándolos en el proceso. Si
-los empuja a una característica sólida, ellos Will tomar un tercio adicional
+los empuja a una característica sólida, ellos tomar un tercio adicional
 de cualquier daño que perfora su armadura.
 
 %%%%
@@ -200,7 +200,7 @@ vitrificación.
 %%%%
 guile (Guile) armour ego
 
-Debilita tanto su fuerza de voluntad como la fuerza de voluntad de todos ustedes hex, este último
+Debilita tanto su fuerza de voluntad como la fuerza de voluntad de todos tú hex, este último
 de los cuales se aumenta por su habilidad Evocations.
 
 %%%%
@@ -430,7 +430,7 @@ Aumenta tu fuerza (Str +3).
 %%%%
 sundering (sunder) weapon ego
 
-Después de realizar múltiples ataques consecutivos, su próximo ataque Will acuerdo
+Después de realizar múltiples ataques consecutivos, su próximo ataque acuerdo
 aumentó mucho el daño y también se clavó en objetivos un espacio extra lejos.
 
 %%%%

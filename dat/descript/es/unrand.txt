@@ -262,7 +262,7 @@ lance "Wyrmbane"
 
 Una lanza encantada mortal para toda la humanidad del dragón. Crece más poderoso cada vez
 inflige un golpe mortal a un dragón fuerte. Cuanto más poderoso crece, más
-más difícil Will ser encontrar un oponente digno.
+más difícil ser encontrar un oponente digno.
 
 %%%%
 Spriggan's Knife
@@ -335,7 +335,7 @@ animales, cada uno elegido para las fortalezas únicas que podría conceder el d
 cloak of the Thief
 
 Un manto negro de campo que permite a su portador sobresalir en las artes del ladrones.
-Incluso los torpes Will encuentran sus pasos más suaves y los gritos de sus
+Incluso los torpes encuentran sus pasos más suaves y los gritos de sus
 los adversarios menos atención.
 
 %%%%
@@ -686,7 +686,7 @@ Majin-Bo
 Un personal habitado por un poderoso demonio, engañado y atrapado en esta forma hace mucho tiempo.
 Para sobrevivir, ahora ofrece un gran poder arcano en una terrible ganga:
 intercambio por una pequeña parte de la esencia de la vida de la lanzador, tomada cada vez su
-wielder lanza un hechizo, ella Will redirigir la esencia de la vida de las criaturas dañadas
+wielder lanza un hechizo, ella redirigir la esencia de la vida de las criaturas dañadas
 por el hechizo a la casta.
 
 %%%%
@@ -778,7 +778,7 @@ Era el juguete favorito de Iskenderun.
 Cigotuvi's embrace
 
 Un traje de armadura llevado de carne podrida y hueso y espeluznante, mantenido intacto por el
-Will de un hechicero de larga data. Las energías terribles dentro de ella llaman a los cuerpos
+de un hechicero de larga data. Las energías terribles dentro de ella llaman a los cuerpos
 de los muertos recientemente, protegiendo al portador con un capullo de carriona.
 
 %%%%
@@ -857,7 +857,7 @@ mountain boots
 
 Estas botas robustas fueron creadas por un artificio que vivía alto en un remoto
 pico de montaña, como protección contra los avalanches cercanos a la montaña,
-rocas deslizantes y tormentas de nieve. No hay fuerza corta de translocaciones magia Will broge
+rocas deslizantes y tormentas de nieve. No hay fuerza corta de translocaciones magia broge
 el usuario de su posición.
 
 %%%%
@@ -951,7 +951,7 @@ ansiedad de los hongos vagando cultivando una especie que podría ser fácilment
 transportado sin perturbarlos. El resultado es tanto un organismo vivo como
 es un pedazo de ropa, cada fibra de lino gemido junto con micelia fúngica
 que extraen tanto nutrientes como confianza de quien lo use. Y a cambio
-para tales trifles como sangre o péptidos, la colonia Will instintivamente se inclina hacia
+para tales trifles como sangre o péptidos, la colonia instintivamente se inclina hacia
 defender a su portador de lo que perciban como una amenaza.
 
 ¡Es como llevar mil diminutos amigos a la vez! Y el colibrí que llenan
@@ -980,7 +980,7 @@ athame "Fimbulwinter"
 
 Un instrumento de terror elaborado por algunos de los profetas más famosos de Qazlal,
 significaba sacar un invierno de tres años antes del fin del tiempo. Esos fríos
-por su wielder Will siente la agarre helada del destino sobre su garganta.
+por su wielder siente la agarre helada del destino sobre su garganta.
 
 Como con todos los athames, golpes hechos con él contra aquellos que sufren negativo calvo
 estatus (excepto el veneno) han aumentado el daño base.

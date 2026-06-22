@@ -33,11 +33,11 @@ siguiente cuadrado azul.
 tutorial1 diagonal
 
 ################################################################################################################################################################################################################################################################
-Mover diagonalmente con el <input> numera pad</input> (try Numlock on/off) <localtiles>,</localtiles> <console> o </console><input>vi keys</input><console>§.</console><localtiles>, o <input>mouse</input>.</localtiles>
+Mover diagonalmente con el <input> numera pad</input> (try Numlock on/off) <localtiles>,</localtiles> <console> o </console><input>vi keys</input><console>.</console><localtiles>, o <input>mouse</input>.</localtiles>
 
-Numpad: <w>7 8 9</w> vi-keys: <w> $cmd[CMD_MOVE_UP_LEFT] $cmd[CMD_MOVE_UP] $cmd[CMD_MOVE_UP_RIGHT]§AG17<localtiles> Mouse: §AG19</w> en el suelo</localtiles>
+Numpad: <w>7 8 9</w> vi-keys: <w> $cmd[CMD_MOVE_UP_LEFT] $cmd[CMD_MOVE_UP] $cmd[CMD_MOVE_UP_RIGHT]AG17<localtiles> Mouse: AG19</w> en el suelo</localtiles>
 \ sufrimiento/
-<w>4</w>-<w>.§AG25-AG§6AG27§ <w> $cmd[CMD_MOVE_LEFT]</w>-<w>.</w>-<w>$cmd[CMD_MOVE_RIGHT] </w>
+<w>4</w>-<w>.AG25-AG6AG27 <w> $cmd[CMD_MOVE_LEFT]</w>-<w>.</w>-<w>$cmd[CMD_MOVE_RIGHT] </w>
 / Subtítulos\ /
 <w>1 2 3</w> <w> $cmd[CMD_MOVE_DOWN_LEFT] $cmd[CMD_MOVE_DOWN] $cmd[CMD_MOVE_DOWN_RIGHT]</w>
 
@@ -45,7 +45,7 @@ Numpad: <w>7 8 9</w> vi-keys: <w> $cmd[CMD_MOVE_UP_LEFT] $cmd[CMD_MOVE_UP] $cmd[
 tutorial1 shiftmove
 
 Una manera más rápida de “correr” a través de un pasillo es presionar <input> Shift</input>
-junto con el <input>§number pad</input> (try Numlock on/off) o <input>vi
+junto con el <input>number pad</input> (try Numlock on/off) o <input>vi
 Teclas</input>.
 
 %%%%
@@ -62,8 +62,8 @@ tutorial1 levelmap
 <w>minimap</w> a la derecha de la pantalla. </tiles><localtiles> Puedes tener una
 ver más de cerca una parte del mapa con un <input> derecho del ratón</input> y
 también puede viajar allí con un <input>left click</input>. </localtiles><webtiles>
-Puede </webtiles>§AG12 § Entrar en la vista de sobremapa con
-<input>$cmd[CMD_DISPLAY_MAP]AG14§ y luego mover el cursor alrededor para mirar
+Puede </webtiles>AG12  Entrar en la vista de sobremapa con
+<input>$cmd[CMD_DISPLAY_MAP]AG14 y luego mover el cursor alrededor para mirar
 alrededor del nivel. También puede viajar donde quiera que su cursor esté apuntando
 apremiante <input>.</input> o <input>Enter</input>. Prensa <input>Escape</input>
 para volver al modo de juego normal. </nomouse>
@@ -91,7 +91,7 @@ exclusiones.
 %%%%
 tutorial1 autoexplore_announce
 
-Autoexplore Will para cuando vea primero elementos o características de mazmorra, como estos
+Autoexplore para cuando vea primero elementos o características de mazmorra, como estos
 escaleras. Para viajar directamente a las escaleras, puedes
 <localtiles><input>click</input> on them; or puedes</localtiles>press
 <input>$cmd[CMD_DISPLAY_MAP]</input> para introducir la vista general del mapa, entonces
@@ -148,7 +148,7 @@ tutorial1 exit
 <yellow>Movement commands</yellow>
 Numpad: <w>7 8 9</w> vi-keys: <w>$cmd[CMD_MOVE_UP_LEFT] $cmd[CMD_MOVE_UP] $cmd[CMD_MOVE_UP_RIGHT]</w>
 \ sufrimiento/
-<w>4</w>-<w>.§AG11-<w>6AG13§ <w>$cmd[CMD_MOVE_LEFT] </w>-<w>.</w>-§AG18$cmd[CMD_MOVE_RIGHT]</w>
+<w>4</w>-<w>.AG11-<w>6AG13 <w>$cmd[CMD_MOVE_LEFT] </w>-<w>.</w>-AG18$cmd[CMD_MOVE_RIGHT]</w>
 / Subtítulos\ /
 <w>1 2 3</w> <w>$cmd[CMD_MOVE_DOWN_LEFT] $cmd[CMD_MOVE_DOWN] $cmd[CMD_MOVE_DOWN_RIGHT]</w>
 
@@ -161,17 +161,17 @@ También puede moverse por <input>clicking</input> en algún lugar a la vista o 
 <input>$cmd[CMD_DISPLAY_MAP] arrendamiento</input>/<input>$cmd[CMD_DISPLAY_MAP]<<</input> viaje a las escaleras superiores más cercanas
 
 <yellow>Puertas</yellow> se puede abrir caminando hacia ellos
-<input>$cmd[CMD_CLOSE_DOOR]§AG45 cerrar una puerta abierta
+<input>$cmd[CMD_CLOSE_DOOR]AG45 cerrar una puerta abierta
 
 <yellow>Travel</yellow><localtiles>
 mouseclick en el <w>minimap</w></localtiles>
-<input>$cmd[CMD_DISPLAY_MAP]AG54§ entrar en el mapa de nivel, viajar con <input>Enter</input></nomouse>
-<input>$cmd[CMD_EXPLORE]§AG59 autoexplore
+<input>$cmd[CMD_DISPLAY_MAP]AG54 entrar en el mapa de nivel, viajar con <input>Enter</input></nomouse>
+<input>$cmd[CMD_EXPLORE]AG59 autoexplore
 
 %%%%
 tutorial2 start
 
-Esta lección Will te enseña acerca de los monstruos y la lucha. Primero, necesitamos un
+Esta lección te enseña acerca de los monstruos y la lucha. Primero, necesitamos un
 arma! Ve a coger el que está ahí.
 
 %%%%
@@ -193,13 +193,13 @@ tutorial2 resting
 
 ¡Muy bien! Puede sanar descansando con <input>$cmd[CMD_REST] </input>
 <localtiles>, o haciendo clic en el botón 'resto' en la barra de comandos debajo de la
-minimap</localtiles>. Este Will te hace descansar hasta que tu salud esté llena, pero
-Will ser interrumpido por acontecimientos importantes.
+minimap</localtiles>. Este te hace descansar hasta que tu salud esté llena, pero
+ser interrumpido por acontecimientos importantes.
 
 %%%%
 tutorial2 wait
 
-En lugar de irrumpir la habitación y ser enjaulado por monstruos, §GT§ también retroceda
+En lugar de irrumpir la habitación y ser enjaulado por monstruos, GT también retroceda
 y esperar (con <input>$cmd[CMD_WAIT</input><localtiles>_o_por
 <input>clicking</input>_en_su_carácter</localtiles>)_para_que_ellos_vengan_a_tú.
 
@@ -216,9 +216,9 @@ Examinar estos monstruos (<localtiles>via <input>mouseover</input></localtiles>
 <nomouse>por pulsar <input>$cmd[CMD_LOOK_AROUND]</input> para entrar en modo de examen,
 y luego <input>$cmd[CMD_TARGET_CYCLE_FORWARD]</input> para recorrer cerca
 monstruos</nomouse>)
-y comparar sus descripciones (<localtiles>with <input>derechomouseclickAG12§</localtiles>§
+y comparar sus descripciones (<localtiles>with <input>derechomouseclickAG12</localtiles>
 <nomouse> por pulsar <input>$cmd[CMD_TARGET_DESCRIBE]</input> al seleccionar
-ellos en modo de examen §</nomouse>)
+ellos en modo de examen </nomouse>)
 para averiguar cuál de estas jaulas es más seguro para luchar.
 
 %%%%
@@ -290,24 +290,24 @@ tutorial2 exit
 
 <yellow>Ases<console> <cyan>)</cyan></console></yellow>
 <input>$cmd[CMD_PICKUP]</input>recoger an item
-<input>$cmd[CMD_EQUIP]§AG11 equipar un artículo<localtiles>
+<input>$cmd[CMD_EQUIP]AG11 equipar un artículo<localtiles>
 También puede hacer esto por <input>clicking</input> sobre el arma en su inventario. </localtiles>
-<input>$cmd[CMD_QUIVER_ITEM]§AG17 ajustar el quiver
+<input>$cmd[CMD_QUIVER_ITEM]AG17 ajustar el quiver
 
-<yellow>Monstruos§AG19<localtiles>
-§AG21 §-mouseover</input> examinar un monstruo
-<input>haga clic derecho</input> leer una descripción más detallada§AG25<nomouse>
+<yellow>MonstruosAG19<localtiles>
+AG21 -mouseover</input> examinar un monstruo
+<input>haga clic derecho</input> leer una descripción más detalladaAG25<nomouse>
 <input>$cmd[CMD_LOOK_AROUND]</input> examinar un monstruo
 <input>$cmd[CMD_LOOK_AROUND]$cmd[CMD_TARGET_DESCRIBE]</input> leer una descripción más detallada</nomouse>
 <input>$cmd[CMD_PRIMARY_ATTACK]
 <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_SELECT]</input> Fire quiver at pre-targeted monstruo
-§AG36 §-shift-tab</input>, <input>pAG39§ quiver fuego al monstruo más cercano
-<input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_CYCLE_FORWARD] §AG41 § target another monstruo<localtiles>
-También puede disparar un misil por §AG43 §clicking</input> en él, luego confirmando el objetivo con <input>Enter</input>.</localtiles>
+AG36 -shift-tab</input>, <input>pAG39 quiver fuego al monstruo más cercano
+<input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_CYCLE_FORWARD] AG41  target another monstruo<localtiles>
+También puede disparar un misil por AG43 clicking</input> en él, luego confirmando el objetivo con <input>Enter</input>.</localtiles>
 
 <yellow>Resting</yellow>
-</cyan>0§$cmd[CMD_WAIT]</cyan>1§ esperar y descansar un solo giro
-</cyan>2§$cmd[CMD_REST]</cyan>3§ esperar y descansar hasta 100 vueltas
+</cyan>0$cmd[CMD_WAIT]</cyan>1 esperar y descansar un solo giro
+</cyan>2$cmd[CMD_REST]</cyan>3 esperar y descansar hasta 100 vueltas
 
 %%%%
 tutorial3 start
@@ -348,7 +348,7 @@ enemigos que haya cerca de ti y recorgerlo después.
 tutorial3 ego_weapon
 
 Un artículo descrito como <lightblue>runed</lightblue> or
-<lightblue>glowing</lightblue> Will ser siempre encantado, o tener especial
+<lightblue>glowing</lightblue> ser siempre encantado, o tener especial
 propiedades, o ambas. Una vez que tú pise encima de tal artículo, sus propiedades Will
 se te revela.
 
@@ -393,7 +393,7 @@ pasados mediante <input>$cmd[CMD_REPLAY_MESSAGES]</input>.
 tutorial3 trap
 
 Los trapos pueden tener una variedad de efectos desagradables, tales como alertar monstruos o
-teletransportarte en peligro. Algunas trampas son permanentes y Will siempre ser
+teletransportarte en peligro. Algunas trampas son permanentes y siempre ser
 revelado como parte del mapa, pero otras trampas se pueden desencadenar explorando nuevos
 azulejos, y no existirá después de ser disparado. Si no hay manera, lo harás.
 tiene que desencadenar la trampa y lidiar con las consecuencias.
@@ -482,7 +482,7 @@ tutorial3 go_shopping
 # visto.
 ¡Ahora tienes suficiente oro para hacer compras serias! La forma más rápida de volver a
 la tienda lo está buscando. Tipo <input>$cmd[CMD_SEARCH_STASHES] </input>,
-y luego entrar “<w>shop§</w>”. Seleccione el resultado para comenzar a viajar. <localtiles>
+y luego entrar “<w>shop</w>”. Seleccione el resultado para comenzar a viajar. <localtiles>
 También puede <input>click</input> en el botón de búsqueda en el panel de comandos, o
 use el minimap para volver a la tienda. </localtiles>
 
@@ -511,16 +511,16 @@ Una sola pantalla recapitulando todos los comandos.
 <input>$cmd[CMD_DROP]</input> drop an item
 <input>$cmd[CMD_EQUIP]</input>equipa armadura, armas y joyas
 <input>$cmd[CMD_UNEQUIP]</input> armadura inequip, armas y joyas
-<input>$cmd[CMD_READ]§AG§13 leer un rollo
-<input>$cmd[CMD_QUAFF]§AG15 § quaff a potion
+<input>$cmd[CMD_READ]AG13 leer un rollo
+<input>$cmd[CMD_QUAFF]AG15  quaff a potion
 <input>$cmd[CMD_EVOKE]</input> evocar una varita
 
 Los comandos de uso y (un)equip también están disponibles en las descripciones de elementos del menú del inventario (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>). <localtiles>
 Y por supuesto, <input>mouseclicks</input> también funcionan. </localtiles>
 
-§AG24 § Other</yellow>
+AG24  Other</yellow>
 <input>$cmd[CMD_DISPLAY_COMMANDS]? </input> acceso al comando help
-<input>$cmd[CMD_EXPLORE]§AG29 explore automatically§
+<input>$cmd[CMD_EXPLORE]AG29 explore automatically
 <input>$cmd[CMD_SEARCH_STASHES]</input> búsqueda de artículos/features previamente vistos<localtiles>
 Varios de estos comandos también se pueden ejecutar haciendo clic en el panel <w>command</w>.</localtiles>
 
@@ -536,8 +536,8 @@ Puedes memorizar un hechizo de tu biblioteca de hechizos con
 <input>$cmd[CMD_MEMORISE_SPELL]
 <input>haciendo clic </input> en la pestaña de memorización y seleccionando el hechizo
 Tile</localtiles>. En el nivel de experiencia 1, sólo se ofrecen hechizos de nivel 1
-Tú. Este Will cambia a medida que ganas experiencia. Para encontrar nuevos hechizos, encontrar y elegir
-arriba libros de hechizos, y los hechizos Will se añaden a su biblioteca.
+Tú. Este cambia a medida que ganas experiencia. Para encontrar nuevos hechizos, encontrar y elegir
+arriba libros de hechizos, y los hechizos se añaden a su biblioteca.
 
 %%%%
 tutorial4 spellcasting
@@ -549,7 +549,7 @@ Para lanzar un hechizo, primero memorizarlo con <input>$cmd[CMD_MEMORISE_SPELL]<
 Luego se puede fundir con <input>$cmd[CMD_CAST_SPELL] </input><localtiles> or by
 <input>clicking</input> on the spell tile</localtiles>.
 
-Presionar <input>$cmd[CMD_CAST_SPELL§]</input>, luego presiona <input>? §AG11 § to get a
+Presionar <input>$cmd[CMD_CAST_SPELL]</input>, luego presiona <input>? AG11  to get a
 lista de tus hechizos.
 
 %%%%
@@ -595,7 +595,7 @@ La nube mefática es un hechizo de nivel 3, así que puedes no lo memorice todav
 rápidamente, aquí hay más dummies de entrenamiento — sin piedras para tirar esta vez.
 
 En el nivel de experiencia 3, tú será capaz de aumentar una de sus estadísticas — eligiendo
-<input>I</input>ntelligence Will ayudan a su ortografía aún más.
+<input>I</input>ntelligence ayudan a su ortografía aún más.
 
 %%%%
 tutorial4 meph_reminder
@@ -644,7 +644,7 @@ tutorial4 order_allies
 ¡Intente dejar que sus aliados hagan el asesinato! Si es necesario, puedes ordene sobre ellos
 con <input>$cmd[CMD_SHOUT]</input>. Antes de abrir esta puerta, puedes quiere
 espera con <input>$cmd[CMD_WAIT]</input> hasta que tus aliados hayan atrapado
-arriba contigo. Su citación Will sólo se queda por un corto tiempo, así que no
+arriba contigo. Su citación sólo se queda por un corto tiempo, así que no
 Espera demasiado tiempo, o llama a algunos nuevos antes de comenzar una pelea.
 
 %%%%
@@ -654,10 +654,10 @@ Dividir despegar en un objeto separado.
 La armadura pesada realmente dificulta la ortografía. Trata de poner el correo y el escudo
 (con <input>$cmd[CMD_EQUIP]</input><localtiles>
 <input>clicking</input> on them</localtiles>), y compare su ortografía
-tasas de fracaso con <input>$cmd[CMD_DISPLAY_SPELLS]</input>§ o por
-<input>mouseover</input>0 § your memorised spells</input>1§. Puedes tomar
-armadura de nuevo con </input>2§$cmd[CMD_UNEQUIP] </input>3§</input>4§ or,
-de nuevo, vía </input>5§mouseclick</input>6</input>7§.
+tasas de fracaso con <input>$cmd[CMD_DISPLAY_SPELLS]</input> o por
+<input>mouseover</input>0  your memorised spells</input>1. Puedes tomar
+armadura de nuevo con </input>2$cmd[CMD_UNEQUIP] </input>3</input>4 or,
+de nuevo, vía </input>5mouseclick</input>6</input>7.
 
 %%%%
 tutorial4 resting_reminder
@@ -687,14 +687,14 @@ Una sola pantalla recapitulando todos los comandos.
 <yellow>Spellcasting commands</yellow>
 <input>$cmd[CMD_MEMORISE_SPELL]
 <input>$cmd[CMD_DISPLAY_SPELLS]</input> check spell proficiency
-<input>$cmd[CMD_CAST_SPELL]</input>cast§ a spell<localtiles>
+<input>$cmd[CMD_CAST_SPELL]</input>cast a spell<localtiles>
 También puede aprender nuevos hechizos a través de la pestaña de memorización <w></w>.
-Puede lanzar hechizos memorizados a través de <input>leftclick§AG14, y leer sus descripciones y comprobar su eficacia del hechizo por <input>mouseover</input> o <input>rightclick</input></localtiles>§
-<input>$cmd[CMD_QUIVER_ITEM]§AG21 ajustar el quiver
+Puede lanzar hechizos memorizados a través de <input>leftclickAG14, y leer sus descripciones y comprobar su eficacia del hechizo por <input>mouseover</input> o <input>rightclick</input></localtiles>
+<input>$cmd[CMD_QUIVER_ITEM]AG21 ajustar el quiver
 
 <input>$cmd[CMD_REST]</input> descansar hasta 100 vueltas para recuperar puntos de magia y salud
 <input>$cmd[CMD_SHOUT]</input>
-<input>$cmd[CMD_UNEQUIP]§AG27 § take off equipment
+<input>$cmd[CMD_UNEQUIP]AG27  take off equipment
 
 %%%%
 tutorial5 start
@@ -717,7 +717,7 @@ Puedes orar en un altar con <input>$cmd[CMD_GO_DOWNSTAIRS] </input>
 <localtiles> (o por <input>izquierda haciendo clic </input> en su carácter)</localtiles>
 para tener una idea de lo que un dios te ofrece, y para unirte a la fe. Si
 tú presiona <input>!</input><localtiles> or
-<input>haga clic derecho§AG10</localtiles> on the religion screen, puedes ver un
+<input>haga clic derechoAG10</localtiles> on the religion screen, puedes ver un
 descripción más detallada.
 
 Confirme su elección con <input>J</input> o <input>Enter</input>.
@@ -779,7 +779,7 @@ Una sola pantalla recapitulando todos los comandos.
 <input>$cmd[CMD_GO_DOWNSTAIRS]</input> orar en un altar para unirse a un dios
 <input>$cmd[CMD_USE_ABILITY]</input> utilizar una habilidad divina
 <input>$cmd[CMD_DISPLAY_RELIGION]</input> ver su posición religiosa<localtiles>
-A <input>haga clic derecho</input> en la ficha del jugador Will también subir la pantalla de la religión. §AG13 §
+A <input>haga clic derecho</input> en la ficha del jugador también subir la pantalla de la religión. AG13 
 
 <yellow>Resting</yellow>
 <input>$cmd[CMD_WAIT]</input> esperar y descansar un solo giro
@@ -787,6 +787,6 @@ A <input>haga clic derecho</input> en la ficha del jugador Will también subir l
 
 <yellow>Otros comandos</yellow>
 <input>$cmd[CMD_DISPLAY_OVERMAP]</input> mostrar un resumen de la Mazmorra
-<input>$cmd[CMD_DISPLAY_COMMANDS]/§AG25 § search the description database
+<input>$cmd[CMD_DISPLAY_COMMANDS]/AG25  search the description database
 
 %%%%

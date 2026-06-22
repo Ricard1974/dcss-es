@@ -8,8 +8,8 @@ acercándolo.
 A faded altar of an unknown god
 
 Un antiguo altar, despojado de todas las características identificativas por el pasaje de
-Eones. Orando en ella Will convertirlos a un dios desconocido, y la deidad del altar
-Will aprecia mucho la conversión en tan antiguo un sitio de adoración.
+Eones. Orando en ella convertirlos a un dios desconocido, y la deidad del altar
+aprecia mucho la conversión en tan antiguo un sitio de adoración.
 
 %%%%
 A glowing golden altar of el Resplandeciente
@@ -231,7 +231,7 @@ Some shallow water
 
 Una piscina de nublado, cintura-agua profunda. Los bien adaptados al agua pueden nadar
 a través de ella y ataque normalmente. Los no-swimmers deben pasar por el agua lentamente
-y Will ocasionalmente no atacan en la melee cuando se va por el sauce
+y ocasionalmente no atacan en la melee cuando se va por el sauce
 agua; aunque las grandes criaturas son capaces de mantener su equilibrio, moverse a un
 velocidad normal, y evitar el fumbling.
 
@@ -239,9 +239,9 @@ velocidad normal, y evitar el fumbling.
 A toxic bog
 
 Una sucia piscina de lodos venenosos, de cintura. Ojear o nadar a través de
-sludge Will dañar y envenenar a cualquier criatura, incluso a aquellos resistentes al veneno.
+sludge dañar y envenenar a cualquier criatura, incluso a aquellos resistentes al veneno.
 Aquellos bien adaptados al agua pueden nadar a través de él y atacar normalmente.
-Los no-swimmers deben pasar por el agua lentamente y Will ocasionalmente no pueden
+Los no-swimmers deben pasar por el agua lentamente y ocasionalmente no pueden
 ataque en melee cuando se va por agua poco profunda; aunque las grandes criaturas son
 capaz de mantener su equilibrio, moverse a una velocidad normal, y evitar el fumbling.
 
@@ -306,7 +306,7 @@ causar corrosión temporal.
 %%%%
 A metal wall
 
-Una pared de metal gris brillante. Como todo electricista de mazmorras sabe, es Will tierra
+Una pared de metal gris brillante. Como todo electricista de mazmorras sabe, es tierra
 incluso tornillos mágicos de relámpago.
 
 %%%%
@@ -451,7 +451,7 @@ Una entrada de algún tipo. No puedes saber dónde conduce sin acercarte.
 A passage of Golubria
 
 Un portal inestable que permite viajar instantáneamente a otro pasaje cercano
-de Golubria, y Will cerca de todo lo que pasa a través de ella.
+de Golubria, y cerca de todo lo que pasa a través de ella.
 
 %%%%
 A portal to somewhere
@@ -502,7 +502,7 @@ A cache of baked goods
 
 Un montón de panes, horneado y frito de pequeños dones divinos de harina y
 las culturas de crecimiento, otorgan la vida útil extendida a través del sucour sagrado. Ya lo sabes.
-llevar tanta comida como tú Will siempre necesita para este viaje, pero un aperitivo ligero
+llevar tanta comida como tú siempre necesita para este viaje, pero un aperitivo ligero
 No debería doler.
 
 %%%%
@@ -510,7 +510,7 @@ A cache of fruit
 
 Un montón de fruta surtida, que van desde grapas comunes de mazmorras como chokos y
 esnozzcumbers, a raras golosinas como manzanas y naranjas. Ya llevas como
-mucho alimento como tú Will siempre necesita para este viaje, pero la burbuja ocasional
+mucho alimento como tú siempre necesita para este viaje, pero la burbuja ocasional
 No haría daño.
 
 %%%%
@@ -518,7 +518,7 @@ A cache of meat
 
 Una vajilla de carnes conservadas de orígenes variados y preparaciones: franjas de cebo,
 salchichas ahumadas y raciones de proteína indeterminadas. Ya llevas como
-mucho alimento como tú Will siempre necesita para este viaje, pero esto podría ofrecer el raro
+mucho alimento como tú siempre necesita para este viaje, pero esto podría ofrecer el raro
 oportunidad de probar yak...
 
 %%%%
@@ -536,14 +536,14 @@ Un pilar de piedra arruinado y desmoronado.
 A one-way staircase leading down
 
 Una escalera maldita que conduce más abajo, impregnada de magia para prevenir cualquier
-Regresa por las escaleras. Los aventureros que toman este pasaje Will necesitan encontrar un
+Regresa por las escaleras. Los aventureros que toman este pasaje necesitan encontrar un
 volver escaleras en otro lugar en el nivel donde llegan.
 
 %%%%
 A one-way staircase leading up
 
 Una escalera maldecida que conduce, impregnada de magia para evitar cualquier regreso
-por las escaleras. Los aventureros que toman este paso Will necesitan encontrar un retorno
+por las escaleras. Los aventureros que toman este paso necesitan encontrar un retorno
 escaleras en otro lugar en el nivel donde llegan.
 
 %%%%
@@ -581,7 +581,7 @@ veces se cortan.
 a purified mutation catalyst
 
 Un arcano experimental todavía, preparando un poco incompleto, si refinado, mutagénico
-Suero. Romper esto abierto Will te bañan en mists místicas, impartiendo sobre ti uno
+Suero. Romper esto abierto te bañan en mists místicas, impartiendo sobre ti uno
 mutación beneficiosa (excluyendo las que podrían restringir las ranuras del equipo).
 
 %%%%
@@ -592,7 +592,7 @@ Un arcano complejo, abierto y totalmente vaciado de su contenido.
 %%%%
 A gate leading back out of this place
 
-Una puerta que Will te permite volver de donde viniste.
+Una puerta que te permite volver de donde viniste.
 
 %%%%
 A gate leading out of Pandemonium
@@ -732,7 +732,7 @@ A staircase leading out of the dungeon
 
 Esta escalera conduce de nuevo de la Mazmorra.
 
-Una escalera que sale de la Mazmorra. Escalando estas escaleras Will termina tu
+Una escalera que sale de la Mazmorra. Escalando estas escaleras termina tu
 búsqueda, ya sea que lleves el Orbe contigo o no.
 
 %%%%
@@ -800,7 +800,7 @@ de Zot, y la runa plata en el quinto piso está muy guardado.
 A transporter
 
 Un portal de ida a otro lugar en este nivel. Al usar un transportador,
-aliados y monstruos adyacentes Will viajar con tú al otro lado.
+aliados y monstruos adyacentes viajar con tú al otro lado.
 
 %%%%
 A transporter landing site
@@ -859,7 +859,7 @@ A runed door
 
 Una puerta, cubierta de escritura escénica. Parece que hay algo especial
 detrás de ella — quizás peligro, quizás tesoro. Puede romper las runas por
-abrirla como cualquier otra puerta, pero las criaturas de the DungeonWill no se atreven a
+abrirla como cualquier otra puerta, pero las criaturas de the Dungeonno se atreven a
 para intentarlo.
 
 %%%%
@@ -867,7 +867,7 @@ A runed translucent door
 
 Una puerta, cubierta de escritura escénica, hecha de madera mágicamente translúcida. Tiene
 fue creado para sellar un gran peligro o un tesoro glorioso. Tú puede romper el
-corre por abrirla como cualquier otra puerta, pero criaturas de la Mazmorra Will no
+corre por abrirla como cualquier otra puerta, pero criaturas de la Mazmorra no
 Me atrevo a intentarlo.
 
 %%%%
@@ -1009,32 +1009,32 @@ A huge broken translucent gate
 An alarm trap
 
 Una trampa que crea un ruido fuerte para atraer monstruos cercanos. Además de la
-ruido que crea, Will aplicar un hechizo haciendo monstruos por todas partes
+ruido que crea, aplicar un hechizo haciendo monstruos por todas partes
 nivel consciente de su ubicación. Los monstruos hostiles pueden desencadenar esta trampa ellos mismos
-para invocar sus efectos contra tú, pero sus aliados Will evitar el paso en él.
+para invocar sus efectos contra tú, pero sus aliados evitar el paso en él.
 
 %%%%
 An archmage's trap
 
 Una trampa mágica hecha por un mago avaricioso. Cuando tú o un enemigo
-monstruo pasos en él, tú Will perder un porcentaje de su mp, mientras que hasta tres de
-los ortógrafos más fuertes hostiles a la vista Will tienen sus hechizos empoderados.
-Sus aliados Will evitan pisarlo.
+monstruo pasos en él, tú perder un porcentaje de su mp, mientras que hasta tres de
+los ortógrafos más fuertes hostiles a la vista tienen sus hechizos empoderados.
+Sus aliados evitan pisarlo.
 
 %%%%
 A devourer's trap
 
 Una trampa mágica ligada por la crueldad divina a los estómagos de algunos insondables
 Depredadores interdimensionales. Cuando tú o un monstruo hostil pisa sobre él, tiene un
-alto riesgo que Will expulsar el ácido digestivo sobre tú, corroeando tú. Tus aliados
-Will Evite pisarlo.
+alto riesgo que expulsar el ácido digestivo sobre tú, corroeando tú. Tus aliados
+Evite pisarlo.
 
 %%%%
 A dispersal trap
 
-Cualquiera pisando esta trampa Will se transloca a sí mismo y a cualquier otro en vista
+Cualquiera pisando esta trampa se transloca a sí mismo y a cualquier otro en vista
 a una nueva ubicación cerca. Los monstruos hostiles pueden desencadenar esta trampa, pero tu
-allies Will evite pisarlo.
+allies evite pisarlo.
 
 Después de desencadenar, no se puede activar de nuevo para varias vueltas.
 
@@ -1043,34 +1043,34 @@ A dispersal trap (recharging)
 
 REF0 
 
-Actualmente está recargando y Will vuelve a ser activo en un corto tiempo.
+Actualmente está recargando y vuelve a ser activo en un corto tiempo.
 
 %%%%
 A harlequin's trap
 
 Una trampa mágica que dejó atrás por las inefables y espectaculares ruinas del caos. Cuando
 tú o un monstruo hostil pisa sobre él, hasta tres de los monstruos más fuertes en
-la vista Will tienen sus ataques interconectados temporalmente con un toque de caos. Tu
-allies Will evite pisarlo.
+la vista tienen sus ataques interconectados temporalmente con un toque de caos. Tu
+allies evite pisarlo.
 
 %%%%
 A net trap
 
 Un gran lanzador neto oculto colgando del techo de la Mazmorra. Encantado por
 el poder de Zot, cada vez que una criatura inteligente camina aquí - si amigo
-o enemigo - la red Will tierra sólo en tú.
+o enemigo - la red tierra sólo en tú.
 
 %%%%
 A permanent teleport trap
 
-Una trampa mágica que Will desplaza a cualquiera que la pase a un lugar aleatorio
+Una trampa mágica que desplaza a cualquiera que la pase a un lugar aleatorio
 el mismo nivel de mazmorras.
 
 %%%%
 A pressure plate
 
 Un gatillo de algún tipo. No puedes decir a qué clase de trampa está apegada.
-Su complicado sistema de detección Will activa la trampa incluso cuando alguien vuela
+Su complicado sistema de detección activa la trampa incluso cuando alguien vuela
 sobre él.
 
 %%%%
@@ -1083,16 +1083,16 @@ de ella.
 %%%%
 A teleport trap
 
-Una trampa mágica que Will desplaza a cualquiera que la pase a un lugar aleatorio
-el mismo nivel de mazmorras. Se usa con la edad, y Will se disipa en el uso.
+Una trampa mágica que desplaza a cualquiera que la pase a un lugar aleatorio
+el mismo nivel de mazmorras. Se usa con la edad, y se disipa en el uso.
 
 %%%%
 A tyrant's trap
 
 Una trampa mágica construida para reforzar los ejércitos de algún depósito conquistador. Cuando tú
-o un monstruo hostil pisa sobre ella, tus ataques de melee Will se debilitan para hacer
+o un monstruo hostil pisa sobre ella, tus ataques de melee se debilitan para hacer
 hasta tres de los monstruos más peligrosos a la vista se vuelven más fuertes. Tu
-allies Will evite pisarlo.
+allies evite pisarlo.
 
 %%%%
 A web
@@ -1107,7 +1107,7 @@ Una trampa que inflige efectos mágicos peligrosamente impredecibles en aquellos
 lo suficientemente desafortunado como para pisarlo. Tú puede encontrarse petrificado, contaminado
 con enormes cantidades de magia salvaje, tienen poderosos amigos convocados contra ti,
 o algo así. Los monstruos hostiles pueden desencadenar esta trampa para invocar su
-efectos en tú, pero sus aliados Will evitar el paso en él.
+efectos en tú, pero sus aliados evitar el paso en él.
 
 %%%%
 A flagged portal
@@ -1130,14 +1130,14 @@ Wares. Nunca se quedan en un lugar por mucho tiempo.
 A gateway to a bazaar
 
 Un portal que conduce a un Bazaar, donde los comerciantes itinerantes se reúnen para vender sus
-Wares. Ellos Will te esperan, pero una vez que tengas la oportunidad de navegar por sus
-inventario, los comerciantes Will salen en busca de otros clientes.
+Wares. Ellos te esperan, pero una vez que tengas la oportunidad de navegar por sus
+inventario, los comerciantes salen en busca de otros clientes.
 
 %%%%
 A phantasmal passage
 
 Un portal que conduce a uno de muchos repositorios de Necropolis, donde los recién muertos
-y profundamente resentido están sellados. Este grifo errante Will eventualmente se mueve
+y profundamente resentido están sellados. Este grifo errante eventualmente se mueve
 en otro lugar para recibir más muertos.
 
 %%%%
@@ -1204,7 +1204,7 @@ An archival metal wall
 
 Una pared metálica ensorcelada recubierta en un guión inescrutable no lineal, grabando
 los pesares de los interred y sus visitantes por igual. Como con todas las paredes metálicas,
-es casi imposible de destruir, y Will tierra todas las variedades de atado
+es casi imposible de destruir, y tierra todas las variedades de atado
 Rayos.
 
 %%%%
@@ -1231,12 +1231,12 @@ An ice covered rock wall
 Una pared de roca cubierta por una capa gruesa de helada y hielo.
 
 %%%%
-Some ice crusted deep water
+Some ice crtú deep water
 
 Un estanque de agua profunda, crujido con bloques rotos de hielo.
 
 %%%%
-Some ice crusted shallow water
+Some ice crtú shallow water
 
 Un estanque de agua poco profunda, crujido con bloques rotos de hielo.
 
@@ -1493,21 +1493,21 @@ An arcane conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
 destruida y perturbada por la magia suficientemente poderosa, su místico destructivo
-energía Will disperso inofensivamente.
+energía disperso inofensivamente.
 
 %%%%
 A misfortune conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
 destruida y perturbada por la magia suficientemente poderosa, su maldecido maldecido
-energía Will disperso inofensivamente.
+energía disperso inofensivamente.
 
 %%%%
 A dimensional conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
 destruida y perturbada por la magia suficientemente poderosa, su warp extraplanar
-energía Will disperso inofensivamente.
+energía disperso inofensivamente.
 
 %%%%
 A soul conduit
@@ -1521,21 +1521,21 @@ An alchemical conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
 destruida y perturbada por la magia suficientemente poderosa, su ardor venenoso
-energía Will disperso inofensivamente.
+energía disperso inofensivamente.
 
 %%%%
 A fiery conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
 destruida y perturbada por la magia suficientemente poderosa, su energía cada vez más ardiente
-Will disperso inofensivamente.
+disperso inofensivamente.
 
 %%%%
 An icy conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
 destruida y perturbada por la magia suficientemente poderosa, su energía fría
-Will disperso inofensivamente.
+disperso inofensivamente.
 
 %%%%
 An earthen conduit
@@ -1684,7 +1684,7 @@ Un antiguo sarcófago. Parece estar vacío.
 A heavily etched metal wall
 
 Un muro de metal grabado con murales que representan, en gran y espantoso detalle,
-exactamente qué Will se hace a alguien atrapado robando de las Bóvedas.
+exactamente qué se hace a alguien atrapado robando de las Bóvedas.
 
 %%%%
 A heavily etched crystal wall

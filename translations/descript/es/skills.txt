@@ -8,7 +8,7 @@ la mayor parte del uso de la magia en el área que te rodea.
 
 Ser calificado en Magia de aire aumenta la tasa de éxito y poder de hechizo de hechizos
 en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en
-qué caso deletrear el éxito y el poder Will dependen de la habilidad promedio en
+qué caso deletrear el éxito y el poder dependen de la habilidad promedio en
 estas escuelas.
 
 %%%%
@@ -20,7 +20,7 @@ desenmascarar el tejido de la magia misma.
 
 Ser experto en Alquimia aumenta la tasa de éxito y poder de hechizo de
 hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder Will dependen de la habilidad promedio
+en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
 en estas escuelas.
 
 %%%%
@@ -36,7 +36,7 @@ Axes
 Los ejes azotan a múltiples enemigos con un solo golpe, golpeando enemigos en un
 Arc alrededor de la peladora.
 
-Ser experto con Axes Will te permite atacar más rápidamente con todas las armas
+Ser experto con Axes te permite atacar más rápidamente con todas las armas
 de este tipo, así como aumentar su precisión y daño con ellos.
 
 Ser experto con ejes aumenta su eficacia con Mazas y mayales y
@@ -53,7 +53,7 @@ afectado.
 
 Ser calificado en Conjurations aumenta la tasa de éxito y poder de hechizo de
 hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder Will dependen de la habilidad promedio
+en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
 en estas escuelas.
 
 %%%%
@@ -74,7 +74,7 @@ convertir a tus enemigos en piedra.
 
 Ser calificado en Magia de tierra aumenta la tasa de éxito y poder de hechizo de
 hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder Will dependen de la habilidad promedio
+en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
 en estas escuelas.
 
 %%%%
@@ -98,20 +98,20 @@ Conjuraciones eficaces.
 
 Ser calificado en Magia de fuego aumenta la tasa de éxito y poder de hechizo de
 hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder Will dependen de la habilidad promedio
+en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
 en estas escuelas.
 
 %%%%
 Forgecraft
 
 Forgecraft es el arte de crear objetos tangibles fuera de la magia. Forgecraft
-hechizos pueden construir una amplia gama de criaturas mecánicas que Will lucha
+hechizos pueden construir una amplia gama de criaturas mecánicas que lucha
 junto a la casta, así como crear trampas y barricadas e incluso girar la
 resiliencia física de la armadura en un arma.
 
 Ser calificado en Forgecraft aumenta la tasa de éxito y poder de hechizo de
 hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder Will dependen de la habilidad promedio
+en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
 en estas escuelas.
 
 %%%%
@@ -124,7 +124,7 @@ La habilidad en Hexes puede ayudar a superar esto.
 
 Ser calificado en Hexes aumenta la tasa de éxito y poder de hechizo de hechizos en
 esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en las que
-caso ortografía éxito y poder Will depende de la habilidad promedio en estos
+caso ortografía éxito y poder depende de la habilidad promedio en estos
 escuelas.
 
 %%%%
@@ -135,14 +135,14 @@ efectos - por ejemplo, armadura de hielo temporal.
 
 Ser calificado en Magia de hielo aumenta la tasa de éxito y poder de hechizo de hechizos
 en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas, en
-qué caso deletrear el éxito y el poder Will dependen de la habilidad promedio en
+qué caso deletrear el éxito y el poder dependen de la habilidad promedio en
 estas escuelas.
 
 %%%%
 Invocations
 
 Su habilidad de invocaciones afecta a la probabilidad de que un intento de utilizar la divina
-habilidades con ciertos dioses Will ser exitoso, y a menudo el poder de tales
+habilidades con ciertos dioses ser exitoso, y a menudo el poder de tales
 habilidades.
 
  LUA0 
@@ -150,7 +150,7 @@ habilidades.
 %%%%
 Long Blades
 
-Ser experto con Hojas largas Will te permite atacar más rápidamente con todo
+Ser experto con Hojas largas te permite atacar más rápidamente con todo
 armas de este tipo, así como aumentar su precisión y daño con ellos.
 
 Ser experto con Hojas largas aumenta su eficacia con Hojas cortas,
@@ -159,7 +159,7 @@ y viceversa.
 %%%%
 Maces & Flails
 
-Ser experto con Mazas y mayales Will te permite atacar más rápidamente con
+Ser experto con Mazas y mayales te permite atacar más rápidamente con
 todas las armas de este tipo, así como aumentar su precisión y daño con
 ellos.
 
@@ -176,7 +176,7 @@ hechizos que otorgan curación inesperada en varias formas.
 
 Ser calificado en Necromancy aumenta la tasa de éxito y poder de hechizo de
 hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder Will dependen de la habilidad promedio
+en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
 en estas escuelas.
 
 %%%%
@@ -184,7 +184,7 @@ Polearms
 
 Los polacos pueden ser evocados con ‘v’ para atacar enemigos de dos espacios de distancia.
 
-Ser experto con Polearms Will te permite atacar más rápidamente con todos
+Ser experto con Polearms te permite atacar más rápidamente con todos
 armas de este tipo, así como aumentar su precisión y daño con ellos.
 
 Ser hábil con Polearms aumenta su eficacia con Axes y Staves,
@@ -193,7 +193,7 @@ y viceversa.
 %%%%
 Ranged Weapons
 
-Ser experto con armas extendidas Will te permite atacar más rápidamente con todos
+Ser experto con armas extendidas te permite atacar más rápidamente con todos
 arcos, arcos cruzados y eslingas, así como aumentar su precisión y daño con
 ellos.
 
@@ -219,7 +219,7 @@ Short Blades
 Hojas cortas son más eficaces que cualquier otro tipo de arma apuñalando indefenso
 enemigos.
 
-Ser experto con Hojas cortas Will te permite atacar más rápidamente con todo
+Ser experto con Hojas cortas te permite atacar más rápidamente con todo
 armas de este tipo, así como aumentar su precisión y daño con ellos.
 
 Ser experto con Hojas cortas aumenta su eficacia con Hojas largas,
@@ -244,7 +244,7 @@ Staves
 Cuevas requieren una cantidad relativamente baja de habilidad para ser utilizado más eficazmente,
 aunque carecen del alto potencial de daños de otras clases de armas.
 
-Ser hábil con Staves Will te permite atacar más rápidamente con todos
+Ser hábil con Staves te permite atacar más rápidamente con todos
 armas de este tipo, así como aumentar su precisión y daño con ellos.
 
 Ser hábil con Cuevas aumenta su eficacia con Mazas y mayales y
@@ -253,7 +253,7 @@ Polearms y viceversa.
 %%%%
 Stealth
 
-Al entrenar a Stealth, puedes hace menos probable que los monstruos Will noten que
+Al entrenar a Stealth, puedes hace menos probable que los monstruos noten que
 si están dormidos o de otra manera no saben, y aumentan sus posibilidades de monstruos
 perderte el rastro después de dejar su visión. Note que más poderoso
 Los monstruos tienden a ser más sospechosos y observantes.
@@ -273,7 +273,7 @@ y su equipo es tan efímero como ellos.
 
 Ser experto en Invocaciones aumenta la tasa de éxito y poder de hechizo de
 hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder Will dependen de la habilidad promedio
+en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
 en estas escuelas.
 
 %%%%
@@ -295,7 +295,7 @@ transportar a tus enemigos lejos de ti.
 
 Ser calificado en Translocaciones aumenta la tasa de éxito y poder de hechizo de
 hechizos en esta escuela. Muchos hechizos pertenecen a una combinación de varias escuelas,
-en cuyo caso el éxito de la ortografía y el poder Will dependen de la habilidad promedio
+en cuyo caso el éxito de la ortografía y el poder dependen de la habilidad promedio
 en estas escuelas.
 
 %%%%
