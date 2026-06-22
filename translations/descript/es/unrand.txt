@@ -243,7 +243,7 @@ las escuelas elementales de magia.
 heavy crossbow "Sniper"
 
 El arma sagrada de Toth-Mos, primer apóstol del dios Ashenzari. Subvenciones
-el wielder una fracción de la propia visión de Ashenzari, asegurando que cada disparo Will
+el wielder una fracción de la propia visión de Ashenzari, asegurando que cada disparo 
 tierra verdadera.
 
 %%%%
@@ -383,7 +383,7 @@ incluye un coif de cadena, chausses y gauntlets de correo.
 %%%%
 skin of Zhor
 
-El   LUA0   skin de un animal extraño, nativo de tierras frías y distantes. Se irradia
+El LUA0 skin de un animal extraño, nativo de tierras frías y distantes. Se irradia
 el frío de su hábitat nativo.
 
 %%%%
@@ -644,7 +644,7 @@ hat of the High Council
 
 Una reliquia de una antigua guerra magos. Centuries más tarde, todavía se rompe con
 efectos de los hexes residuales y energías mágicas que una vez fue sometida a
-sobre una base diaria; los ortógrafos capaces de conseguir un mango en su poder, sin embargo, Will
+sobre una base diaria; los ortógrafos capaces de conseguir un mango en su poder, sin embargo, 
 encuentra que mejora el poder de sus hechizos.
 
 %%%%

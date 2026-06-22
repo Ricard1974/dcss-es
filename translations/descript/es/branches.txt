@@ -158,7 +158,7 @@ Portals to el Vestíbulo del Infierno se encuentran abundantemente en las Profun
 %%%%
 Ice Cave
 
-El   LUA0   es una caverna desolada
+El LUA0 es una caverna desolada
 con forma de hielo sólido y lleno de los ecos de aullidos bestiales. El intrincado
 esculturas y estatuas que una vez recubrieron sus muros han sido atormentadas y oscurecidas por
 siglos de Slow fundición y refreezing.

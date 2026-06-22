@@ -206,7 +206,7 @@ Cada hechizo que lanzas mientras Enkindled consume un recuerdo, y el estado fina
 una vez tienes no más izquierda (o después de un corto período de tiempo, independientemente).
 
 En su nivel de experiencia actual, puedes tiene suficientes recuerdos para lanzar un máximo
-de   LUA0   hechizos seguidos de esta manera.
+de LUA0 hechizos seguidos de esta manera.
 
 %%%%
 Breathe Rust ability
@@ -421,7 +421,7 @@ Redimida una vez.
 %%%%
 Unleash Destruction ability
 
-Canaliza una explosión de infernal   LUA0    a una criatura dirigida. Los daños y la precisión aumentan por las invocaciones
+Canaliza una explosión de infernal LUA0 a una criatura dirigida. Los daños y la precisión aumentan por las invocaciones
 habilidad.
 
 %%%%
@@ -456,12 +456,12 @@ inagotable.
 %%%%
 Globe of Annihilation ability
 
-Lanza una esfera rugiente de fuerza destructiva intensa dibujada desde el   LUA0  
+Lanza una esfera rugiente de fuerza destructiva intensa dibujada desde el LUA0 
 
 Esta esfera reúne fuerza a medida que viaja, y intentan entrar en un
 objetivo designado, aunque se mueve y gira con inercia considerable. Cuando sea
 colisiona con una criatura u otra obstrucción, detona en un violento
-explosión de   LUA1   cuyo radio depende de la distancia viajada.
+explosión de LUA1 cuyo radio depende de la distancia viajada.
 
 Estás protegido de esta explosión.
 
@@ -473,7 +473,7 @@ a un precio peligroso.
 
 En el momento en que el pacto está sellado, una explosión masiva de condenación rodea
 tú, y tú... te transformas en un avatar demoníaco, concediéndote demoníaco.
-resistencias, invulnerables Will, doble curación de los asesinatos, y reduciendo todo
+resistencias, invulnerables , doble curación de los asesinatos, y reduciendo todo
 daño que tomas por 1/3. Tú además ganar un bono a todos los salientes
 daño proporcional a lo lesionado que estabas cuando usaste esta habilidad.
 
@@ -619,7 +619,7 @@ prefieras. Por lo tanto, puedes sacar dichas cartas en el orden que elegiste.
 %%%%
 Smiting ability
 
- REF0  La fuerza del smiting se aumenta por la habilidad de las invocaciones.
+ REF0 La fuerza del smiting se aumenta por la habilidad de las invocaciones.
 
 Beogh no permite que tú utilice esto directamente contra otro apóstol durante un
 prueba divina.
@@ -665,7 +665,7 @@ al menos una vez por muerte.
 %%%%
 Wall of Briars ability
 
-Crece parches de corta duración alrededor tuyo. Monstruos atacando estos briares Will
+Crece parches de corta duración alrededor tuyo. Monstruos atacando estos briares 
 ser dañado por espinas afiladas. La habilidad de invocaciones aumenta la salud de los frailes.
 
 %%%%
@@ -753,7 +753,7 @@ anteriormente centrado en tú en lugar de centrar su atención exclusivamente en
 su sombra por varios giros antes de darse cuenta de su error - aunque si
 tener éxito en destruir tu sombra, la ilusión termina prematuramente.
 
-La duración de este efecto aumenta con la habilidad Invocations, como Will
+La duración de este efecto aumenta con la habilidad Invocations, como 
 durabilidad de tu sombra inmediatamente después de usarlo.
 
 %%%%
@@ -790,7 +790,7 @@ La habilidad de invocaciones aumenta la duración del efecto.
 %%%%
 Potion Petition ability
 
-Peticiones Gozag para venderle los efectos de un conjunto de pociones. (Estos efectos Will
+Peticiones Gozag para venderle los efectos de un conjunto de pociones. (Estos efectos 
 se aplica de manera instantánea y directa al peticionario, en lugar de ser proporcionado
 o estar borracho como una poción normal.) Gozag ofrecen tres listas a la vez, con
 precios variables.
@@ -808,7 +808,7 @@ Da 3000 oro a Gozag para extenderse a través de los habitantes de la corriente
 rama, sólo posible si la rama tiene habitantes inteligentes. Esos monstruos
 puede entonces ser ininteresado en la lucha contra tú (con habitantes más duros tener
 una oportunidad creciente de ser sobornado), y más raramente se unen a sus filas,
-Aunque no dejan su rama de casa. Enemigos aceptando un soborno Will
+Aunque no dejan su rama de casa. Enemigos aceptando un soborno 
 bajar el fondo de soborno restante; cuando se agota, los enemigos sobornados se vuelven
 indiferente si no se han convertido en sus aliados.
 
@@ -937,7 +937,7 @@ habilidad. Este sacrificio vale más si no puedes tren Dodging.
 %%%%
 Sacrifice a Hand ability
 
-Sacrifica una mano, causando que pierdas la capacidad de usar escudos  LUA0  , y poder usar un anillo menos.
+Sacrifica una mano, causando que pierdas la capacidad de usar escudos LUA0 , y poder usar un anillo menos.
 
 %%%%
 Sacrifice Experience ability
@@ -965,7 +965,7 @@ vulnerable al calor y al frío.
 %%%%
 Reject Sacrifices ability
 
-Rechaza todos los sacrificios ofrecidos. Hacerlo significa              1. Tomar más tiempo
+Rechaza todos los sacrificios ofrecidos. Hacerlo significa 1. Tomar más tiempo
 evaluar su preparación para futuros sacrificios. Ru not offer more
 sacrificios mientras hay una oferta existente todavía extendida.
 

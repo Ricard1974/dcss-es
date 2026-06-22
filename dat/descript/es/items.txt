@@ -782,7 +782,7 @@ Un arma temible con una hoja de afeitado y afeitado.
 %%%%
 dragon-coil talisman
 
-Un tallado intrincado, incrustado con diente de dragón y escala.   LUA0 
+Un tallado intrincado, incrustado con diente de dragón y escala. LUA0 
 
 %%%%
 earthy gem
@@ -877,7 +877,7 @@ Un pequeño bauble de vidrio que contiene una sustancia ominosamente brillante. 
 te inunda con energía transmutacional, dejando tu forma física inestable en un
 nivel fundamental.
 
-En este estado de flujo, tus ataques de melee son mucho más débiles, pero cada huelga Will
+En este estado de flujo, tus ataques de melee son mucho más débiles, pero cada huelga 
 contamina todo lo que golpeas con energía transmutacional - creciendo tan intensa
 en la tercera huelga que hace que su cuerpo torcida y deforme,
 infligiendo daños importantes. La falta de certeza en su forma física también
@@ -902,7 +902,7 @@ gell's gravitambourine
 Un cobre y tambourine de tungsteno que vibra con entusiasmo en sus manos, como si
 ansioso de ser usado.
 
-Así como la música reúne a la gente, sacudiéndolo con el ritmo adecuado Will
+Así como la música reúne a la gente, sacudiéndolo con el ritmo adecuado 
 dibujar un gran grupo de monstruos en un espacio estrecho y mantener cualquier hostil en
 lugar por un corto tiempo con ondas ineludibles de gravedad aplastante.
 
@@ -961,7 +961,7 @@ frío, y el veneno.
 %%%%
 grand grimoire
 
-Un libro que describe cómo los poderosos entre los citadores pueden doblarse a su Will
+Un libro que describe cómo los poderosos entre los citadores pueden doblarse a su 
 cosas terribles de Betwixt los aviones. Muchos han sido las almas injustificadas,
 sin embargo, que han jugueteado con este tomo y se han vuelto locos por inimaginable
 horrores de fuga.
@@ -1098,15 +1098,15 @@ y la llama que quema impureza.
 javelin
 
 Una larga y ligera vara que puede ser lanzada con la mano. {{
-    if you.race() == "Halfling"
-        or you.race() == "Kobold"
-        or you.race() == "Spriggan"
-    then
-        return "Por desgracia, es demasiada larga y rara para ti, así que eres
+ if you.race() == "Halfling"
+ or you.race() == "Kobold"
+ or you.race() == "Spriggan"
+ then
+ return "Por desgracia, es demasiada larga y rara para ti, así que eres
 incapaz de usarla."
-    else
-        return ""
-    end
+ else
+ return ""
+ end
 }}
 
 %%%%
@@ -1125,15 +1125,15 @@ cuchillas en forma de media luna en ambos extremos.
 large rock
 
 Un piedra, usada por los gigantes como proyectil. {{
-    if you.race() == "Ogre"
-       or you.race() == "Troll"
-       or you.race() == "Formicid"
-    then
-        return ""
-    else
-        return "Por desgracia, es demasiado grande y pesada para ti, así que
+ if you.race() == "Ogre"
+ or you.race() == "Troll"
+ or you.race() == "Formicid"
+ then
+ return ""
+ else
+ return "Por desgracia, es demasiado grande y pesada para ti, así que
 eres incapaz de usarla."
-    end
+ end
 }}
 
 %%%%
@@ -1492,7 +1492,7 @@ Un fragmento siempre cambiante de algo primordial; su sustancia parece ser
 undular entre carne y hueso y quizás incluso metal. Un experto suficiente
 Shapeshifter puede estabilizarlo en una forma utilizable - si impredecible -.
 
-(Si tu habilidad de Shapeshifting es al menos 6, tratando de poner esto en Will
+(Si tu habilidad de Shapeshifting es al menos 6, tratando de poner esto en 
 transformarlo en un azar de: Rimehorn, Scarab, Medusa, o Spore talismans.)
 
 %%%%
@@ -1544,7 +1544,7 @@ Una espada esbelta y puntiaguda, con un diseño excepcionalmente elegante.
 riddle talisman
 
 Una caja de rompecabezas intrincada que contiene un premio no reconocido. Transforma el usuario en
-una esfinge amante del enigma. En esta forma, son   LUA0  , y sus ataques melee causan vientos poderosos para golpear a su enemigo que hace
+una esfinge amante del enigma. En esta forma, son LUA0 , y sus ataques melee causan vientos poderosos para golpear a su enemigo que hace
 aumento del daño por cada espacio abierto junto a ellos. También son maestros
 encantadores, el casting Hex hechizos mucho más fácil e ignorando una parte de su
 El Willpower del enemigo.
@@ -1763,7 +1763,7 @@ control preciso.
 scroll of brand weapon
 
 Un pergamino que imbue un arma con una marca aleatoria. Cualquier marca existente ser
-reemplazado por otro, y cualquier marca prohibida por su dios actual Will
+reemplazado por otro, y cualquier marca prohibida por su dios actual 
 no ser elegido. Los artefactos no se pueden marcar de esta manera.
 
 Armas Melee comúnmente se marcan con el encendido, congelamiento, pesado,

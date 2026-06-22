@@ -54,7 +54,7 @@ Las visiones necrométicas del dolor y el sufrimiento, y las criaturas sin mente
 %%%%
 Animate Dead spell
 
-Por algún tiempo después de lanzar esto, criaturas vivientes asesinadas por la lanzador Will
+Por algún tiempo después de lanzar esto, criaturas vivientes asesinadas por la lanzador 
 como zombies. La posibilidad de reanimar un monstruo y la duración del efecto
 aumentar con poder de hechizo. Re-casting this spell return zombies to dust, as
 dejando el suelo.
@@ -661,7 +661,7 @@ Dispersal spell
 
 Teleporta a cualquier criatura a poca distancia de la casta. Cualquier
 criatura con el para resistir todavía ser irresistiblemente parpadeado un más corto
-distancia, y cualquier monstruo que afecta en absoluto tiene una oportunidad separada Will
+distancia, y cualquier monstruo que afecta en absoluto tiene una oportunidad separada 
 de estar confundida por la vigilancia del espacio.
 
 %%%%
@@ -689,7 +689,7 @@ Este hechizo se puede romper prematuramente por la muerte de su casta.
 Doomsaying spell
 
 Foretells a terrible futuro, infligiendo Doom igual a la mitad de lo que tomaría
-para que llegues al 100%. En la muerte de la lanzador, un sliver de este destino viene Will
+para que llegues al 100%. En la muerte de la lanzador, un sliver de este destino viene 
 para pasar en forma de emboscada; varios enemigos bien escondidos del suelo
 buscar su posición infaliblemente y todas las escaleras temporalmente
 sellado.
@@ -790,7 +790,7 @@ Spellpower aumentar cuánto tiempo el bog llantas.
 %%%%
 Eringya's Surprising Crocodile spell
 
-Invoca un cocodrilo diente para atacar a un enemigo adyacente. El cocodrilo Will
+Invoca un cocodrilo diente para atacar a un enemigo adyacente. El cocodrilo 
 aparecen debajo de la casta en una oleada de agua ahumada y realizan una potencia
 ataque contra el objetivo elegido, arrastrándolo tanto y la rueda hacia atrás
 antes de permitir a este último desmontar con seguridad detrás de él. No puede ser retransmitido
@@ -883,7 +883,7 @@ Construye una cáscara de hierro escoria alrededor de una chispa elemental volá
 de llover poderosos golpes en los adversarios de su creador - tan poderoso que
 el golem en sí es a menudo dañado por su impacto.
 
-Sólo tenuemente independiente de la magia de su creador, las llamas dentro de ella Will
+Sólo tenuemente independiente de la magia de su creador, las llamas dentro de ella 
 Si los dos se dejan de lado. Si su caparazón es
 destruido mientras el golem sigue activo, su núcleo expuesto violentamente
 detonar un momento después.
@@ -905,7 +905,7 @@ bombas que puede desplegar tanto en melee como en lanzamiento a distancia. Mient
 Las bombas de monarca no tienen ningún ataque propio, ellos persiguen la lanzador
 enemigos hasta que se dé la señal para explotar.
 
-Reproducir este hechizo mientras que todo lo que ha creado sigue activo Will
+Reproducir este hechizo mientras que todo lo que ha creado sigue activo 
 detonar la bomba monarca y todas las bombas, tratando una combinación de fuego y
 daño físico a todo lo adyacente a ellos además de la lanzador ellos mismos.
 
@@ -937,7 +937,7 @@ completamente en el AC de la lanzador.
 %%%%
 Foxfire spell
 
-Conjura dos bolas de gas pantano quema junto a la lanzador. Las bolas Will
+Conjura dos bolas de gas pantano quema junto a la lanzador. Las bolas 
 buscar rápidamente al monstruo más cercano y quemarlos. Ellos disipan inofensivamente
 si no es capaz de alcanzar un objetivo o si el caster intercambia lugares con ellos.
 
@@ -1023,7 +1023,7 @@ Brevemente reorienta la gravedad local para estar en una dirección cardinal de 
 eligiendo, haciendo que todas las criaturas a la vista tomen una distancia corta en eso
 dirección.
 
-La casta no es inmune a los efectos gravitatorios de este hechizo, pero Will
+La casta no es inmune a los efectos gravitatorios de este hechizo, pero 
 ser amortiguado así que no tienen daño de colisión. Otras criaturas no son así
 afortunado, y el impacto abrupto batir cualquier cosa que no era ya
 de pie junto a su nuevo "flor".
@@ -1311,7 +1311,7 @@ Spellpower aumenta el daño y la distancia de retroceso.
 %%%%
 Jinxbite spell
 
-Llama la atención de los espíritus tramposos. Mientras que sostiene, los espíritus Will
+Llama la atención de los espíritus tramposos. Mientras que sostiene, los espíritus 
 seguimiento de los ataques de la lanzador. Si el hechizo supera la voluntad de las víctimas,
 ellos sufren daños menores y ser drenado por la malicia juguetona de los sprites.
 
@@ -1503,7 +1503,7 @@ Drain la vida de pequeñas fracciones de su salud máxima.
 %%%%
 Marshlight spell
 
-Conjura dos bolas de gas pantano quema junto a la lanzador. Las bolas Will
+Conjura dos bolas de gas pantano quema junto a la lanzador. Las bolas 
 buscar rápidamente al monstruo más cercano y quemarlos. Los asistentes intentaron copiar esto
 con el hechizo 'Foxfire', pero su versión es mucho menos poderosa.
 
@@ -1558,7 +1558,7 @@ Las criaturas más duras y experimentadas tienen menos probabilidades de ser afe
 %%%%
 Mesmerise spell
 
-Intenta entrar a todos los enemigos a la vista. Los aventureros que no resisten Will
+Intenta entrar a todos los enemigos a la vista. Los aventureros que no resisten 
 ser incapaz de alejarse de la lanzador, mientras que otras criaturas se vuelven
 aturdido.
 
@@ -2052,7 +2052,7 @@ Searing Ray spell
 
 Dispara un rayo perforante continuo de energía arcana de las manos del caster. Así que...
 mientras el caster mantenga el foco en el hechizo y lo suministra con magia
-poder (esperando en su lugar y no tomando ninguna otra acción), el ray Will
+poder (esperando en su lugar y no tomando ninguna otra acción), el ray 
 seguir el objetivo de la lanzador si debe moverse.
 
 %%%%
@@ -2286,7 +2286,7 @@ Extende grandes tentáculos para atacar enemigos cercanos.
 Spectral Cloud spell
 
 Crea una nube de niebla espectral, tratando daños menores a todas las criaturas
-que los no muertos. Peligrosas pero de corta vida espectral criaturas undead Will
+que los no muertos. Peligrosas pero de corta vida espectral criaturas undead 
 coalesce de la niebla con el tiempo.
 
 %%%%
@@ -2298,7 +2298,7 @@ hechizos conocidos por su creador, aunque el más fuerte y volátil
 de las magias no pueden ser impregnadas de esta manera. La fuerza del servidor
 aumenta con poder de hechizo.
 
-(Mientras conoces este hechizo, puedes elige cuál de tus hechizos elegibles es Will
+(Mientras conoces este hechizo, puedes elige cuál de tus hechizos elegibles es 
 elenco con la capacidad de Servidor Imbue.)
 
 %%%%
@@ -2330,7 +2330,7 @@ Splinterfrost Shell spell
 Construye una frangible cáscara de hielo reforzado en un medio círculo alrededor de la
 caster, empujando criaturas fuera del camino para hacer espacio para ello, si es posible.
 
-Esta barricada es duradera, y cuando un segmento de ella es destruido, Will
+Esta barricada es duradera, y cuando un segmento de ella es destruido, 
 fractura en una salva de proyectiles helados lanzados en lo que lo destruyó.
 
 Si la casta se aleja demasiado de su barrera, se funde rápidamente.
@@ -2401,7 +2401,7 @@ Still Winds spell
 
 Lleva el aire a la quietud antinatural a través de un área enorme, evitando cualquier cosa
 un vórtice polar de romper la calma. El efecto toma concentración
-para mantener, y sólo dura un corto tiempo; si la lanzador es asesinada, nubes Will
+para mantener, y sólo dura un corto tiempo; si la lanzador es asesinada, nubes 
 empezar a formar de nuevo como normal.
 
 %%%%

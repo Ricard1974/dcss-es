@@ -240,7 +240,7 @@ Encontrar el próximo objetivo de autoexploración
 %%%%
 CMD_MAP_EXPLORE verbose
 
-Mueva el cursor a la siguiente ubicación a la que viaja autoexplorar Will.
+Mueva el cursor a la siguiente ubicación a la que viaja autoexplorar .
 
 %%%%
 CMD_MAP_FIND_ALTAR

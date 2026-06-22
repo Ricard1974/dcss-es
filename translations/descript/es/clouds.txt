@@ -92,7 +92,7 @@ Una nube de tinta, llenando completamente el agua.
 %%%%
 calcifying dust cloud
 
-Una nube petrificante. Criaturas atrapadas en la nube por cualquier tiempo Will
+Una nube petrificante. Criaturas atrapadas en la nube por cualquier tiempo 
 encontrarse girando a la piedra, aunque criaturas más experimentadas pueden ser capaces
 para resistir los efectos.
 

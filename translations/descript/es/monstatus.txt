@@ -34,7 +34,7 @@ tratado.
 %%%%
 asleep monstatus
 
-Esta criatura no puede moverse, actuar, bloquear o esquivar. Cualquier acción hostil Will
+Esta criatura no puede moverse, actuar, bloquear o esquivar. Cualquier acción hostil 
 despertarlo, aunque melee ataca contra él (incluso por otros monstruos) trato
 aumento del daño.
 
@@ -127,7 +127,7 @@ ellos mismos.
 %%%%
 contaminated monstatus
 
-Esta criatura ha sido contaminada por la energía transmutacional y sufre Will
+Esta criatura ha sido contaminada por la energía transmutacional y sufre 
 daño significativo cada tercera vez que se les inflige tal energía.
 
 %%%%
@@ -260,7 +260,7 @@ la red, que eventualmente puede destruirla. Spellcasting no tiene consecuencias.
 entangled in a web monstatus
 
 Esta criatura está atrapada en la web de una araña, reduciendo enormemente su evasión y
-evitando que se bloquee. Cualquier intento que haga para moverse o atacar Will
+evitando que se bloquee. Cualquier intento que haga para moverse o atacar 
 lucha contra la web, que eventualmente puede destruirla. Spellcast es
 sin problemas.
 
@@ -563,7 +563,7 @@ Esta criatura aún no te ha infligido con el olvido Howl y puede intentar hacerl
 %%%%
 ready to sunder monstatus
 
-El arma Sundering de esta criatura está completamente cargada y su próximo ataque Will
+El arma Sundering de esta criatura está completamente cargada y su próximo ataque 
 más preciso, infligir un daño enormemente aumentado, y acortar con mayor rango.
 Este efecto se perderá si se mueve.
 

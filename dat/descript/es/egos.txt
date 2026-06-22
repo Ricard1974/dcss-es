@@ -442,7 +442,7 @@ Aumenta el poder de tus hechizos mágicos.
 valour (valour) weapon ego
 
 Dispara un rayo de energía cuando golpea a un enemigo mientras su pelador tiene
-no menos del 80% de su máximo puntos de vida restante. Desenmascararlo Will
+no menos del 80% de su máximo puntos de vida restante. Desenmascararlo 
 brevemente Weaken su wielder.
 
 %%%%
@@ -457,7 +457,7 @@ venom (venom) weapon ego
 Envenena a las víctimas.
 
 %%%%
-willpower (Will+) armour ego
+willpower (+) armour ego
 
 Aumenta tu fuerza de voluntad, protegiendo contra ciertos efectos mágicos.
 

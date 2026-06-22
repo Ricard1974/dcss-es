@@ -145,19 +145,19 @@ tenga forma.
 Donald
 
 {{
-    local descript = "Un aventurero al igual que tú, que intenta encontrar el
+ local descript = "Un aventurero al igual que tú, que intenta encontrar el
 Orbe."
 
-    if you.race() ~= "Merfolk" and you.race() ~= "Octopode" then
-        descript = descript .. " A diferencia de ti, y a"
-    else
-        descript = descript .. " A"
-    end
+ if you.race() ~= "Merfolk" and you.race() ~= "Octopode" then
+ descript = descript .. " A diferencia de ti, y a"
+ else
+ descript = descript .. " A"
+ end
 
-    descript = descript .. " pesar de odiarla, se zambulle en el agua " ..
-                           "como una gallina."
+ descript = descript .. " pesar de odiarla, se zambulle en el agua " ..
+ "como una gallina."
 
-    return descript
+ return descript
 }}
 
 %%%%
@@ -639,11 +639,11 @@ Un tosco y larguirucho orco. Urug perdió un ojo en un combate contra una
 harpía, y juró exterminarlas a todas. Desgraciadamente, la visión con el ojo
 que le queda no es muy buena y te ha confundido con una de ellas.
 {{
-    if you.can_smell() then
-        return "Huele fatal."
-    else
-        return ""
-    end
+ if you.can_smell() then
+ return "Huele fatal."
+ else
+ return ""
+ end
 }}
 
 %%%%
@@ -753,7 +753,7 @@ habitualmente se halla en lugares subterráneos.
 air elemental
 
 Un espíritu proveniente del plano elemental del aire. Se materializa en este
-plano como un remolino que a menudo se disipa  y se vuelve a formar poco
+plano como un remolino que a menudo se disipa y se vuelve a formar poco
 después.
 
 %%%%
@@ -957,7 +957,7 @@ sus incendios todavía se encienden, el núcleo expuesto violentamente detonan u
 %%%%
 blink frog
 
-Una especie de rana que posee la capacidad de blink en Will. Puede blink
+Una especie de rana que posee la capacidad de blink en . Puede blink
 por sí mismo cerca de su presa prevista, o blink de distancia para escapar del daño. Es común
 encontrado en paquetes.
 
@@ -1039,7 +1039,7 @@ Una forma imposible que cincela con un color descaradamente. El poder de Zot
 fluye fuertemente a través de ella, superando esta realidad con innumerables otros donde
 su dominio permanece prístino.
 
-Cada tesseracta está inextricablemente ligada a la otra, y destruye una Will
+Cada tesseracta está inextricablemente ligada a la otra, y destruye una 
 destruir ambos (y expulsar a todas las criaturas que han acuñado a esta realidad,
 así como aturdiendo incluso aquellos que no tienen). Pero mientras estén
 permitido existir, no hay ningún fin a las fuerzas que buscan mantenerte alejado
@@ -1850,7 +1850,7 @@ Esporas.
 %%%%
 fungus
 
-Un lumpy   LUA0   hongo, creciendo bien en la mazmorra subterránea.
+Un lumpy LUA0 hongo, creciendo bien en la mazmorra subterránea.
 
 %%%%
 gargoyle
@@ -1919,7 +1919,7 @@ globe of annihilation
 
 Una esfera rugiente de energías destructivas intensas, extraída de la tela de la
 Demonios. persigue un objetivo designado inexorablemente, creciendo en tamaño como
-viaja. Si choca con una criatura o una pared, explota Will
+viaja. Si choca con una criatura o una pared, explota 
 violentamente - aunque su creador está protegido de la destrucción salvaje desatada
 como lo hace.
 
@@ -2151,7 +2151,7 @@ para crecer muchos más!
 
 Contratarla con cualquier arma de hoja más grande que un corto riesgo de la hoja
 cabeza y causando que dos más crezcan en su lugar. Garras muy grandes, como
-trolls', son lo suficientemente largos para hacer lo mismo. Sólo un arma marcada con llama Will
+trolls', son lo suficientemente largos para hacer lo mismo. Sólo un arma marcada con llama 
 cauterizar la herida y evitar que crezcan más cabezas.
 
 %%%%
@@ -2410,7 +2410,7 @@ a los transeúntes.
 lemure
 
 Un alma accursada mágicamente ligada a la servidumbre infernal para el mejor postor.
-Si su maestro es asesinado, será liberado Will, dejando este reino con gratitud.
+Si su maestro es asesinado, será liberado , dejando este reino con gratitud.
 
 %%%%
 lich
@@ -2948,7 +2948,7 @@ mago ausente.
 pillar of rime
 
 Una aguja de hielo extrañamente tenebroso, sus frágiles zarcillos alcanzando el cielo como
-los dedos de una mano estirada.   LUA0
+los dedos de una mano estirada. LUA0
 
 %%%%
 pillar of salt
@@ -3323,7 +3323,7 @@ vracs.
 shadow
 
 Una silueta sin rasgos de su propio cuerpo, moviéndose independientemente a través de la
-poder divino de Dithmenos. No importa cuántas veces se golpee, es Will
+poder divino de Dithmenos. No importa cuántas veces se golpee, es 
 reforma en sí misma, porque una sombra es inextinguible siempre y cuando lo castigue
 restos.
 
@@ -3331,7 +3331,7 @@ restos.
 shadowghast
 
 Una aparición que se disfraza como una sombra inofensiva. Attuned to the
-dim light of la Mazmorra, it can slip in and out of sight at Will, moving
+dim light of la Mazmorra, it can slip in and out of sight at , moving
 rápidamente de una piscina de sombra a la siguiente antes de golpear infaliblemente en la
 manchas ciegas de aquellos que no pueden verlo.
 
@@ -3453,7 +3453,7 @@ Un esqueleto obligado a deshacerse del ejercicio de la necromancía.
 sky beast
 
 Una extraña criatura aérea formada de nubes carnosas y plumas eléctricas. It
-ordena las corrientes de viento débil de la Mazmorra con cada huelga, que Will
+ordena las corrientes de viento débil de la Mazmorra con cada huelga, que 
 buffet sus víctimas en dramática correlación con la cantidad de aire abierto alrededor
 dijo presa.
 
@@ -3485,7 +3485,7 @@ como una multitud de mandíbulas reptilianas. Absorbe rápidamente criaturas cer
 en sí mismo, creciendo un nuevo 'cabeza' para cada uno y cada vez más resistente.
 
 Ya sea a través de la evolución convergente o la memoria genética, también comparte la
-El rasgo más infame de la hidra: arrancar una cabeza con un arma de hoja Will
+El rasgo más infame de la hidra: arrancar una cabeza con un arma de hoja 
 hacerlo crecer dos más a menos que la herida sea cauterizada por un arma en llamas.
 
 Cuando no acecha la presa, sus esbeltos constituyentes pueden separarse de ella de nuevo,
@@ -3643,7 +3643,7 @@ Un embellecido desastre de construcciones semiensambladas y piezas rotas de repu
 star jelly
 
 Un montículo gelatinoso blanco que pulsa con una extraña iridecencia. Su cuerpo
-absorbe energía mágica como una esponja, y cuando está suficientemente herido, Will
+absorbe energía mágica como una esponja, y cuando está suficientemente herido, 
 desatar esta energía como un rayo de estrellas fugaces.
 
 %%%%
@@ -4293,7 +4293,7 @@ Ashenzari.
 %%%%
 friendly sensed monster
 
-Un monstruo amistoso cuya presencia ha sido   LUA0   .
+Un monstruo amistoso cuya presencia ha sido LUA0 .
 
 %%%%
 Cloud Mage
@@ -4604,7 +4604,7 @@ ser aceite de pantano, hollín de cauldron e ingredientes de la cerveza.
 withered plant
 
 Una planta cuya vida ha sido drenada, pero con su forma física todavía
-intacto. Parece que murió hace muchos   LUA0  .
+intacto. Parece que murió hace muchos LUA0 .
 
 %%%%
 worm
@@ -4714,7 +4714,7 @@ sus títeres.
 destroyer
 
 Los destructores comienzan a descender sobre ti. Vienen en número y con ira,
-abadón, sin fondo y abismo. Traen tu condena y Will
+abadón, sin fondo y abismo. Traen tu condena y 
 festín en tus restos.
 
 %%%%

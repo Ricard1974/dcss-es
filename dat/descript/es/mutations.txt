@@ -605,7 +605,7 @@ una vez.
 spatial entanglement mutation
 
 Siempre que translocas, hay una posibilidad de que otro monstruo sea tirado
-a su nueva ubicación. Si tú translocó una corta distancia, este Will
+a su nueva ubicación. Si tú translocó una corta distancia, este 
 siempre sea un monstruo a la vista de su ubicación anterior, pero larga distancia
 Los telepuertos pueden sacar a un monstruo de cualquier otro lugar del piso.
 
@@ -1152,7 +1152,7 @@ con el número de diferentes enemigos afectados, pero decaimiento con el tiempo 
 no siga infligiendo nuevas desgracias.
 
 En su actual XL, puedes ganar un bono máximo de
- LUA0  Por aquí.
+ LUA0 Por aquí.
 
 %%%%
 mnemnophage mutation
@@ -1164,7 +1164,7 @@ Una vez que tienes acumula suficientes recuerdos, puedes elige quemarlos a todos
 como combustible para mejorar grandemente su ortografía por un corto período de tiempo.
 
 En su nivel de experiencia actual, puedes tiene suficientes recuerdos para lanzar un máximo
-de   LUA0   hechizos seguidos de esta manera.
+de LUA0 hechizos seguidos de esta manera.
 
 %%%%
 spellclaws mutation
@@ -1243,7 +1243,7 @@ pero no están muertos, y ganar un ataque de mordedura vampírico, así como un 
 daño contra los enemigos dormidos. Spellcaster thralls también ganar conocimiento de
 el hechizo Vampiric Draining.
 
-Sólo puedes crear un thrall si no tienes uno ya, y ellos Will
+Sólo puedes crear un thrall si no tienes uno ya, y ellos 
 inevitablemente volver al polvo después de poco tiempo.
 
 %%%%
@@ -1352,7 +1352,7 @@ habilidad.
 lithotoxin mutation
 
 Cuando su salud cae al 60% de su HP max o menos, sus tendriles reflexivamente
-intentar Petrify todos los enemigos envenenados dentro de 3 fichas de ustedes.
+intentar Petrify todos los enemigos envenenados dentro de 3 fichas de tu.
 
 Este efecto no puede activarse de nuevo hasta que sane completamente y su oportunidad de éxito
 mejora con tu habilidad de Shapeshifting.
@@ -1510,7 +1510,7 @@ Mark of the Celebrant mutation
 Cada vez que cae por debajo del 50% de su HP máximo, realiza un rito infernal,
 Desatar un rayo de flechas sanguíneas dirigidas a enemigos cercanos. Tú...
 menos una flecha para cada objetivo válido, pero puede disparar otros si pocos son
-presente. Las invocaciones aumentan daño de estas flechas, y Makhleb Will
+presente. Las invocaciones aumentan daño de estas flechas, y Makhleb 
 Siempre te da sanidad por enemigos asesinados por ellos.
 
 Después de realizar un rito de sangre, no puedes realizar otro hasta que su HP tenga

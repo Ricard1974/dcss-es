@@ -73,12 +73,12 @@ Tus ataques no dan ningún daño, pero tienen la oportunidad de confundir monstr
 golpe.
 
 %%%%
-Will++ status
+++ status
 
 Su fuerza de voluntad es mucho más fuerte, protegiendo contra muchos efectos mágicos.
 
 %%%%
-Regen Will++ status
+Regen ++ status
 
 Trog's Hand te hace regenerar la salud de forma antinatural
 ritmo rápido y fortalecer su fuerza de voluntad para protegerte contra muchos mágicos
@@ -323,7 +323,7 @@ petrificación, y enfermedad, y aumentar y sostener su fuerza,
 inteligencia y destreza.
 
 %%%%
-Will/2 status
+/2 status
 
 Tu fuerza de voluntad es más débil, haciéndote vulnerable a muchos efectos mágicos.
 
@@ -610,7 +610,7 @@ electricidad, energía negativa y tormento.
 %%%%
 Dragon status
 
-LUA0  Tus ataques de melee dan un daño increíble, y estás mucho más robusto pero
+LUA0 Tus ataques de melee dan un daño increíble, y estás mucho más robusto pero
 menos evasiva.
 
 %%%%
@@ -851,7 +851,7 @@ un nuevo piso, Zot le encuentra, causando daño permanente de salud.
 %%%%
 Gem status
 
-Si pasas el número indicado de vueltas en esta rama, se encuentra su gem Will
+Si pasas el número indicado de vueltas en esta rama, se encuentra su gem 
 y destrozado por el poder de Zot.
 
 %%%%
@@ -933,7 +933,7 @@ Tú está en contacto con una mayor verdad, aumentando su resistencia a los efec
 que apuntan a su fuerza de voluntad. Trágicamente, esta epifanía no durará.
 
 %%%%
-Will+ status
++ status
 
 <Enlightened status>
 
@@ -986,7 +986,7 @@ otra vez por un corto tiempo.
 %%%%
 Jinx status
 
-Los espíritus jinetes te rodean. Cuando atacas enemigos, los que fallan un cheque Will
+Los espíritus jinetes te rodean. Cuando atacas enemigos, los que fallan un cheque 
 están aturdidos, tomando daño y drenando. Los espíritus salen rápidamente cuando
 No hay enemigos a la vista.
 
@@ -1013,7 +1013,7 @@ estuvieron involucrados en su muerte. Si lo haces, Beogh resucitarlos antes.
 %%%%
 Pray status
 
-Tú han invocado ayuda divina para vengar la muerte de un apóstol caído. Orcs Will
+Tú han invocado ayuda divina para vengar la muerte de un apóstol caído. Orcs 
 continuamente reunirse a su lado, aunque su oración termina más rápidamente cuando
 No hay más enemigos por ahí para luchar.
 
@@ -1134,7 +1134,7 @@ objetivos y este bono reajuste.
 %%%%
 Slaughter status
 
-Tú es un instrumento de Makhleb destructivo Will. Tu poder y tus defensas son
+Tú es un instrumento de Makhleb destructivo . Tu poder y tus defensas son
 mucho mejorada, pero debes soportar el crujiente una vez este efecto
 termina.
 
@@ -1219,7 +1219,7 @@ a ti.
 %%%%
 Vexed status
 
-Tu mente está nublada por la frustración. Para los próximos turnos, tú Will
+Tu mente está nublada por la frustración. Para los próximos turnos, tú 
 incontrolablemente ataquen criaturas adyacentes al azar (si son amigables o enemigas) o
 incluso espacio vacío.
 
@@ -1357,7 +1357,7 @@ sanar.
 %%%%
 Doom status
 
-Un destino malévolo se está reuniendo a tu alrededor. Si su Doom alcanza el 100%, tú Will
+Un destino malévolo se está reuniendo a tu alrededor. Si su Doom alcanza el 100%, tú 
 ser afligido por un bane al azar y su Doom reset a 0. Las banes tienen diversas
 efectos negativos que pueden poner en peligro significativamente su carácter para una ampliación
 período de tiempo.
@@ -1436,7 +1436,7 @@ en vez de Combate sin armas habilidad.
 OozeRegen status
 
 Tú está cubierto de olor regenerativo de su reciente viaje por las escaleras. Para
-un breve tiempo, tus heridas sanan rápidamente y tus reservas de magia Will
+un breve tiempo, tus heridas sanan rápidamente y tus reservas de magia 
 Recuéstate rápido.
 
 %%%%

@@ -3,7 +3,7 @@ welcome
 
 <white>¡Bienvenido a Dungeon Crawl! </white>
 
-Su objetivo es dirigir su <w> LUA0       LUA1 </w> de forma segura a través de las Profundidades de la Mazmorra, recuperando la fábula Orb de
+Su objetivo es dirigir su <w> LUA0 LUA1 </w> de forma segura a través de las Profundidades de la Mazmorra, recuperando la fábula Orb de
 Zot y devolverlo a la superficie. En el principio, sin embargo, dejar el descubrimiento
 Sé tu objetivo principal. Trate de acariciar lo más profundo posible pero ten cuidado; tiburones de muerte
 alrededor de cada esquina.
@@ -151,7 +151,7 @@ finished random 2
 
 La interfaz puede ser muy personalizada. Todas las opciones se explican en el archivo
 <w>options guide.txt</w> que se puede encontrar en el directorio <w>docs</w>. El
-las opciones se establecen en <w>init.txt</w>o <w>.crawlrc</w>. Crawl Will
+las opciones se establecen en <w>init.txt</w>o <w>.crawlrc</w>. Crawl 
 quejarse si no encuentra ningún archivo.
 
 %%%%
@@ -164,7 +164,7 @@ Recursos descritos en http://crawl.develz.org/
 HINT_CONVERT Ashenzari
 
 Acabas de convertirte en adorar <w>Ashenzari</w>. A diferencia de otros dioses,
-Ashenzari sólo se preocupa por las maldiciones. Mientras exploras la Mazmorra, Ashenzari Will
+Ashenzari sólo se preocupa por las maldiciones. Mientras exploras la Mazmorra, Ashenzari 
 ofrecer maldiciones, guardar un artículo sobre ti. Los artículos más malditos que llevas, más
 Ashenzari mejorar sus habilidades y de otro modo ayudarle.
 
@@ -192,7 +192,7 @@ Acabas de convertirte en adorar <w>Uskayaw</w>. A diferencia de otros dioses,
 Uskayaw El favor no se puede ganar gradualmente a medida que explora la Mazmorra o slay
 monstruos. En cambio, la piedad con Uskayaw se gana rápidamente en combate mientras se trata
 daño. Cuanto más tiempo permanezcas en combate y más daño trates, más
-mayores los poderes que se ofrecen. Una vez que el combate termina, Uskayaw's favour Will
+mayores los poderes que se ofrecen. Una vez que el combate termina, Uskayaw's favour 
 ser rápidamente perdido, y debe ser recuperado en la próxima batalla.
 
 %%%%
@@ -215,7 +215,7 @@ la muerte, y puedes los envían a invocar la ayuda del Yredelemnul.
 HINT_CONVERT
 
 Acabas de convertirte en adorar <w> LUA0</w>. Tu piedad
-(a favor divino) aumentar mientras tú hace cosas para complacer a su nuevo dios, y Will
+(a favor divino) aumentar mientras tú hace cosas para complacer a su nuevo dios, y 
 disminuyendo gradualmente con el tiempo.
 
 Tú puede comprobar los gustos y disgustos de su dios, así como su posición actual
@@ -230,12 +230,12 @@ Ese <console>$1 </console> es un elemento. Si te mueves ahí y presionas
 <input>$cmd[CMD_PICKUP] </input><localtiles>, o <input>left-click</input> on it
 en su inventario</localtiles>, tú recogerlo. <console> Generalmente, artículos
 son mostrados por símbolos no letras como <w>%?!"=()[ </w>.</console> Algunos
-objetos<tiles>, marcado con un marco verde,</tiles> Will
+objetos<tiles>, marcado con un marco verde,</tiles> 
 automáticamente.
 
 Una vez que esté en su inventario, puedes la gota de nuevo con <localtiles>a
 <input>Shift-left-click</input>. Siempre que tú <input>haga clic derecho</input> on an
-item</localtiles>AG20<input>$cmd[CMD_DROP]</input>. Cuando mires a un
+item</localtiles><input>$cmd[CMD_DROP]</input>. Cuando mires a un
 artículo en su inventario (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>)</console>,
 puedes leer sobre sus propiedades y su descripción.
 
@@ -288,8 +288,8 @@ recogido. Use <w>$cmd[CMD_WIELD_WEAPON] </w><localtiles> or
 <w>-left-click</w> on it</localtiles> to wield it, but be aware that this
 arma Might entrena una habilidad diferente de la actual. Puedes ver el
 propiedades de su arma
-<w>$cmd[CMD_DISPLAY_INVENTORY]AG12nventory<localtiles> or by
-AG14 -click derecho</w> en él</localtiles>.
+<w>$cmd[CMD_DISPLAY_INVENTORY]nventory<localtiles> or by
+ -click derecho</w> en él</localtiles>.
 
  LUA0
 
@@ -312,7 +312,7 @@ Esta es la primera pieza de armadura<console> ('<w>$item[armour]</w>')</console>
 Has recogido. <localtiles>Tú puede hacer clic en él para usarlo, y haga clic de nuevo
 para quitarlo. <w>Haciendo clic derecho</w> en él dar más información.
 </localtiles><nomouse>Use <w>$cmd[CMD_WEAR_ARMOUR]</w> para usarlo y
-<w>$cmd[CMD_REMOVE_ARMOUR]AG13 to take it off again. Tú puede ver su
+<w>$cmd[CMD_REMOVE_ARMOUR] to take it off again. Tú puede ver su
 propiedades de su <w>$cmd[CMD_DISPLAY_INVENTORY]</w>nventory.
 </nomouse>
 
@@ -328,7 +328,7 @@ amulet<console> ('<w>$item[amulet]</w>')</console>.
 <w>$cmd[CMD_REMOVE_JEWELLERY]</w> para eliminarlo. Tú puede ver sus propiedades
 de su <w>$cmd[CMD_DISPLAY_INVENTORY]</w>nventory.</nomouse>
 <localtiles>Tú puede hacer clic en él para ponerlo en, y haga clic de nuevo para eliminarlo. Por
-AG17 -click derecho</w> on it, puedes sus propiedades.</localtiles>
+ -click derecho</w> on it, puedes sus propiedades.</localtiles>
 
 %%%%
 HINT_SEEN_MISC
@@ -415,7 +415,7 @@ HINT_STAIR_BRAND
 
 <tiles>Un pequeño símbolo en una escalera significa que hay elementos en que
 posición que puedes quiere comprobar hacia fuera. </tiles>
-<console>Si alguno de los elementos está cubriendo escaleras o una escotilla de escape, entonces ese Will
+<console>Si alguno de los elementos está cubriendo escaleras o una escotilla de escape, entonces ese 
 ser indicado destacando el símbolo <w><<</w> o <w></w>, en lugar de ocultar
 el símbolo de escalera con un glifo de artículo. </console>
 
@@ -424,7 +424,7 @@ HINT_HEAP_BRAND
 
 <tiles>Un pequeño símbolo en una ficha de elemento significa que hay al menos otro
 artículo en el mismo montón que puedes quiere comprobar fuera. </tiles>
-<console>Si dos o más elementos están en un solo cuadrado, entonces el cuadrado Will
+<console>Si dos o más elementos están en un solo cuadrado, entonces el cuadrado 
 resaltado, y el símbolo para el artículo en la parte superior del montón se muestra.
 </console>
 
@@ -629,7 +629,7 @@ Hey, has terminado de explorar la Mazmorra en este nivel! Puedes buscar
 escaleras desde el mapa de nivel (<w>$cmd[CMD_DISPLAY_MAP]</w>) pulsando <w> titulada</w>.
 El cursor salta a la escalera más cercana, y pulsando <w>. </w> or
 <w>Enter</w> su carácter puede moverse allí, también. Cada nivel de Crawl tiene tres
-<console> white </console>up and three <console>white AG11down steps.
+<console> white </console>up and three <console>white down steps.
 Las partes no exploradas se pueden acceder a menudo a través de otro nivel.
 
 %%%%
@@ -691,7 +691,7 @@ HINT_NEED_HEALING_INVIS
 
 Hace poco notaste un monstruo invisible, así que a menos que lo mataste o dejaste el
 escena, descansando Might no estar seguro. Si todavía necesita reponer su salud o
-magia, tendrás que cortar una poción apropiada. Para el descanso normal Will
+magia, tendrás que cortar una poción apropiada. Para el descanso normal 
 primero tiene que alejarse del peligro.
 
 %%%%

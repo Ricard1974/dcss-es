@@ -73,7 +73,7 @@ Hepliaklqana
 Hepliaklqana El olvidado acepta la adoración de aquellos que recordarían
 sus antepasados, y luchar junto a los más grandes de todos ellos. Acolytes of
 Hepliaklqana sacrificar una pequeña parte de su esencia de vida para manifestar su
-ancestro en el mundo; mientras exploran y forman nuevas experiencias, ellos Will
+ancestro en el mundo; mientras exploran y forman nuevas experiencias, ellos 
 se encuentran capaces de configurar y controlar la memoria de su antepasado, eventualmente
 llevarlos a las filas de los héroes míticos.
 
@@ -83,7 +83,7 @@ Ignis
 Ignis La Llama Dying ofrece a los seguidores poder sobre el fuego en muchas formas. Todos
 Ignis' poder se ofrece incondicionalmente a cualquiera que se digna a adorar, pero
 una vez usado, nunca se puede reponer. Ignis' other worshippers deserted long
-hace; el fuego divino se quema bajo, y pronto sale Will.
+hace; el fuego divino se quema bajo, y pronto sale .
 
 %%%%
 Jiyva
@@ -150,7 +150,7 @@ Pakellas
 Pakellas el Inventivo cree en la supremacía de los dispositivos, mágicos o
 De lo contrario, sobre hechizos y otras formas de magia. Seguidores, aunque cortados
 de la energía mágica ambiente, se proporcionan con energía mágica para empoderar a su
-dispositivos mientras los usen para afirmar la supremacía de Pakellas. Pakellas Will
+dispositivos mientras los usen para afirmar la supremacía de Pakellas. Pakellas 
 otorgar a los devotos devotos acceso a dispositivos cada vez más poderosos.
 
 %%%%
@@ -345,7 +345,7 @@ Hepliaklqana powers
 
 Los adoradores de Hepliaklqana son servidos por un tutor formado por una parte de su
 esencia de la vida, en la forma de su mayor antepasado. Este antepasado está en
-primero recordado como estaban al comienzo de sus aventuras fábulas, pero Will
+primero recordado como estaban al comienzo de sus aventuras fábulas, pero 
 avanzar en la habilidad como lo hace su descendiente. Hepliaklqana siempre permite a los seguidores
 para recordar su antepasado a su lado, e incluso si el antepasado es destruido,
 Hepliaklqana llámalo de nuevo no mucho después. Nuevos avances en
@@ -368,7 +368,7 @@ Jiyva powers
 Jiyva rellenar gradualmente la Mazmorra con jellies. Estos y cualquier otro tipo
 slimes consumir rápidamente artículos cercanos, así como consumir lentamente artículos de
 en otro lugar del la Mazmorra. A medida que se extienden deslizando más de la Mazmorra, Jiyva
-otorgar a los seguidores una salud cada vez más rápida y regeneración mágica, y Will
+otorgar a los seguidores una salud cada vez más rápida y regeneración mágica, y 
 empezar a mutarlos para reflejar mejor la imagen de Jiyva. Followers later become
 capaz de sacar ooze ácido de las paredes de la Mazmorra, y para girar
 monstruos para deslizarse con un toque.
@@ -380,14 +380,14 @@ Kikubaaqudgha potenciar la proeza necromética de los sirvientes con regalos
 Necromancy hechizos. Kikubaaqudgha proteger a los seguidores de los efectos
 maldiciones necrométicas y maldiciones de muerte, e incluso puede protegerlos de impío
 tormento. Los seguidores pueden desenterrar las arañazos moribundos como forraje necrótico, y puede
-invocar el signo de la ruina para daño a sus enemigos.           
+invocar el signo de la ruina para daño a sus enemigos. 
 permitir a los seguidores recibir conocimiento de la necromética más prohibida
 magia, o tener su arma llena de dolor.
 
 %%%%
 Lugonu powers
 
-Los seguidores del Lugonu ganan poderes para partir el Abyss en Will, para desterrar monstruos
+Los seguidores del Lugonu ganan poderes para partir el Abyss en , para desterrar monstruos
 y huir de nuevo dentro cuando sea necesario. Lugonu also banish nearby foes
 si algún otro dios intenta interferir con sus seguidores. Más tarde, seguidores
 ser capaz de corromper el mundo ordenado, abrir una puerta para las criaturas
@@ -424,7 +424,7 @@ cubiertas y reordenar sus contenidos.
 Okawaru powers
 
 Los seguidores de Okawaru ganan la capacidad de aumentar temporalmente sus habilidades
-en combate, y mucho más tarde, para hacer frente a golpes mucho más rápidos.           
+en combate, y mucho más tarde, para hacer frente a golpes mucho más rápidos. 
 seguidores de regalos con municiones, armas y armadura. Los más favorecidos
 Okawaru puede desafiar a sus enemigos a un combate único honorable.
 
@@ -469,9 +469,9 @@ Ru's sacrificionts aumenta en fuerza con más piedad de más sacrificios.
 Sif Muna powers
 
 Sif Muna otorga a los seguidores la capacidad de restaurar rápidamente su energía mágica,
-y olvidar los hechizos en Will, para aprender nuevos. Los amantes pueden llamar
+y olvidar los hechizos en , para aprender nuevos. Los amantes pueden llamar
 en el Loreminder para ayudar a lanzar cualquier hechizo que hayan descubierto, incluso si es
-más allá de su actual entrenamiento mágico. Con el tiempo, seguidores devotos Will
+más allá de su actual entrenamiento mágico. Con el tiempo, seguidores devotos 
 recibir libros de hechizos que contienen una amplia gama de hechizos.
 
 %%%%
@@ -492,10 +492,10 @@ interviene para salvar la vida de un seguidor.
 Trog powers
 
 Trog ofrece varios poderes para ayudar a los seguidores en la batalla. Seguidores ganar el
-habilidad para ir Berserk en Will, y Trog extender la duración de su
+habilidad para ir Berserk en , y Trog extender la duración de su
 Berserk rage on killing foes. Trog otorgar a los seguidores la capacidad de
 curan sus heridas mientras fortifican su fuerza de voluntad, y más tarde la capacidad de
-llama a poderosos aliados furtivos. Eventualmente, Trog Will
+llama a poderosos aliados furtivos. Eventualmente, Trog 
 armas, a menudo con efectos antimagicos.
 
 %%%%
@@ -505,7 +505,7 @@ Los adoradores de Uskayaw pueden golpear a los enemigos que los rodean, y movers
 a través de una línea de criaturas al confundirlas. Cuando un adorador baila
 alcanza un cierto punto, Uskayaw detiene inmediatamente a todos los enemigos para que el
 La bailarina puede tomar un solo. Mientras el baile continúa, Uskayaw vincula las emociones
-de enemigos, obligándolos a compartir su dolor. La duración de estos efectos Will
+de enemigos, obligándolos a compartir su dolor. La duración de estos efectos 
 aumentar con la habilidad Invocations, y mientras la intensidad del baile sea
 suficiente pueden repetirse después de poco tiempo. Si el baile continúa
 más adelante, Uskayaw permite a los adoradores terminarlo mediante la unión con y luego
@@ -546,7 +546,7 @@ la antorcha como sirvientes sin mente, hurl torchlight para escour a los vivos y
 los muertos, y atar almas especialmente notables para luchar por ellos en la muerte con
 las plenas capacidades que tenían en la vida. Especialmente adoradores devotos pueden incluso
 anotar el ineludible agarre del Fallen directamente, los enemigos vinculantes de forma indefensa
-en su lugar como la vida misma es succionada de ellos.                 
+en su lugar como la vida misma es succionada de ellos. 
 sirvientes no muertos para ayudar a los seguidores al comienzo de cada nueva conquista.
 
 %%%%
@@ -600,14 +600,14 @@ esconderse; o encontrarse ahogados en la sombra y durmiendo, quizás para siempr
 %%%%
 Elyvilon wrath
 
-Elyvilon no es un dios conocido por la ira. Sin embargo, los que ganan la ire de Elyvilon Will
+Elyvilon no es un dios conocido por la ira. Sin embargo, los que ganan la ire de Elyvilon 
 encontrar al sanador ocasionalmente protegiendo a sus enemigos de sus ataques, e incluso
 de la muerte.
 
 %%%%
 Fedhas wrath
 
-Los que ofenden  1. encuentran las fuerzas de la naturaleza invocadas contra ellos
+Los que ofenden 1. encuentran las fuerzas de la naturaleza invocadas contra ellos
 a través de un dramático aumento de vegetación. Pueden encontrarse transmutados.
 en las plantas que han abandonado, o rodeado de muros impenetrables
 Briars más plantas de Oklob que escupen ácidos viciosos.
@@ -618,7 +618,7 @@ Hepliaklqana wrath
 Hepliaklqana cree que el único castigo razonable para convertir el
 volver al camino de la memoria es ser negado su uso. Toda nueva experiencia es
 negada al desafortunado apóstata, hasta que Hepliaklqana decide que han
-fue castigado lo suficiente. La esencia de la vida sacrificada para manifestar un ancestro Will
+fue castigado lo suficiente. La esencia de la vida sacrificada para manifestar un ancestro 
 no ser devuelto hasta que Hepliaklqana sea molido, y este no sea rápido:
 a diferencia de algunos, Hepliaklqana tiene un largo recuerdo.
 
@@ -627,7 +627,7 @@ Gozag wrath
 
 El primero de los castigos de Gozag es comercial: todas las tiendas abiertas
 La intervención de Gozag cierra sus puertas para siempre. Se aconseja al disloyal
-terminar sus compras antes de lanzar su traición. Por el tiempo que  1.
+terminar sus compras antes de lanzar su traición. Por el tiempo que 1.
 permanece enojada, los ex usurpadores pueden a veces ser deslumbrados por el brillo de la moneda,
 y sus pociones tienen la oportunidad de fallar cuando se cuarte. Cualquier enemigo que sea
 también se pueden conceder pociones propias para ayudarles contra
@@ -636,7 +636,7 @@ los que renuncian al servicio de Gozag.
 %%%%
 Ignis wrath
 
-La ira de Ignis es ahora más débil que la de la mayoría de otros dioses. Apostates Will
+La ira de Ignis es ahora más débil que la de la mayoría de otros dioses. Apostates 
 encontrar su resistencia al fuego despojado completamente, y ser periódicamente
 agredidos por elementales de fuego, encontrar a sus enemigos fortalecidos por fuego, o incluso
 Que el suelo se queme por debajo de ellos. Experiencia y cautela
@@ -707,7 +707,7 @@ poder mientras la atención de Pakellas permanezca en ellos.
 Qazlal wrath
 
 Qazlal La ira es rápida e inconfundible. Los pecadores están despojados de sus
-resistencias y asaltos por criaturas elementales furiosas, y Qazlal Will
+resistencias y asaltos por criaturas elementales furiosas, y Qazlal 
 crear potentes truenos para alertar a sus enemigos.
 
 %%%%
@@ -745,7 +745,7 @@ Uskayaw wrath
 
 La ira de Uskayaw convierte los poderes de la danza contra el delincuente. El prude
 encontrar a sus enemigos yendo Berserk y ser forzados a mirar sin ayuda como
-Los enemigos ejecutan sus propios solos. Cuando el baile está recibiendo también Slow, Uskayaw Will
+Los enemigos ejecutan sus propios solos. Cuando el baile está recibiendo también Slow, Uskayaw 
 causar ruido para atraer más revendedores.
 
 %%%%

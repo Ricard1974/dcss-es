@@ -176,41 +176,41 @@ Sería asado en poco tiempo.
 The floor
 
 {{
-    --Some of these lines may need to be broken up
-    local descript = "El piso."
-    if you.in_branch("D") then
-        descript = descript .. "\nEstá hecho de roca lisa."
-    elseif you.in_branch("Temple") then
-        descript = descript .. "\nHay musgo entredadera creciendo en lo."
-    elseif you.in_branch("Orc") then
-        descript = descript .. "\nVes pepitas pequeñas en lo."
-    elseif you.in_branch("Elf") then
-        descript = descript .. "\nTiene estampados místicos."
-    elseif you.in_branch("Lair") then
-        descript = descript .. "\nTe sientes los cantos regosos debajo de tus pies."
-    elseif you.in_branch("Swamp") then
-        if you.airborne() then
-            descript = descript .. "\nPuedes ver el barro patanoso."
-        else
-            --TODO: Check if player is wearing boots or even has feet.
-            descript = descript .. "\nPuedes sentir el barro patanoso en tus pies."
-        end
-    elseif you.in_branch("Shoals") then
-        descript = descript .. "\nPuedes oír el movimento de la arena debajo de tus pies."
-    elseif you.in_branch("Snake") then
-        descript = descript .. "\nTiene estampados sinuosos."
-    elseif you.in_branch("Spider") then
-        descript = descript .. "\nEn lo hay hilos finos -- y unos no-tan-finos -- de seda."
-    elseif you.in_branch("Slime") then
-        descript = descript .. "\nEstá cubierto en baba."
-    elseif you.in_branch("Vaults") then
-        descript = descript .. "\nHay salpicaduras de sangre en su superficie metálico."
-    elseif you.in_branch("Crypt") then
-        descript = descript .. "\nComo el aire, su superficie es frio."
-    --TODO: add descriptions for (the floors of) the rest of the branches (and sub-branches).
-    --Branches: Depths, Zot, Bazaar, Volcano, Ice Cave, Necropolis, Tomb, Pan, Hells, probably more
-    end
-    return descript
+ --Some of these lines may need to be broken up
+ local descript = "El piso."
+ if you.in_branch("D") then
+ descript = descript .. "\nEstá hecho de roca lisa."
+ elseif you.in_branch("Temple") then
+ descript = descript .. "\nHay musgo entredadera creciendo en lo."
+ elseif you.in_branch("Orc") then
+ descript = descript .. "\nVes pepitas pequeñas en lo."
+ elseif you.in_branch("Elf") then
+ descript = descript .. "\nTiene estampados místicos."
+ elseif you.in_branch("Lair") then
+ descript = descript .. "\nTe sientes los cantos regosos debajo de tus pies."
+ elseif you.in_branch("Swamp") then
+ if you.airborne() then
+ descript = descript .. "\nPuedes ver el barro patanoso."
+ else
+ --TODO: Check if player is wearing boots or even has feet.
+ descript = descript .. "\nPuedes sentir el barro patanoso en tus pies."
+ end
+ elseif you.in_branch("Shoals") then
+ descript = descript .. "\nPuedes oír el movimento de la arena debajo de tus pies."
+ elseif you.in_branch("Snake") then
+ descript = descript .. "\nTiene estampados sinuosos."
+ elseif you.in_branch("Spider") then
+ descript = descript .. "\nEn lo hay hilos finos -- y unos no-tan-finos -- de seda."
+ elseif you.in_branch("Slime") then
+ descript = descript .. "\nEstá cubierto en baba."
+ elseif you.in_branch("Vaults") then
+ descript = descript .. "\nHay salpicaduras de sangre en su superficie metálico."
+ elseif you.in_branch("Crypt") then
+ descript = descript .. "\nComo el aire, su superficie es frio."
+ --TODO: add descriptions for (the floors of) the rest of the branches (and sub-branches).
+ --Branches: Depths, Zot, Bazaar, Volcano, Ice Cave, Necropolis, Tomb, Pan, Hells, probably more
+ end
+ return descript
 }}
 
 %%%%
@@ -248,7 +248,7 @@ capaz de mantener su equilibrio, moverse a una velocidad normal, y evitar el fum
 %%%%
 Some mud
 
-Una capa gruesa de barro grueso.   REF0
+Una capa gruesa de barro grueso. REF0
 
 %%%%
 The open sea
@@ -1076,7 +1076,7 @@ sobre él.
 %%%%
 A spike launcher
 
-Un artilugio mágico que corta monstruos cercanos con puntas afiladas. It Will
+Un artilugio mágico que corta monstruos cercanos con puntas afiladas. It 
 desintegrarse después de una corta duración o si la casta se aleja demasiado lejos
 de ella.
 
@@ -1098,7 +1098,7 @@ allies evite pisarlo.
 A web
 
 La web de una araña. La araña que lo dejó debe haber sido enorme, como parece ser
-hecho para capturar   LUA0   en lugar de moscas.
+hecho para capturar LUA0 en lugar de moscas.
 
 %%%%
 A Zot trap
@@ -1166,7 +1166,7 @@ Este pasaje te te lleva a un alcantarillado. Está oxidándose lentamente.
 %%%%
 A portal to a secret trove of treasure
 
-Un portal que conduce a un tesoro Trove. Este portal es inestable y el colapso Will
+Un portal que conduce a un tesoro Trove. Este portal es inestable y el colapso 
 después de un solo uso.
 
 %%%%
@@ -1186,7 +1186,7 @@ de la tierra distante más allá.
 %%%%
 A mutagenic drain
 
-Un pasaje que conduce a un gulch de goma, que se oxida gradualmente. Entrando en ella Will
+Un pasaje que conduce a un gulch de goma, que se oxida gradualmente. Entrando en ella 
 infligir tres mutaciones temporales sobre ti, o descomponerte si no estás muerto.
 
 %%%%
@@ -1513,7 +1513,7 @@ energía disperso inofensivamente.
 A soul conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
-destruido e interrumpido por la magia suficientemente poderosa, su energía negativa Will
+destruido e interrumpido por la magia suficientemente poderosa, su energía negativa 
 dispersos inofensivamente.
 
 %%%%
@@ -1541,14 +1541,14 @@ disperso inofensivamente.
 An earthen conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
-destruida y perturbada por la magia suficientemente poderosa, su energía sísmica Will
+destruida y perturbada por la magia suficientemente poderosa, su energía sísmica 
 dispersos inofensivamente.
 
 %%%%
 A storm conduit
 
 Un extraño pero benigno constructo metálico, analizando la energía mágica ambiente cruda. Si
-destruida y perturbada por la magia suficientemente poderosa, su energía desgarradora Will
+destruida y perturbada por la magia suficientemente poderosa, su energía desgarradora 
 dispersos inofensivamente.
 
 %%%%
