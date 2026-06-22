@@ -86,6 +86,24 @@ bash scripts/build_con_traducciones.sh
 Esto clona el código fuente de DCSS v0.34.1, aplica parches, compila y genera
 el binario en `/tmp/dcss-build-*/crawl-ref/source/crawl`.
 
+## ✅ Verificación
+
+Después de compilar o actualizar traducciones, ejecutar:
+
+```bash
+cd ~/proyectos/dcss-es
+python3 scripts/verify.py
+```
+
+Esto verifica:
+- Binario: tamaño y parches clave
+- Archivos UI: 10 archivos en translations/, dat/ y squashfs
+- Traducciones de ayuda: secciones de teclas, menús, nombres
+- Archivos descript: 23 archivos con estructura correcta
+- Archivos database: 23 archivos presentes
+- Problemas textuales: 0 Will, 0 usted, 0 §, 0 fideos, 0 $cmd rotos
+- Sincronización: translations/ coincide con dat/
+
 ---
 
 ## 📄 Licencia

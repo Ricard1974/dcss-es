@@ -139,6 +139,9 @@ if [ -f crawl ]; then
     echo "   O instala las traducciones en tu juego existente:"
     echo "   cp dat/ui/es/*.txt ~/proyectos/dcss-squashfs/squashfs-root/usr/dat/ui/es/"
     echo "   cp crawl ~/proyectos/dcss-squashfs/squashfs-root/usr/bin/"
+    echo ""
+    echo "🔍 Ejecutando verificación post-build..."
+    python3 "$PROJECT_DIR/scripts/verify.py"
 else
     echo "❌ Compilación fallida. Revisa los errores arriba."
     exit 1
