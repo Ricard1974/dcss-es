@@ -1,0 +1,191 @@
+%%%%
+Velocity card
+
+La tarjeta representa un par de botas vacías y bien doradas. Arena, cenizas y césped
+Cubra las suelas de las botas.
+
+Dibujar esta tarjeta puede otorgar gran velocidad a los aliados o terrible lentitud a los enemigos.
+
+%%%%
+la Tumba card
+
+Esta carta representa una cripta real con su entrada sellada por una losa de piedra.
+
+Sacar esta carta rodeará al usuario de muros protectores y temporales.
+A niveles de fuerza bajos, o con crituras contiguos, la tumba puede ser incompleta.
+
+La tumba es sostenida por el presencia de su creador, y moviéndose lejos del centro
+provocará sus paredes desplomarse.
+
+%%%%
+Exile card
+
+Esta tarjeta representa miles de manos alcanzando fuera de un portal enorme a una
+figura aterrada
+
+Sacar esta carta desterrará a los enmigos cercanos, con más siendo desterrado a
+niveles de fuerza más altos.
+
+%%%%
+the Shaft card
+
+La carta representa un viajero caiéndose a una sima que ha abierto debajo del
+viajero.
+
+Sacar esta carta abrirá una hoyo debajo del usuario, y posiblemente debajo de sus
+enmigos.
+
+%%%%
+the Elixir card
+
+Una carta que representa una sonrisa presumida formada de nueve cálices.
+
+Sacar esta carta recuperará rápidamente la salud y las reservas de magia del
+usuario.
+
+%%%%
+the Cloud card
+
+La carta representa una puerta hierra rodeado de neblina.
+
+Sacar esta carta rodeará los enmigos del usuario por círculos de neblinas que
+obstruen su visión.
+La duración de las neblinas es aumenta con la fuerza de la carta.
+
+%%%%
+Vitriol card
+
+La tarjeta representa una planta de oklob, goteando con su salto corrosivo distintivo.
+
+Dibujo esta carta Will desencadena un hechizo de ataque corrosivo.
+
+%%%%
+the Storm card
+
+La tarjeta representa un barco en el mar hundiendo en una tormenta.
+
+Dibujar esta tarjeta desata una tormenta de viento y descargas eléctricas.
+Aumentar el poder de la tarjeta Will resulta en una fuerza de viento más fuerte y más fuerte,
+numerosas descargas.
+
+%%%%
+Pain card
+
+La tarjeta representa una rueda de hierro, amenazante con picos y oxidado con sangre.
+
+Dibujar esta tarjeta desata un hechizo de ataque necromótico.
+
+%%%%
+el Orbe card
+
+La tarjeta representa una figura rodeada de orbes flotantes y brillantes de energía.
+
+Dibujar esta carta desata uno o posiblemente más orbes destructivos de magia pura.
+
+%%%%
+Degeneration card
+
+La tarjeta representa a un dragón cuyas escamas se deslumbran, revelando una oveja
+debajo.
+
+Dibujar esta tarjeta Will intentar polimorfo y malmutar enemigos cercanos en
+formas más débiles, y Will brevemente daze aquellos que no pueden ser polimorfos.
+
+%%%%
+Wild Magic card
+
+La tarjeta representa el gorro de un mago puntiagudo, anotado y descansando en un montón de cenizas.
+
+Dibujar esta tarjeta causa magia salvaje (como si de malcasting un hechizo) para actuar sobre
+enemigos de su usuario. Cada criatura afectada Will restaurar algunos de los usuarios
+magia.
+# Invocando
+
+%%%%
+the Elements card
+
+La tarjeta representa las figuras de grandes bestias que se acechan en una tormenta de arena.
+
+Dibujo esta carta Will convocar tres bestias de los cuatro elementos.
+
+%%%%
+the Pentagram card
+
+La tarjeta representa a los cultos marcando un pentagrama ritual en el suelo.
+
+Dibujar esta tarjeta Will convocar un par de demonios a la ayuda del usuario. Hay un
+pequeña posibilidad de que uno de los demonios sea hostil.
+
+%%%%
+the Dance card
+
+La tarjeta representa una figura extravagante y enmascarada bailando sola en una
+vasta habitación.
+
+Dibujo esta carta Will convocar un arma de baile. Su calidad, marca y
+La amabilidad se ve afectada por la potencia de la tarjeta.
+
+%%%%
+the Swarm card
+
+La tarjeta representa un oso rodeado de un enjambre de abejas. Humsamente.
+
+Dibujo esta tarjeta Will cita abejas.
+
+%%%%
+the Rangers card
+
+La tarjeta representa una flecha en el ojo de un toro, que ha sido dividida por un segundo
+flecha.
+
+Dibujo esta carta Will convocar a varios arqueros.
+
+%%%%
+the Illusion card
+
+La tarjeta representa a alguien de pie en un pasillo de espejos, rodeado por sus propios
+reflexiones.
+
+Dibujar esta tarjeta Will convocar una ilusión del usuario. Su poder depende
+sobre uno mismo.
+
+%%%%
+Wrath card
+
+La carta representa la mano de lo divino, llegando de los cielos a la choza
+Rayo furioso.
+
+Dibujar esta tarjeta Will dibujar la ira de un dios contra el usuario.
+
+%%%%
+the Wraith card
+
+La tarjeta no representa absolutamente nada.
+
+Dibujo esta tarjeta Will Drain el usuario.
+
+%%%%
+the Swine card
+
+La tarjeta representa varios cerdos ferales revolcándose en un pozo de barro.
+
+Dibujar esta tarjeta Will hace que su usuario gire rosa y raíz para truffles.
+
+%%%%
+Torment card
+
+La tarjeta representa una figura Screaming siendo torturada en el rack.
+
+Dibujar esta tarjeta Will causa daño agonizante al usuario.
+
+%%%%
+a buggy card
+
+Buggy (es un bug si lees esto).
+
+%%%%
+a very buggy card
+
+Buggy (es un bug si lees esto).
+
+%%%%

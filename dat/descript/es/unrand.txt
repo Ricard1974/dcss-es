@@ -1,0 +1,1008 @@
+%%%%
+Singing Sword
+
+Una espada encantada que le encanta cantar a su manipulador, le gusta o no.
+
+%%%%
+Sulking Sword
+
+<Singing Sword>
+
+%%%%
+Screaming Sword
+
+<Singing Sword>
+
+%%%%
+Wrath of Trog
+
+Un hacha manchada de sangre que era el arma favorita del viejo dios Trog, antes de él
+se perdió. Induce una rabia sangrienta Berserker cuando se usa en la batalla, aunque
+los mortales que lo dominan se encuentran temporalmente abrumados por Trog
+Poder.
+
+%%%%
+mace of Variability
+
+Un gran mace dijo haber aparecido cuando Xom se aburrió con la previsibilidad
+de instrumentos más ordinarios de caos.
+
+%%%%
+partisan of Prune
+
+El partisano de Prune lleva una maldición terrible e insidiosa. A menos que su peladora
+mantiene el autocontrol firme, están condenados a sufrir una horripilante (aunque sea
+transformación temporal. Esto normalmente es trivial para resistir, pero incapacitado
+wielders son seguros de sucumbir, encontrarse a sí mismos de noche morado, squishy,
+y delicioso. Pueden tomar consuelo en aprender que es sorprendentemente difícil
+herir a una ciruela gigante.
+
+%%%%
+staff of Olgreb
+
+Un personal que fue manipulado por el gran alquimista Olgreb.
+
+%%%%
+crystal ball of Wucad Mu
+
+Una esfera de cristal impecable, formada por innumerables mantras. Cuando uno se centra en
+los límites entre 'self' y 'other' a veces parecen borrosos.
+ LUA0
+
+%%%%
+Vampire's Tooth
+
+Una hoja rápida como marfil que parece que podría haber sido hecha de la
+Un diente de una enorme criatura depredadora. Es lethally vampiric.
+
+%%%%
+scythe of Curses
+
+Un escalofrío rodeado de un aura ominosa de miedo. Lleva un terrible
+maldición antigua, la cual inflige a la fuerza y a sus enemigos.
+
+%%%%
+sceptre of Torment
+
+Un cetro óseo acertado, creado por algún poder infernal desconocido. Cuando se utiliza en
+combate, causa dolor agonizante en todos esos desafortunados
+Salve para el pelador.
+
+%%%%
+sword of Cerebov
+
+Una cuchilla torcida, cubierta de llamas extrañas. Su poder demoníaco se quema en el
+muy esencia de aquellos contra los que está marchitado.
+
+%%%%
+orb of Dispater
+
+Un orbe aprisionando con energías no santas, otorgando el poder para desencadenar la condenación
+cuando se mantiene — aunque no sin drenar la vitalidad del wielder en el
+proceso. Lleva consigo algunos de la malicia corrosiva de la Ciudad de Hierro
+Dis.
+
+%%%%
+sceptre of Asmodeus
+
+Un cetro de rubí brillante, llevando algunos de los poderes del archi-fiend Asmodeus.
+Puede llamar a demonios ardientes de su hogar infernal para hacer el wielder
+- Bidding.
+
+%%%%
+faerie dragon scales
+
+Un traje encantador de armadura creado a partir de las escalas de una raza rara de dragón,
+Ahora se pensaba extinguir. Esta reliquia premiada es ahora una de las últimas pruebas de que
+los vívidamente coloridos dragones de fantasía existieron.
+
+%%%%
+demon blade "Bloodbane"
+
+Una espada forjada en el infierno por el sacrificio de innumerables almas torturadas. It
+inflige la rabia y el sufrimiento de esas almas sobre su ingenio.
+
+%%%%
+scimitar of Flaming Death
+
+Un scimitar con una cuchilla misteriosamente fumadora. De vez en cuando su calor se filtra,
+cubriendo oponentes en llamas mágicas.
+
+%%%%
+eveningstar "Brilliance"
+
+Poco después de caer, Yredelemnul intentó retorcer la energía santa en una oscuridad
+burla de sí misma, enfrentándola contra sus progenitores y debilitándola contra
+sin muertos y demonios. Se descubrió demasiado tarde que tal perversión completa
+era incontrolable; la llama nefasta desestabilizaba o destruyó todo lo que era
+infundido en, excepto para varios sujetos de prueba demoníaca y uno robado santo
+arma. Una versión menos estable de la energía oscura resultó más
+y se convirtió en umbra de Yredelemnul.
+
+Este es el arma: una estrella de la noche con su luz larga huyó, a pesar de su nombre,
+y una sombra que repulse a aquellos que su luz solía consolar...
+
+%%%%
+demon blade "Leech"
+
+Una espada forjada en el infierno por el sacrificio de innumerables almas torturadas. Se llena.
+con la ira y el sufrimiento de esas almas, y se enrolla
+cada vez que huye, dejando atrás un desastre
+sangre y gore.
+
+%%%%
+dagger of Chilly Death
+
+Una daga hecha de un enorme fragmento de zafiro. Cubre los oponentes en el hielo,
+ralentizando su movimiento un poco.
+
+%%%%
+dagger "Morg"
+
+Una daga oxidada fea. Hace muchos años era propiedad de un poderoso sabio
+llamado Boris. Se perdió en la Mazmorra mientras buscaba el Orbe.
+
+%%%%
+scythe "Finisher"
+
+Un largo y extremadamente afilado, capaz de eviscer en un solo golpe.
+Su velocidad extraordinaria es el trabajo de un mago loco, que pasó años refinando
+antes de descartarlo en un ataque de rabia.
+
+La hoja suelta un poco de entusiasmo mientras corta el aire.
+
+%%%%
+greatsling "Punk"
+
+Un sling hecho de cuero verde raro, rebuscando el eslime corrosivo. Originalmente el
+arma de un famoso malhechor y el campamento general, desde entonces cayó en
+manos menos favorables.
+
+%%%%
+longbow "Zephyr"
+
+Un arco dorado, con una cerradura de pelo del Viento Oeste ellos mismos. Tales
+decir que fue elaborado como un regalo a un armadura inequívoco e incluso siglos después de su
+muerte intemporal, uno todavía puede sentir el anhelo llevado en la brisa suave que
+rodea su peladora.
+
+%%%%
+giant club "Skullcrusher"
+
+Un garrote gigante y encantado que augmenta la ya considerable fuerza de
+cualquiera que tiene la fuerza para empuñarlo.
+
+%%%%
+glaive of the Guard
+
+Una glaive comisionada hace varios años por una rica reina temerosa por
+seguridad de su vasto tesoro. Ningún enemigo, el herrero prometió, podría derrotar a un guardia
+¡Limpiando un arma así!
+
+Fue robado unos meses después, junto con el resto del tesoro de la reina;
+el guardia, se pasó, había sido atrapado siestando. Aún así, debería servir más
+que adecuadamente en manos de un usuario despierto.
+
+%%%%
+zealot's sword
+
+Una espada hecha de un pedazo enorme de cristal. La leyenda dice que era el Shining One
+regalo a un adorador. Esta hoja es notoria para inducir la rabia de sangre
+tanto el wielder como todos sus seguidores.
+
+%%%%
+arbalest "Damnation"
+
+Un arco iris, forjado en los incendios de Gehenna. Imbuye los tornillos
+fuegos con la energía cruda de su nombre. Afortunadamente, las explosiones de este arma
+produce nunca daño al que dispara.
+
+%%%%
+sword of the Dread Knight
+
+Una adamantina espada grande. Su primer wielder era un adorador de Yredelemnul
+que esquivó el uso de la magia en combate, prefiriendo destruir a sus enemigos con
+fuerza bruta. Desafortunadamente para ella, no todos sus oponentes la compartieron
+limitaciones.
+
+Ha caído innumerables grandes guerreros bajo su agarre, y las almas de esos
+que tenía sus vidas tomadas para tomar aún más bajo su nuevo dueño.
+
+%%%%
+morningstar "Eos"
+
+Una estrella de la mañana, brillante con la luz del amanecer. It
+ilumina los recesos de la Mazmorra, revelando las maquinaciones de aquellos que
+preferiría permanecer invisible.
+
+%%%%
+spear of the Botono
+
+Un artefacto oscuro y maligno. Aumenta la potencia de los hexes lanzados por cualquiera
+lo suficientemente insensato como para correr el riesgo.
+
+%%%%
+trident of the Octopus King
+
+Un tridente robado hace muchos años del jardín del Rey Octopus. Por suerte, él
+Parece que no hay prisa para recuperarlo.
+
+%%%%
+mithril axe "Arga"
+
+Un hermoso hacha de mitil, probablemente perdido por un héroe enano.
+
+%%%%
+Elemental Staff
+
+Un poderoso personal que pertenecía al líder del Gremio de los Cinco
+Elementos. Está impregnado de mejoras protectoras y ofensivas de todos
+las escuelas elementales de magia.
+
+%%%%
+heavy crossbow "Sniper"
+
+El arma sagrada de Toth-Mos, primer apóstol del dios Ashenzari. Subvenciones
+el wielder una fracción de la propia visión de Ashenzari, asegurando que cada disparo Will
+tierra verdadera.
+
+%%%%
+longbow "Piercer"
+
+Un arco largo de metal excepcionalmente grande.
+
+%%%%
+blowgun of the Assassin
+
+Esta escopeta parece guiar la aguja para buscar el punto más letal para golpear
+el objetivo, empacando un puñetazo desagradable.
+
+%%%%
+lance "Wyrmbane"
+
+Una lanza encantada mortal para toda la humanidad del dragón. Crece más poderoso cada vez
+inflige un golpe mortal a un dragón fuerte. Cuanto más poderoso crece, más
+más difícil Will ser encontrar un oponente digno.
+
+%%%%
+Spriggan's Knife
+
+Un pequeño cuchillo que fue hecho por Spriggans, o por Spriggans, o
+posiblemente de Spriggans. De todos modos, está asociado de alguna manera con esos fey
+Gente.
+
+%%%%
+plutonium sword
+
+Una triple espada hecha de metal brillante. irradia a los que golpea,
+causando una serie de efectos impredecibles - si sobreviven el impacto del
+Espada misma, eso es.
+
+%%%%
+great mace "Undeadhunter"
+
+Un arma impregnada de magia para perturbar y destruir las fuerzas que unen a un muerto
+criaturas juntas. Las leyendas dicen que, hace mucho tiempo, un señor de lich creó muchos
+tales armas para garantizar la lealtad de sus siervos no muertos. Tristemente, este mace
+Might ser el último que queda.
+
+%%%%
+whip "Snakebite"
+
+Un látigo doble hecho de los escondites curados de mambas negras, y encantado
+con toxinas que van desde los venenos ordinarios hasta el curador asfixiante.
+
+%%%%
+knife of Accuracy
+
+Es casi infaliblemente preciso.
+
+%%%%
+Lehudib's crystal spear
+
+Presumiblemente esta reliquia condujo a la invención del famoso hechizo, o tal vez la
+de otra manera.
+
+%%%%
+captain's cutlass
+
+Un arma infame, una vez usada por un capitán pirata vile para matar incontables
+inocentes. Finalmente conoció su destino cuando un kraken tragó su barco, y el
+Cutlass se pensaba perder con él.
+
+%%%%
+storm bow
+
+Un arco largo con el color de nubes de lluvia oscura que dispara flechas como relámpagos.
+
+%%%%
+tower shield of Ignorance
+
+Un escudo desenterrado de los restos de una ciudad arruinada. Lleva una inscripción
+escrito en un lenguaje antiguo. Los sabios y los sabios trabajaron para incontables
+horas para descifrarlo, y a tiempo, una traducción fue finalmente resuelta en:
+
+"Con un escudo como este, ¿quién necesita pensar?"
+
+%%%%
+robe of Augmentation
+
+Una túnica variegada, tejida con encantamientos para mejorar el físico del usuario y
+habilidades mentales. Sus creadores tejían en hilos de pelo de cien diferentes
+animales, cada uno elegido para las fortalezas únicas que podría conceder el desgaste de la bata.
+
+%%%%
+cloak of the Thief
+
+Un manto negro de campo que permite a su portador sobresalir en las artes del ladrones.
+Incluso los torpes Will encuentran sus pasos más suaves y los gritos de sus
+los adversarios menos atención.
+
+%%%%
+tower shield "Bullseye"
+
+Por si tuvieras problemas para ser golpeado.
+
+%%%%
+crown of Dyrovepreva
+
+Un gran círculo de bronce aburrido, con un deslumbrante conjunto de gemas. Era
+primero usado por un príncipe de los Titanes, que buscaba protección del incesante
+guerra entre sus compañeros príncipes. En la práctica, el efecto principal del
+El artefacto era unir a sus rivales contra él.
+
+%%%%
+hat of the Bear Spirit
+
+Un sombrero de piel propiedad de Ukta, un poderoso chamán ogro. alberga el espíritu de
+un oso especialmente poderoso, cuyas rabias devastaron los ogros hasta que fue muerto.
+
+%%%%
+robe of Misfortune
+
+Una espléndida túnica de piel y seda, cuyo color de suerte se ha desvanecido.
+
+%%%%
+cloak of Flash
+
+Un manto que gime y gilipollas sin ninguna intervención.
+
+%%%%
+hood of the Assassin
+
+Una capucha suave, encantada por miembros del Gremio Assassin para permitir que el portador
+para sentir a las víctimas potenciales cercanas, y para detectar fácilmente vulnerabilidades después
+cerrando sobre ellos.
+
+%%%%
+Lear's hauberk
+
+Un hauberk dorado bien hecho que cubre todas las partes del cuerpo de su portador. It
+incluye un coif de cadena, chausses y gauntlets de correo.
+
+%%%%
+skin of Zhor
+
+El   LUA0   skin de un animal extraño, nativo de tierras frías y distantes. Se irradia
+el frío de su hábitat nativo.
+
+%%%%
+salamander hide armour
+
+La mayoría de los cuerpos de los salamandras se asignan a las profundidades ardientes de las cuales ellos
+Disparó. Raramente, sin embargo, salamandras en lugar de preservar las pieles de aquellos que
+aprobado. Las runas y decoraciones en este cuero sugieren que una vez perteneció a un
+respetado guerrero o sacerdote - tal vez incluso un rey. El espíritu ardiente permanece en
+la piel, otorgando su poder al portador.
+
+%%%%
+gauntlets of War
+
+Un par de guanteletes gruseos, hechos de acero de calidad. Fueron un regalo de
+Okwaru a un caudillo militar poderoso. Su dueño morirá en batalla, ¡pero que una
+muerte será!
+
+%%%%
+shield of Resistance
+
+Un escudo de bronce, casi exactamente como la concha de una tortuga. Fue construido
+por los adherentes de una fe menor oscura, que la imbuyeron con el poder de
+su dios. Como se dice al dios, este escudo protege contra la espada y el hongo,
+Escarcha y llama.
+
+%%%%
+robe of Folly
+
+Una bata gris aburrida. Está encantada de proporcionar magos con poder inconmensurable,
+y más que un poco de confianza...
+
+%%%%
+Maxwell's patent armour
+
+Una armadura de aspecto extraño.
+
+%%%%
+mask of the Dragon
+
+La máscara del Sumo Sacerdote de la antigua Erebora. En tiempos antiguos, los dioses de
+los Ereboranos dejaron de responder sus oraciones, y en desesperación, el pueblo
+se convirtió en la adoración prohibida de los dragones. Ahora, de sus obras, sólo esta máscara
+restos.
+
+%%%%
+robe of Night
+
+Una toga negra y larga hecha de un material raro y lusturoso. Envuelve el que lo
+lleva en oscuro, reduciendo la visión. Según leyenda fue un regalo de Ratri la
+Diosa de la Noche a uno de sus discípulos.
+
+%%%%
+scales of the Dragon King
+
+Un traje de armadura creado a partir de las escamas encantadas de un rey de una vez ochenta
+Dragones. En su tiempo, los titanes y los dragones menores lucharon con él en vano —
+pero como con todas las cosas, incluso eventualmente fue derribado y deshecho. De su
+vida y hechos, esto es todo lo que queda.
+
+%%%%
+hat of the Alchemist
+
+Un sombrero sucio. Lleva señales de sobrevivir a muchas explosiones extrañas, lo que sugiere
+puede tener medios para proteger la cabeza dentro de los riesgos involucrados con
+experimentos de alquimia.
+
+%%%%
+fencer's gloves
+
+Un par de guantes hechos de seda blanca.
+
+%%%%
+cloak of Starlight
+
+Un manto fosforescente, tejido de rayos de luz pura. Las ondas de sus pliegues
+a medida que el portador salta y se corta en combate puede deslumbrar a los que lo miran.
+
+%%%%
+ratskin cloak
+
+Un manto cosido de los escondites de cientos de ratas del infierno por un Enchantress con
+Demasiado tiempo en sus manos. Muchas más ratas permanecen ocultas de alguna manera dentro
+y puede correr para ayudar al usuario.
+
+%%%%
+shield of the Gong
+
+Una gong de bronce pesado que se puede usar como escudo. encerrado en un templo para
+muchos años, su portador está protegido por décadas de oración acumulada.
+
+%%%%
+amulet of the Air
+
+Un amuleto azul cielo, sofocado con encantamientos que protegen al portador y hacen
+sus hechizos de aire más poderosos. Su creador carecía de una sola cosa:
+mano.
+
+%%%%
+ring of Shadows
+
+Un anillo negro que puede hacer su portador uno con las sombras.
+
+%%%%
+amulet of Cekugob
+
+Una pieza extraña de cristal en una cuerda de aspecto ordinario, con una extraña
+selección de poderes.
+
+%%%%
+amulet of Tranquility
+
+Un dije del jade más fino. Da el que lo lleva fuerza de voluntad y fortaleza mental
+sin igual.
+
+%%%%
+necklace of Bloodlust
+
+Un collar hecho de dientes humanos y animales manchados de sangre, y algo que
+Parece ser un pedazo de columna.
+
+%%%%
+ring of the Hare
+
+Un anillo de malachito no adorado, la mitad de un par antiguo. Su desgaste es
+excepcionalmente difícil de atrapar.
+
+%%%%
+ring of the Tortoise
+
+Un anillo aquamarino de punta dura, la mitad de un par antiguo. Su desgaste es
+excepcionalmente difícil de dañar.
+
+%%%%
+ring of the Mage
+
+Un zafiro encantado, introducido en un anillo. Ayuda a la ortografía de su
+Usador.
+
+%%%%
+brooch of Shielding
+
+Un broche con un diseño incrustado, proporcionando una gama de magia
+protecciones. En los viejos tiempos, cada aventurero tenía uno de estos
+Dispositivos. Eso, y un poni.
+
+%%%%
+robe of Clouds
+
+Una túnica de un material tan nebuloso e insustancial como las nubes. lloriquea
+aire alrededor de ella hacia arriba en una tormenta furtiva mientras que ondea y gira.
+
+%%%%
+hat of Pondering
+
+El sombrero favorito del mago de la peluca Gastronok, manchado con el cálizco rojizo y
+encantados de ayudar en su arcane reflexionando. Ha sido especialmente encantada
+proteger contra los efectos desecantes de la sal.
+
+%%%%
+obsidian axe
+
+Un hacha con una poderosa maldición colocada en él por uno de los señores de Pandemonium,
+para que los aventureros insospechados desencadenen demonios a este mundo. Cuidado.
+porque tiene formas de mesmerizar su wielder, no importa lo claro y concentrado
+su mente...
+
+%%%%
+consecrated labrys
+
+Un hacha con una delicada bendición colocada en él por uno de los Serafines sagrados,
+para que los aventureros dignos libraran este mundo de demonios. Regocíjate, porque tiene
+maneras de traer coraje a su pelador en incluso los lugares más oscuros...
+
+%%%%
+lightning scales
+
+Un conjunto de placas blindadas montadas para proteger a una criatura con una larga y escamosa
+cuerpo inferior. Faintly cracking with electricity, they supercharge their wearer's
+habilidad para cubrir distancia.
+
+%%%%
+Black Knight's barding
+
+Una barca pesada hecha de acero en negro de campo e incrustada con placas de negro
+diamante. Una vez protegió el cuerpo del Caballero Negro durante su reinado
+terror. Aquellos que lo llevan se vuelven parcialmente muertos, ganando algunos de los beneficios
+sin los desafortunados inconvenientes, aunque el gran peso de metal y piedra
+ralentiza un poco el portador.
+
+%%%%
+amulet of Vitality
+
+Un amuleto de joyas famoso por sus poderes de resiliencia y recuperación. Es...
+mayor notoriedad vino de su uso por el temido necromancer Borgnjor, quien
+dependía de ella para mantener su esbelta vida. Después de su fallecimiento final,
+el amuleto desapareció de las páginas de la historia.
+
+%%%%
+autumn katana
+
+Una espada exquisitamente elaborada. Su espada es tan afilada que puede cortar
+espacio en sí mismo.
+
+%%%%
+shillelagh "Devastator"
+
+Un cudgel de madera, cargado con más que solo plomo.
+
+%%%%
+dragonskin cloak
+
+Un capa opalescente brillando con los colores de todo tipo de dragones. It
+imbues el portador con resistencias dracónicas, aunque algo poco fiable.
+
+%%%%
+ring of the Octopus King
+
+Uno de los ocho anillos usados por el Rey Octopus y ahora esparcido a través
+la tierra. Cada uno tiene su propio encanto único.
+
+%%%%
+Axe of Woe
+
+Mientras sostienes este hacha, tu mente no siente completamente la tuya. Tu cuerpo comienza
+para mostrar fuerza más allá de sus capacidades, y sus movimientos se convierten
+guiado por Makhleb.
+
+%%%%
+moon troll leather armour
+
+Un traje de armadura rumoreada de haber sido creado por encantar el escondite de un
+especies extintas de troll. Si el nombre suena verdadero o es meramente
+apropiado para añadir mística es algo de misterio. La armadura es innata
+poderes de regeneración y protección mágica, sin embargo, son difíciles de disputar.
+
+%%%%
+macabre finger necklace
+
+Un dedo feo colgando en una cuerda. Todo sobre él apesta a malign
+influencias... pero es difícil evitar pensar que se vería mejor con un
+Anímate.
+
+%%%%
+boots of the spider
+
+Un par de botas inventado por un pretendiente de Arachne.
+
+%%%%
+dark maul
+
+Un gran maul de hierro se especializó para tratar golpes de gran alcance. Tal
+el poder viene a un precio: la cabeza del maul es tan pesada que toma una gran longitud
+tiempo para levantarlo para otro swing.
+
+%%%%
+hat of the High Council
+
+Una reliquia de una antigua guerra magos. Centuries más tarde, todavía se rompe con
+efectos de los hexes residuales y energías mágicas que una vez fue sometida a
+sobre una base diaria; los ortógrafos capaces de conseguir un mango en su poder, sin embargo, Will
+encuentra que mejora el poder de sus hechizos.
+
+%%%%
+arc blade
+
+Una espada de alguna manera hecha de electricidad pura. Arcs salvajemente entre el
+Wilfreder y sus enemigos mientras golpea.
+
+%%%%
+demon whip "Spellbinder"
+
+Un arma dijo que una vez se había utilizado para mantener a los magos injustificados en fila;
+Interrumpe violentamente el flujo de la magia a su alrededor.
+
+%%%%
+lajatang of Order
+
+Un lajatang plateado, una vez otorgado a un adorador favorecido de Zin. It
+se convirtió en el arma más preciada de los muchos sacerdotes de Zin. Después de su orden
+destruido, cayó en desuso y desapareció de la historia.
+
+%%%%
+great mace "Firestarter"
+
+Un gran mace imbued con potente magia de fuego. Llena a los que golpea con un
+llama interior, y ofrece cierta protección contra la devastación resultante.
+
+%%%%
+orange crystal plate armour
+
+Un traje de armadura tallado de cristal transparente naranja. Proporciona notable
+protección para la mente y el cuerpo. El portador puede incluso canalizar energías psíquicas
+a través del cristal mismo, mejorando sus habilidades mágicas. Sin embargo, es
+bastante pesado...
+
+%%%%
+Majin-Bo
+
+Un personal habitado por un poderoso demonio, engañado y atrapado en esta forma hace mucho tiempo.
+Para sobrevivir, ahora ofrece un gran poder arcano en una terrible ganga:
+intercambio por una pequeña parte de la esencia de la vida de la lanzador, tomada cada vez su
+wielder lanza un hechizo, ella Will redirigir la esencia de la vida de las criaturas dañadas
+por el hechizo a la casta.
+
+%%%%
+pair of quick blades "Gyre" and "Gimble"
+
+Dos cuchillas rápidas unidas por una cadena. Swinging one compels the wielder to swing
+el otro, como si tuvieran mente propia.
+
+%%%%
+Maxwell's etheric cage
+
+Una jaula de malla fina diseñada para capturar energía mágica. Notas experimentales sugieren
+que la investigación fue abandonada cuando la jaula comenzó a capturar magia
+contaminación casi tan eficaz. Cualquiera lo suficientemente imprudente como para ponerlo en
+su cabeza encontraría su regeneración mágica aumentada dramáticamente, en
+costo de multiplicar cualquier contaminación mágica recibida.
+
+%%%%
+crown of Eternal Torment
+
+Una corona de oro con gemas de jet-black. Aflige permanentemente a su portador con
+dolor agonizante, reduciendo sustancialmente su resiliencia pero haciéndolos
+inmune a más tormentos.
+
+%%%%
+robe of Vines
+
+Una túnica tejida de viñas vivas. Las vides forman una relación simbiótica con
+su portador, aumentando enormemente su regeneración, pero impidiéndoles
+ser curado por pociones.
+
+%%%%
+Kryia's mail coat
+
+Un abrigo de armadura dijo haber sido falsificado para la reina Kryia en su vejez. Ella
+continuó insistiendo en llevar a sus ejércitos desde el frente incluso en su escenario,
+y como su cuerpo envejecido la falló, este abrigo ayudó a mejorar la curación
+draughts que la mantenía viva.
+
+%%%%
+frozen axe "Frostbite"
+
+Un hacha enorme que parece que fue tallada de un glaciar, o posiblemente calvada
+de uno. Deja cristales de hielo en su estela mientras gira por el aire.
+
+%%%%
+armour of Talos
+
+Un traje enorme y pesado de bronce armadura de placas. Sólo uno con el correspondiente
+Un cuerpo enorme puede usarlo.
+
+%%%%
+warlock's mirror
+
+Un conjunto de espejos hexagonales de mano, sintetizados de un exótico verdadero
+sustancia y pulida a un basurero cegador.
+
+%%%%
+amulet of invisibility
+
+Un amuleto que se puede activar para hacer invisible su portador.
+
+%%%%
+scarf of invisibility
+
+Una bufanda que puede activarse para hacer invisible su portador.
+
+%%%%
+Maxwell's thermic engine
+
+Una espada extraña, una espada brillando caliente y el otro frío helado. Cuando golpea
+su objetivo aumenta el gradiente térmico. Lo que causa este efecto es desconocido
+pero se rumorea que las fuerzas de otro mundo están involucradas.
+
+%%%%
+demon trident "Rift"
+
+Una pequeña arruga en el tejido de la realidad, mágicamente ligada a un eje por
+un acólito loco de Lugonu. Sus ataques pueden atravesar el espacio cercano
+El comando de Wielder.
+
+%%%%
+sphere of Battle
+
+Un orbe encasado en escalas de colores vivos, forjado por un mago olvidado.
+Era el juguete favorito de Iskenderun.
+
+%%%%
+Cigotuvi's embrace
+
+Un traje de armadura llevado de carne podrida y hueso y espeluznante, mantenido intacto por el
+Will de un hechicero de larga data. Las energías terribles dentro de ella llaman a los cuerpos
+de los muertos recientemente, protegiendo al portador con un capullo de carriona.
+
+%%%%
+seven-league boots
+
+Un encantador par de botas que otorgan la capacidad de tomar pasos de increíble
+longitud, mientras el portador avance valientemente hacia sus enemigos.
+
+%%%%
+Mad Mage's Maulers
+
+Un par de guantes diseñados para controlar cuidadosamente y canalizar el flujo de la magia,
+más tarde mal utilizado y manipulado por los asesinos lunáticos imágenes del Quinto Círculo.
+Su influencia deja al portador totalmente incapaz de lanzar hechizos - el portador
+la magia se redirige a propósitos mucho más sangrientos.
+
+%%%%
+dreamdust necklace
+
+Una mezcla polvorienta aburrida atrapada dentro de un cristal agrietado en una cadena de plata delgada.
+
+%%%%
+dreamshard necklace
+
+Un hermoso arco iris de color y movimiento atrapado dentro de un cristal delicado en un
+cadena de plata delgada. Escuchando cuidadosamente, uno puede escuchar el eco distante de un
+mil sueños de todos los rincones de la realidad, su melodía dando un sentido cálido
+de seguridad.
+
+%%%%
+Delatra's gloves
+
+Un par de guantes ultramarinos largos, usados por un alquimista experimental famoso en un
+hace mucho tiempo. Canalizan la energía del descubrimiento, potenciando a su portador con
+la fuerza creada por un paso ciego de la ignorancia a la certeza.
+
+%%%%
+woodcutter's axe
+
+Un arma que se corta como un corte forestal
+madera. El ritmo inmutable de su trabajo se ha asentado con la fuerza de
+la ley natural, y ninguna cantidad de fuerza o habilidad puede hacerlo oscilar más rápido o más lento.
+
+%%%%
+Throatcutter
+
+Tomado de un paladín de la Shining One por el cutpura común que la asesinó,
+Throatcutter fue utilizado para una larga serie de hechos cada vez más sórdidos después.
+Sangre, asesinato y traición manchan su historia y espada, y poco rastro ahora
+restos de la espada que una vez se paró entre el peligro y el inocente.
+
+%%%%
+staff of the Meek
+
+Una sagrada reliquia de los Monjes de San Lee, seguidores del arquema renunciado. Sólo
+como San Lee trató de expiar por la destrucción sus hechizos hechos por la protección
+otros, por lo que su personal protege su escudo.
+
+%%%%
+trishula "Condemnation"
+
+Un arma para sacar la culpa de los culpables. Fue el primero con el arcángel.
+Lucriel, que al ver el sufrimiento de los primeros mortales, los llevó como ejército
+contra la crueldad de los dioses. Los sobrevivientes del ejército de Lucriel se llevaron esto
+arma con ellos en el desierto, el único remanente de la virtud de un arcángel.
+
+%%%%
+amulet of Elemental Vulnerability
+
+Un dije de acero azúl con quemaduras borrosas. Su creadora, una mujer muy sensata,
+lo diseñó para proteger contra puñaladas, puñetazos y mordeduras. Es peor que
+inútil contra fuego y escaracha, ¿pero con cuánta frequencia es eso relevante?
+
+%%%%
+mountain boots
+
+Estas botas robustas fueron creadas por un artificio que vivía alto en un remoto
+pico de montaña, como protección contra los avalanches cercanos a la montaña,
+rocas deslizantes y tormentas de nieve. No hay fuerza corta de translocaciones magia Will broge
+el usuario de su posición.
+
+%%%%
+Lochaber axe
+
+Este arma brutal, largamente pensada en la historia, combina el alcance extendido
+de una polearma con la agudeza de un hacha. Fantasmas de guerreros antiguos
+Mentira sobre ello, drenando usuarios de fickles.
+
+%%%%
+Hermit's pendant
+
+Un asceta una vez tomó un voto sagrado, prostituyendo el uso de herramientas mágicas y la propiedad
+de todo menos este colgante. Que dios hicieron este voto para seguir siendo un punto
+contienda amarga entre el devoto, pero el poder de su colgante - y limitaciones -
+son irrefutables.
+
+%%%%
+slick slippers
+
+Creado desde el escondite bronceado y suave de un Skyshark occidental, estas zapatillas son
+asombrosamente cómodo. Ellos carecen de los beneficios protectores de un buen par de
+botas, pero pueden sacar sus pantalones de casi cualquier papel.
+
+%%%%
+Force Lance
+
+Una lanza de hierro, impregnada de gravita sobrenatural a través del artificio del
+Mage Gell. Huye con una fuerza muchas veces más fuerte que la impartida por
+el pelador.
+
+%%%%
+toga "Victory"
+
+Un antiguo artefacto de Okawaru, estas túnicas de lana se perdieron cuando un antiguo
+campeón falló un duelo. Sus encantamientos aumentan en el poder cuando el usuario
+emerge victorioso del combate amenazante, pero recurriendo al uso de pergaminos
+o pociones para la asistencia les hace desaparecer de nuevo.
+
+%%%%
+Storm Queen's Shield
+
+Un disco de metal crujiente, creado por una mujer cuyo astuto artificio y
+la política artesanal unió un continente. La mayoría de sus inventos sobrevivientes son
+vigilada de cerca por varios reyes, prueba ostensible de su afirmación de ser ella
+verdadero sucesor, pero este prototipo temprano se resbaló a través de sus dedos.
+
+%%%%
+hand cannon "Mule"
+
+Los cañones de mano usan polvo mágico para lanzar proyectiles. Los alquimistas que fabrican
+ellos se jactan de su potencia, pero omitir el humo y el ruido se apagaron con cada uno
+disparo. Lleno de blastmotes en polvo, Mule empaca una patada especialmente poderosa.
+
+%%%%
+gloves of the gadgeteer
+
+Un par de guantes de suede cubiertos en una gama de sigiles delicados. Mientras tanto
+originalmente destinados a ayudar en la fabricación de dispositivos mágicos, son
+sin embargo útil para eliminar cada última gota de energía de otra persona
+trabajo.
+
+%%%%
+Charlatan's Orb
+
+Este orb es la obra de un maestro artificio, contratado para recuperar el Orbe, que
+valoró su vida más que su integridad profesional. Mientras que este falso
+recrea fielmente el resplandor extraño y las propiedades de la verdadera
+orb, el poder que otorga es artificial y sólo accesible para los evokers calificados.
+
+%%%%
+justicar's regalia
+
+Un pectoral brillante con una ranura en su centro para un símbolo santo o bejewelled
+escudo de armas. Aquellos que oyen comandos dados por su portador se sienten llenos con el
+poder para llevar a cabo, no importa la adversidad.
+
+%%%%
+skull of Zonguldrok
+
+El cráneo de un legendario necromancer, aparentemente separado del resto de su
+cuerpo. Cuando se sostiene, parece desinclinado explicar las circunstancias precisas de
+su finalización en este estado, pero no ofrece ninguna objeción a otros sifoning
+El poder necrótico considerable aún permanece en sus huesos antiguos.
+
+%%%%
+fungal fisticloak
+
+La obra de un micólogo loco que alguna vez intentó superar la genética
+ansiedad de los hongos vagando cultivando una especie que podría ser fácilmente
+transportado sin perturbarlos. El resultado es tanto un organismo vivo como
+es un pedazo de ropa, cada fibra de lino gemido junto con micelia fúngica
+que extraen tanto nutrientes como confianza de quien lo use. Y a cambio
+para tales trifles como sangre o péptidos, la colonia Will instintivamente se inclina hacia
+defender a su portador de lo que perciban como una amenaza.
+
+¡Es como llevar mil diminutos amigos a la vez! Y el colibrí que llenan
+tu mente con la oscuridad es realmente bastante lúgubre....
+
+(Este artículo también ocupa la ranura del casco.)
+
+%%%%
+crown of vainglory
+
+Una corona extravagante de filigrana de oro y joyas brillantes que incluso un rey
+podría sentirse más inmejorable. Le otorga a su portador un aura regal el partido de cualquier
+en el cielo y también una gran cantidad de confianza desenterrada.
+
+%%%%
+swamp witch's dragon scales
+
+Un traje inflamante de armadura antigua que ha llevado a muchos cismas menores entre
+historiadores, ya que es incierto si fue hecho de alguna bruja de renombre
+Dragón de mascotas, o su presa frecuente, o de su propio cuerpo no humano.
+Independientemente de sus orígenes, la magia tejida en ella llueve libremente toxinas todas
+sobre los enemigos especialmente desafortunados de su portador.
+
+%%%%
+athame "Fimbulwinter"
+
+Un instrumento de terror elaborado por algunos de los profetas más famosos de Qazlal,
+significaba sacar un invierno de tres años antes del fin del tiempo. Esos fríos
+por su wielder Will siente la agarre helada del destino sobre su garganta.
+
+Como con todos los athames, golpes hechos con él contra aquellos que sufren negativo calvo
+estatus (excepto el veneno) han aumentado el daño base.
+
+%%%%
+fire dragon occultist's scales
+
+Las escalas resonantes del gran dragón que respira fuego Zmysua, un antiguo
+ocultista aficionado a la debilitación y la devastación. Su rivalidad amorosa con la
+el arcanista dragón mayor Yntzoia era legendariamente destructivo, y conduce a los dos
+de ellos buscando aumentos místicos interminables para triunfar uno sobre otro-
+incluso ahora, estas escamas todavía humedecen con sed para enfrentar lo que queda de sus
+opuesto a la muerte.
+
+%%%%
+ice dragon arcanist's scales
+
+Las escamas estruendosas del gran dragón helado Yntzoia, un antiguo
+arcanista aficionado al espectáculo y la destrucción. Su relación tumultuosa con la
+el viejo ocultista dragón Zmysua era bastante infame, y conduce a los dos
+buscando aumentos místicos interminables buscando más tiempo para la reconciliación-
+incluso ahora, estas escalas todavía reverberan con hambre para volver a lo que queda
+de su opuesto más allá de la muerte.
+
+%%%%
