@@ -1707,3 +1707,17 @@ Shield|Escudo
 Ring|Anillo
 Amulet|Amuleto
 You are frozen.|Estás congelado.
+The Orb of Zot (the Realm of Zot)|El Orbe de Zot (el Reino de Zot)
+The endoplasm is severely wounded.|El endoplasma está gravemente herido.
+The percentage of incoming experience used to train each skill is in brown.|El porcentaje de experiencia entrante usado para entrenar cada habilidad está en marrón.
+The species aptitude is in white.|La aptitud de la especie está en blanco.
+You are immune to poison.|Eres inmune al veneno.
+You have sharp fingernails.|Tienes uñas afiladas.
+You are cold resistant.|Eres resistente al frío.
+Your magical capacity is very low.|Tu capacidad mágica es muy baja.
+You are immune to negative energy.|Eres inmune a la energía negativa.
+You are immune to unholy pain and torment.|Eres inmune al dolor y tormento impío.
+You perform a melee attack whenever you cast damage-dealing spells.|Realizas un ataque cuerpo a cuerpo cada vez que lanzas hechizos de daño.
+You recover more slowly from Doom and Banes.|Te recuperas más lentamente de la Condena y los Azotes.
+You will be able to burn memories to enhance your damage-dealing spells.|Podrás quemar recuerdos para potenciar tus hechizos de daño.
+The Orb of Zot|El Orbe de Zot
