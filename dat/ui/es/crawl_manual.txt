@@ -69,7 +69,7 @@ para juegos fuera de línea, y otros recursos comunitarios:
 http://crawl.develz.org/
 
 ------------------------------------------------------------------------
-B. STARTING SCREEN
+B. PANTALLA DE INICIO
 ------------------------------------------------------------------------
 
 En la pantalla de inicio Crawl, se le presentará con varios modos de juego, un
@@ -598,7 +598,7 @@ puede usar teclados y macros. Ver macros guide.txt en los docs/
 directorio, o leerlo desde el menú de ayuda en el juego.
 
 ------------------------------------------------------------------------
-E. EXPERIENCE AND SKILLS
+E. EXPERIENCIA Y HABILIDADES
 ------------------------------------------------------------------------
 
 Cuando matas monstruos, ganas puntos de experiencia (XP). Cuando llegues
@@ -654,7 +654,7 @@ rápido progreso en esta esfera. Cuando lo recoges, la experiencia solía
 practicar la habilidad dada tendrá dos veces el efecto habitual por un tiempo.
 
 ------------------------------------------------------------------------
-F. MONSTERS
+F. MONSTRUOS
 ------------------------------------------------------------------------
 
 En las cavernas de Crawl encontrarás una gran variedad de criaturas, la mayoría
@@ -730,7 +730,7 @@ Son prevenidos por el silencio, pero no afectados por el antímago.
 prevenido por el silencio y afectado por el antimagismo.
 
 ------------------------------------------------------------------------
-G. ITEMS
+G. OBJETOS
 ------------------------------------------------------------------------
 
 En las mazmorras de Crawl hay muchos tipos diferentes de normal y
@@ -1066,7 +1066,7 @@ encantamiento, en cambio):
 : otras armaduras: bordadas.
 
 ------------------------------------------------------------------------
-H. SPELLCASTING
+H. LANZAR HECHIZOS
 ------------------------------------------------------------------------
 
 Los hechizos mágicos son una parte muy importante de sobrevivir en la mazmorra. Cada uno
@@ -1127,7 +1127,7 @@ daño potencialmente letal).
 como tú, si no mejor, y a menudo lo usas inteligentemente.
 
 ------------------------------------------------------------------------
-I. TARGETING
+I. APUNTADO
 ------------------------------------------------------------------------
 
 Al lanzar o disparar algo, evocando varitas, o echando ciertas
@@ -1172,7 +1172,7 @@ Finalmente, la tecla ':' le permite ocultar el camino de su
 hechizo/wand/missile.
 
 ------------------------------------------------------------------------
-J. RELIGION
+J. RELIGIÓN
 ------------------------------------------------------------------------
 
 Hay un número de dioses, demonios y otros poderes surtidos que harán
@@ -1206,7 +1206,7 @@ Si desea comenzar el juego con una religión, elija su fondo
 de Berserker, Caos Knight, o Cinder Acolyte.
 
 ------------------------------------------------------------------------
-K. MUTATIONS
+K. MUTACIONES
 ------------------------------------------------------------------------
 
 El Dungeon contiene muchas fuentes de radiación mutagénica y mágica
@@ -1332,7 +1332,7 @@ El desarrollo de Crawl continúa hasta hoy, con un equipo de muchos
 desarrolladores y cientos de colaboradores.
 
 ------------------------------------------------------------------------
-M. MACROS, OPTIONS, PERFORMANCE
+M. MACROS, OPCIONES, RENDIMIENTO
 ------------------------------------------------------------------------
 
 Crawl soporta las teclas de redefinición a través de mapas clave. Esto es útil cuando tu
@@ -1368,7 +1368,7 @@ especialmente útil si juega en un servidor remoto)
 - intenta jugar en modo consola en lugar de fichas
 
 ------------------------------------------------------------------------
-N. PHILOSOPHY (PAS DE FAQ)
+N. FILOSOFÍA (PAS DE FAQ)
 ------------------------------------------------------------------------
 
 En pocas palabras: Este juego pretende ser una mazmorra táctica con temática de fantasía
@@ -1561,7 +1561,7 @@ Apéndices
 ################################################################################################################################################################################################################################################################
 
 ------------------------------------------------------------------------
-1. LIST OF CHARACTER SPECIES
+1. LISTA DE RAZAS
 ------------------------------------------------------------------------
 
 Las especies se clasifican, aproximadamente, por lo difícil y complejo que son
@@ -2095,7 +2095,7 @@ escuelas. Respiran el vapor de observación y, como su púrpura
 primos, tienen una ligera ventaja en Evocations.
 
 ------------------------------------------------------------------------
-2. LIST OF CHARACTER BACKGROUNDS
+2. LISTA DE CLASES
 ------------------------------------------------------------------------
 
 En su búsqueda, tú juega como uno de un gran número de diferentes tipos de
@@ -2437,7 +2437,7 @@ daño y precisión. Análogamente, otros artículos que tienen evocables
 poderes funcionan mejor para los personajes entrenados en esta habilidad.
 
 ------------------------------------------------------------------------
-4. LIST OF KEYS AND COMMANDS
+4. LISTA DE TECLAS Y COMANDOS
 ------------------------------------------------------------------------
 
 Pantalla principal
@@ -3184,7 +3184,7 @@ Para obtener más información, examine un artículo (por seleccionarlo en su
 i) inventario); cada propiedad de un artefacto se enumerará y describirá.
 
 ------------------------------------------------------------------------
-6. DUNGEON SPRINT MODES
+6. MODOS DE SPRINT
 ------------------------------------------------------------------------
 
 Las huellas de Dungeon son variantes cortas y de ritmo más rápido de Crawl que apuntan a más

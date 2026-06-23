@@ -17,3 +17,4 @@ Thumbs.db
 .upstream_cache/
 *.bak
 crawl
+saves/db/

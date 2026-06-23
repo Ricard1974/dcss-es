@@ -145,7 +145,7 @@ for label, d in [("UI", UI_SQ), ("Descript", DS_SQ), ("Database", DB_SQ)]:
         with open(os.path.join(d, f)) as fh:
             content = fh.read()
         b += len(re.findall(r"\$cmd\[CMD [A-Z]", content))
-    print(f"  {'✅' if b == 0 else '❌'} {label}: {b} \$cmd rotos")
+    print(f"  {'✅' if b == 0 else '❌'} {label}: {b} $cmd rotos")
 
 # Will (solo en nombres de stat correctos)
 for label, d in [("UI", UI_SQ), ("Descript", DS_SQ), ("Database", DB_SQ)]:
