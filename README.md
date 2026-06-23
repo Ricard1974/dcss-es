@@ -6,28 +6,31 @@ Traducción al **español de España** de **Dungeon Crawl Stone Soup** v0.34.1.
 [![Versión](https://img.shields.io/badge/dcss-0.34.1-blue)](https://github.com/crawl/crawl)
 [![Licencia](https://img.shields.io/badge/licencia-GPLv2%2B-green)](LICENSE)
 
+> **🌐 Repositorio público** — https://github.com/Ricard1974/dcss-es
+
 ---
 
 ## 📊 Estado del proyecto
 
-| Componente     | Archivos | Estado |
-| -------------- | :------: | :----: |
-| UI (menús, etc)|    10    |   ✅   |
-| Descripciones  |    23    |   ✅   |
-| Base de datos  |    23    |   ✅   |
-| Código C++     |    8     |   ✅   |
-| **Total**      |  **64**  |  🎉   |
+| Componente      | Archivos | Cobertura | Estado |
+| --------------- | :------: | :-------: | :----: |
+| UI (menús, etc) |    10    |   100%    |   ✅   |
+| Format strings  | 1 archivo|  **95%**  |   ✅   |
+| Descripciones   |    23    |   100%    |   ✅   |
+| Base de datos   |    23    |   100%    |   ✅   |
+| Parches C++     |    ~12   |    —      |   ✅   |
+| **Total**       |  **70**  |  **99%**  |  🎉   |
 
 ### Traducciones de interfaz (ui/)
 
 | Archivo         | Entradas | Notas                                                   |
 | --------------- | :------: | ------------------------------------------------------- |
-| `ability.txt`   |   276    | Habilidades raciales y divinas                          |
-| `combat.txt`    |    93    | Mensajes de combate                                     |
+| `combat.txt`    |   900    | Mensajes de combate (716 format strings con %s)         |
+| `misc.txt`      |   ~1700  | Cadenas misceláneas, mensajes del juego                 |
+| `menu.txt`      |    71    | Menús de creación de personaje                          |
 | `commands.txt`  |   179    | Comandos, ayuda de teclas, pantalla                     |
 | `inventory.txt` |   206    | Descripciones de objetos                                |
-| `menu.txt`      |    71    | Menús de creación de personaje                          |
-| `misc.txt`      |    15    | Cadenas misceláneas                                     |
+| `ability.txt`   |   276    | Habilidades raciales y divinas                          |
 | `religion.txt`  |   297    | Los 28 dioses — mensajes, poderes, títulos              |
 | `skills.txt`    |   325    | Descripciones de habilidades                            |
 | `status.txt`    |    28    | Estados de duración y efectos                           |
@@ -45,36 +48,50 @@ Todos traducidos al español.
 
 ---
 
-## 🛠️ Parches de código C++
+## 🛠️ Parches de código C++ (~12 cambios)
 
-| Archivo       | Parche                                              | Propósito                           |
-| ------------- | --------------------------------------------------- | ----------------------------------- |
-| `format.cc`   | `ops.push_back(tr(s))` en `cprintf()`               | Barra de estado                     |
-| `message.cc`  | `text = tr(text)` en `_mpr()`                       | Mensajes del juego                  |
-| `output.cc`   | `buf = tr(buf)` en `wrapcprintf()`                  | Panel derecho de stats              |
-| `cio.cc`      | `buf = tr(buf)` en `wrapcprintf()`                  | Texto de UI en consola              |
-| `libunix.cc`  | `buf = tr(buf)` en `cprintf()`                      | Menú principal y textos             |
-| `startup.cc`  | `tr(entry.label)` en menú                           | Modos de juego del menú             |
-| `command.cc`  | `tr(desc)` en `_add_command`, carga localizada      | Descripciones de teclas, ayuda      |
-| `newgame.cc`  | `tr()` en species/jobs/grupos                       | Nombres en creación de personaje    |
-| `menu.cc`     | `tr()` línea por línea en `add_formatted()`         | Pantalla de ayuda (?)               |
-| `translation.cc` | `names.txt` añadido a `s_ui_files`              | Carga de traducciones de nombres    |
+| Archivo | Parche | Propósito |
+|---|---|---|
+| `translation.cc` | Infraestructura `tr()` + carga de .txt | Sistema de traducción completo |
+| `translation.cc` | Fix filtro: `%%` en vez de `%` | **Bug fix**: no descartar claves con `%s` |
+| `message.cc` | `text = tr(text)` en `_mpr()` | Traduce mensajes estáticos |
+| `message.cc` | `string fmt = tr(format)` en `do_message_print()` | **Traduce format strings con %s ANTES de formatear** |
+| `format.cc` | `tr()` en `cprintf()` | Barra de estado |
+| `cio.cc` | `tr()` en `wrapcprintf()` | Panel derecho de stats |
+| `libunix.cc` | `tr()` en `cprintf()` | Menú principal y textos |
+| `startup.cc` | `tr(entry.label)` | Modos de juego del menú |
+| `command.cc` | `tr(desc)` + carga localizada | Descripciones de teclas, ayuda |
+| `newgame.cc` | `tr()` en species/jobs/grupos | Nombres en creación de personaje |
+| `menu.cc` | `tr()` línea por línea | Pantalla de ayuda (?) |
+| `Makefile.obj` | +translation.o | Compilar el sistema de traducción |
+
+### 🔧 Bugs importantes corregidos
+
+1. **Filtro que descartaba %s**: `line[0] == '%'` eliminaba TODAS las claves que empezaban con `%s`, dejando inutilizadas 384 traducciones de combate. Fix: `line.substr(0,2) == "%%"`.
+2. **Hook post-formateo**: `_mpr()` recibía el texto ya formateado con nombres de monstruo, haciendo imposible matchear contra las claves con `%s`. Fix: hook en `do_message_print()` que traduce el **formato** antes de `vsnprintf`.
 
 ---
 
 ## 🚀 Cómo usar
 
+1. Configurar el idioma en `~/.crawl/init.txt`:
+```bash
+echo "language = es" >> ~/.crawl/init.txt
+```
+
+2. Ejecutar el juego:
 ```bash
 cd ~/proyectos/dcss-squashfs/squashfs-root/usr
-LANGUAGE=es ./bin/crawl
+./bin/crawl
 ```
 
-O usando el script incluido:
-
+O usando un RC personalizado:
 ```bash
-cd ~/proyectos/dcss-es
-./jugar.sh
+./bin/crawl -rc ~/.crawl/init.txt
 ```
+
+> ⚠️ **Importante**: NO usar `LANGUAGE=es` como variable de entorno. DCSS v0.34.1
+> usa la opción `language` del archivo de configuración, no la variable `LANGUAGE`.
 
 ## 🔧 Compilar
 
@@ -83,12 +100,10 @@ cd ~/proyectos/dcss-es
 bash scripts/build_con_traducciones.sh
 ```
 
-Esto clona el código fuente de DCSS v0.34.1, aplica parches, compila y genera
-el binario en `/tmp/dcss-build-*/crawl-ref/source/crawl`.
+Esto clona el código fuente de DCSS v0.34.1, aplica parches, copia traducciones,
+compila y genera el binario en `/tmp/dcss-build-*/crawl-ref/source/crawl`.
 
 ## ✅ Verificación
-
-Después de compilar o actualizar traducciones, ejecutar:
 
 ```bash
 cd ~/proyectos/dcss-es
@@ -104,6 +119,15 @@ Esto verifica:
 - Problemas textuales: 0 Will, 0 usted, 0 §, 0 fideos, 0 $cmd rotos
 - Sincronización: translations/ coincide con dat/
 
+### 🧪 Bot de prueba
+
+```bash
+cd ~/proyectos/dcss-es
+timeout 300 python3 scripts/bot_qa.py
+```
+
+Juega automáticamente y detecta texto en inglés en pantalla.
+
 ---
 
 ## 🌍 Cómo traducir a otro idioma
@@ -116,7 +140,7 @@ salida) funcionan para cualquier idioma.
 
 | Grupo | Archivos | Descripción |
 |---|---|---|
-| UI | 10 | Menús, comandos, barra de estado, nombres |
+| UI | 10 | Menús, comandos, barra de estado, nombres, combate |
 | Descript | 23 | Descripciones de monstruos, objetos, hechizos, etc. |
 | Database | 23 | FAQ, speech de monstruos, nombres, ayuda |
 
@@ -184,6 +208,8 @@ Al traducir con herramientas automáticas, estos patrones deben protegerse
 - Las caches SQLite en `~/.crawl/saves/db/` deben eliminarse al cambiar de idioma
 - No usar "usted" en español (tuteo: "tú")
 - Las claves de entrada (primera línea tras `%%%%`) deben permanecer en inglés
+- **Configurar con `language = es` en init.txt**, NO con la variable `LANGUAGE`
+- Los nombres de monstruo se muestran en inglés (el juego los genera así)
 
 ## 📄 Licencia
 
