@@ -1,108 +1,162 @@
 %%%%
-Armataur
-
-Mamíferos escalados del tamaño de los caballos, Armataurs son rápidos y tenaz cuando
-perseguir enemigos, pero falta destreza.%%%%
 Barachi
 
 Barachim son humanoides lentos, anfibios que pueden saltar largas distancias.
-Su amplia gama de visión también les permite ser vistos desde más lejos.%%%%
+Su amplia gama de visión también les permite ser vistos desde más lejos.
+
+%%%%
 Coglin
 
 Coglins cabalgando exoesqueletos encantados capaces de pelar armas en ambas manos,
-envolviendo el metal de revisión lenta alrededor de sus marcos goblinoide puntiagudos.%%%%
+envolviendo el metal de revisión lenta alrededor de sus marcos goblinoide puntiagudos.
+
+%%%%
 Deep Elf
 
 Profundidad Los elfos tienen una fuerte afinidad para todo tipo de magia, pero son muy frágiles.
-Ellos regeneran rápidamente el poder mágico.%%%%
+Ellos regeneran rápidamente el poder mágico.
+
+%%%%
 Demigod
 
 Los semidioses se niegan a adorar a cualquier dios, pero conforman esto con atributos divinos
-y altas reservas de salud y magia.%%%%
+y altas reservas de salud y magia.
+
+%%%%
 Demonspawn
 
 Los demonios son medio humano, medio demonio. Ellos adquieren fuertes mutaciones demoníacas como
-crecen.%%%%
+crecen.
+
+%%%%
 Djinni
 
 Djinn son espíritus siempre quemadores. Aprenden hechizos automáticamente a medida que crecen,
-y arrojado por derribar sus propios fuegos.%%%%
+y arrojado por derribar sus propios fuegos.
+
+%%%%
 Draconian
 
 Los Draconianos son híbridos versátiles. Ellos maduran al alcanzar el nivel 7 y desarrollar
-un color.%%%%
+un color.
+
+%%%%
 Formicid
 
 Los formicidas son hormigas humanoides que dependen de la excavación. Sus miembros son excepcionalmente
-fuertes y viven en un estado de estasis permanente.%%%%
+fuertes y viven en un estado de estasis permanente.
+
+%%%%
 Felid
 
-Los feligreses son gatos sensibles. No pueden usar armadura o armas.%%%%
+Los feligreses son gatos sensibles. No pueden usar armadura o armas.
+
+%%%%
+Gale Centaur
+
+Potentes híbridos equinos que rastrean su ascendencia a los cuatro vientos mismos,
+Centauros Galerna están en su más fuerte mientras galopando rápidamente hacia los enemigos.
+
+%%%%
 Gargoyle
 
 Hecho de piedra viva, Gargoyles tienen una afinidad preternatural para la magia de la tierra.
-Tienen baja salud, pero sus cuerpos de piedra son increíblemente duros.%%%%
+Tienen baja salud, pero sus cuerpos de piedra son increíblemente duros.
+
+%%%%
 Gnoll
 
 Los gnolls son humanoides caninos. Son incapaces de especializarse en cualquier persona
-habilidad, pero gradualmente se vuelve competente en todas las habilidades a la vez.%%%%
+habilidad, pero gradualmente se vuelve competente en todas las habilidades a la vez.
+
+%%%%
 Human
 
 Los humanos son exploradores naturales. Descubrir nuevos lugares los refresca y los vigoriza.
-De lo contrario son completamente promedios.%%%%
+De lo contrario son completamente promedios.
+
+%%%%
 Tengu
 
 Tengu son los pájaros que les encanta luchar, tanto con armas como con hechizos. Ellos son
-frágil pero ágil, y eventualmente aprender a volar.%%%%
+frágil pero ágil, y eventualmente aprender a volar.
+
+%%%%
 Kobold
 
 Los Kobolds están afinados a las sombras y sólo pueden ver o ser vistos en un rango cercano.
-Son pequeños y un poco frágiles, y son talentosos en la mayoría de las habilidades.%%%%
+Son pequeños y un poco frágiles, y son talentosos en la mayoría de las habilidades.
+
+%%%%
 Merfolk
 
 Medio pescado, medio humano, Merfolk son ciudadanos de agua y tierra. Ellos son
-fuertes combatientes, y adeptos de usar la magia para ayudar en la batalla.%%%%
+fuertes combatientes, y adeptos de usar la magia para ayudar en la batalla.
+
+%%%%
 Minotaur
 
 Los minotauros son grandes humanos musculares con cabezas bovinas. Sobresalen en todas las formas
-de combate cercano y variado.%%%%
+de combate cercano y variado.
+
+%%%%
 Mountain Dwarf
 
 Mountain Dwarves son fuertes luchadores de melee y capaces casters de gran valor.
-Pueden usar pergaminos para encantar incluso algunos artefactos.%%%%
+Pueden usar pergaminos para encantar incluso algunos artefactos.
+
+%%%%
 Mummy
 
 Compelido para caminar por una antigua maldición, Mummies tienen fe innata y son adeptos
-en Necromancy, pero aprender otras habilidades muy lentamente. No pueden beber pociones.%%%%
+en Necromancy, pero aprender otras habilidades muy lentamente. No pueden beber pociones.
+
+%%%%
 Naga
 
 Los nagas son híbridos: humanos de la cintura hacia arriba, con una cola de serpiente en lugar de
-piernas. Se mueven muy lentamente pero son naturalmente resistentes.%%%%
+piernas. Se mueven muy lentamente pero son naturalmente resistentes.
+
+%%%%
 Octopode
 
 Los opodos son una especie de cefalopodos anfibios. Pueden usar ocho anillos,
-pero casi ninguna armadura les encaja.%%%%
+pero casi ninguna armadura les encaja.
+
+%%%%
 Oni
 
 Grande, robusto, y muy aficionado a la bebida, Oni hace astillas y
-deletreadores y obtener beneficios adicionales de las pociones curativas.%%%%
+deletreadores y obtener beneficios adicionales de las pociones curativas.
+
+%%%%
 Poltergeist
 
 Fantasmas sin forma que se deleitan al atracar a sus enemigos. Ellos pueden equipar a muchos
-diferentes sombreros, guantes, botas o mantos a la vez, pero no puede usar armadura corporal.%%%%
+diferentes sombreros, guantes, botas o mantos a la vez, pero no puede usar armadura corporal.
+
+%%%%
 Revenant
 
 Los vengadores son muertos esqueletos que son fuertes en el combate de los meleos y pueden empoderar
-hechizos de daño al consumir recuerdos cosechan de sus víctimas.%%%%
+hechizos de daño al consumir recuerdos cosechan de sus víctimas.
+
+%%%%
 Spriggan
 
 Muy pequeño, muy frágil y muy rápido, los Spriggans son apuñalados altamente competentes
-y deletreadores.%%%%
+y deletreadores.
+
+%%%%
 Troll
 
 Los troles son criaturas monstruosas con garras poderosas. Ellos regeneran la salud
-rápidamente.%%%%
+rápidamente.
+
+%%%%
 Vine Stalker
 
 Simbiontes de fragilidad, Vine Stalkers no puede recuperar la salud de las pociones. Su magia
-las reservas absorben el daño, y empacan una mordida de almacenamiento mágico.%%%%
+las reservas absorben el daño, y empacan una mordida de almacenamiento mágico.
+
+%%%%

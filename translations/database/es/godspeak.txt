@@ -1549,12 +1549,12 @@ Sif Muna welcome
 Conozco muchos secretos...
 
 %%%%
-el Resplandeciente penance
+the Shining One penance
 
 El Shining One dice: Ser un mártir puede lavar su pecado!
 
 %%%%
-el Resplandeciente welcome
+the Shining One welcome
 
 El Shining One dice: ¡Llevad las fuerzas de la luz a la victoria!
 

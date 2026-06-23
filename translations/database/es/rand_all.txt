@@ -1,21 +1,4 @@
-######################################################
-# Randart Names
-# -------------
-# rand_all.txt: keywords for randart JEWELLERY and
-# those used for ALL randart types
-#
-# This file contains the lists of keywords (and their
-# weights) for keywords specific to randart jewellery
-# as well as those used for all three types of
-# randarts (weapons, armour, jewellery). You will find
-# other ones in rand_wpn.txt and rand_arm.txt.
-# See the explanation in the main file, randname.txt,
-# for more details.
-######################################################
 %%%%
-######################################################
-# Library of keywords used (mostly) for randart jewellery.
-######################################################
 _jewellery_animal_
 
 Death Scarab
@@ -219,6 +202,7 @@ Silencio
 el Solstice
 Silencio
 Negro
+
 %%%%
 _jewellery_special_name_
 
@@ -742,6 +726,7 @@ Silencio
 Artesanía
 Silencio
 Cursing
+
 %%%%
 _suspicion_no_conflict_name_
 
@@ -1144,6 +1129,7 @@ Silencio
 Coco
 Silencio
 Panfruit
+
 %%%%
 _suspicion_name_
 
@@ -1151,93 +1137,57 @@ _suspicion_name_
 
 w:2
 @_conflict_name_@
+
 %%%%
-######################################################
-# Library of keywords used for all randart types.
-######################################################
-# Used for god gifts from C++ side, as "of $GOD's @divine_esteem@".
-Eggfruit
-Silencio
-Dragonfruit
-Silencio
-Durian
-Silencio
-Jackfruit
-Silencio
-Longan
-Silencio
-Tamarind
-Silencio
-Guava
-Silencio
-Mangosteen
-Silencio
-Soursop
-Silencio
-Tangerine
-Silencio
-Cherry
-Silencio
-Grape
-Silencio
-Sultana
-Silencio
-Fig
-Silencio
-Fecha
-Silencio
-Lemon
-Silencio
-Lime
-Silencio
-Medlar
+divine_esteem
 
-# good
-Approval
+# Good
+Aprobación
 
-Benevolence
+Benevolencia
 
-Delight
+Deleite
 
 Esteem
 
-Favour
+Favor
 
 w:5
-Felicitations
+Felicitaciones
 
-Generosity
+Generosidad
 
-Grace
+Grace.
 
 Hope
 
-Inspiration
+inspiration
 
 Pride
 
 Regard
 
 w:5
-Respect
+Respeto
 
-Supremacy
+Supremacía
 
 Whim
 
-# bad
-Castigation
+# Bad
+Castigación
 
-Condemnation
+Condena
 
-Displeasure
+Diplegación
 
 Envy
 
-Reproof
+Resistente
 
 w:70
-@_anger_quality_@
+ VAR0 
+
 %%%%
 _xom_esteem_
 
@@ -1284,6 +1234,7 @@ Temerity
 Wantonness
 
 Whimsicality
+
 %%%%
 _time_name_
 
@@ -1350,6 +1301,7 @@ the Past
 the Present
 
 the Solstice
+
 %%%%
 _sky_colour_name_
 
@@ -1366,8 +1318,10 @@ Orange
 Purple
 
 Red
+
 %%%%
 _sky_or_light_
+
 Darkness
 
 Dim Light
@@ -1395,6 +1349,7 @@ the Sky
 the Sun
 
 the @_sky_colour_name_@ Skies
+
 %%%%
 _virtue_or_vice_
 
@@ -1404,8 +1359,10 @@ w:5
 @_valour_name_@
 
 @_vice_name_@
+
 %%%%
 _virtue_name_
+
 Benevolence
 
 Charity
@@ -1679,6 +1636,7 @@ the Well-Known
 
 %%%%
 _thing_names_
+
 Allies
 
 Artisans
@@ -1884,6 +1842,7 @@ Yaks
 Youths
 
 Ziggurats
+
 %%%%
 _verbing_
 
@@ -2075,8 +2034,10 @@ Slashing
 
 w:5
 Piercing
+
 %%%%
 _adjective_
+
 Blue
 
 Green
@@ -2307,6 +2268,7 @@ Wicked
 Wonderful
 
 Zealous
+
 %%%%
 _fruit_name_
 
@@ -2380,4 +2342,5 @@ Lemon
 Lime
 
 Medlar
+
 %%%%

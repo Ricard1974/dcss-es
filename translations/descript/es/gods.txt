@@ -184,15 +184,14 @@ seguidores más devotos con libros de hechizo exclusivos de su legendaria
 biblioteca.
 
 %%%%
-el Resplandeciente
+the Shining One
 
-El Resplandeciente es una poderosa deidad en una cruzada contra todo mal. A sus
-seguidores y aliados les puede conceder varias bendiciones mientras vayan
-erradicando sin compasión a seres malignos e impíos, y se espera que prueben su
-superioridad moral luchando honorablemente. A sus seguidores se les solicita
-que limpien el mundo, examinando a todos sus habitantes en busca de rastros de
-maldad que deba ser eliminada. Los seguidores de El Resplandeciente pueden
-convertirse en seguidores de Elyvilon o de Zin conservando algo de piedad.
+Los seguidores del Shining One están obligados al código del guerrero honorable,
+soldados en la cruzada eterna de su dios contra el mal. Por abandonar la magia oscura
+y tácticas malvadas, el Shining One les recompensa a ellos y a sus aliados con los
+el poder que necesitan para matar demonios y los no muertos. Especialmente guerreros devotos pueden
+incluso llamar a los ángeles en tiempos de necesidad. Los seguidores de Shining One pueden convertir
+a Elyvilon o Zin manteniendo algo de piedad.
 
 %%%%
 Trog
@@ -475,13 +474,13 @@ más allá de su actual entrenamiento mágico. Con el tiempo, seguidores devotos
 recibir libros de hechizos que contienen una amplia gama de hechizos.
 
 %%%%
-el Resplandeciente powers
+the Shining One powers
 
 Los seguidores del Shining One están rodeados de un halo que revela sus
-enemigos para ellos. Seguidores ganar poder matando seres malvados, y con
-cultivar piedad su fuerza vital ser protegido. El Shining One mantener
+enemigos para ellos. Seguidores Will ganar poder matando seres malvados, y con
+cultivar piedad su fuerza vital Will ser protegido. El Shining One Will mantener
 aliados convocados y encantados a su lado más tiempo, si los aliados prueban
-digno de la cruzada. Seguidores ganar uso de un escudo divino para proteger
+digno de la cruzada. Seguidores Will ganar uso de un escudo divino para proteger
 en batalla. Más tarde, pueden canalizar las explosiones de la llama de limpieza que son
 particularmente dañino para los seres no santos, y puede llamar a la poderosa divina
 seres como aliados temporales. Los seguidores muy piadosos pueden solicitar el resplandor
@@ -726,10 +725,10 @@ los encantos se desentrañaron. Casting hechizos, también, se vuelve poco confi
 peligroso.
 
 %%%%
-el Resplandeciente wrath
+the Shining One wrath
 
 La ira del Shining One es directa e inconfundible. Sus víctimas encuentran
-ellos mismos tropezaron con fuego santo y se pusieron con guerreros santos. Sinners be
+ellos mismos tropezaron con fuego santo y se pusieron con guerreros santos. Sinners Will be
 silenciado, y el Shining One también gritan para alertar a los enemigos de la víctima.
 
 %%%%

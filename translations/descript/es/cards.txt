@@ -7,15 +7,15 @@ Cubra las suelas de las botas.
 Dibujar esta tarjeta puede otorgar gran velocidad a los aliados o terrible lentitud a los enemigos.
 
 %%%%
-la Tumba card
+the Tomb card
 
-Esta carta representa una cripta real con su entrada sellada por una losa de piedra.
+La tarjeta representa una cripta real, su entrada sellada por una placa de piedra pesada.
 
-Sacar esta carta rodeará al usuario de muros protectores y temporales.
-A niveles de fuerza bajos, o con crituras contiguos, la tumba puede ser incompleta.
+Dibujar esta tarjeta entumece a su usuario en paredes protectoras y temporales de roca sólida.
+A niveles de potencia más bajos o con criaturas adyacentes, la tumba puede ser imperfecta.
 
-La tumba es sostenida por el presencia de su creador, y moviéndose lejos del centro
-provocará sus paredes desplomarse.
+La tumba es sostenida por la presencia de su creador dentro de ella, y se mueve de
+el centro de la tumba Will hace que sus paredes se desmoronen.
 
 %%%%
 Exile card
@@ -76,7 +76,7 @@ La tarjeta representa una rueda de hierro, amenazante con picos y oxidado con sa
 Dibujar esta tarjeta desata un hechizo de ataque necromótico.
 
 %%%%
-el Orbe card
+the Orb card
 
 La tarjeta representa una figura rodeada de orbes flotantes y brillantes de energía.
 

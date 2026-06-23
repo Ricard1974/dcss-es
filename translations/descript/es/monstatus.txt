@@ -2,11 +2,15 @@
 ablaze with memories monstatus
 
 Esta criatura ha ganado temporalmente la capacidad de lanzar hechizos específicos.
-Perderá el acceso a ellos de nuevo una vez suficientemente herido.%%%%
+Perderá el acceso a ellos de nuevo una vez suficientemente herido.
+
+%%%%
 about to teleport monstatus
 
 Después de un breve retraso, esta criatura será teletransportada a algún otro lugar en el
-planta actual.%%%%
+planta actual.
+
+%%%%
 afflicted by rimeblight monstatus
 
 Esta criatura sufre daño frío por AC cada vuelta, y a veces puede
@@ -14,21 +18,29 @@ explotar en una explosión de hielo que daña a los aliados cercanos. Cuando mue
 Difundir rimeblight a otros aliados cercanos.
 
 criaturas naturales, demoníacas o santas serán asesinadas al instante cuando lleguen
-baja salud, y ser reemplazado con pilares de lima.%%%%
+baja salud, y ser reemplazado con pilares de lima.
+
+%%%%
 ally target monstatus
 
-Esta criatura está siendo dirigida por uno o más de sus aliados.%%%%
+Esta criatura está siendo dirigida por uno o más de sus aliados.
+
+%%%%
 anguished monstatus
 
 Cuando esta criatura trate el daño, sufrirá daño igual al daño.
-tratado.%%%%
+tratado.
+
+%%%%
 asleep monstatus
 
 Esta criatura no puede moverse, actuar, bloquear o esquivar. Cualquier acción hostil
 despertarlo, aunque los ataques contra él (incluso por otros monstruos) tratarán
 aumento del daño.
 
-[[Monstatus de alto nivel]]%%%%
+[[Monstatus de alto nivel]]
+
+%%%%
 berserk monstatus
 
 Esta criatura tiene un 50% más de salud, se ocupa de un 50% más de daño con ataques de melee, y
@@ -36,7 +48,9 @@ ambos movimientos y actúa un 50% más rápido. No pueden realizar ninguna acci�
 o atacando.
 
 Cuando la rabia del berserk se desgasta, se ralentizarán e incapaces de engordar por un
-duración corta.%%%%
+duración corta.
+
+%%%%
 blind monstatus
 
 Esta criatura no puede ver correctamente. Su precisión se reduce considerablemente, no puede
@@ -46,119 +60,178 @@ lugares equivocados.
 También puede tropezar y eventualmente perder la pista de su objetivo, especialmente
 si tiene poca inteligencia.
 
-[[número de nivel inferior]]%%%%
+[[número de nivel inferior]]
+
+%%%%
 bound in place monstatus
 
 Esta criatura no puede moverse bajo su propio poder, pero todavía puede utilizar translocaciones
-o ser desplazados por la fuerza por otra persona.%%%%
+o ser desplazados por la fuerza por otra persona.
+
+%%%%
 called by a tesseract monstatus
 
 Este monstruo ha sido llamado de una realidad paralela. Matarlo no otorgará
 puntos de experiencia, pero será lanzado inmediatamente a su realidad original
-tan pronto como el tesseract sea destruido.%%%%
+tan pronto como el tesseract sea destruido.
+
+%%%%
 catching its breath monstatus
 
 Esta criatura ha usado una capacidad de respiración recientemente y no puede utilizarla de nuevo para un
-poco tiempo.%%%%
+poco tiempo.
+
+%%%%
 catching his breath monstatus
 
-[[tratando su aliento monstatus]]%%%%
+[[tratando su aliento monstatus]]
+
+%%%%
 catching her breath monstatus
 
-[[tratando su aliento monstatus]]%%%%
+[[tratando su aliento monstatus]]
+
+%%%%
 catching their breath monstatus
 
-[[tratando su aliento monstatus]]%%%%
+[[tratando su aliento monstatus]]
+
+%%%%
 chanting recall monstatus
 
 Esta criatura está cantando una Palabra de Reposo. Esto recordará a aliados inteligentes
 de otra parte en el suelo a la vecindad del caster después de un breve retraso, pero puede
-ser interrumpido por la mayoría de los efectos que normalmente evitarían que se emitieran hechizos.%%%%
+ser interrumpido por la mayoría de los efectos que normalmente evitarían que se emitieran hechizos.
+
+%%%%
 charmed monstatus
 
 Esta criatura ha sido encantada y luchará por su causa por un corto tiempo. Esto
-El efecto se apagará inmediatamente si intenta dañarlo de cualquier manera.%%%%
+El efecto se apagará inmediatamente si intenta dañarlo de cualquier manera.
+
+%%%%
 concentrated venom monstatus
 
 El veneno natural de esta criatura ha sido intensificado, dando cualquier veneno que inflija
-a través de ataques o armas respiratorias una oportunidad para frenar y asfixiar objetivos susceptibles.%%%%
+a través de ataques o armas respiratorias una oportunidad para frenar y asfixiar objetivos susceptibles.
+
+%%%%
 confused monstatus
 
 Esta criatura es incapaz de bloquear o utilizar hechizos o habilidades y tropezará alrededor
 al azar, atacando cualquier cosa que choca con - ser amigo o enemigo o a veces incluso
 ellos mismos.
 
-[[número de nivel inferior]]%%%%
+[[número de nivel inferior]]
+
+%%%%
 contaminated monstatus
 
 Esta criatura ha sido contaminada por la energía transmutacional, y sufrirá
-daño significativo cada tercera vez que se les inflige tal energía.%%%%
+daño significativo cada tercera vez que se les inflige tal energía.
+
+%%%%
 constricted by roots monstatus
 
 Esta criatura está siendo restringida por las raíces de los árboles, lo que reduce su evasión y
 inflige algún daño cada turno. También puede evitar que se muevan, aunque cada uno
-tratar de hacerlo tiene la oportunidad de romper totalmente este efecto.%%%%
+tratar de hacerlo tiene la oportunidad de romper totalmente este efecto.
+
+%%%%
 constricted by zombie hands monstatus
 
 Esta criatura está siendo constreñida por cadáveres desgarrados desde abajo
 tierra, que reduce su evasión e inflige algún daño cada vuelta. También puede
 evitar que se muevan, aunque cada intento de hacerlo tiene la oportunidad de romper esto
-Efecto por completo.%%%%
+Efecto por completo.
+
+%%%%
 control wrested from you monstatus
 
 Esta criatura antiguamente amigable ha sido encantada por otra criatura para unirse a su
-Del lado. Si matas la fuente de este encanto, recuperará sus sentidos.%%%%
+Del lado. Si matas la fuente de este encanto, recuperará sus sentidos.
+
+%%%%
 corroded monstatus
 
-El AC de esta criatura se reduce en 8.%%%%
+El AC de esta criatura se reduce en 8.
+
+%%%%
 covered in liquid flames monstatus
 
 Esta criatura ha sido recubierta con llama pegajosa, y tomará AC ignorando daños al fuego
 cada vuelta. El movimiento sacudirá las llamas, causando que caduca mucho más
-rápidamente y entrar en agua lo extinguirá completamente.%%%%
+rápidamente y entrar en agua lo extinguirá completamente.
+
+%%%%
 covered in magnetic dust monstatus
 
 Esta criatura no puede evadir los ataques o volverse invisible. Si muere, se irá.
 detrás de una nube de fragmentos magnetizados.
 
 Cada vez que Magnavolt es lanzada, un rayo de electricidad se disparará automáticamente a esto
-criatura.%%%%
+criatura.
+
+%%%%
 covered in terrible wounds monstatus
 
 Esta criatura ha sido afligida con heridas ilusorias por un fantasma muerto. Estas heridas
-desaparecerá con el tiempo o cuando el fantasma muerto sea destruido.%%%%
+desaparecerá con el tiempo o cuando el fantasma muerto sea destruido.
+
+%%%%
 covering ground quickly monstatus
 
-Esta criatura se mueve un poco más rápido.%%%%
+Esta criatura se mueve un poco más rápido.
+
+%%%%
 covering ground slowly monstatus
 
 Esta criatura está atrapada en tierra licuada, causando que se mueva más lentamente y también
-fumble el 25% de los ataques melee que hace.%%%%
+fumble el 25% de los ataques melee que hace.
+
+%%%%
 crumbling away monstatus
 
-Esta criatura será automáticamente destruida en unas cuantas vueltas.%%%%
+Esta criatura será automáticamente destruida en unas cuantas vueltas.
+
+%%%%
 cursed with the promise of agony monstatus
 
 Esta criatura está maldecida, y perderá la mitad de su salud actual después de la próxima vez
-la fuente de la maldición lo golpea con un melee ataque.%%%%
+la fuente de la maldición lo golpea con un melee ataque.
+
+%%%%
 damage-immune at range monstatus
 
-Esta criatura no sufre ningún daño de ninguna fuente que no está actualmente adyacente a
-(incluyendo las nubes, si su creador no es adyacente).%%%%
+Esta criatura no daña por ningún medio a menos que la fuente original de eso
+el daño está adyacente a ellos. Los efectos secundarios no peligrosos ocurren normalmente.
+
+(La fuente de daño de nubes y monstruos similares a los proyectiles, como foxfires,
+es siempre considerado como cualquier criatura primero los creó.)
+
+%%%%
 dazed monstatus
 
 Esta criatura no puede actuar temporalmente, pero cualquier acción hostil lo hará
-inmediatamente recuperar sus sentidos.%%%%
+inmediatamente recuperar sus sentidos.
+
+%%%%
 diminished spells monstatus
 
 Los hechizos de esta criatura son menos poderosos - tratar menos daño, ser menos capaz de
-superar la fuerza de voluntad de su objetivo, y ocasionalmente ser más débil de otras maneras.%%%%
+superar la fuerza de voluntad de su objetivo, y ocasionalmente ser más débil de otras maneras.
+
+%%%%
 dormant monstatus
 
-[[sleep monstatus]]%%%%
+[[sleep monstatus]]
+
+%%%%
 doubled in vigour monstatus
 
-La salud actual y máxima de este monstruo se duplican temporalmente.%%%%
+La salud actual y máxima de este monstruo se duplican temporalmente.
+
+%%%%
 empowered by the touch of Beogh monstatus
 
 Esta criatura ha sido otorgada gran poder por Beogh para desafiarte. Su melee
@@ -166,18 +239,24 @@ y ataques de alcance 33% más daño, su salud aumenta, y arrojan
 hechizos más frecuentemente. También son capaces de rastrearte, no importa dónde en el
 la planta actual que huyes.
 
-Perderán estos bonos una vez concluido el desafío.%%%%
+Perderán estos bonos una vez concluido el desafío.
+
+%%%%
 encased in ice monstatus
 
 Esta criatura ha sido congelado y su velocidad de movimiento se reduce enormemente para
-poco tiempo.%%%%
+poco tiempo.
+
+%%%%
 entangled in a net monstatus
 
 Esta criatura está atrapada en una red, reduciendo enormemente su evasión y previniéndola
 de bloquear. Cualquier intento que haga para moverse o atacar luchará contra
 la red, que eventualmente puede destruirla. Spellcasting no tiene consecuencias.
 
-[[número de nivel inferior]]%%%%
+[[número de nivel inferior]]
+
+%%%%
 entangled in a web monstatus
 
 Esta criatura está atrapada en la web de una araña, reduciendo enormemente su evasión y
@@ -185,24 +264,41 @@ evitando que se bloquee. Cualquier intento que haga para moverse o atacar en su 
 lucha contra la web, que eventualmente puede destruirla. Spellcast es
 sin problemas.
 
-[[número de nivel inferior]]%%%%
+[[número de nivel inferior]]
+
+%%%%
+exposed monstatus
+
+Esta criatura toma un mayor daño de todas las fuentes no atacantes (excepto veneno),
+los proyectiles no atacantes son más precisos contra ellos, y su fuerza de voluntad es
+ligeramente reducida.
+
+%%%%
 extremely poisoned monstatus
 
 Esta criatura sufre daño venenoso cada vuelta y no puede ser envenenada
-más allá.%%%%
+más allá.
+
+%%%%
 fast monstatus
 
-Esta criatura se mueve y actúa 50% más rápido.%%%%
+Esta criatura se mueve y actúa 50% más rápido.
+
+%%%%
 feeble figment monstatus
 
 Esta criatura no es más que un frágil duplicado de otra criatura. Su salud es
 reducido en 66%, se trata de 33% menos daño con ataques, y sus hechizos son
-significativamente debilitado.%%%%
+significativamente debilitado.
+
+%%%%
 flame-wreathed monstatus
 
 Esta criatura ha sido empoderada por las llamas de Ignis. Se trata de otros
 daño al fuego con sus ataques de melee, se mueve 33% más rápido, y ha aumentado AC
-y resistencia al fuego.%%%%
+y resistencia al fuego.
+
+%%%%
 fleeing monstatus
 
 Esta criatura está huyendo del miedo y intentará cada vuelta para alejarse de
@@ -210,163 +306,233 @@ la fuente de este miedo. Además del movimiento, sólo puede lanzar hechizos que
 Cree que podría ayudar a escapar, como Blink.
 
 Si se daña directamente o se arrincolla contra el terreno, se girará para luchar
-una vez más.%%%%
+una vez más.
+
+%%%%
 fragile as glass monstatus
 
-Esta criatura recibe un 50% más de daño de todas las fuentes.%%%%
+Esta criatura recibe un 50% más de daño de todas las fuentes.
+
+%%%%
 frenzied and wild monstatus
 
 Esta criatura trata un 50% más de daño con ataques de melee y ambos movimientos y
 ataca un 50% más rápido. No puede lanzar hechizos y priorizará atacar el
-otras criaturas más cercanas presentan cada turno, ya sean amigas o enemigos.%%%%
+otras criaturas más cercanas presentan cada turno, ya sean amigas o enemigos.
+
+%%%%
 fully charged monstatus
 
-Esta criatura ha reunido todo el poder que necesita para lanzar sus hechizos.%%%%
+Esta criatura ha reunido todo el poder que necesita para lanzar sus hechizos.
+
+%%%%
 grapneled monstatus
 
 Esta criatura ha sido golpeada con un frasco cinético. El próximo ataque de melee
-de la fuente del grapnel siempre golpeará y tratará daños ligeramente aumentados.%%%%
+de la fuente del grapnel siempre golpeará y tratará daños ligeramente aumentados.
+
+%%%%
 heavily contaminated monstatus
 
-[[monstatus contaminado]]%%%%
+[[monstatus contaminado]]
+
+%%%%
 heavily drained monstatus
 
 Esta criatura ha sido muy drenada, bajando la precisión de su melee
 ataques, el poder de sus hechizos y propiedades especiales de ataque, y hacer
-son más vulnerables a muchos efectos de estatus.%%%%
+son más vulnerables a muchos efectos de estatus.
+
+%%%%
 idealised monstatus
 
 Esta criatura brilla con la perfección de su mejor yo. Tratan al 100%
 más daño con ataques de melee, tienen AC adicional, y lanzar hechizos con
-sustancialmente más fuerza.%%%%
+sustancialmente más fuerza.
+
+%%%%
 incited by Gozag monstatus
 
 Esta criatura ha sido podrida en gran velocidad por la ira de Gozag Ym Sagoz.
 Su estado de precipitación o berserk es permanente y no se apagará con el tiempo
-o a través de una intervención mágica deliberada.%%%%
+o a través de una intervención mágica deliberada.
+
+%%%%
 indifferent monstatus
 
 Esta criatura no es hostil ni aliada y puede atacar criaturas de todos
-disposiciones, si vaga en ellas.%%%%
+disposiciones, si vaga en ellas.
+
+%%%%
 infested monstatus
 
 Esta criatura está infestada de un escarabajo mortal, que saldrá de su
-cuerpo una vez que mueren.%%%%
+cuerpo una vez que mueren.
+
+%%%%
 inner flame monstatus
 
 Cada vez que esta criatura sufre daño, una nube de llamas aparecerá brevemente
 debajo de ellos. Cuando mueran, explotarán en una violenta explosión de fuego,
 dañando cualquier cosa cerca y dejando atrás nubes de llamas adicionales.
 
-Las criaturas gigantes desencadenarán una explosión aún mayor cuando mueran.%%%%
+Las criaturas gigantes desencadenarán una explosión aún mayor cuando mueran.
+
+%%%%
 inspiring fear monstatus
 
 Actualmente estás aterrorizado de esta criatura, impidiéndote deliberadamente
 moviéndose cerca de ellos y causando el 33% de los ataques melee que vuelves a hacer
 contra ellos fracasan.
 
-Este efecto se romperá si alguna vez pierdes la vista de esta criatura.%%%%
+Este efecto se romperá si alguna vez pierdes la vista de esta criatura.
+
+%%%%
 interlaced with chaos monstatus
 
 Los ataques de la criatura pueden infligir daños adicionales a un elemento aleatorio
-o causar diversos efectos irresistibles de estatus.%%%%
+o causar diversos efectos irresistibles de estatus.
+
+%%%%
 lashing out in frustration monstatus
 
 Esta criatura ha sido mágicamente vexada y se ve obligada a atacar un adyacente al azar
 espacio cada turno en lugar de realizar cualquier otra acción. Es más probable
 atacar un espacio que contenga una criatura que una vacía, pero atacará a su propia
-aliados tan fácilmente como sus enemigos.%%%%
+aliados tan fácilmente como sus enemigos.
+
+%%%%
 lightly drained monstatus
 
 Esta criatura ha sido ligeramente drenada, algo bajando la precisión de su
 melee attacks, the power of their spells and special attack properties, and
-haciéndolos ligeramente más vulnerables a muchos efectos de estatus.%%%%
+haciéndolos ligeramente más vulnerables a muchos efectos de estatus.
+
+%%%%
 lost in madness monstatus
 
 Esta criatura ha sido conducida a la locura por el poder de Zin. Nunca más.
 usar hechizos o habilidades y tropezará aleatoriamente, atacando cualquier cosa
-se choca con - ser amigos o enemigos o a veces incluso ellos mismos.%%%%
+se choca con - ser amigos o enemigos o a veces incluso ellos mismos.
+
+%%%%
 magic disrupted monstatus
 
 Los hechizos y habilidades mágicas de esta criatura han sido interrumpidos y pueden fracasar cuando
-usado. La probabilidad de fracaso depende de la duración restante de este efecto.%%%%
+usado. La probabilidad de fracaso depende de la duración restante de este efecto.
+
+%%%%
 magic-sapped monstatus
 
 Esta criatura ha tenido su acceso a la magia manchada. Siempre que lanza un hechizo, su
 la magia será severamente perturbada, lo que probablemente cualquier hechizo subsiguiente que lanza
-fracasará.%%%%
+fracasará.
+
+%%%%
 marked with the sign of ruin monstatus
 
 Esta criatura ha sido condenada a la inexorable decadencia y ruina. Cuando sea necesario
 daño de los ataques de melee, será drenado pesadamente y o bien retardado, debilitado,
-o cegado.%%%%
+o cegado.
+
+%%%%
 mesmerising monstatus
 
 Esta criatura te ha hipnotizado, haciéndote incapaz de alejarte voluntariamente.
 de ellos.
 
-Este efecto se romperá si alguna vez pierdes la vista de esta criatura.%%%%
+Este efecto se romperá si alguna vez pierdes la vista de esta criatura.
+
+%%%%
 minion monstatus
 
-Esta criatura ha sido creada por la magia y dejará de ser una vez que su creador muera.%%%%
+Esta criatura ha sido creada por la magia y dejará de ser una vez que su creador muera.
+
+%%%%
 missing a shadow monstatus
 
 La sombra de esta criatura ha sido arrancada y no puede ser afectada
-por Aphotic Marionette de nuevo.%%%%
+por Aphotic Marionette de nuevo.
+
+%%%%
 misshapen and mutated monstatus
 
 El AC de esta criatura se reduce en 8 y su precisión, potencia de hechizo, daño de marca y
-la fuerza de voluntad se reduce moderadamente.%%%%
+la fuerza de voluntad se reduce moderadamente.
+
+%%%%
 more vulnerable to fire monstatus
 
-La resistencia al fuego de esta criatura se reduce por un nivel.%%%%
+La resistencia al fuego de esta criatura se reduce por un nivel.
+
+%%%%
 more vulnerable to poison monstatus
 
-La resistencia al veneno de esta criatura se reduce por un nivel.%%%%
+La resistencia al veneno de esta criatura se reduce por un nivel.
+
+%%%%
 mute monstatus
 
 Esta criatura ha sido muda permanentemente por el poder de Zin. Esto
 evita todo ruido que la criatura podría hacer, incluyendo las vocalizaciones
 requerido para la mayoría de las criaturas para lanzar hechizos.
-# ¿Los demonios son silenciados?%%%%
+# ¿Los demonios son silenciados?
+
+%%%%
 not watching you monstatus
 
 Esta criatura ha sido brevemente distraída por otra cosa.
 
-[[número de nivel inferior]]%%%%
+[[número de nivel inferior]]
+
+%%%%
 paralysed monstatus
 
 Esta criatura no es capaz de mover, actuar, bloquear o atajar ataques.
 
-[[Monstatus de alto nivel]]%%%%
+[[Monstatus de alto nivel]]
+
+%%%%
 paralysed with fear monstatus
 
-[[monstatus separados]]%%%%
+[[monstatus separados]]
+
+%%%%
 partially charged monstatus
 
 Esta criatura ha construido parte de la carga que necesita para lanzar un hechizo o
-activa una habilidad.%%%%
+activa una habilidad.
+
+%%%%
 peaceful monstatus
 
 Esta criatura nunca te atacará y podrá atacar a otras criaturas hostiles
-tú, pero no te seguirá ni obedecerá instrucciones directas.%%%%
+tú, pero no te seguirá ni obedecerá instrucciones directas.
+
+%%%%
 petrifying slowly monstatus
 
 Esta criatura pronto será totalmente petrificada. Su movimiento y sus acciones
 50% más lento y es casi incapaz de esquivar ataques, aunque también toma 33%
 menos daño.
 
-[[número de nivel inferior]]%%%%
+[[número de nivel inferior]]
+
+%%%%
 petrified monstatus
 
 Esta criatura no es capaz de mover, actuar, bloquear o atajar ataques. Al ser hecho
 de piedra, también toma 50% menos daño, gana inmunidad a energía negativa y
 veneno, pero se vuelven vulnerables a la deconstrucción.
 
-[[Monstatus de alto nivel]]%%%%
+[[Monstatus de alto nivel]]
+
+%%%%
 poisoned monstatus
 
-Esta criatura sufre daño venenoso cada vuelta.%%%%
+Esta criatura sufre daño venenoso cada vuelta.
+
+%%%%
 radiating silence monstatus
 
 Esta criatura está rodeada de un campo de silencio antinatural que elimina
@@ -375,173 +541,272 @@ muchas criaturas (incluyendo a ti) para leer pergaminos, lanzar hechizos, o invo
 ayuda.
 
 Si este efecto fue causado por un hechizo, el radio del campo se reducirá
-tiempo.%%%%
+tiempo.
+
+%%%%
 radiating toxic energy monstatus
 
 Esta criatura brilla con la radiación tóxica de Olgreb e infligirá continuamente
-daño venenoso en todos los enemigos a la vista por varias vueltas.%%%%
+daño venenoso en todos los enemigos a la vista por varias vueltas.
+
+%%%%
 ready to become your apostle monstatus
 
 Esta criatura ha sido derrotada en combate honorable y puede ser reclutada como
-uno de sus apóstoles a través del menú de habilidad.%%%%
+uno de sus apóstoles a través del menú de habilidad.
+
+%%%%
 ready to howl monstatus
 
-Esta criatura aún no te ha infligido con el olvido Howl y puede intentar hacerlo.%%%%
+Esta criatura aún no te ha infligido con el olvido Howl y puede intentar hacerlo.
+
+%%%%
 ready to sunder monstatus
 
 El arma Sundering de esta criatura está completamente cargada y su próximo ataque será
 más preciso, infligir un daño enormemente aumentado, y acortar con mayor rango.
-Este efecto se perderá si se mueve.%%%%
+Este efecto se perderá si se mueve.
+
+%%%%
 reflecting blocked projectiles monstatus
 
-Esta criatura refleja cualquier proyectil que bloquea de nuevo a su fuente original.%%%%
+Esta criatura refleja cualquier proyectil que bloquea de nuevo a su fuente original.
+
+%%%%
 reflecting injuries monstatus
 
 Cada vez que esta criatura sufre daño, inflige 2/3rds tanto daño en
-lo que lo haya dañado.%%%%
+lo que lo haya dañado.
+
+%%%%
 regenerating monstatus
 
 Esta criatura regenera la salud a un ritmo mucho mayor, proporción a su
-máxima salud.%%%%
+máxima salud.
+
+%%%%
 repelling missiles monstatus
 
-Esta criatura tiene +15 EV cuando esquiva proyectiles, ya sea físico o mágico.%%%%
+Esta criatura tiene +15 EV cuando esquiva proyectiles, ya sea físico o mágico.
+
+%%%%
 retreating monstatus
 
 Esta criatura ha sido ordenada a huir en una dirección dada, y no atacará
 o volver a su lado hasta que se les dé nuevas instrucciones o han viajado a
-distancia suficiente%%%%
+distancia suficiente
+
+%%%%
 rolling monstatus
 
 Esta criatura se ha curado en una bola, aumentando su velocidad de movimiento y melee
-daño al 100% hasta la próxima vez que ataca algo (o se vuelve incapaz de moverse).%%%%
+daño al 100% hasta la próxima vez que ataca algo (o se vuelve incapaz de moverse).
+
+%%%%
 sharing its pain monstatus
 
 Esta criatura infligirá una porción de todo daño que sufre a los aliados cercanos,
-con aquellos más cercanos a recibir una mayor cantidad.%%%%
+con aquellos más cercanos a recibir una mayor cantidad.
+
+%%%%
 sharing his pain monstatus
 
-[[compartir su monstatus dolor]]%%%%
+[[compartir su monstatus dolor]]
+
+%%%%
 sharing her pain monstatus
 
-[[compartir su monstatus dolor]]%%%%
+[[compartir su monstatus dolor]]
+
+%%%%
 sharing their pain monstatus
 
-[[compartir su monstatus dolor]]%%%%
+[[compartir su monstatus dolor]]
+
+%%%%
 sheltered from injuries monstatus
 
 La mitad del daño sufrido por esta criatura es redireccionado al aliado protegiéndolo
-en lugar de eso.%%%%
+en lugar de eso.
+
+%%%%
 sick monstatus
 
-Esta criatura está enferma y no puede regenerarse naturalmente.%%%%
+Esta criatura está enferma y no puede regenerarse naturalmente.
+
+%%%%
 silenced monstatus
 
 Esta criatura está envuelta en un campo de silencio antinatural, evitando cualquier ruido
 podría hacer, incluyendo las vocalizaciones necesarias para que muchas criaturas puedan fundir
-hechizos.%%%%
+hechizos.
+
+%%%%
 skewered by barbs monstatus
 
-Esta criatura tomará un daño menor cuando se mueva.%%%%
+Esta criatura tomará un daño menor cuando se mueva.
+
+%%%%
 slightly transparent monstatus
 
 Esta criatura es normalmente invisible, pero tu vista mágica te permite verla
 No obstante. Esto no tiene efecto en tú, aunque cualquier aliado que tú tiene puede no ser
-capaz de verlo como puedas.%%%%
+capaz de verlo como puedas.
+
+%%%%
 slow monstatus
 
-Esta criatura se mueve y actúa al 66% de la velocidad normal.%%%%
+Esta criatura se mueve y actúa al 66% de la velocidad normal.
+
+%%%%
 softly glowing monstatus
 
 Esta criatura ha sido esbozada con un halo de luz y es más fácil de golpear y
-revelado, si invisible.%%%%
+revelado, si invisible.
+
+%%%%
 soul bound monstatus
 
 El alma de esta criatura ha estado atada en hielo. Cuando muere, un simulacro de su
-La forma original se elevará en su lugar.%%%%
+La forma original se elevará en su lugar.
+
+%%%%
 soul-gripped monstatus
 
 El alma de esta criatura estará atada en servicio contigo una vez que mueran, aunque
 permitiéndoles alejarse de su línea de visión por más de un breve momento
-te hará perder tu comprensión.%%%%
+te hará perder tu comprensión.
+
+%%%%
 soul-splintered monstatus
 
 Un fragmento del alma de esta criatura ha sido extraído en un abismo del alma,
-previniendo un mayor uso de este hechizo hasta que el wisp se reúna con ellos de nuevo.%%%%
+previniendo un mayor uso de este hechizo hasta que el wisp se reúna con ellos de nuevo.
+
+%%%%
 spells empowered monstatus
 
-Los hechizos de esta criatura se fortalecen y los echará con más frecuencia.%%%%
+Los hechizos de esta criatura se fortalecen y los echará con más frecuencia.
+
+%%%%
 spells diminished monstatus
 
-Los hechizos de esta criatura se debilitan significativamente.%%%%
+Los hechizos de esta criatura se debilitan significativamente.
+
+%%%%
 stilling the winds monstatus
 
-Esta criatura está impidiendo que cualquier nube sea creada en el piso actual.%%%%
+Esta criatura está impidiendo que cualquier nube sea creada en el piso actual.
+
+%%%%
+stampeding monstatus
+
+Esta criatura se mueve en una sola dirección a velocidad increíble. Cualquier enemigo
+corren hacia Will ser empujados hacia atrás y atacado con 50% de daño de bonificación y
+mayor precisión.
+
+%%%%
 strong monstatus
 
-Los ataques de la criatura tienen un 50% más de daño.%%%%
+Los ataques de la criatura tienen un 50% más de daño.
+
+%%%%
 strong-willed monstatus
 
-La fuerza de voluntad de esta criatura se aumenta en 2 pips.%%%%
+La fuerza de voluntad de esta criatura se aumenta en 2 pips.
+
+%%%%
 stupefied monstatus
 
 Esta criatura ha sido tonta por el poder de Zin y no puede actuar.
 
 [[Monstatus de alto nivel]]
 # The summoned monstatus is left out due to being covered on the main monstruo
-# Pantalla xv.%%%%
+# Pantalla xv.
+
+%%%%
 surrounded by a freezing vortex monstatus
 
-Esta criatura es la fuente de un vórtice polar devastador.%%%%
+Esta criatura es la fuente de un vórtice polar devastador.
+
+%%%%
 surrounded by acidic fog monstatus
 
-Esta criatura sigue un anillo de nubes ácidas de niebla alrededor de sí misma.%%%%
+Esta criatura sigue un anillo de nubes ácidas de niebla alrededor de sí misma.
+
+%%%%
 surrounded by chaotic energy monstatus
 
-Esta criatura sigue un anillo de nubes caóticas alrededor de sí misma.%%%%
+Esta criatura sigue un anillo de nubes caóticas alrededor de sí misma.
+
+%%%%
 surrounded by flames monstatus
 
-Esta criatura sigue un anillo de nubes de llamas alrededor de sí misma.%%%%
+Esta criatura sigue un anillo de nubes de llamas alrededor de sí misma.
+
+%%%%
 surrounded by fog monstatus
 
-Esta criatura sigue un anillo de humo púrpura alrededor de sí misma.%%%%
+Esta criatura sigue un anillo de humo púrpura alrededor de sí misma.
+
+%%%%
 surrounded by foul miasma monstatus
 
-Esta criatura sigue un anillo de miasma sucio alrededor de sí misma.%%%%
+Esta criatura sigue un anillo de miasma sucio alrededor de sí misma.
+
+%%%%
 surrounded by freezing clouds monstatus
 
-Esta criatura sigue un anillo de nubes heladas alrededor de sí misma.%%%%
+Esta criatura sigue un anillo de nubes heladas alrededor de sí misma.
+
+%%%%
 surrounded by mutagenic energy monstatus
 
-Esta criatura sigue un anillo de niebla mutagénica alrededor de sí misma.%%%%
+Esta criatura sigue un anillo de niebla mutagénica alrededor de sí misma.
+
+%%%%
 surrounded by negative energy monstatus
 
-Esta criatura rastrea un anillo de nubes de miseria atroz alrededor de sí misma.%%%%
+Esta criatura rastrea un anillo de nubes de miseria atroz alrededor de sí misma.
+
+%%%%
 surrounded by restless winds monstatus
 
 Esta criatura ha lanzado recientemente Polar Vortex y no puede echarlo de nuevo por
-poco tiempo.%%%%
+poco tiempo.
+
+%%%%
 surrounded by thunder monstatus
 
-Esta criatura sigue un anillo de nubes de truenos alrededor de sí misma.%%%%
+Esta criatura sigue un anillo de nubes de truenos alrededor de sí misma.
+
+%%%%
 target of orcish vengeance monstatus
 
 Esta criatura ha contribuido a la muerte de uno de sus apóstoles. Derrotando a todos
 blancos de venganza de orcish acelerará significativamente el tiempo que se necesita
-Gusto a resucitar a tus apóstoles.%%%%
+Gusto a resucitar a tus apóstoles.
+
+%%%%
 targeted by your dimensional bullseye monstatus
 
 Cada vez que realizas un ataque extendido dirigido a una criatura diferente, una copia de
-el proyectil será teletransportado a esta criatura al final de su vuelo.%%%%
+el proyectil será teletransportado a esta criatura al final de su vuelo.
+
+%%%%
 tempered monstatus
 
 Los ataques de la criatura tratan un 25% más de daño, su precisión es ligeramente
-aumentó, y sus hechizos y habilidades se han fortalecido ligeramente.%%%%
+aumentó, y sus hechizos y habilidades se han fortalecido ligeramente.
+
+%%%%
 touched by paradox monstatus
 
 Esta criatura se ha vuelto inmoorada en el espacio, permitiéndole realizar asaltos como
 una habilidad natural. Siempre que lo hacen, hay 33% de probabilidades de que también parpadearán
-a un lugar cercano al azar.%%%%
+a un lugar cercano al azar.
+
+%%%%
 unable to see you monstatus
 
 Esta criatura no puede verte porque eres invisible. Su precisión
@@ -551,63 +816,95 @@ hechizos que funde a veces pueden estar dirigidos a los lugares equivocados.
 También puede tropezar alrededor y eventualmente perder la pista de tú, especialmente si
 tiene poca inteligencia.
 
-[[número de nivel inferior]]%%%%
+[[número de nivel inferior]]
+
+%%%%
 unable to translocate monstatus
 
-Esta criatura no puede parpadear o teletransportar.%%%%
+Esta criatura no puede parpadear o teletransportar.
+
+%%%%
 unaffected by silence monstatus
 
 A pesar de estar envuelto en silencio antinatural, la magia de esta criatura no
-requieren vocalizaciones y por lo tanto no se ve afectada.%%%%
+requieren vocalizaciones y por lo tanto no se ve afectada.
+
+%%%%
 unrewarding monstatus
 
-Esta criatura no proporciona experiencia ni piedad cuando está muerta.%%%%
+Esta criatura no proporciona experiencia ni piedad cuando está muerta.
+
+%%%%
 untethered in space monstatus
 
 Cada turno, esta criatura parpadea una corta distancia más lejos de ti y
-sufre una pequeña cantidad de daño.%%%%
+sufre una pequeña cantidad de daño.
+
+%%%%
 unusually agile monstatus
 
-La evasión de esta criatura aumenta ligeramente.%%%%
+La evasión de esta criatura aumenta ligeramente.
+
+%%%%
 unusually resistant monstatus
 
 La resistencia de esta criatura al fuego, el frío, el veneno, la electricidad y la corrosión
-todos aumentan en un nivel.%%%%
+todos aumentan en un nivel.
+
+%%%%
 very poisoned monstatus
 
-Esta criatura está envenenada y dañará cada turno.%%%%
+Esta criatura está envenenada y dañará cada turno.
+
+%%%%
 unable to breathe monstatus
 
 Esta criatura no puede respirar y no puede lanzar hechizos o invocar la ayuda divina.
-También requiere daño de asfixia menor cada vuelta.%%%%
+También requiere daño de asfixia menor cada vuelta.
+
+%%%%
 damage-immune at range monstatus
 
 Esta criatura no daña por ningún medio a menos que la fuente original de eso
 el daño está adyacente a ellos. Los efectos secundarios no peligrosos ocurren normalmente.
 
 (La fuente de daño de nubes y monstruos similares a los proyectiles, como foxfires,
-es siempre considerado como cualquier criatura primero los creó.)%%%%
+es siempre considerado como cualquier criatura primero los creó.)
+
+%%%%
 weak monstatus
 
-Los ataques de la criatura tienen un 33% menos de daño.%%%%
+Los ataques de la criatura tienen un 33% menos de daño.
+
+%%%%
 weak-willed monstatus
 
-La fuerza de voluntad de esta criatura se reduce a la mitad.%%%%
+La fuerza de voluntad de esta criatura se reduce a la mitad.
+
+%%%%
 winding a clockwork bee monstatus
 
 Esta criatura se está preparando para lanzar una abeja de relojería y debe centrarse en esto
 tarea para varios turnos. La mayoría de los efectos que impiden a esta criatura
-Los hechizos de casting también interrumpirán este proceso.%%%%
+Los hechizos de casting también interrumpirán este proceso.
+
+%%%%
 withering away monstatus
 
 Esta criatura morirá en unos segundos.
-## Not real statuss, but common clauses to add to some others%%%%
+## Not real statuss, but common clauses to add to some others
+
+%%%%
 low-tier stab monstatus
 
 <blue> Los ataques de Melee contra esta criatura tienen una oportunidad (proporcional para
 su robo y habilidad de arma) de atraparlo fuera de la guardia y tratar
-aumento del daño, especialmente si se hace con una hoja corta. </blue>%%%%
+aumento del daño, especialmente si se hace con una hoja corta. </blue>
+
+%%%%
 high-tier stab monstatus
 
 <blue> Los ataques de Melee contra esta criatura causarán un gran daño,
-especialmente si se hace con una hoja corta. </blue>%%%%
+especialmente si se hace con una hoja corta. </blue>
+
+%%%%

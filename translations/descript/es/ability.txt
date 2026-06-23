@@ -558,7 +558,7 @@ Invocaciones de habilidad. Su salud actual y puntos de magia también aumentan
 proporcionalmente.
 
 %%%%
-Depart el Abismo ability
+Depart the Abyss ability
 
 Te transporta fuera de la Abyss, devolviéndolo a la ubicación desde la cual tú
 entró.
@@ -577,11 +577,10 @@ Abismo para causar destrucción. Esto no funcionará en niveles ya corruptos o e
 el propio Abismo.
 
 %%%%
-Enter el Abismo ability
+Enter the Abyss ability
 
-Te transportas al reino de Lugonu instantáneamente... a costa de reducir
-permanentemente tus máximos de vida y magia. El esfuerzo asociado a esta
-habilidad te vaciará de vida y magia.
+Te transporta al reino de Lugonu al instante. El esfuerzo de incluso utilizar el
+habilidad Will dejar su salud agotada.
 
 %%%%
 Brand Weapon With Distortion ability
@@ -619,7 +618,7 @@ prefieras. Por lo tanto, puedes sacar dichas cartas en el orden que elegiste.
 %%%%
 Smiting ability
 
- REF0 La fuerza del smiting se aumenta por la habilidad de las invocaciones.
+REF0 La fuerza del smiting se aumenta por la habilidad de las invocaciones.
 
 Beogh no permite que tú utilice esto directamente contra otro apóstol durante un
 prueba divina.
@@ -1152,7 +1151,7 @@ la condenación ellos mismos, están completamente sin mancha por la condenació
 escalas de habilidad con la habilidad Evocations.
 
 %%%%
-Evoke el Bastón de Olgreb ability
+Evoke the Staff of Olgreb ability
 
 Causa la fundición para irradiar energía tóxica, infligiendo continuamente veneno
 todo en la línea de la vista mientras dure el aura. El poder de esto

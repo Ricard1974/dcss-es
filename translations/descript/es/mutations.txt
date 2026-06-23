@@ -2,127 +2,181 @@
 tough skin mutation
 
 Su epidermis se ha endurecido, proporcionando una pequeña cantidad de protección. Cada nivel
-de esta mutación proporciona +1 AC.%%%%
+de esta mutación proporciona +1 AC.
+
+%%%%
 shaggy fur mutation
 
 Tú está cubierto de piel, proporcionando una pequeña cantidad de protección. Cada nivel
 esta mutación proporciona +1 AC. El tercer nivel de esta mutación también proporciona
-resistencia al frío.%%%%
+resistencia al frío.
+
+%%%%
 repulsion field mutation
 
 Está rodeado de un campo de repulsión, proporcionando una pequeña cantidad de evasión.
 Cada nivel de esta mutación proporciona más VE. El tercer nivel de esta mutación
-también repele los misiles, aumentando enormemente su EV contra tales ataques.%%%%
+también repele los misiles, aumentando enormemente su EV contra tales ataques.
+
+%%%%
 icy blue scales mutation
 
 Tú está cubierto de escalas azules, proporcionando una pequeña cantidad de protección. Cada uno
 el nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación también
-proporciona resistencia al frío.%%%%
+proporciona resistencia al frío.
+
+%%%%
 molten scales mutation
 
 Tú está cubierto de escamas fundidas, proporcionando una pequeña cantidad de protección. Cada uno
 el nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación también
-proporciona resistencia al fuego.%%%%
+proporciona resistencia al fuego.
+
+%%%%
 slimy green scales mutation
 
 Tú está cubierto de escalas verdes, proporcionando una pequeña cantidad de protección. Cada uno
 el nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación también
-proporciona resistencia al veneno.%%%%
+proporciona resistencia al veneno.
+
+%%%%
 yellow scales mutation
 
 Tú está cubierto de escalas amarillas, proporcionando una pequeña cantidad de protección. Cada uno
 el nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación también
-proporciona resistencia al ácido y la corrosión.%%%%
+proporciona resistencia al ácido y la corrosión.
+
+%%%%
 thin metallic scales mutation
 
 Tú está cubierto de escalas metálicas, proporcionando una pequeña cantidad de protección.
 Cada nivel de esta mutación proporciona más AC. El tercer nivel de esta mutación
-también proporciona resistencia a la electricidad.%%%%
+también proporciona resistencia a la electricidad.
+
+%%%%
 rugged brown scales mutation
 
 Tú está cubierto de escamas marrones, proporcionando una pequeña cantidad de protección. Cada uno
-nivel de esta mutación proporciona +1 AC y también aumenta su salud ligeramente.%%%%
+nivel de esta mutación proporciona +1 AC y también aumenta su salud ligeramente.
+
+%%%%
 sharp scales mutation
 
 Tú está cubierto en escalas afiladas, proporcionando una pequeña cantidad de protección. Cada uno
 nivel de esta mutación proporciona +1 AC y Slay +1, mejorando su precisión y
-daño con melee y ataques variados.%%%%
+daño con melee y ataques variados.
+
+%%%%
 iridescent scales mutation
 
 Tú está cubierto de escalas iridiscentes, proporcionando una pequeña cantidad de protección.
-Cada nivel de esta mutación proporciona +2 AC.%%%%
+Cada nivel de esta mutación proporciona +2 AC.
+
+%%%%
 large bone plates mutation
 
 Tú está cubierto de placas óseas, proporcionando una pequeña cantidad de blindaje. Cada uno
-el nivel de esta mutación proporciona más SH.%%%%
+el nivel de esta mutación proporciona más SH.
+
+%%%%
 thin skeletal structure mutation
 
 Tus huesos son ligeros y porosos. Cada nivel de esta mutación proporciona +2
-Dexteridad y Stealth+.%%%%
+Dexteridad y Stealth+.
+
+%%%%
 strong mutation
 
 Tus músculos han crecido antinaturalmente fuerte. Cada nivel de esta mutación proporciona
 +4 Fuerza, pero los músculos adicionales frenan sus movimientos y pensamientos, dando -1 a
-tu Inteligencia y Dexteridad para cada nivel.%%%%
+tu Inteligencia y Dexteridad para cada nivel.
+
+%%%%
 clever mutation
 
 Tu mente se ha vuelto antinaturalmente aguda. Cada nivel de esta mutación proporciona +4
 Inteligencia, pero toda la sangre que fluye a tu cabeza debilita tu constitución,
-dar -1 a su Fuerza y Destreza para cada nivel.%%%%
+dar -1 a su Fuerza y Destreza para cada nivel.
+
+%%%%
 agile mutation
 
 Tus reflejos se han vuelto antinaturalmente rápidos. Cada nivel de esta mutación
 proporciona +4 Dexteridad, pero el resto de tu cuerpo no puede seguir con tu velocidad,
-dar -1 a su Fuerza e Inteligencia para cada nivel.%%%%
+dar -1 a su Fuerza e Inteligencia para cada nivel.
+
+%%%%
 weak mutation
 
 Tus músculos se han vuelto antinaturalmente débiles. Cada nivel de esta mutación proporciona
--3 Fuerza.%%%%
+-3 Fuerza.
+
+%%%%
 dopey mutation
 
 Tu mente se ha vuelto antinaturalmente repugnante. Cada nivel de esta mutación proporciona -3
-Inteligencia.%%%%
+Inteligencia.
+
+%%%%
 clumsy mutation
 
 Tus reflejos se han vuelto antinaturalmente torpes. Cada nivel de esta mutación
-proporciona -3 Dexteridad.%%%%
+proporciona -3 Dexteridad.
+
+%%%%
 high mp mutation
 
 Tienes un creciente depósito de magia. Cada nivel de esta mutación proporciona
-+10% MP.%%%%
++10% MP.
+
+%%%%
 low mp mutation
 
-Tienes una baja capacidad mágica. Cada nivel de esta mutación proporciona -10% MP.%%%%
+Tienes una baja capacidad mágica. Cada nivel de esta mutación proporciona -10% MP.
+
+%%%%
 efficient magic mutation
 
 Tú tiene un entendimiento innato y un mayor control sobre el flujo exacto
 de tu magia, dejándote lanzar hechizos con mayor eficiencia. Cada nivel
-esta mutación reduce el costo de sus hechizos por 1 MP, a un mínimo de 1 MP.%%%%
+esta mutación reduce el costo de sus hechizos por 1 MP, a un mínimo de 1 MP.
+
+%%%%
 ephemeral shield mutation
 
 Cada vez que usas hechizos o habilidades divinas con cualquier coste, un escudo se forma desde
 el exceso suelta energía mágica o espiritual para protegerte. La energía mágica
 de los hechizos sólo sostiene el escudo por un momento, mientras que el espiritual
-la energía del uso de habilidades divinas dura un poco más.%%%%
+la energía del uso de habilidades divinas dura un poco más.
+
+%%%%
 camouflage mutation
 
 Tu piel cambia de color para que coincida con tu entorno. Cada nivel de esto
-mutación proporciona Stealth+.%%%%
+mutación proporciona Stealth+.
+
+%%%%
 passive freeze mutation
 
 Los enemigos que te golpeen en la melee se congelarán, tomando daño. Este efecto es
-garantizado para disparar si su enemigo hace algún daño.%%%%
+garantizado para disparar si su enemigo hace algún daño.
+
+%%%%
 time-warped blood mutation
 
 Su sangre se ha desincronizado del flujo del tiempo. Cada vez que caes
 por debajo del 50% de su HP máximo, el derramamiento de su sangre surge extrañamente
 a través de su entorno, contando a dos de sus aliados más fuertes a la vista
 cada nivel de esta mutación. Después de hacerlo, su sangre será incapaz de
-más tiempo de dilatación hasta que su HP se ha recuperado completamente.%%%%
+más tiempo de dilatación hasta que su HP se ha recuperado completamente.
+
+%%%%
 efficient metabolism mutation
 
 Su sistema digestivo alterado extrae valor adicional de la poción selecta
-tipos, duplicando la duración de todos los efectos de estado obtenidos a través de pociones.%%%%
+tipos, duplicando la duración de todos los efectos de estado obtenidos a través de pociones.
+
+%%%%
 protean grace mutation
 
 Tus extremidades están desbordando con poder morfogénico, guiando cada movimiento.
@@ -135,54 +189,83 @@ Tú gana actualmente
 {}
 num = math.min(you.how mutated(true, false, true, false), 7) - 1
 "+" .. num .. "EV y Slay +" .. num .. " de esta mutación."
-}%%%%
+}
+
+%%%%
 feed off suffering mutation
 
 Una energía vigorosa y vigorizante impregna tu alma, que resuena con
 otras energías específicas liberadas en el momento de la muerte. Cuando sea envenenado o envenenado
 enemigos drenados mueren a la vista de tú, tú tiene la oportunidad de apagar un pequeño
 porción de su fuerza vital y poder mágico. Cada nivel de esta mutación
-aumenta la probabilidad de que esto suceda y la cantidad de uno sifones.%%%%
+aumenta la probabilidad de que esto suceda y la cantidad de uno sifones.
+
+%%%%
 lucky mutation
 
 Tú tiene un cuchillo increible para descubrir propiedades ocultas de los elementos de otras personas
 podría ignorar como mundano. Siempre que encuentres un nuevo artículo en el suelo para
 primera vez, hay una muy pequeña oportunidad de descubrir que es en realidad una
-artefacto. Cada nivel de esta mutación aumenta esa posibilidad.%%%%
+artefacto. Cada nivel de esta mutación aumenta esa posibilidad.
+
+%%%%
 reckless mutation
 
 Tu imprudencia aborrece tu SH, pero el daño que enfrentas con dos manos melee
-las armas aumentan en un 15%.%%%%
+las armas aumentan en un 15%.
+
+%%%%
+spark swarm mutation
+
+Un rebaño sutil de chispas ansiosos y cinders brillantes persiguen tus movimientos.
+Siempre que trates daño de fuego a un enemigo sin RFire∞ o daño eléctrico a un
+foe sin RElec∞, tienes una oportunidad de esbozarlo con un suave resplandor de luz,
+lo que hace más fácil golpear y revelarlo si es invisible. Cada nivel de esto
+la mutación aumenta la probabilidad de que esto ocurra.
+
+%%%%
 horns mutation
 
 Tú tiene cuernos en su cabeza, lo que le permite tratar de sonar enemigos al lanzar
 ataques de melee, pero impidiendo que use cascos. Cada nivel de esta mutación
 aumenta el daño de sus ataques de gore. El tercer nivel de esta mutación
-le impide usar cualquier tipo de cabezal.%%%%
+le impide usar cualquier tipo de cabezal.
+
+%%%%
 beak mutation
 
 Tú tiene un pico para una boca, lo que le permite peck a los enemigos al lanzar la melee
-ataques, pero impidiéndole usar cascos.%%%%
+ataques, pero impidiéndole usar cascos.
+
+%%%%
 fangs mutation
 
 Tienes dientes afilados, lo que te permite morder enemigos al lanzar ataques de melee.
-Cada nivel de esta mutación hace que sus dientes más afilados, más largos y más fuertes.%%%%
+Cada nivel de esta mutación hace que sus dientes más afilados, más largos y más fuertes.
+
+%%%%
 acidic bite mutation
 
 Tú tiene saliva ácido, lo que le permite morder enemigos y aplicar la corrosión a ellos
-cuando lanzan ataques de melee.%%%%
+cuando lanzan ataques de melee.
+
+%%%%
 antimagic bite mutation
 
 Tienes sed de magia, lo que te permite morder enemigos al lanzar la melee
 ataques. Esto restaura sus reservas mágicas y también perturba a los enemigos mágicos,
-a veces dejándolos incapaz de actuar.%%%%
+a veces dejándolos incapaz de actuar.
+
+%%%%
 claws mutation
 
 Tú tiene uñas afiladas, aumentando la fuerza de sus ataques desarmados de la mano principal
 si no llevas guantes. Si tu mano fuera libre, la fuerza de tu
 también aumentan los ataques de golpes fuera de la mano. Cada nivel de esta mutación te hace
 uñas más afiladas, más largas y más fuertes. El tercer nivel de esta mutación previene
-de usar guantes.%%%%
+de usar guantes.
+
+%%%%
 demonic touch mutation
 
 Tus manos brillan con energía impía, permitiéndote causar daño irresistible
@@ -190,29 +273,39 @@ al lanzar ataques de melee siempre y cuando su salida sea libre. Tu toque
 los ataques hacen daño que ignora la armadura, y cada nivel de esta mutación
 aumenta el daño causado. El tercer nivel de esta mutación le impide
 usando guantes, y también hace que tus ataques táctiles reduzcan tus enemigos
-Willpower.%%%%
+Willpower.
+
+%%%%
 hooves mutation
 
 Tienes pezuñas, lo que te permite patear enemigos cuando lanzas ataques de melee si
 no llevan botas. Cada nivel de esta mutación hace que sus pezuñas más difíciles y
-más fuerte. El tercer nivel de esta mutación le impide usar botas.%%%%
+más fuerte. El tercer nivel de esta mutación le impide usar botas.
+
+%%%%
 talons mutation
 
 Tienes uñas afiladas, lo que te permite patear enemigos al lanzar ataques de melee
 si no llevas botas. Cada nivel de esta mutación hace tus uñas
 más fuerte, más largo y más fuerte. El tercer nivel de esta mutación le impide
-de usar botas.%%%%
+de usar botas.
+
+%%%%
 antennae mutation
 
 Tienes antenas, permitiéndote sentir monstruos cercanos, pero previniéndote
 de usar cascos. Cada nivel de esta mutación te permite sentir monstruos de
 más lejos. El tercer nivel de esta mutación le impide usar cualquier
-tipo de headgear, y te permite ver monstruos invisibles.%%%%
+tipo de headgear, y te permite ver monstruos invisibles.
+
+%%%%
 tentacle spike mutation
 
 Tú tiene un tentáculo picado, lo que le permite perforar enemigos al lanzar melee
 ataques. Cada nivel de esta mutación hace que su pico más agudo, más largo y
-más fuerte.%%%%
+más fuerte.
+
+%%%%
 naga tail mutation
 
 Tienes una larga cola de serpiente en lugar de pies. Esto le da estabilidad en
@@ -222,147 +315,215 @@ El segundo nivel de esta mutación le permite constreñir enemigos con la cola
 cuando atacan en melee. Tu cola puede limitar sólo a un enemigo a la vez, y
 cada ataque a este nivel de mutación comenzará o renovará un intento de constricción.
 Las posibilidades de éxito están determinadas principalmente por Dexterity, Fighting habilidad,
-y cualquier bonificación de matar.%%%%
+y cualquier bonificación de matar.
+
+%%%%
 stinger mutation
 
 Tienes un barb venenoso al final de tu cola, permitiéndote picar enemigos
 cuando lanzan ataques de melee. Cada nivel de esta mutación hace que tu puntero
-más fuerte, más largo y más fuerte.%%%%
+más fuerte, más largo y más fuerte.
+
+%%%%
 weakness stinger mutation
 
 Tienes una cola fina y naranja, lo que te permite atacar a los enemigos al lanzar la melee
 ataques. Cada nivel de esta mutación aumenta la fuerza de la cola mientras gira
 en un puntiagudo. El tercer nivel de esta mutación evita el uso de capas
-o cicatrices, y hace que el picador inflija brevemente a los heridos.%%%%
+o cicatrices, y hace que el picador inflija brevemente a los heridos.
+
+%%%%
 armoured tail mutation
 
 Tú tiene una cola escamosa grande, lo que le permite a los enemigos de cola al lanzar
-melee attacks.%%%%
+melee attacks.
+
+%%%%
 pseudopods mutation
 
 Estás cubierto de pseudopodos, permitiéndote abofetear a tus enemigos cuando lanzas
 melee attacks, but some reducing the amount of protection provided by body
 armadura. Esto no tiene efecto en la protección proporcionada por los encantamientos de armadura. Cada uno
-el nivel de esta mutación hace que tus pseudopodos sean más grandes y más fuertes.%%%%
+el nivel de esta mutación hace que tus pseudopodos sean más grandes y más fuertes.
+
+%%%%
 steam resistance mutation
 
-Eres inmune al daño causado por el aliento de vapor y las nubes de vapor.%%%%
+Eres inmune al daño causado por el aliento de vapor y las nubes de vapor.
+
+%%%%
 mutation resistance mutation
 
 Su código genético es inusualmente estable, haciendo menos probable que tú será
 mutado (o se han eliminado las mutaciones existentes). Cada nivel de esta mutación hace
-más resistente.%%%%
+más resistente.
+
+%%%%
 torment resistance mutation
 
 Tú está menos afectado por un tormento impío, que de otra manera cortaría su salud
-en la mitad. El segundo nivel de esta mutación te hace totalmente inmune.%%%%
+en la mitad. El segundo nivel de esta mutación te hace totalmente inmune.
+
+%%%%
 poison resistance mutation
 
 Tú resiste venenos, toxinas y otros contaminantes. Esto no se refiere
 inmunidad total, pero reduce sus posibilidades de ser afectado a
-Un tercio de lo que sería de otro modo.%%%%
+Un tercio de lo que sería de otro modo.
+
+%%%%
 fire resistance mutation
 
 Te resistes al calor. Cada nivel de esta mutación reduce la cantidad de daño causado
-del fuego.%%%%
+del fuego.
+
+%%%%
 cold resistance mutation
 
 Te resistes al frío. Cada nivel de esta mutación reduce la cantidad de daño causado
-del frío.%%%%
+del frío.
+
+%%%%
 electricity resistance mutation
 
-Tú resiste la electricidad (rElec), tomando menos daño de ella.%%%%
+Tú resiste la electricidad (rElec), tomando menos daño de ella.
+
+%%%%
 acid resistance mutation
 
 Tú resiste el ácido (rCorr), tomando menos daño de él. También es menos probable
-se corroearon.%%%%
+se corroearon.
+
+%%%%
 negative energy resistance mutation
 
 Te resistes a la energía negativa. Cada nivel de esta mutación reduce la cantidad de
 daño tomado de la energía negativa, junto con la cantidad que drena su
-salud.%%%%
+salud.
+
+%%%%
 heat vulnerability mutation
 
-Tú es vulnerable al fuego y tomar más daño de él.%%%%
+Tú es vulnerable al fuego y tomar más daño de él.
+
+%%%%
 cold vulnerability mutation
 
-Tú es vulnerable al frío y toma más daño de él.%%%%
+Tú es vulnerable al frío y toma más daño de él.
+
+%%%%
 temperature sensitive mutation
 
 Eres vulnerable al frío y al fuego, y tomas más daño de esos
-Efectos.%%%%
+Efectos.
+
+%%%%
 electricity vulnerability mutation
 
-Tú es vulnerable a la electricidad y toma más daño de ella.%%%%
+Tú es vulnerable a la electricidad y toma más daño de ella.
+
+%%%%
 strong-willed mutation
 
 Tú tiene una voluntad antinaturalmente fuerte, mejorando su resistencia a ciertos tipos
-de magia hostil. Cada nivel de esta mutación aumenta aún más su fuerza de voluntad.%%%%
+de magia hostil. Cada nivel de esta mutación aumenta aún más su fuerza de voluntad.
+
+%%%%
 weak-willed mutation
 
 Tú tiene una voluntad antinaturalmente débil, reduciendo su resistencia a ciertos tipos
-de magia hostil. Cada nivel de esta mutación reduce aún más su fuerza de voluntad.%%%%
+de magia hostil. Cada nivel de esta mutación reduce aún más su fuerza de voluntad.
+
+%%%%
 see invisible mutation
 
 Tienes visión sobrenaturalmente aguda, permitiéndote ver monstruos que son
-escondido de la vista mundana. Esto no tiene ningún efecto en su precisión de otro modo.%%%%
+escondido de la vista mundana. Esto no tiene ningún efecto en su precisión de otro modo.
+
+%%%%
 clarity mutation
 
 Su mente es excepcionalmente clara, evitando que se confunda,
 mesmerizado, o sobrenaturalmente asustado. Tampoco puede llegar a ser involuntariamente
-enfurecido.%%%%
+enfurecido.
+
+%%%%
 sense surroundings mutation
 
 Tienes un segundo sentido para la mazmorra, permitiéndote sentir el terreno
 Aún no lo he visto. Cada nivel de esta mutación le permite sentir más y más
-más a fondo.%%%%
+más a fondo.
+
+%%%%
 MP-powered wands mutation
 
 Sus varitas dibujan sobre sus reservas mágicas, convirtiéndose en algo más poderoso en
 el proceso. Si no tienes magia para dibujar, tus varitas funcionan como
-normal.%%%%
+normal.
+
+%%%%
 regeneration mutation
 
 Sanas rápido. Cada nivel de esta mutación aumenta la tasa a la que se
-sanar.%%%%
+sanar.
+
+%%%%
 inhibited regeneration mutation
 
 No sanas con el tiempo mientras que los enemigos están a la vista. Otras fuentes de curación,
-como las pociones, no son afectadas.%%%%
+como las pociones, no son afectadas.
+
+%%%%
 speed mutation
 
 Cubre el terreno rápidamente - moverse a nuevas posiciones le lleva menos tiempo. Esto
 no tiene efecto en otros tipos de acciones, como ataques o hechizos de casting.
-Cada nivel de esta mutación te hace mover más rápido.%%%%
+Cada nivel de esta mutación te hace mover más rápido.
+
+%%%%
 slowness mutation
 
 Cubre el terreno lentamente - moverse a nuevas posiciones te lleva más tiempo. Esto
 no tiene efecto en otros tipos de acciones, como ataques o hechizos de casting.
-Cada nivel de esta mutación te hace mover más lento.%%%%
+Cada nivel de esta mutación te hace mover más lento.
+
+%%%%
 robust mutation
 
 Puedes dar una paliza. Cada nivel de esta mutación mejora su salud
-más (+10% HP).%%%%
+más (+10% HP).
+
+%%%%
 frail mutation
 
 Tu salud es pobre. Cada nivel de esta mutación empeora aún más su salud
-(-10% HP).%%%%
+(-10% HP).
+
+%%%%
 evolution mutation
 
 Al ganar experiencia, el potencial oculto de su cuerpo se expresará en el
-forma de nuevas mutaciones beneficiosas.%%%%
+forma de nuevas mutaciones beneficiosas.
+
+%%%%
 devolution mutation
 
 Al ganar experiencia, el potencial oculto de su cuerpo se expresará en el
-forma de nuevas mutaciones perjudiciales.%%%%
+forma de nuevas mutaciones perjudiciales.
+
+%%%%
 wild magic mutation
 
 Sus hechizos son un poco más difíciles de lanzar (aumento de las probabilidades de malcast y la gravedad),
-pero más poderoso. Cada nivel de esta mutación aumenta los efectos.%%%%
+pero más poderoso. Cada nivel de esta mutación aumenta los efectos.
+
+%%%%
 subdued magic mutation
 
 Sus hechizos son ligeramente más fáciles de lanzar (probabilidad y severidad reducidas),
-pero menos poderoso. Cada nivel de esta mutación aumenta los efectos.%%%%
+pero menos poderoso. Cada nivel de esta mutación aumenta los efectos.
+
+%%%%
 teleportitis mutation
 
 Periódicamente teletransporte hacia monstruos hostiles. Te sentirás
@@ -370,52 +531,72 @@ desestabilizando varios giros antes de que esto suceda, y puede suprimirlo
 temporalmente leyendo un rollo de teletransportación.
 
 Cada nivel de esta mutación aumenta la frecuencia con la que empiezas a
-teletransporte.%%%%
+teletransporte.
+
+%%%%
 deformed body mutation
 
 Su cuerpo está formado de manera inhumana, algo reduciendo la cantidad de
 protección proporcionada por armadura corporal. Esto no tiene efecto en la protección proporcionada
-por armaduras.%%%%
+por armaduras.
+
+%%%%
 screaming mutation
 
 A veces te agarran un impulso incontrolable para gritar cuando quieras.
 Sostenga una lesión. Todos tus gritos también son más fuertes de lo habitual.
 
 El segundo nivel de esta mutación hace que este impulso sea más difícil de resistir y hace
-tus gritos aún más fuerte.%%%%
+tus gritos aún más fuerte.
+
+%%%%
 poor constitution mutation
 
 Su cuerpo reacciona mal a la lesión; cuando sufre daño, tú tiene una oportunidad para
 tus ataques para debilitarte por un corto tiempo. El segundo nivel de este
-mutación a veces también causa que esto también te ralentice.%%%%
+mutación a veces también causa que esto también te ralentice.
+
+%%%%
 no potion heal mutation
 
 Su sistema es resistente a las panaceas potables, reduciendo la eficacia de todo
 tipos de pociones curativas. El segundo nivel de esta mutación bloquea completamente
-curación basada en la poción. (La ayuda del dios Gozag no es afectada.)%%%%
+curación basada en la poción. (La ayuda del dios Gozag no es afectada.)
+
+%%%%
 persistent drain mutation
 
 Su salud se recupera dos veces más lentamente de ser drenado. (La experiencia total
-necesario se duplica.)%%%%
+necesario se duplica.)
+
+%%%%
 contamination susceptible mutation
 
-Tú absorbe el doble de energía mutagénica de estar contaminada.%%%%
+Tú absorbe el doble de energía mutagénica de estar contaminada.
+
+%%%%
 initially attractive mutation
 
 La primera vez que ves a un monstruo, puede ser mágicamente tirado hacia ti. Esto
 tiene la oportunidad de despertar monstruos dormidos, aunque no necesariamente serán
 alertado a su posición.
 
-El segundo nivel de esta mutación aumenta la probabilidad de que esto suceda.%%%%
+El segundo nivel de esta mutación aumenta la probabilidad de que esto suceda.
+
+%%%%
 booming voice mutation
 
 Al leer pergaminos a la vista de monstruos hostiles, tu voz resuena con un
-volumen realmente estupendo.%%%%
+volumen realmente estupendo.
+
+%%%%
 potion fungus mutation
 
 Tu cuerpo está cubierto en un hongo que metabolis las pociones beneficiosas que bebes
 y a veces emite esporas que transmiten sus efectos a monstruos cercanos -
-si amigo o enemigo.%%%%
+si amigo o enemigo.
+
+%%%%
 spiteful blood mutation
 
 Tus pulsos de sangre con una extraña malicia depredatoria. Cuando te vuelves significativa
@@ -423,7 +604,9 @@ lesionado, algunos de ellos pueden levantarse para atacarte - aunque esto no pue
 hasta que sanes completamente.
 
 El segundo nivel de esta mutación hace que se creen dos eritropitos
-una vez.%%%%
+una vez.
+
+%%%%
 spatial entanglement mutation
 
 Siempre que translocas, hay una posibilidad de que otro monstruo sea tirado
@@ -432,218 +615,317 @@ siempre sea un monstruo a la vista de su ubicación anterior, pero larga distanc
 Los telepuertos pueden sacar a un monstruo de cualquier otro lugar del piso.
 
 La experiencia es ligeramente desorientante para el monstruo, y no será capaz
-para actuar inmediatamente después de ser tirado de esta manera.%%%%
+para actuar inmediatamente después de ser tirado de esta manera.
+
+%%%%
 meek mutation
 
 Todos tus ataques son menos eficaces, lidiando menos daño y siendo un poco
-menos exacto. Este efecto empeora con cada nivel de esta mutación.%%%%
+menos exacto. Este efecto empeora con cada nivel de esta mutación.
+
+%%%%
 demonic guardian mutation
 
 Cuando tú está dañado, hay una posibilidad de que un guardián demoníaco se apresura a ayudar
 Tú. Cuanto mayor sea el daño hecho y cuanto más cerca estés de muerte, mayor será el
-las probabilidades. Cada nivel de esta mutación aumenta la fuerza de sus tutores.%%%%
+las probabilidades. Cada nivel de esta mutación aumenta la fuerza de sus tutores.
+
+%%%%
 powered by pain mutation
 
 Cuando te dañan, a veces ganas energía, rellenando tu reserva mágica
 o concederle agilidad temporal o podría. Cada nivel de esta mutación
-aumenta la magnitud de este efecto.%%%%
+aumenta la magnitud de este efecto.
+
+%%%%
 foul stench mutation
 
 Los enemigos que te golpean en la melodía a veces te hacen emitir una nube de falta
 miasma, ralentizar y envenenar severamente a los atrapados dentro. Esta mutación también
-le otorga inmunidad al miasma (de cualquier fuente).%%%%
+le otorga inmunidad al miasma (de cualquier fuente).
+
+%%%%
 spiny mutation
 
 Los tontos que te golpean en la melea tienen un 50% de probabilidades de ser impaltados en tus espinas,
 que dañe. Cada nivel de esta mutación aumenta el daño. Esta mutación
-también le otorga inmunidad a la constricción.%%%%
+también le otorga inmunidad a la constricción.
+
+%%%%
 augmentation mutation
 
 Mientras estás en buena salud, eres más poderoso, lanzando hechizos y matando enemigos
-más eficazmente. Cada nivel de esta mutación aumenta aún más este efecto.%%%%
+más eficazmente. Cada nivel de esta mutación aumenta aún más este efecto.
+
+%%%%
 magic shield mutation
 
 Cuando tú está dañado, algún daño se redirige a agotar sus reservas mágicas
-en lugar de eso.%%%%
+en lugar de eso.
+
+%%%%
 magic regeneration mutation
 
-Sus reservas mágicas se regeneran rápidamente.%%%%
+Sus reservas mágicas se regeneran rápidamente.
+
+%%%%
 magic link mutation
 
-Cuando es bajo en la magia, restauras la magia en lugar de la salud.%%%%
+Cuando es bajo en la magia, restauras la magia en lugar de la salud.
+
+%%%%
 demonic magic mutation
 
 Cuando lanzas hechizos, hay una posibilidad de que los monstruos adyacentes sean
 Paralizado. Este efecto es más poderoso al lanzar hechizos de alto nivel, pero
 Los monstruos con mayor fuerza de voluntad pueden resistirlo. Cada nivel de esta mutación
 permite que los monstruos más distantes sean afectados. El tercer nivel de esta mutación
-también te permite paralizar monstruos de la misma manera mientras que las varitas zapping.%%%%
+también te permite paralizar monstruos de la misma manera mientras que las varitas zapping.
+
+%%%%
 icemail mutation
 
 Estás cubierto con una capa protectora de hielo. Los ataques de fuego pueden derretirse temporalmente
 el hielo, eliminando la protección hasta las reformas del hielo. Cada nivel de esto
-mutación aumenta la protección impartida.%%%%
+mutación aumenta la protección impartida.
+
+%%%%
 condensation shield mutation
 
 Un escudo de heladas te protege, bloqueando algunos ataques entrantes. Los ataques de fuego pueden
-temporalmente derrite el escudo.%%%%
+temporalmente derrite el escudo.
+
+%%%%
 powered by death mutation
 
 La muerte te alimenta, permitiéndote sanar un poco por cada vida que tomas. Cada uno
-El nivel de esta mutación aumenta aún más la curación.%%%%
+El nivel de esta mutación aumenta aún más la curación.
+
+%%%%
 sturdy frame mutation
 
 Tus movimientos están menos ocupados por armadura, atenuando las penas para deletrear
 éxito, evasión y velocidad de ataque de armas. Cada nivel de esta mutación
-reduce la armadura ER por 2.%%%%
+reduce la armadura ER por 2.
+
+%%%%
 sanguine armour mutation
 
 Cuando estás gravemente herido, tu sangre congela a tu alrededor, formando armadura. Cada uno
-El nivel de esta mutación aumenta el AC proporcionado.%%%%
+El nivel de esta mutación aumenta el AC proporcionado.
+
+%%%%
 big brain mutation
 
 ¿Qué pasa? Tienes un cerebro grande. Cada nivel de esta mutación proporciona +2
 Inteligencia. El tercer nivel de esta mutación también le hace menos probable
-hechizos de malcast.%%%%
+hechizos de malcast.
+
+%%%%
 ignite blood mutation
 
 Cada vez que ves derramada sangre (tú u otros), puede encenderse, irrumpiendo en
 una nube de llama. Cada nivel de esta mutación lo hace más probable. Esto
 mutación también le otorga inmunidad a las nubes de la llama.
-# XXX: también mencionar que esto hace que la gente sea más propensa a sangrar?%%%%
+# XXX: también mencionar que esto hace que la gente sea más propensa a sangrar?
+
+%%%%
 corrupting presence mutation
 
 Cuando lesionas a un enemigo, tu presencia puede intensificar el daño, corroeando sus
 armas y defensas. El segundo nivel de esta mutación hace los asuntos incluso
 peor, añadiendo una oportunidad de que sus víctimas miserables puedan ser mutadas y
-deformado.%%%%
+deformado.
+
+%%%%
 black mark mutation
 
 Cuando golpeas a un enemigo en la melee, la marca negra en tu cuerpo puede debilitar
-ellos. Esto puede debilitar a los enemigos, drenar su salud o interrumpir su magia.%%%%
+ellos. Esto puede debilitar a los enemigos, drenar su salud o interrumpir su magia.
+
+%%%%
 aura of silence mutation
 
 Estás rodeado de un aura de silencio. Aquellos adyacentes a tú no pueden hacer nada
 sonido. Esto evita la mayoría de las formas de ortografía y oración, aunque demoníaca
-magia, sin ruido, no es afectada.%%%%
+magia, sin ruido, no es afectada.
+
+%%%%
 bedevilling mutation
 
-Tú lanza hechizos Hex con mayor poder.%%%%
+Tú lanza hechizos Hex con mayor poder.
+
+%%%%
 demonic willpower mutation
 
 Tu fuerza de voluntad tiene una voluntad propia, a veces hiriendo a los que intentan
-Te hex. Esta mutación también refuerza su fuerza de voluntad.%%%%
+Te hex. Esta mutación también refuerza su fuerza de voluntad.
+
+%%%%
 hurl damnation mutation
 
-Tú puede hurl condenación con <input>$cmd[CMD_USE_ABILITY]</input>. ¡Cuidaos!%%%%
+Tú puede hurl condenación con <input>$cmd[CMD_USE_ABILITY]</input>. ¡Cuidaos!
+
+%%%%
 word of chaos mutation
 
-Puedes hablar una Palabra de Caos con <input>$cmd[CMD_USE_ABILITY]</input>.%%%%
+Puedes hablar una Palabra de Caos con <input>$cmd[CMD_USE_ABILITY]</input>.
+
+%%%%
 freezing cloud immunity mutation
 
-Eres inmune a las nubes de congelación.%%%%
+Eres inmune a las nubes de congelación.
+
+%%%%
 flame cloud immunity mutation
 
-Eres inmune a las nubes de la llama.%%%%
+Eres inmune a las nubes de la llama.
+
+%%%%
 spit poison mutation
 
 Puede escupir veneno con <input>$cmd[CMD_USE_ABILITY]</input>. El segundo nivel
-de esta mutación intensifica el veneno de un solo glob en una nube grande.%%%%
+de esta mutación intensifica el veneno de un solo glob en una nube grande.
+
+%%%%
 in touch with death mutation
 
 Tus hechizos de necromancia son más poderosos. El segundo nivel de esta mutación
-mejora aún más tu fuerza de hechizo de Necromancy.%%%%
+mejora aún más tu fuerza de hechizo de Necromancy.
+
+%%%%
 acrobatic mutation
 
 Tu naturaleza mágica te ayuda a tropezar tus huesos huecos alrededor acrobaticamente,
-permitiéndole evadir los ataques mientras se mueve o espera.%%%%
+permitiéndole evadir los ataques mientras se mueve o espera.
+
+%%%%
 evasive flight mutation
 
-Vuelas evasivamente por el aire, aumentando tu evasión.%%%%
+Vuelas evasivamente por el aire, aumentando tu evasión.
+
+%%%%
 big wings mutation
 
-Tienes grandes y fuertes alas, capaces de llevarte por el aire.%%%%
+Tienes grandes y fuertes alas, capaces de llevarte por el aire.
+
+%%%%
 float mutation
 
-Tú saltas por el aire, para siempre libres de los lazos superficiales de la tierra.%%%%
+Tú saltas por el aire, para siempre libres de los lazos superficiales de la tierra.
+
+%%%%
 innate caster mutation
 
 No puedes aprender hechizos de libros. En su lugar, al ganar experiencia, hechizos
 de nivel superior y superior burbuja arriba de su corazón ardiente. Estos hechizos son
 impredecible y no afectado por su elección de dios. Tú no puede entrenar específico
-Escuelas de ortografía - puede entrenar todas las escuelas de ortografía a la vez, o ninguna.%%%%
+Escuelas de ortografía - puede entrenar todas las escuelas de ortografía a la vez, o ninguna.
+
+%%%%
 hp casting mutation
 
 Tú no tiene reserva separada de poder mágico, y cualquier cosa que afectaría
 El MP no tiene efecto en ti. Al emitir hechizos, usar habilidades o hacer cualquier cosa
-*costos* MP para especies normales, gastas HP en su lugar.%%%%
+*costos* MP para especies normales, gastas HP en su lugar.
+
+%%%%
 extra vitality mutation
 
 Tú está construido de manera diferente de la mayoría de las especies, lo que le hace un poco más difícil de matar.
-Cada nivel de esta mutación aumenta su salud máxima en 4 puntos.%%%%
+Cada nivel de esta mutación aumenta su salud máxima en 4 puntos.
+
+%%%%
 frog-like legs mutation
 
 Sus piernas únicamente musculosas le permiten saltar distancias cortas en el enlace de un
 ojo con <input>$cmd[CMD_USE_ABILITY]</input>, aunque su velocidad de caminar es
 por debajo del promedio.
 
-El segundo nivel de esta mutación le permite saltar más lejos.%%%%
+El segundo nivel de esta mutación le permite saltar más lejos.
+
+%%%%
 forlorn mutation
 
-No puedes, no lo harás, y nunca adorarás a ningún dios.%%%%
+No puedes, no lo harás, y nunca adorarás a ningún dios.
+
+%%%%
 nightstalker mutation
 
 Estás afinado a las sombras, reduciendo la distancia que puedes ver o ser
-visto de.%%%%
+visto de.
+
+%%%%
 +LOS mutation
 
-Naciste a la luz, aumentando la distancia que puedes ver y ser visto
-de.%%%%
+La oscuridad huye a su acercamiento, permitiendo una amplia gama de visión y
+ataque (+1 línea de visión), pero también le permite ser visto y
+potencialmente apuntada desde más lejos.
+
+%%%%
 stone body mutation
 
 Estás hecho de piedra viva que es muy resistente al daño. Ganas un
 gran bonificación a su AC, que aumenta con su nivel de experiencia, y son
-inmune a la petrificación, veneno, enfermedad, sueño y ciertos otros efectos.%%%%
+inmune a la petrificación, veneno, enfermedad, sueño y ciertos otros efectos.
+
+%%%%
 cold-blooded mutation
 
-Cuando te golpea un ataque frío, puedes ser ralentizado hasta que tu sangre vuelva a calentarse.%%%%
+Cuando te golpea un ataque frío, puedes ser ralentizado hasta que tu sangre vuelva a calentarse.
+
+%%%%
 stealthy paws mutation
 
 Al lanzar ataques contra enemigos no conscientes o incapacitados, infliges extra
-daño de la misma manera que un humano con una cuchilla corta podría.%%%%
+daño de la misma manera que un humano con una cuchilla corta podría.
+
+%%%%
 four strong arms mutation
 
 Tienes dos pares de dos brazos, lo que te permite manipular armas de dos manos con
 un par y un escudo con el otro, así como llevar un segundo par de guantes.
 Tú puede incluso manejar armas extremadamente grandes como clubes gigantes, aunque esto toma
-ambos de los brazos.%%%%
+ambos de los brazos.
+
+%%%%
 retaliatory headbutt mutation
 
 Cuando un enemigo te echa de menos en la melee, puedes tomar represalias, tratando de
 ve a tu atacante con tus cuernos. Tú puede realizar esto contra un enemigo dado
-no más de una vez por acción de jugador.%%%%
+no más de una vez por acción de jugador.
+
+%%%%
 multi-lived mutation
 
 Cada tercer nivel de experiencia, ganas una vida extra. Si eres asesinado
 todavía tienes una vida restante, volverás a aparecer en otro lugar en la corriente
 piso. Tú puede seguir ganando vidas adicionales incluso una vez que alcanza el máximo
-nivel de experiencia, pero no puedes tener más de dos vidas adicionales a la vez.%%%%
+nivel de experiencia, pero no puedes tener más de dos vidas adicionales a la vez.
+
+%%%%
 distributed training mutation
 
 Cada vez que ganas experiencia, se divide entre todas tus habilidades. Tú.
 no puede elegir centrarse. Efectos que te impiden entrenar ciertas habilidades,
-tales como restricciones divinas, no hacen que sus otras habilidades se levanten más rápido.%%%%
+tales como restricciones divinas, no hacen que sus otras habilidades se levanten más rápido.
+
+%%%%
 nimble swimmer mutation
 
 Tú puede mezclarse en las olas mientras nada a través del agua o volando sobre él,
 ganando Stealth+. El segundo nivel de esta mutación también te otorga mejoras
-evasión y aumenta la velocidad de movimiento cuando está dentro o por encima del agua.%%%%
+evasión y aumenta la velocidad de movimiento cuando está dentro o por encima del agua.
+
+%%%%
 divine attributes mutation
 
 Su herencia divina aumenta dramáticamente su ganancia de atributo (Fuerza,
 Inteligencia y Dexteridad) a medida que se nivelan en relación con otras especies, ambas
 en cantidad y en cuánto puede controlar su desarrollo. Cada tres
-niveles, tú elige un atributo para aumentar en cuatro puntos.%%%%
+niveles, tú elige un atributo para aumentar en cuatro puntos.
+
+%%%%
 tentacles mutation
 
 Tu cuerpo gelatinoso tiene ocho tentáculos que te ayudan a moverte en poco profundo
@@ -654,18 +936,24 @@ dos tentáculos para mantener un escudo.
 
 Tus tentáculos tratarán de constreñir enemigos que atacas en la melee. (No puedes
 monstruos más grandes que tú.) Independientemente, tienes una oportunidad de dos tercios
-de lanzar un ataque 'squeeze' dañino cuando atacas en la melee.%%%%
+de lanzar un ataque 'squeeze' dañino cuando atacas en la melee.
+
+%%%%
 mertail mutation
 
 Su matriz morfógena es inestable, permitiendo que su cuerpo inferior se cambie a
 una poderosa cola acuática cuando en aguas poco profundas o profundas. Lo hará rápidamente.
 reformar las piernas una vez que salgas del agua. Cuando está en merforme, su cola permite
-a los enemigos de cola cuando lanzan ataques de melee.%%%%
+a los enemigos de cola cuando lanzan ataques de melee.
+
+%%%%
 +LOS mutation
 
 La oscuridad huye a su acercamiento, permitiendo una amplia gama de visión y
 ataque (+1 línea de visión), pero también le permite ser visto y
-potencialmente apuntada desde más lejos.%%%%
+potencialmente apuntada desde más lejos.
+
+%%%%
 no regeneration mutation
 
 Tú no regenera la salud mientras descansa, y no puede recibir el
@@ -673,128 +961,180 @@ efectos de la magia que acelera la velocidad de la regeneración. Fuentes de gan
 como pociones e invocaciones religiosas todavía te sanarán, y ciertas
 Las invocaciones divinas pueden conceder temporalmente la capacidad de regenerarse.
 Para compensar, tú es capaz de curarse a sí mismo a través de la
-Llave <input>$cmd[CMD_USE_ABILITY]</input>, a costa del MP permanente.%%%%
+Llave <input>$cmd[CMD_USE_ABILITY]</input>, a costa del MP permanente.
+
+%%%%
 treasure sense mutation
 
 Tú tiene un cuchillo increible para saber dónde se pueden encontrar los elementos. Mientras exploras
 la mazmorra, localizaciones cercanas que no puede ver directamente ganará un
-marcador para artículos no descubiertos.%%%%
+marcador para artículos no descubiertos.
+
+%%%%
 gelatinous body mutation
 
 Tu cuerpo es goma, y tus enemigos como pegamento. Cada nivel de esta mutación
-conferencias +1 AC y +1 EV.%%%%
+conferencias +1 AC y +1 EV.
+
+%%%%
 eyeballs mutation
 
 Los globos de oro brotan de tu carne como hongos, confundiendo a tus enemigos.
 Cada nivel de esta mutación mejora su precisión con armas, desarmadas
 ataques, ataques auxiliares y hechizos. El tercer nivel de esta mutación también
-te permite ver enemigos invisibles.%%%%
+te permite ver enemigos invisibles.
+
+%%%%
 translucent skin mutation
 
 Su piel es transparente, mejorando su sigilo y reduciendo la precisión de
 los ataques de tus enemigos contra ti. Cada nivel de esta mutación reduce la de tus enemigos
-más precisión.%%%%
+más precisión.
+
+%%%%
 slime shroud mutation
 
 Cuando se golpea en la melee, el baboso que cubre su cuerpo puede desviar el
 ataque. Tal deflexión romperá el shroud, sin embargo, y tomará tiempo
-para que se reconstituya.%%%%
+para que se reconstituya.
+
+%%%%
 tendrils mutation
 
 Cuando se golpea en la melee, los esbeltos tendriles que cubren su cuerpo pueden agarrar su
-El arma del atacante y lo arrancan de su alcance, desarmarlos.%%%%
+El arma del atacante y lo arrancan de su alcance, desarmarlos.
+
+%%%%
 jelly sensing items mutation
 
-Tienes una pequeña gelatina que siente los artículos cercanos.%%%%
+Tienes una pequeña gelatina que siente los artículos cercanos.
+
+%%%%
 jelly absorbing missiles mutation
 
 Cuando se golpea por un misil (como una flecha o un tornillo cruzado), una jalea en su
-el cuerpo puede comerlo, sanándote un poco.%%%%
+el cuerpo puede comerlo, sanándote un poco.
+
+%%%%
 ooze flood mutation
 
 Tus ataques pueden inundar las vías respiratorias de tus enemigos con ooze. Aquellos que necesitan
-respirar aire será silenciado y tomar daño de asfixia con el tiempo.%%%%
+respirar aire será silenciado y tomar daño de asfixia con el tiempo.
+
+%%%%
 otherworldly mutation
 
 Tú son extranjeros a este mundo, fácilmente percibidos por fuerzas oscuras. Sólo tienes
 una décima parte del tiempo normal en cada planta de mazmorras antes de que Zot te encuentre y
-reduce permanentemente su salud.%%%%
+reduce permanentemente su salud.
+
+%%%%
 foul shadow mutation
 
 Tu cuerpo está sombreado por la llama nefasta. Los tontos te golpean menos a menudo, y tu sigilo
 está mucho mejorada. Los tontos que te golpean en la melee a veces son sellados por el
 llama férula; enemigos no muertos y demoníacos toman menos daño de ella, mientras seres santos
-y los buenos adoradores de Dios toman más.%%%%
+y los buenos adoradores de Dios toman más.
+
+%%%%
 explore regen mutation
 
 Estás vigorizado por el descubrimiento de lo desconocido. Mientras exploras la mazmorra,
-tus heridas sanarán y tu magia reponerá.%%%%
+tus heridas sanarán y tu magia reponerá.
+
+%%%%
 faith mutation
 
 Estabas embalsamado con aceites santos y especias sagradas y atado con bendito
 tela. Ahora tienes una conexión especial con lo divino, permitiéndote ganar
-favor con tu dios elegido más rápido.%%%%
+favor con tu dios elegido más rápido.
+
+%%%%
 devour on kill mutation
 
 Cuando matas criaturas vivientes tienes la oportunidad de devorar su fuerza vital
-y restaurar la salud.%%%%
+y restaurar la salud.
+
+%%%%
 rollpage mutation
 
 Tú, instintivamente, giras hacia los enemigos, lanzando hacia adelante una
 espacio adicional. Esta mutación otorga regeneración mágica al rodar; la
-El segundo nivel de esta mutación regenera tanto la magia como la salud.%%%%
+El segundo nivel de esta mutación regenera tanto la magia como la salud.
+
+%%%%
 double potion healing mutation
 
-Cuando una poción restaura su salud o magia, restaura el doble de cosas.%%%%
+Cuando una poción restaura su salud o magia, restaura el doble de cosas.
+
+%%%%
 drunken brawling mutation
 
 Cuando bebes una poción que restaura la salud o la magia, realizas una
 ataque inmediato contra todos los enemigos adyacentes a tú.
 
-(Esto incluye pociones de curación, heridas de sanación, magia y ambrosia.)%%%%
+(Esto incluye pociones de curación, heridas de sanación, magia y ambrosia.)
+
+%%%%
 artefact enchanting mutation
 
 Puede utilizar pergaminos de arma y armadura encantada sobre artefactos aleatorios.
 
 Esto no puede elevar su encanto por encima de lo que normalmente sería posible en un
 ítem mundano del mismo tipo, y no puede afectar especialmente los artefactos inusuales
-Para nada.%%%%
+Para nada.
+
+%%%%
 runic magic mutation
 
 Tú lanza hechizos con la ayuda de glifos marcados en su armadura, grandemente
 reducir los movimientos complejos que de otro modo serían necesarios.
 
 (El grado de encumbrancia de toda la armadura que usas se reduce en 1/2 para propósitos
-de éxito del hechizo.)%%%%
+de éxito del hechizo.)
+
+%%%%
 off-hand wielding mutation
 
 Puedes usar un arma de una sola mano en tu mano, si no usas un arma
 arma de dos manos o usando un escudo o un orbe. Seguirás los ataques de
 su arma primaria con su arma desactivada, con retraso de ataque determinado
 por el promedio de los dos. Las armas extendidas sólo pueden seguir los ataques por separado
-armas, y también armas melee.%%%%
+armas, y también armas melee.
+
+%%%%
 slow wielding mutation
 
 Tú debe recalibrar sus brazos de captación al manipular o desenrollar armas.
-Esto lleva tanto tiempo como donar armadura.%%%%
+Esto lleva tanto tiempo como donar armadura.
+
+%%%%
 warmup strikes mutation
 
 Tus brazos agarrados necesitan tiempo para alargar, haciendo tus primeros ataques en
 cada lucha menos eficaz. Los ataques lentos y pesados ayudan más que los ataques rápidos.
-Tanto los ataques basados en armas como los desarmados se ven afectados.%%%%
+Tanto los ataques basados en armas como los desarmados se ven afectados.
+
+%%%%
 no rings mutation
 
 Tus manos están incrustadas en los controles de tus brazos de agarrado, dejándote
-sin lugar para usar anillos mágicos sin interferencia mágica desastrosa.%%%%
+sin lugar para usar anillos mágicos sin interferencia mágica desastrosa.
+
+%%%%
 iron-fused scales mutation
 
 Sus escalas se fusionan con una capa gruesa de hierro, dándoles resistencia similar a
-un traje de armadura (+5 AC).%%%%
+un traje de armadura (+5 AC).
+
+%%%%
 inviolate magic mutation
 
 Su magia es resistente a la disrupción por fuerzas externas. Efectos hostiles
 drena tu drenaje MP sólo 1/3 tanto y eres inmune a tener tu magia
-los efectos sean eliminados por cualquiera excepto por ti mismo.%%%%
+los efectos sean eliminados por cualquiera excepto por ti mismo.
+
+%%%%
 formless mutation
 
 Tú no tiene cuerpo físico y en su lugar interactuar con el mundo a través de perseguir
@@ -803,7 +1143,9 @@ cualquier combinación, pero la armadura corporal es demasiado grande para que t
 esta moda.
 
 En niveles más altos, incluso puede enviar la armadura que está persiguiendo para atacar
-enemigos independientemente por cortos períodos de tiempo.%%%%
+enemigos independientemente por cortos períodos de tiempo.
+
+%%%%
 trickster mutation
 
 Su conexión con el reino de los vivos crece más fuerte mientras se extiende
@@ -815,7 +1157,9 @@ con el número de diferentes enemigos afectados, pero se desintegrará con el ti
 no siga infligiendo nuevas desgracias.
 
 En su XL actual, tú puede ganar un bono máximo de
-{{return 6 + you.xl() * 4 / 5;} AC this way.%%%%
+{{return 6 + you.xl() * 4 / 5;} AC this way.
+
+%%%%
 mnemnophage mutation
 
 Devoras los recuerdos e incluso la existencia misma de aquellos que matas, subsumiendo
@@ -825,7 +1169,9 @@ Una vez que haya acumulado suficientes recuerdos, es posible que elija quemarlos
 como combustible para mejorar grandemente su ortografía por un corto período de tiempo.
 
 En su nivel de experiencia actual, puede tener suficientes recuerdos para lanzar un máximo
-de {{return 3 + math.floor(you.xl() * 3 / 20);} hechizos en una fila de esta manera.%%%%
+de {{return 3 + math.floor(you.xl() * 3 / 20);} hechizos en una fila de esta manera.
+
+%%%%
 spellclaws mutation
 
 Instintivamente canalizas la magia destructiva a través de tus garras. Al fundir un
@@ -833,17 +1179,68 @@ hechizo de descalificación de daños, tú también realiza un ataque de melee c
 enemigo en su rango de ataque.
 
 Este ataque reduce el daño si su velocidad de ataque es más lenta que su casting
-velocidad.%%%%
+velocidad.
+
+%%%%
 accursed mutation
 
 Su naturaleza acertada hace más difícil disipar energías malignas de sus
 ser, reduciendo la tasa a la que se puede recuperar de Doom y Banes.
-# ------ Descripciones falsas..%%%%
+# ------ Descripciones falsas..
+
+%%%%
+stampede mutation
+
+Tú rampa rápidamente hacia los enemigos y puede continuar pisoteando hacia adelante una vez
+los alcanzas, empujando líneas enteras de enemigos hacia atrás mientras atacas.
+
+Realizar cualquier acción además de un movimiento de rampa Will terminar su estampida.
+
+El segundo nivel de esta mutación aumenta su estampida con la bendición de
+uno de los cuatro vientos, basado en su habilidad más alta:
+
+Viento Norte: Destrezas de arma Melee (excepto Hojas cortas)\n
+Viento Sur: Hojas cortas o Stealth\n
+East Wind: habilidades mágicas (excepto Spellcasting)\n
+West Wind: Ranged Weapons skill\n
+
+%%%%
+North Wind's embodiment mutation
+
+Tú regenera rápidamente hasta el 70% de todos los daños que sufre mientras que Stampeding. El
+la tasa de esta regeneración aumenta con su HP máximo.
+
+%%%%
+West Wind's embodiment mutation
+
+Cada vez que se desenrolla hacia los enemigos mientras se utiliza un arma ampliada, también se dispara
+un golpe penetrante que aumenta el daño y su próximo ataque normal
+se hace habilitado para disparar a múltiples enemigos a la vez.
+
+%%%%
+East Wind's embodiment mutation
+
+Cuando tú Rampage, tú recupera un pequeño porcentaje de su maxmimum MP y
+desatar un viento amargo que hace a todos los enemigos dentro de 2 espacios de ustedes Expuestos,
+aumentar el daño que reciben de fuentes no atacantes en un 35% y también sus
+oportunidad de ser golpeado o afectado por ellos.
+
+Además, los hechizos de casting Will no hacen que detengas el Stampeding.
+
+%%%%
+South Wind's embodiment mutation
+
+Su sigilo se aumenta en un 50% mientras que Rampaging y cada vez que con éxito
+apuñalar a un enemigo, su próximo movimiento de Rampage se vuelve instantáneo.
+
+%%%%
 vampire fangs mutation
 
 Cuando realizas un ataque de puñalada contra un monstruo vivo con sangre, curas para
 una parte del daño total tratado. Cuando tú está al 50% de su HP máximo o menos,
-esto tiene una oportunidad de 2/3 para ocurrir en todos los ataques de melee.%%%%
+esto tiene una oportunidad de 2/3 para ocurrir en todos los ataques de melee.
+
+%%%%
 bloodcurse mutation
 
 Cuando matas a un monstruo vivo con un ataque de apuñalas, pueden levantarse de nuevo para servir
@@ -853,12 +1250,16 @@ daño contra los enemigos dormidos. Spellcaster thralls también ganará conocim
 el hechizo Vampiric Draining.
 
 Tú sólo puede crear un thrall si tú no tiene uno ya, y ellos serán
-inevitablemente volver al polvo después de poco tiempo.%%%%
+inevitablemente volver al polvo después de poco tiempo.
+
+%%%%
 insubstantial mutation
 
 Tú es insustancial e inmune a muchos efectos que requieren un cuerpo sólido. Tú.
 no puede ser restringido, petrificado, esquejado por los barbs, cubierto de llama pegajosa, o
-atrapado por telas, redes o bolas.%%%%
+atrapado por telas, redes o bolas.
+
+%%%%
 frigid aura mutation
 
 Su aliento irradia un intenso escalofrío que congela paredes cercanas sólidas como tú
@@ -869,13 +1270,17 @@ Frígida. Las paredes frigidas dan daño a cualquier enemigo adyacente a cada vu
 hasta el doble de cuando un enemigo está adyacente al mayor número posible. Este daño
 aumenta con su habilidad para cambiar formas.
 
-Las paredes se derretirán rápidamente si dejas de atacar.%%%%
+Las paredes se derretirán rápidamente si dejas de atacar.
+
+%%%%
 hive swarm mutation
 
 Cada vez que una lesión reduce su salud a menos del 50%, las abejas enojadas enjambre
 fuera de tu cuerpo para defenderte.
 
-Este efecto no puede suceder de nuevo hasta que su salud esté completamente recuperada.%%%%
+Este efecto no puede suceder de nuevo hasta que su salud esté completamente recuperada.
+
+%%%%
 water reaching mutation
 
 Tu cuerpo está formado por agua elemental que cambia de forma flexible, permitiéndote
@@ -884,44 +1289,62 @@ ataques de todo tipo.
 
 La precisión necesaria para preformar los ataques de puñaladas sigue siendo imposible a menos que estés
 adyacente a su objetivo, y los hachas sólo pueden zarpar a enemigos adyacentes a tú,
-independientemente de dónde golpees.%%%%
+independientemente de dónde golpees.
+
+%%%%
 water splatter mutation
 
 Cuando se lesiona, partes de su cuerpo acuoso pueden brotar como charcos de sauce
-Agua cerca. Cuanto más daño tome a la vez, más agua se extiende alrededor.%%%%
+Agua cerca. Cuanto más daño tome a la vez, más agua se extiende alrededor.
+
+%%%%
 freeze response mutation
 
 Cada vez que estás expuesto al daño frío, tienes la oportunidad de convertirte en congelado,
-bajando la velocidad de movimiento por un corto tiempo.%%%%
+bajando la velocidad de movimiento por un corto tiempo.
+
+%%%%
 steam response mutation
 
 Cada vez que tomas daño al fuego de un proyectil, tienes una oportunidad (aumento
-con el daño sufrido) para difundir nubes de vapor alrededor de tú mismo.%%%%
+con el daño sufrido) para difundir nubes de vapor alrededor de tú mismo.
+
+%%%%
 airstrike attack mutation
 
 Cada vez que golpeas a un enemigo en la melee, el viento gira alrededor y los golpea
-para daños adicionales que se incrementan para cada espacio vacío adyacente a ellos.%%%%
+para daños adicionales que se incrementan para cada espacio vacío adyacente a ellos.
+
+%%%%
 hex mastery mutation
 
 Tus hechizos Hexes son mucho más fáciles de lanzar (probabilidad y severidad reducidas)
-y los enemigos han reducido la fuerza de voluntad contra todos sus efectos.%%%%
+y los enemigos han reducido la fuerza de voluntad contra todos sus efectos.
+
+%%%%
 riddle compulsion mutation
 
 Tú plantea compulsivamente enigmas a los enemigos cuando los encuentra. Cada vez
 de nuevo, estos pueden confundirlos o enloquecerlos, pero sobre todo atraen a sus
-Atención.%%%%
+Atención.
+
+%%%%
 werefury mutation
 
 Cuando matas a un enemigo con un simple ataque, ganas un asesinato temporal
 bono que aumenta con tu habilidad de Shapeshifting.
 
 Esta bonificación apila hasta +12 y no expirará mientras sigas
-realizar ataques de melee.%%%%
+realizar ataques de melee.
+
+%%%%
 werehowl mutation
 
 Cuando matas a un enemigo en el melee, si tu bonificación fuefuria es al menos 5, puedes
 desatar un terrible aullido que intenta congelar a todos los enemigos cercanos en su lugar
-con miedo si supera su fuerza de voluntad.%%%%
+con miedo si supera su fuerza de voluntad.
+
+%%%%
 stinger hair mutation
 
 Tu cabello está hecho de largas medusas-como tendriles. Siempre
@@ -929,92 +1352,126 @@ ataque en melee, ellos echarán fuera e intentarán envenenar a varios visibles
 enemigos dentro de 2 fichas del jugador al azar.
 
 El número de enemigos que pueden afligir a la vez es mejorado por Shapeshifting
-habilidad.%%%%
+habilidad.
+
+%%%%
 lithotoxin mutation
 
 Cuando su salud cae al 60% de su HP max o menos, sus tendriles reflexivamente
 tratar de petrificar a todos los enemigos envenenados dentro de 3 fichas de tú.
 
 Este efecto no puede activarse de nuevo hasta que sane completamente y su oportunidad de éxito
-mejora con tu habilidad de Shapeshifting.%%%%
+mejora con tu habilidad de Shapeshifting.
+
+%%%%
 contaminating mutation
 
 Cuando golpeas a un enemigo en melee, una parte de la energía transmutacional
 sobrevivir los contaminará. Al aterrizar la tercera huelga seguida,
 esta contaminación crecerá tan aguda que retorcerá su forma corporal,
-infligir daños significativos por AC y malmutarlos.%%%%
+infligir daños significativos por AC y malmutarlos.
+
+%%%%
 maw attack mutation
 
 Tu madre a veces muerde enemigos en la melee, a un ritmo independiente de tu propio
 velocidad de ataque (una vez por 15 aut, en promedio). Su daño base es directamente
-aumentó un 75% de tu fuerza.%%%%
+aumentó un 75% de tu fuerza.
+
+%%%%
 devouring maw mutation
 
 Cuando matas a un enemigo comestible en melee (cualquier hostil, no consumado, vivo o
 monstruo de planta), su mandíbula lo devora, aumentando enormemente su regeneración para un
-poco tiempo. Los enemigos más poderosos proporcionan una duración más larga de este efecto.%%%%
+poco tiempo. Los enemigos más poderosos proporcionan una duración más larga de este efecto.
+
+%%%%
 growling stomach mutation
 
 El apetito de tu madre es insaciable. Siempre que encuentres una comestible
-monstruo, hay una oportunidad de ser mesmerizado por él y dejar salir un gruñido fuerte.%%%%
+monstruo, hay una oportunidad de ser mesmerizado por él y dejar salir un gruñido fuerte.
+
+%%%%
 eel punch mutation
 
 Tus golpes de meleo tienen un 50% de probabilidad de deshacer un arco de electricidad que
-viaja entre varios enemigos conectados.%%%%
+viaja entre varios enemigos conectados.
+
+%%%%
 eeljolt mutation
 
 Cuando su salud cae al 40% de su HP max, sus anguilas se descargan violentamente
 electricidad, golpear todos los objetivos conectados dentro de 2 fichas de ti mismo - ya sean
 amigo o enemigo - por el doble de daño que su electricidad normalmente hace.
 
-Este efecto no puede activarse de nuevo hasta que sane completamente.%%%%
+Este efecto no puede activarse de nuevo hasta que sane completamente.
+
+%%%%
 blade parry mutation
 
 You briefly gain SH equal to your slaying every you perform a melee attack
-(con una bonificación plana adicional basado en su habilidad de Shapeshifting).%%%%
+(con una bonificación plana adicional basado en su habilidad de Shapeshifting).
+
+%%%%
 sporulate mutation
 
 Tus ataques de meleo causan que varios cuartos de erupción comiencen a crecer sin preocupaciones
 fichas detrás de tu objetivo. Si se les permite crecer por varios giros, ellos
 explotará en una explosión de esporas que daña a los enemigos cercanos y puede brevemente
-Dales una paliza.%%%%
+Dales una paliza.
+
+%%%%
 armoured shell mutation
 
 Su armadura corporal se fusiona en su cáscara, multiplicando su base AC por un factor
 que aumenta con tu habilidad de Shapeshifting. La eficacia de su ego y
 la mayoría de las propiedades del artefacto también se duplicarán, aunque ciertos artefactos raros pueden
-ser demasiado inusual para mejorar de esta manera.%%%%
+ser demasiado inusual para mejorar de esta manera.
+
+%%%%
 hypnotic gaze mutation
 
 Tu mirada tiene un efecto hipnótico en muchas criaturas. Cada vez que un vivo, demoníaco,
 o el monstruo santo primero te nota, puede ser momentáneamente aturdido, evitando
 de gritar. Criaturas que fallan un cheque de Willpower serán aturdidas incluso
-más tiempo.%%%%
+más tiempo.
+
+%%%%
 Gehenna destruction mutation
 
 Su habilidad de destrucción Unleash está habilitada por Gehenna. Eres capaz de chocar
 tornillos de magma en lugar de frío, y tus tornillos de fuego pueden despojar sus
-Resistencia al fuego de las víctimas.%%%%
+Resistencia al fuego de las víctimas.
+
+%%%%
 Cocytus destruction mutation
 
 Su habilidad de destrucción Unleash está habilitada por Cocytus. Eres capaz de chocar
 pernos de hielo en lugar de fuego, y sus pernos de víctimas de congelación fría sólidas,
-ralentizando su movimiento.%%%%
+ralentizando su movimiento.
+
+%%%%
 Tartarus destruction mutation
 
 Su habilidad de destrucción Unleash está empoderada por Tartarus. Eres capaz de chocar
 pernos de devastación que bajan la fuerza de voluntad de sus víctimas en lugar de relámpagos,
-y tus tornillos de energía negativa son más poderosos.%%%%
+y tus tornillos de energía negativa son más poderosos.
+
+%%%%
 Dis destruction mutation
 
 Su habilidad de destrucción Unleash está habilitada por Dis. Eres capaz de hurl bolts
-de ácido corrosivo y espinillas metálicas en lugar de energía negativa.%%%%
+de ácido corrosivo y espinillas metálicas en lugar de energía negativa.
+
+%%%%
 Mark of the Tyrant mutation
 
 Sus sirvientes infernales tienen una duración más larga, y tú puede convocar aún más fuerte
 de invocaciones muy altas (a costo de la piedad adicional). Cuando matas
 enemigos, un sirviente al azar puede ganar uno de: prisa, poder, regeneración o
-Brilliance.%%%%
+Brilliance.
+
+%%%%
 Mark of Carnage mutation
 
 Sus sirvientes infernales ahora son convocados adyacentes a un enemigo aleatorio en lugar de
@@ -1032,7 +1489,9 @@ si tú.get base mutation level("Gehenna destruction") == 1 entonces
 si tú.get base mutation level("Cocytus destruction") == 1 entonces
 devolver "frío o hielo"
 final
-})%%%%
+})
+
+%%%%
 Mark of the Legion mutation
 
 Su habilidad de sirviente infernal es reemplazada por Legión Infernal, lo que le permite
@@ -1041,7 +1500,9 @@ los números son inagotables mientras el estado dura, y nunca lo harán
 ser hostil a ti.
 
 También puede desencadenar la destrucción de Makhleb a través de sus aliados convocados sin
-hacerles daño.%%%%
+hacerles daño.
+
+%%%%
 Mark of Annihilation mutation
 
 Su habilidad de sirviente infernal es reemplazada por Globe of Annihilation, permitiendo
@@ -1059,13 +1520,17 @@ si tú.get base mutation level("Gehenna destruction") == 1 entonces
 si tú.get base mutation level("Cocytus destruction") == 1 entonces
 devolver "frío o hielo"
 final
-})%%%%
+})
+
+%%%%
 Mark of Haemoclasm mutation
 
 Cuando matas enemigos, tienen una pequeña oportunidad de explotar en una lluvia violenta
 gore, que daña los enemigos adyacentes proporcional a la salud máxima de la víctima.
 
-Los enemigos que mueren a esta explosión siempre explotarán.%%%%
+Los enemigos que mueren a esta explosión siempre explotarán.
+
+%%%%
 Mark of the Celebrant mutation
 
 Cada vez que cae por debajo del 50% de su HP máximo, realiza un rito infernal,
@@ -1075,7 +1540,9 @@ presente. Las invocaciones aumentan el daño de estas flechas, y Makhleb
 Siempre te da sanidad por enemigos asesinados por ellos.
 
 Después de realizar un rito de sangre, tú no puede realizar otro hasta que su HP tiene
-totalmente recuperado.%%%%
+totalmente recuperado.
+
+%%%%
 Mark of Execution mutation
 
 Una encarnación demoníaca del asesinato se encuentra en tu alma. Siempre que matas
@@ -1086,186 +1553,276 @@ ataque.
 
 Tú tiene la capacidad de rampage rápidamente hacia los enemigos mientras poseídos, pero si
 pasas más que un corto mientras haces algo más que atacar, el
-La presencia demoníaca volverá a permanecer en tu interior.%%%%
+La presencia demoníaca volverá a permanecer en tu interior.
+
+%%%%
 Mark of Atrocity mutation
 
 Su destrucción Unleash está habilitada más veces que lo usas consecutivamente
 sin pausa, aumentando tanto en el daño como en el costo de la salud. Al usarlo un cuarto
 tiempo seguido, tú desencadenará automáticamente un bombardeo salvaje de pernos adicionales
-apuntado a objetivos aleatorios y restablecer este impulso.%%%%
+apuntado a objetivos aleatorios y restablecer este impulso.
+
+%%%%
 Mark of the Fanatic mutation
 
 Te otorga el vaso de habilidad de la risa, permitiéndote transformarte en un
 poderoso avatar demoníaco con gran aumento de la delincuencia y defensa para un corto
 período de tiempo, a cambio de ser arrastrado hacia el Crucible de la Carne
-después y hecho para luchar por su libertad.%%%%
+después y hecho para luchar por su libertad.
+
+%%%%
 renounce potions mutation
 
 Se niega a beber pociones en combate a menos que se lesione gravemente. Mientras que los enemigos están
 su línea de visión (y por varios giros después), tú será incapaz de
-beber cualquier cosa a menos que su HP sea inferior al 50% de su máximo.%%%%
+beber cualquier cosa a menos que su HP sea inferior al 50% de su máximo.
+
+%%%%
 renounce scrolls mutation
 
 Se niega a leer pergaminos en combate a menos que se lesione gravemente. Mientras que los enemigos están
 su línea de visión (y por varios giros después), tú será incapaz de
-leer cualquier cosa a menos que su HP sea inferior al 50% de su máximo.%%%%
+leer cualquier cosa a menos que su HP sea inferior al 50% de su máximo.
+
+%%%%
 missing a hand mutation
 
 Eres mucho menos útil de lo que solías ser. No puedes pelar
 armas de dos manos, usar un escudo, lanzar ataques fuera de las manos, o utilizar más que
-un anillo mágico a la vez.%%%%
+un anillo mágico a la vez.
+
+%%%%
 no stealth mutation
 
 No tienes Stealth. Siempre alertarás monstruos cuando te vean, y
-te rastrearán muy eficazmente.%%%%
+te rastrearán muy eficazmente.
+
+%%%%
 no forms mutation
 
 No puede cambiar voluntariamente formas, a través de talismanos, pociones o cualquier otro medio.
-Aún puede ser transformado involuntariamente por efectos como varitas de polimorfo.%%%%
+Aún puede ser transformado involuntariamente por efectos como varitas de polimorfo.
+
+%%%%
 inability to use devices mutation
 
 No puedes usar dispositivos mágicos. Esto incluye varitas y la mayoría de los elementos evocados con
 <input>$cmd[CMD_EVOKE]</input>, excepto alcanzar armas, talismanos y
 Figuras ziggurat. Esto también hace que las tallas mágicas sean mucho menos efectivas
-Melee.%%%%
+Melee.
+
+%%%%
 hated by all mutation
 
 Tú son odiados por todos y no pueden adquirir aliados, temporalmente o permanentemente, por
 cualquier medio. Construcciónes simplistas e impensables, como armas espectrales,
-los orbes de destrucción, y los estadios de batalla, no son afectados.%%%%
+los orbes de destrucción, y los estadios de batalla, no son afectados.
+
+%%%%
 cowardly mutation
 
 Ver monstruos amenazantes te llena de miedo, reduciendo el poder de tu
 hechizos y tu habilidad para matar monstruos con melee y ataques variados. Ver
 múltiples monstruos a la vez, o monstruos extremadamente amenazantes, hacen esto
-aún peor.%%%%
+aún peor.
+
+%%%%
 disrupted magic mutation
 
 Tu oportunidad de malinterpretar hechizos es mayor. Cada nivel de este sacrificio aumenta
-la oportunidad de malinterpretar más.%%%%
+la oportunidad de malinterpretar más.
+
+%%%%
 unskilled mutation
 
 Te lleva más experiencia para mejorar tus habilidades. Cada nivel de esto
-sacrificio hace que tus habilidades cuestan aún más.%%%%
+sacrificio hace que tus habilidades cuestan aún más.
+
+%%%%
 reduced AC mutation
 
-Tú es fácilmente golpeado y golpeado, reduciendo los beneficios de su armadura.%%%%
+Tú es fácilmente golpeado y golpeado, reduciendo los beneficios de su armadura.
+
+%%%%
 reduced EV mutation
 
-Tus reflejos son lentos, facilitando que los enemigos te golpeen.%%%%
+Tus reflejos son lentos, facilitando que los enemigos te golpeen.
+
+%%%%
 inexperienced mutation
 
-Tú es inexperto e incapaz de ganar completamente 27 niveles.%%%%
+Tú es inexperto e incapaz de ganar completamente 27 niveles.
+
+%%%%
 missing an eye mutation
 
 Te estás perdiendo un ojo, reduciendo la precisión de tu físico y mágico
-ataques.%%%%
+ataques.
+
+%%%%
 no potions mutation
 
-No puedes hacer pociones.%%%%
+No puedes hacer pociones.
+
+%%%%
 no weapons or thrown items mutation
 
-Tú es incapaz de manipular armas o lanzar objetos.%%%%
+Tú es incapaz de manipular armas o lanzar objetos.
+
+%%%%
 no armour mutation
 
-No puedes usar armadura.%%%%
+No puedes usar armadura.
+
+%%%%
 inability to train dodging mutation
 
-Tu habilidad Dodging es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad Dodging es 0 y no puedes entrenar la habilidad.
+
+%%%%
 inability to train armour mutation
 
-Tu habilidad Armour es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad Armour es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no air magic mutation
 
-Tu habilidad Air Magic es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad Air Magic es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no conjurations magic mutation
 
-Tu habilidad Conjurations es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad Conjurations es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no earth magic mutation
 
-Tu habilidad de Earth Magic es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad de Earth Magic es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no fire magic mutation
 
-Tu habilidad Fire Magic es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad Fire Magic es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no hexes magic mutation
 
-Tu habilidad Hexes es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad Hexes es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no ice magic mutation
 
-Tu habilidad de Ice Magic es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad de Ice Magic es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no necromancy magic mutation
 
-Tu habilidad Necromancy es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad Necromancy es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no alchemy magic mutation
 
-Tu habilidad Alchemy es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad Alchemy es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no summoning magic mutation
 
-Tu habilidad de Invocar es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad de Invocar es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no translocations magic mutation
 
-Tu habilidad de Translocaciones es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad de Translocaciones es 0 y no puedes entrenar la habilidad.
+
+%%%%
 no forgecraft magic mutation
 
-Tu habilidad de Forgecraft es 0 y no puedes entrenar la habilidad.%%%%
+Tu habilidad de Forgecraft es 0 y no puedes entrenar la habilidad.
+
+%%%%
 lethargy bane
 
 Cubre el terreno lentamente - moverse a nuevas posiciones le lleva un 30% más tiempo que
 normal. Esto no tiene efecto en otros tipos de acciones, como ataque o casting
-hechizos.%%%%
+hechizos.
+
+%%%%
 heatstroke bane
 
 Cuando tú está dañado por el fuego, tú tiene una alta oportunidad de ser retardado para un
 Longitud moderada del tiempo. Esta oportunidad se reduce por su nivel actual de fuego
-resistencia.%%%%
+resistencia.
+
+%%%%
 snow-blindness bane
 
 Cuando estás dañado por el frío, tienes una alta oportunidad de ser débil y ciego
 por un tiempo moderado. Esta oportunidad se reduce por su nivel actual
-Resistencia al frío.%%%%
+Resistencia al frío.
+
+%%%%
 electrospasm bane
 
 Cuando tú está dañado por la electricidad, tú tiene la oportunidad de llegar a su lugar
 e incapaz de moverse por un corto tiempo. Esta oportunidad se reduce por tu
-nivel actual de resistencia eléctrica.%%%%
+nivel actual de resistencia eléctrica.
+
+%%%%
 claustrophobia bane
 
 Tú sufre una pena por el daño y la exactitud de sus ataques y el poder de
 sus hechizos basados en el número de características sólidas que actualmente está adyacente.
-(-2 muertes y -10% potencia del hechizo por característica sólida.)%%%%
+(-2 muertes y -10% potencia del hechizo por característica sólida.)
+
+%%%%
 stumbling bane
 
 Su evasión se reduce en 25 en cualquier momento en que se movió o se esperó
-lugar sin hacer nada más.%%%%
+lugar sin hacer nada más.
+
+%%%%
 succour bane
 
 Cada vez que matas a un enemigo, todos los otros enemigos cercanos son curados para un grande
-fracción de la máxima salud de ese enemigo.%%%%
+fracción de la máxima salud de ese enemigo.
+
+%%%%
 multiplicity bane
 
 Los enemigos a la vista tienen una pequeña oportunidad cada vuelta para crear múltiples clones
 de ellos mismos. Estos clones son muy frágiles y reducen los daños con ataques
-y hechizos, pero no expirarán por su cuenta.%%%%
+y hechizos, pero no expirarán por su cuenta.
+
+%%%%
 dilettante bane
 
 Su habilidad con su habilidad de arma más alta (en el momento de afligirse por
 esta prohibición) se reduce en un 50% y su habilidad con sus dos habilidades más altas entre
-escuelas mágicas, invocaciones y evocaciones se reducen en un 25%.%%%%
+escuelas mágicas, invocaciones y evocaciones se reducen en un 25%.
+
+%%%%
 paradox bane
 
 Cada vez que ves a un monstruo, tiene la oportunidad de ser tocado por Paradox,
 darle la capacidad de utilizar el asalto múltiple como una habilidad natural (y un pequeño
-oportunidad de parpadear al azar después de hacerlo).%%%%
+oportunidad de parpadear al azar después de hacerlo).
+
+%%%%
 warding bane
 
 Grupos de enemigos que se encuentran pueden tener Warding, previniendo todos los daños
 tomaría de cualquier fuente que no esté actualmente adyacente a ellos (incluso
-nubes, si su creador es actualmente no-adyacente).%%%%
+nubes, si su creador es actualmente no-adyacente).
+
+%%%%
 hunted bane
 
 Cada vez que un enemigo convoca monstruos contra ti, generalmente aparecerán
 adyacente a tú en lugar de su citador. Su duración también aumenta y
-nunca perderán el rastro de su posición, no importa dónde huyas.%%%%
+nunca perderán el rastro de su posición, no importa dónde huyas.
+
+%%%%
 mortality bane
 
 Cuando tú está gravemente herido y solo, un segador puede venir a reclamarle. Estos segadores
@@ -1274,3 +1831,5 @@ que 14, será más lento. A mayor XL, pueden aparecer múltiples cosechadores
 una vez.
 
 Cuando se levante esta prohibición, todos los segadores convocados de esta manera desaparecerán inmediatamente.
+
+%%%%

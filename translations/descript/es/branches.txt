@@ -7,12 +7,14 @@ tipos de especies que huyeron del mundo y rehusaron la luz. No importa qué
 su origen, esta caverna profunda está llena de riquezas sin escuchar, así como con
 grandes peligros para cualquier intruso. Pocos han escapado vivos, y aún menos han mantenido
 un poco de sanidad suficiente para contar el cuento.
+
 %%%%
 Temple
 
 El Templo Ecuménico es un lugar de paz y refugio de la locura del
 mazmorra. Por lo general contiene altares a la mayoría de los dioses conocidos. Dioses que valoran
 exploración no concede piedad para explorar el Templo.
+
 %%%%
 Orcish Mines
 
@@ -20,6 +22,7 @@ Las Minas Orcish son el hogar de los orcos que se han asentado en el Dungeon, su
 aliados humanoides, y montones de oro recién mirado. Entrenando comerciantes que
 vender a todos los clientes ha establecido puestos comerciales entre los orcos y sus hermanos
 para hacer buen uso de ese oro.
+
 %%%%
 Elven Halls
 
@@ -27,6 +30,7 @@ Los Elven Halls son el hogar de los elfos profundos, una carrera que les dio la 
 el sol hace mucho tiempo. Sus pasillos están llenos de riquezas, pero una bienvenida mortal
 espera a cualquier ladrón. En su larga reclusión, los elfos profundos tienen
 hechicerías oscuras perfeccionadas de un poder que los orcos sólo pueden soñar con!
+
 %%%%
 Lair
 
@@ -36,6 +40,7 @@ en lugar de cortar, quemar o apuñalar.
 
 El Lair contiene las entradas de uno de los pantanos o los zapatos, uno de los
 Snake Pit o el Nido Araña, y a los Pits de Slime.
+
 %%%%
 Swamp
 
@@ -43,6 +48,7 @@ Un desierto pantanoso, el pantano está lleno de ooze, mucama, moscas y grandes
 esclavizando monstruos carnívoros.
 
 Una mazmorra cuenta con sólo una de las ramas del pantano y los zapatos.
+
 %%%%
 Shoals
 
@@ -51,6 +57,7 @@ mar aparentemente interminable. Los merfolk han llegado a su casa, junto a mucho
 criaturas marinas temidas.
 
 Una mazmorra cuenta con sólo una de las ramas Shoals y Swamp.
+
 %%%%
 Snake Pit
 
@@ -58,6 +65,7 @@ Los pasillos del Snake Pit son el hogar de todas las variedades de serpiente, y 
 habitada por una sociedad de poderosas nagas y salamandras.
 
 Una mazmorra cuenta con sólo una de las ramas de Snake Pit y Spider Nest.
+
 %%%%
 Spider Nest
 
@@ -65,6 +73,7 @@ Las cavernas desmoronadas en la web del Nido Araña están llenas de veneno
 artrópodos y surtidos espeluznantes.
 
 Una mazmorra cuenta con sólo una de las ramas de Spider Nest y Snake Pit.
+
 %%%%
 Slime Pits
 
@@ -72,6 +81,7 @@ Los Slime Pits son el reino amorfo de ácidos, gelatinas y delgados. Incluso el
 paredes gotean con ácido doloroso. Cualquier rastro de seres inteligentes ha sido
 disuelto. Sin embargo, hay rumores de grandes tesoros en el fondo, escondidos con seguridad
 en cámaras secretas sin entrada.
+
 %%%%
 Vaults
 
@@ -79,18 +89,21 @@ Se dice que los Vaults son el hogar de grandes tesoros y males sellados por igua
 origen conocido sólo a sus guardianes: la Orden Ironbound. Los intrusos enfrentan un
 organizada defensa de maniobras entrenadas, armas y arcana, construcciones animadas,
 aliados coaccionados, y bestias domesticadas, todo en causa común.
+
 %%%%
 Crypt
 
 El Crypt es un enorme depósito para los antiguos muertos. El aire es frío y
 fetid, las paredes frías y húmedas. Los huesos están extendidos liberalmente por todas partes, y
 cada ruido hace eco con preocupación, violando el silencio de la tumba.
+
 %%%%
 Tomb
 
 La Tumba de los Antiguos es un lugar de condenación, de horrores animados por la
 la necromancia más viles. La lista de los que han regresado de este lugar de puro
 la muerte es muy corta.
+
 %%%%
 Hell
 
@@ -98,6 +111,7 @@ El Vestibule del Infierno está custodiado por Geryon, junto con varios habitant
 cada uno de los infiernos ellos mismos.
 
 Los portales al Vestibule del Infierno se encuentran abundantemente en las profundidades.
+
 %%%%
 Dis
 
@@ -106,6 +120,7 @@ Aquellos que no pertenecen a los salones de Dis encontrarán la misma tierra mis
 oponiéndolos.
 
 La malicia de este equipo de metal corroe.
+
 %%%%
 Gehenna
 
@@ -113,6 +128,7 @@ Gehenna es un reino de lava, llamas y condenación. Los que se enfurecen
 fuego y azufre llovió sobre ellos.
 
 El humo acrid hace que los pergaminos no estén listos.
+
 %%%%
 Cocytus
 
@@ -120,6 +136,7 @@ Cocytus es un desperdicio desperdicio arrugado. Los intrusos encontrarán la mor
 vientos y habitantes helados de los desechos que impedían su progreso.
 
 Las frígidas pociones de congeales fríos.
+
 %%%%
 Tartarus
 
@@ -127,6 +144,7 @@ Tartarus es un mundo descompuesto. Con el tiempo, los muertos vivientes, demonio
 este lugar drena la vida de cualquiera que se atreva a entrar.
 
 La gran fuerza de los visitantes.
+
 %%%%
 Zot
 
@@ -135,6 +153,7 @@ locura, frenesí y lunático, que se ha bloqueado de forma segura contra el azar
 intrusos. Sólo los aventureros más dementes se atreverían a reunir lo necesario
 claves, romper el sello y penetrar más profundamente — todo en la vana esperanza de una fábula
 artefacto que nadie ha puesto los ojos en antes.
+
 %%%%
 Abyss
 
@@ -159,6 +178,7 @@ en capas más profundas.
 El tejido del abismo toma mayor aviso de los poderosos; no importa cómo
 llegan, los aventureros más experimentados se encontrarán dibujados más profundo
 dentro de la loca exposición de ese reino.
+
 %%%%
 Pandemonium
 
@@ -177,6 +197,7 @@ No menos de cinco runas de Zot se pueden encontrar en Pandemonium:
 • la runa mágica está custodiada por los poderes arcanos de Lom Lobon
 • la capa oscura está escondida en la sombra de Gloorx Vloq
 • la runa demoníaca existe en múltiples lugares, propiedad de señores menos famosos
+
 %%%%
 Ziggurat
 
@@ -192,6 +213,7 @@ en el fondo de cada ziggurat, otorgando acceso a un nuevo ziggurat a su vez. Tal
 también se dice que un artículo se encuentra en la parte inferior de la Tumba de los Antiguos. Cada uno
 tiempo un ziggurat es conquistado por salir de la planta final, después
 los ziggurats serán cada vez más peligrosos y lucrativos.
+
 %%%%
 Gauntlet
 
@@ -202,6 +224,7 @@ Al final espera un minotauro temible, guardando una gran manada de botín tomado
 los cuerpos de los aventureros tontos.
 
 Los telepuertos de larga distancia son imposibles en Gauntlets.
+
 %%%%
 Bazaar
 
@@ -209,6 +232,7 @@ Mientras algunos comerciantes se instalan en la mazmorra, otros viajan en carava
 lugar a lugar. Los bazares de estos comerciantes itinerantes cuentan con una serie de
 diferentes tiendas y a menudo tienen mejor stock que los sedentarios, a veces
 incluso en un trato.
+
 %%%%
 Trove
 
@@ -219,6 +243,7 @@ que quería tirar a través de ellos.
 
 Los elementos dentro de tales troves son probablemente útiles, pero ten cuidado: el mago es
 mucho tiempo muerto, e incluso mientras vivo nunca ofreció una garantía de devolución de dinero.
+
 %%%%
 Necropolis
 
@@ -230,6 +255,7 @@ de la muerte, ayudando a los visitantes a despedirse de los difuntos. Con el adv
 aventureros buscando el Orbo de Zot, estos reinos han sido reutilizados: tales
 los fantasmas están cegados por la rabia e imposible de controlar, así que ambos y sus
 las posesiones robadas están selladas en estos reinos de reconciliación.
+
 %%%%
 Sewer
 
@@ -240,6 +266,7 @@ criaturas peligrosas acechando a través del agua verde que huele mal
 uno al otro sin piedad. Los cuentos también aluden a objetos valiosos accidentalmente
 lavado en los túneles de drenaje, olvidado y dejado para crecer moho en el húmedo
 cavernas.
+
 %%%%
 Ossuary
 
@@ -247,12 +274,14 @@ El osario es una pequeña tumba que contiene los restos y bienes graves de algun
 parientes lejanos de los faraones, junto con los cadáveres de sus retenedores
 y animales domésticos. Sin duda está lleno de muchas trampas, y sus
 es poco probable que los habitantes sin muertos se sientan amables de saquear.
+
 %%%%
 Bailey
 
 El baile es la fortaleza ocupada y bien custodiada de un señor de guerra despiadado.
 Los tesoros dentro están protegidos por barreras físicas y grandes cantidades
 de guerreros humanoides bien armados.
+
 %%%%
 Ice Cave
 
@@ -262,6 +291,7 @@ entonces devuelve "cama glacial"; si no vuelve "caeva de hielo"; termina } es un
 con forma de hielo sólido y lleno de los ecos de aullidos bestiales. El intrincado
 esculturas y estatuas que una vez recubrieron sus muros han sido atormentadas y oscurecidas por
 siglos de derretimiento lento y refreezing.
+
 %%%%
 Volcano
 
@@ -269,6 +299,21 @@ Construido a partir de enormes bloques de obsidiana, las cámaras de esparcimien
 una vez han servido como un templo a alguna deidad extraña, o quizás la morada de
 un gigante de fuego poderoso. El aire brilla con calor opresivo, y el rugido aburrido
 del corazón del volcán nunca cesa.
+
+%%%%
+Gulch
+
+Como el Dungeon superior tiene su sistema de drenaje Sewer, también lo hacen las Bóvedas. Éstos
+gulches sirven como un espacio de contención para la basura acumulada, varios
+experimentos abandonados, plagas de arrastre desórdenes, y los particularmente rotos
+cadáveres de intrusos. Una gran cantidad de energía mutagénica emana de
+la escoria mística y las aguas mohosas que corren a través de ella, tal que incluso cruzar
+su umbral Will muta temporalmente nuevos invitados. Aún así, el bien conocido
+las defensas de las Bóvedas nunca desestimarían ningún frente de seguridad potencial: leve
+mantenimiento a través de guardias castigados manejan apenas suficiente dirección para enviar tales
+monstruosidades del gulch a cualquiera que se atrevería a tratar de extraer riquezas ocultas de
+tales cámaras sucias.
+
 %%%%
 Wizlab
 
@@ -279,11 +324,13 @@ los magos se han ido, pero muchos de sus laboratorios arcanos todavía existen, 
 con los resultados de sus experimentos. Aquellos dispuestos a explorar estos
 los laboratorios pueden encontrar poderosos tesoros mágicos, pero ser advertidos: cualquier mago
 capaz de construir tal reino merecía su reputación.
+
 %%%%
 Depths
 
 Las profundidades son la parte más profunda de la mazmorra propia, sujeta a la
 influencia corruptora del reino de Zot sin ser considerado parte de él.
+
 %%%%
 Desolation
 
@@ -294,11 +341,13 @@ cultos de los dioses muertos, sus construcciones heréticas, y los guardianes
 del legendario tesoro del culto aún permanece.
 
 # important note: the Twins were religion '2', as TSO is '1'. Not 'S'.
+
 %%%%
 Arena
 
 Los seguidores más favorecidos de Okawaru tienen acceso a la Arena a duelo
 contra sus enemigos.
+
 %%%%
 Crucible
 
@@ -307,3 +356,5 @@ detestado por igual están hechos para santificarse en sangre. Ningún mortal sa
 nunca eligieron venir aquí, y sin embargo incluso las víctimas de la mayor ira del Destructor
 se puede conceder un pasaje una vez más, si se elimina la mutilación igual a
 los torturadores demoníacos de este reino.
+
+%%%%

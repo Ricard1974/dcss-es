@@ -1,9 +1,4 @@
-
-################################################################################################################################################################################################################################################################
-#
-# Dungeon features
-#
-################################################################################################################################################################################################################################################################%%%%
+%%%%
 An opulent altar of Gozag
 
 Madre, me arrodí ante el oro,
@@ -15,13 +10,17 @@ ya sea doubloon o polvo,
 un poderoso caballero
 es Don Dinero.”
 -Francisco de Quevedo, Poderoso caballero es don Dinero . 1603.
-Trans. Christopher Johnson, 2009.%%%%
+Trans. Christopher Johnson, 2009.
+
+%%%%
 A broken pillar
 
 “Ahora Absalom en su vida había tomado y levantado para sí un pilar,
 que está en la presa del rey: porque él dijo: No tengo hijo que guarde mi nombre en
 recuerdo...”
-- Biblia RVA, 2 Samuel 18:18.%%%%
+- Biblia RVA, 2 Samuel 18:18.
+
+%%%%
 calcifying dust cloud
 
 “Hay sombra bajo esta roca roja,
@@ -30,17 +29,23 @@ Y te mostraré algo diferente de cualquiera
 Tu sombra en la mañana luchando detrás de ti
 O tu sombra en la noche se levanta para conocerte;
 Te mostraré miedo en un puñado de polvo”.
--T.S. Eliot, “The Waste Land”. 1922%%%%
+-T.S. Eliot, “The Waste Land”. 1922
+
+%%%%
 A crumbling gateway
 
-<Desolation>%%%%
+<Desolation>
+
+%%%%
 A faded altar of an unknown god
 
 Entonces Pablo estaba en medio de la colina de Marte, y dijo: Varones de Atenas, yo
 percibir que en todas las cosas sois demasiado supersticiosos. Porque mientras pasaba, y
 miré tus devociones, encontré un altar con esta inscripción, A LA NOCHE
 Dios.
--La Biblia RVA, Hechos 17:22-23.%%%%
+-La Biblia RVA, Hechos 17:22-23.
+
+%%%%
 A flagged portal
 
 “Hemos hecho una expedición;
@@ -52,17 +57,23 @@ Y mató a los hombres que lo sostuvieron.
 Los conocimos, y los atacamos:
 Lucharon duro para vencernos;
 Pero los conquistamos, y los matamos.”
--Thomas Love Peacock, “The War Song of Dinas Vawr”. 1829.%%%%
+-Thomas Love Peacock, “The War Song of Dinas Vawr”. 1829.
+
+%%%%
 A gateway back into the Dungeon
 
 ¡Oh Progenie del Cielo! ¡Trunos empíricos!
 Con razón tiene profundo silencio y demur
 Nos incautaron, aunque sin consternación. Largo es el camino
 Y duro, que fuera del infierno conduce a la luz.”
--John Milton, Paradise Lost . 1674 (2nd Ed.).%%%%
+-John Milton, Paradise Lost . 1674 (2nd Ed.).
+
+%%%%
 A gateway leading deeper into the Abyss.
 
-<Abyss>%%%%
+<Abyss>
+
+%%%%
 A gateway to Hell
 
 Soy el camino hacia la ciudad de woe.
@@ -77,15 +88,21 @@ Sólo esos elementos de tiempo no pueden usar
 Fui hecho delante de mí, y más allá del tiempo estoy de pie.
 Abandona toda esperanza, tú que entran aquí.
 -Dante Alighieri, La Divina Comedia , “Inferno”, Canto III. ca. 1315.
-Trans. John Ciardi, 1954.%%%%
+Trans. John Ciardi, 1954.
+
+%%%%
 A gateway to a ziggurat
 
 “Capitán: ¡Quítate cada ‘zig’!
 Capitán: Para una gran justicia.”
--Zero Wing. 1990.%%%%
+-Zero Wing. 1990.
+
+%%%%
 A gateway to the decaying netherworld of Tartarus
 
-<Tartarus>%%%%
+<Tartarus>
+
+%%%%
 A granite statue
 
 “Conocí a un viajero de una tierra antigua
@@ -102,7 +119,18 @@ Mi nombre es Ozymandias, rey de reyes:
 Nada aparte de los restos: alrededor de la decadencia
 De ese naufragio colosal, sin límites y desnudo,
 Las arenas solitarias y de nivel se extienden lejos”.
-- Percy Bysshe Shelley, “Ozymandias”. 1818.%%%%
+- Percy Bysshe Shelley, “Ozymandias”. 1818.
+
+%%%%
+A hide-covered altar of Uskayaw
+
+“Nos saltamos la luz fandango
+Carretillas giradas en el piso
+Me sentía mareada.
+Pero la multitud pidió más”
+-Procul Harum, “A Whiter Shade of Pale”. 1967.
+
+%%%%
 A one-way gate to the infinite horrors of the Abyss
 
 Y si miras por mucho tiempo en un abismo, el abismo mira también hacia ti.
@@ -114,7 +142,9 @@ llegar a otro lugar - si corriste muy rápido por mucho tiempo, como hemos estad
 todo el funcionamiento que puedes hacer, para mantenerte en el mismo lugar. Si quieres conseguir
 en algún otro lugar, debe correr al menos el doble de rápido que eso!
 -Lewis Carroll, a través del espejo, y lo que Alice encontró allí,
-ch. 2 “El jardín de las flores vivas”. 1871.%%%%
+ch. 2 “El jardín de las flores vivas”. 1871.
+
+%%%%
 The open sea
 
 “Me musé sobre el misterio de los peces, su extraña e insensata belleza, cómo –
@@ -131,7 +161,9 @@ no (así que reflexioné, paseando debajo de un cielo de nubes como azul y como 
 como las baldosas y el mármol del Altar del Cielo), que no hablen mejor
 de ‘el pez en el hombre’? ¿Y de ‘la ley del mar’? El mar, del cual ellos
 decir que vinimos...?”
--Avram Davidson, “Dagon”, 1959.%%%%
+-Avram Davidson, “Dagon”, 1959.
+
+%%%%
 A portal to a secret trove of treasure
 
 “Vio una gran caverna y una bóveda [roof], en altura igual a la estatura
@@ -146,7 +178,9 @@ sin medida o cuenta, algunos amontonados en el suelo y otros atados en
 bolsas y sacos de cuero. Al ver estos bienes y dineros en tal abundancia, Ali
 Baba determinó en su mente que no durante unos pocos años sino durante muchos
 los ladrones de generaciones deben haber almacenado sus ganancias y sus despojos en este lugar”.
-- Las noches árabes. Sir Richard F. Burton, 1885.%%%%
+- Las noches árabes. Sir Richard F. Burton, 1885.
+
+%%%%
 A portal to somewhere
 
 “El hoyo ahora estaba de unos tres metros de diámetro comenzando desde el dais –
@@ -157,7 +191,9 @@ en flores negras y las flores en lenguas plumas de gusanos amarillos gigantes
 acechando un desierto que explota. Era como si el mundo no pudiera
 inventar su mente lo que debe ser todavía. Mirando la escena por un momento dado
 me duele la cabeza, y cualquiera que lo mire por mucho tiempo seguramente se volvería loco”.
--Laurence Sí, Dragon War . 1992.%%%%
+-Laurence Sí, Dragon War . 1992.
+
+%%%%
 A rock wall
 
 “No sé si las leyes tienen razón,
@@ -166,7 +202,9 @@ Todo lo que sabemos quién miente en gaol
 Es que la pared es fuerte;
 Y que cada día es como un año,
 Un año cuyos días son largos”.
--Oscar Wilde, "El Ballad de la Lectura Gaol". 1898.%%%%
+-Oscar Wilde, "El Ballad de la Lectura Gaol". 1898.
+
+%%%%
 A sacrificial altar of Ru
 
 Entonces empecé a quitarme las manos. Los puse en el cajón superior. Me quité el mío.
@@ -174,7 +212,9 @@ pies y ponerlos en el armario, junto con mis piernas. Puse mi cabeza en una caja
 y colgó mi torso en un hanger. Luego salí del apartamento, subí
 arriba de las escaleras al techo. Abrí la puerta y salí a una hermosa
 prado verde.
-- Navegaciónes espaciales, “El francotirador”. 1995.%%%%
+- Navegaciónes espaciales, “El francotirador”. 1995.
+
+%%%%
 A shaft
 
 “La gracia, una mera molestia para el cristiano, era un terror para el Papa, Pagan y
@@ -183,44 +223,62 @@ peligros. Puede soltar un ratón por un eje de mina de mil yardas; y, en
 llegar a la parte inferior tiene un ligero shock y se aleja, siempre
 que el suelo es bastante suave. Una rata es asesinada, un hombre está roto, un
 Cabañas”.
--J.B.S. Haldane, “Sobre ser el tamaño adecuado”. Marzo de 1926.%%%%
+-J.B.S. Haldane, “Sobre ser el tamaño adecuado”. Marzo de 1926.
+
+%%%%
 A shimmering altar of Xom
 
 el sabio inclinó solemnemente su cabeza y habló:
 “realmente hay cero diferencia entre cosas buenas y malas.
 imbécil. maldito idiota
 -Wint, @dril Twitter. Junio 1, 2014
-# https://twitter.com/dril/status/473265809079693312/%%%%
+# https://twitter.com/dril/status/473265809079693312/
+
+%%%%
 A staircase leading out of the dungeon
 
 “No cesaremos de la exploración
 Y el fin de todos nuestros descubrimientos
 Llegaremos donde empezamos
 Y conocer el lugar por primera vez”.
--T.S. Eliot, "Little Gidding", Four Quartets . 1943.%%%%
+-T.S. Eliot, "Little Gidding", Four Quartets . 1943.
+
+%%%%
 A staircase to the Ecumenical Temple
 
-<Temple>%%%%
+<Temple>
+
+%%%%
 A staircase to the Elven Halls
 
-<Elven Halls>%%%%
+<Elven Halls>
+
+%%%%
 A staircase to the Orcish Mines
 
-<Orcish Mines>%%%%
+<Orcish Mines>
+
+%%%%
 A staircase to the Shoals
 
-<Shoals>%%%%
+<Shoals>
+
+%%%%
 A staircase to the Tomb
 
 “Una tumba ahora le basta para quien el mundo no era suficiente.”
--Alexander el epitafio del Grande.%%%%
+-Alexander el epitafio del Grande.
+
+%%%%
 A stormy altar of Qazlal
 
 “La tormenta lo impulsa irresistiblemente al futuro al que está su espalda
 se volvió, mientras el montón de escombros antes de que él crezca hacia el cielo. Esta tormenta es lo que
 llamamos progreso”.
 -Walter Benjamin, “Tesis sobre la filosofía de la historia”. 1940.
-Trans. Harry Zohn, 1969.%%%%
+Trans. Harry Zohn, 1969.
+
+%%%%
 A tree
 
 “Me gustan los árboles porque parecen más resignados a la forma en que tienen que vivir que
@@ -230,7 +288,9 @@ otras cosas sí.
 #
 # Las ramas de Dungeon
 #
-################################################################################################################################################################################################################################################################%%%%
+################################################################################################################################################################################################################################################################
+
+%%%%
 Abyss
 
 “Aquí en las zonas, ni siquiera sabías cuando tu médula ósea podría reservar una
@@ -247,7 +307,9 @@ dentro y fuera del gris olvidable. Cosas como ella, o Fern, o
 plank laberinto perdedor eran poco más que weird bugs a la mayoría de las entidades, un pintoresco
 curiosidad al mejor y más a menudo un parásito no deseado. Capas infinitas de
 la realidad, y todavía se sentía, de la peor manera, como si nunca se hubiera ido a casa”.
--Jonathan Wojcik, Awful Hospital . 2021.%%%%
+-Jonathan Wojcik, Awful Hospital . 2021.
+
+%%%%
 Desolation
 
 “En las minas de sal
@@ -278,7 +340,9 @@ voz
 un pito
 canción.”
 -Pablo Neruda, "Ode to Salt", 1957.
-Trans. Philip Levine, publicado 2013%%%%
+Trans. Philip Levine, publicado 2013
+
+%%%%
 Elven Halls
 
 “Los Elves son maravillosos. Provocan la maravilla.
@@ -291,14 +355,18 @@ La cosa de las palabras es que los significados pueden girar como una serpiente,
 querer encontrar serpientes buscarlas detrás de palabras que han cambiado su significado.
 Nadie dijo que los elfos son nice .
 Los elfos son bad .
-Terry Pratchett, señores y señoras, 1992.%%%%
+Terry Pratchett, señores y señoras, 1992.
+
+%%%%
 Orcish Mines
 
 “Cargas dieciséis toneladas, ¿qué obtienes?
 Otro día más viejo y más profundo en la deuda
 San Pedro no me llamas porque no puedo ir
 Le debo mi alma a la tienda de la compañía.
--Merle Travis, Dieciséis toneladas. 1946.%%%%
+-Merle Travis, Dieciséis toneladas. 1946.
+
+%%%%
 Shoals
 
 “Con frecuencia pienso en esa vieja metáfora, la que dice que todos somos islas en
@@ -313,19 +381,25 @@ Las palabras antiguas chocan contra mi mente como olas, me despiertan del sueño
 con sentimientos que no puedo entender completamente. Somos como islas. ¿Eso significa?
 ¿Estamos conectados? ¿Compartimos un origen común? O sólo el destino común
 hundiendo?
-- "El Mar reclamará todo". 2012.%%%%
+- "El Mar reclamará todo". 2012.
+
+%%%%
 Tartarus
 
 “Hay un tracto seco y solitario del infierno
 De todo el gloom común removido a lo lejos:
 Una tierra plana y triste es, donde están las sombras,
 ¿De quién es la herencia de mi versículo puede nunca decir.”
--Edward Arlington Robinson, “Supremacia”. 1897.%%%%
+-Edward Arlington Robinson, “Supremacia”. 1897.
+
+%%%%
 Temple
 
 Y oí una gran voz del templo que decía a los siete ángeles:
 vuestros caminos, y derramad las viales de la ira de Dios sobre la tierra.
--La Biblia RVA, Apocalipsis 16:1.%%%%
+-La Biblia RVA, Apocalipsis 16:1.
+
+%%%%
 Tomb
 
 “En las profundidades de cada corazón, hay una tumba y una mazmorra, aunque la
@@ -341,17 +415,23 @@ la hermandad del remordimiento no romper su cadena.”
 #
 # Spells and abilities
 #
-################################################################################################################################################################################################################################################################%%%%
+################################################################################################################################################################################################################################################################
+
+%%%%
 Agony spell
 
-<Curse of Agony spell>%%%%
+<Curse of Agony spell>
+
+%%%%
 Alistair's Walking Alembic spell
 
 A pesar de su apariencia inmutable, es ampliamente considerado el más popular de Alistair
 trabajo; innumerables variaciones de este hechizo se pueden encontrar en las bibliotecas superficiales,
 personalizado para preparar todo desde el pulido del suelo hasta la sopa vegetal. En el
 profundidades de la mazmorra, sin embargo, la mayoría de los magos favorecen la utilidad de combate de la
-iteración clásica.%%%%
+iteración clásica.
+
+%%%%
 Animate Dead spell
 
 Recordad, no estoy grabando la visión de un loco. El sol no hace más
@@ -361,39 +441,53 @@ y probable. Después de días y noches de increíble trabajo y fatiga, yo
 logrado descubrir la causa de la generación y la vida; no, más, me convertí en
 yo mismo capaz de dar animación sobre materia sin vida.”
 Mary Shelley, Frankenstein, o el Prometeo Moderno,
-Vol. I, Capítulo 3. 1818 (1o Ed.)%%%%
+Vol. I, Capítulo 3. 1818 (1o Ed.)
+
+%%%%
 Awaken Armour spell
 
 "Un herrero forma el corazón de su acero tanto como cualquier líder forma
 los corazones de sus soldados. Si esta armadura podría hablar, lo sé.
-diría que luchamos por la misma causa."%%%%
+diría que luchamos por la misma causa."
+
+%%%%
 Awaken Forest spell
 
 • Hel: ¡Infección! ¡Es mía!
 — Thor: ¡De un estremecimiento que tuvo luchando valientemente contra un elm!
 • Hel: ¡Los árboles son plantas inanimadas, buffoon!
 — Thor: ¡Bravery no sabe límites!
--Rich Burlew, Order of the Stick , #874.%%%%
+-Rich Burlew, Order of the Stick , #874.
+
+%%%%
 Banishment spell
 
 “Un inmenso río del olvido nos arrastra hacia un abismo sin nombre”.
--Ernest Renan, recuerdos%%%%
+-Ernest Renan, recuerdos
+
+%%%%
 Bat Form ability
 
 “Los murciélagos han dejado la torre de campana
 Las víctimas han sido desangrados”
--Bauhaus, “La muerte de Bela Lugosi”. 1979.%%%%
+-Bauhaus, “La muerte de Bela Lugosi”. 1979.
+
+%%%%
 Bend Time ability
 
 Es asombroso
 El tiempo es fugaz
 La locura lleva su peaje”
--Richard O'Brien, "Time Warp". 1975.%%%%
+-Richard O'Brien, "Time Warp". 1975.
+
+%%%%
 Brain Bite spell
 
 Hermana: Sé lo que quieres. Es rosa y es húmedo y está en mi cabeza. Y
 ahí es donde se queda”.
-- Enano Rojo, Psirens . 1993.%%%%
+- Enano Rojo, Psirens . 1993.
+
+%%%%
 Call Canine Familiar spell
 
 “Parecía una extraña quietud sobre todo. Pero como escuché, escuché
@@ -403,18 +497,24 @@ los ojos brillaron, y dijo.
 Escuchen, los hijos de la noche. ¡Qué música hacen! Ver, yo
 Supongo, una expresión en mi cara extraña para él, agregó, 'Ah, señor, tú
 los habitantes de la ciudad no pueden entrar en los sentimientos del cazador.’”
--Bram Stoker, Dracula . 1897.%%%%
+-Bram Stoker, Dracula . 1897.
+
+%%%%
 Cause Fear spell
 
 Y cuando Miranda cantó
 Todo el mundo se volvió
 Solían a la nariz, obedecían”
--El Marte Volta, "Miranda Ese Fantasma no es Santo Más". 2005.%%%%
+-El Marte Volta, "Miranda Ese Fantasma no es Santo Más". 2005.
+
+%%%%
 Chain Lightning spell
 
 “El problema no es que haya demasiados tontos,
 pero que el relámpago no está distribuido correctamente.”
--Atribuido tradicionalmente a Samuel Clemens.%%%%
+-Atribuido tradicionalmente a Samuel Clemens.
+
+%%%%
 Charm spell
 
 “Se levantó la mano, y todos se detuvieron, y pensé que parecía ser
@@ -423,7 +523,9 @@ a través de innumerables edades, si tú caerá y me adorará! Y luego un rojo
 la nube, como el color de la sangre, parecía cerrar sobre mis ojos, y antes que yo
 Sabía lo que estaba haciendo, me encontré abriendo la correa y diciéndole:
 ¡Entra, Señor y Maestro!
--Bram Stoker, Dracula . 1897.%%%%
+-Bram Stoker, Dracula . 1897.
+
+%%%%
 Corrupt ability
 
 “Me fumble a la ventana para experimentar el mundo
@@ -431,13 +533,17 @@ Y para escuchar a mi Madness cantando, sentado en el kerbstone
 [Un viejo borracho ciego que canta y murmura,
 Con tacones rotos de bota manchados en muchas tripas]
 Y mientras cantaba el mundo comenzó a desmoronarse . .
--T.S. Eliot, “Prufrock's Pervigilium”. 1912 (publicado 1996).%%%%
+-T.S. Eliot, “Prufrock's Pervigilium”. 1912 (publicado 1996).
+
+%%%%
 Curse of Agony spell
 
 "Insoportable, ¿no? El sufrimiento de los extraños, la agonía de los amigos. Ahí está.
 es una canción secreta en el centro del mundo, Joey, y su sonido es como
 navajas a través de la carne.”
--Cabeza, Hellraiser 3: El infierno en la Tierra . 1992.%%%%
+-Cabeza, Hellraiser 3: El infierno en la Tierra . 1992.
+
+%%%%
 Dragon's Call spell
 
 Aquí es donde fueron los dragones.
@@ -453,47 +559,72 @@ cada dragón es, de hecho, otro dragón.
 Podrían ponerte en mente una lata de sardinas, si pensaras sardinas
 eran enormes y escamosos, orgullosos y arrogantes.
 Y presumiblemente, en algún lugar, hay la llave.
-- Terry Pratchett, ¡Guardias! Guardias!. 1990.%%%%
+- Terry Pratchett, ¡Guardias! Guardias!. 1990.
+
+%%%%
 Duel ability
 
 DUEL, n. Una ceremonia formal preliminar para la reconciliación de dos enemigos.
 Una gran habilidad es necesaria para su observancia satisfactoria;
 a veces se producen las consecuencias más inesperadas y deplorables.
 Hace mucho tiempo, un hombre perdió su vida en un duelo.
--Ambrose Bierce, Diccionario del Diablo , 1906.%%%%
+-Ambrose Bierce, Diccionario del Diablo , 1906.
+
+%%%%
 Ensorcelled Hibernation spell
 
 “Sueños dulces están hechos de esto; ¿quién soy yo para no estar de acuerdo?”
--Eurítmica, “Sueños dulces (Are Hecho de Esto)”. 1983.%%%%
+-Eurítmica, “Sueños dulces (Are Hecho de Esto)”. 1983.
+
+%%%%
 Eringya's Surprising Crocodile spell
 
 Una leyenda popular dice que Eringya primero demostró este hechizo como
 remarcación de un debate particularmente armonioso sobre la conservación de los humedales,
-pero la mayoría de los eruditos modernos consideran este apócrifo.%%%%
+pero la mayoría de los eruditos modernos consideran este apócrifo.
+
+%%%%
 Fire Storm spell
 
 Algunos han dicho que no hay sutileza para la destrucción. ¿Sabes qué? Ellos son
 muerto.
--Jaya Ballard, majestad de tarea (Magic: the Gathering).%%%%
+-Jaya Ballard, majestad de tarea (Magic: the Gathering).
+
+%%%%
 Frozen Ramparts spell
 
 Y mientras cruzas la línea del círculo
 Bueno, la pared de hielo se arruga detrás
 Eres un conejo corriendo”
 
--Jethro Tull, “Skating Away (en el Hielo de un Nuevo Día)”. 1974.%%%%
+-Jethro Tull, “Skating Away (en el Hielo de un Nuevo Día)”. 1974.
+
+%%%%
 Irradiate spell
 
 "Reflexo en el cielo advierte que vas a morir
 Tormenta viniendo, será mejor que te escondas de la marea atómica
 Flashes en el cielo convierte casas en sties
 convierte a la gente en arcilla, las mentes de radiación decaen”
--Black Sabbath, "Electric Funeral". 1970.%%%%
+-Black Sabbath, "Electric Funeral". 1970.
+
+%%%%
 Iskenderun's Battlesphere spell
 
 Máximo 4: El apoyo aéreo cercano cubre una multitud de pecados.
 -Howard Tayler, The Seventy Maxims of Maximally Effective Mercenaries ,
-in Schlock Mercenary . 2008.%%%%
+in Schlock Mercenary . 2008.
+
+%%%%
+Launch Clockwork Bee spell
+
+“Según todas las leyes conocidas de la aviación, no hay manera de que una abeja pueda
+a Fly. Sus alas son demasiado pequeñas para sacar su pequeño cuerpo gordo del suelo.
+La abeja, por supuesto, vuela de todos modos, porque abejas no les importa lo que los humanos piensan
+es imposible”.
+- Película de abeja. 2007.
+
+%%%%
 Lee's Rapid Deconstruction spell
 
 “Y la casa estaba llena de hombres y mujeres; y todos los príncipes de los filisteos
@@ -512,7 +643,9 @@ Y Samson dijo: Déjame morir con los filisteos. Y se inclinó con
 todo su poder; y la casa cayó sobre los señores, y sobre todo el pueblo,
 estaban allí. Así que los muertos que mató a su muerte fueron más que los que
 lloró en su vida.”
--La Biblia RVA, Jueces 16:27-30.%%%%
+-La Biblia RVA, Jueces 16:27-30.
+
+%%%%
 Magic Dart spell
 
 “Wie die Mächtigen es schon seit jeher wissen,
@@ -526,18 +659,24 @@ Porque como buena persona, nunca serás tan astuto,
 Una flecha mágica que siempre golpea!]”
 -ASP, "Verwandlungen I-III". 2008
 
-# traducción por mí, nicolae%%%%
+# traducción por mí, nicolae
+
+%%%%
 Mass Confusion spell
 
 "Adelante, bajamos, y allí confunden su lenguaje, para que no puedan
 entender el discurso del otro. Así que Jehová los esparció de allí
 sobre la faz de toda la tierra; y se fueron para edificar la ciudad.
-- Biblia RVA, Génesis 11:7-8.%%%%
+- Biblia RVA, Génesis 11:7-8.
+
+%%%%
 Maxwell's Portable Piledriver spell
 
 Aunque originalmente diseñado para su uso en la construcción industrial,
 copycats fueron rápidos para descubrir una multitud de otros problemas que podrían ser
-resuelto moviendo un objeto a otro, muy, muy rápido.%%%%
+resuelto moviendo un objeto a otro, muy, muy rápido.
+
+%%%%
 Mephitic Cloud spell
 
 “Seit mehreren Jahren schon hatte die indische Cholera eine verstärkte
@@ -549,7 +688,9 @@ hatte die Seuche in ganz Hindustan andauernd und ungewöhnlich heftig
 gewütet, hatte östlich nach China, westlich nach Afghanistan und
 Persien übergegriffen und, den Hauptstraßen des Karawanenverkehrs
 folgend, ihre Schrecken bis Astrachan, ja selbst bis Moskau getragen.”
--Thomas Mann, Der Tod in Venedig , 1911.%%%%
+-Thomas Mann, Der Tod in Venedig , 1911.
+
+%%%%
 Mercury Arrow spell
 
 “Durante el curso del tratado, se permite que cada elemento reduzca su tiempo
@@ -559,17 +700,23 @@ anuncia que preside todos los seres que han venido antes
 los hace útiles a la humanidad. Sin Mercurio, los otros metales no tendrían
 (utilización) valor. Tal vez un asiento en el trono lo restringiera a un fijo
 posición de soberanía. Él reina, pero debe ser móvil.”
--Karen Pinkus, Mercurio Alquímico: Una Teoría de la Ambivalencia , 2009%%%%
+-Karen Pinkus, Mercurio Alquímico: Una Teoría de la Ambivalencia , 2009
+
+%%%%
 Nazja's Percussive Tempering spell
 
 Los eruditos consideraron durante mucho tiempo el martillo mero teatral para enmascarar el complejo
 magias de mejora estructural que deben sustentar este hechizo, y sin embargo cada
 tratar de eliminarlo del encantamiento ha causado que el hechizo pierda
-eficacia. Las implicaciones de esto siguen siendo muy debatidas.%%%%
+eficacia. Las implicaciones de esto siguen siendo muy debatidas.
+
+%%%%
 Passwall spell
 
 Dice que la mejor manera de salir es siempre pasada.
-- Robert Frost, A Servant to Servants . 1915.%%%%
+- Robert Frost, A Servant to Servants . 1915.
+
+%%%%
 Petrify spell
 
 Cualquier pose sostuvo calcifica demasiado tiempo.
@@ -578,7 +725,9 @@ Cualquier expresión que se mantenga lo suficiente se endurecerá en una máscar
 Y quién es el real nosotros
 ese exterior duro
 o el yo incierto suave que guardamos debajo?
--Dorothy Gambrell, Cat y Girl , 2011.%%%%
+-Dorothy Gambrell, Cat y Girl , 2011.
+
+%%%%
 Poison Arrow spell
 
 “Vi en un pasillo una flecha apuntando el camino y pensé que esto era inofensivo
@@ -586,7 +735,9 @@ símbolo había sido una vez una cosa de hierro, un proyectil ineludible y fatal
 traspasó la carne de hombres y leones y nubló el sol en Thermopylae y dio
 Harald Sigurdarson seis pies de tierra inglesa para siempre.”
 -Jorge Luis Borges, Mutations . 1960.
-Trans. Mildred Boyle%%%%
+Trans. Mildred Boyle
+
+%%%%
 Sacrifice Love ability
 
 “Todo lo relacionado en ellos que lleva referencia a mi origen acertado;
@@ -600,7 +751,9 @@ asegurándose, después de su propia imagen; pero mi forma es un tipo sucio de l
 horrible de su parecido. Satanás tenía a sus compañeros, compañeros demonios, a
 admirarlo y animarlo; pero soy solitario y detestado. ’”
 Mary Shelley, Frankenstein, o el Prometeo Moderno,
-Vol. II, Capítulo 7. 1818 (1o Ed.)%%%%
+Vol. II, Capítulo 7. 1818 (1o Ed.)
+
+%%%%
 Shatter spell
 
 “Y el pueblo gritó cuando los sacerdotes tocaron las trompetas; y vino a
@@ -610,7 +763,9 @@ en la ciudad, cada uno recto delante de él, y tomaron la ciudad.
 
 Y destruyeron completamente todo lo que había en la ciudad, tanto hombre como mujer, joven
 y viejo, y buey, y ovejas, y asno, con el filo de la espada.”
-- Biblia RVA, Josué 6:20-21.%%%%
+- Biblia RVA, Josué 6:20-21.
+
+%%%%
 Slimify ability
 
 “Rumack: comienza con una ligera fiebre y sequedad de la garganta. Cuando el
@@ -623,22 +778,30 @@ Una flatulencia incontrolable.
 [El olor comienza a pedo incontrolablemente]
 Rumack: Hasta que finalmente, el pobre bastardo se reduce a una pieza desperdiciada
 de jalea.
-¡Airplane! 1980.%%%%
+¡Airplane! 1980.
+
+%%%%
 Slouch ability
 
 “Recuerdo hacer el Warp del Tiempo
 Bebiendo esos momentos cuando
 La oscuridad me golpearía
 Y el vacío estaría llamando”
--Richard O'Brien, "Time Warp". 1975.%%%%
+-Richard O'Brien, "Time Warp". 1975.
+
+%%%%
 Spellspark Servitor spell
 
-<spellspark servitor>%%%%
+<spellspark servitor>
+
+%%%%
 Sticky Flame spell
 
 "Dale a un hombre un fuego y está caliente por un día, pero prende fuego a él y está caliente
 por el resto de su vida.”
-- Terry Pratchett, "Jingo". 1997.%%%%
+- Terry Pratchett, "Jingo". 1997.
+
+%%%%
 Step From Time ability
 
 “Es tan soñado
@@ -646,13 +809,17 @@ Oh, la fantasía me libre
 Así que no puedes verme.
 No, en absoluto
 En otra dimensión”
--Richard O'Brien, "Time Warp". 1975.%%%%
+-Richard O'Brien, "Time Warp". 1975.
+
+%%%%
 Summon Demon spell
 
 “Es ahora el momento de la noche muy brujo,
 Cuando los cementerios cantan y el infierno en sí mismo respira
 Contagión a este mundo”.
--William Shakespeare, La tragedia de Hamlet, Príncipe de Dinamarca , III, 2.%%%%
+-William Shakespeare, La tragedia de Hamlet, Príncipe de Dinamarca , III, 2.
+
+%%%%
 Summon Illusion spell
 
 “Soy sólo una copia de una copia de una copia
@@ -673,7 +840,9 @@ Una copia de una copia de una
 -Nine Inch Nails, "Copy Of A". 2013
 
 # Tristemente, las ilusiones de los jugadores no parecen trabajar con la base de datos, así que no puedo
-# asociar esta cita con las propias ilusiones del jugador.%%%%
+# asociar esta cita con las propias ilusiones del jugador.
+
+%%%%
 Summon Seismosaurus Egg spell
 
 Zoólogos consideraron famoso que este animal había sido extinto durante siglos
@@ -683,7 +852,9 @@ Ermitaño que finalmente había hecho caer el pelo del noble equivocado.
 Varias expediciones bien financiadas fueron lanzadas a raíz del descubrimiento, pero
 a pesar de (o quizás debido a) la competitividad a veces violenta estos
 naturalistas tenían para el otro, la ubicación de los anidajes de los lagartos
-permanece desconocido hasta hoy.%%%%
+permanece desconocido hasta hoy.
+
+%%%%
 Swiftness spell
 
 "JUST WALK OUT
@@ -701,13 +872,17 @@ amigos
 Si se caga... ¡HIT DA BRICKS!
 ganadores reales renunciar” [sic]
 -Admin, @dasharez0ne Twitter. 30 de marzo de 2018
-# https://twitter.com/dasharez0ne/status/979810839749210112/%%%%
+# https://twitter.com/dasharez0ne/status/979810839749210112/
+
+%%%%
 Temporal Distortion ability
 
 “Con un poco de voltereta mental
 Estás en el tiempo libre
 Y nada puede ser igual”
--Richard O'Brien, "Time Warp". 1975.%%%%
+-Richard O'Brien, "Time Warp". 1975.
+
+%%%%
 Waterstrike spell
 
 “Disolver el agua
@@ -724,38 +899,58 @@ En el fondo del océano”
 #
 # Items
 #
-################################################################################################################################################################################################################################################################%%%%
+################################################################################################################################################################################################################################################################
+
+%%%%
 acid dragon scales
 
-<steam dragon scales>%%%%
+<steam dragon scales>
+
+%%%%
 amulet
 
 "Gringoire puso su mano para la bolsa pequeña, pero ella volvió. No
 ¡Tócalo! Es un amuleto, y o tú hará mal al encanto, o
 te hará daño.’”
 -Victor Marie Hugo, Notre Dame de Paris , Libro II, capítulo VII “Una boda
-Noche. 1831.%%%%
+Noche. 1831.
+
+%%%%
 amulet of faith
 
-<amulet>%%%%
+<amulet>
+
+%%%%
 amulet of guardian spirit
 
-<amulet>%%%%
+<amulet>
+
+%%%%
 amulet of magic regeneration
 
-<amulet>%%%%
+<amulet>
+
+%%%%
 amulet of reflection
 
-<amulet>%%%%
+<amulet>
+
+%%%%
 amulet of regeneration
 
-<amulet>%%%%
+<amulet>
+
+%%%%
 amulet of the acrobat
 
-<amulet>%%%%
+<amulet>
+
+%%%%
 amulet of nothing
 
-<amulet>%%%%
+<amulet>
+
+%%%%
 animal skin
 
 “Mató al noble Mudjokivis.
@@ -769,7 +964,9 @@ Ponga el lado caliente de la piel lateral dentro.
 Por eso puso el lado de la piel dentro,
 ¿Por qué puso el lado de la piel afuera?
 Por qué los convirtió dentro de fuera.”
--Anónimo, en Wells' A Parody Anthology , p. 120. 1904.%%%%
+-Anónimo, en Wells' A Parody Anthology , p. 120. 1904.
+
+%%%%
 arbalest
 
 “(Tell entra con su ballesta)
@@ -785,7 +982,9 @@ Eso a menudo alató el agujero de mordida:
 Porque si vuelas sin éxito de mi mano,
 No tengo segundo que enviar después de ti.
 -Friedrich Schiller, Wilhelm Tell , IV, iii. 1804.
-Trans. Sir Theodore Martin, 1898.%%%%
+Trans. Sir Theodore Martin, 1898.
+
+%%%%
 bardiche
 
 “La república siempre mantiene siete o ocho mil tropas regulares en la
@@ -796,28 +995,36 @@ placas de estaño, y tienen bonnetes hechos de sentimiento sobre sus cabezas. El
 candados, y el bardiche, que dicen que es un arma muy buena.”
 -John Pinkerton, Una colección general de lo mejor y lo más interesante
 Viajes y Viajes en todas partes del Mundo, muchos de los cuales ahora son los primeros
-traducido al inglés. Digested on a New Plan . 1808.%%%%
+traducido al inglés. Digested on a New Plan . 1808.
+
+%%%%
 battleaxe
 
 “En las monedas de Carian, de hecho de fecha bastante tardía, los laboratorios, establecidos en su larga
 mango tipo pilar, con dos filetes dependientes, tiene mucho la apariencia de un
 imagen de culto.”
 -Sir Arthur John Evans, "Arbol y culto de pilares Mycenaean y su
-Relaciones mediterráneas", Journal of Hellenic Studies XXI, p. 109. 1901.%%%%
+Relaciones mediterráneas", Journal of Hellenic Studies XXI, p. 109. 1901.
+
+%%%%
 book
 
 “En hoja de palma, en rollo de sedge-wrought;
 En plástico de arcilla y pergamino de cuero,
 El hombre escribió sus pensamientos; las edades pasaron,
 ¡Y la prensa fue encontrada por fin!”
--John Greenleaf Whittier, The Library , st. 4.%%%%
+-John Greenleaf Whittier, The Library , st. 4.
+
+%%%%
 boomerang
 
 “El arma, lanzada a 20 o 30 metros de distancia, giraba alrededor en el aire con
 asombrosa velocidad, y alumbrando en el brazo derecho de uno de sus oponentes,
 en realidad rebotó a una distancia no menos de 70 o 80 yardas, dejando un
 horrible contusión detrás, y excitante admiración universal.”
-- The Sydney Gazette and New South Wales Advertiser, 23 de diciembre de 1804%%%%
+- The Sydney Gazette and New South Wales Advertiser, 23 de diciembre de 1804
+
+%%%%
 broad axe
 
 ¡Weapon, con forma, desnudo, wan!
@@ -826,7 +1033,9 @@ Carne de madera y hueso metálico! sólo uno, y el labio sólo uno!
 Hoja gris azul por trigo rojo crecido! helve producido de una pequeña semilla sembrada!
 Descansando la hierba entre y sobre,
 Ser inclinado, y apoyarse.”
--Walt Whitman, Song of the Broad-Axe , l. 1-6. 1867.%%%%
+-Walt Whitman, Song of the Broad-Axe , l. 1-6. 1867.
+
+%%%%
 buckler
 
 “Que quien presume su valentía en el campo,
@@ -838,16 +1047,22 @@ Una vida, que valour no podía, de la tumba.
 Un mejor billetero que pronto puedo recuperar;
 ¿Pero quién puede volver a tener otra vida?
 -Arquilochos. 7o. B.C.
-Trans. William H. Goodwin, 1878.%%%%
+Trans. William H. Goodwin, 1878.
+
+%%%%
 cloak of the Thief
 
 ¡Tanto tiempo apesta! reviso mi moto y creo una enorme nube de humo.
 cuando la nube se disipa, tumbado completamente muerto en el pavimento”
 -Wint, @dril Twitter. Julio 26, 2016
-# https://twitter.com/dril/status/757914951868485632/%%%%
+# https://twitter.com/dril/status/757914951868485632/
+
+%%%%
 chain mail
 
-<leather armour>%%%%
+<leather armour>
+
+%%%%
 cloak
 
 O Bello mi mujer, ¿por qué vuelas?
@@ -858,7 +1073,9 @@ Están revestidos de negro, verde, amarillo y azul,
 Hasta ahora por encima de su propio grado.
 Una vez en mi vida tomaré una vista;
 Porque tendré un nuevo manto sobre mí.
--Anónimo, “El viejo vestido”. Siglo XVI.%%%%
+-Anónimo, “El viejo vestido”. Siglo XVI.
+
+%%%%
 club
 
 “Siempre he querido el proverbio de África Occidental: ‘Habla suavemente y lleva un
@@ -866,7 +1083,9 @@ gran palo; va a ir lejos. Si no hubiera llevado el palo grande, el
 la organización no habría llegado detrás de mí, y si hubiera gritado y
 enrojecido, como Pankhurst y los lunáticos deshonestos similares deseados, me gustaría
 no han tenido diez votos.
-Theodore Roosevelt, en una carta a Henry L. Sprague. 26 de enero de 1900.%%%%
+Theodore Roosevelt, en una carta a Henry L. Sprague. 26 de enero de 1900.
+
+%%%%
 dagger
 
 Dibujó su daga, que era afilada,
@@ -878,19 +1097,25 @@ Eso cayó mal en su feit.
 ‘Ahora quédate, querida,’ lloró;
 Entonces estrangula a la daga hasta que su corazón,
 Y cayó despido a su lado.”
--Bala tradicional inglesa, “Señor Thomas y Fair Annet”, cerca de 1650.%%%%
+-Bala tradicional inglesa, “Señor Thomas y Fair Annet”, cerca de 1650.
+
+%%%%
 dark maul
 
 “Este calibre debería ser apropiado”.
 -prince Dajmiech, “Kajko y Kokosz: La batalla con Dajmiech”, Janusz
-Christa%%%%
+Christa
+
+%%%%
 demon blade
 
 “Quemadmodum gladius neminem occidit: occidentis telum est.”
 Una espada por sí misma no mata; es meramente el arma utilizada por el asesino.
 -Lucius Annaeus Seneca, Epistulae Morales ad Lucilium , Letter LXXXVII:
 Algunos argumentos a favor de la vida simple, l. 30. ca. 65 A.D.
-Trans. Richard Mott Gummere, 1917.%%%%
+Trans. Richard Mott Gummere, 1917.
+
+%%%%
 demon trident
 
 “En estas palabras comenzó, y miró—no su Sophia—no, ni un Circassian
@@ -899,7 +1124,9 @@ sin un vestido, en un turno que era algo del más grueso, y ninguno de los
 más limpio, se debe de igual manera con algún eflua odorífera, el producto de la
 el trabajo del día, con un tenedor en su mano, Molly Seagrim se acercó.”
 -Henry Fielding, The History of Tom Jones, a Foundling , Book V, ch. X.
-1749.%%%%
+1749.
+
+%%%%
 demon whip
 
 “Con un terrible clamor el Balrog cayó hacia delante, y su sombra se hundió y
@@ -907,25 +1134,35 @@ desapareció. Pero incluso cuando cayó, se desplomó su látigo, y las tangas l
 Curada sobre las rodillas del mago, arrastrandolo al borde. Se tambaleó, y
 cayó, agarrado vainmente a la piedra, y cayó en el abismo.
 -J.R.R. Tolkien, la beca del Ring. II, 5, “El puente de
-Khazad-dûm». 1954.%%%%
+Khazad-dûm». 1954.
+
+%%%%
 dire flail
 
 “¡Ah! ah! ah! rió a sus dos hombres, ‘cómo los villanos normandos serán humillados
 cuando ven el cráneo de su pervertido caballero golpeado por nuestro valiente campesino. ’”
-- Tales de la caballería; o, Perils by Flood and Field . 1830.%%%%
+- Tales de la caballería; o, Perils by Flood and Field . 1830.
+
+%%%%
 dreamdust necklace
 
-<dreamshard necklace>%%%%
+<dreamshard necklace>
+
+%%%%
 dreamshard necklace
 
 Nunca lo supe, nunca pensé,
 Tal dicha como esta podría llenarme con un amor divino,
 Me temo que me despertaré y encontraré que sólo estaba en mi mente,
 ¿Fue un sueño, o eres realmente mío?
-- ¿Fue un sueño? 1928.%%%%
+- ¿Fue un sueño? 1928.
+
+%%%%
 eudemon blade
 
-<demon blade>%%%%
+<demon blade>
+
+%%%%
 eveningstar
 
 “Se dice que ha sido el arma favorita del sacerdote normando, quien,
@@ -933,7 +1170,9 @@ objetando al derramamiento de sangre, no tenía escrúpulos sobre el desgarro
 cerebros.”
 -T. M. Allison, “La Flail y las Herramientas Amuebladas (de un histórico y
 literario)”, Archaeologia Aeliana , Third Series, vol. IV.
-1908.%%%%
+1908.
+
+%%%%
 eveningstar "Brilliance"
 
 “‘Pero tengo miedo de lo que es oscuro, urZah.’
@@ -945,7 +1184,9 @@ destruye a todos los seres, codicia toda energía. Es el mal.’
 
 El mal no existe, contestó urZah. El mal es desarmonía entre las existencias.
 Ahora ve, Gelfling, con tus preguntas. ’”
--A. C. H. Smith, Jim Henson’s “The Dark Crystal”: The Novelization . 1982.%%%%
+-A. C. H. Smith, Jim Henson’s “The Dark Crystal”: The Novelization . 1982.
+
+%%%%
 executioner's axe
 
 Bailó, y se vio obligada a bailar, para bailar en la noche oscura. Los zapatos
@@ -968,16 +1209,22 @@ Y le cortó un par de pies de madera, con muletas, y le enseñó un salmo,
 que los criminales siempre cantan; y ella besó la mano que había sostenido
 Hacha, y se fue a través de la vaina.
 -Hans Christian Andersen, "Los zapatos rojos", Nye Eventyr. Første Bind.
-Tredie Samling.%%%%
+Tredie Samling.
+
+%%%%
 falchion
 
 “He visto el día, con mi buen falchion mordido
 Los habría hecho saltar: ahora soy viejo,
 Y estas mismas cruces me malcrian.
--William Shakespeare, King Lear , V, iii. 1608.%%%%
+-William Shakespeare, King Lear , V, iii. 1608.
+
+%%%%
 fire dragon scales
 
-<steam dragon scales>%%%%
+<steam dragon scales>
+
+%%%%
 flail
 
 “Incluso después de forzar su camino, con gran esfuerzo y pérdida, a través de este doble
@@ -988,11 +1235,15 @@ flail de hierro, que juraron con fuerza prodigiosa. Ellos rara vez fallaron
 golpeó, y cuando lo hicieron, el flail se estrelló a través de casco, cráneo y
 todo.
 - James A. Wylie, La historia del protestantismo , vol. I, libro 3, cap. 15
-“John Huss y las guerras husitas”. 1878.%%%%
+“John Huss y las guerras husitas”. 1878.
+
+%%%%
 frozen axe "Frostbite"
 
 “La venganza es un plato mejor servido frío.”
--Klingon proverb, Star Trek II: The Wrath of Khan . 1982%%%%
+-Klingon proverb, Star Trek II: The Wrath of Khan . 1982
+
+%%%%
 giant club
 
 “Entonces el gyant le encadenó a luchar,
@@ -1001,12 +1252,16 @@ Y levantando su terrible club en Hight,
 Todos armados con estufas y granos nudos,
 Él pensó en el primer encuentro para haber matado.”
 -Edmund Spenser, The Faerie Queene , Libro I, "La leyenda del caballero de
-the Red Crosse”, Canto VIII, stanza vii, l. 55-9. 1590.%%%%
+the Red Crosse”, Canto VIII, stanza vii, l. 55-9. 1590.
+
+%%%%
 giant spiked club
 
 oni-ni-kanabō
 “oni con un club de hierro picado”
-- proverbio japonés que indica un poder abrumador%%%%
+- proverbio japonés que indica un poder abrumador
+
+%%%%
 glaive
 
 “Para conocer la longitud perfecta de su personal corto, o medio Pike, Forrest bil,
@@ -1021,10 +1276,14 @@ iust, las estaturas de todos los hombres, sin ningún obstáculo en todo vnto el
 pelea, porque en cualquier arma que azote las manos puede ser remado, y en libertie,
 para hacer el arma más pequeño o más corto en la lucha a su placer, un pie del
 staffe detrás de la mano más atrás no hace harme.
--George Silver, Paradoxes of Defence .1599.%%%%
+-George Silver, Paradoxes of Defence .1599.
+
+%%%%
 golden dragon scales
 
-<steam dragon scales>%%%%
+<steam dragon scales>
+
+%%%%
 gold piece
 
 “Aquí fue que los embajadores de los Samnitas, encontrándole nabos hirviendo
@@ -1033,16 +1292,22 @@ con este dicho; que él, que estaba contento con tal cena, no tenía necesidad
 oro; y que pensó que era más honorable conquistar a los que poseían
 el oro, que poseer el oro mismo.”
 -Plutarch, “Marcus Cato”, Lives . 75 DC.
-Trans. John Dryden, 1683.%%%%
+Trans. John Dryden, 1683.
+
+%%%%
 great mace
 
 Se levantará uno llamado Feridoun, que heredará tu trono
 y revertir tus fortunas, y golpearte con un mazo de cabeza de vaca.”
 -Firdausi, Shahnameh . ca. 1000 A.D.
-Trans. Helen Zimmern, 1883.%%%%
+Trans. Helen Zimmern, 1883.
+
+%%%%
 great sword
 
-<demon blade>%%%%
+<demon blade>
+
+%%%%
 halberd
 
 "Y Diarmid oh, Diarmid pereció en la lucha;
@@ -1051,7 +1316,9 @@ Sus colores fueron pisoteados: no tuvo oportunidad de vivir
 ¡Si el Señor Dios mismo estaba de pie!—
 ¡Och, ochone!
 James Clarence Mangan, adiós a Patrick Sarsfield, conde de Lucan.
-ca. 1840.%%%%
+ca. 1840.
+
+%%%%
 hammer
 
 El hammah que John Henry juró,
@@ -1059,14 +1326,18 @@ Pesó sobre nueve poun',
 Se rompió una costilla en el lado izquierdo,
 Y sus intrels cayeron en el bosque,
 Y sus intrels cayeron en el bosque."
--Onah L. Spencer, John Henry . A principios del 20%.%%%%
+-Onah L. Spencer, John Henry . A principios del 20%.
+
+%%%%
 hand axe
 
 “Lizzie Borden tomó un hacha
 Y le dio a su madre cuarenta muelles.
 Cuando vio lo que había hecho
 Ella dio a su padre cuarenta y uno.”
-- Una rima popular, después de 1893.%%%%
+- Una rima popular, después de 1893.
+
+%%%%
 hand cannon
 
 “No apunto con mi mano; el que apunta con su mano ha olvidado la cara de
@@ -1078,7 +1349,9 @@ Disparo con mi mente.
 No mato con mi arma; el que mata con su arma ha olvidado la cara de
 su padre.
 Mataré con mi corazón.
-—Stephen King, “The Dark Tower III: The Waste Lands”%%%%
+—Stephen King, “The Dark Tower III: The Waste Lands”
+
+%%%%
 horn of Geryon
 
 Entonces Josué reunió a los sacerdotes y dijo: Toma el Arca del Señor
@@ -1090,46 +1363,64 @@ Podrían. De repente, las paredes de Jericó colapsaron, y los israelitas
 cargado directamente en la ciudad y la capturó. Ellos destruyeron completamente
 todo en ella con sus espadas: hombres y mujeres, jóvenes y viejos, ganado,
 ovejas, cabras y burros.
--Josué 6:6,20-21, Traducción de Vida Nueva%%%%
+-Josué 6:6,20-21, Traducción de Vida Nueva
+
+%%%%
 ice dragon scales
 
-<steam dragon scales>%%%%
+<steam dragon scales>
+
+%%%%
 iron giant
 
 "Estás hecho de metal, pero tienes sentimientos, y piensas en cosas,
 y eso significa que tienes un alma. Y las almas no mueren."
-- El gigante de Hierro, 1999%%%%
+- El gigante de Hierro, 1999
+
+%%%%
 javelin
 
 Supongamos que encontró a su hermano en la cama con su esposa, y puso una jabalina
 a través de ambos, tú estarían justificados, y ellos expiarían por sus
 pecados, y ser recibido en el reino de Dios.”
--Brigham Young, Journal of Discourses , 3:247. 1856.%%%%
+-Brigham Young, Journal of Discourses , 3:247. 1856.
+
+%%%%
 kite shield
 
 “...porque el escudo puede ser tan importante para la victoria, como la espada o la lanza.”
-- Charles Darwin, “El origen de las especies”. 1859.%%%%
+- Charles Darwin, “El origen de las especies”. 1859.
+
+%%%%
 lajatang
 
 “Un arma que cae como sigue
 Mientras los copos de nieve caen sobre el páramo;
 Pero ejecuta la voluntad de un librero,
 Como el rayo hace la voluntad de Dios.”
--John Pierpont, "The Ballot". ca. 1850.%%%%
+-John Pierpont, "The Ballot". ca. 1850.
+
+%%%%
 large rock
 
 “Bueno, corro a la roca y escondo mi cara
 La roca gritó, sin escondite
 Aquí no hay escondite.
-- Negro espiritual. 19%.%%%%
+- Negro espiritual. 19%.
+
+%%%%
 tower shield
 
-<buckler>%%%%
+<buckler>
+
+%%%%
 leather armour
 
 “Nada puede Deformar la raza humana
 Como a la brazalete de hierro Armours”
--William Blake, “Auguries of Innocence”, 99-100. 1803.%%%%
+-William Blake, “Auguries of Innocence”, 99-100. 1803.
+
+%%%%
 long sword
 
 “Mientras estábamos en contacto con este gran ejército y sus terribles espadas
@@ -1144,24 +1435,32 @@ severamente. Luego se cortaron en su yegua, cortando su cabeza en el cuello para
 sólo colgó por la piel. El mare cayó muerto, y si sus camaradas montados tenían
 no venir al rescate de Moron, probablemente habría sido asesinado también.
 -Bernal Díaz del Castillo, La conquista de Nueva España . 1623.
-Trans. J.M.Cohen, 1963.%%%%
+Trans. J.M.Cohen, 1963.
+
+%%%%
 longbow
 
 "Robyn dobló un buen arco completo,
 Una flecha que se durmió en wyll;
 Golpeó a la orgullosa esposa.
 Sobre el terreno se quedó lleno todavía.”
-- A Gest of Robyn Hode Sexta Fytte, l. 120-123. ca. 1450.%%%%
+- A Gest of Robyn Hode Sexta Fytte, l. 120-123. ca. 1450.
+
+%%%%
 mace
 
 “[Mi plan] no propone llenar su vestíbulo con agentes de colonias asfixiantes,
 que requerirá la interposición de su mace en cada instante para mantener el
 paz entre ellos.”
--Edmund Burke, "On Conciliation with America", discurso en el Parlamento. 1775.%%%%
+-Edmund Burke, "On Conciliation with America", discurso en el Parlamento. 1775.
+
+%%%%
 manual
 
 “Los hombres tienen sus usos... pero no deben confundirse con vivir.”
-- Robert Fulghum%%%%
+- Robert Fulghum
+
+%%%%
 morningstar
 
 “Pequeño hizo entonces su pompa de ciruelas en lugar
@@ -1172,16 +1471,22 @@ En terrores de grava, cuando la mano del Briton
 Atraviese a través del timón y encabezar el mace picado;
 O arrancó sus pesos de hierro con la trituración.
 Que, donde cayeron, destruyeron.”
-- Robert Southey, Madoc . 1805.%%%%
+- Robert Southey, Madoc . 1805.
+
+%%%%
 morningstar "Eos"
 
 “Pero tan pronto apareció Dawn, el rosy-fingered, entonces reunió a la gente
 sobre el piro del glorioso Héctor.”
 -Homero, The Iliad , XXIV, 776.
-Trans. A. T. Murray, 1857.%%%%
+Trans. A. T. Murray, 1857.
+
+%%%%
 pearl dragon scales
 
-<steam dragon scales>%%%%
+<steam dragon scales>
+
+%%%%
 phantom mirror
 
 “Abajo ese extremo del pasillo, el espejo se agitaba, sombrecándonos. Nosotros
@@ -1190,7 +1495,9 @@ algo monstruoso sobre espejos. Fue entonces cuando Bioy recordó un dicho
 uno de los herejes de Uqbar: ‘Los espejos y la copulación son abominables,
 porque multiplican el número de la humanidad."
 -Jorge Luis Borges, Tlön, Uqbar, Orbis Tertius . 1947
-Trans. Andrew Hurley, 1998.%%%%
+Trans. Andrew Hurley, 1998.
+
+%%%%
 potion
 
 “Entonces yo le di, así que tutor de mi arte,
@@ -1200,7 +1507,9 @@ La forma de la muerte: mientras tanto, acudí a Romeo
 Que venga aquí como esta noche terrible,
 Para ayudar a sacarla de su tumba,
 Siendo el momento en que la fuerza de la poción debe cesar.”
--William Shakespeare, Romeo y Juliet %%%%
+-William Shakespeare, Romeo y Juliet
+
+%%%%
 potion of curing
 
 “Pero si cuando dices ‘whiskey’ te refieres al aceite de conversación,
@@ -1208,11 +1517,15 @@ el vino filosófico, la ale que se consume cuando buenos compañeros
 juntarse, que pone una canción en sus corazones y risas en
 sus labios, y el cálido resplandor de contentamiento en sus ojos...
 entonces ciertamente lo estoy por ello.”
--Noah S. Sweat, Jr. “Si por Whiskey”. 1952%%%%
+-Noah S. Sweat, Jr. “Si por Whiskey”. 1952
+
+%%%%
 potion of enlightenment
 
 Deja ir tu tetera terrenal. Entra en el vacío. Vacían y se convierten en viento”.
-- La leyenda de Korra. 2014%%%%
+- La leyenda de Korra. 2014
+
+%%%%
 potion of invisibility
 
 Nunca olvidaré ese amanecer, y el extraño horror de ver que mis manos
@@ -1223,7 +1536,9 @@ y las arterias se desvanecieron, se desvanecieron, y los nervios blancos fueron 
 mis dientes y me quedé allí hasta el final. Por fin sólo las puntas muertas de los
 las uñas se quedaron, pálidas y blancas, y la mancha marrón de algún ácido, sobre
 mis dedos.”
--H.G. Wells, The Invisible Man , Capítulo 20. 1897%%%%
+-H.G. Wells, The Invisible Man , Capítulo 20. 1897
+
+%%%%
 potion of lignification
 
 “Antes de que terminara su oración, torpor incautado
@@ -1233,7 +1548,9 @@ se convirtió en hojas móviles; sus brazos fueron cambiados
 para agitar ramas, y sus pies activos
 como las raíces de sujeción se abrocharon al suelo—
 su cara estaba escondida con hojas alrededor.”
--Ovid, Metamorphoses , Libro I:253-259, trans. Brookes Más. 1922%%%%
+-Ovid, Metamorphoses , Libro I:253-259, trans. Brookes Más. 1922
+
+%%%%
 potion of moonshine
 
 "Si cuando dices 'whiskey' quieres decir la cerveza del diablo, el veneno
@@ -1241,7 +1558,9 @@ flagelo, el monstruo sangriento, que contamina la inocencia, dethrones
 la razón, destruye el hogar, crea miseria y pobreza, sí,
 literalmente toma el pan de las bocas de los niños pequeños...
 entonces ciertamente estoy en contra”.
--Noah S. Sweat, Jr. “Si por Whiskey”. 1952%%%%
+-Noah S. Sweat, Jr. “Si por Whiskey”. 1952
+
+%%%%
 potion of resistance
 
 “¡Aha! ¿El destino jugará trucos sobre mí? ¿Los elementos pondrán conspiraciones contra mí?
@@ -1250,7 +1569,9 @@ sabrá lo que un hombre determinado puede hacer. No cederé. No voy a revolver
 un solo pie hacia atrás, y se verá si el hombre o la naturaleza es
 ten la mano superior!
 -Jules Verne, Viaje al Interior de la Tierra . 1864
-Trans. F.A. Malleson, 1877%%%%
+Trans. F.A. Malleson, 1877
+
+%%%%
 quarterstaff
 
 Entonces Robin desenganchó su cinturón,
@@ -1277,52 +1598,72 @@ Y llama por golpe que han tratado apresuradamente,
 Que duró dos horas y más;
 Que toda la madera sonó en cada golpe,
 Ellos asaltaron su trabajo tanto.
--Anónimo, “Robin Hood y el Tanner”.%%%%
+-Anónimo, “Robin Hood y el Tanner”.
+
+%%%%
 quick blade
 
 Ha desatado el fatídico relámpago de Su terrible espada rápida...
--Julia Ward Howe, “El himno de batalla de la República”. 1861.%%%%
+-Julia Ward Howe, “El himno de batalla de la República”. 1861.
+
+%%%%
 rapier
 
 ¿Quién fue el primero que forjó la espada mortal?
 De acero robusto su alma salvaje fue hecha...”
 - Albius Tibullus, Elegies I, xi. ca. 25 B.C.
-Trans. James Grainger, 1822.%%%%
+Trans. James Grainger, 1822.
+
+%%%%
 ring
 
 “Un anillo de oro y una paloma blanca de leche
 Son buenos regalos para ti,
 Y una cuerda hempen por tu propio amor
 Para colgar sobre un árbol.”
--Oscar Wilde, “Chanson”. 1881.%%%%
+-Oscar Wilde, “Chanson”. 1881.
+
+%%%%
 ring of the Octopus King
 
 “Una sirena que fancitaba a cantar,
 Lujuria usada en el Rey del pulpo.
 Su pretendiente,
 Intentó ser duro con ella,
-Pero no podía usar todos sus anillos%%%%
+Pero no podía usar todos sus anillos
+
+%%%%
 ring mail
 
-<leather armour>%%%%
+<leather armour>
+
+%%%%
 ring of dexterity
 
-<ring>%%%%
+<ring>
+
+%%%%
 ring of evasion
 
-<ring>%%%%
+<ring>
+
+%%%%
 ring of fire
 
 “El amor es una cosa ardiente
 Y hace un anillo ardiente”
--June Carter y Merle Kilgore, "Ring of Fire". 1963.%%%%
+-June Carter y Merle Kilgore, "Ring of Fire". 1963.
+
+%%%%
 ring of flight
 
 “Lo que más le sorprendió, sin embargo, fue la lógica de sus alas. Parecían
 tan natural en ese organismo completamente humano que no podía entender por qué
 otros hombres no los tenían también.
 -Gabriel García Márquez, Un hombre muy viejo con alas enormes . 1955.
-Trans. Gregory Rabassa. 1972%%%%
+Trans. Gregory Rabassa. 1972
+
+%%%%
 ring of ice
 
 “Algunos dicen que el mundo terminará en llamas;
@@ -1334,31 +1675,45 @@ Creo que sé lo suficiente de odio
 Decir eso para la destrucción de hielo
 También es genial
 Y sería suficiente.”
--Robert Frost, "Fire and Ice". 1920.%%%%
+-Robert Frost, "Fire and Ice". 1920.
+
+%%%%
 ring of intelligence
 
 “Hobbes: ¿Funcionó?
 Creo que sí.
 Ya me siento más inteligente”.
--Bill Watterson, Calvin y Hobbes . 19 de noviembre de 1993.%%%%
+-Bill Watterson, Calvin y Hobbes . 19 de noviembre de 1993.
+
+%%%%
 ring of magical power
 
-<ring>%%%%
+<ring>
+
+%%%%
 ring of poison resistance
 
 Buttercup: “Y pensar, todo ese tiempo fue tu copa la que fue envenenada.”
 Hombre en negro: “Los dos fueron envenenados. Pasé los últimos años construyendo
 una inmunidad para el polvo de iocane.”
-- La princesa Bride. 1987%%%%
+- La princesa Bride. 1987
+
+%%%%
 ring of positive energy
 
-<ring>%%%%
+<ring>
+
+%%%%
 ring of protection
 
-<ring>%%%%
+<ring>
+
+%%%%
 ring of protection from cold
 
-<ring>%%%%
+<ring>
+
+%%%%
 ring of protection from fire
 
 Y estos tres hombres, Sadrach, Mesach, y Abednego, cayeron atados al
@@ -1380,48 +1735,68 @@ Y los príncipes, gobernadores y capitanes, y los consejeros del rey, siendo
 reunidos, vieron a estos hombres, sobre cuyos cuerpos el fuego no tenía poder, ni
 era un pelo de su cabeza cantado, ni sus abrigos cambiaron, ni el
 el olor del fuego les había pasado.
--La Biblia RVA, Daniel 3:23-27.%%%%
+-La Biblia RVA, Daniel 3:23-27.
+
+%%%%
 ring of resist corrosion
 
-<ring>%%%%
+<ring>
+
+%%%%
 ring of see invisible
 
 Aquí está mi secreto. Es muy simple: Es sólo con el corazón que uno puede
 lo que es esencial es invisible para el ojo.”
--Antoine de Saint Exupéry, The Little Prince . 1943.%%%%
+-Antoine de Saint Exupéry, The Little Prince . 1943.
+
+%%%%
 ring of slaying
 
 “La vida es demasiado corta para ocuparse de la matanza de los muertos más que
 una vez.
-- Thomas Huxley%%%%
+- Thomas Huxley
+
+%%%%
 ring of stealth
 
 “Entonces como parte del juego
 Se olvidó por completo donde se había escondido.
 Y ella pasó el resto de su tiempo
 Tratando de encontrar las partes”
--Howard Jones, "Hide and Seek". 1984.%%%%
+-Howard Jones, "Hide and Seek". 1984.
+
+%%%%
 ring of strength
 
 “Lo que no nos mata nos hace más fuertes”.
-- Frank Nietzsche%%%%
+- Frank Nietzsche
+
+%%%%
 ring of willpower
 
 Soy, de hecho, un rey, porque sé gobernarme a mí mismo.
 -Pietro Aretino, carta al Sr. Agostino Ricchi, 10 de mayo de 1537. desde
 Las obras de Aretino, traducido al inglés del original italiano ,
-Trans. Samuel Putnam. 1926%%%%
+Trans. Samuel Putnam. 1926
+
+%%%%
 ring of wizardry
 
-<ring>%%%%
+<ring>
+
+%%%%
 robe
 
 CLEOPATRA: Dame mi bata, ponme mi corona;
 Anhelos inmortales en mí”
--William Shakespeare, Anthony & Cleopatra , V, ii. ca. 1605.%%%%
+-William Shakespeare, Anthony & Cleopatra , V, ii. ca. 1605.
+
+%%%%
 scale mail
 
-<leather armour>%%%%
+<leather armour>
+
+%%%%
 scimitar
 
 “El museo-cabinet y la enorme biblioteca se arrogaron a sí mismos todo lo inferior
@@ -1430,7 +1805,9 @@ la historia del siglo XIX; había scimitars de Nishapur, en
 cuyas crestas congeladas el viento y la violencia de la batalla parecían vivir
 en adelante.”
 -Jorge Luis Borges, La forma de la espada . 1953.
-Trans. Andrew Hurley.%%%%
+Trans. Andrew Hurley.
+
+%%%%
 scroll
 
 “A la deriva con toda pasión hasta mi alma
@@ -1439,7 +1816,9 @@ Es por esto que he dado
 Mi sabiduría antigua, y el control austero?
 Me parece que mi vida es un pergamino doble
 Se arrastró en unas vacaciones de niños”.
--Oscar Wilde, Helas . 1881.%%%%
+-Oscar Wilde, Helas . 1881.
+
+%%%%
 scroll of acquirement
 
 Había dejado de pensar. Acaba de repetir su letanía una y otra vez:
@@ -1452,17 +1831,25 @@ tomar de mí lo que es que quiero... no puede ser que quisiera algo
 ¡Mal! Maldita sea todo, no puedo pensar en nada, excepto esas palabras de su...
 ‘¡La felicidad para todo el mundo, GRATIS, Y nadie se quedará sin nada!’”
 -Arkady y Boris Strugatsky, “Roadside Picnic”. 1972.
-Trans. Antonina W. Bouis, 1977.%%%%
+Trans. Antonina W. Bouis, 1977.
+
+%%%%
 scroll of amnesia
 
 “Pero la venganza es hueca. Prefiero amnesia.
--Tera Lynn Childs%%%%
+-Tera Lynn Childs
+
+%%%%
 scroll of blinking
 
-<scroll>%%%%
+<scroll>
+
+%%%%
 scroll of brand weapon
 
-<scroll>%%%%
+<scroll>
+
+%%%%
 scroll of butterflies
 
 “Se pensaba que los acontecimientos que cambiaron el mundo eran cosas como
@@ -1473,25 +1860,35 @@ el mundo, según la teoría de Caos, son las pequeñas cosas. Una mariposa solap
 sus alas en la selva amazónica, y posteriormente una tormenta agita la mitad de
 Europa...”
 -Neil Gaiman y Terry Pratchett.
-Profecías de Agnes Nutter, Witch . 1990.%%%%
+Profecías de Agnes Nutter, Witch . 1990.
+
+%%%%
 scroll of enchant armour
 
-<scroll>%%%%
+<scroll>
+
+%%%%
 scroll of enchant weapon
 
-<scroll>%%%%
+<scroll>
+
+%%%%
 scroll of fear
 
 Voy a vengar mis lesiones: si no puedo inspirar amor, causaré miedo.
 Mary Shelley, Frankenstein, o el Prometeo Moderno,
-Vol. II, Capítulo 9. 1818 (1o Ed.)%%%%
+Vol. II, Capítulo 9. 1818 (1o Ed.)
+
+%%%%
 scroll of fog
 
 “Calvin: Yo solía odiar escribir asignaciones, pero ahora las disfruto. Me di cuenta
 que el propósito de escribir es inflar ideas débiles, pobres oscuros
 razonar e inhibir la claridad. Con un poco de práctica, escribir puede ser
 una niebla intimidante e impenetrable!”
-- Bill Watterson, Calvin y Hobbes. 11 de febrero de 1993.%%%%
+- Bill Watterson, Calvin y Hobbes. 11 de febrero de 1993.
+
+%%%%
 scroll of identify
 
 Esto, lo que es en sí mismo, y por sí mismo, según su propio
@@ -1500,10 +1897,14 @@ Esto, lo que es en sí mismo, y por sí mismo, según su propio
 este mundo, ¿y cuánto durará? Así debes examinar todo
 cosas, que se presentan a ti.”
 -Marcus Aurelius, Marcus Aurelius Antoninus - Sus meditaciones relativas
-himselfe , Libro VIII, X. trans. Meric Casaubon, 1634.%%%%
+himselfe , Libro VIII, X. trans. Meric Casaubon, 1634.
+
+%%%%
 scroll of immolation
 
-<scroll>%%%%
+<scroll>
+
+%%%%
 scroll of revelation
 
 “¡Qué cosa útil es un mapa de bolsillo!” Lo he señalado.
@@ -1520,7 +1921,9 @@ a la milla!
 ¡Dijeron que cubriría todo el país y apagaría la luz solar! Así que...
 usamos ahora el propio país, como su propio mapa, y le aseguro que lo hace
 Casi también. ’”
--Lewis Carroll, Sylvie y Bruno Concluded , Capítulo XI. 1895%%%%
+-Lewis Carroll, Sylvie y Bruno Concluded , Capítulo XI. 1895
+
+%%%%
 scroll of noise
 
 “La naturaleza del lugar donde se fundó la Biblioteca – un sanatorio se rumorea
@@ -1532,7 +1935,9 @@ miles de hojas de papel tonto con palabras aparentemente sin sentido,
 fonemas cerca de sonidos ondulados, gritos de furia y dolor en implacable
 sucesiones, fragmentos de oraciones y pleas dirigidas a Dios-conocido-quien.”
 -Giorgio de Maria, Los veinte días de Turín , 1975.
-Trans. Ramon Glazov, 2016%%%%
+Trans. Ramon Glazov, 2016
+
+%%%%
 scroll of silence
 
 Y en la luz desnuda vi
@@ -1544,12 +1949,16 @@ Esas voces nunca compartieron:
 Nadie se atrevió
 Trastorna el sonido
 De silencio”.
--Simon & Garfunkel, The Sound of Silence . 1964.%%%%
+-Simon & Garfunkel, The Sound of Silence . 1964.
+
+%%%%
 scroll of summoning
 
 Cuando asistió gloriosamente desde el cielo, apareció en el cielo, y desde
 te envía Tus arcángeles llamados a proclamar Tu temido tribunal.”
--John Milton, Paradise Lost , Libro III, 1667.%%%%
+-John Milton, Paradise Lost , Libro III, 1667.
+
+%%%%
 scroll of teleportation
 
 “Eiris sazun idisi
@@ -1568,13 +1977,19 @@ algunos impidieron un ejército,
 algunos desastrosos grilletes:
 Escapar de los bonos,
 huye del enemigo!]
-- Primer encantamiento de Merseburg, trans. Patricia Giangrosso, 2001%%%%
+- Primer encantamiento de Merseburg, trans. Patricia Giangrosso, 2001
+
+%%%%
 scroll of torment
 
-<scroll>%%%%
+<scroll>
+
+%%%%
 scroll of vulnerability
 
-<scroll>%%%%
+<scroll>
+
+%%%%
 scythe
 
 “Fue un instinto. Ilógico como relámpago llamativo y no duele. Cada día
@@ -1582,7 +1997,9 @@ El grano debe ser cortado. Tenía que cortarlo. ¿Por qué? Bueno, simplemente l
 Se rió del escalofrío en sus grandes manos. Entonces, silbido, se lo llevó a la
 campo de maduración y espera e hizo el trabajo. Se pensó un poco loco.
 Diablos, era un campo de trigo normal, ¿verdad?
--Ray Bradbury, The Scythe . 1943.%%%%
+-Ray Bradbury, The Scythe . 1943.
+
+%%%%
 shillelagh "Devastator"
 
 “¡Hurra! mis hijos, dice yo, mi shillelagh dejé volar.
@@ -1590,23 +2007,31 @@ Algunos chicos de Galway estaban allí, vieron que era un hobbling;
 Luego con un fuerte ‘¡hurrah!’ se unieron a mí en la fray.
 ¡Faugh-a-ballagh! ¡Despejen el camino! para el camino rocoso hacia Dublín!
 
--D.K. Gavan, Rocky Road to Dublin . 19th Century.%%%%
+-D.K. Gavan, Rocky Road to Dublin . 19th Century.
+
+%%%%
 shortbow
 
 Tú son los arcos de donde sus hijos como flechas vivas son enviados hacia adelante.
--Khalil Ghibran, The Prophet , “On Children”. 1923.%%%%
+-Khalil Ghibran, The Prophet , “On Children”. 1923.
+
+%%%%
 short sword
 
 ¿Quién fue el primero que forjó la espada mortal?
 De acero robusto su alma salvaje fue hecha”
 - Albius Tibullus, Elegies I, xi. ca. 25 B.C.
-Trans. James Grainger, 1822.%%%%
+Trans. James Grainger, 1822.
+
+%%%%
 sling
 
 Y David puso su mano en su bolsa, y tomó de allí una piedra, y la clavó, y
 hirió al Filisteo en su frente, que la piedra se hundió en su frente;
 y cayó sobre su rostro a la tierra.”
-- Biblia RVA, 1 Samuel 17:49.%%%%
+- Biblia RVA, 1 Samuel 17:49.
+
+%%%%
 greatsling "Punk"
 
 “Tres veces girando alrededor de su cabeza
@@ -1614,7 +2039,9 @@ La tanga llorón, Mezentius apuntó.
 Limpio a través de sus templos secuestró el plomo fundido,
 Y postrarse en el polvo, la joven galante estaba muerta.
 -Virgil, Aeneid 9
-Trans. E. Fairfax Taylor%%%%
+Trans. E. Fairfax Taylor
+
+%%%%
 giant club "Skullcrusher"
 
 “O reventó el sabroso montículo de Hero;
@@ -1636,13 +2063,17 @@ El receso gay de la sabiduría y de la sabiduría
 Y el anfitrión de la pasión, que nunca controlaría:
 ¿Puede todo santo, sabio o sofista alguna vez obrar,
 ¿La gente de esta torre solitaria, este reajuste de tenencia?
--Señor Byron, Childe Harold's Pilgrimage , Canto the Second, Stanzas V-VI%%%%
+-Señor Byron, Childe Harold's Pilgrimage , Canto the Second, Stanzas V-VI
+
+%%%%
 spear
 
 “El halberd es inferior a la lanza en el campo de batalla. Con la lanza
 puede tomar la iniciativa; el halberd es defensivo. En las manos de uno de dos
 hombres de igual capacidad, la lanza da un poco más de fuerza.”
--Miyamoto Musashi, el libro de cinco anillos. 1645.%%%%
+-Miyamoto Musashi, el libro de cinco anillos. 1645.
+
+%%%%
 staff
 
 “Bashō Osho dijo a sus discípulos: ‘Si tienes un personal, te daré un
@@ -1654,19 +2085,29 @@ Me ayuda a cruzar un río cuando el puente está abajo. Me acompaña
 el pueblo en una noche sin luna. Si lo llamas personal, entrarás en el infierno.
 como una flecha.
 - Mumon Ekai, The Gateless Gate , caso 44. 1228.
-Trans. Katsuki Sekida%%%%
+Trans. Katsuki Sekida
+
+%%%%
 staff of air
 
-<staff>%%%%
+<staff>
+
+%%%%
 staff of alchemy
 
-<staff>%%%%
+<staff>
+
+%%%%
 staff of cold
 
-<staff>%%%%
+<staff>
+
+%%%%
 staff of conjuration
 
-<staff>%%%%
+<staff>
+
+%%%%
 staff of necromancy
 
 Soy Aed Abaid de Ess Rúaid, es decir, el buen dios de la mago de la Tuatha
@@ -1688,10 +2129,14 @@ madre, y estamos compartiendo los tesoros de nuestro padre.
 Este gran personal que ves, dijo él, tiene un fin suave y un duro
 Fin. Un final mata a los vivos, y el otro extremo trae a los muertos a la vida. ’”
 -Osborn Bergin, “How the Dagda Got His Magic Staff”, Medieval Studies in
-Memoria de Gertrude Schoepperle Loomis . 1927.%%%%
+Memoria de Gertrude Schoepperle Loomis . 1927.
+
+%%%%
 staff of earth
 
-<staff>%%%%
+<staff>
+
+%%%%
 staff of fire
 
 El mago se acordó de repente de las palabras del dios. Se acordó de eso de todos
@@ -1701,13 +2146,17 @@ Temía que su hijo no meditara en este privilegio anormal y por algunos
 significa descubrir que era un mero simulacro. No ser un hombre, ser una proyección
 de los sueños de otro hombre - ¡qué humillación incomparable, qué locura!
 -Jorge Luis Borges, The Circular Ruins . 1940.
-Trans. Anthony Bonner, 1962.%%%%
+Trans. Anthony Bonner, 1962.
+
+%%%%
 steam dragon scales
 
 “Sus escamas son su orgullo, se cierran juntos como con un sello cercano. Uno es así.
 cerca de otro, que no hay aire entre ellos. Se unen a uno
 otro, se mantienen unidos, que no pueden ser sumergidos.”
-- Biblia RVA, Job 41:15-17.%%%%
+- Biblia RVA, Job 41:15-17.
+
+%%%%
 stone
 
 “Cuán feliz es la pequeña piedra
@@ -1720,10 +2169,14 @@ Y independiente como el Sol
 Asociados o brilla solos,
 Decreto absoluto de cumplimiento
 En la simplicidad casual —”
--Emily Dickinson, “Cuán feliz es la pequeña Piedra”. ca. 1865.%%%%
+-Emily Dickinson, “Cuán feliz es la pequeña Piedra”. ca. 1865.
+
+%%%%
 storm dragon scales
 
-<steam dragon scales>%%%%
+<steam dragon scales>
+
+%%%%
 storm talisman
 
 “Se dice que la tormenta causa
@@ -1732,10 +2185,14 @@ Cuidado con sus poderes, ten cuidado con sus poderes.
 Aunque su venida trae a los dioses su noche,
 Le obliga a una ara de sangre.
 Cuidado con su fin, ten cuidado con su fin.”
--Brandon Sanderson, “Palabras de radiación”.%%%%
+-Brandon Sanderson, “Palabras de radiación”.
+
+%%%%
 swamp dragon scales
 
-<steam dragon scales>%%%%
+<steam dragon scales>
+
+%%%%
 talisman of death
 
 “No cantes si quieres vivir mucho tiempo
@@ -1747,19 +2204,25 @@ Nunca tendrás una segunda oportunidad.
 Planifique todos sus movimientos con antelación
 Quédate muerto, quédate muerto.
 Quédate muerto y fuera de este mundo”
--Norma Tanega, “Estás muerto”. 1966%%%%
+-Norma Tanega, “Estás muerto”. 1966
+
+%%%%
 throwing net
 
 “La mirada de una cosa asustada
 ¡Sentado en una red!”
--Edna San Vicente Millay, “cuando el Año crece viejo”. 1917.%%%%
+-Edna San Vicente Millay, “cuando el Año crece viejo”. 1917.
+
+%%%%
 tower shield of Ignorance
 
 “No trates de subir por encima de él, es mejor abajo
 Cuando la vida pasa por ti, nunca sabrás
 Cuando todo es simple, es realmente sublime
 No trate de elevarse por encima de ella, debajo está bien”
--Daryl Hall & John Oates, “Ningún cerebro, sin dolor”. 1979.%%%%
+-Daryl Hall & John Oates, “Ningún cerebro, sin dolor”. 1979.
+
+%%%%
 trident
 
 “Sin notar las ocupaciones de un día o dos, que, como ellos
@@ -1769,15 +2232,21 @@ grado peculiar en Escocia, que puede llamarse una especie de caza de salmón.
 Esta persecución, en la que el pez es perseguido y golpeado con lanzas de púas, o una
 tipo de tridente largo, llamado una lavadora, se practica mucho en la boca
 de la Esk, y en los otros ríos salmones de Escocia.”
-- Señor Walter Scott, ¿qué tal.%%%%
+- Señor Walter Scott, ¿qué tal.
+
+%%%%
 triple crossbow
 
 “La energía puede ser asimilada a la curvatura de un arco cruzado;
 decisión, a la liberación de un gatillo.”
--Sun Tzu%%%%
+-Sun Tzu
+
+%%%%
 triple sword
 
-<demon blade>%%%%
+<demon blade>
+
+%%%%
 troll leather armour
 
 ¡Ahora, escucha, Príncipe Peer, y da paso a la razón!
@@ -1802,16 +2271,22 @@ Ni siquiera morir como un ser humano —
 Para terminar uno de los días como troll de las montañas —
 Nunca vuelvas, como me dices claramente:
 Eso es algo a lo que no me someteré.
-Henrik Ibsen, Peer Gynt, 1867.%%%%
+Henrik Ibsen, Peer Gynt, 1867.
+
+%%%%
 wand
 
 “[El principio de la selección] es la varita del mago, por medio de la cual puede
 Convocar a la vida cualquier forma y molde que desee.
 -William Youatt, Sheep: sus razas, gestión y enfermedades; a la cual
-se añade el Manual del Pastor de la Montaña , cap. III. 1837.%%%%
+se añade el Manual del Pastor de la Montaña , cap. III. 1837.
+
+%%%%
 wand of acid
 
-<wand>%%%%
+<wand>
+
+%%%%
 wand of charming
 
 “Pero no es el encanto como veneer, como facilitar ooze o unguent,
@@ -1826,47 +2301,71 @@ a través de innumerables edades, si tú caerá y me adorará! Y luego un rojo
 la nube, como el color de la sangre, parecía cerrar sobre mis ojos, y antes que yo
 Sabía lo que estaba haciendo, me encontré abriendo la correa y diciéndole:
 ¡Entra, Señor y Maestro!
--Bram Stoker, Dracula . 1897.%%%%
+-Bram Stoker, Dracula . 1897.
+
+%%%%
 wand of digging
 
 “Grandes agujeros en secreto están sucios donde los poros de la tierra deben bastar, y
 las cosas han aprendido a caminar que debe arrastrarse.”
--H.P. Lovecraft, “El Festival”. 1925%%%%
+-H.P. Lovecraft, “El Festival”. 1925
+
+%%%%
 wand of flame
 
-<wand>%%%%
+<wand>
+
+%%%%
 wand of iceblast
 
-<wand>%%%%
+<wand>
+
+%%%%
 wand of light
 
-<wand>%%%%
+<wand>
+
+%%%%
 wand of mindburst
 
-<wand>%%%%
+<wand>
+
+%%%%
 wand of paralysis
 
-<wand>%%%%
+<wand>
+
+%%%%
 wand of polymorph
 
 “Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in
 seinem Bett zu einem ungeheueren Ungeziefer verwandelt.”
--Franz Kafka, Die Verwandlung . 1915%%%%
+-Franz Kafka, Die Verwandlung . 1915
+
+%%%%
 wand of quicksilver
 
-<wand>%%%%
+<wand>
+
+%%%%
 wand of roots
 
-<wand>%%%%
+<wand>
+
+%%%%
 wand of warping
 
-<wand>%%%%
+<wand>
+
+%%%%
 war axe
 
 “‘Dios acelera el beso’, dijo Max, y Katie suspiró,
 Con las palmas llenas de oración cierran el sello, "¡Dios acelera el hacha!"
 -Isabella Valancey Crawford, "Malcolm's Katie: A Love Story", Parte I, Old
-Pase de espías, Katie de Malcolm y otros poemas. 1884.%%%%
+Pase de espías, Katie de Malcolm y otros poemas. 1884.
+
+%%%%
 whip
 
 “No con un Club, el Corazón está roto
@@ -1882,12 +2381,16 @@ Entonces es demasiado noble.
 #
 # Monstruos únicos
 #
-################################################################################################################################################################################################################################################################%%%%
+################################################################################################################################################################################################################################################################
+
+%%%%
 Aizul
 
 No fue hermoso correr salvajemente hasta que se quedó dormido
 ¿Antes de que los monstruos te atrapen?
--Taylor Swift, Innocent , 2010.%%%%
+-Taylor Swift, Innocent , 2010.
+
+%%%%
 Asterion
 
 “El hecho es que soy único. Lo que un hombre puede pasar a otros no
@@ -1895,7 +2398,9 @@ me interesa; como el filósofo, creo que nada es comunicado por el arte
 de escribir. La aniquilación y la minutia trivial no tienen lugar en mi espíritu, un espíritu
 lo que es receptivo sólo a todo es grande.”
 -Jorge Luis Borges, “La Casa de Asterión”. 1947.
-Trans. Antonios Sarhanis, 2008.%%%%
+Trans. Antonios Sarhanis, 2008.
+
+%%%%
 Antaeus
 
 “Ese país fue entonces gobernado por Antaeus, hijo de Poseidon, que solía matar
@@ -1909,7 +2414,9 @@ Trans. Sir James George Frazer, 1913.
 El capataz de la mina, llamado Antaeus,
 era un gigante obeso con una gruesa barba negra
 que realmente parecía sacar su fuerza de la Madre Tierra”.
--Primo Levi, "La Tabla Periódica". 1975.%%%%
+-Primo Levi, "La Tabla Periódica". 1975.
+
+%%%%
 Asmodeus
 
 “Para mí, tengo otras ocupaciones: hago partidos absurdos; me caso
@@ -1918,7 +2425,9 @@ amantes tiernos que no tienen ninguno. Soy yo quien introdujo en este lujo mundi
 libertinaje, juegos de azar y química. Soy el autor de la primera
 libro de cocina, el inventor de festivales, de baile, música, obras de teatro y del
 modas más nuevas; en una palabra, soy ASMODEUS, surnado el diablo en dos palos.”
--Alain René Le Sage, Asmodeus: O, The Devil on Two Sticks . 1707.%%%%
+-Alain René Le Sage, Asmodeus: O, The Devil on Two Sticks . 1707.
+
+%%%%
 Azrael
 
 Y Allah dijo:
@@ -1930,7 +2439,9 @@ y los corazones de los seres queridos dolor y angustia,
 cuando se niegan a los que aman.
 Así Azrael se convirtió en el mensajero de la muerte.”
 -J. E. Hanauer, Folk-lore of the Holy Land, Moslem, Christian and Jewish .
-1907.%%%%
+1907.
+
+%%%%
 Crazy Yiuf
 
 Había un Viejo con barba,
@@ -1938,7 +2449,9 @@ Había un Viejo con barba,
 Dos Owls y un Hen,
 Cuatro Larks y un Wren,
 ¡Han construido todos sus nidos en mi barba!”
--Edward Lear, A Book of Nonsense [No. 1] . 1846.%%%%
+-Edward Lear, A Book of Nonsense [No. 1] . 1846.
+
+%%%%
 Dispater
 
 “Hoc idem magis ostendit antiquius Iovis nomen: nam olim Diovis et Diespiter
@@ -1949,12 +2462,16 @@ Aelius Dium Fidium dadobat Diovis filium, ut Graeci Dioskopon Castorem, et
 putabat hunc esse Sancum ab Sabina lingua et Herculem a Graeca. Idem hic Dis
 pater dicitur infimus, qui est coniunctus terrae, ubi omnia ut oriuntur ita
 aboriuntur; quorum quod finis ortuum, Orcus dictus.”
--Marcus Terentius Varro, De Lingua Latina , Liber V, circa 40 a.C.%%%%
+-Marcus Terentius Varro, De Lingua Latina , Liber V, circa 40 a.C.
+
+%%%%
 Dowan
 
 “Skill y la gracia, el hermano gemelo y la hermana, están bailando juguetonamente en su
 puntas de dedo.”
--Rabindranath Tagore, Chitra , Act I, Escena iv. 1914.%%%%
+-Rabindranath Tagore, Chitra , Act I, Escena iv. 1914.
+
+%%%%
 Duvessa
 
 Dos hijos: la Chica, ella era sencilla;
@@ -1963,7 +2480,9 @@ El Hermano era guapo y vano.
 Padre dijo: ¡Mentira tus libros!
 La mejor belleza es criado en el cerebro.’”
 -Aesop " Walter Crane, El propio Aesop del bebé, 36: “Hermano " .
-1887.%%%%
+1887.
+
+%%%%
 Edmund
 
 “Y mi invención prosperó, Edmund la base
@@ -1975,14 +2494,18 @@ Dejar a los legítimos. Crezco; prospero.—
 combate único; pero Canute diciendo que él, un hombre de pequeña estatura, tendría
 pequeña oportunidad contra el alto atlético Edmund, propuso, por el contrario, para
 ellos para dividir el reino como sus padres habían hecho.”
--Thomas Keightley, The History of England . 1839.%%%%
+-Thomas Keightley, The History of England . 1839.
+
+%%%%
 Frederick
 
 “Desaprobé a fondo los duelos. Los considero insensatos y sé que son
 peligroso. También, pecaminoso. Si un hombre me desafiara, lo tomaría amablemente.
 y perdonar por la mano y llevarlo a un lugar tranquilo retirado y matar
 él.”
--Mark Twain, Autobiografía de Mark Twain . 1924.%%%%
+-Mark Twain, Autobiografía de Mark Twain . 1924.
+
+%%%%
 Geryon
 
 “Khrysaor, casado con Kallirhoe, hija de Okeanos gloriosos, era padre de
@@ -1991,7 +2514,9 @@ Herakles en Erytheis rodeado de mar junto a su propio ganado de afeitado ese dí
 cuando Herakles conducía ese ganado de cara amplia hacia Tiryns santos, cuando él
 cruzó el arroyo de Okeanos y había matado a Orthos y la Eurytion oxherd
 en el prado sombrío más allá de fabulosos Okeanos”.
--Hesiod, Theogony , cerca de 700 BCE.%%%%
+-Hesiod, Theogony , cerca de 700 BCE.
+
+%%%%
 Harold
 
 “Uno, bloqueas el objetivo
@@ -2003,25 +2528,33 @@ Atrapa al hombre.
 Atrapa al hombre.
 Estoy buscando a este hombre para venderlo a otros hombres
 Para venderlo a otros hombres a diez veces el precio al menos”
-—Front 242, “Headhunter”%%%%
+—Front 242, “Headhunter”
+
+%%%%
 Ilsuiw
 
 “Hemos permanecido en las cámaras del mar
 Por las chicas marinas coronadas con algas rojas y marrones
 Hasta que las voces humanas nos despierten, y nos ahogamos”.
--T.S. Eliot, The Love Song of J. Alfred Prufrock . lines 129-131. 1915.%%%%
+-T.S. Eliot, The Love Song of J. Alfred Prufrock . lines 129-131. 1915.
+
+%%%%
 Khufu
 
 “Y entonces miré más lejos, más allá de la línea pallida de las arenas, y vi una
 Pirámide de oro, la maravilla que Khufu había construido. Como una maravilla dorada me saludó,
 como una cosa de oro me saludó, como un milagro de oro lo recordaré.”
-- Robert Hichens, El discurso de Egipto . 1910.%%%%
+- Robert Hichens, El discurso de Egipto . 1910.
+
+%%%%
 Kirke
 
 "Lo, tus camaradas en la casa de Kirke están encerrados como cerdos en
 unos pantalones cortos. ¿Y has venido a liberarlos? Nay, te digo:
 No volverás tú mismo, sino que permanecerás allí con los otros.”
-- Homero, Odysseia%%%%
+- Homero, Odysseia
+
+%%%%
 Lernaean hydra
 
 “El segundo trabajo que emprendió fue el asesinato de la Hydra Lernaian,
@@ -2033,14 +2566,18 @@ una asistencia doble en su lugar. Contra una cosa tan difícil
 como este Herakles idea un ingenioso esquema y ordenó a Iolaos
 sear con una marca ardiente la parte que había sido cortada, para comprobar
 el flujo de la sangre.”
--Diodorus Siculus, Bibliotheca Historica . [4. 11. 5.]. c. 100.%%%%
+-Diodorus Siculus, Bibliotheca Historica . [4. 11. 5.]. c. 100.
+
+%%%%
 Lodul
 
 “Cat: Pero quién puede decir lo que vale una cosa.
 El mercado libre, supuestamente.
 ¿Qué price ponemos un soul ?
 Chica: $7.25 por hora.”
--Dorothy Gambrell, Cat y Girl , 2010.%%%%
+-Dorothy Gambrell, Cat y Girl , 2010.
+
+%%%%
 Mara
 
 “Esta noche el Señor de la Ilusión pasó entre vosotros, Mara, poderoso entre soñadores,
@@ -2056,7 +2593,9 @@ sus sentidos incontrolados, inmoderados en su comida,
 ociosa, y débil, Mara ciertamente lo derrochará,
 como el viento arroja un árbol débil.
 - El Buda, Dhammapada , 1:7.
-Trans. F. Max Muller%%%%
+Trans. F. Max Muller
+
+%%%%
 Maurice
 
 ¡Deténganse! ¡Detengan al ladrón! Hay una magia en el sonido. El comerciante sale
@@ -2067,7 +2606,9 @@ Away they run, pell-mell, helter-skelter, slap-dash: tearing, shouting,
 gritando, derribando a los pasajeros mientras giran las esquinas, excitando
 los perros, y asombro a las aves; y calles, plazas, y cortes, re-echo
 con el sonido.”
-- Charles Dickens, Oliver Twist. 1838.%%%%
+- Charles Dickens, Oliver Twist. 1838.
+
+%%%%
 Menkaure
 
 ¡Vosotros, hombres de Egipto, habéis oído a vuestro rey!
@@ -2076,11 +2617,15 @@ De los grandes dioses es llano; y vosotros debéis traer
 Ill actos, malas pasiones, celosos de cumplir
 Su placer, a sus pies; y segar su alabanza,
 La alabanza de los dioses, el rico alboroto! y la longitud de los días.”
--Mateo Arnold, Mycerinus %%%%
+-Mateo Arnold, Mycerinus
+
+%%%%
 Murray
 
 ¡Mira detrás de ti! ¡Un mono de tres cabezas!
--Piloto de tres maderas, El secreto de la isla de monos %%%%
+-Piloto de tres maderas, El secreto de la isla de monos
+
+%%%%
 Natasha
 
 “Es dooth appéere que hay en Cats como en todas las otras clases de bestias, una
@@ -2089,23 +2634,31 @@ tocando este Grimmalkin: tomo más bien ser un Hagat o un VVitch entonces un gat
 Porque las brujas han ido a menudo en semejantes, Y ha venido el prouerb
 como andar como común, que un gato tiene nueve lios, es decir, una bruja puede
 tomar sobre ella un cuerpo de gatos nueve veces.”
--William Baldwin, Cuidado con el gato, 1584%%%%
+-William Baldwin, Cuidado con el gato, 1584
+
+%%%%
 Nikola
 
 “Uno puede profetizar con la confianza de Daniel que los electricistas expertos
 resolver las batallas del futuro cercano.”
 -Nikola Tesla, “La transmisión de energía eléctrica sin cables Como
-Medios para promover la paz”, Electrical World and Engineer . 7 de enero de 1905.%%%%
+Medios para promover la paz”, Electrical World and Engineer . 7 de enero de 1905.
+
+%%%%
 Norris
 
 “La muerte y la muerte solo da sentido a la vida y este significado es enteramente
 negativo.
--Georges Poulet%%%%
+-Georges Poulet
+
+%%%%
 Parghit
 
 ¿Qué vas a hacer con ese gran bate? ¿Me vas a pegar? Mejor hazlo
 Cuenta. Mejor que duela. Mejor mátame en un tiro.”
-- Sr. Béisbol, @MisterBaseball5 Twitter. 2017%%%%
+- Sr. Béisbol, @MisterBaseball5 Twitter. 2017
+
+%%%%
 Polyphemus
 
 “... tan pronto como había terminado con todo su trabajo, se aferró dos más de
@@ -2114,7 +2667,9 @@ con la mayor facilidad, arrojó la piedra de la puerta y sacó sus ovejas,
 pero al mismo tiempo volvió a ponerlo de nuevo, tan fácilmente como si estuviera simplemente aplaudiendo
 la tapa a un perchero lleno de flechas.”
 -Homero, el libro IX.
-Trans. Samuel Butler, 1900.%%%%
+Trans. Samuel Butler, 1900.
+
+%%%%
 Prince Ribbit
 
 ¡Princesa! Princesa más joven!
@@ -2124,7 +2679,9 @@ Prince Ribbit
 ¿Ayer por las frías aguas de la fuente?
 ¡Princesa, princesa más joven!
 ¡Abre la puerta para mí!
--Hermanos Grimm (Margaret Hunt), El rey rana, o Iron Henry %%%%
+-Hermanos Grimm (Margaret Hunt), El rey rana, o Iron Henry
+
+%%%%
 Sigmund
 
 “Pero Sigmund le dio la vuelta, y dijo: ‘¿Qué te ha dicho, hijo?
@@ -2139,7 +2696,9 @@ Y las ramas florecientes del Branstock eran los árboles salvajes que se agitaba
 
 Así que dijo: "Bien visto, mi acogimiento; deja que el labio se desprenda".
 -William Morris, La historia de Sigurd el Volsung y la caída de la
-Niblungs . 1891.%%%%
+Niblungs . 1891.
+
+%%%%
 Tiamat
 
 Dice que Tiamat nuestra madre ha concebido un odio para nosotros,
@@ -2158,7 +2717,9 @@ Fierce monstruo-vipers ella vestida de terror,
 Con esplendor los despojó, los hizo de elevada estatura.
 Quien los mire, el terror lo venció,
 Sus cuerpos se levantaron y ninguno podía soportar su ataque”.
-Enuma Elish, Tercera Tabla. alrededor de 668 BCE.%%%%
+Enuma Elish, Tercera Tabla. alrededor de 668 BCE.
+
+%%%%
 Urug
 
 " Urug , desmoronado, caído por desmoronarse. Deslizándose, como tierra de un
@@ -2169,7 +2730,9 @@ materiales en una carretera. Un derribo.
 Ururugan , aparentemente una forma plural de 'Urug'. Para ir con varios hombres a
 cualquier trabajo. Para hacer la guerra, para atacar con un ejército. Para establecer en números, como
 iban a caer en las masas”.
--Jonathan Rigg, Diccionario del idioma Sunda de Java. 1862.%%%%
+-Jonathan Rigg, Diccionario del idioma Sunda de Java. 1862.
+
+%%%%
 Vv
 
 “Aparte del hombre se encuentra una mujer - de tipo. Su emulación del género humano es
@@ -2189,7 +2752,9 @@ Mírala. No quiere que la revulsión arruine el momento”.
 #
 # monstruos predeterminados
 #
-################################################################################################################################################################################################################################################################%%%%
+################################################################################################################################################################################################################################################################
+
+%%%%
 Cigotuvi's Monster
 
 “Miré el miserable, el monstruo miserable que tenía
@@ -2197,44 +2762,66 @@ creado. Él levantó la cortina de la cama; y sus ojos, si
 los ojos pueden ser llamados, fueron fijos en mí. Sus mandíbulas se abrieron,
 y murmuró algunos sonidos inarticulados, mientras una sonrisa
 arrugaba sus mejillas.”
-- Mary Shelley, Frankenstein . 1818.%%%%
+- Mary Shelley, Frankenstein . 1818.
+
+%%%%
 Cloud Mage
 
 Y cuando
 Su plan maestro no está acondicionado
 Hay una oferta apuesto
 En los sistemas meteorológicos del mundo”
--Andrew Bird, "Banking on a Myth". 2005.%%%%
+-Andrew Bird, "Banking on a Myth". 2005.
+
+%%%%
 ghost-faced bat
 
-<bat>%%%%
+<bat>
+
+%%%%
 giga bat
 
-<bat>%%%%
+<bat>
+
+%%%%
 ice bat
 
-<bat>%%%%
+<bat>
+
+%%%%
 mad acolyte of Lugonu
 
 “Y cuando miras mucho tiempo en un abismo, el abismo también te mira.”
--Friedrich Nietzche, “Beyond Good and Evil”. 1886.%%%%
+-Friedrich Nietzche, “Beyond Good and Evil”. 1886.
+
+%%%%
 microbat
 
-<bat>%%%%
+<bat>
+
+%%%%
 phase bat
 
-<bat>%%%%
+<bat>
+
+%%%%
 rotten bat
 
-<bat>%%%%
+<bat>
+
+%%%%
 skeletal bat
 
-<bat>%%%%
+<bat>
+
+%%%%
 spriggan baker
 
 ¡Blood, sudor y té, hermana! Eso es lo que se necesita para lograr todo grande y
 cosas terribles.
--Emory R. Frie, Wonderland . 2016.%%%%
+-Emory R. Frie, Wonderland . 2016.
+
+%%%%
 witch
 
 No sufrirás a una bruja para vivir.
@@ -2243,7 +2830,9 @@ No sufrirás a una bruja para vivir.
 #
 # Monster glyphs
 #
-################################################################################################################################################################################################################################################################%%%%
+################################################################################################################################################################################################################################################################
+
+%%%%
 __c_suffix
 
 “Cuando Peleus, a cierta distancia, lo vio desgarrado por la herida espantosa,
@@ -2256,7 +2845,9 @@ su voluntad: herido, se levantó a su enemigo y golpeó al héroe con su
 Hooves. Peleus recibió los golpes resonantes en el casco y el escudo, y
 defendiendo sus brazos superiores, y controlando el arma que mantenía, con uno
 golpeó el brazo y atravesó el pecho biforme.
--Ovid, Metamorphoses , XII, 330. 8 AD.%%%%
+-Ovid, Metamorphoses , XII, 330. 8 AD.
+
+%%%%
 __d_suffix
 
 ¡Trogdor era un hombre!
@@ -2264,16 +2855,29 @@ __d_suffix
 O... tal vez era sólo un dragón.
 ...
 ¡Y el Trogdor viene por la noche!”
-- Los Hermanos Chaps, "Trogdor". 2003.%%%%
+- Los Hermanos Chaps, "Trogdor". 2003.
+
+%%%%
 __q_suffix
 
-■ d suffix%%%%
+■ d suffix
+
+%%%%
 __r_suffix
 
 HAMLET [trayendo su espada.]: ¡Cómo ahora! ¿Una rata? Muerto, para un ducado, muerto
 [Stabs through the arras.]
 -William Shakespeare, La tragedia de Hamlet, Príncipe de Dinamarca , III, 4.
-1603.%%%%
+1603.
+
+%%%%
+__s_suffix
+
+“Ere the worm pierce your winding-sheet, ere the spider
+ Make a thin curtain for your epitaphs.”
+    - John Webster, _The White Devil_, V, 6. 1612.
+
+%%%%
 __cap-D_suffix
 
 Por otro lado, Confucio está hecho para decirle a sus discípulos: Sé cómo
@@ -2296,13 +2900,17 @@ Lo que lo hizo alrededor del ambiente.”
 - Un excelente balada de un combate más terrible, luchado entre Moore de
 Moore-Hall, y el Dragón de Wantley”, retratado por Ambrose Philips, A
 Colección de baladas antiguas. Corregido de las mejores y más antiguas copias
-Extant. Con Introducción históricas, críticas, o Humorous . 1723.%%%%
+Extant. Con Introducción históricas, críticas, o Humorous . 1723.
+
+%%%%
 __cap-K_suffix
 
 “Las Partes Septentrionall están con estos Sp'ryts Mucho perseguido.. Sobre el
 lugares donde cavan para Oare. Los griegos y alemanes los llaman Cobali”.
 -Thomas Heywood, La Jerarquía de los Santos Ángeles , Libro IX, l. 568.
-1635.%%%%
+1635.
+
+%%%%
 __cap-S_suffix
 
 Este último vivía en el país, y antes de su casa había un roble,
@@ -2319,7 +2927,9 @@ Trans. Sir James George Frazer, 1913.
 Estudió mi piso de cámara,
 En función como el gusano antes,
 Pero sonó con poder.”
--Emily Dickinson, “En invierno en mi habitación”. alrededor de 1860.%%%%
+-Emily Dickinson, “En invierno en mi habitación”. alrededor de 1860.
+
+%%%%
 __cap-T_suffix
 
 “Buckshank bold y Elfinstone,
@@ -2336,12 +2946,16 @@ Un soldado ha arrastrado allí.
 #
 # Los monstruos no únicos
 #
-################################################################################################################################################################################################################################################################%%%%
+################################################################################################################################################################################################################################################################
+
+%%%%
 adder
 
 ADDER, n. Una especie de serpiente. Llamada por su hábito de agregar exenciones funerarias
 a los otros gastos de vida.
--Ambrose Bierce, Diccionario del Diablo , 1906.%%%%
+-Ambrose Bierce, Diccionario del Diablo , 1906.
+
+%%%%
 alderking
 
 “Mi padre, mi padre, me toma rápido,
@@ -2352,21 +2966,29 @@ Comprende en sus brazos al pobre niño estremecedor;
 Alcanza su patio con trabajo y con miedo,
 El niño en sus brazos encuentra inmóvil, muerto”.
 -Johann Wolfgang von Goethe, Erlkönig , 1782.
-Trans. Edgar Bowring, 1853.%%%%
+Trans. Edgar Bowring, 1853.
+
+%%%%
 alligator
 
 “Los caimanes cometen errores de dieta”.
 -Bennet Bowler, M.D., Contribuciones a la historia natural de la
 Alligator, (Crocodilus Mississipiensis), con una Adición Microscópica ,
-p. 17. 1846.%%%%
+p. 17. 1846.
+
+%%%%
 apocalypse crab
 
 “Debería haber sido un par de garras ragged
 recorriendo los suelos de mares silenciosos”.
--T.S. Eliot, The Love Song of J. Alfred Prufrock . 1915.%%%%
+-T.S. Eliot, The Love Song of J. Alfred Prufrock . 1915.
+
+%%%%
 arcanist
 
-<occultist>%%%%
+<occultist>
+
+%%%%
 basilisk
 
 “Sé como el Basilisk imperial
@@ -2377,7 +2999,9 @@ No temas, pero la mirada—para los hombres libres crecen más poderosos,
 Y los esclavos más débiles, mirando a su enemigo:
 Si la esperanza, y la verdad, y la justicia pueden valer,
 Serás grande, ¡Todo el granizo!
-- Percy Bysshe Shelley, “Posthumous Poems”. 1824.%%%%
+- Percy Bysshe Shelley, “Posthumous Poems”. 1824.
+
+%%%%
 bat
 
 “El sol estaba puesto; la noche vino en apacio,
@@ -2388,7 +3012,9 @@ Y el rosca rosca que canta sus horribles dirges.
 
 “Llegó el bate
 Su claustro huía”.
--William Shakespeare, Macbeth , III, 2, línea 40. 1605.%%%%
+-William Shakespeare, Macbeth , III, 2, línea 40. 1605.
+
+%%%%
 battlesphere
 
 Soy tu único amigo
@@ -2396,7 +3022,9 @@ No soy tu único amigo.
 Pero soy un pequeño amigo brillante
 Pero realmente no soy tu amigo
 Pero yo soy
-- Podrían ser Gigantes, "Birdhouse in Your Soul". 1989.%%%%
+- Podrían ser Gigantes, "Birdhouse in Your Soul". 1989.
+
+%%%%
 bes kemwar
 
 # preferiría un pasaje más prose-like traduciendo Bes Hyang Dney o
@@ -2411,7 +3039,9 @@ También se sabe que los espíritus viven en troncos de árboles podridos y se a
 que se acerca al árbol caído será mordido en la pierna por el espíritu, causando
 enrojecimiento, inflamación y picazón. Todas las uñas se caen, pero la hinchazón
 se han ido dos o tres meses.
-- Un libro de criaturas, 2020.%%%%
+- Un libro de criaturas, 2020.
+
+%%%%
 boggart
 
 “Cree que cada arbusto es un boggart.”
@@ -2426,7 +3056,9 @@ el padre se siente más agudo que el del maltrato de su descendencia, el
 sentimientos del padre y más particularmente de su buena dama, eran diarios, ay,
 y de noche, aborrecido por la malicia de este maligno e invisible
 boggart.
--C.J.T., Folk-lore and Legends: English 1890.%%%%
+-C.J.T., Folk-lore and Legends: English 1890.
+
+%%%%
 bullfrog
 
 “Hola, mi bebé
@@ -2442,24 +3074,32 @@ Entonces te quedarás solo.
 
 Oh bebé, teléfono
 Y dime que soy tuyo.
-- Ida Emerson y Joseph E. Howard, “¡Hola mi bebé!”%%%%
+- Ida Emerson y Joseph E. Howard, “¡Hola mi bebé!”
+
+%%%%
 bush
 
 “Y el ángel de Jehová se le apareció en una llama de fuego,
 en medio de un arbusto; y miró, y he aquí el monte quemó con fuego, y
 el arbusto no fue consumido.
-- La Biblia RVA, Éxodo 3:2.%%%%
+- La Biblia RVA, Éxodo 3:2.
+
+%%%%
 butterfly
 
 “La felicidad es una mariposa, que cuando se persigue, siempre está más allá de tu
 agarrar, pero que, si te sientas tranquilamente, puede iluminarte.”
-- Nathaniel Hawthorne%%%%
+- Nathaniel Hawthorne
+
+%%%%
 cacodemon
 
 “Lo llamaremos Cacodemon, con su Gib negro allí, su Succuba, su Diablo
 Semilla, su Gancho de Phlegethon, que mi Consiencia fue criado o’ la Espuma de
 Cocito”.
--John Fletcher, El Caballero de Malta . 1647.%%%%
+-John Fletcher, El Caballero de Malta . 1647.
+
+%%%%
 catoblepas
 
 Así que pasó a la isla, llevando consigo a los dos hermanos
@@ -2474,7 +3114,9 @@ furia venenosa del combate. Su empresa era una Catoblepta, que tanto tiempo mien
 muerto como la luna (donde tiene una simpatía tan natural) quiere su luz. El
 palabra significada, que la luna no quería la luz, pero la bestia pobre quería
 la luz de la luna.
--Señor Philip Sidney%%%%
+-Señor Philip Sidney
+
+%%%%
 cherub
 
 La gloria de Jehová se levantó del querubín, y se puso sobre el umbral
@@ -2483,7 +3125,9 @@ del resplandor de la gloria de Jehová.
 
 El sonido de las alas de los querubines fue oído incluso a la corte exterior, como
 la voz de Dios Todopoderoso cuando habla.
--WEB Biblia, Ezequiel 10:4-5%%%%
+-WEB Biblia, Ezequiel 10:4-5
+
+%%%%
 chonchon
 
 # preferiría un pasaje más prose-like traduciendo Mitos De Chile de Aguirre o
@@ -2499,13 +3143,22 @@ Durante la noche, las cabezas de los brujos se separan de sus cuerpos
 y volar alrededor para causar mal, invisible a la mayoría, su ominoso tué, tué,
 tué, llama a anunciar la desgracia. Tienen los mismos poderes que los hechiceros,
 y han sido conocidos por chupar la sangre de los durmientes.”
-- A Book of Creatures , 2015.%%%%
+- A Book of Creatures , 2015.
+
+%%%%
+clockwork bee
+
+<Launch Clockwork Bee spell>
+
+%%%%
 crimson imp
 
 El Diablo también, a veces roba a los niños humanos; no es poco frecuente para él
 para llevar bebés dentro de las primeras seis semanas después del nacimiento, y para
 sustituir en su lugar imps.”
--Martin Luther%%%%
+-Martin Luther
+
+%%%%
 crocodile
 
 “Cómo hace el pequeño cocodrilo
@@ -2517,14 +3170,18 @@ Qué alegre parece sonreír,
 Lo bien que difunde sus garras,
 Y da la bienvenida a los peces pequeños
 ¡Con mandíbulas sonrientes!”
--Lewis Carroll, Alice's Adventures in Wonderland , 1865.%%%%
+-Lewis Carroll, Alice's Adventures in Wonderland , 1865.
+
+%%%%
 curse skull
 
 “Buen amigo por amor de Jesús,
 Para cavar el polvo aquí encerrado.
 Bendito el hombre que perdona estas piedras,
 Y maldito sea el que mueve mis huesos.
--Epitaph en la tumba de William Shakespeare%%%%
+-Epitaph en la tumba de William Shakespeare
+
+%%%%
 daeva
 
 “Entre estos twain los Daevas también eligieron no derecho, porque vino la infatuación
@@ -2532,7 +3189,9 @@ sobre ellos mientras ellos tomaron consejo juntos, para que eligieran el peor pe
 Entonces se precipitaron juntos a la violencia, para que pudieran infelices al mundo de
 hombres.”
 - el Avesta, Yasna XXX, 6, Ahunavaiti Gatha.
-Trans. Christian Bartholomae, 1951.%%%%
+Trans. Christian Bartholomae, 1951.
+
+%%%%
 demonspawn soul scholar
 
 “Xinchub: Al menos estás concediendo que tengo un alma.
@@ -2541,7 +3200,9 @@ inocente.
 Sí.
 Petey: Cuando dejas de estar contento por eso sabremos que estás haciendo
 progreso”.
--Howard Tayler, Schlock Mercenary . 8 de febrero de 2008.%%%%
+-Howard Tayler, Schlock Mercenary . 8 de febrero de 2008.
+
+%%%%
 diamond obelisk
 
 “Como ejemplo de los significados inherentes a una forma, examinemos un particular
@@ -2561,24 +3222,37 @@ uso histórico como un honorífico y sus significados en lenguaje natural bien p
 un mensaje de que este es un lugar honrado, un lugar sobre un ‘bien’ ambos en nuestro
 cultura y cultura de los futuros observadores”.
 - "Experto Juicio sobre Marcadores para disuadir la Intrusión Humana Inadvertida en la
-Planta piloto de aislamiento de residuos , Informe de Laboratorios Nacionales de Sandia. 1993%%%%
+Planta piloto de aislamiento de residuos , Informe de Laboratorios Nacionales de Sandia. 1993
+
+%%%%
+dormant clockwork bee
+
+<Launch Clockwork Bee spell>
+
+%%%%
 oblivion hound
 
 "Standing sobre Hugo, y arrancando su garganta, había una cosa nefasta, una
 grande, bestia negra, formada como un sabueso, pero más grande que cualquier sabueso
 El ojo mortal ha descansado. E incluso mientras miraban la cosa rasgar la garganta
 de Hugo Baskerville...”
--Arthur Conan Doyle, The Hound of the Baskervilles . 1902.%%%%
+-Arthur Conan Doyle, The Hound of the Baskervilles . 1902.
+
+%%%%
 dream sheep
 
 "Cuán indisturbio, el sueño de los tontos."
--Philip K. Dick%%%%
+-Philip K. Dick
+
+%%%%
 dryad
 
 • Roy Quijote: Espera, ¿cuál es mi carne con energía limpia de nuevo?
 - Durkon Pansa: Dunno, pero si lo prefieres, conozco un bosque de o'peach
 He estado recibiendo nuevos locales.
--Rich Burlew, “Haleo y Julean”%%%%
+-Rich Burlew, “Haleo y Julean”
+
+%%%%
 efreet
 
 “Cuando el hoopoe volvió a Salomón (le dijo las noticias), y respondió
@@ -2589,7 +3263,9 @@ vienen a ellos con fuerzas que no pueden imaginar. Los desalojaremos, humillados
 y de base”. Dijo: "Oh, ancianos, ¿cuál de tú puede traerme su mansión,
 antes de que lleguen aquí como remitentes? Un afrit de los jinns dijo:
 tráelo antes de que te levantes. Soy lo suficientemente poderoso para hacer esto.”
--El Corán, Sura 27 Al-Naml%%%%
+-El Corán, Sura 27 Al-Naml
+
+%%%%
 eidolon
 
 “No había dormido antes lo atrapó, disolvándole todo su dolor
@@ -2610,11 +3286,15 @@ nunca dejarme cruzar el río, mezclarme con ellos...
 Me dejan vagar arriba y abajo, abandonado, perdido
 en la Casa de la Muerte con las puertas de todo tipo. ’”
 - Homero, The Iliad , XXIII, 72-88.
-Trans. Robert Fagles, 1990.%%%%
+Trans. Robert Fagles, 1990.
+
+%%%%
 electric golem
 
 “Yo canto el Cuerpo eléctrico”
--Walt Whitman, "Sing the Body Electric", Leaves of Grass . 1867.%%%%
+-Walt Whitman, "Sing the Body Electric", Leaves of Grass . 1867.
+
+%%%%
 elephant
 
 "Y el rey fue a donde estaban los ciegos, y cerca se les dijo:
@@ -2636,7 +3316,9 @@ un elefante, tal no es el elefante, un elefante no es así, es como
 esto.’”
 Y el Rey, O Bhikkhus, estaba muy encantado.
 - Udāna , VI “Jaccandhavagga”. 5o. B.C.
-Trans. Dawsonne Melanchthon Strong, 1902.%%%%
+Trans. Dawsonne Melanchthon Strong, 1902.
+
+%%%%
 emperor scorpion
 
 “Los portents habían ocurrido indicando que [Titus Flavius Vespasianus] se acercaba al final,
@@ -2646,12 +3328,16 @@ continuar su curso habitual de vida durante su enfermedad y asistir a todos
 los deberes que pertenecían a su oficina, él respondió: "El emperador debe morir
 en sus pies.’”
 -Cassius Dio, Roman History , LXVI, xvii, 2. 222 A.D.
-Trans. Earnest Cary, 1925.%%%%
+Trans. Earnest Cary, 1925.
+
+%%%%
 endoplasm
 
 “Los caballos de mar azotan en el fango delgado,
 Arrojó sus cabezas, y arruinó el olor de ellos.”
-John Dryden.%%%%
+John Dryden.
+
+%%%%
 entropy weaver
 
 “SEE! warp se estira
@@ -2686,7 +3372,9 @@ Cuando aceleran el transbordador
 ¡Cómo se destellarán los cabezas de lanza!
 Los escudos chocan, y el cortafuegos
 En el arnés picar duro!”
-- La historia de Burnt Njal, trans. George Dasent. 1861%%%%
+- La historia de Burnt Njal, trans. George Dasent. 1861
+
+%%%%
 ettin
 
 Pero no había estado mucho tiempo en su escondite, antes de que entrara el horrible Ettin;
@@ -2695,7 +3383,9 @@ y no antes estaba dentro, de lo que se oyó llorando:
 Encuentro el olor de un hombre terrenal,
 Si vive, o si está muerto,
 Su corazón esta noche cocinará mi pan. ’”
--José Jacobs, - El Ettin Rojo%%%%
+-José Jacobs, - El Ettin Rojo
+
+%%%%
 Executioner
 
 “He aquí al Señor Alto Ejecutor
@@ -2708,14 +3398,18 @@ Aplazamiento, aplazamiento
 Al noble Señor, al noble Señor
 ¡A la Alta Ejecutora del Señor!
 -Gilbert y Sullivan, “He aquí el Señor Alto Executor”,
-El Mikado. 1885%%%%
+El Mikado. 1885
+
+%%%%
 fenstrider witch
 
 “Todas las infecciones que el sol chupa
 De bogs, fens, pisos, en la caída de Prosper y lo hacen
 ¡Una enfermedad por pulgada! Sus espíritus me oyen
 Y sin embargo, necesito maldición.
--William Shakespeare, The Tempest , II, 2. 1611.%%%%
+-William Shakespeare, The Tempest , II, 2. 1611.
+
+%%%%
 fire crab
 
 “El planeta trajo cangrejos de caza brillantes, que los
@@ -2723,11 +3417,15 @@ Vogones comieron, rompiendo sus conchas con mallets de hierro; árboles de alto 
 impresionante esbeldeza y color que los Vogones cortaron y quemaron
 carne de cangrejo con; elegantes criaturas gacelas con abrigos de seda y ojos de rocío
 que los Vogones cogerían y se sentarían”.
--Douglas Adams, Guía de Hitch-hiker para el Galaxy . 1979.%%%%
+-Douglas Adams, Guía de Hitch-hiker para el Galaxy . 1979.
+
+%%%%
 flayed ghost
 
 “Solamen miseris socios habuisse doloris.”
-Christopher Marlowe, Doctor Faustus. 1604%%%%
+Christopher Marlowe, Doctor Faustus. 1604
+
+%%%%
 formless jellyfish
 
 “De esta historia es evidente que en tiempos anteriores el medusas tuvo una
@@ -2736,14 +3434,18 @@ sentencia se llevó a cabo en el ancestro de los peces gelatina, sus descendient
 todos han sido suaves y sin hueso tal como los ves hasta el día tirados por el
 ondas altas sobre las costas de Japón.”
 - "El medusas y el mono", adaptado por Yei Theodora Ozaki, Young
-Treasury, vol. II. 1909.%%%%
+Treasury, vol. II. 1909.
+
+%%%%
 ghost moth
 
 “Siempre en foco
 No puedes sentir mi mirada.
 Yo te acerco.
 No sabes que estoy ahí.
--Judas Sacerdote, "Ojo Eléctrico". 1982.%%%%
+-Judas Sacerdote, "Ojo Eléctrico". 1982.
+
+%%%%
 ghoul
 
 “En el desierto
@@ -2756,13 +3458,17 @@ Dije: "¿Es bueno, amigo?"
 Pero me gusta
 Porque es amargo,
 Y porque es mi corazón.’”
--Stephen Crane, The Black Riders and Other Lines . 1895.%%%%
+-Stephen Crane, The Black Riders and Other Lines . 1895.
+
+%%%%
 glass eye
 
 “El ojo que ves
 no es ojo porque tú lo veas,
 es ojo porque te ve.
--Antonio Machado, Campos de Castilla. 1912-1917.%%%%
+-Antonio Machado, Campos de Castilla. 1912-1917.
+
+%%%%
 gnoll
 
 Entonces descendió suavemente y se acuñó a Nuth. Pero los gnoles lo habían visto
@@ -2772,7 +3478,9 @@ lo recogieron desde atrás — gritos que llegaron más rápido y más rápido h
 eran incoherentes. Y donde le tomaron no es bueno preguntar, y qué
 lo hicieron con él, no diré.
 -Señor Dunsany, “Cómo Nuth habría alabado su arte sobre los Gnoles”.
-1912.%%%%
+1912.
+
+%%%%
 goblin
 
 ¡Swish, Smack! ¡Gilipollas!
@@ -2781,20 +3489,26 @@ Batter y batir! ¡Martillo y bleat!
 Mientras Goblins quaff, y Goblins ríen,
 Ronda y vuelta bajo tierra
 ¡Abajo, muchacho!
--J.R.R. Tolkien, The Hobbit %%%%
+-J.R.R. Tolkien, The Hobbit
+
+%%%%
 golden dragon
 
 “No vienes dramáticamente, con dragones
 Esa parte de mi vida entre sus patas
 Y dash me cargó junto a los carros”
--Philip Larkin, "Para fracasar". 1949.%%%%
+-Philip Larkin, "Para fracasar". 1949.
+
+%%%%
 golden eye
 
 “No codiciar ni envidiar quemaduras
 En tu ojo de oro brillante,
 Esa calma e inocente vuelta
 Sobre todo debajo del cielo.”
--Hannah Flagg Gould, The Youth's Coronal %%%%
+-Hannah Flagg Gould, The Youth's Coronal
+
+%%%%
 guardian golem
 
 “‘Listen Reb Golem ’, dijo el viejo, abrazando su dedo. ‘Prestar atención a
@@ -2809,7 +3523,9 @@ escrito y no estarás más vivo.
 ‘No-más-vivir...’
 Así es. Escucha. Bajo el porche encontrarás una cortadora de césped. Toma.
 Es. Y corta el césped. Entonces vuelve. "
--Avram Davidson, "El Golem", 1955.%%%%
+-Avram Davidson, "El Golem", 1955.
+
+%%%%
 guardian sphinx
 
 ¡La Segunda Venida! Apenas son esas palabras.
@@ -2819,7 +3535,9 @@ Forma con cuerpo de león y cabeza de hombre,
 Una mirada en blanco y pitiles como el sol,
 Está moviendo sus muslos lentos, mientras que todo sobre él
 Sombras de las aves del desierto indignadas.”
--W. B. Yeats, "La Segunda Venida". 1920.%%%%
+-W. B. Yeats, "La Segunda Venida". 1920.
+
+%%%%
 harpy
 
 “Las cosas con cuerpo de pájaro, cara de niña son; abominables sus excrementos, sus
@@ -2832,7 +3550,9 @@ proclamando su deseo de comer con gritos de raucous. Los jóvenes señores los v
 viniendo y levantando la alarma. Sin embargo, apenas lo habían hecho antes del Harpyiai
 había devorado toda la comida y estaba en el ala una vez más, lejos del mar.
 Todo lo que dejaron era un hedor intolerable.
--Apollonius Rhodius, Argonautica 2. 179 - 434%%%%
+-Apollonius Rhodius, Argonautica 2. 179 - 434
+
+%%%%
 hell hound
 
 “Sobre su media vuelta
@@ -2842,18 +3562,24 @@ Un horrible peal; sin embargo, cuando se enumeran, se arrastraría,
 Si una cosa perturbaba su ruido, en su vientre,
 Y kennel allí; sin embargo, allí todavía desnudo y aullido
 Dentro de lo invisible.
--John Milton, Paradise Lost , Libro II, 1667.%%%%
+-John Milton, Paradise Lost , Libro II, 1667.
+
+%%%%
 hell knight
 
 “Ok, vamos a revisar. Depende de la joven dama para rescatar al dragón.
 el fuego respirando caballeros en la brillante armadura.”
--Exiern%%%%
+-Exiern
+
+%%%%
 hobgoblin
 
 “Una consistencia tonta es el hobgoblin de las pequeñas mentes, adorada por poco
 estadistas y filósofos y divinos.”
 -Ralph Waldo Emerson, Ensayos: First Series , Ensayo II: Autosuficiencia.
-1841.%%%%
+1841.
+
+%%%%
 hog
 
 “Fern vino lentamente por las escaleras. Sus ojos estaban rojos de llorar. Como ella
@@ -2863,12 +3589,16 @@ dentro, mirándola, era el cerdo recién nacido. Era blanco. El
 La luz de la mañana brillaba a través de sus orejas, dándoles rosa. Es tuyo, dijo
 Sr. Arable. Salvado de una muerte prematura. Y que el buen Señor me perdone
 por esta tontería.”
--E.B. White, - Web de Charlotte%%%%
+-E.B. White, - Web de Charlotte
+
+%%%%
 hound
 
 “Un viajero, por el sabueso fiel, medio enterrado en la nieve fue encontrado, todavía
 agarrar en su mano de hielo Esa bandera con el extraño dispositivo, Excelsior!
--Henry Wadsworth Longfellow, "Excelsior"%%%%
+-Henry Wadsworth Longfellow, "Excelsior"
+
+%%%%
 human
 
 “¿Sabes?
@@ -2876,7 +3606,9 @@ Lo sé.
 ¿Cómo se llama "hombre"?
 ¡Dios sólo sabe lo que es un hombre!
 Sólo sé su precio.
--Bertolt Brecht, “Las medidas tomadas”. 1930.%%%%
+-Bertolt Brecht, “Las medidas tomadas”. 1930.
+
+%%%%
 iguana
 
 “Una vez en un momento en que Brahmadatta reinaba en Benares, la Bodhisatta era
@@ -2889,14 +3621,18 @@ criaturas bajas, y que si la intimidad se persistió en, calamidad
 de la tribu de las iguanas. Y convocó a su hijo a no tener
 más que hacer con el camaleón. Pero el hijo continuó en su intimidad.
 - Khuddaka Nikāya , Jātaka 141 "Godha-jātaka". B.C.
-Trans. Robert Chalmers, 1895.%%%%
+Trans. Robert Chalmers, 1895.
+
+%%%%
 jackal
 
 “Siempre dispuesto a aprovechar todas las oportunidades favorables, el Jackal es
 un triste parásito, y cuelga sobre las faldas de la carnívora más grande mientras vaga
 el país para presa, con la esperanza de asegurar una parte de las criaturas
 que destruyen o hieren.”
--John George Wood, The Illustrated Natural History: Mammalia . 1865.%%%%
+-John George Wood, The Illustrated Natural History: Mammalia . 1865.
+
+%%%%
 jelly
 
 ¡Cuidado con el Blob!
@@ -2907,15 +3643,21 @@ Al otro lado del suelo
 Justo a través de la puerta
 Y alrededor de la pared,
 Una escotilla, una mancha...”
--Burt Bacharach y Mack David, “Ten cuidado con el Blob”. 1958.%%%%
+-Burt Bacharach y Mack David, “Ten cuidado con el Blob”. 1958.
+
+%%%%
 Killer Klown
 
 “Todo el mundo ama a un payaso.”
--Cole Porter, “Sé un Payaso”. 1948.%%%%
+-Cole Porter, “Sé un Payaso”. 1948.
+
+%%%%
 kobold
 
 Los ladrones son inofensivos.
--El Bold, el epitafio (Magic: el Reunirse)%%%%
+-El Bold, el epitafio (Magic: el Reunirse)
+
+%%%%
 komodo dragon
 
 “Los tres estábamos sentados en frente de Ashen como si hubiéramos presenciado un enemigo
@@ -2929,7 +3671,9 @@ no sabía nada sobre el horror, la culpa, la vergüenza, la fealdad que
 nosotros, animales únicos culpables y avergonzados, estábamos tratando de fomentarlo. Así que tenemos
 todo recto hacia nosotros, como si se reflejase en el espejo de su single
 ojo inquebrantable y desinteresado”.
--Douglas Adams, “La última oportunidad de ver”. 1990.%%%%
+-Douglas Adams, “La última oportunidad de ver”. 1990.
+
+%%%%
 kraken
 
 Kraken, también llamado el Cangrejo-Pez, que [según los pilotos de
@@ -2945,10 +3689,14 @@ gordos, los barcos se habían movido mejor de sus alrededores, ya que pronto
 a partir de entonces estalló, como una isla flotante, derramando agua de su terrible
 fosas nasales y haciendo ondas de anillo alrededor de él, que pueden llegar a muchas millas. Podría ser.
 una duda de que este es el Leviatán de Job?”
--Jacob Wallenberg, "Min son på galejan". 1781.%%%%
+-Jacob Wallenberg, "Min son på galejan". 1781.
+
+%%%%
 large abomination
 
-<small abomination>%%%%
+<small abomination>
+
+%%%%
 lindwurm
 
 “Freilich verbürgt uns keine Silbe die Existenz von solcherlei Thieren, wenn
@@ -2964,14 +3712,18 @@ furchtbares Ungeheuer überhaupt, welches nun aus unserem Welttheile vertilgt
 ist, so hat der Glaube daran nichts Lächerliches.”
 -Leopold Ziegelhauser, Schattenbilder der Vorzeit: Ein Kranz von
 Geschichten, Sagen, Legenden, Märchen, Skizzen und Heldenmahlen, Aus allen
-Gegenden Deutschlands und des österreichischen Kaiserstaates . 1844.%%%%
+Gegenden Deutschlands und des österreichischen Kaiserstaates . 1844.
+
+%%%%
 lost soul
 
 Ella camina en el crepúsculo, sus pasos no sonan,
 Sus pies no dejan huellas en el suelo cubierto de rocío.
 Su mano suavemente se acuesta, susurra su nombre...
 Pero los que van con ella nunca son los mismos.”
--Magia: la Reunión%%%%
+-Magia: la Reunión
+
+%%%%
 manticore
 
 Isaías escribe, que en Aethiopia hay también una bestia que él llama
@@ -2981,7 +3733,9 @@ un hombre, con ojos rojos; de color sanguine, bodiado como un lión, y teniendo 
 la cola armada con una picadura como un escorpión: su voz se asemeja al ruido de un
 flauta y trompeta sonaban juntos: muy veloz es, y hombres carne de todos
 otros tienen más deseo.”
--Plícate el Viejo, Historia natural , Libro 8, Capítulo XXI%%%%
+-Plícate el Viejo, Historia natural , Libro 8, Capítulo XXI
+
+%%%%
 meliai
 
 "Y vino el Cielo, trayendo de noche y anhelando el amor, y él se puso sobre la Tierra
@@ -2993,7 +3747,9 @@ gotas que vivieron la Tierra recibieron, y mientras las estaciones se movieron a
 los Erinyes fuertes y los grandes Gigantes con armadura brillante, manteniendo largo
 lanzas en sus manos, y los Nymphs a quienes llaman Meliae por todas partes
 Tierra sin límites.”
--Hesiod, Theogony , 182-187, trans. H.G. Evelyn-White. 1920%%%%
+-Hesiod, Theogony , 182-187, trans. H.G. Evelyn-White. 1920
+
+%%%%
 merfolk
 
 “De nuevo mi pensamiento reviviendo vino,
@@ -3005,7 +3761,9 @@ Y mis hombros anchos aplauden el rendimiento profundo;
 Mi cola pescadora, mis brazos de azure hue,
 Y he visto parte divinamente chang'd.
 -Ovid, Metamorphoses , XIII, 546-7. 8 A.D.
-Trans. Garth, Dryden, et al.%%%%
+Trans. Garth, Dryden, et al.
+
+%%%%
 merfolk aquamancer
 
 ¡Señor, Señor! ¡Qué dolor era ahogarse!
@@ -3019,7 +3777,9 @@ Todos dispersos en el fondo del mar:
 Algunos se pusieron en los cráneos de hombres muertos; y en esos agujeros
 Donde los ojos habitaban una vez, había crept,
 Como no estaban en desprecio de los ojos, reflejando gemas.”
--William Shakespeare, King Richard III , I, iv. 1597%%%%
+-William Shakespeare, King Richard III , I, iv. 1597
+
+%%%%
 merfolk avatar
 
 “Entonces levanta la sirena,
@@ -3027,7 +3787,9 @@ Wi the peb an glass in her hand:
 Aquí tienes una salud para ti, mis merrios jóvenes,
 Porque nunca verás tierra seca.’”
 -“Sir Patrick Spens”, canción popular escocesa, versión 58J en Francis James
-Niño, The English and Scottish Popular Ballads . 1898.%%%%
+Niño, The English and Scottish Popular Ballads . 1898.
+
+%%%%
 merfolk impaler
 
 ¡Diablos! ¡Que Neptune te mate, Winslow! HAAARK! Hark Triton, hark!
@@ -3044,10 +3806,14 @@ las infinitas aguas del temido emperador mismo - olvidado de cualquier hombre, a
 en cualquier momento, olvidado de cualquier dios o diablo, olvidado incluso al mar, por cualquier
 cosas o parte de Winslow, incluso cualquier exploración de su alma no es Winslow más,
 ¡Pero ahora es el mar!
--Thomas Wake, el faro. 2019%%%%
+-Thomas Wake, el faro. 2019
+
+%%%%
 merfolk javelineer
 
-<merfolk>%%%%
+<merfolk>
+
+%%%%
 merfolk siren
 
 “Abajo, al alcance de una voz erecta,
@@ -3067,10 +3833,14 @@ Por esos altos asuntos que los dioses ordenaban.
 Y todo lo que la tierra pueda mostrar
 T' informa un conocimiento del desierto, sabemos.’”
 - Homero, The Odyssey , XII, 268-82.
-Trans. George Chapman, 1857.%%%%
+Trans. George Chapman, 1857.
+
+%%%%
 molten gargoyle
 
-<war gargoyle>%%%%
+<war gargoyle>
+
+%%%%
 moth of wrath
 
 “Cuando a la vista de su enemigo Berserks se metieron en tal estado
@@ -3078,7 +3848,9 @@ de frenesí, que mordieron sus escudos y se apresuraron al ataque,
 tirar sus armas de defensa, imprudente de todo peligro, a veces
 no tener nada más que un club, que llevaba consigo la muerte y la destrucción”.
 Paul Belloni Du Chaillu, la edad vikinga: la historia temprana, los hombres y
-Aduanas de los Ancestros de las Naciones de habla inglesa . 1889.%%%%
+Aduanas de los Ancestros de las Naciones de habla inglesa . 1889.
+
+%%%%
 mummy
 
 Veo a Egipto y a los egipcios, veo las pirámides y los obeliscos;
@@ -3088,7 +3860,9 @@ Veo en la momia de Memphis, que contiene momias, embalsam'd, swathed
 en tela de lino, acostada allí muchos siglos;
 Miro el otoño en Theban, los ojos de bola grande, el golpe lateral
 cuello, las manos dobladas a través del pecho.”
--Walt Whitman, Salut au Monde%%%%
+-Walt Whitman, Salut au Monde
+
+%%%%
 naga
 
 “Entre las deidades y los Asuras y los Rishi celestiales, O amiable dama, los Nagas
@@ -3097,10 +3871,14 @@ con excelente fragancia. Ellos merecen ser adorados. Son capaces de
 otorgando boones. De hecho, también merecemos ser seguidos por otros en nuestro tren.
 Te digo, oh señora, que somos incapaces de ser vistos por seres humanos”.
 -Mahābhārata, Santi Parva, Mokshadharma Parva, section CCCLX. ca. 500 B.C.
-Trans. Kisari Mohan Ganguli, 1883.%%%%
+Trans. Kisari Mohan Ganguli, 1883.
+
+%%%%
 naga mage
 
-<naga>%%%%
+<naga>
+
+%%%%
 nagaraja
 
 “Entonces también ha llegado
@@ -3114,10 +3892,14 @@ La gran naga Eravanna:
 Él también ha venido.
 a la reunión forestal.”
 -Mahasamaya Sutta, Dīgha Nikāya , 20. ca. 500 B.C.
-Trans. Thanissaro Bhikkhu%%%%
+Trans. Thanissaro Bhikkhu
+
+%%%%
 naga warrior
 
-<naga>%%%%
+<naga>
+
+%%%%
 nameless horror
 
 “Entonces el sallow oval entre los brazos de Ged creció brillante. Se amplió y se extendió, una
@@ -3125,7 +3907,9 @@ alquiler en la oscuridad de la tierra y la noche, un raspado abierto de la tela 
 el mundo. A través de ella abrigó un terrible brillo. Y a través de ese brillo
 una brecha malformada clambered algo como un coágulo de sombra negra, rápido y
 horrible, y saltó directamente en la cara de Ged.
--Ursula K. Le Guin, Un mago de la Tierra . 1968.%%%%
+-Ursula K. Le Guin, Un mago de la Tierra . 1968.
+
+%%%%
 necromancer
 
 “Incluso ahora se puede sentir la intensidad de su terrible poder
@@ -3134,12 +3918,16 @@ En última instancia, se convertirán en espectros vacíos y sin mente
 Despojado de voluntad y alma
 Sólo su sed de libertad
 Les da hambre de venganza...”
--Rush, "El Necromancer". 1975.%%%%
+-Rush, "El Necromancer". 1975.
+
+%%%%
 nekomata
 
 ¿Humanos, eh? Piensan que son señores de la creación. No como nosotros gatos. Nosotros...
 Sí. ¿Has visto a un gato alimentar a un humano? Caso probado”.
--Terry Pratchett, “The Amazing Maurice and His Educated Rodents”. 2001.%%%%
+-Terry Pratchett, “The Amazing Maurice and His Educated Rodents”. 2001.
+
+%%%%
 neqoxec
 
 “Si así la mutación está influenciada por la selección natural, implica, que cualquier
@@ -3150,12 +3938,16 @@ aquí, sin embargo, que probablemente no todas las mutaciones (en un sentido pal
 son debido a la selección natural, pero que muchos no implican un real
 mejora”.
 - Proceedings of the American Philosophical Society , Volumen XXV, no. 150.
-1896.%%%%
+1896.
+
+%%%%
 occultist
 
 “Cada familia o tribu tiene un mago o un médico conjurado, cuya oficina podríamos
 nunca se cerciora claramente”.
-Charles Darwin, la Voyage del Beagle, cap. X. 1839.%%%%
+Charles Darwin, la Voyage del Beagle, cap. X. 1839.
+
+%%%%
 octopode
 
 “En su breve tiempo juntos Slothrop forma la impresión de que este pulpo
@@ -3167,7 +3959,9 @@ Cephalopod es cada movimiento, que Slothrop se alegra de alejarse como él
 finalmente escala el cangrejo como un disco, con toda su fuerza, hacia el mar, y
 el pulpo, con una salpicadura ansiosa y gurgle, golpea en persecución, y es
 actualmente se fue.
-Thomas Pynchon, el Rainbow de la Gravedad, 1973.%%%%
+Thomas Pynchon, el Rainbow de la Gravedad, 1973.
+
+%%%%
 ogre
 
 “La pequeña princesa, dormida en su cuna, flotaba sobre el agua, y al fin
@@ -3182,10 +3976,14 @@ l'Abeille». 1697.
 
 No. Capas. Las cebollas tienen capas. Ogres tiene capas. Las cebollas tienen capas. Tienes razón.
 ¿Es? Ambos tenemos capas”.
--Shrek. 2001.%%%%
+-Shrek. 2001.
+
+%%%%
 ogre mage
 
-<ogre>%%%%
+<ogre>
+
+%%%%
 oklob plant
 
 “El ácido carbónico es uno de los tres materiales que juntos forman el comienzo
@@ -3197,10 +3995,14 @@ vertido de un vaso a otro, como un líquido puede ser; 100 partes de agua
 disuelve 106 partes de este gas, y es de esta fuente que las raíces de
 las plantas derivan los suministros necesarios de ella.”
 -Henry Stuart, The Culture of Farm Crops: A Manual of the Science of
-Agricultura, y un manual de práctica para agricultores americanos , cap. X. 1887.%%%%
+Agricultura, y un manual de práctica para agricultores americanos , cap. X. 1887.
+
+%%%%
 oklob sapling
 
-<oklob plant>%%%%
+<oklob plant>
+
+%%%%
 oni incarcerator
 
 “La popularidad y longevidad del mito oni no es duda parcialmente basada en
@@ -3212,7 +4014,9 @@ la omnipresencia de oni en el archivo sociohistórico y cultural de Japón es
 directamente atribuible a la edificación moral, social y religiosa que
 historias sobre oni engender.”
 -Noriko T. Reider, Japonés Demon Lore: Oni de los tiempos antiguos a los
-Present , cap. 1, 2010.%%%%
+Present , cap. 1, 2010.
+
+%%%%
 ophan
 
 “Miré a los seres vivientes, vi una rueda en el suelo al lado
@@ -3222,14 +4026,18 @@ Cada uno parecía ser hecho como una rueda que intersecte una rueda. Como ellos
 se movieron, irían en cualquiera de las cuatro direcciones a las criaturas enfrentadas;
 las ruedas no giraron mientras las criaturas iban. Sus bordes eran
 alto e impresionante, y los cuatro bordes estaban llenos de ojos alrededor.”
--Ezequiel 1:15-18 (Nueva Versión Internacional)%%%%
+-Ezequiel 1:15-18 (Nueva Versión Internacional)
+
+%%%%
 orange demon
 
 “En Sparkill enterró mentiras ese hombre de marca
 Que trajo el Obelisco al Parque Central,
 Comandante redoblable H.H. Gorringe,
 cuyo nombre proporciona la rhyme largamente traída para ‘orange.’”
--Arthur Guiterman, “Nota local”. 1934.%%%%
+-Arthur Guiterman, “Nota local”. 1934.
+
+%%%%
 Orb Guardian
 
 "X gon' te lo da (qué)
@@ -3241,13 +4049,17 @@ Primero vamos a rockear, entonces vamos a rodar
 Entonces lo dejamos estallar, vamos, déjalo ir
 X gon' give it to you, he gon' give it to you
 X gon' give it to you, he gon' give it to you
--DMX, "X Gon' Dale a Ya". 2002%%%%
+-DMX, "X Gon' Dale a Ya". 2002
+
+%%%%
 orb of fire
 
 No hay el orbe más pequeño que ves
 Pero en su movimiento como un ángel canta,
 Todavía acudiendo a las querubines de ojos jóvenes.”
--William Shakespeare, el Mercante de Venecia, V, i. 1597.%%%%
+-William Shakespeare, el Mercante de Venecia, V, i. 1597.
+
+%%%%
 pandemonium lord
 
 “Mean mientras los heraldos alados por orden
@@ -3256,23 +4068,31 @@ Y las trompetas suenan en todo el anfitriono
 Una Councel solemne inmediatamente que se celebrará
 En Pandaemonium, la alta capital
 De Satanás y sus Peers...”
--John Milton, Paradise Lost , Libro I, 1667.%%%%
+-John Milton, Paradise Lost , Libro I, 1667.
+
+%%%%
 phantom
 
 ¿Quiénes son las cosas maravillosas sobre nuestro bienestar, y los fantasmas estragos no permiten
 que nos prevemos”.
--Spenser, The Faerie Queene II. xii. 47%%%%
+-Spenser, The Faerie Queene II. xii. 47
+
+%%%%
 pillar of salt
 
 Entonces el Señor llovió sobre Sodoma y sobre Gomorra azufre y fuego de la
 Señor fuera del cielo; Y destruyó aquellas ciudades, y toda la llanura, y todas las
 los habitantes de las ciudades, y los que crecieron sobre la tierra. Pero...
 [La esposa de Lot] miró atrás de detrás de él, y se convirtió en un pilar de sal."
-- Biblia RVA, Génesis 19:24-26.%%%%
+- Biblia RVA, Génesis 19:24-26.
+
+%%%%
 player ghost
 
 Conocete.
--Inscripción en los pronaos del Templo de Apolo en Delphi%%%%
+-Inscripción en los pronaos del Templo de Apolo en Delphi
+
+%%%%
 polar bear
 
 “El Oso Polar es un animal de tremenda fuerza y fervor. Barentz, en
@@ -3283,7 +4103,9 @@ y devorarlos ante los ojos de sus camaradas. Se dice que ellos
 atacará y tratará de abordar buques armados, a gran distancia
 costa, y a veces han sido con mucha dificultad repelidas”.
 -George Shaw, General Zoology, or, Systematic Natural History , vol. I,
-p. 2. 1800.%%%%
+p. 2. 1800.
+
+%%%%
 profane servitor
 
 “Un hechizo fue lanzado y el cielo se volvió rojo
@@ -3296,12 +4118,16 @@ En el cielo sombrío — El silencio donde los ángeles muertos mienten
 
 Toca la nieve... Cuidado con las esculturas sin vida
 ¡Muere!
--Disección, “Donde se encuentran los ángeles muertos”. 1996.%%%%
+-Disección, “Donde se encuentran los ángeles muertos”. 1996.
+
+%%%%
 program bug
 
 “Si los constructores construyeron edificios la forma en que los programadores escribieron programas, entonces el primero
 pájaro carpintero que llegó destruiría la civilización.
--Gerald Weinberg, segunda ley de Weinberg%%%%
+-Gerald Weinberg, segunda ley de Weinberg
+
+%%%%
 protean progenitor
 
 “Llamo a Proteus,
@@ -3327,7 +4153,9 @@ visita los iniciados místicos,
 y traer un buen fin a una vida
 de la industria y la prosperidad.”
 - El Himno Orfico, XXV.
-Trans. Apostolos N. Athanassakis y Benjamin M. Wolkow, 2013.%%%%
+Trans. Apostolos N. Athanassakis y Benjamin M. Wolkow, 2013.
+
+%%%%
 rakshasa
 
 Vaisampayana dijo, 'No lejos del lugar donde los Pandavas estaban dormidos, un
@@ -3338,7 +4166,16 @@ con una barriga grande, sus cerraduras y barba eran rojas en el tono. Su
 los hombros eran anchos como el cuello de un árbol; sus oídos eran como flechas,
 y sus rasgos eran espantosos.”
 - Mahābhārata , Adi Parva, Hidimva-vadha Parva, section CLIV. ca. 500 B.C.
-Trans. Kisari Mohan Ganguli, 1883.%%%%
+Trans. Kisari Mohan Ganguli, 1883.
+
+%%%%
+raven
+
+“El Hatter abrió sus ojos muy anchas al oír esto; pero todo lo que dijo fue:
+es un cuervo como un disco de escritura?’”
+-Lewis Carroll, Alice’s Adventures in Wonderland
+
+%%%%
 reaper
 
 “Todos nuestros tiempos han llegado.
@@ -3348,17 +4185,23 @@ Tampoco el viento, el sol o la lluvia.
 Podemos ser como ellos.
 Vamos bebé, no temas al segador.
 
--Buck Dharma, Blue Öyster Cult, “(No temas) The Reaper”. 1976.%%%%
+-Buck Dharma, Blue Öyster Cult, “(No temas) The Reaper”. 1976.
+
+%%%%
 ribbon worm
 
 “Mientras los ángeles, todos pallidos y wan,
 Levantamiento, desenvolvimiento, afirma
 Que la obra es la tragedia, "Hombre",
 Y su héroe, el gusano conquistador”.
--Edgar Allan Poe%%%%
+-Edgar Allan Poe
+
+%%%%
 royal mummy
 
-<mummy>%%%%
+<mummy>
+
+%%%%
 salamander
 
 “Como por ejemplo: el Salamander hecho en la moda de un lagarto, marcado con manchas
@@ -3370,12 +4213,16 @@ como para ordeñar, pero una vez tocar cualquier parte desnuda de un hombre o mu
 todo el cabello caerá; y la parte tan tocada cambiará el color de
 la piel al morfo blanco”.
 -Gaius Plinius Secundus, Naturalis Historia , Book X, ch. LXVII. 79 A.D.
-Trans. Philemon Holland, 1601.%%%%
+Trans. Philemon Holland, 1601.
+
+%%%%
 scorpion
 
 Esos campos venenosos, con corona de lujo de rango,
 Donde el escorpión oscuro reúne la muerte alrededor”
--Oliver Goldsmith, “The Deserted Village”, l. 351-2. 1770.%%%%
+-Oliver Goldsmith, “The Deserted Village”, l. 351-2. 1770.
+
+%%%%
 seraph
 
 “En el año en que murió el rey Uzías vi también al Señor sentado sobre un trono,
@@ -3386,7 +4233,9 @@ su rostro, y con cretino cubrió sus pies, y con truin voló.
 
 Y uno clamó á otro, y dijo: Santo, santo, santo, Jehová de los ejércitos:
 toda la tierra está llena de su gloria.
-- Biblia RVA, Isaías 6:1-3.%%%%
+- Biblia RVA, Isaías 6:1-3.
+
+%%%%
 shadowghast
 
 “Entre la idea
@@ -3402,12 +4251,16 @@ Entre la emoción
 Y la respuesta
 Cae la sombra
 La vida es muy larga”
--T.S. Eliot, “Los Hollow Men”. 1925.%%%%
+-T.S. Eliot, “Los Hollow Men”. 1925.
+
+%%%%
 shadow demon
 
 “A medida que envejecemos, nos damos cuenta de que la muerte se acerca; su sombra cae
 a través de nuestro camino...”
--Stefan Zweig, Veinticuatro horas en la vida de una mujer . 1927.%%%%
+-Stefan Zweig, Veinticuatro horas en la vida de una mujer . 1927.
+
+%%%%
 shadow dragon
 
 “Crux sacra sit mihi lux / Non draco sit mihi dux
@@ -3419,21 +4272,27 @@ Retrocede Satanás / Nunca me tienta con cosas vanas
 Lo que me ofreces es malo / Tú bebes el veneno tú mismo.]”
 - Texto completo de las iniciales en la Medalla de San Benito, usado para evitar el mal
 espíritus. Inscripción del siglo XI-15, aprobada formalmente por el Papa
-Benedicto XIV en el siglo XVIII.%%%%
+Benedicto XIV en el siglo XVIII.
+
+%%%%
 shadow wraith
 
 Ayer, en la escalera,
 Conocí a un hombre que no estaba allí.
 No estaba allí de nuevo hoy.
 Ojalá se fuera...
--Hughes Mearns, Antigonish , 1-4. 1899.%%%%
+-Hughes Mearns, Antigonish , 1-4. 1899.
+
+%%%%
 shambling mangrove
 
 “Hay disturbios en el bosque
 Hay problemas con los árboles
 Para los arces quieren más luz solar
 Y los robles ignoran sus súplicas”
-- Rush, "Los Árboles". 1978.%%%%
+- Rush, "Los Árboles". 1978.
+
+%%%%
 shapeshifter
 
 "Y entonces el viejo Sea-God crept
@@ -3450,20 +4309,26 @@ Un gran jabalí después, y de repente hizo cola
 Todo en agua. Por último era un árbol,
 Curl'd all at top, and shot up to the sky.”
 -Homero, The Odyssey , IV, 602-14.
-Trans. George Chapman, 1857.%%%%
+Trans. George Chapman, 1857.
+
+%%%%
 silent spectre
 
 Hay un silencio donde no ha habido sonido,
 Hay un silencio donde no hay sonido,
 En la tumba fría, bajo el profundo y profundo mar,
 O en el desierto ancho donde no se encuentra la vida.
--Thomas Hood, “Silence”. A principios del 19%.%%%%
+-Thomas Hood, “Silence”. A principios del 19%.
+
+%%%%
 simulacrum
 
 “El simulacro ahora esconde, no la verdad, sino el hecho de que no hay ninguno, que
 es decir, la continuación de la Nada.”
 -Jean Baudrillard, “Pensamiento radical”. 1994.
-Trans. François Debrix, 1995.%%%%
+Trans. François Debrix, 1995.
+
+%%%%
 sixfirhy
 
 “Vi una boca merodeando. Una sonrisa de hierro rojo fundido corrió sobre él. Su risa era
@@ -3474,7 +4339,9 @@ El puño golpeó la boca una y otra vez, una y otra vez. La boca se derritió
 Hierro, y se rió de su risa de uñas agitando.
 Y vi cuanto más golpeaba el puño más se reía la boca. El puño es
 golpeando y golpeando, y la boca contestando.
--Carl Sandburg, “Gargoyle”, Cornhusker . 1918.%%%%
+-Carl Sandburg, “Gargoyle”, Cornhusker . 1918.
+
+%%%%
 skeletal warrior
 
 ¡Habla! ¡Habla! ¡Temible invitado!
@@ -3485,38 +4352,50 @@ Wrapt not in Eastern balms,
 Pero con tus palmas sin carne
 Estrépido, como si pidiera limosnas,
 ¿Por qué me persigues?
--Henry Wadsworth Longfellow, "El esqueleto en Armor". 1841.%%%%
+-Henry Wadsworth Longfellow, "El esqueleto en Armor". 1841.
+
+%%%%
 skeleton
 
 Dios nos salva del esqueleto
 ¡Quién se sienta en la fiesta!
-James Jeffrey Roche, el esqueleto de la fiesta de 1890.%%%%
+James Jeffrey Roche, el esqueleto de la fiesta de 1890.
+
+%%%%
 sky beast
 
 “Su propia madre vivió los últimos años de su vida en la horrible sospecha
 que la electricidad goteaba invisiblemente por toda la casa”.
-James Thurber, mi vida y mis tiempos difíciles, 1934.%%%%
+James Thurber, mi vida y mis tiempos difíciles, 1934.
+
+%%%%
 slime creature
 
 “El fondo se pudrió: ¡Oh Cristo!
 ¡Eso debería ser!
 Sí, las cosas delgadas se arrastraron con las piernas
 Sobre el mar delgado”.
--Samuel Tayor Coleridge, “El Rime del antiguo Marinero”. 1798.%%%%
+-Samuel Tayor Coleridge, “El Rime del antiguo Marinero”. 1798.
+
+%%%%
 small abomination
 
 No, no fue así. Estaba en todas partes —una gelatina— un babo todavía
 Tenía formas, mil formas de horror más allá de toda la memoria. Había ojos -
 y una mancha. Fue la fosa —el maelstrom— la abominación final.
 Carter, ¡fue lo innamable!
--H.P. Lovecraft, The Unnamable . 1925.%%%%
+-H.P. Lovecraft, The Unnamable . 1925.
+
+%%%%
 smoke demon
 
 “Por qué el hilo gris delgado
 Flotando de lo olvidado
 Cigarrillo entre mis dedos,
 ¿Por qué me molesta?
--D.H. Lawrence, “Sorrow”. 1916.%%%%
+-D.H. Lawrence, “Sorrow”. 1916.
+
+%%%%
 snapping turtle
 
 “Después de un tiempo llegaron a un pueblo. “Ahora entonces”, dijo Snapping Turtle, “en
@@ -3537,18 +4416,24 @@ ataque a este pueblo”. Así habló con sus jóvenes.
 “¡Muy bien!” dijo los otros pequeños.
 "Cuando la Tortuga se fue a la Guerra", Publicaciones de los Estados Unidos
 Sociedad Etnológica, Volumen IX: Kickapoo Tales . 1915.
-Trans. Truman Michelson%%%%
+Trans. Truman Michelson
+
+%%%%
 soul eater
 
 La ignorancia es la primera libertad de la mente.
--E.M. Cioran, La Temptación a Exist . 1956.%%%%
+-E.M. Cioran, La Temptación a Exist . 1956.
+
+%%%%
 spatial vortex
 
 “Era sólo un color fuera del espacio, un mensajero espantoso de reinos sinformados
 de la infinidad más allá de toda la Naturaleza como la conocemos; de reinos cuya mera existencia
 aturdes el cerebro y nos adormece con los golfos extra cósmicos negros que se abre
 ante nuestros ojos frenéticos.
--H.P. Lovecraft, “El color fuera del espacio”. 1927.%%%%
+-H.P. Lovecraft, “El color fuera del espacio”. 1927.
+
+%%%%
 spatial maelstrom
 
 “En cualquier composición, el sólido narra las anomalías generadas por el vacío, o
@@ -3561,19 +4446,25 @@ La única manera de que el sólido pueda inicializar su arquitectura y composici
 actividades (procesos para la supervivencia, el desarrollo, etc.) es dejando el vacío
 dentro. Los rasgos dinámicos de sólidos sólo pueden actuarse cuando se come sólido,
 convocado y arruinado por el vacío. No hay otra opción para sólido”.
--Reza Negarestani, Cyclonopedia: Complicidad con Materiales Anónimos . 2008%%%%
+-Reza Negarestani, Cyclonopedia: Complicidad con Materiales Anónimos . 2008
+
+%%%%
 spectral thing
 
 “En el hambriento viento ansioso
 Mi Spectre te sigue.
--William Blake, "Broken Love". ca. 1800.%%%%
+-William Blake, "Broken Love". ca. 1800.
+
+%%%%
 spellspark servitor
 
 “Cuando piensas
 Tus juguetes se han vuelto locos
 Es una ilusión.
 No puedes shirk
--Siouxsie y los banshees, "Spellbound"%%%%
+-Siouxsie y los banshees, "Spellbound"
+
+%%%%
 sphinx marauder
 
 “Oedipus habla: ‘El temor de mí es el crimen y la vergüenza de la cobardía, y mi
@@ -3586,13 +4477,17 @@ Luego vino un sonido de miedo; sus mandíbulas se estrellaron, y sus talones, br
 No hay demoras, ansiosos por mis vitales, quebradas en las rocas. El lote es intrincado,
 palabras de concordancia, el enigma de la bestia alada, resolví."
 - Seneca, el primer centavo. A.D.
-Trans. Frank Justus Miller, 1917.%%%%
+Trans. Frank Justus Miller, 1917.
+
+%%%%
 star jelly
 
 "Mis colegas pueden haber descartado los avistamientos como casquillos de huevo de rana parpadeante, pero
 Hoy demostraré que estas criaturas vinieron de más allá del firmamento. Vamos.
 comenzar la disección."
--Ardun Idrick, criptozoólogo, últimas palabras%%%%
+-Ardun Idrick, criptozoólogo, últimas palabras
+
+%%%%
 starcursed mass
 
 ¿Viste esa estrella salir?
@@ -3603,7 +4498,9 @@ tus pequeños ojos salieron.
 
 Nuestros sueños quemados son escondidos
 arriba donde las estrellas se encienden.”
--El Monte de Plata Sion, “Me construí un pájaro de metal”. 2010.%%%%
+-El Monte de Plata Sion, “Me construí un pájaro de metal”. 2010.
+
+%%%%
 stone giant
 
 “Realmente creo lo que dices, respondió el caballero; porque, he estado comprometido
@@ -3613,7 +4510,9 @@ su cabeza al suelo; y dió tal cantidad de sangre, que corría
 como rills de agua, a lo largo del campo.”
 -Miguel de Cervantes Saavedra, The Ingenious Gentleman Don Quijote of La
 Mancha , IV, 10. 1605.
-Trans. Carlos Fuentes, 1997.%%%%
+Trans. Carlos Fuentes, 1997.
+
+%%%%
 sun demon
 
 “He aquí que se encuentra en sus cielos occidentales,
@@ -3623,7 +4522,9 @@ Las sombras alargando mientras los vapores se levantan.”
 “El cielo es triste y hermoso, como un vasto altar.
 El sol se ha ahogado en su sangre congelante”.
 - Charles Baudelaire, Flowers of Evil , 43: Evening Harmony. 1857.
-Trans. Ruth White, 1969.%%%%
+Trans. Ruth White, 1969.
+
+%%%%
 swamp drake
 
 “Sweet es el pantano con sus secretos,
@@ -3635,27 +4536,35 @@ En ese galopante galopante
 Eso lo sabe la infancia.
 Una serpiente es la traición del verano,
 Y el engaño es donde va.
--Emily Dickinson, "A Snake". ca. 1865.%%%%
+-Emily Dickinson, "A Snake". ca. 1865.
+
+%%%%
 swamp worm
 
 El tonto, como creo, al borde del abismo,
 Prone por el pantano o el lado del pantano,
 ¿Acaso, como yo, al final se regocijó?
 Puesto que la voz de la muerte debe ser Su verdadera voz.”
--Arthur Edward Waite, “Al final de las cosas”. 1906.%%%%
+-Arthur Edward Waite, “Al final de las cosas”. 1906.
+
+%%%%
 tengu
 
 “Un pájaro bajó por el Paseo –
 No sabía que vi...
 Se mordió un Angleworm en mitades
 Y comí al hombre, crudo
--Emily Dickinson, “Un pájaro bajó por el Paseo”.%%%%
+-Emily Dickinson, “Un pájaro bajó por el Paseo”.
+
+%%%%
 tengu warrior
 
 “Puedo arar mis plumas, me veo muy mal
 Sé el viejo que esta es la escena
 Soy una lista de bantam preentinada en busca de una pelea.
--El arco de fuego de Andrew Bird, "Cock o' the Walk". 1998.%%%%
+-El arco de fuego de Andrew Bird, "Cock o' the Walk". 1998.
+
+%%%%
 tentacled monstrosity
 
 “Orogando y surgiendo fuera de esa puerta trampa de bostezo en la cripta Cyclopean I
@@ -3665,7 +4574,9 @@ Empieza a sugerirlo con cualquier palabra a mi orden. Podría llamarlo gigantesc
 tentáculos —proboscidiano — ojos de pulpo — semiamorfo — plástico — en parte
 escamoso y parcialmente rugosa — ugh!
 -H.P. Lovecraft y Hazel Heald, "Fuera de los Eones", Weird Tales , 25, No.
-4, págs. 478 a 96. abril de 1935.%%%%
+4, págs. 478 a 96. abril de 1935.
+
+%%%%
 titan
 
 “Y por otra parte los Titanes fortalecieron ansiosamente sus filas, y ambos
@@ -3678,12 +4589,16 @@ entonces, lanzaron sus ejes graves unos sobre otros, y el grito de
 ambos ejércitos mientras gritaban alcanzaron el cielo estrellado; y se reunieron juntos
 con un gran grito de batalla”.
 -Hesiod, 8o. B.C.
-Trans. H.G. Evelyn-White, 1914.%%%%
+Trans. H.G. Evelyn-White, 1914.
+
+%%%%
 toadstool
 
 “Pero el Seneschal recogió el tabique de toadstool.”
 Adam Mickiewicz, Pan Tadeusz, III. 1834.
-Trans. Noyes, 1917.%%%%
+Trans. Noyes, 1917.
+
+%%%%
 toenail golem
 
 “Los calcetines suaves los miman día a día, y los zapatos adoquinados de cuero fortificarlos,
@@ -3691,11 +4606,15 @@ pero mis dedos de los pies apenas notan. Todo lo que están interesados es salir
 uñas: hojas semitransparentes y flexibles de un material cachondo, como defensa
 contra, ¿quién?
 -Jorge Luis Borges, “Toenails”. 1960.
-Trans. Andrew Hurley, 1998.%%%%
+Trans. Andrew Hurley, 1998.
+
+%%%%
 tormentor
 
 “Me haces un delicioso tormento”.
--Ralph Waldo Emerson, Ensayos: First Series , Ensayo VI: Amistad. 1841.%%%%
+-Ralph Waldo Emerson, Ensayos: First Series , Ensayo VI: Amistad. 1841.
+
+%%%%
 torpor snail
 
 “Snail, caracol, babosa,
@@ -3705,7 +4624,9 @@ Te echaré de la puerta,
 Para el cuervo en la gorra,
 Para comer pan y mantequilla”.
 - Rima silesiana. Citado por S.W. Singer en Notas y consultas , no. 69.
-1851.%%%%
+1851.
+
+%%%%
 training dummy
 
 “Las cosas son sólo maniquíes e incluso los grandes eventos históricos del mundo son sólo
@@ -3714,20 +4635,28 @@ y el banal.
 -Walter Benjamin, Protocolos a los Experimentos sobre Hashish, Opio y
 Mescaline 1927-1934 , “Protocolo II: Highlights of the Second Hashish
 Impresión». 15 de enero de 1928.
-Trans. Scott J. Thompson, 1997.%%%%
+Trans. Scott J. Thompson, 1997.
+
+%%%%
 two-headed ogre
 
-<ogre>%%%%
+<ogre>
+
+%%%%
 tyrant leech
 
 Scully: ¿De dónde diablos vino?
 Mulder: “No lo sé, pero parece que voy a tener que decirle a Skinner
 que su sospechoso es un gusano de sangre gigante después de todo.”
-- El X-Files , “El anfitrión”. 1994%%%%
+- El X-Files , “El anfitrión”. 1994
+
+%%%%
 ufetubus
 
 “Nos permitieron llorar en la lengua de enanos y demonios”
--Czesław Miłosz, “Una tarea”.%%%%
+-Czesław Miłosz, “Una tarea”.
+
+%%%%
 ugly thing
 
 “La belleza no es calidad en las cosas mismas: Existe simplemente en la mente
@@ -3735,12 +4664,16 @@ los contempla; y cada mente percibe una belleza diferente. Una persona puede
 incluso percibir la deformidad, donde otro es sensible de la belleza; y cada uno
 el individuo debe absolver en su propio sentimiento, sin pretender
 regular los de otros.”
-- David Hume%%%%
+- David Hume
+
+%%%%
 unseen horror
 
 “La horrible sombra de un poder invisible
 Flotas, no vistos, entre nosotros”.
--Percy Bysshe Shelley, “Hymn to Intellectual Beauty”, I, 1-2. 1816.%%%%
+-Percy Bysshe Shelley, “Hymn to Intellectual Beauty”, I, 1-2. 1816.
+
+%%%%
 ushabti
 
 “Hablar por hacer que un shabti haga trabajo para un hombre en el reino de los muertos:
@@ -3751,7 +4684,9 @@ para mí en cada ocasión de hacer arable los campos, de inundar los bancos o
 de transportar arena de este a oeste; ‘Aquí estoy’, dirás.
 
 -Palabra 6, Libro de los muertos , de Ancient Egyptian Book of the Dead:
-Viaje a través de la vida posterior, editado por John H. Taylor. 2010%%%%
+Viaje a través de la vida posterior, editado por John H. Taylor. 2010
+
+%%%%
 vampire
 
 • Scuzeme. Mi amigo Burt dice que eres un cazador de vampiros. ¿Entonces?
@@ -3764,19 +4699,34 @@ Bueno, no vas a encontrar una por aquí, amigo. No son vampiros.
 ¿Sí?
 • Mi lugar está embrujado con 16 fantasmas y todos dicen que no hay
 vampiros!
--Rich Morris, sin embargo otra fantasía Gamer Comic%%%%
+-Rich Morris, sin embargo otra fantasía Gamer Comic
+
+%%%%
 vampire bat
 
 “Porque algo es malo y fuera de lugar
 Cuando los ratones con alas pueden usar una cara humana”.
-- Theodore Roethke, "El Bat". 1938.%%%%
+- Theodore Roethke, "El Bat". 1938.
+
+%%%%
+vampire mosquito
+
+“Encendié una fina vela verde
+Para ponerte celoso de mí
+Pero la habitación se llena de mosquitos
+Ellos escucharon que mi cuerpo era libre”
+-Leonard Cohen, "Uno de nosotros no puede estar equivocado". 1967.
+
+%%%%
 very ugly thing
 
 Soy feo, soy feo como pecado,
 Pero hermoso está fuera, feo está dentro.
 Si eres feo como yo, estás en buena compañía.
 Hay millones de nosotros que somos feos”.
-- The Muppet Show , "Ugly Song". 1977%%%%
+- The Muppet Show , "Ugly Song". 1977
+
+%%%%
 vine stalker
 
 “El brote de planta monstruosa... había crecido de nuevo con la rapidez preternatural,
@@ -3787,7 +4737,9 @@ pulgadas.
 Más temible que esto, de ser posible, crecimientos similares habían sido emitidos por los
 ojos; y sus tallos, escalando verticalmente a través de la frente, tenían completamente
 desplazados los globos oculares.”
--Clark Ashton Smith, “La semilla del Sepulcro”. 1933.%%%%
+-Clark Ashton Smith, “La semilla del Sepulcro”. 1933.
+
+%%%%
 wandering mushroom
 
 “Telimena, vestida con la prolongada pelea, quería salir a la
@@ -3798,7 +4750,9 @@ alrededor de su cabeza un mantón de cachemir rojo, “pero voy a buscar hongos:
 la otra ella levantó su falda hasta sus tobillos. Thaddeus silenciosamente apresurado
 después de ella—para buscar hongos!”
 Adam Mickiewicz, Pan Tadeusz, II. 1834.
-Trans. Noyes, 1917.%%%%
+Trans. Noyes, 1917.
+
+%%%%
 war gargoyle
 
 “Sus innumerables esculturas de demonios y dragones asumieron un lugubrioso
@@ -3810,39 +4764,53 @@ llama, por este ruido, había alguien que caminaba, y que fue visto,
 tiempo a tiempo, pasar a través de la cara brillante de la pila, como un murciélago en frente
 de una vela.”
 -Victor Hugo, The Hunchback of Notre-Dame , 10, cap. IV. 1831.
-Trans. Isabel F. Hapgood%%%%
+Trans. Isabel F. Hapgood
+
+%%%%
 weeping skull
 
 ¡Ay, pobre Yorick! Lo conocí, Horatio, un tipo de Jest infinito, de la mayoría
 excelente fantasía. Él me ha traído en su espalda mil veces, y ahora cómo
 en mi imaginación es! Mi garganta se levanta en ella.”
--William Shakespeare, The Tragedy of Hamlet, Prince of Denmark , V, 1. 1603%%%%
+-William Shakespeare, The Tragedy of Hamlet, Prince of Denmark , V, 1. 1603
+
+%%%%
 wolf
 
 Maestro: ¿Cómo huele un perro?
 No lo sé.
 Maestro: ¡Correcto!
-- Broma tradicional española.%%%%
+- Broma tradicional española.
+
+%%%%
 water nymph
 
 “Oh, pero no puedes esperar doblar el poder ejecutivo supremo sólo porque algunos
 tarta acuosa te lanzó una espada.
--Monty Python y el Santo Grial, 1975.%%%%
+-Monty Python y el Santo Grial, 1975.
+
+%%%%
 wight
 
 “Unhappie wight, borne to desastrous end,
 ¡Eso hace su vida en tanto tiempo gastan la tendencia!”
--Edmund Spenser, "Madre Hubberds Tale", Complaints . 1591.%%%%
+-Edmund Spenser, "Madre Hubberds Tale", Complaints . 1591.
+
+%%%%
 worm
 
-<ribbon worm>%%%%
+<ribbon worm>
+
+%%%%
 wraith
 
 Dios, aunque esta vida no es más que un espectro,
 Aunque no sabemos lo que usamos,
 Aunque nos metemos con poca fe,
 Dame el corazón para luchar y perder.”
--Louis Untermeyer, "Prayer". 1919.%%%%
+-Louis Untermeyer, "Prayer". 1919.
+
+%%%%
 wretched star
 
 “Empieza al sol
@@ -3853,7 +4821,9 @@ Mira al sol
 Deja que su fuego te llene
 Lo que no te mate
 Sólo te hace extraño”
-- Los Sunbeams, El Tug. 2020%%%%
+- Los Sunbeams, El Tug. 2020
+
+%%%%
 wyrmhole
 
 “Mi respuesta completa a la pregunta de finales del siglo XIX, lo que es electrodinámica
@@ -3866,7 +4836,9 @@ Habiendo eliminado así el misterio de la electrodinámica, permítanme inmediat
 igual para la mecánica cuántica:
 
 Las correlaciones tienen realidad física; lo que correlacionan no lo hace.”
--N. David Mermin, ¿Qué es la mecánica cuántica tratando de decirnos? , 1998.%%%%
+-N. David Mermin, ¿Qué es la mecánica cuántica tratando de decirnos? , 1998.
+
+%%%%
 ynoxinul
 
 Arregló sus ojos sobre la puerta, que, abriendo lentamente, reveló a un extraño
@@ -3883,7 +4855,9 @@ el aire; mientras otros estaban jugando al salto, en el borde mismo del
 Parapet. Su estudio estaba tan lleno de ellos que encontró difícil hacer
 su camino a su escritorio.”
 - Charles Mackay, Memoirs of Extraordinary Popular Delusions , Vol. III,
-Parte I. 1841.%%%%
+Parte I. 1841.
+
+%%%%
 zombie
 
 “Parecía que mientras el zombi venía de la tumba, no era un fantasma,
@@ -3900,4 +4874,6 @@ como una bestia tonta si esclaviza.
 
 ¡No tienen miedo! No importa lo que hagamos, no importa cuántos matemos, ellos lo harán
 nunca, nunca tengas miedo!
--Max Brooks, World War Z: An Oral History of the Zombie War . 2006.%%%%
+-Max Brooks, World War Z: An Oral History of the Zombie War . 2006.
+
+%%%%

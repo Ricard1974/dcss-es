@@ -204,9 +204,9 @@ y esperar (con <input>$cmd[CMD_WAIT</input><localtiles>_o_por
 <input>clicking</input>_en_su_carácter</localtiles>)_para_que_ellos_vengan_a_tú.
 
 %%%%
-tutorial2_resting_reminder
+tutorial2 resting_reminder
 
-Recuerda,_puedes_descansar_pulsando_<input>$cmd[CMD_REST]</input>.
+Recuerda, puedes descansa con <input>$cmd[CMD REST]</input>.
 
 %%%%
 tutorial2 compare_monster_desc

@@ -1,90 +1,128 @@
 %%%%
 Fast status
 
-Todas tus acciones son 50% más rápidas.%%%%
+Todas tus acciones son 50% más rápidas.
+
+%%%%
 Invis status
 
 Eres invisible. La mayoría de los enemigos no podrán verte y sufrirán
 sanciones para golpear, aunque pueden ser capaces de adivinar en su ubicación general.
 Si el estado está gris, es activo pero ineficaz por alguna razón (por
 ejemplo si tú está brillando con contaminación mágica o de pie en superficial
-agua).%%%%
+agua).
+
+%%%%
 Tele status
 
 Estás a punto de teletransportar. Mientras espera para teletransportar, tratando de aplicar el
 estado de nuevo (como mediante el uso de un pergamino de teletransportación) cancelará el
-teletransportación.%%%%
+teletransportación.
+
+%%%%
 !Tele! status
 
 Estás a punto de teletransportar hacia monstruos hostiles, si es posible. Antes de esto
 sucede, tratando de teletransportar de nuevo (como usando un pergamino de
-teletransportación) cancelará esta teletransportación.%%%%
+teletransportación) cancelará esta teletransportación.
+
+%%%%
 Fly status
 
 Tú está volando sobre el suelo, y son capaces de cruzar el agua y lava o luchar
 arriba aguas poco profundas sin sanciones. La mayoría de los tipos de vuelo pasarán el tiempo – ser
-¡Cuidado con lo que estás arriba cuando eso sucede!%%%%
+¡Cuidado con lo que estás arriba cuando eso sucede!
+
+%%%%
 Agi status
 
-Tú es naturalmente ágil, y ganar un bono a su evasión.%%%%
+Tú es naturalmente ágil, y ganar un bono a su evasión.
+
+%%%%
 Brill status
 
 Tú es naturalmente inteligente, y ganar un bono al poder de sus hechizos también
-como reducir su costo mágico (redondeando).%%%%
+como reducir su costo mágico (redondeando).
+
+%%%%
 Might status
 
-Tú es antinaturalmente poderoso, haciendo significativamente más daño en el combate físico.%%%%
+Tú es antinaturalmente poderoso, haciendo significativamente más daño en el combate físico.
+
+%%%%
 Regen status
 
 Tú regenera la salud a un ritmo antinaturalmente rápido. Esto sólo se muestra para
-regeneración temporal.%%%%
+regeneración temporal.
+
+%%%%
 -Regen status
 
-Su salud ha dejado de regenerarse debido a la presencia de monstruos cercanos.%%%%
+Su salud ha dejado de regenerarse debido a la presencia de monstruos cercanos.
+
+%%%%
 MPRegen status
 
 Tú regenera la salud y la magia a un ritmo antinaturalmente rápido. Esto sólo se muestra
-para la regeneración temporal.%%%%
+para la regeneración temporal.
+
+%%%%
 Touch status
 
 Tus ataques no dan ningún daño, pero tienen la oportunidad de confundir monstruos que ellos
-golpe.%%%%
+golpe.
+
+%%%%
 Will++ status
 
-Su fuerza de voluntad es mucho más fuerte, protegiendo contra muchos efectos mágicos.%%%%
+Su fuerza de voluntad es mucho más fuerte, protegiendo contra muchos efectos mágicos.
+
+%%%%
 Regen Will++ status
 
 La Mano de Trog te hace regenerar la salud de forma natural
 ritmo rápido y fortalecer su fuerza de voluntad para protegerte contra muchos mágicos
-Efectos.%%%%
+Efectos.
+
+%%%%
 Berserk status
 
 Tú es apresurado, tratar el aumento del daño en el combate, y han aumentado la salud, pero
 son incapaces de realizar la mayoría de acciones que no se mueven y atacan en melee.
 El estado se apagará muy rápidamente a menos que estés atacando monstruos, y
 cuando caduca, se le ralentizará e incapaz de volver a enloquecer por un corto
-duración.%%%%
+duración.
+
+%%%%
 -Berserk status
 
 Te estás recuperando de tu rabia de berserk, y no eres capaz de volver a estar acostado por
-una corta duración.%%%%
+una corta duración.
+
+%%%%
 Bearserk status
 
 ¡Estás lleno de rabia barbárica! Tú es apresurado, tratar daño grizzly, y
 han aumentado enormemente la salud, pero no es posible hacer mucho más que
 Muévete y maul foes. Tú va a pedir furwell a este estado muy rápidamente a menos que tú
 están atacando, y cuando caduca tú será lento y incapaz de ser grosero
-otra vez por un corto período.%%%%
+otra vez por un corto período.
+
+%%%%
 Pois status
 
 Tú está envenenado y perderá continuamente la salud. Mientras se envenena, su corriente
 la salud se recuperará parcialmente para mostrar el eventual daño venenoso
-se tratará. El veneno se puede curar inmediatamente por pociones de curado.%%%%
+se tratará. El veneno se puede curar inmediatamente por pociones de curado.
+
+%%%%
 Conf status
 
 Estás confundido. Tú puede tropezar en una dirección al azar al intentar moverse
 o ataque, y son incapaces de lanzar hechizos o utilizar la mayoría de artículos que no sean pociones.
-La confusión se puede curar inmediatamente por pociones de curado.%%%%
+La confusión se puede curar inmediatamente por pociones de curado.
+
+%%%%
 Contam status
 
 Estás brillando con radiación mutagénica. Esto puede infligir mutaciones con el tiempo
@@ -97,298 +135,452 @@ si dmg
 "\nUna explosión en su nivel actual de contaminación podría..."
 "inflicto a "... daño".
 final
-}%%%%
+}
+
+%%%%
 Drain status
 
 Su salud máxima ha sido agotada temporalmente por energía negativa. Esto
 el estado no se desgastará esperando, pero gradualmente expirará a medida que tú gana
-experiencia.%%%%
+experiencia.
+
+%%%%
 -Breath status
 
 Tú está atrapando su aliento, y son incapaces de utilizar su innata capacidad respiratoria
-hasta que el estado expira.%%%%
+hasta que el estado expira.
+
+%%%%
 Breath status
 
 Indica cuántos usos de su arma respiratoria draconiana están disponibles. Si
 indicador es dim, hay cero. De lo contrario, el número de pluses indica
-usos adicionales disponibles.%%%%
+usos adicionales disponibles.
+
+%%%%
 Breath+ status
 
-<Breath status>%%%%
+<Breath status>
+
+%%%%
 Breath++ status
 
-<Breath status>%%%%
+<Breath status>
+
+%%%%
 Exh status
 
 Tú están exhaustos, y no pueden activar poderes divinos que causan
-agotamiento hasta que el estado expira.%%%%
+agotamiento hasta que el estado expira.
+
+%%%%
 Slow status
 
-Todas tus acciones tardan un 50% más.%%%%
+Todas tus acciones tardan un 50% más.
+
+%%%%
 Para status
 
-Estás paralizado y completamente incapaz de actuar.%%%%
+Estás paralizado y completamente incapaz de actuar.
+
+%%%%
 Sleep status
 
-Estás dormido, y completamente incapaz de actuar. Tomar daño te despertará.%%%%
+Estás dormido, y completamente incapaz de actuar. Tomar daño te despertará.
+
+%%%%
 Held status
 
 Tú se mantiene en una red o una web de araña. Tú no puede moverse libremente y lo hará en su lugar
-tratar de luchar libre.%%%%
+tratar de luchar libre.
+
+%%%%
 Constr status
 
 Estás siendo restringido por un enemigo. Tu evasión está deteriorada, y lo harás
 Tomar daño con el tiempo. Tú es incapaz de alejarse del enemigo, aunque tú
 puede luchar por escapar tratando de hacerlo, y se volverá cada vez más
-es probable que tenga éxito y quebrar la constricción al hacerlo múltiples veces.%%%%
+es probable que tenga éxito y quebrar la constricción al hacerlo múltiples veces.
+
+%%%%
 Mesm status
 
 Estás mesmerizado y no puedes alejarte del monstruo mesmerizándote. El
 efecto se puede romper matando o confundiendo al monstruo responsable o
-rompiendo la línea de visión con ellos.%%%%
+rompiendo la línea de visión con ellos.
+
+%%%%
 Fear status
 
 Estás vencido con miedo y no puedes avanzar hacia el monstruo causando miedo
 Tú. El efecto puede romperse matando o confundiendo al monstruo responsable
-o rompiendo la línea de visión con ellos.%%%%
+o rompiendo la línea de visión con ellos.
+
+%%%%
 -Tele status
 
-Se le impide teletransportar o parpadear.%%%%
+Se le impide teletransportar o parpadear.
+
+%%%%
 -Move status
 
 No puedes caminar, volar alrededor, deslizarse, etc. Aún puedes tomar otras acciones,
-y todavía se puede mover a través de translocaciones o siendo empujado, tirado, y así sucesivamente.%%%%
+y todavía se puede mover a través de translocaciones o siendo empujado, tirado, y así sucesivamente.
+
+%%%%
 Mark status
 
 Su ubicación está marcada debido a los efectos de una trampa o un hechizo, y monstruos
 te cazará más precisamente y será capaz de detectarte incluso si
-no están en su visión.%%%%
+no están en su visión.
+
+%%%%
 Fire status
 
 Tú está cubierto con fuego pegajoso, que causa daño durante una duración moderada.
 Moving apagará el fuego mucho más rápidamente, y entrará en agua se extinguirá
-inmediatamente.%%%%
+inmediatamente.
+
+%%%%
 Fire+ status
 
-<Fire status>%%%%
+<Fire status>
+
+%%%%
 Fire++ status
 
-<Fire status>%%%%
+<Fire status>
+
+%%%%
 Corona status
 
 Estás rodeado de luz, reduciendo enormemente tu sigilo y haciéndote
-más fácil de golpear.%%%%
+más fácil de golpear.
+
+%%%%
 Barbs status
 
 Hay barbos incrustados en la piel, y moverse alrededor hará que tú tome
 daño. Permanecer en su lugar por un corto tiempo le permitirá eliminar los barbs
-sin hacer daño.%%%%
+sin hacer daño.
+
+%%%%
 Sick status
 
-Has estado enfermo, y tu salud ya no se regenerará.%%%%
+Has estado enfermo, y tu salud ya no se regenerará.
+
+%%%%
 Vertigo status
 
 Estás desorientado y mareado, reduciendo tu precisión, evasión y
-deletreando la tasa de éxito.%%%%
+deletreando la tasa de éxito.
+
+%%%%
 Corr status
 
 Tú está corroído, reduciendo su daño en el combate físico y su armadura por una
-cantidad dependiendo de la gravedad de la corrosión.%%%%
+cantidad dependiendo de la gravedad de la corrosión.
+
+%%%%
 Flay status
 
 Tú está cubierto de heridas ilusionarias, causando graves daños mientras el efecto
 sigue activo. Destruir la fuente de la ilusión restaurará toda la salud
-perdido a la fuga.%%%%
+perdido a la fuga.
+
+%%%%
 Weak status
 
-Tus ataques de meleo hacen un 25% menos daño.%%%%
+Tus ataques de meleo hacen un 25% menos daño.
+
+%%%%
 Frozen status
 
-Tú está cubierto de hielo, y su velocidad de movimiento se reduce.%%%%
+Tú está cubierto de hielo, y su velocidad de movimiento se reduce.
+
+%%%%
 Sap status
 
 Tu magia está salpicada. Casting un hechizo te hará perder el acceso a tu
-magia, previniendo brevemente que castigues otros hechizos.%%%%
+magia, previniendo brevemente que castigues otros hechizos.
+
+%%%%
 -Cast status
 
-No puedes hacer hechizos.%%%%
+No puedes hacer hechizos.
+
+%%%%
 Crippled status
 
 Al menos una de tus fuerzas, inteligencia o destreza ha caído a 0 o
-abajo. Tú actuará lentamente hasta que esta situación sea remediada.%%%%
+abajo. Tú actuará lentamente hasta que esta situación sea remediada.
+
+%%%%
 DChan status
 
 Estás canalizando a los muertos, causando a cualquier criatura viviente muerta en tu
-cerca de ser criado como sirvientes espectrales.%%%%
+cerca de ser criado como sirvientes espectrales.
+
+%%%%
 Vit status
 
 Tú es divinamente vitalizado, proporcionando protección contra el veneno, la confusión,
 petrificación, y enfermedad, y aumentar y sostener su fuerza,
-inteligencia y destreza.%%%%
+inteligencia y destreza.
+
+%%%%
 Will/2 status
 
-Tu fuerza de voluntad es más débil, haciéndote vulnerable a muchos efectos mágicos.%%%%
+Tu fuerza de voluntad es más débil, haciéndote vulnerable a muchos efectos mágicos.
+
+%%%%
 Stone status
 
 Estás petrificada y completamente incapaz de actuar. Eres muy fácil de golpear,
-pero todos los daños causados se reducen sustancialmente.%%%%
+pero todos los daños causados se reducen sustancialmente.
+
+%%%%
 Petr status
 
 Te estás convirtiendo en piedra. Tus acciones son lentas, todo el daño es ligeramente
-reducido, y pronto serás completamente petrificado (gaining the Stone status).%%%%
+reducido, y pronto serás completamente petrificado (gaining the Stone status).
+
+%%%%
 Resist status
 
-Tú es más resistente al fuego, frío, electricidad, veneno y ácido.%%%%
+Tú es más resistente al fuego, frío, electricidad, veneno y ácido.
+
+%%%%
 Slime status
 
 Tu arma peluda o tus puños están recubiertos en el bacalao, y girarán el siguiente
-monstruo viviente o no muerto corpóreo que golpeas en un eslido neutral.%%%%
+monstruo viviente o no muerto corpóreo que golpeas en un eslido neutral.
+
+%%%%
 Swift status
 
-Estás cubriendo el suelo rápidamente.%%%%
+Estás cubriendo el suelo rápidamente.
+
+%%%%
 -Swift status
 
-Estás cubriendo tierra lentamente.%%%%
+Estás cubriendo tierra lentamente.
+
+%%%%
 DDoor status
 
 Tú es temporalmente invulnerable para dañar, pero son llevados cerca de la muerte en el
 proceso y no puede ser afectado por la curación mientras el efecto es activo. Después de la
-El hechizo expira, no puede ser inmediatamente retransmitido.%%%%
+El hechizo expira, no puede ser inmediatamente retransmitido.
+
+%%%%
 -DDoor status
 
 Aún estás cerca de la puerta de la muerte, y no puedes retransmitir la puerta de la muerte por un
-duración corta.%%%%
+duración corta.
+
+%%%%
 Quad status
 
-QUAD DAMAGE!%%%%
+QUAD DAMAGE!
+
+%%%%
 Sil status
 
 Estás silenciado. Esto hace pergaminos de lectura, hechizos de casting, invocando divino
-habilidades, o gritando imposible.%%%%
+habilidades, o gritando imposible.
+
+%%%%
 Flooded status
 
 Sus pulmones están llenos de líquido, impidiéndole respirar correctamente. Esto
 hace imposible la lectura de pergaminos, hechizos de casting e invocando habilidades divinas.
-Tú también tomará daño de asfixia cada vuelta.%%%%
+Tú también tomará daño de asfixia cada vuelta.
+
+%%%%
 Stealth status
 
-Tu sigilo se incrementa mucho.%%%%
+Tu sigilo se incrementa mucho.
+
+%%%%
 Vortex status
 
 Estás en el ojo de una poderosa tormenta de hielo. Después del vórtice se desvanece, no puede ser
-llamó de nuevo por un corto tiempo.%%%%
+llamó de nuevo por un corto tiempo.
+
+%%%%
 -Vortex status
 
 Tú está rodeado de vientos inestables, y no puede retransmitir Polar Vortex para un corto
-duración.%%%%
+duración.
+
+%%%%
 Liquid status
 
 Estás licuando el suelo a tu alrededor, desacelerando el movimiento de todas las criaturas
-en la zona.%%%%
+en la zona.
+
+%%%%
 Hero status
 
-Tus habilidades de combate se incrementan temporalmente.%%%%
+Tus habilidades de combate se incrementan temporalmente.
+
+%%%%
 Finesse status
 
-Su velocidad de combate se incrementa enormemente.%%%%
+Su velocidad de combate se incrementa enormemente.
+
+%%%%
 Duel status
 
 Estás cavando un enemigo en Okawaru's Arena, y será devuelto cuando llegues
-si eres victorioso.%%%%
+si eres victorioso.
+
+%%%%
 Disjoin status
 
 Tú está desestabilizando el espacio alrededor de tú mismo, causando monstruos cercanos para ser
-al azar parpadeó lejos de ti.%%%%
+al azar parpadeó lejos de ti.
+
+%%%%
 Fugue status
 
 Su arma es aumentada temporalmente por las almas de los condenados, proporcionando
 Matar bonos que aumentan con cada enemigo muerto. En el bono máximo,
-Los enemigos adyacentes a los objetivos de sus ataques sufren dolor.%%%%
+Los enemigos adyacentes a los objetivos de sus ataques sufren dolor.
+
+%%%%
 Debt status
 
 Has vivido más allá de tus medios. No puedes gastar oro de nuevo hasta ganar
-lo suficiente para cancelar tu deuda.%%%%
+lo suficiente para cancelar tu deuda.
+
+%%%%
 Toxic status
 
 Tú está irradiando energía tóxica, y infligirá continuamente veneno en todo
-criaturas cercanas.%%%%
+criaturas cercanas.
+
+%%%%
 Recite status
 
 Estás recitando las leyes de Zin a monstruos cercanos, con una variedad de efectos
 dependiendo del objetivo. Después de terminar una recitación, no se puede repetir
-por un corto tiempo.%%%%
+por un corto tiempo.
+
+%%%%
 -Recite status
 
 Recientemente has terminado de recitar las leyes de Zin, y no puedes recitar de nuevo para un
-duración corta.%%%%
+duración corta.
+
+%%%%
 rF- status
 
-Eres más vulnerable al fuego.%%%%
+Eres más vulnerable al fuego.
+
+%%%%
 rP- status
 
-Eres más vulnerable al veneno.%%%%
+Eres más vulnerable al veneno.
+
+%%%%
 Bullseye status
 
 Tú ha apuntado a un enemigo con un tirón dimensional, causando misiles disparados
-o arrojado a un enemigo diferente para ser teletransportado al objetivo.%%%%
+o arrojado a un enemigo diferente para ser teletransportado al objetivo.
+
+%%%%
 Forest status
 
 Estás llamando a un avión boscoso a la existencia temporal, y despertar cerca
-árboles para dañar a tus enemigos.%%%%
+árboles para dañar a tus enemigos.
+
+%%%%
 Dragoncall status
 
 Estás llamando a dragones poderosos para atacar a tus enemigos. Cada dragón
 respuestas la llamada vaciará tu energía mágica. Después de que la llamada termine, no puede
-se publicará de nuevo por un corto tiempo.%%%%
+se publicará de nuevo por un corto tiempo.
+
+%%%%
 -Dragoncall status
 
 Has llamado recientemente a los dragones, y no puedes retransmitir el Llamado de Dragon para un
-duración corta.%%%%
+duración corta.
+
+%%%%
 -Potion status
 
-No puedes hacer pociones.%%%%
+No puedes hacer pociones.
+
+%%%%
 rF+ status
 
-Eres más resistente al fuego.%%%%
+Eres más resistente al fuego.
+
+%%%%
 rC+ status
 
-Eres más resistente al frío.%%%%
+Eres más resistente al frío.
+
+%%%%
 rElec+ status
 
-Eres más resistente a la electricidad.%%%%
+Eres más resistente a la electricidad.
+
+%%%%
 Horr status
 
 Estás aterrorizado de monstruos cercanos, reduciendo tu daño y precisión en
-combate así como el poder de tus hechizos.%%%%
+combate así como el poder de tus hechizos.
+
+%%%%
 -Scroll status
 
-No puedes leer pergaminos.%%%%
+No puedes leer pergaminos.
+
+%%%%
 Cleave status
 
-Tus ataques de melee se arrastren, golpeando todos los objetivos adyacentes.%%%%
+Tus ataques de melee se arrastren, golpeando todos los objetivos adyacentes.
+
+%%%%
 Ambros status
 
 Tú está regenerando la salud y la magia, pero también están confundidos. Curando
-la confusión también terminará la regeneración.%%%%
+la confusión también terminará la regeneración.
+
+%%%%
 Surge status
 
 Su próximo uso de un dispositivo evocable tendrá su potencia mejorada, al costo
-de algo de tu magia.%%%%
+de algo de tu magia.
+
+%%%%
 Howl status
 
 Un aullido aterrador está haciendo eco en tu mente, llamando a criaturas poderosas a
-Ataque.%%%%
+Ataque.
+
+%%%%
 Blood status
 
 Su cuerpo está cubierto de sangre congealizada, sirviendo como armadura durante el tiempo que tú
-Sigue gravemente herido.%%%%
+Sigue gravemente herido.
+
+%%%%
 Channel status
 
-Estás canalizando energía mágica.%%%%
+Estás canalizando energía mágica.
+
+%%%%
 Beast status
 
 Tú ha sido transformado en una monstruosa y furtiva fiesta. El feroz
-La energía que atraviesa tus extremidades te mantiene listo para matar.%%%%
+La energía que atraviesa tus extremidades te mantiene listo para matar.
+
+%%%%
 Flux status
 
 Eres inestable a nivel fundamental. Tú inflige niveles peligrosos
@@ -397,23 +589,31 @@ causa un derretimiento altamente localizado, causando enormes daños.
 
 Sin embargo, esta inestabilidad te hace incapaz de usar armas, escudos o
 armadura corporal. También brilla, reduciendo el robo y evitando la invisibilidad,
-y tú hace menos daño en la melee, ya que sus extremidades a veces desestabilizan el punto medio.%%%%
+y tú hace menos daño en la melee, ya que sus extremidades a veces desestabilizan el punto medio.
+
+%%%%
 Serpent status
 
 Has sido transformado en una serpiente gigante, de sangre fría y resistente al veneno,
-listo para enrollar sus bobinas alrededor de enemigos y aplastarlos hasta la muerte.%%%%
+listo para enrollar sus bobinas alrededor de enemigos y aplastarlos hasta la muerte.
+
+%%%%
 Maw status
 
 Tu sección media se ha transformado en una boca gigante, rociando y listo para devorar
 enemigos. La boca puede devorar criaturas muertas, sanándote hasta un grado aumentado
 por tu habilidad de Shapeshifting y el poder de la criatura comido. Habilidad también
-aumenta el daño causado por la mandíbula.%%%%
+aumenta el daño causado por la mandíbula.
+
+%%%%
 Statue status
 
 Has sido transformado en una estatua de piedra lenta pero extremadamente robusta.
 Su daño meleo, tanto desarmado como con armas, se aumenta sustancialmente.
 Su cuerpo de piedra es inmune al veneno y al miasma, y gana resistencia a
-electricidad, energía negativa y tormento.%%%%
+electricidad, energía negativa y tormento.
+
+%%%%
 Dragon status
 
 {}
@@ -446,14 +646,18 @@ desc = desc .. "."
 
 retorno desc
 Tus ataques melee dan un daño increíble, y eres mucho más robusto pero
-menos evasiva.%%%%
+menos evasiva.
+
+%%%%
 Storm status
 
 Has sido transformado en una tempestad llena de rayos. Tu melee ataca
 son fortalecidos y electrificados, y golpean a todos los enemigos adyacentes. Ganas vuelo,
 mayor evasión, inmunidad a veneno, miasma, petrificación y constricción,
 y resistencia a la electricidad. Ganas la capacidad de lanzarte a los enemigos
-como un rayo.%%%%
+como un rayo.
+
+%%%%
 Death status
 
 Tú ha sido transformado en un delito inquebrantable contra la vida misma.
@@ -462,7 +666,9 @@ Las fosas golpeadas por tus manos o las armas meleadas están debilitadas, ralen
 y puedes curarte a ti mismo atormentando enemigos vivos cerca. También te resistes
 frío, han mejorado la fuerza de voluntad, y son inmunes al veneno, el miasma, negativo
 energía y tormento. Desafortunadamente, tú es vulnerable al daño santo y
-Dispelar Undead, y no puede consumir pociones.%%%%
+Dispelar Undead, y no puede consumir pociones.
+
+%%%%
 Bat status
 
 Has sido transformado en un murciélago rápido, aumentando tu evasión pero
@@ -470,7 +676,9 @@ debilitando sustancialmente tus ataques de melee.
 
 Cualquier arma, armadura y anillos equipados se combinan, y tú no puede lanzar
 hechizos. La eficacia de sus ataques de melee mientras que en esta forma se basa en
-nivel de experiencia en lugar de la habilidad de Combate Desarmado.%%%%
+nivel de experiencia en lugar de la habilidad de Combate Desarmado.
+
+%%%%
 Pig status
 
 Te has convertido en un cerdo. Te mueves rápido pero eres menos eficaz
@@ -478,7 +686,9 @@ en melee.
 
 Cualquier arma, armadura y anillos equipados se combinan, y tú no puede lanzar
 hechizos. La eficacia de sus ataques de melee mientras que en esta forma se basa en
-nivel de experiencia en lugar de la habilidad de Combate Desarmado.%%%%
+nivel de experiencia en lugar de la habilidad de Combate Desarmado.
+
+%%%%
 App status
 
 {}
@@ -489,14 +699,18 @@ más
 "Los cuernos monstruosos o los talones han crecido de su cuerpo, " ..
 "concediendo una oportunidad de hacer un ataque extra en la melee."
 final
-}%%%%
+}
+
+%%%%
 Tree status
 
 Has sido transformado en un árbol y estás arraigado al suelo, incapaz de
 Muévete o teletransporte. Tú tiene una evasión mínima pero aumento de la salud y natural
 armadura, y son resistentes al veneno, e inmunes a tormento y ahogamiento.
 
-Cualquier manto equipado, casco, guantes, botas y armadura corporal están soldadas.%%%%
+Cualquier manto equipado, casco, guantes, botas y armadura corporal están soldadas.
+
+%%%%
 Wisp status
 
 Has sido transformado en un gas insustancial. Eres muy fuerte.
@@ -505,7 +719,9 @@ veneno y energía negativa.
 
 Cualquier arma, armadura y joyería equipados se combinan, y tú no puede
 Escribir hechizos. La eficacia de sus ataques de melee mientras que en esta forma se basa
-en el nivel de experiencia en lugar de la habilidad de Combate Desarmado.%%%%
+en el nivel de experiencia en lugar de la habilidad de Combate Desarmado.
+
+%%%%
 Fungus status
 
 Has sido transformado en un hongo sensible. Eres muy evasiva y
@@ -515,7 +731,9 @@ inmune a energía negativa.
 
 Todas las armas y armaduras equipadas están soldadas, y tú no puede lanzar hechizos.
 La eficacia de sus ataques de melee mientras que en esta forma se basa en
-nivel de experiencia en lugar de la habilidad de Combate Desarmado.%%%%
+nivel de experiencia en lugar de la habilidad de Combate Desarmado.
+
+%%%%
 Shadow status
 
 Has sido transformado en una masa de sombras oscuras. Eres tú.
@@ -523,90 +741,134 @@ permanentemente invisibles y son inmunes al veneno, el drenaje y el tormento. To
 el daño entrante se reduce a la mitad, tú sangró humo en cualquier ataque entrante, y tú tiene
 infinita fuerza de voluntad. Sin embargo, su capacidad para hacer frente a los daños en la melee y con
 los ataques de rango se reduce a la mitad, su poder de la ortografía se ve muy obstaculizado, y su
-la salud máxima se drena cuando se daña.%%%%
+la salud máxima se drena cuando se daña.
+
+%%%%
 Orb status
 
 Estás cerca (o quizás sosteniendo) del Orbo de Zot, cuyas energías perturban
 magia de translocación. La teleportación tomará más tiempo y los desplazamientos de parpadeo pueden
-transporte a corta distancia de su destino previsto.%%%%
+transporte a corta distancia de su destino previsto.
+
+%%%%
 Orb? status
 
 Sostienes el Orbo de Charlatan, cuyas energías perturban la translocación
 magia. La teletransportación tomará más tiempo y los desplazamientos de parpadeo pueden transportarlo
-a corta distancia de su destino previsto.%%%%
+a corta distancia de su destino previsto.
+
+%%%%
 -Hop status
 
 Tus piernas están cansadas, y no puedes saltar. Este estado sólo recuperará
 después de pasar varios turnos sin moverse. (Otros actos, como el ataque o
-hechizos de casting, están bien.)%%%%
+hechizos de casting, están bien.)
+
+%%%%
 Ray status
 
 Actualmente estás canalizando un rayo de energía mágica. Prensa
 <w>.</w> o <w>s</w> para esperar en su lugar mantendrá e intensificará el rayo, en
 el costo de 1 MP por turno. Cualquier otra acción, incluyendo retransmitir el hechizo,
-terminará.%%%%
+terminará.
+
+%%%%
 Ray+ status
 
-<Ray status>%%%%
+<Ray status>
+
+%%%%
 Ray++ status
 
-<Ray status>%%%%
+<Ray status>
+
+%%%%
 Lash status
 
 Tú está moviendo a velocidad sobrenatural, causando acciones de movimiento para convertirse
 instantánea. Cualquier ataque marcial realizado mientras se mueve de esta manera el acuerdo aumentó
-daño y nunca falta.%%%%
+daño y nunca falta.
+
+%%%%
 Heavenly status
 
 Estás rodeado de una tormenta de nubes celestiales. Mientras la tormenta se precipita, tu
 la evasión y la precisión de combate y los daños aumentan sustancialmente, y
 enemigos llamativos con ataques marciales aumenta este bono. La tormenta se debilita
 con el tiempo y se desvanece una vez que el bono alcanza cero. Las nubes celestiales
-prevenir la invisibilidad, y ocultar la visión de aquellos fuera de la tormenta.%%%%
+prevenir la invisibilidad, y ocultar la visión de aquellos fuera de la tormenta.
+
+%%%%
 SlowM status
 
-Su movimiento se ralentiza en este terreno líquido.%%%%
+Su movimiento se ralentiza en este terreno líquido.
+
+%%%%
 Alive status
 
-Estás lleno de sangre, y regenera la salud rápidamente.%%%%
+Estás lleno de sangre, y regenera la salud rápidamente.
+
+%%%%
 Aug status
 
-Tú recibe bonificaciones de ortografía y matanza que escalan con su salud.%%%%
+Tú recibe bonificaciones de ortografía y matanza que escalan con su salud.
+
+%%%%
 Beogh status
 
 Puedes jurar lealtad a Beogh, el dios de todos los orcos, a través de un sacerdote cercano.
-Para ello, utilice la habilidad Convertir en Beogh en el menú de habilidad.%%%%
+Para ello, utilice la habilidad Convertir en Beogh en el menú de habilidad.
+
+%%%%
 Bloodless status
 
 Su cuerpo está completamente desprovisto de sangre, reduciendo su salud máxima y
 previniendo que tú regenera la salud cuando los monstruos son visibles. Eres tú.
 inmune al veneno y energía negativa, resiste significativamente el frío y resiste
-tormento.%%%%
+tormento.
+
+%%%%
 Bribe status
 
-Está rebosando a los habitantes de la rama actual.%%%%
+Está rebosando a los habitantes de la rama actual.
+
+%%%%
 Cloud status
 
-Estás en una nube.%%%%
+Estás en una nube.
+
+%%%%
 -Clouds status
 
-El aire está demasiado quieto para formar nubes.%%%%
+El aire está demasiado quieto para formar nubes.
+
+%%%%
 Dig status
 
-Estás cavando.%%%%
+Estás cavando.
+
+%%%%
 Elixir status
 
 Su salud y/o magia están siendo restaurados rápidamente, así como la salud de
-tus aliados.%%%%
+tus aliados.
+
+%%%%
 Fast+Slow status
 
-Está bajo efectos de ralentización y precipitación.%%%%
+Está bajo efectos de ralentización y precipitación.
+
+%%%%
 Lava status
 
-Estás volando sobre lava.%%%%
+Estás volando sobre lava.
+
+%%%%
 Recall status
 
-Estás recordando a tus aliados.%%%%
+Estás recordando a tus aliados.
+
+%%%%
 Water status
 
 {}
@@ -620,213 +882,317 @@ verbo = "sobre"
 final
 
 "Tú son actualmente "... verbo .. "... hazaña .. "."
-}%%%%
+}
+
+%%%%
 Attr status
 
-Los enemigos se translocaron mágicamente hacia ti. (Esto no los despertará.)%%%%
+Los enemigos se translocaron mágicamente hacia ti. (Esto no los despertará.)
+
+%%%%
 Zot status
 
 Has pasado mucho tiempo en una rama, permitiendo el poder masculino de Zot
 para notarlo. Si pasa el número indicado de vueltas en la rama sin
-descendiendo a un nuevo piso, Zot te encontrará, causando daño permanente a la salud.%%%%
+descendiendo a un nuevo piso, Zot te encontrará, causando daño permanente a la salud.
+
+%%%%
 Zot count status
 
 Si tú pasa el número indicado de vueltas en esta rama sin descender a
-un nuevo piso, Zot te encontrará, causando daño permanente a la salud.%%%%
+un nuevo piso, Zot te encontrará, causando daño permanente a la salud.
+
+%%%%
 Gem status
 
 Si tú pasa el número indicado de vueltas en esta rama, su gema se encontrará
-y destrozado por el poder de Zot.%%%%
+y destrozado por el poder de Zot.
+
+%%%%
 Gem (*) status
 
 El poder de Zot ya no te persigue, pero la gema de esta rama sigue siendo
-intacto.%%%%
+intacto.
+
+%%%%
 rF0 status
 
-La ira de Ignis te impide resistir el fuego.%%%%
+La ira de Ignis te impide resistir el fuego.
+
+%%%%
 -Blink status
 
 Tú es inestable y no puede lanzar Blink o activar habilidades de parpadeo evocadas
 por un corto período de tiempo. Fuentes poderosas de la magia de translocación como
 desplazamientos de parpadeo ignoran esta limitación, al igual que las fuentes externas de parpadeo
-fuera de tu control.%%%%
+fuera de tu control.
+
+%%%%
 -Bbolt status
 
 Tú está recuperando de convertirse en rayo, y son incapaces de parpadear otra vez
-por una corta duración.%%%%
+por una corta duración.
+
+%%%%
 Charge- status
 
 Actualmente está canalizando carga eléctrica. <w>.</w> o <w>s</w>
 esperar en su lugar mantendrá y continuará este proceso hasta que se descargue.
 Cualquier otra acción, incluyendo retransmitir el hechizo, disipará el cargo
-inofensivamente.%%%%
+inofensivamente.
+
+%%%%
 Charge/ status
 
-<Charge- status>%%%%
+<Charge- status>
+
+%%%%
 Charge\ status
 
-<Charge- status>%%%%
+<Charge- status>
+
+%%%%
 Charge| status
 
-<Charge- status>%%%%
+<Charge- status>
+
+%%%%
 Wave status
 
 Actualmente estás canalizando ondas de llamas. <w>.</w> o <w>s</w>
 para esperar en su lugar mantendrá e intensificará las olas, a costa de 1 MP por
-Gira. Cualquier otra acción, incluyendo retransmitir el hechizo, lo terminará.%%%%
+Gira. Cualquier otra acción, incluyendo retransmitir el hechizo, lo terminará.
+
+%%%%
 Wave+ status
 
-<Wave status>%%%%
+<Wave status>
+
+%%%%
 Ramparts status
 
 Estás encasillando paredes cercanas en hielo. El hielo se romperá y se caerá si
-pasar a una nueva posición.%%%%
+pasar a una nueva posición.
+
+%%%%
 Bog status
 
 Tú está creando un bog tóxico en la zona cercana, y son inmunes a sus efectos.
-Tú no puede sostener esta transformación en áreas fuera de su línea de visión.%%%%
+Tú no puede sostener esta transformación en áreas fuera de su línea de visión.
+
+%%%%
 Enlightened status
 
 Tú está en contacto con una mayor verdad, aumentando su resistencia a los efectos
-que apuntan a su fuerza de voluntad. Trágicamente, esta epifanía no durará.%%%%
+que apuntan a su fuerza de voluntad. Trágicamente, esta epifanía no durará.
+
+%%%%
 Will+ status
 
-<Enlightened status>%%%%
+<Enlightened status>
+
+%%%%
 Reap status
 
-¡Los muertos están saltando! Las criaturas vivientes que matan pueden levantarse como sirvientes zombados.%%%%
+¡Los muertos están saltando! Las criaturas vivientes que matan pueden levantarse como sirvientes zombados.
+
+%%%%
 Peek status
 
 Estás mirando por las escaleras. Puede regresar libremente al nivel anterior, pero
-una vez que tomes cualquier acción en este piso, todas las escaleras que conducen hacia atrás se colapsarán.%%%%
+una vez que tomes cualquier acción en este piso, todas las escaleras que conducen hacia atrás se colapsarán.
+
+%%%%
 Fragile status
 
 Tu cuerpo es tan frágil y frágil como el vidrio, aumentando el daño que tomas
-todas las fuentes.%%%%
+todas las fuentes.
+
+%%%%
 Ooze status
 
 El ooze acidic sale de las paredes que te rodean. Cada vuelta, los enemigos están dañados
-dependiendo del número de paredes delgadas que permanecen adyacentes.%%%%
+dependiendo del número de paredes delgadas que permanecen adyacentes.
+
+%%%%
 Dog status
 
-Has llamado a tu canino familiar.%%%%
+Has llamado a tu canino familiar.
+
+%%%%
 -Dog status
 
 Tu canino familiar se está recuperando de sus lesiones, y no puede ser convocado
-otra vez por un corto tiempo.%%%%
+otra vez por un corto tiempo.
+
+%%%%
 -Siphon status
 
 Hace poco habéis sofocado la esencia de los vivos, y no podéis hacerlo de nuevo por
-poco tiempo.%%%%
+poco tiempo.
+
+%%%%
 -Word status
 
 Estás cansado de hablar recientemente una palabra de caos, y no puedes hacerlo
-otra vez por un corto tiempo.%%%%
+otra vez por un corto tiempo.
+
+%%%%
 Jinx status
 
 Los espíritus jinetes te rodean. Cuando atacas enemigos, los que fallan un cheque de 
 están aturdidos, tomando daño y drenando. Los espíritus salen rápidamente cuando
-No hay enemigos a la vista.%%%%
+No hay enemigos a la vista.
+
+%%%%
 Rise status
 
 Estás subiendo hacia el techo. Después de un breve retraso, el poder de Ignis
-te volará en el nivel anterior.%%%%
+te volará en el nivel anterior.
+
+%%%%
 Challenge status
 
 Has sido desafiado por un apóstol elegido de Beogh, que conocerá a tu
 ubicación sin importar dónde estés en el suelo. Derrotarlos, y tú puede reclutar
 para unirse a tú. Si huyes del suelo, Beogh te castigará temporalmente.
-privarte de aliados.%%%%
+privarte de aliados.
+
+%%%%
 Vengeance status
 
 Uno de vuestros apóstoles ha sido asesinado, y aún no habéis matado a todos los enemigos que
-estuvieron involucrados en su muerte. Si lo haces, Beogh los resucitará antes.%%%%
+estuvieron involucrados en su muerte. Si lo haces, Beogh los resucitará antes.
+
+%%%%
 Pray status
 
 Tú han invocado ayuda divina para vengar la muerte de un apóstol caído. Orcos lo harán
 Reunirse continuamente a su lado, aunque su oración terminará más rápidamente cuando
-No hay más enemigos por ahí para luchar.%%%%
+No hay más enemigos por ahí para luchar.
+
+%%%%
 Recruit status
 
 Un apóstol orcish está disponible para reclutar como compañero permanente.
-(Utilice la habilidad del apóstol de reclutamiento)%%%%
+(Utilice la habilidad del apóstol de reclutamiento)
+
+%%%%
 Torch status
 
 Llevas la antorcha negra. Si este indicador es oscuro, la antorcha no está iluminada; si
 es brillante, has llamado a Yredelemnul para encender la antorcha. Mientras tanto
 quemaduras de antorcha, ganarás piedad para matar. Con suficiente piedad, serás
 capaz de utilizar su fuego umbral para empoderar a sus sirvientes no muertos y dañar a sus
-enemigos.%%%%
+enemigos.
+
+%%%%
 Shackles status
 
-El agarre de Yredelemnul está envolviendo un área en cadenas de almacenamiento de vida.%%%%
+El agarre de Yredelemnul está envolviendo un área en cadenas de almacenamiento de vida.
+
+%%%%
 Rev status
 
 Empiezas a ensuciarte. Tus ataques con armas y sin armas están más cerca
-a toda fuerza, y continuará creciendo más poderoso con cada oscilación.%%%%
+a toda fuerza, y continuará creciendo más poderoso con cada oscilación.
+
+%%%%
 Rev+ status
 
 Estás extiendo. Tus ataques con armas y sin armas están cerca de todo
-fuerza, y seguirá creciendo más poderoso con cada oscilación.%%%%
+fuerza, y seguirá creciendo más poderoso con cada oscilación.
+
+%%%%
 Rev* status
 
 Estás alucinado. Sus ataques con armas y sin armas están a toda fuerza,
-y permanecerá mientras sigas colgando y por un corto tiempo después.%%%%
+y permanecerá mientras sigas colgando y por un corto tiempo después.
+
+%%%%
 -Gavotte status
 
 La gravedad que te rodea sigue siendo inestable, y no puedes volver a lanzar la Gavotte de Gell.
-hasta que se calme.%%%%
+hasta que se calme.
+
+%%%%
 Fusillade status
 
-Tú está abrazando reactivos alquímicos conjurados en monstruos cercanos.%%%%
+Tú está abrazando reactivos alquímicos conjurados en monstruos cercanos.
+
+%%%%
 Nightfall status
 
 Tú está canalizando la noche más profunda, reduciendo enormemente su rango de visión. It
-gradualmente volverá a la normalidad con el tiempo.%%%%
+gradualmente volverá a la normalidad con el tiempo.
+
+%%%%
 Blind status
 
 Tu visión está mal deteriorada. Todos los hechizos y ataques que tú realiza (que no
 automáticamente golpeado) tienen una mayor oportunidad de perder. Esta oportunidad es mucho mayor
-Cuanto más lejos estés de tu objetivo.%%%%
+Cuanto más lejos estés de tu objetivo.
+
+%%%%
 Ruin status
 
 Tú está marcado con el signo de la ruina, causando cualquier melee ataques que le dañen
-para drenar y retrasar al azar, debilitar o cegarte.%%%%
+para drenar y retrasar al azar, debilitar o cegarte.
+
+%%%%
 -GClaw status
 
-Aún no has cosechado suficiente muerte para echar a Grave Claw otra vez.%%%%
+Aún no has cosechado suficiente muerte para echar a Grave Claw otra vez.
+
+%%%%
 Legion status
 
 Estáis aturdiendo las legiones del caos; demonios de corta vida serán periódicamente
-Convocada cerca de ti.%%%%
+Convocada cerca de ti.
+
+%%%%
 -Bloodrite status
 
 Recientemente ha realizado un rito de sangre infernal y debe sanar completamente antes
-ser capaz de realizar otro.%%%%
+ser capaz de realizar otro.
+
+%%%%
 Execution status
 
 Tú está compartiendo su cuerpo con un ejecutante, dándole un poderoso auxiliar
 ataque que también desencadena cuando atacas, así como dejar que la rampa
-hacia los enemigos. Esto expirará rápidamente si dejas de atacar.%%%%
+hacia los enemigos. Esto expirará rápidamente si dejas de atacar.
+
+%%%%
 Destr status
 
-Su Destrucción Unleash está creciendo más poderosa mientras la usas consecutivamente.%%%%
+Su Destrucción Unleash está creciendo más poderosa mientras la usas consecutivamente.
+
+%%%%
 Destr+ status
 
-<Destr status>%%%%
+<Destr status>
+
+%%%%
 Destr++ status
 
-<Destr status>%%%%
+<Destr status>
+
+%%%%
 Destr+++ status
 
 <Destr status>
 Si lo usas de nuevo, desencadenará una salva de tornillos adicionales dirigidos al azar
-objetivos y este bono se restablecerá.%%%%
+objetivos y este bono se restablecerá.
+
+%%%%
 Slaughter status
 
 Eres un instrumento de la voluntad destructiva de Makhleb. Tu poder y tus defensas son
 grandemente mejorado, pero tú debe soportar el crujiente una vez este efecto
-termina.%%%%
+termina.
+
+%%%%
 Pact status
 
 Makhleb ha venido a recoger ciertas promesas hechas a ellos.
@@ -836,145 +1202,219 @@ devolver "Rellena tu juramento como su instrumento matando a los aterrorizados..
 "libertad una vez más".
 más
 "Lucha y sangrado y se puede conceder libertad una vez más."
-♪%%%%
+♪
+
+%%%%
 Escape! status
 
 Se ha abierto un camino fuera del Crucible. Encuéntrelo y reclame su libertad de nuevo. Para
-una vez.%%%%
+una vez.
+
+%%%%
 Shield status
 
 Estás protegido por un escudo divino. Enemigos que lo golpeen en Melee tendrán
-sus ataques completamente bloqueados, y también pueden ser cegados por su luz.%%%%
+sus ataques completamente bloqueados, y también pueden ser cegados por su luz.
+
+%%%%
 Blast status
 
 Te estás preparando para desencadenar una onda cinética y no puedes moverte hasta que esto sea
-completo.%%%%
+completo.
+
+%%%%
 Blast. status
 
-<Blast status>%%%%
+<Blast status>
+
+%%%%
 Blast.. status
 
-<Blast status>%%%%
+<Blast status>
+
+%%%%
 Blast... status
 
-<Blast status>%%%%
+<Blast status>
+
+%%%%
 Winding status
 
 Estás enrollando tu abeja de relojería. No puede atacar su objetivo hasta que sea
-Completamente herido.%%%%
+Completamente herido.
+
+%%%%
 Winding. status
 
-<Winding status>%%%%
+<Winding status>
+
+%%%%
 Winding.. status
 
-<Winding status>%%%%
+<Winding status>
+
+%%%%
 Winding... status
 
-<Winding status>%%%%
+<Winding status>
+
+%%%%
 Unstable status
 
 Te has vuelto untethered en el espacio, parpadeando aleatoriamente cada vuelta y sufriendo un
-pequeña cantidad de daño cada vez que lo hace.%%%%
+pequeña cantidad de daño cada vez que lo hace.
+
+%%%%
 Vainglory status
 
 Tú ha anunciado recientemente su presencia real y simplemente no haría
-Deja el suelo de nuevo tan pronto después.%%%%
+Deja el suelo de nuevo tan pronto después.
+
+%%%%
 Protected status
 
 Su paragon de platino está lo suficientemente cerca para tú a veces parry ataques dirigidos
-a ti.%%%%
+a ti.
+
+%%%%
 Vexed status
 
 Tu mente está nublada por la frustración. Para los próximos turnos, tú lo hará
 incontrolablemente ataquen criaturas adyacentes al azar (si son amigables o enemigas) o
-incluso espacio vacío.%%%%
+incluso espacio vacío.
+
+%%%%
 Drowsy status
 
-Tú está creciendo rápidamente sueño y puede que pronto se duerma completamente.%%%%
+Tú está creciendo rápidamente sueño y puede que pronto se duerma completamente.
+
+%%%%
 Vampire status
 
 Eres un vampiro, una criatura que atraviesa la frontera entre la vida y la
 Inmuerte. Puedes beber la sangre de los vivos para sanar, e incluso convertirlos
 matas sigilosamente en rábanos vampíricos, pero no sanas en presencia de
-monstruos.%%%%
+monstruos.
+
+%%%%
 Swarm status
 
 Te has transformado en un enjambre de murciélagos vampiros, permitiendo que te muevas rápidamente
-y evasivamente. Tú puede seguir nubes de murciélagos en su vela.%%%%
+y evasivamente. Tú puede seguir nubes de murciélagos en su vela.
+
+%%%%
 Memories status
 
 Esto indica cuántos hechizos podrías echar de los recuerdos acumulados si tú
-Encendida ahora.%%%%
+Encendida ahora.
+
+%%%%
 Enkindled status
 
 Estás quemando recuerdos acumulados para el poder. Cada hechizo de destrucción de daños
 El yeso consumirá un recuerdo. A cambio, su poder y el éxito del hechizo son
 aumento, las penas de encumbramiento son ignoradas, y sus ataques de hechizos sí
 daño de bonificación proporcional al nivel de hechizo y sanar tú basado en el daño
-tratado.%%%%
+tratado.
+
+%%%%
 Cacophony status
 
 Estás atacando ruidosamente con toda tu armadura. Cada pedazo de armadura que
 embruja actualmente movimientos de su propia volición; cualquier daño que tome no afectará
 tú, puede disparar libremente a través de ella, y sus ataques pueden desgarrar, drenar o confundir
-tus enemigos.%%%%
+tus enemigos.
+
+%%%%
 Catalyst status
 
 Tienes un catalizador explosivo. El catalizador detonará el fuego.
 daño al objetivo primario de cada uno de sus ataques de melee y cualquier enemigo
 adyacente a ellos, con cada golpe. El ataque extenderá la duración de la
-catalizador aunque te pierdas.%%%%
+catalizador aunque te pierdas.
+
+%%%%
 Shroud status
 
 Tú está cubierto por un estruendo delgado de la slime que puede desviar un melee ataque. Cuando
 lo hace, el shroud se romperá por un corto tiempo, aunque pronto se reparará
-naturalmente.%%%%
+naturalmente.
+
+%%%%
 Yak status
 
-Eres un yak de llanto, piel incrustada con hielo.%%%%
+Eres un yak de llanto, piel incrustada con hielo.
+
+%%%%
 Spider status
 
-Tú es una araña de salto ágil cuyos ataques pueden web enemigos.%%%%
+Tú es una araña de salto ágil cuyos ataques pueden web enemigos.
+
+%%%%
 Quill status
 
-Tú tiene colillas espinasas que crecen fuera de su cuerpo que puede dañar los atacantes de la melea.%%%%
+Tú tiene colillas espinasas que crecen fuera de su cuerpo que puede dañar los atacantes de la melea.
+
+%%%%
 Hive status
 
-Eres una colmena viva, abuzz con insectos ocupados.%%%%
+Eres una colmena viva, abuzz con insectos ocupados.
+
+%%%%
 -Swarm status
 
 Los insectos que moran dentro de tú han enjaulado recientemente a su defensa. Esto
-no volverá a suceder hasta que su salud se recupere completamente.%%%%
+no volverá a suceder hasta que su salud se recupere completamente.
+
+%%%%
 Aqua status
 
 Su cuerpo está compuesto por agua elemental que puede alcanzar para atacar y ahogarse
-enemigos.%%%%
+enemigos.
+
+%%%%
 Sphinx status
 
 Eres una esfinge astuto, amante del enigma, con la fuerza de una tormenta de viento en tu
-Paws.%%%%
+Paws.
+
+%%%%
 Werewolf status
 
-Eres un hombre lobo vicioso.%%%%
+Eres un hombre lobo vicioso.
+
+%%%%
 Slay status
 
-El daño y la precisión de sus ataques se aumenta temporalmente.%%%%
+El daño y la precisión de sus ataques se aumenta temporalmente.
+
+%%%%
 Scroll status
 
-Eres un pergamino andante, pergamino crujiente y lleno de magia.%%%%
+Eres un pergamino andante, pergamino crujiente y lleno de magia.
+
+%%%%
 Crab status
 
-Eres un cangrejo muy ofensivo con respiración oxidante.%%%%
+Eres un cangrejo muy ofensivo con respiración oxidante.
+
+%%%%
 Scarab status
 
-Eres una bufanda solar, con fuego solar a tu lado.%%%%
+Eres una bufanda solar, con fuego solar a tu lado.
+
+%%%%
 Medusa status
 
-Tienes una manguera de tendriles venenosos para el cabello.%%%%
+Tienes una manguera de tendriles venenosos para el cabello.
+
+%%%%
 -Lithotox status
 
 Su litotoxina ha activado recientemente y no lo hará de nuevo hasta que tú esté completamente
-sanar.%%%%
+sanar.
+
+%%%%
 Doom status
 
 Un destino malévolo se está reuniendo a tu alrededor. Si tu Doom llega al 100%, lo harás
@@ -983,46 +1423,66 @@ efectos negativos que pueden poner en peligro significativamente su carácter pa
 período de tiempo.
 
 Tanto Doom y Banes sólo se curan ganando experiencia, aunque las Banas típicamente
-dura mucho más.%%%%
+dura mucho más.
+
+%%%%
 Ostracised status
 
 Tu conexión con lo divino ha sido cortada parcialmente, reduciendo temporalmente
 tu piedad efectiva. Ganar experiencia eventualmente recuperar toda la piedad que
-ha sido encerrado por aquí.%%%%
+ha sido encerrado por aquí.
+
+%%%%
 Tesseract status
 
 Un Tesseract sin límites está dibujando en fuerzas de una realidad paralela. Nuevos monstruos
 aparecerá constantemente en lugares aleatorios a través del suelo hasta cualquiera de los
 Tesseracts es destruido. Si esto se permite continuar durante mucho tiempo,
-Esos monstruos pueden aparecer a veces cerca de su ubicación.%%%%
+Esos monstruos pueden aparecer a veces cerca de su ubicación.
+
+%%%%
 -Star status
 
 Su orbe de Stardust ha gastado recientemente su energía. Recargará una vez
-varias vueltas pasan mientras su MP está lleno y no hay enemigos a la vista.%%%%
+varias vueltas pasan mientras su MP está lleno y no hay enemigos a la vista.
+
+%%%%
 -Mesm status
 
 Su orbe de mesmerismo ha gastado recientemente su energía. Recargará después
-una corta duración del tiempo (pero no puede recargar en turnos donde se mueve).%%%%
+una corta duración del tiempo (pero no puede recargar en turnos donde se mueve).
+
+%%%%
 Phobia status
 
 Tu claustrofobia te ha dado un malus mortal. Esto depende de la
-número de paredes que te rodean.%%%%
+número de paredes que te rodean.
+
+%%%%
 Dim status
 
-El poder de todos tus hechizos se reduce a la mitad.%%%%
+El poder de todos tus hechizos se reduce a la mitad.
+
+%%%%
 Sunder status
 
 Su próximo ataque habrá aumentado la precisión, infligir tres veces su normal
 daño, y arrastre a un rango mayor. Este bono se pierde si tú realiza cualquier
-acción además de atacar.%%%%
+acción además de atacar.
+
+%%%%
 Devious status
 
 Su evasión y asesinato aumentan. Esto apila hasta 3 veces y nunca
-expirar mientras sigas realizando ataques de melee.%%%%
+expirar mientras sigas realizando ataques de melee.
+
+%%%%
 Slimifying status
 
 Su cuerpo se está convirtiendo lentamente en limosna. Incluso si una transformación completa
-ocurre, tú tiene suficiente fuerza de voluntad para eventualmente volver atrás.%%%%
+ocurre, tú tiene suficiente fuerza de voluntad para eventualmente volver atrás.
+
+%%%%
 Jelly status
 
 Has sido transformado temporalmente en una jalea. Tienes varios inusuales
@@ -1030,26 +1490,69 @@ resistencias y salud extra, pero muy debilitada.
 
 Todas las armas y armaduras equipadas están soldadas. La eficacia de su
 nuevos ataques melee acidic mientras que en esta forma se basa en su nivel de experiencia
-en lugar de una habilidad de combate desarmada.%%%%
+en lugar de una habilidad de combate desarmada.
+
+%%%%
 OozeRegen status
 
 Tú está cubierto de olor regenerativo de su reciente viaje por las escaleras. Para
 un breve tiempo, sus heridas sanarán rápidamente y sus reservas de magia
-Recuéstate rápido.%%%%
+Recuéstate rápido.
+
+%%%%
 -Hellfire status
 
 Tú es incapaz de echar a Hellfire Mortar otra vez hasta el efecto de su último elenco
-termina.%%%%
+termina.
+
+%%%%
 Engorged status
 
 Tu madre acaba de consumir una deliciosa comida, aumentando mucho tu
-regeneración hasta que termine de digerirlo.%%%%
+regeneración hasta que termine de digerirlo.
+
+%%%%
 Eel status
 
-Tus brazos son un par de anguilas eléctricas.%%%%
+Tus brazos son un par de anguilas eléctricas.
+
+%%%%
 Blade status
 
-Múltiples espadas viciosas están creciendo fuera de su cuerpo.%%%%
+Múltiples espadas viciosas están creciendo fuera de su cuerpo.
+
+%%%%
 Spore status
 
 Tu brazo es una masa de hongos multicolores.
+
+%%%%
+Stampede status
+
+Estás sellando adelante. Cualquier movimiento que tome en un enemigo Will piso
+ellos hacia atrás, pero su estampida Will termina tan pronto como tú realiza cualquier acción
+ LUA0 
+
+%%%%
+Indom status
+
+Tú está regenerando rápidamente daño sostenido mientras estampado.
+
+%%%%
+Salvo status
+
+Tus siguientes ataques variados Will hacen que dispares un rayo adicional
+disparos a otros objetivos a la vista.
+
+%%%%
+Tailwind status
+
+Tu próximo movimiento de Rampage será instantáneo.
+
+%%%%
+Exegesis status
+
+Recientemente has utilizado la Exégesis Divina y puede repetir el mismo hechizo puedes
+de esta manera a un costo de piedad muy reducido.
+
+%%%%

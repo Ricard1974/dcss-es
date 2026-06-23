@@ -1,52 +1,72 @@
 %%%%
 Abjuration spell
 
-Reduce la duración restante de cualquier criatura citada hostil cercana.%%%%
+Reduce la duración restante de cualquier criatura citada hostil cercana.
+
+%%%%
 Acid Ball spell
 
-Arranca una bola explosiva de ácido corrosivo.%%%%
+Arranca una bola explosiva de ácido corrosivo.
+
+%%%%
 Agonising Touch spell
 
 Corta la salud de una criatura adyacente en la mitad. Este daño nunca es
-directamente letal.%%%%
+directamente letal.
+
+%%%%
 Agony spell
 
 Corta la salud de una criatura objetivo a la mitad. Este daño nunca es directamente
-letal.%%%%
+letal.
+
+%%%%
 Airstrike spell
 
 Causa que el aire alrededor de una criatura se torce en un vórtice llorón
-furia meteorológica. Hace más daño a objetivos rodeados de espacio vacío.%%%%
+furia meteorológica. Hace más daño a objetivos rodeados de espacio vacío.
+
+%%%%
 Alistair's Intoxication spell
 
 Convierte una pequeña porción del cerebro de los que te rodean en alcohol,
 tratando de confundir a todas las criaturas inteligentes en la vista (aunque
 Las criaturas resistentes al veneno pueden resistir los efectos). El caster experimentará
 vértigo brevemente si logran contactar con otras mentes. Es
-Con frecuencia se utiliza como rompehielos en fiestas magos.%%%%
+Con frecuencia se utiliza como rompehielos en fiestas magos.
+
+%%%%
 Alistair's Walking Alembic spell
 
 Construye una manufactura alquímica móvil y capaz de combatir. Utiliza el
 fricción de combate melee para elaborar una variedad de pociones útiles, ventilando nubes de
 sus subproductos tóxicos en lo que golpee. Cuando se ha construido suficiente calor
 para completar su síntesis, automáticamente dispensará las pociones terminadas
-a aliados cercanos antes de desmoronarse.%%%%
+a aliados cercanos antes de desmoronarse.
+
+%%%%
 Anguish spell
 
 Afligidos enemigos cercanos con angustia sobrenatural, causando todos los daños que tratan
 rebotar sobre ellos durante el efecto. Los enemigos de voluntad fuerte pueden resistir
-Las visiones necrométicas del dolor y el sufrimiento, y las criaturas sin mente no son afectadas.%%%%
+Las visiones necrométicas del dolor y el sufrimiento, y las criaturas sin mente no son afectadas.
+
+%%%%
 Animate Dead spell
 
 Durante algún tiempo después de lanzar esto, criaturas vivientes asesinadas por la casta se levantarán
 como zombies. La posibilidad de reanimar un monstruo y la duración del efecto
 aumentar con el poder del hechizo. Re-casting this spell will return zombies to dust, as
-saldrá del suelo.%%%%
+saldrá del suelo.
+
+%%%%
 Antimagic Gaze spell
 
 Causa la magia del objetivo de filtrarse en el aire, como si fueran golpeados por un
 arma antimágica, y cura la fundición por la cantidad de magia drenada,
-sin línea directa de fuego requerida.%%%%
+sin línea directa de fuego requerida.
+
+%%%%
 Apportation spell
 
 Tire de la parte superior o grupo de artículos similares de una pila distante al suelo
@@ -54,13 +74,17 @@ cerca de la castra. Con baja potencia, los elementos podrían no ser movidos has
 La posición del caster.
 
 Artículos mágicos extremadamente poderosos, como el Orbe de Zot, pueden resistir activamente
-la atracción de este hechizo.%%%%
+la atracción de este hechizo.
+
+%%%%
 Arcjolt spell
 
 Envía una ola de electricidad a través de todo lo adyacente o cercano a
 el caster. La electricidad continúa arc a través de todo en un conectado
 cadena, aunque el caster no se ve afectado. El daño causado paga la mitad
-de la armadura de defensores.%%%%
+de la armadura de defensores.
+
+%%%%
 Avatar Song spell
 
 Canta una canción poderosamente inquietante. Los aventureros que no resisten se convertirán en
@@ -70,7 +94,9 @@ involuntariamente), mientras que otras criaturas se volverán sacudidas.
 Además, puede provocar almas ahogadas de cualquier cuerpo cercano de profundo
 agua.
 
-Dejar la línea de visión de la castra terminará el efecto de control del movimiento.%%%%
+Dejar la línea de visión de la castra terminará el efecto de control del movimiento.
+
+%%%%
 Awaken Armour spell
 
 Dibuja sobre la memoria de su armadura gastada para manifestar un eco de ella que lucha
@@ -78,127 +104,201 @@ junto a ti. Este eco se mueve lentamente, pero el poder de sus golpes aumenta
 dramáticamente con el peso de la armadura utilizada para formarla. Tiene todo
 las propiedades defensivas de la armadura misma.
 
-Spellpower aumenta su durabilidad.%%%%
+Spellpower aumenta su durabilidad.
+
+%%%%
 Awaken Flesh spell
 
 Canaliza una oleada de energía caótica a través de cada pila de carne en el caster
 vista, animarlos en grandes abominaciones empoderadas y traficando daño al caos
-a cualquier enemigo lo suficientemente desafortunado como para estar a su lado.%%%%
+a cualquier enemigo lo suficientemente desafortunado como para estar a su lado.
+
+%%%%
 Awaken Forest spell
 
 Da un poco de motilidad limitada a los árboles cercanos, permitiéndoles balancear su
 ramas y cambiar sus raíces. Tales árboles encantados lavarán a cualquier lado
-enemigo.%%%%
+enemigo.
+
+%%%%
 Awaken Vines spell
 
 Causa que las vides crezcan desde la tierra. Las vides alcanzarán y agarrarán
-interlopers, arrastrándolos hacia cualquier árbol cercano.%%%%
+interlopers, arrastrándolos hacia cualquier árbol cercano.
+
+%%%%
 Banishment spell
 
-Desterra a una criatura al abismo.%%%%
+Desterra a una criatura al abismo.
+
+%%%%
 Battlecry spell
 
 Inspira a los aliados cercanos de la castra a luchar más agresivamente, aumentando
-la fuerza de sus golpes.%%%%
+la fuerza de sus golpes.
+
+%%%%
 Beckoning Gale spell
 
 Twists el aire alrededor de una criatura para hacer daño y tratar de tirar de ellos
-más cerca de la castra.%%%%
+más cerca de la castra.
+
+%%%%
 Berserker Rage spell
 
-<Berserk ability>%%%%
+<Berserk ability>
+
+%%%%
 Berserk Other spell
 
 Causa un aliado cercano a volar en una rabia de berserk. Going berserk temporary
-aumenta la salud, la velocidad y los daños tratados en la melee.%%%%
+aumenta la salud, la velocidad y los daños tratados en la melee.
+
+%%%%
 Bestow Arms spell
 
 Temporalmente otorga a numerosos aliados cercanos un arma mágica desde dentro del
-armadura, mientras las almas que la sostienen juntos permanezcan intactas.%%%%
+armadura, mientras las almas que la sostienen juntos permanezcan intactas.
+
+%%%%
 Bind Souls spell
 
 Ofrece un encanto en otras criaturas vivientes cercanas que las hace
-ascender como simulacro después de ser asesinado.%%%%
+ascender como simulacro después de ser asesinado.
+
+%%%%
 Blink Allies Away spell
 
-Blinks aliados a la vista de la casta lejos de un enemigo cercano.%%%%
+Blinks aliados a la vista de la casta lejos de un enemigo cercano.
+
+%%%%
 Blink Allies Encircling spell
 
 Transloca a varios aliados a la vista de la castra para rodear a un blanco
-enemigo.%%%%
+enemigo.
+
+%%%%
 Blink Away spell
 
-Transloca la castra a un lugar más alejado de un enemigo objetivo.%%%%
+Transloca la castra a un lugar más alejado de un enemigo objetivo.
+
+%%%%
 Blink Close spell
 
-Transloca la castra a corta distancia hacia un enemigo objetivo.%%%%
+Transloca la castra a corta distancia hacia un enemigo objetivo.
+
+%%%%
 Blink Other Close spell
 
 Transloca a un enemigo objetivo a corta distancia hacia la casta. No puede ser
-resistido por el poder de voluntad.%%%%
+resistido por el poder de voluntad.
+
+%%%%
 Blink Other spell
 
 Aleatoriamente transloca a un enemigo objetivo a corta distancia. No se puede resistir
-por voluntad.%%%%
+por voluntad.
+
+%%%%
 Blink Range spell
 
 Transloca la casta a un lugar más alejado de un enemigo objetivo, pero
-todavía a la vista del objetivo.%%%%
+todavía a la vista del objetivo.
+
+%%%%
 Blink spell
 
 Aleatoriamente transloca la castra a corta distancia. Después de trasladarse a este
 el hechizo no puede ser lanzado de nuevo por un corto período de tiempo dependiendo de
-potencia de hechizo.%%%%
+potencia de hechizo.
+
+%%%%
 Blinkbolt spell
 
 Transforma la fundición en un rayo, y transloca la fundición a
-el destino del perno.%%%%
+el destino del perno.
+
+%%%%
+Bolt of Antimagic spell
+
+Dispara un perno penetrante de antimágico ontológicamente paradójico, drenando su
+reservas de magia de las víctimas.
+
+%%%%
+Bolster spell
+
+Aumenta la forma física de la lanzador, aumentando enormemente el daño que tratan en
+melee y su resistencia a todos los elementos.
+
+%%%%
 Bolt of Cold spell
 
-Dispara un perno penetrante de la helada.%%%%
+Dispara un perno penetrante de la helada.
+
+%%%%
 Bolt of Devastation spell
 
-Dispara un rayo de dolor y dolor que corta la fuerza de voluntad de sus víctimas en la mitad.%%%%
+Dispara un rayo de dolor y dolor que corta la fuerza de voluntad de sus víctimas en la mitad.
+
+%%%%
 Bolt of Draining spell
 
 Dispara un perno penetrante de energía negativa que drena a cualquier criatura viviente
-golpea.%%%%
+golpea.
+
+%%%%
 Bolt of Fire spell
 
-Dispara un perno penetrante de llamas.%%%%
+Dispara un perno penetrante de llamas.
+
+%%%%
 Bolt of Flesh spell
 
 Incendia una barraca de carne conjurada, que permanecerá brevemente como una pila en el
-tierra al final de su camino.%%%%
+tierra al final de su camino.
+
+%%%%
 Bolt of Light spell
 
 Incendia un rayo de luz selladora, que puede cegar cualquier vida, demoníaca o santa
-criatura que golpea.%%%%
+criatura que golpea.
+
+%%%%
 Bolt of Magma spell
 
 Dispara un perno penetrante de roca fundida. La mitad de su daño daña fuego
-resistencia.%%%%
+resistencia.
+
+%%%%
 Bombard spell
 
 Destruye una bola de hierro hacia un objetivo. La fuerza de la explosión envía a menudo la
-La casta se estanca hacia atrás.%%%%
+La casta se estanca hacia atrás.
+
+%%%%
 Borgnjor's Revivification spell
 
 Sana instantáneamente todas las heridas sufridas por la castra, pero también permanentemente
 daña su salud, en un grado dependiente del poder (y inversamente relacionado con).
 
 Es lo suficientemente poderoso para cancelar los efectos de la Puerta de la Muerte, aunque hacerlo
-brevemente paralizará la castra. No tiene efecto en los muertos vivientes.%%%%
+brevemente paralizará la castra. No tiene efecto en los muertos vivientes.
+
+%%%%
 Borgnjor's Vile Clutch spell
 
 Llama las manos de los cadáveres encerrados bajo el suelo de la mazmorra hace mucho tiempo.
 Los enemigos atrapados en la zona serán mantenidos en su lugar y restringidos hasta que sean
-libre.%%%%
+libre.
+
+%%%%
 Brain Bite spell
 
 Dibuja una pequeña cantidad de la mente de un enemigo visible y una proporción de su magia,
 sin línea directa de fuego requerida. Si el enemigo tiene magia casi vacía
-las reservas, se necesitarán daños dobles.%%%%
+las reservas, se necesitarán daños dobles.
+
+%%%%
 Brom's Barrelling Boulder spell
 
 Desata una enorme roca rodante en una dirección de brújula dada. Este boulder
@@ -209,10 +309,21 @@ lo suficiente para estar detrás de ellos).
 Su tamaño y locomoción imprudente dificultan el uso en áreas confinadas; si
 lanzado hacia abajo pasajes estrechos, que rápidamente abrade contra las paredes y caer
 aparte. También se desmoronará si deja la vista de la castra o golpea una pared
-o de otra manera criatura inmóvil.%%%%
+o de otra manera criatura inmóvil.
+
+%%%%
 Brothers in Arms spell
 
-<Brothers in Arms ability>%%%%
+<Brothers in Arms ability>
+
+%%%%
+Cage of Brambles spell
+
+Causa paredes de brambles espinosos para crecer rápidamente en un anillo alrededor de todos los cercanos
+enemigos. Los aliados de la casta pueden disparar proyectiles a través de estos briares sin
+obstrucción, pero cualquier otra persona puede encontrar su eliminación bastante dolorosa.
+
+%%%%
 Call Canine Familiar spell
 
 Invoca un inugami a la ayuda de la castra. Estos caninos místicos forman un vínculo con
@@ -221,70 +332,98 @@ fuerza de hechizos.
 
 Rechazar este hechizo mientras su familiar está cerca lo imbue con adicional
 magia, reparando algunas de sus heridas, limpiando de veneno, y causando su siguiente
-ataque para golpear más rápido y libere enemigos adyacentes.%%%%
+ataque para golpear más rápido y libere enemigos adyacentes.
+
+%%%%
 Call Down Damnation spell
 
 Culpa a un enemigo objetivo con condenación, sin necesidad de línea directa de fuego.
 Estas fuerzas impíamente dañan a la víctima y a cualquier persona adyacente, y no se ven afectadas
 por cualquier medio de protección, como armadura o resistencias. Sin embargo, cierto
 criaturas, generalmente los que pueden invocar la condenación ellos mismos, son enteramente
-invicto por la condenación.%%%%
+invicto por la condenación.
+
+%%%%
 Call Down Lightning spell
 
 Culpa a un enemigo objetivo con relámpago, sin necesidad de línea directa de fuego.
 Las magias selectivas necesitan distancia para funcionar, así que los enemigos que están adyacentes
-o casi adyacente no puede ser golpeado por esto.%%%%
+o casi adyacente no puede ser golpeado por esto.
+
+%%%%
 Call Imp spell
 
 Llama a un demonio menor de los fosos del infierno, equipado con una lanza con
 que a jab en los enemigos del caster. La calidad del armamento del imp aumenta
-con poder de hechizo.%%%%
+con poder de hechizo.
+
+%%%%
 Call Lost Souls spell
 
 Invoca a algunos espectros necrométicos. Estas almas perdidas pueden entrar en los cuerpos de más
 poderosos no muertos para traerlos de vuelta del borde de la muerte, o volver a la vida moribunda
-criaturas en versiones fantasmales de sí mismos.%%%%
+criaturas en versiones fantasmales de sí mismos.
+
+%%%%
 Call of Chaos spell
 
 Exhorta a los poderes del caos para empoderar a los aliados cercanos, dándoles prisa,
 podría, doble vigor o mejor resistencia. La magia caótica puede
 ocasionalmente retroceder y hacer que los aliados pierdan su fuerza de voluntad o sean
-atornillado, polimorfo o lleno de llama interior.%%%%
+atornillado, polimorfo o lleno de llama interior.
+
+%%%%
 Call Tide spell
 
 Permite que la castra afecte la fase de marea de todo el agua dentro de un gran
 distancia. Poco después de llamarlo, las aguas de todo el nivel alcanzarán alto
 marea. Aguas cerca de la castra alcanzarán niveles aún más altos que ellos.
-normalmente.%%%%
+normalmente.
+
+%%%%
 Cantrip spell
 
 Casts uno de varios hechizos menores, dirigidos a tratar de reforzar el caster
-moral. No tienen ningún efecto notable.%%%%
+moral. No tienen ningún efecto notable.
+
+%%%%
 Cause Fear spell
 
 Causa el miedo en los que están cerca de la castra, causando que los afectados no puedan
 acercarse a la castra, y a veces no atacarlos en melee. Dejando el
-La línea de visión de la castra terminará el efecto.%%%%
+La línea de visión de la castra terminará el efecto.
+
+%%%%
 Caustic Breath spell
 
-<Caustic Breath ability>%%%%
+<Caustic Breath ability>
+
+%%%%
 Chain of Chaos spell
 
 Crea un arco de caos puro, golpeando criaturas cercanas con impredecible
-Efectos. El arco puede tocar la casta sin dañarlos.%%%%
+Efectos. El arco puede tocar la casta sin dañarlos.
+
+%%%%
 Chain Lightning spell
 
 Libera una descarga eléctrica masiva que arcs a la criatura más cercana
 Caster y luego hacia fuera de ella. Cuanto más viaja, menos daño le da
 Sí. Los arcos secundarios tienen rango limitado y hacen poco daño a la castra.
-El hechizo representa la mitad de la armadura de los defensores y la resistencia a la electricidad.%%%%
+El hechizo representa la mitad de la armadura de los defensores y la resistencia a la electricidad.
+
+%%%%
 Charm spell
 
 Causa una criatura de otro modo hostil para luchar en el lado de la castra por un tiempo.
-Los aventureros, establecidos en su búsqueda de la ORB, sufren en cambio confusión momentánea.%%%%
+Los aventureros, establecidos en su búsqueda de la ORB, sufren en cambio confusión momentánea.
+
+%%%%
 Chaos Breath spell
 
-Exhala una gran nube de vapores llena de la esencia misma del caos.%%%%
+Exhala una gran nube de vapores llena de la esencia misma del caos.
+
+%%%%
 Cigotuvi's Putrefaction spell
 
 Acelera mágicamente la decadencia de tejido vivo dañado, causando grandes nubes
@@ -296,34 +435,50 @@ de pie, pero no están protegidos de sus efectos.
 Este hechizo sólo puede ser lanzado en una criatura viviente que es al menos fuertemente
 herido, y canalizando tales energías necrotas dejará la propia castra
 salud temporalmente drenada (aunque la fuerza de ortografía reducirá la intensidad de este
-efecto secundario).%%%%
+efecto secundario).
+
+%%%%
 Cleansing Flame spell
 
 Invoca una enorme explosión de furia divina centrada en el usuario, gravemente dañina
-los muertos vivientes y los demonios y el daño a todas las otras criaturas hostiles.%%%%
+los muertos vivientes y los demonios y el daño a todas las otras criaturas hostiles.
+
+%%%%
 Cold Breath spell
 
-Exhala una explosión enfocada de aire helado.%%%%
+Exhala una explosión enfocada de aire helado.
+
+%%%%
 Concentrate Venom spell
 
 Intensifica el veneno natural del monstruo objetivo. Muertos venenosos y escupidos
-se vuelve lo suficientemente intenso como para frenar y asfixiar.%%%%
+se vuelve lo suficientemente intenso como para frenar y asfixiar.
+
+%%%%
 Combustion Breath spell
 
-<Combustion Breath ability>%%%%
+<Combustion Breath ability>
+
+%%%%
 Confuse spell
 
-Induce un estado de desconcierto y confusión en la mente de una criatura.%%%%
+Induce un estado de desconcierto y confusión en la mente de una criatura.
+
+%%%%
 Confusing Touch spell
 
 Enchants la mano dominante de la castra con energía mágica. Esta energía es
 liberado cuando la casta toca a un monstruo, y puede inducir un estado de confusión
 en el monstruo. Los ataques de la casta no hacen daño mientras intentan tocar un
-monstruo de esta manera.%%%%
+monstruo de esta manera.
+
+%%%%
 Confusion Gaze spell
 
 Induce un estado de desconcierto y confusión en la mente de una criatura, sin
-línea directa de fuego requerida.%%%%
+línea directa de fuego requerida.
+
+%%%%
 Conjure Ball Lightning spell
 
 Crea un paquete de rayos de bola, que buscan al enemigo más cercano antes
@@ -333,60 +488,86 @@ consciente de lo que puede golpear.
 
 La magia que mantiene cohesivo los rayos de bola tiene rango limitado, por lo que pueden
 disipar inofensivamente si se permite alejarse demasiado lejos de su casta antes
-explotando.%%%%
+explotando.
+
+%%%%
 Conjure Living Spells spell
 
 Crea varios hechizos vivos, autónomos, que se arrojan al primer enemigo
-para entrar en su rango. Una vez lanzados, se disipan.%%%%
+para entrar en su rango. Una vez lanzados, se disipan.
+
+%%%%
 Construct Spike Launcher spell
 
 Construye una simple trampa mecánica dentro de una pared adyacente que repetidamente
 skewers enemigos adyacentes al azar. Protegido por la pared misma, es
 invulnerable a la mayoría de las formas de daño, pero se desmoronará si la fundición deja
-sus alrededores.%%%%
+sus alrededores.
+
+%%%%
 Corona spell
 
 Causa un halo de luz brillante para rodear y delinear eficazmente a una criatura.
 Este resplandor compensa la atmósfera oscura y tenebrosa de la mazmorra, y hace la
-criatura afectada apreciablemente más fácil de golpear.%%%%
+criatura afectada apreciablemente más fácil de golpear.
+
+%%%%
 Corrosive Bolt spell
 
-Dispara un perno penetrante de ácido altamente corrosivo.%%%%
+Dispara un perno penetrante de ácido altamente corrosivo.
+
+%%%%
 Corrupt spell
 
 Libera energías abisales en las inmediaciones. Esto cambia el
 apariencia de la zona afectada y convocar temporalmente a criaturas de la
-Abyss. Esto no se puede utilizar en el propio Abyss.%%%%
+Abyss. Esto no se puede utilizar en el propio Abyss.
+
+%%%%
 Corrupting Pulse spell
 
 Inculca una corrupción dentro de todos los objetivos visibles, mutando temporalmente su
 cuerpos de una manera adversa. No puede afectar a los seres artificiales, y
-Undead se descompondrá si está afectado.%%%%
+Undead se descompondrá si está afectado.
+
+%%%%
 Creeping Frost spell
 
 Se llama frío frío de las paredes. Cualquier enemigo de la castra de pie
 junto a las paredes se congelarán y encontrarán sus movimientos lentos. Cold
-la resistencia reducirá el daño, pero no evitará el efecto de congelación.%%%%
+la resistencia reducirá el daño, pero no evitará el efecto de congelación.
+
+%%%%
 Creeping Shadow spell
 
 Llama sombras de los rincones de las paredes cercanas para golpear a todos los
-Los enemigos de Caster que están junto a ellos.%%%%
+Los enemigos de Caster que están junto a ellos.
+
+%%%%
 Crystallising Shot spell
 
 Hurls un gran y pesado fragmento de cristal. Puede renderizar el cuerpo de una criatura
 estructura tan frágil y frágil como cristal roto y sin refinar, aumentando
-los daños que consumen de todas las fuentes.%%%%
+los daños que consumen de todas las fuentes.
+
+%%%%
 Curse of Agony spell
 
 Cursa a un enemigo, aboliendo su salud restante después de cada uno de los dos próximos
-que la casta los golpea en la melee.%%%%
+que la casta los golpea en la melee.
+
+%%%%
 Death Channel spell
 
 Ata las almas de criaturas vivientes muertas, demoníacas y santas, forzando sus
-espectros para permanecer y luchar por la casta por el tiempo que dura el canal.%%%%
+espectros para permanecer y luchar por la casta por el tiempo que dura el canal.
+
+%%%%
 Death Rattle spell
 
-Exhala la esencia de la muerte, creando nubes de miasma nocivo.%%%%
+Exhala la esencia de la muerte, creando nubes de miasma nocivo.
+
+%%%%
 Death's Door spell
 
 Renders the caster nigh invulnerable to harm for a brief period, but bringss
@@ -396,14 +577,20 @@ el cuerpo se cree muerto — efectos curativos no harán nada.
 La castra recibirá una advertencia poco antes de que el hechizo expire. Después
 expiación, el hechizo no puede ser retransmitido inmediatamente, pero con alto poder el caster
 será dejado más lejos de la muerte cuando el efecto termine. No tiene efecto en esos
-que ya no están muertos.%%%%
+que ya no están muertos.
+
+%%%%
 Debugging Ray spell
 
-Dispara un rayo que hace daño masivo (1500 hp) y siempre golpea.%%%%
+Dispara un rayo que hace daño masivo (1500 hp) y siempre golpea.
+
+%%%%
 Deflect Missiles spell
 
 Envuelve la rueda en un campo de repulsión, aumentando enormemente su evasión
-contra todo tipo de proyectil - incluso mientras que de otro modo incapacitado.%%%%
+contra todo tipo de proyectil - incluso mientras que de otro modo incapacitado.
+
+%%%%
 Detonation Catalyst spell
 
 Affixes un catalizador volátil para los puños o el arma de la fundición, causando cada
@@ -412,57 +599,81 @@ y sus aliados están protegidos de los efectos de la explosión. La actividad de
 el catalizador puede prolongarse indefinidamente mientras la castra continúe
 ataque, pero rápidamente pierde potencia cuando toman otras acciones. La base
 daño del arma del caster y la fuerza de hechizo del caster aumentan cada vez más
-explosión es daño.%%%%
+explosión es daño.
+
+%%%%
 Diamond Sawblades spell
 
 Forja hasta cuatro sierras de afeitar en posiciones fijas alrededor de la fundición
-que arrojó a cualquier enemigo adyacente a ellos en varias vueltas.%%%%
+que arrojó a cualquier enemigo adyacente a ellos en varias vueltas.
+
+%%%%
 Dig spell
 
-Se cava un túnel a través de rocas sin trabajo.%%%%
+Se cava un túnel a través de rocas sin trabajo.
+
+%%%%
 Dimension Anchor spell
 
 Bloquea cualquier translocación intentado por el objetivo afectado, ya sea voluntaria
 o no. Esto incluye incluso algunos efectos cruzados, aunque no
-Destierro.%%%%
+Destierro.
+
+%%%%
 Dimensional Bullseye spell
 
 Oculta un vínculo entre el armamento del caster y un blanco elegido. Siempre
 lanza fuegos o lanza algo a un enemigo * diferente*, un proyectil de coincidencia
-será teletransportado al objetivo. Spellpower aumenta su precisión.%%%%
+será teletransportado al objetivo. Spellpower aumenta su precisión.
+
+%%%%
 Diminish Spells spell
 
-Inresistiblemente debilita el poder de los hechizos de un enemigo por un período de tiempo.%%%%
+Inresistiblemente debilita el poder de los hechizos de un enemigo por un período de tiempo.
+
+%%%%
 Discord spell
 
 Conduce a las criaturas cercanas a un frenesí salvaje, que las hace sin piedad
-atacar cualquier cosa y todo lo cercano con gran fuerza y velocidad.%%%%
+atacar cualquier cosa y todo lo cercano con gran fuerza y velocidad.
+
+%%%%
 Disjunction spell
 
 Destabiliza el espacio en una esfera alrededor de la fundición por un tiempo, causando
 alguien cercano a parpadear lejos de la castra. La posibilidad de parpadear depende de
-la distancia de la castra, siendo casi seguro cuando directamente adyacente.%%%%
+la distancia de la castra, siendo casi seguro cuando directamente adyacente.
+
+%%%%
 Dispel Undead spell
 
 Harms una criatura no muerta adyacente grandemente interfiriendo con las fuerzas
-unirlo.%%%%
+unirlo.
+
+%%%%
 Dispel Undead Range spell
 
 Harms una criatura no muerta grandemente interfiriendo con las fuerzas que la obligan
-juntos.%%%%
+juntos.
+
+%%%%
 Dispersal spell
 
 Teleporta a cualquier criatura a poca distancia de la casta. Cualquier
 criatura con la voluntad de resistir aún será irresistiblemente parpadeado un corto
 distancia, y cualquier monstruo que afecta en absoluto tiene una oportunidad separada basada en 
-de estar confundida por la vigilancia del espacio.%%%%
+de estar confundida por la vigilancia del espacio.
+
+%%%%
 Divine Armament spell
 
 Manifiesta la fe del caster como arma espiritual, que luchará y matará
 los enemigos del caster bajo su propio poder.
 
 Como es un reflejo directo del celo único de la castra, el arma que ellos
-recibir de su dios será el mismo cada vez.%%%%
+recibir de su dios será el mismo cada vez.
+
+%%%%
 Dominate Undead spell
 
 Intentos de cambiar por la fuerza la lealtad de todos los no muertos cercanos que no son
@@ -472,7 +683,9 @@ Los aventureros, siendo famosos, no pueden ser totalmente controlados por esto
 hechizo. En lugar de ello, se echarán al azar durante la duración de su efecto,
 atacar a un amigo cercano y enemigo igual antes de recuperar sus ingenios.
 
-Este hechizo se puede romper prematuramente por la muerte de su casta.%%%%
+Este hechizo se puede romper prematuramente por la muerte de su casta.
+
+%%%%
 Doomsaying spell
 
 Foretells a terrible futuro, infligiendo Doom igual a la mitad de lo que tomaría
@@ -482,61 +695,89 @@ buscará su posición infaliblemente y todas las escaleras serán temporalmente
 sellado.
 
 Sólo se puede echar una sola vez, pero incluso matar al mensajero en su sueño
-no evitará lo que el destino tiene guardado para tú.%%%%
+no evitará lo que el destino tiene guardado para tú.
+
+%%%%
 Doom Bolt spell
 
-Dispara un tornillo de malicia accursada que inflige a Doom.%%%%
+Dispara un tornillo de malicia accursada que inflige a Doom.
+
+%%%%
 Oblivion Howl spell
 
 Libera un aullido penetrante que atrapa y hace eco en las mentes de las víctimas. Mientras tanto
 esos ecos deslumbrantes, criaturas de pesadilla escucharán y los rastrearán a sus
-fuente. Sólo puede ser usado una vez por una criatura dada.%%%%
+fuente. Sólo puede ser usado una vez por una criatura dada.
+
+%%%%
 Dragon's Call spell
 
 Se trata de una poderosa llamada a un reino dracónico, acercándose al dragón después del dragón
 para involucrar a los enemigos del citador. El hechizo está imponiendo para mantener, y cada nuevo
 dragón que responde la llamada va a drenar el mágico
 reservas. Después de que la llamada termine, no se puede emitir de nuevo por un corto tiempo. El
-la duración de la llamada y las especies de dragones llamadas dependen del poder del hechizo.%%%%
+la duración de la llamada y las especies de dragones llamadas dependen del poder del hechizo.
+
+%%%%
 Drain Life spell
 
 Dibuja la fuerza de vida de cualquier enemigo cercano, curando al usuario dependiendo de
-el daño causado.%%%%
+el daño causado.
+
+%%%%
 Drain Magic spell
 
 Causa la magia del objetivo de filtrarse en el aire, como si fueran golpeados por un
-arma antimágica.%%%%
+arma antimágica.
+
+%%%%
 Draining Gaze spell
 
 Llena a una criatura viviente con energía negativa, drenándolas por una fracción de
-su salud máxima. Este hechizo requiere línea de visión pero no línea de fuego.%%%%
+su salud máxima. Este hechizo requiere línea de visión pero no línea de fuego.
+
+%%%%
 Dream Dust spell
 
 Abruma al objetivo con polvo de sueño soporífico, poniéndolos a dormir con un
 Pantalla visual encantadora. Oveja de sueño adicional aumentará la fuerza
-y duración de este efecto.%%%%
+y duración de este efecto.
+
+%%%%
 Druid's Call spell
 
-Recuerda a las criaturas del bosque de otras partes en el mismo nivel.%%%%
+Recuerda a las criaturas del bosque de otras partes en el mismo nivel.
+
+%%%%
 Electrical Bolt spell
 
-Tira un tornillo de electricidad al objetivo, con alta precisión.%%%%
+Tira un tornillo de electricidad al objetivo, con alta precisión.
+
+%%%%
 Enfeeble spell
 
 Abruma a un enemigo con energías malignas, debilitando irresistiblemente su melee
 ataca y reduce el poder de sus hechizos. Además se deslumbrará y
 ciego cualquier enemigo que no resista la fuerza total de la maldición - incluso los
-sin sentidos visuales!%%%%
+sin sentidos visuales!
+
+%%%%
 Ensnare spell
 
-Dispara una corriente de frotar a una criatura, enredando el objetivo en una red pegajosa.%%%%
+Dispara una corriente de frotar a una criatura, enredando el objetivo en una red pegajosa.
+
+%%%%
 Ensorcelled Hibernation spell
 
 Baja la tasa metabólica de su objetivo, induciendo la hibernación. Después de despertar, el
-El objetivo será incapaz de volver a dormir durante algún tiempo.%%%%
+El objetivo será incapaz de volver a dormir durante algún tiempo.
+
+%%%%
 Entropic Weave spell
 
-Corrige el objetivo, sin necesidad de línea directa de fuego.%%%%
+Corrige el objetivo, sin necesidad de línea directa de fuego.
+
+%%%%
 Eringya's Noxious Bog spell
 
 Causa que la castra libere un torrente de lodos que transforma áreas cercanas
@@ -544,68 +785,98 @@ en un bog tóxico. El lodo daña y envenena a todos los monstruos, incluso a los
 resistente al veneno. El bog no puede formar en áreas adyacentes a múltiples sólidos
 características, ni en áreas que carecen de suelo sólido, como agua profunda o lava. El
 la transformación es temporal y no puede ser sostenida fuera de la vista de la castra.
-Spellpower aumentará cuánto tiempo el bog lingers.%%%%
+Spellpower aumentará cuánto tiempo el bog lingers.
+
+%%%%
 Eringya's Surprising Crocodile spell
 
 Invoca un cocodrilo diente para atacar a un enemigo adyacente. El cocodrilo lo hará
 aparecen debajo de la casta en una oleada de agua ahumada y realizan una potencia
 ataque contra el objetivo elegido, arrastrándolo tanto y la rueda hacia atrás
 antes de permitir a este último desmontar con seguridad detrás de él. No puede ser retransmitido
-mientras el cocodrilo sigue activo.%%%%
+mientras el cocodrilo sigue activo.
+
+%%%%
 Eruption spell
 
-Separa la tierra para crear un volcán localizado y de corta duración bajo el objetivo.%%%%
+Separa la tierra para crear un volcán localizado y de corta duración bajo el objetivo.
+
+%%%%
 Fastroot spell
 
 Dispara una semilla mágica, enredando víctimas en raíces de árboles de rápido crecimiento. Aquellos
 enredados será dolorosamente restringido hasta que escapen o las raíces se marchen
-lejos. Las raíces sólo brotarán de terreno sólido.%%%%
+lejos. Las raíces sólo brotarán de terreno sólido.
+
+%%%%
 Flay spell
 
 Abre dolorosas heridas ilusionarias en el cuerpo del objetivo, que desaparecen después
 un corto tiempo o en la muerte de la casta. Esto no puede matar directamente, y es
-ineficaz contra objetivos no naturales.%%%%
+ineficaz contra objetivos no naturales.
+
+%%%%
 Fire Breath spell
 
-Respira una explosión de fuego contra una criatura dirigida.%%%%
+Respira una explosión de fuego contra una criatura dirigida.
+
+%%%%
 Fire Storm spell
 
 Llama a una poderosa tormenta de llama rugiente directamente sobre el objetivo, tratando
 daño en un área grande y dejar detrás de vórtices de fuego de corta duración. La mitad
-su daño evita la resistencia al fuego.%%%%
+su daño evita la resistencia al fuego.
+
+%%%%
 Fireball spell
 
-Arranca una bola explosiva de fuego.%%%%
+Arranca una bola explosiva de fuego.
+
+%%%%
 Flame Wave spell
 
 Deslumbra el entorno de la castra con una ola de fuego. Si el caster mantiene
 enfocar y suministrar el hechizo con poder mágico (esperando en el lugar y no
-tomar cualquier otra acción), más y más grandes ondas de llama se irradian hacia fuera.%%%%
+tomar cualquier otra acción), más y más grandes ondas de llama se irradian hacia fuera.
+
+%%%%
 Flaming Cloud spell
 
-Conjura una gran nube de llamas rugientes.%%%%
+Conjura una gran nube de llamas rugientes.
+
+%%%%
 Flash Freeze spell
 
 Congela el aire alrededor de un objetivo, causando daño significativo y ralentizando el
-El movimiento del objetivo por un corto tiempo. La mitad de su daño evita la resistencia al frío.%%%%
+El movimiento del objetivo por un corto tiempo. La mitad de su daño evita la resistencia al frío.
+
+%%%%
 Flashing Balestra spell
 
 Una sola alma de dentro de la armería salta, golpeando con su arma y
 entonces cavar independientemente por un corto tiempo antes de regresar al maelstrom
-una vez más.%%%%
+una vez más.
+
+%%%%
 Fleetfoot spell
 
-Llama vientos para aumentar la velocidad de movimiento de la castra durante un corto período de tiempo.%%%%
+Llama vientos para aumentar la velocidad de movimiento de la castra durante un corto período de tiempo.
+
+%%%%
 Force Lance spell
 
 Dispara un eje de fuerza concusiva. Si el impacto daña, puede golpear el
 Atrás. Si este golpe hace que el objetivo golpee una pared u otra
-criatura, ambos tomarán daños adicionales.%%%%
+criatura, ambos tomarán daños adicionales.
+
+%%%%
 Forceful Invitation spell
 
 Invoca a algunas criaturas de uno de los Snake Pit, el Nido Araña, el Pantano,
 los Shoals, los Elven Halls, los Vaults, o el Crypt; la rama específica
-varía con la casta.%%%%
+varía con la casta.
+
+%%%%
 Forge Blazeheart Golem spell
 
 Construye una cáscara de hierro escoria alrededor de una chispa elemental volátil. Es capaz.
@@ -617,12 +888,16 @@ Si los dos se dejan de lado. Si su caparazón es
 destruido mientras el golem sigue activo, su núcleo expuesto será violentamente
 detonar un momento después.
 
-Gana mayor daño explosivo a mayor potencia.%%%%
+Gana mayor daño explosivo a mayor potencia.
+
+%%%%
 Forge Lightning Spire spell
 
 Construye un rayo inmóvil a una ubicación cercana. Esta inspiración
 descargas irregulares pernos de electricidad en los enemigos de la fundición, priorizando
-cualquiera de ellos está más distante de ella.%%%%
+cualquiera de ellos está más distante de ella.
+
+%%%%
 Forge Monarch Bomb spell
 
 Construye una fábrica incendiaria voladora, empacada al borde con racimo
@@ -632,7 +907,9 @@ enemigos hasta que se dé la señal para explotar.
 
 Rechazar este hechizo mientras que cualquier cosa que haya creado todavía es activo voluntad
 detonar la bomba monarca y todas las bombas, tratando una combinación de fuego y
-daño físico a todo lo adyacente a ellos además de la propia castra.%%%%
+daño físico a todo lo adyacente a ellos además de la propia castra.
+
+%%%%
 Forge Phalanx Beetle spell
 
 Construye un pequeño guardián mecánico que refuerza la armadura de su creador
@@ -643,7 +920,9 @@ dejar el lado de su creador, y si se separa por la fuerza, priorizará el retorn
 a ellos por cualquier otra preocupación.
 
 Spellpower aumenta la magnitud del aumento de AC, así como el escarabajo
-su propia durabilidad.%%%%
+su propia durabilidad.
+
+%%%%
 Fortress Blast spell
 
 Dibuja sobre la propia integridad física del caster para crear una onda de choque cinética
@@ -653,30 +932,42 @@ son desplazados durante ese tiempo, pero pueden realizar otras acciones
 libremente.
 
 Spellpower hace que el hechizo se complete más rápidamente, pero el daño depende
-completamente en el AC de la castra.%%%%
+completamente en el AC de la castra.
+
+%%%%
 Foxfire spell
 
 Conjura dos bolas de gas pantano quema junto a la castra. Las bolas lo harán
 buscar rápidamente al monstruo más cercano y quemarlos. Se disiparán inofensivamente
-si no es capaz de alcanzar un objetivo o si el caster intercambia lugares con ellos.%%%%
+si no es capaz de alcanzar un objetivo o si el caster intercambia lugares con ellos.
+
+%%%%
 Freeze spell
 
 Congela a una criatura adyacente, tratando el daño que daña cualquier armadura a la
-El objetivo puede tener. Esto puede retrasar temporalmente las criaturas de sangre fría.%%%%
+El objetivo puede tener. Esto puede retrasar temporalmente las criaturas de sangre fría.
+
+%%%%
 Freezing Cloud spell
 
-Conjura una gran nube de vapor lethally frío.%%%%
+Conjura una gran nube de vapor lethally frío.
+
+%%%%
 Freezing Gust spell
 
 Dispara un perno penetrante de aire frito que deja nubes de frío lethally
-vapor en su velada.%%%%
+vapor en su velada.
+
+%%%%
 Frozen Ramparts spell
 
 Encases que rodean paredes con hielo durante un corto tiempo. Foes que vagan cerca de
 Las paredes heladas serán dañadas, y esto puede retrasar temporalmente las criaturas de sangre fría.
 Cada víctima sólo se ve afectada por una pared helada a la vez.
 
-El hielo se romperá y caerá si la casta se mueve a una nueva posición.%%%%
+El hielo se romperá y caerá si la casta se mueve a una nueva posición.
+
+%%%%
 Fugue of the Fallen spell
 
 Llama a los restos persistentes de los muertos largos. Mientras que activo, cada uno
@@ -688,13 +979,17 @@ a tu objetivo.
 
 Rechazar este hechizo liberará tu dominio sobre las almas que has atraído,
 reajustando cualquier bonificación que haya acumulado, y la onda cacofónica de los muertos
-puede atraer la atención no deseada incluso mientras la mantiene.%%%%
+puede atraer la atención no deseada incluso mientras la mantiene.
+
+%%%%
 Fulminant Prism spell
 
 Conjura un prisma brillante de una aleación de oro blando inestable. Esto es inútil
 licitación legal, sin embargo, ya que lamentablemente explotará violentamente con arcane
 fuerza después de una corta duración. Si se destruye prematuramente, su explosión será mucho
-Más débil.%%%%
+Más débil.
+
+%%%%
 Fulsome Fusillade spell
 
 Un magnum opus de la química imprudente, este hechizo provoca un surfeit de
@@ -708,14 +1003,20 @@ está atrapado en la explosión.
 Este hechizo cuesta una pequeña cantidad de energía mágica de la castra cada vuelta a
 mantener, y aunque nunca apuntará a una explosión donde podría herir
 casta, los aliados de la casta (y cualquier otra cosa en la vecindad general) no son
-tan afortunado.%%%%
+tan afortunado.
+
+%%%%
 Funeral Dirge spell
 
 Un canto ritual que brevemente roza a varios aliados no muertos cercanos para mover más
-rápido y golpear con mayor fuerza.%%%%
+rápido y golpear con mayor fuerza.
+
+%%%%
 Galvanic Breath spell
 
-<Galvanic Breath ability>%%%%
+<Galvanic Breath ability>
+
+%%%%
 Gell's Gavotte spell
 
 Brevemente reorienta la gravedad local para estar en una dirección cardinal de la castra
@@ -728,26 +1029,36 @@ afortunado, y el impacto abrupto batirá cualquier cosa que ya no era
 de pie junto a su nuevo "flor".
 
 Se necesita un corto tiempo para que la gravedad se estabilice lo suficiente para replantear este hechizo,
-aunque los magos más poderosos son capaces de hacerlo con más frecuencia.%%%%
+aunque los magos más poderosos son capaces de hacerlo con más frecuencia.
+
+%%%%
 Ghostly Fireball spell
 
 Abraza una bola explosiva de energía negativa que drena a cualquier criatura viviente
-Engullece.%%%%
+Engullece.
+
+%%%%
 Ghostly Sacrifice spell
 
 Usa la esencia motivadora de un aliado para crear una explosión de energía negativa,
 drenando a cualquier criatura viviente que engulle. El ser usado para alimentar el hechizo, no
-importa si vivir o construir, se consume y no se hace en el proceso.%%%%
+importa si vivir o construir, se consume y no se hace en el proceso.
+
+%%%%
 Glacial Breath spell
 
-<Glacial Breath ability>%%%%
+<Glacial Breath ability>
+
+%%%%
 Glaciate spell
 
 Conjura una poderosa explosión de hielo. Criaturas dentro de su área en forma de cono de
 efecto de los daños y perjuicios, con mayores daños a los cercanos
 Caster. Los golpeados por la explosión están envueltos en hielo, ralentizando su movimiento, y
 los muertos por la explosión pueden ser congelados en bloques sólidos de hielo. La mitad de su
-daño evita la resistencia fría.%%%%
+daño evita la resistencia fría.
+
+%%%%
 Gloom spell
 
 Emite una ola de perniciosa gloom que intenta ahogar la luz alrededor
@@ -755,12 +1066,16 @@ criaturas cercanas. Cualquier criatura viviente, demoníaca o santa atrapada en 
 brevemente perder su vista y ser dejado tropiezo ciegamente.
 
 El poder de la voluntad es inútil contra este hechizo, pero las criaturas más fuertes aún pueden encogerse
-sus efectos.%%%%
+sus efectos.
+
+%%%%
 Grasping Roots spell
 
 Llama a las raíces gigantesca captación de profundos subterráneos que sostienen y limitan sus
 víctima. Las raíces se retirarán si la víctima se libera o si el que llama se mueve
-fuera de vista.%%%%
+fuera de vista.
+
+%%%%
 Grave Claw spell
 
 Llama el a pesar de los muertos recientemente para golpear a un enemigo objetivo con
@@ -770,38 +1085,56 @@ sobre la castra.
 
 Tú puede almacenar suficiente malicia para lanzar este hechizo a la mayoría de tres veces, y esto
 sólo se puede reponer causando la muerte de un número suficiente de vidas
-seres.%%%%
+seres.
+
+%%%%
 Infernal Servant spell
 
-Invoca a un demonio mayor.%%%%
+Invoca a un demonio mayor.
+
+%%%%
 Greater Ensnare spell
 
 Dispara una corriente de frotar a una criatura, enredándolas en una red pegajosa y
-dispersando webs adicionales cercanas que se disuelven después de una corta longitud de tiempo.%%%%
+dispersando webs adicionales cercanas que se disuelven después de una corta longitud de tiempo.
+
+%%%%
 Hailstorm spell
 
 Conjura un cañón de granizo, golpeando criaturas cercanas que no logran esquivar.
 El ojo de la tormenta es lo suficientemente ancho que los monstruos adyacentes a la castra son
 no afectado. Debido al fuerte impacto y los bordes de corte, la mitad de su daño
-evita la resistencia fría.%%%%
+evita la resistencia fría.
+
+%%%%
 Haste Other spell
 
-Acelera las acciones de un aliado cercano.%%%%
+Acelera las acciones de un aliado cercano.
+
+%%%%
 Harpoon Shot spell
 
 Dispara una larga y flexible masa de púas. La víctima enredada será
-Sacó adyacente a la castra o collide con cualquier cosa que bloquee el camino.%%%%
+Sacó adyacente a la castra o collide con cualquier cosa que bloquee el camino.
+
+%%%%
 Haste spell
 
-Acelera las acciones de la casta.%%%%
+Acelera las acciones de la casta.
+
+%%%%
 Haunt spell
 
 Llama a los espectros y fantasmas para perseguir el objetivo del castor. Sólo atacarán.
 la criatura que están persiguiendo, y se disipará rápidamente una vez su objetivo
-muere. El número de espectros citados aumenta con el poder del hechizo.%%%%
+muere. El número de espectros citados aumenta con el poder del hechizo.
+
+%%%%
 Hellfire Court spell
 
-Invoca demonios de llama y condenación.%%%%
+Invoca demonios de llama y condenación.
+
+%%%%
 Hellfire Mortar spell
 
 Se divide el suelo frente a la castra y esculpe un arma aterradora
@@ -810,21 +1143,31 @@ autónomamente lanzando gotas de magma a los enemigos de la castra como lo hace.
 
 Cuando llega al final de su camino, o se obstruye en su movimiento por otro
 criatura, se hundirá de nuevo en la lava, y el chasma se cerrará
-poco después.%%%%
+poco después.
+
+%%%%
 Heal Other spell
 
-Cura un aliado cercano.%%%%
+Cura un aliado cercano.
+
+%%%%
 Hunting Call spell
 
-Inspira aliados cercanos para acelerar su movimiento.%%%%
+Inspira aliados cercanos para acelerar su movimiento.
+
+%%%%
 Hurl Damnation spell
 
-<Hurl Damnation ability>%%%%
+<Hurl Damnation ability>
+
+%%%%
 Hurl Sludge spell
 
 Conjura una explosión enfocada de lodos altamente tóxicos, envenenando a la víctima y
 drenando sus alrededores. El lodo daña y envenena a todos los monstruos,
-incluso aquellos resistentes al veneno.%%%%
+incluso aquellos resistentes al veneno.
+
+%%%%
 Hoarfrost Bullet spell
 
 Dispara un trozo de hielo que recubre lo que sea que golpee con una capa de helada frágil
@@ -832,7 +1175,9 @@ que ralentiza su movimiento.
 
 Cada disparo va a agotar la durabilidad restante del cañón, pero si es
 sobrevive a disparar 5 veces, el disparo final se fragmentará para golpear a todos los enemigos alrededor
-el objetivo principal para daños adicionales.%%%%
+el objetivo principal para daños adicionales.
+
+%%%%
 Hoarfrost Cannonade spell
 
 Esculpe un par de cañones helados que asaltan a los enemigos de la castra de largo alcance.
@@ -841,78 +1186,112 @@ frost que ralentiza su movimiento.
 
 Los cañones son de corta duración y consumen una parte de sí mismos con cada duro
 disparan, pero si sobreviven para disparar su salva definitiva sin interferencia,
-Será extrapoderoso.%%%%
+Será extrapoderoso.
+
+%%%%
 Holy Breath spell
 
 Exhala una gran nube de llama bendita, brillando con la gloria del bien
 dioses. Estas llamas son especialmente peligrosas para criaturas desenfrenadas y demoníacas,
-y no tienen efecto en las criaturas santas.%%%%
+y no tienen efecto en las criaturas santas.
+
+%%%%
 Holy Flames spell
 
 Trae a un enemigo en un anillo de llama bendita. Estas llamas son especialmente
 peligrosas para las criaturas no muertas y demoníacas, y no tienen efecto en las santas
-criaturas.%%%%
+criaturas.
+
+%%%%
 Hurl Torchlight spell
 
 Hurls a gout of umbral torchlight which deals irresistible damage to living,
 seres demoníacos y santos. La linterna también empoderará brevemente a cualquier amigo
-undead atrapado en su explosión y es inofensivo para aquellos que adoran a Yredelemnul.%%%%
+undead atrapado en su explosión y es inofensivo para aquellos que adoran a Yredelemnul.
+
+%%%%
 Iceblast spell
 
 Dispara una gran masa de hielo, que explota en el impacto. La mitad de su daño
-evita la resistencia fría.%%%%
+evita la resistencia fría.
+
+%%%%
 Ignite Poison spell
 
 Convierte todo veneno cercano en llamas líquidas, quemando criaturas envenenadas de
 dentro. También convierte las nubes de gases venenosos y mefáticos en llamas. El
-caster no se afecta directamente.%%%%
+caster no se afecta directamente.
+
+%%%%
 Ignition spell
 
 Todos los enemigos del entorno de la castra están envueltos en bolas de fuego. El caster
 y sus aliados están protegidos del fuego y nunca serán dañados por esto
-hechizo.%%%%
+hechizo.
+
+%%%%
 Ill Omen spell
 
 Bendece el telar del destino contra un objetivo, infligiendo a Doom significativa. No.
-ser utilizado si hay alguna obstrucción entre la castra y su objetivo.%%%%
+ser utilizado si hay alguna obstrucción entre la castra y su objetivo.
+
+%%%%
 Infestation spell
 
 Llama una plaga de escarabajos, infestando criaturas afectadas por una duración
 dependiendo del poder y causando que los escarabajos de la muerte crezcan y reventen de ellos
-muerte.%%%%
+muerte.
+
+%%%%
 Injury Bond spell
 
 Ata la casta a los aliados cercanos, reduciendo todos los daños que toman a la mitad en
-intercambio por sufrimiento la mitad de los daños impedidos mismos.%%%%
+intercambio por sufrimiento la mitad de los daños impedidos mismos.
+
+%%%%
 Injury Mirror spell
 
 Refleja los daños causados por un corto período de tiempo, lastimando a los atacantes cuando el
 La castra daña. Después de que la duración se desgasta, la casta no puede fundir
-este hechizo de nuevo por un corto tiempo.%%%%
+este hechizo de nuevo por un corto tiempo.
+
+%%%%
 Ink Cloud spell
 
-Libera una nube gruesa de tinta a visión oscura.%%%%
+Libera una nube gruesa de tinta a visión oscura.
+
+%%%%
 Inner Flame spell
 
 Llena a un enemigo con un fuego intenso. Este incendio se libera en cualquier momento.
 es golpeado, y explosivamente liberado tras la muerte. El tamaño de la explosión causada
-depende del tamaño del objetivo.%%%%
+depende del tamaño del objetivo.
+
+%%%%
 Invisibility spell
 
-Hace invisible la casta.%%%%
+Hace invisible la casta.
+
+%%%%
 Invisibility Other spell
 
-Se vuelve un aliado cercano invisible.%%%%
+Se vuelve un aliado cercano invisible.
+
+%%%%
 Iron Shot spell
 
-Hurls un gran y pesado metal.%%%%
+Hurls un gran y pesado metal.
+
+%%%%
 Irradiate spell
 
 Transmuta una capa ultrafina de la piel del caster (o equivalente) directamente
 en energía mágica pura, explosión de criaturas adyacentes. Puede deformarse
 sus víctimas, debilitándolas y reduciendo su armadura. La fundición no se deja
 completamente inafectado; algunos de los llaneros mágicos, lo suficiente para dejarlos
-peligrosamente contaminada después de unas cuantas castings.%%%%
+peligrosamente contaminada después de unas cuantas castings.
+
+%%%%
 Iskenderun's Battlesphere spell
 
 Conjura a un pequeño globo de energía destructiva. Cada vez que su creador lanza un
@@ -920,12 +1299,16 @@ hechizo ofensivo, la esfera de batallas también disparará un volley infalible 
 el enemigo más herido cerca puede llegar.
 
 El creador de la batalla puede disparar libremente a través de su posición sin dañar
-Es.%%%%
+Es.
+
+%%%%
 Iskenderun's Mystic Blast spell
 
 Detona una esfera de la energía destructiva. La explosión golpeará a todos
 monstruos cercanos con fuerza física, golpeándolos de nuevo si se hace daño.
-Spellpower aumenta el daño y la distancia de retroceso.%%%%
+Spellpower aumenta el daño y la distancia de retroceso.
+
+%%%%
 Jinxbite spell
 
 Llama la atención de los espíritus tramposos. Mientras que sostiene, los espíritus serán
@@ -934,31 +1317,41 @@ sufrirán daños menores y serán drenados por la malicia juguetona de los sprit
 
 Sin embargo, la asistencia falsa es insensata; no pueden ser aprehendidas a menos que sea susceptible
 la víctima es visible, y partirá rápidamente una vez que ya no permanezca. Llamando a la
-Fae también reduce la fuerza de voluntad de la castra por un tiempo.%%%%
+Fae también reduce la fuerza de voluntad de la castra por un tiempo.
+
+%%%%
 Kinetic Grapnel spell
 
 Ojea un fino filamento cinético alrededor del arma de la fundición y lanza el
 otro extremo en un enemigo cercano. Si este grapnel golpea y hace
 daño, se alojará en ellos, permitiendo el próximo melee ataque la caster
-realiza contra ellos para golpear con la precisión perfecta y un pequeño bono de asesinato.%%%%
+realiza contra ellos para golpear con la precisión perfecta y un pequeño bono de asesinato.
+
+%%%%
 Volatile Blastmotes spell
 
 Trae una nube de blastmotes volátiles alrededor de la castra. Estas explotan
 en contacto con llama abierta o con criaturas - incluyendo cualquier caster tonto
 ¡Lo suficiente como para mentirles! La explosión es concusiva, golpeando al lado
-criaturas lejos. El daño hecho aumenta con el poder del hechizo.%%%%
+criaturas lejos. El daño hecho aumenta con el poder del hechizo.
+
+%%%%
 Landbreaker spell
 
 Fracturas violentamente el paisaje, causando que los escombros caigan sobre varios cercanos
 enemigos y también la tierra detrás de ellos - obstruyendo su camino para huir
-Caster.%%%%
+Caster.
+
+%%%%
 Launch Bomblet spell
 
 Dispara una bomba en una trayectoria balística que ignora la línea de fuego, tratando
 daños menores a un solo objetivo dentro del alcance y el despliegue del bombardero cerca de él.
 
 No se puede atacar enemigos adyacentes a la castra o aquellos que no tienen espacio cercano para
-la bomba a tierra.%%%%
+la bomba a tierra.
+
+%%%%
 Launch Clockwork Bee spell
 
 Construye una abeja mecánica y enrolla sus mecanismos de relojería sobre varios
@@ -970,13 +1363,17 @@ La fundición puede reparar y rebobinar una abeja dormida al intentar entrar en 
 el costo de 1 MP.
 
 El poder de pago aumenta el número de ataques que la abeja puede realizar antes de ir
-inactivo.%%%%
+inactivo.
+
+%%%%
 Launch Sporangium spell
 
 Lanza un esporangium caustico que perseguirá cualquier fuente intrigante
 nutrientes - como tú mismo - y engullarlos en una explosión ácido masiva.
 Plasmodia naciente, capaz de disparar ácido propio, puede tener raíces en cualquier
-paredes esta explosión toca - aunque ninguna dentro de 2 fichas de cualquier otro.%%%%
+paredes esta explosión toca - aunque ninguna dentro de 2 fichas de cualquier otro.
+
+%%%%
 Leda's Liquefaction spell
 
 Licua el suelo alrededor de la castra, lo que hace difícil pasar.
@@ -986,7 +1383,9 @@ en melee puede fallar.
 
 El efecto comienza con un radio dependiendo del poder, que luego se reducirá,
 eventualmente cubriendo sólo la castra, antes de que se fije. Mantener el
-La conexión al suelo frena el movimiento de la castra, incluso si están volando.%%%%
+La conexión al suelo frena el movimiento de la castra, incluso si están volando.
+
+%%%%
 Lee's Rapid Deconstruction spell
 
 Fragmentos de una pared o un monstruo visible bastante frágil en una explosión
@@ -996,28 +1395,42 @@ fuertemente reducido por armadura.
 
 Los objetivos de roca, piedra, hielo o hueso causarán una pequeña explosión. Metal
 blancos causarán una pequeña pero más dañina explosión, y objetivos hechos de
-El cristal causará una explosión grande y más dañina.%%%%
+El cristal causará una explosión grande y más dañina.
+
+%%%%
 Legendary Destruction spell
 
 Conjura dos efectos mágicos explosivos en la sucesión instantánea. Los efectos pueden
-ser cualquier mezcla de bola de fuego, hielo y bola de fuego fantasma.%%%%
+ser cualquier mezcla de bola de fuego, hielo y bola de fuego fantasma.
+
+%%%%
 Lehudib's Crystal Spear spell
 
-Hurls a lethally sharp shard of Crystal.%%%%
+Hurls a lethally sharp shard of Crystal.
+
+%%%%
 Lesser Beckoning spell
 
-Beckons el objetivo adelante, tratando de colocarlos junto a la castra.%%%%
+Beckons el objetivo adelante, tratando de colocarlos junto a la castra.
+
+%%%%
 Lightning Bolt spell
 
 Dispara un poderoso rayo. Su daño supera a la mitad de los defensores
-armadura, y puede ser rebotado de las paredes para golpear objetivos dos veces.%%%%
+armadura, y puede ser rebotado de las paredes para golpear objetivos dos veces.
+
+%%%%
 Magic Dart spell
 
-Dispara un pequeño tornillo de energía mágica que nunca falta.%%%%
+Dispara un pequeño tornillo de energía mágica que nunca falta.
+
+%%%%
 Magma Barrage spell
 
 Fuegos penetrando pernos de roca fundida hasta dos objetivos enemigos diferentes.
-La mitad de su daño evita la resistencia al fuego.%%%%
+La mitad de su daño evita la resistencia al fuego.
+
+%%%%
 Magnavolt spell
 
 Envuelve un objetivo en una capa delgada de fragmentos de metal cargados magnéticamente, luego
@@ -1028,13 +1441,19 @@ objetivo marcado así.
 Las criaturas magnetizadas no pueden evadir ataques y serán
 revelado si invisible. Si mueren mientras aún están recubiertos, dejarán atrás una
 nube corta de metal electrificado que seguirá sirviendo como
-barra de relámpago para este hechizo.%%%%
+barra de relámpago para este hechizo.
+
+%%%%
 Major Destruction spell
 
-Dispara un rayo dañino al azar o explosión en la criatura dirigida.%%%%
+Dispara un rayo dañino al azar o explosión en la criatura dirigida.
+
+%%%%
 Major Healing spell
 
-Cura una gran cantidad de daño al cuerpo de la castra.%%%%
+Cura una gran cantidad de daño al cuerpo de la castra.
+
+%%%%
 Malign Gateway spell
 
 Tears a gash en realidad, creando un portal autosostenido pero temporal a un
@@ -1042,14 +1461,20 @@ desconocido, contaminado en el otro mundo. Se requiere espacio abierto para tene
 tiempo, un poderoso tentáculo garrazo alcanzará a través del portal, permaneciendo atado
 a la voluntad del caster durante una duración dependiendo del poder. Con el portal
 expiación, el tentáculo será cortado y encenderá la castra. La duración del
-el portal aumenta con el poder del hechizo.%%%%
+el portal aumenta con el poder del hechizo.
+
+%%%%
 Malign Offering spell
 
-Dibuja la vida de un enemigo, curando aliados cercanos en el proceso.%%%%
+Dibuja la vida de un enemigo, curando aliados cercanos en el proceso.
+
+%%%%
 Malmutate spell
 
 Le otorga una mutación a un objetivo. La mutación es casi siempre dañina. It
-no puede afectar a los seres artificiales, y los no muertos se descompondrán si se ven afectados.%%%%
+no puede afectar a los seres artificiales, y los no muertos se descompondrán si se ven afectados.
+
+%%%%
 Manifold Assault spell
 
 Espacio Warps en configuraciones paradójicas para golpear a muchos enemigos visibles con
@@ -1060,21 +1485,29 @@ se debe tener cuidado cuando se ordena sus propias extremidades.
 El tiempo tomado para el ataque es exactamente el mismo que un ataque normal.
 Los ataques realizados de esta manera nunca fallan, pero el punto exacto no puede ser
 controlado precisamente, haciéndolos incapaces de hacer daños adicionales contra la insuspección
-enemigos.%%%%
+enemigos.
+
+%%%%
 Mara Summon spell
 
 Oiga ilusiones de la castra. Tales ilusiones tienen la misma proeza física
-como el original, y puede lanzar los mismos hechizos.%%%%
+como el original, y puede lanzar los mismos hechizos.
+
+%%%%
 March of Sorrows spell
 
 Conjura una corriente de sufrimiento robado, dejando nubes de miseria atroz en
 su velada y sus objetivos. Estas nubes de energía negativa rápidamente
-drenar la vida de pequeñas fracciones de su salud máxima.%%%%
+drenar la vida de pequeñas fracciones de su salud máxima.
+
+%%%%
 Marshlight spell
 
 Conjura dos bolas de gas pantano quema junto a la castra. Las bolas lo harán
 buscar rápidamente al monstruo más cercano y quemarlos. Los asistentes intentaron copiar esto
-con el hechizo 'Foxfire', pero su versión es mucho menos poderosa.%%%%
+con el hechizo 'Foxfire', pero su versión es mucho menos poderosa.
+
+%%%%
 Martyr's Knell spell
 
 Beca el alma de un mártir de larga data para proteger a tus aliados por un tiempo.
@@ -1082,15 +1515,21 @@ Esta alma sufre una porción del daño que sus aliados recibirían de otro modo.
 
 Si es asesinado (¡de nuevo!), se transformará en un fantasma muerto, infligiendo
 heridas ilusorias en enemigos. Tales heridas son fugaces, y desaparecerán cuando las
-El fantasma sale - a menos que mate a sus víctimas primero.%%%%
+El fantasma sale - a menos que mate a sus víctimas primero.
+
+%%%%
 Mass Confusion spell
 
-Causa confusión en todos los que miran a la castra.%%%%
+Causa confusión en todos los que miran a la castra.
+
+%%%%
 Mass Regeneration spell
 
 Causas Aliados monstruos cercanos para regenerarse rápidamente en un corto período de
 tiempo. Esta regeneración es proporcional a cada una de las criaturas
-salud.%%%%
+salud.
+
+%%%%
 Maxwell's Capacitive Coupling spell
 
 Gradualmente construye carga eléctrica en la casta, siempre y cuando mantengan
@@ -1098,57 +1537,81 @@ enfoque (esperando en su lugar y no tomando ninguna otra acción). Cuando un umb
 es alcanzado, las parejas de carga con el enemigo más cercano, vaporizando instantáneamente.
 El poder de hechizos más alto permitirá a la castra acumular carga más rápidamente. El
 el hechizo requiere un objetivo visible para comenzar a acumular carga, aunque diferente
-El enemigo puede ser apuntado cuando el cargo es liberado.%%%%
+El enemigo puede ser apuntado cuando el cargo es liberado.
+
+%%%%
 Maxwell's Portable Piledriver spell
 
 Comprende un sobre de espacio alrededor de la casta y un enemigo adyacente (o un
 línea contigua de enemigos), entonces le permite descomprimir abruptamente, empujando
 todo el mundo adelante hasta que el desafortunado ser al final colisiona con
 algo sólido, infligiendo daño proporcional a la distancia
-Viajó.%%%%
+Viajó.
+
+%%%%
 Mephitic Cloud spell
 
 Conjura un frágil frasco que explota en nubes de poca vida de vapores nocivos.
 Estas nubes pueden causar confusión en cualquier criatura no resistente al veneno.
-Las criaturas más duras y experimentadas tienen menos probabilidades de ser afectadas.%%%%
+Las criaturas más duras y experimentadas tienen menos probabilidades de ser afectadas.
+
+%%%%
 Mesmerise spell
 
 Intenta entrar a todos los enemigos a la vista. Los aventureros que no resisten voluntad
 ser incapaz de alejarse de la castra, mientras que otras criaturas se convertirán en
 aturdido.
 
-Dejar la línea de visión de la castra terminará el efecto de control del movimiento.%%%%
+Dejar la línea de visión de la castra terminará el efecto de control del movimiento.
+
+%%%%
 Metabolic Englaciation spell
 
 Reduce la tasa metabólica de cada criatura en los alrededores de la castra, disminuyendo
 todos aquellos que no son resistentes al frío. Las criaturas de sangre fría serán
 afecta mucho más fuerte, y las criaturas más duras serán ralentizadas para un
-Tiempo más corto.%%%%
+Tiempo más corto.
+
+%%%%
 Metal Splinters spell
 
-Dispara una explosión de espinillas metálicas. Su daño se reduce fuertemente por armadura.%%%%
+Dispara una explosión de espinillas metálicas. Su daño se reduce fuertemente por armadura.
+
+%%%%
 Miasma Breath spell
 
 Crea una gran nube de pestilencia, envenenamiento y, a veces, ralentizar cualquier
-criaturas vivientes que toca.%%%%
+criaturas vivientes que toca.
+
+%%%%
 Might Other spell
 
-Aumenta significativamente el daño causado por un aliado cercano en la melee.%%%%
+Aumenta significativamente el daño causado por un aliado cercano en la melee.
+
+%%%%
 Might spell
 
-Aumenta significativamente el daño de la castra en la melee.%%%%
+Aumenta significativamente el daño de la castra en la melee.
+
+%%%%
 Mindburst spell
 
 Lanza un ataque psíquico. Si supera la voluntad de la víctima,
 'blows their mind' en una manera violentamente literal, tratando daño que
-pasa la armadura por completo. Es inútil contra criaturas sin sentido.%%%%
+pasa la armadura por completo. Es inútil contra criaturas sin sentido.
+
+%%%%
 Minor Healing spell
 
-Cura una pequeña cantidad de daño al cuerpo de la castra.%%%%
+Cura una pequeña cantidad de daño al cuerpo de la castra.
+
+%%%%
 Monstrous Menagerie spell
 
 Invoca una poderosa criatura exótica a la ayuda de la castra: un manticore, un
-lindwurm, o un marauder de esfinge.%%%%
+lindwurm, o un marauder de esfinge.
+
+%%%%
 Mercury Arrow spell
 
 Conjura una flecha de mercurio elemental que se ocupa de daño directo al veneno
@@ -1156,22 +1619,36 @@ lo que sea que golpee y también puede debilitar sus ataques de melee por un cor
 
 La fuerza física de la flecha inflige una pequeña cantidad de daño incluso a aquellos
 inmune al veneno, y el efecto debilitante puede salpicarse a objetivos adyacentes y
-ignora la resistencia al veneno.%%%%
+ignora la resistencia al veneno.
+
+%%%%
 Mourning Wail spell
 
 Exhala una corriente de dolor olvidado, dejando nubes de miseria atroz en
 su velada pero saltando criaturas pasadas que serían vulnerables a ella. Éstos
 nubes de energía negativa drenará rápidamente la vida de pequeñas fracciones de
-su salud máxima.%%%%
+su salud máxima.
+
+%%%%
 Mud Breath spell
 
-<Mud Breath ability>%%%%
+<Mud Breath ability>
+
+%%%%
+Murky Legion spell
+
+Invoca algunos fulgores brillantes, que propagan tanto la contaminación mágica como
+agua poco profunda en un solo ataque antes de desaparecer.
+
+%%%%
 Mutagenic Gaze spell
 
 Causa energía mutagénica para acumularse en un objetivo, alcanzando finalmente niveles
 lo suficientemente alto para causar mutaciones dañinas o explosiones de energía mágica inestable.
 
-Este hechizo requiere línea de visión pero no línea de fuego.%%%%
+Este hechizo requiere línea de visión pero no línea de fuego.
+
+%%%%
 Nazja's All-Purpose Tempering spell
 
 Manifiesta un martillo mágico que repara y aumenta temporalmente la ofensiva
@@ -1179,7 +1656,9 @@ capacidades de cualquier construcción cercana - ya sea golem o escarabajo phala
 arma de baile. Este proceso da lugar a una oscilación de chispas, escorias y concusivas
 ondas de choque que hacen daño considerable a cualquier enemigo adyacente al objetivo
 construir, pero no puede ser recast sobre el mismo objeto hasta la mejora
-se desgasta.%%%%
+se desgasta.
+
+%%%%
 Nazja's Percussive Tempering spell
 
 Manifiesta un martillo mágico que repara y aumenta temporalmente la ofensiva
@@ -1187,20 +1666,30 @@ capacidades de cualquier construcción que fue creada por la propia Forgecraft
 hechizos. Este proceso da lugar a una oscilación de chispas, escorias y concusivas
 ondas de choque que hacen daño considerable a cualquier enemigo adyacente al objetivo
 construir, pero no puede ser recast sobre el mismo objeto hasta la mejora
-se desgasta.%%%%
+se desgasta.
+
+%%%%
 Noxious Breath spell
 
-<Noxious Breath ability>%%%%
+<Noxious Breath ability>
+
+%%%%
 Noxious Cloud spell
 
-Crea una gran nube de humos nocivos, que puede causar confusión.%%%%
+Crea una gran nube de humos nocivos, que puede causar confusión.
+
+%%%%
 Nullifying Breath spell
 
-<Nullifying Breath ability>%%%%
+<Nullifying Breath ability>
+
+%%%%
 Olgreb's Toxic Radiance spell
 
 Causa la fundición para irradiar energía tóxica, infligiendo continuamente veneno
-todo en línea de visión durante tanto el hechizo dure.%%%%
+todo en línea de visión durante tanto el hechizo dure.
+
+%%%%
 Orb of Destruction spell
 
 Conjura un orbe hecho de pura magia destructiva. Comparado con la mayoría de los demás
@@ -1211,11 +1700,15 @@ nascent orb tratará el daño reducido.
 
 Los residentes de la mazmorra pueden mantener el orbe hasta que impacte un
 blanco, pero cuando sea lanzado por tú el orbe se disipará al dejar su línea de
-Mira.%%%%
+Mira.
+
+%%%%
 Orb of Electricity spell
 
 Abraza un orbe de crackling de energía eléctrica, creando una enorme explosión en
-impacto. Su daño daña a la mitad de la armadura de los defensores.%%%%
+impacto. Su daño daña a la mitad de la armadura de los defensores.
+
+%%%%
 Ostracise spell
 
 Aisla un blanco de lo divino - reduciendo temporalmente su piedad en los ojos
@@ -1225,42 +1718,58 @@ una piedad efectiva más y más allá, pero nunca puede conducir directamente a
 excomunión.
 
 Este efecto se apagará lentamente a medida que el ser afligido gana experiencia,
-eventualmente restaurando el acceso a toda la piedad que poseían una vez.%%%%
+eventualmente restaurando el acceso a toda la piedad que poseían una vez.
+
+%%%%
 Ozocubu's Armour spell
 
 Envuelve el cuerpo de la fundición en una capa protectora de hielo grueso, otorgando una
 bonificación sustancial para armar mientras permanezcan en su ubicación actual.
 El hielo se romperá y caerá si la casta se mueve a una nueva posición. El
 disminución del hechizo en la eficacia en armadura más pesado, otorgando un bono menor
-más alto el grado de encumbrancia de la armadura de la castra.%%%%
+más alto el grado de encumbrancia de la armadura de la castra.
+
+%%%%
 Ozocubu's Refrigeration spell
 
 Gira el aire amargamente frío, congelando a todas las demás criaturas en línea de visión.
 Esto es menos eficaz contra las criaturas empacadas apretadamente juntas - aquellas
 adyacentes a sus aliados serán parcialmente aislados del frío, tomando menos
-daño.%%%%
+daño.
+
+%%%%
 Pain spell
 
-Inflige una lesión extremadamente dolorosa a una criatura viviente.%%%%
+Inflige una lesión extremadamente dolorosa a una criatura viviente.
+
+%%%%
 Paralyse spell
 
-Evita que una criatura tome cualquier acción por un corto tiempo.%%%%
+Evita que una criatura tome cualquier acción por un corto tiempo.
+
+%%%%
 Paralysis Gaze spell
 
 Inresistiblemente impide que una criatura tome cualquier acción por un corto tiempo,
-Requiriendo múltiples cargos pero no línea de fuego.%%%%
+Requiriendo múltiples cargos pero no línea de fuego.
+
+%%%%
 Passage of Golubria spell
 
 Abre dos portales (uno siempre cerca de la casta), que permiten instantáneamente
 transporte al azar otras puertas abiertas a cualquier criatura que los ingrese. Hay
 no limite al número de portales que pueden abrirse en un momento. Sin embargo,
-las puertas cierran un corto tiempo después de ser abiertas, o inmediatamente una vez ingresadas.%%%%
+las puertas cierran un corto tiempo después de ser abiertas, o inmediatamente una vez ingresadas.
+
+%%%%
 Passwall spell
 
 Permite que la casta viaje a corta distancia a través de una pared de roca adyacente y
 emerger de nuevo en el otro lado. Este hechizo tarda un poco en lanzar,
 durante el cual la castra no podrá actuar, pero también ganar mayor armadura
-de su attunement a la roca.%%%%
+de su attunement a la roca.
+
+%%%%
 Permafrost Eruption spell
 
 Llama al antiguo frío acechando dentro de la tierra para emerger - violentamente. El
@@ -1269,26 +1778,36 @@ con fuerza inevitable. El frío en sí es breve pero insoportablemente amargo,
 Pasando la armadura enteramente mientras congela el objetivo y sus vecinos.
 
 Siempre intentará volar la mayor concentración de enemigos a la vista, y
-Nunca explota al lado de la castra.%%%%
+Nunca explota al lado de la castra.
+
+%%%%
 Petrify spell
 
 Petrifica a una criatura dirigida y hasta dos otros enemigos en una cadena. Aquellas
 no se debe la voluntad de resistir se ralentiza brevemente, y luego se vuelve a la piedra.
 Hasta que regresen a la carne, son incapaces de actuar, pero también toman medio daño.
-El poder del hechizo se disminuye contra objetivos secundarios.%%%%
+El poder del hechizo se disminuye contra objetivos secundarios.
+
+%%%%
 Petrifying Cloud spell
 
 Exhala polvo calcificador, que petrifica a alguien afectado por más tiempo que un
-Un momento breve.%%%%
+Un momento breve.
+
+%%%%
 Phantom Blitz spell
 
 Ojea y dispara una copia fantasma de la castra con gran fuerza. Tales fantasmas
 tienen la misma proeza marcial y mística que la castra, y una noche impromptu
-El desfile de ilusiones puede abrumar a las víctimas de la castra.%%%%
+El desfile de ilusiones puede abrumar a las víctimas de la castra.
+
+%%%%
 Phantom Mirror spell
 
 Crea una copia fantasma de una criatura. La copia será algo frágil, pero
-de lo contrario casi indistinguible del original.%%%%
+de lo contrario casi indistinguible del original.
+
+%%%%
 Planar Overlay spell
 
 Supera parte de una realidad adyacente sobre esta, causando aleatoria local
@@ -1297,17 +1816,23 @@ los monstruos llegarán a la vez; después, aparecerán a un lento, estable
 tarifa.
 
 Después de una cantidad considerable de tiempo ha pasado, estos monstruos pueden incluso aparecer
-cerca del jugador.%%%%
+cerca del jugador.
+
+%%%%
 Plane Rend spell
 
 Invoca algunas de las mayores amenazas de uno de los Pits de Slime, el Elven
 Halls, los Vaults, el Cripto, la Tumba de los Antiguos, o el Reino de Zot; el
-rama específica varía con cada elenco del hechizo.%%%%
+rama específica varía con cada elenco del hechizo.
+
+%%%%
 Plasma Beam spell
 
 Dispara un rayo penetrante de plasma en uno de los enemigos más distantes de la castra.
 El rayo ionizado pasa por la mitad de la armadura de los defensores, y un segundo rayo de fuego
-sigue en su velada.%%%%
+sigue en su velada.
+
+%%%%
 Platinum Paragon spell
 
 Construye a un campeón de metales brillantes cuyo prowess rivaliza con el más grande
@@ -1322,22 +1847,30 @@ proceso.
 
 Debido al vínculo mágico que mantiene con su creador, realizará un
 ataque adicional cada vez que lo hacen, y a veces incluso parir ataques dirigidos a
-si están lo suficientemente unidos.%%%%
+si están lo suficientemente unidos.
+
+%%%%
 Poison Arrow spell
 
 Dispara una flecha mágica recubierta con la toxina más vil y nociva. Incluso aquellos
 resistente al veneno será envenenado por él, y una pequeña porción de su directa
-daño evita la resistencia al veneno.%%%%
+daño evita la resistencia al veneno.
+
+%%%%
 Poisonous Cloud spell
 
-Conjura una gran nube de gases letales.%%%%
+Conjura una gran nube de gases letales.
+
+%%%%
 Poisonous Vapours spell
 
 Transmuta una pequeña cantidad de aire alrededor de un objetivo en vapores tóxicos,
 envenenar a alguien lo suficientemente desafortunado para respirar. La cantidad de aire
 afectado es pequeño y no persistirá más allá del giro en el que se funde.
 
-No puede afectar a aquellos con resistencia al veneno.%%%%
+No puede afectar a aquellos con resistencia al veneno.
+
+%%%%
 Polar Vortex spell
 
 Hace que el aire alrededor de la fundición se convierta en un vórtice helado, haciendo enormes daños
@@ -1346,37 +1879,53 @@ frío. Los afectados también serán barridos en el aire y arrojados alrededor.
 Sólo el ojo de la tormenta es un lugar seguro, y sigue la casta. El
 El vórtice no puede seguir la castra a través de translocaciones de larga distancia.
 La eficacia del hechizo se disminuye enormemente en áreas cerradas. Después de la
-Vortex se desvanece, no puede ser llamado de nuevo por un corto tiempo.%%%%
+Vortex se desvanece, no puede ser llamado de nuevo por un corto tiempo.
+
+%%%%
 Polymorph spell
 
 Aleatoriamente altera la forma de una criatura. Es especialmente eficaz contra
-criaturas que cambian de forma.%%%%
+criaturas que cambian de forma.
+
+%%%%
 Porkalator spell
 
 Transforma el objetivo en un cerdo. El objetivo se mueve rápidamente pero no se puede lanzar
-hechizos. La desaparición de la castra hará que la transformación termine.%%%%
+hechizos. La desaparición de la castra hará que la transformación termine.
+
+%%%%
 Portal Projectile spell
 
-Teleporta un misil disparado o lanzado contra un enemigo objetivo.%%%%
+Teleporta un misil disparado o lanzado contra un enemigo objetivo.
+
+%%%%
 Prayer of Brilliance spell
 
 Empodera la magia de los aliados magos cercanos de la castra, permitiéndoles
-lanzar su magia más poderosa y más a menudo.%%%%
+lanzar su magia más poderosa y más a menudo.
+
+%%%%
 Primal Wave spell
 
 Conjura un torrente de agua que puede golpear el objetivo, y crea un
-piscina de agua poco profunda durante un corto período de tiempo.%%%%
+piscina de agua poco profunda durante un corto período de tiempo.
+
+%%%%
 Pyre Arrow spell
 
 Lanza un rayo de fuego líquido que se aferra a una criatura dirigida, tratando
 Armour-ignoring fire damage over multiple turn. La víctima puede apagar el fuego
 mucho más rápido moviéndose.
 
-Si el objetivo es insustancial, el fuego líquido no se pegará.%%%%
+Si el objetivo es insustancial, el fuego líquido no se pegará.
+
+%%%%
 Pyroclastic Surge spell
 
 Dibuja llamas de lava. Cualquier enemigo de la castra de pie
-al lado o arriba de lava será quemado.%%%%
+al lado o arriba de lava será quemado.
+
+%%%%
 Pyrrhic Recollection spell
 
 Enciende un recuerdo del nimbo que rodea a Nadie, otorgando temporalmente
@@ -1384,30 +1933,42 @@ ellos el conocimiento de un poderoso hechizo y curando sus lesiones.
 
 Esta potencia es fugaz y se extinguirá después de tomar cualquier significativo
 cantidad de daño, pero mientras que cualquier otro recuerdo permanezca, no pueden ser
-descansad para siempre.%%%%
+descansad para siempre.
+
+%%%%
 Quicksilver Bolt spell
 
 Dispara un tornillo de disipar energía a una criatura dirigida, posiblemente eliminando
-algunos de sus encantos.%%%%
+algunos de sus encantos.
+
+%%%%
 Ravenous Swarm spell
 
 Desliza un torrente de murciélagos vampiros, llenando el aire alrededor de un objetivo.
 
 Estos vampiros se rechinarán en cualquier cosa que no sea desatada con un hambre voraz,
 y sus mordeduras eventualmente atraerán a sus víctimas a dormir, dejándolos
-Fácil presa.%%%%
+Fácil presa.
+
+%%%%
 Rebounding Blaze spell
 
 Fuegos un perno penetrante de llamas energéticas que pueden rebotar paredes para golpear
-objetivos dos veces.%%%%
+objetivos dos veces.
+
+%%%%
 Rebounding Chill spell
 
 Dispara un perno penetrante de frío energético que puede rebotar paredes para golpear
-objetivos dos veces.%%%%
+objetivos dos veces.
+
+%%%%
 Regenerate Other spell
 
 Causa que otra criatura se regenera rápidamente durante un corto período de tiempo.
-Esta regeneración es proporcional a la salud máxima de esa criatura.%%%%
+Esta regeneración es proporcional a la salud máxima de esa criatura.
+
+%%%%
 Rending Blade spell
 
 Condena la energía mágica de la castra en forma de un crujido violento
@@ -1418,12 +1979,16 @@ Tratando daños irresistibles.
 Repartiendo este hechizo drena temporalmente *todo* del resto de la castra mágica
 poder para constituir la espada, pero esta energía será devuelta a ellos tan pronto
 como la espada deja de existir. Cada punto de poder mágico secuestrado de esta manera
-aumenta ligeramente el daño que inflige la hoja.%%%%
+aumenta ligeramente el daño que inflige la hoja.
+
+%%%%
 Resonance Strike spell
 
 Llama una oleada de poder de la tierra, golpeando a un enemigo dentro del caster
 Mira. El hechizo cascada a través de construcciones cercanas, creciendo en fuerza con
-cada uno de pie cerca del objetivo.%%%%
+cada uno de pie cerca del objetivo.
+
+%%%%
 Rimeblight spell
 
 Aflige a una criatura (y hasta a otros dos cerca de ella) con una plaga mágica que
@@ -1436,26 +2001,36 @@ En seres vivos, santos o demoníacos, la enfermedad es especialmente virulenta,
 alimentar las energías necrométicas liberadas por el sufrimiento de su anfitrión. Como ellos
 acercarse al punto de la muerte, se acelerará rápidamente, devorando el último
 vestigios de su cuerpo y no dejando nada atrás sino un pilar retorcido de
-hielo estigiano.%%%%
+hielo estigiano.
+
+%%%%
 Roll spell
 
 Enrolla una bola, otorgando al escarabajo boulder tremenda velocidad, así como
 doble daño de melee. El rollo sólo se puede realizar cuando a distancia de un
-Foe, y el escarabajo siempre se desenrollará después de un intento de ataque en rollo.%%%%
+Foe, y el escarabajo siempre se desenrollará después de un intento de ataque en rollo.
+
+%%%%
 Sandblast spell
 
 Culpa un blanco con duros de roca de alta velocidad. Reunir la roca del ambiente
 grit es lento, haciendo que este hechizo tome una y media veces más tiempo para lanzar como
-La mayoría. Su daño se reduce fuertemente por armadura.%%%%
+La mayoría. Su daño se reduce fuertemente por armadura.
+
+%%%%
 Sap Magic spell
 
 Adapta la capacidad de una criatura dirigida para lanzar hechizos. Casting un hechizo mientras
 afligido con esta condición hace que el objetivo pierda acceso a su magia,
-brevemente impidiéndoles lanzar otros hechizos.%%%%
+brevemente impidiéndoles lanzar otros hechizos.
+
+%%%%
 Scorch spell
 
 Corta un enemigo al azar. Los heridos por esto tienen su resistencia al fuego
-se quemó por poco tiempo.%%%%
+se quemó por poco tiempo.
+
+%%%%
 Sculpt Simulacrum spell
 
 Formas icy simulacra de una criatura viviente adyacente, demoníaca o santa. Éstos
@@ -1465,82 +2040,120 @@ ganando la capacidad de moverse y atacar a los enemigos del caster.
 Los buenos dioses fruncieron el ceño en este hechizo, ya que funciona sangre e ichor en antinatural
 facsimiles.
 
-Puede mantener hasta 5 simulacros simultáneamente.%%%%
+Puede mantener hasta 5 simulacros simultáneamente.
+
+%%%%
 Seal Doors spell
 
 Impartir sellos en puertas y escaleras cercanas, evitando a los no aliados con
-la casta de atravesarlos.%%%%
+la casta de atravesarlos.
+
+%%%%
 Searing Ray spell
 
 Dispara un rayo perforante continuo de energía arcana de las manos del caster. Así que...
 mientras el caster mantenga el foco en el hechizo y lo suministra con magia
 poder (esperando en su lugar y no tomando ninguna otra acción), el rayo
-seguir el objetivo de la castra si debe moverse.%%%%
+seguir el objetivo de la castra si debe moverse.
+
+%%%%
 Searing Breath spell
 
 Respira una explosión de fuego a una criatura dirigida, dejando una nube de llamas a
-el punto final.%%%%
+el punto final.
+
+%%%%
 Seismic Stomp spell
 
 Estúpidos fuertemente sobre el suelo, enviando ondas violentas que fracturan el
 tierra bajo múltiples enemigos cercanos. Las criaturas voladoras se reducen enormemente
 daño de este ataque, pero los que están en el suelo a veces pueden perder su
 en conjunto, retrasando su próxima acción mientras luchan por recuperar
-balance en el terreno desigual.%%%%
+balance en el terreno desigual.
+
+%%%%
 Sentinel's Mark spell
 
 Ofrece un faro fuerte sobre una criatura dirigida. anuncia la presencia
-y ubicación de la criatura marcada a todos en el mismo nivel.%%%%
+y ubicación de la criatura marcada a todos en el mismo nivel.
+
+%%%%
 Seracfall spell
 
 Curiosamente colapsa un simulacro cercano en una gran masa de hielo, que
 explota en el impacto. El hielo afecta incluso a las criaturas resistentes al frío, debido
-al fuerte impacto y los bordes de corte.%%%%
+al fuerte impacto y los bordes de corte.
+
+%%%%
 Shadowball spell
 
-Arrolla una bola de sombras agitadoras, que explota en una pequeña zona.%%%%
+Arrolla una bola de sombras agitadoras, que explota en una pequeña zona.
+
+%%%%
 Shadow Beam spell
 
-Dispara un rayo penetrante de sombra.%%%%
+Dispara un rayo penetrante de sombra.
+
+%%%%
 Shadow Bind spell
 
 Pins varios enemigos cercanos al azar a sus propias sombras, previniéndolos brevemente
-de moverse. A mayor fuerza de hechizo, afecta a más enemigos a la vez.%%%%
+de moverse. A mayor fuerza de hechizo, afecta a más enemigos a la vez.
+
+%%%%
 Shadow Creatures spell
 
 Crea réplicas de criaturas nativas de la ubicación actual del caster, tejido
-de sombras e hilos de materia Abyssal.%%%%
+de sombras e hilos de materia Abyssal.
+
+%%%%
 Shadow Draining spell
 
 Forzadamente roba un sliver de las sombras de todos los enemigos cercanos, causando
-daño que daña la armadura de la víctima por completo.%%%%
+daño que daña la armadura de la víctima por completo.
+
+%%%%
 Shadow Prism spell
 
 Conjura un prisma sombrío que desencadenará una violenta explosión de sombras después de un
-duración corta. Si se destruye prematuramente, esta explosión será mucho más débil.%%%%
+duración corta. Si se destruye prematuramente, esta explosión será mucho más débil.
+
+%%%%
 Shadow Puppet spell
 
 Invoca a un sirviente de sombra viva para hostigar y limitar a los enemigos del castor.
-La fuerza de sus ataques se incrementa directamente por la fuerza de hechizos.%%%%
+La fuerza de sus ataques se incrementa directamente por la fuerza de hechizos.
+
+%%%%
 Shadow Shard spell
 
-Dispara un duro de sombra endurecida en un solo enemigo.%%%%
+Dispara un duro de sombra endurecida en un solo enemigo.
+
+%%%%
 Shadow Shot spell
 
-Dispara una pequeña bala de sombra endurecida en un solo enemigo.%%%%
+Dispara una pequeña bala de sombra endurecida en un solo enemigo.
+
+%%%%
 Shadow Tempest spell
 
 Llama a un rayo sombra sobre hasta la mitad de todos los enemigos visibles, tratando
-daño irresistible a ellos.%%%%
+daño irresistible a ellos.
+
+%%%%
 Shadow Torpor spell
 
 Sapas la energía de una línea de enemigos, desacelerando por un corto tiempo.
 El poder de expresión aumenta la duración de este efecto, pero las criaturas más fuertes pueden
-sacude su letargo más rápido.%%%%
+sacude su letargo más rápido.
+
+%%%%
 Shadow Turret spell
 
 Forma una torreta estacionaria de sombra solidificada que dispara repetidamente sobre la
-Los enemigos de Caster.%%%%
+Los enemigos de Caster.
+
+%%%%
 Shatter spell
 
 Causa una enorme ráfaga de fuerza concusiva alrededor de la fundición, tratando severa
@@ -1548,19 +2161,27 @@ daño a todas las criaturas cercanas. Es especialmente eficaz contra los hechos
 de hielo, hueso o cualquier sustancia similar a la pared (como roca, metal o cristal), como
 así como los convertidos en piedra por petrificación. Es menos eficaz contra
 criaturas voladoras, gelatinas e insubstanciales. También puede destruir cerca
-paredes.%%%%
+paredes.
+
+%%%%
 Sheza's Dance spell
 
 Invoca armas de lejos y ancho - una daga recién forjada, una espada de larga duración
 en un sepulcro moldeado, un hacha todavía vaporizado con la sangre de su víctima -
-animarlos y enviarlos a atacar.%%%%
+animarlos y enviarlos a atacar.
+
+%%%%
 Shock spell
 
-Tira un bouncing bolt de electricidad. Oculta la mitad de la armadura de los defensores.%%%%
+Tira un bouncing bolt de electricidad. Oculta la mitad de la armadura de los defensores.
+
+%%%%
 Shred spell
 
 Giros en su lugar, tratando daños graves a los enemigos adyacentes con su serrado
-cuerpo.%%%%
+cuerpo.
+
+%%%%
 Sigil of Binding spell
 
 Crea dos sigiles cerca. Cualquiera que pase sobre ellos será obligado, capaz de
@@ -1569,13 +2190,17 @@ su velocidad de movimiento va a rebotar, dándoles rapidez temporal. Esposo
 de cualquier fuente otorga inmunidad a la unión.
 
 Sólo un conjunto de sigiles se puede mantener a la vez, y ellos expirarán
-prematuramente si te dejan ver.%%%%
+prematuramente si te dejan ver.
+
+%%%%
 Sign of Ruin spell
 
 Inflicta el signo de la ruina sobre un grupo de enemigos, condenando sus cuerpos a
 decaimiento inexorable y colapso. Cuando cualquier cosa que tenga este signo recibe
 daños causados por un melee ataque, sufrirán un drenaje pesado y además pueden
-se vuelven lentos, débiles o ciegos.%%%%
+se vuelven lentos, débiles o ciegos.
+
+%%%%
 Silence spell
 
 Elimina todo el sonido cerca del caster. Esto hace pergaminos de lectura, casting
@@ -1586,43 +2211,61 @@ Ciertos monstruos tienen habilidades mágicas o especiales innatas que todavía 
 usable mientras silenciado.
 
 El efecto comienza con un radio dependiendo del poder, que luego se reducirá,
-eventualmente cubriendo sólo la castra, antes de que se fije.%%%%
+eventualmente cubriendo sólo la castra, antes de que se fije.
+
+%%%%
 Siphon Essence spell
 
 Tormentos cercanos enemigos vivos, cortando su salud en la mitad. Este daño nunca es
-directamente letal. El dolor infligido cura al usuario.%%%%
+directamente letal. El dolor infligido cura al usuario.
+
+%%%%
 Siren Song spell
 
 Canta una canción inquietante que fusiona a los oyentes cercanos. Los aventureros que no logran
 resistir se volverá incapaz de alejarse del cantante, mientras que otras criaturas
 se convertirá en una locura.
 
-Dejar la línea de visión de la castra terminará el efecto de control del movimiento.%%%%
+Dejar la línea de visión de la castra terminará el efecto de control del movimiento.
+
+%%%%
 Sleep spell
 
 Pone a una criatura dirigida a dormir. Tomar daño normalmente despertará
-objetivo, y sonidos ruidosos pueden hacerlo también.%%%%
+objetivo, y sonidos ruidosos pueden hacerlo también.
+
+%%%%
 Sleetstrike spell
 
 Causa que el aire alrededor de una criatura se torce en un vórtice llorón
 frigid meteorological fury, encasing the victim in ice and slowing their
 movimiento brevemente. Hace más daño a objetivos rodeados de espacio vacío y
-La mitad de su daño evita la resistencia al frío.%%%%
+La mitad de su daño evita la resistencia al frío.
+
+%%%%
 Slow spell
 
-Reduce las acciones de una criatura.%%%%
+Reduce las acciones de una criatura.
+
+%%%%
 Slug Dart spell
 
-Dispara un dardo agudo de chitín endurecido.%%%%
+Dispara un dardo agudo de chitín endurecido.
+
+%%%%
 Smiting spell
 
-Golpea a cualquier enemigo objetivo dentro de la vista, sin necesidad de línea directa de fuego.%%%%
+Golpea a cualquier enemigo objetivo dentro de la vista, sin necesidad de línea directa de fuego.
+
+%%%%
 Sojourning Bolt spell
 
 Respira una explosión de bijeción penetrante e inestable. Si golpea, puede teletransportar
 víctimas después de un breve retraso. Para morseles particularmente interesantes de los aventureros
 como tú mismo, este telepuerto translocará a esas víctimas hacia
-Los aliados de la casta y llevar la casta para el viaje, si es posible.%%%%
+Los aliados de la casta y llevar la casta para el viaje, si es posible.
+
+%%%%
 Soul Splinter spell
 
 Intenta forzar un pequeño fragmento de un ser vivo, santo o demoníaco para
@@ -1633,15 +2276,21 @@ una vez más. La víctima se debilitará hasta que el wisp vuelva a su lugar.
 pertenece.
 
 Las esposas creadas de almas más poderosas tienen ataques más dañinos, pero son
-siempre frágil.%%%%
+siempre frágil.
+
+%%%%
 Spawn Tentacles spell
 
-Extende grandes tentáculos para atacar enemigos cercanos.%%%%
+Extende grandes tentáculos para atacar enemigos cercanos.
+
+%%%%
 Spectral Cloud spell
 
 Crea una nube de niebla espectral, tratando daños menores a todas las criaturas
 que los no muertos. Las criaturas no muertas espectral peligrosas pero de corta duración
-coalesce de la niebla con el tiempo.%%%%
+coalesce de la niebla con el tiempo.
+
+%%%%
 Spellspark Servitor spell
 
 Construye un sirviente metálico con una chispa del propio conocimiento arcano de la castra
@@ -1651,22 +2300,32 @@ de las magias no pueden ser impregnadas de esta manera. La fuerza del servidor
 aumenta con el poder del hechizo.
 
 (Mientras conoces este hechizo, puedes elegir cuál de tus hechizos elegibles será
-elenco con la capacidad de Servidor Imbue.)%%%%
+elenco con la capacidad de Servidor Imbue.)
+
+%%%%
 Sphinx Sisters spell
 
 Invoca un par de esfinges enigmas - un guardián y un marauder - a
 debilitar a los enemigos de la castra con hexes y golpearlos con vientos violentos.
 
-El poder del hechizo aumenta la durabilidad de las esfinjas y el poder de sus hechizos.%%%%
+El poder del hechizo aumenta la durabilidad de las esfinjas y el poder de sus hechizos.
+
+%%%%
 Spit Acid spell
 
-Escupe ácido a una criatura dirigida.%%%%
+Escupe ácido a una criatura dirigida.
+
+%%%%
 Spit Lava spell
 
-Escupe lava a una criatura dirigida. La mitad de su daño evita la resistencia al fuego.%%%%
+Escupe lava a una criatura dirigida. La mitad de su daño evita la resistencia al fuego.
+
+%%%%
 Spit Poison spell
 
-<Spit Poison ability>%%%%
+<Spit Poison ability>
+
+%%%%
 Splinterfrost Shell spell
 
 Construye una frangible cáscara de hielo reforzado en un medio círculo alrededor de la
@@ -1675,167 +2334,260 @@ caster, empujando criaturas fuera del camino para hacer espacio para ello, si es
 Esta barricada es duradera, y cada vez que un segmento de ella es destruido,
 fractura en una salva de proyectiles helados lanzados en lo que lo destruyó.
 
-Si la casta se aleja demasiado de su barrera, se derretirá rápidamente.%%%%
+Si la casta se aleja demasiado de su barrera, se derretirá rápidamente.
+
+%%%%
 Splinterspray spell
 
-Dispara una explosión de espinillas de madera. Su daño se reduce fuertemente por armadura.%%%%
+Dispara una explosión de espinillas de madera. Su daño se reduce fuertemente por armadura.
+
+%%%%
 Sporulate spell
 
 Libera una cuchara flotante rápida y llena de gas. Después de buscar a su enemigo, el
 la cuchara explotará, dañando cualquier cosa atrapada en la explosión y más confuso
-criaturas vivientes.%%%%
+criaturas vivientes.
+
+%%%%
+Stampede spell
+
+Carga rápidamente en una línea recta hacia un enemigo. El usuario Will se mueve a doble
+velocidad en esa dirección cada vuelta después, atacando a cualquier enemigo en su camino
+con mayor daño y precisión y empujarlos hacia atrás, hasta que o
+convertirse en incapaz de moverse o tener sobresale su objetivo.
+
+Sólo se puede utilizar mientras su objetivo está en una dirección de brújula desde el
+usuario.
+
+%%%%
 Starburst spell
 
-Libera pernos penetrantes de fuego de la lanza en cada dirección.%%%%
+Libera pernos penetrantes de fuego de la lanza en cada dirección.
+
+%%%%
 Static Discharge spell
 
 Libera cargos eléctricos contra los que están al lado de la fundición. Estos pueden llegar a
 otras criaturas adyacentes, o de vuelta a la castra, antes de aterrizar
 Fuera. Se trata de daños reducidos cuando se acerca a la fundición, y los daños tratados
-aprueba la mitad de la armadura de los defensores.%%%%
+aprueba la mitad de la armadura de los defensores.
+
+%%%%
 Steam Ball spell
 
-Tira una bola de vapor caliente hacia una criatura dirigida.%%%%
+Tira una bola de vapor caliente hacia una criatura dirigida.
+
+%%%%
 Steam Breath spell
 
-<Steam breath ability>%%%%
+<Steam breath ability>
+
+%%%%
 Sticks to Snakes spell
 
 Saca palos y los transforma en serpientes. Casters más fuertes siempre
-crear serpientes más fuertes.%%%%
+crear serpientes más fuertes.
+
+%%%%
 Sticky Flame spell
 
 Libera un spray corto de goo incendiario que se aferra a un adyacente
 criatura y trata de armadura ignorando daños de fuego en varias vueltas. Si la víctima
 se permite moverse, apagará el fuego prematuramente.
 
-Si el objetivo es insustancial, el fuego líquido no se pegará.%%%%
+Si el objetivo es insustancial, el fuego líquido no se pegará.
+
+%%%%
 Still Winds spell
 
 Lleva el aire a la quietud antinatural a través de un área enorme, evitando cualquier cosa
 un vórtice polar de romper la calma. El efecto toma concentración
 para mantener, y sólo dura un corto tiempo; si la castra es asesinada, las nubes serán
-empezar a formar de nuevo como normal.%%%%
+empezar a formar de nuevo como normal.
+
+%%%%
 Sting spell
 
 Conjura un fragmento de toxinas cristalizadas. El impacto del stinger siempre
 envenenar un blanco susceptible. Incluso los objetivos resistentes tienen la oportunidad de ser envenenados
-y los monstruos inmunitarios todavía serán dañados por el impacto físico del picador.%%%%
+y los monstruos inmunitarios todavía serán dañados por el impacto físico del picador.
+
+%%%%
 Stoke Flames spell
 
-Añade malicia a los fuegos infernales, uniéndolo con llama a un inferno asqueroso.%%%%
+Añade malicia a los fuegos infernales, uniéndolo con llama a un inferno asqueroso.
+
+%%%%
 Stone Arrow spell
 
-Dispara una columna afilada de roca.%%%%
+Dispara una columna afilada de roca.
+
+%%%%
 Strip Willpower spell
 
 Granmente reduce la fuerza de voluntad del objetivo, haciéndolos más vulnerables a un
-variedad de efectos mágicos.%%%%
+variedad de efectos mágicos.
+
+%%%%
 Stunning Burst spell
 
 Dispara una débil explosión eléctrica que, en el impacto, causa una parálisis muy breve.
 La fuerza de voluntad no sirve contra este efecto, pero la resistencia a la electricidad puede
-a veces prevenirlo.%%%%
+a veces prevenirlo.
+
+%%%%
 Sublimation of Blood spell
 
 Convierte parte de la sangre de la castra en energía mágica. El proceso es doloroso
 pero nunca directamente letal. La eficiencia de la conversión aumenta con la
-El poder del hechizo.%%%%
+El poder del hechizo.
+
+%%%%
 Summon Air Elementals spell
 
-Invoca uno o más elementales de aire.%%%%
+Invoca uno o más elementales de aire.
+
+%%%%
 Summon Cactus Giant spell
 
 Invoca a un guerrero de una tribu particularmente caprichosa. Foes que golpean a estos
 ¡Los gigantes de la melee están en una dolorosa sorpresa! Cuando se lanza a un poder superior,
-guerreros mayores y más robustos responderán a la llamada.%%%%
+guerreros mayores y más robustos responderán a la llamada.
+
+%%%%
 Summon Demon spell
 
 Abre una puerta al reino de Pandemonium y saca a uno de sus habitantes
-para servir a la castra por un tiempo.%%%%
+para servir a la castra por un tiempo.
+
+%%%%
 Summon Dragon spell
 
 Invoca y une a un dragón poderoso para realizar la oferta de la castra. Altísimo
 poder que puede convocar variedades particularmente mortales de dragón, o múltiples menos
-dragones a la vez.%%%%
+dragones a la vez.
+
+%%%%
 Summon Drakes spell
 
-Invoca múltiples drakes y lindwurms.%%%%
+Invoca múltiples drakes y lindwurms.
+
+%%%%
 Summon Earth Elementals spell
 
-Invoca uno o más elementales de la tierra.%%%%
+Invoca uno o más elementales de la tierra.
+
+%%%%
 Summon Emperor Scorpions spell
 
-Invoca múltiples escorpiones nobles y monstruosos emperador.%%%%
+Invoca múltiples escorpiones nobles y monstruosos emperador.
+
+%%%%
 Summon Executioners spell
 
-Invoca a varios Ejecutores para desgarrar enemigos de la castra.%%%%
+Invoca a varios Ejecutores para desgarrar enemigos de la castra.
+
+%%%%
 Summon Eyeballs spell
 
 Invoca múltiples globos oculares flotantes que pueden ser capaces de vitrificar, polimorfo,
-confundir, mutar o desintegrar.%%%%
+confundir, mutar o desintegrar.
+
+%%%%
 Summon Fire Elementals spell
 
-Invoca a uno o más elementales de fuego.%%%%
+Invoca a uno o más elementales de fuego.
+
+%%%%
 Summon Forest spell
 
 Interseca forzadamente un avión boscoso con este mundo. Requiere espacio abierto
 para tener éxito. Mientras el hechizo sostiene, un espíritu del bosque será llamado hacia adelante,
 y los árboles del bosque serán despertados para hacer daño a enemigos cercanos.
 Potencia de la palanca aumenta la duración, tamaño y grosor de la intersectada
-plano; así como la fuerza del espíritu.%%%%
+plano; así como la fuerza del espíritu.
+
+%%%%
 Summon Greater Demon spell
 
-Llama a uno de los demonios más grandes de Pandemonium para servir a la castra.%%%%
+Llama a uno de los demonios más grandes de Pandemonium para servir a la castra.
+
+%%%%
 Summon Sin Beast spell
 
-Invoca a una bestia mortal del pecado.%%%%
+Invoca a una bestia mortal del pecado.
+
+%%%%
 Summon Hell Sentinel spell
 
-Invoca a un Centinela del Infierno, un edificio nocturno de odio animado.%%%%
+Invoca a un Centinela del Infierno, un edificio nocturno de odio animado.
+
+%%%%
 Summon Holies spell
 
-Llama a los guerreros divinos para ayudar a la castra.%%%%
+Llama a los guerreros divinos para ayudar a la castra.
+
+%%%%
 Summon Horrible Things spell
 
 Abre una puerta al abismo y llama a través de dos o más abominaciones horribles
 de ese horrible lugar. Mientras poderoso, cepillando la mente contra el tejido
 del abismo de esta manera invita a Doom sobre la fundición y eventualmente puede costar
-ellos grandemente.%%%%
+ellos grandemente.
+
+%%%%
 Summon Hydra spell
 
 Invoca una hidra de muchos cabezas para luchar junto a la castra por un corto tiempo.
-El poder de la explosión determina el número de cabezas.%%%%
+El poder de la explosión determina el número de cabezas.
+
+%%%%
 Summon Ice Beast spell
 
 Llama a una bestia de hielo para servir a la casta. La fuerza de la bestia
-depende del poder del hechizo.%%%%
+depende del poder del hechizo.
+
+%%%%
 Summon Illusion spell
 
 Invoca una imagen espejo temporal de un enemigo. Tal copia tiene el mismo físico
-prowess como el original, y puede lanzar los mismos hechizos.%%%%
+prowess como el original, y puede lanzar los mismos hechizos.
+
+%%%%
 Summon Mana Viper spell
 
 Invoca una serpiente a escala violeta cuya mordedura puede drenar rápidamente la magia
 reservas de casi cualquier enemigo. A mayor potencia, las propiedades antimágicas de la
-La mordedura de Viper crece aún más fuerte.%%%%
+La mordedura de Viper crece aún más fuerte.
+
+%%%%
 Summon Minor Demon spell
 
-Invocaciones entre uno y tres demonios menores (rank 5).%%%%
+Invocaciones entre uno y tres demonios menores (rank 5).
+
+%%%%
 Summon Mortal Champion spell
 
 Llama a uno de los campeones mortales más poderosos y más rápidos del Shining
 Uno. En este Dungeon, los defensores y los cuchillas de elfo profundo responderán
-la llamada.%%%%
+la llamada.
+
+%%%%
 Summon Mushrooms spell
 
-Invoca hongos errantes y fúnebres junto a una criatura dirigida.%%%%
+Invoca hongos errantes y fúnebres junto a una criatura dirigida.
+
+%%%%
 Summon Scarabs spell
 
-Llama a un enjambre de bufandas de muerte.%%%%
+Llama a un enjambre de bufandas de muerte.
+
+%%%%
 Summon Scorpions spell
 
-Llama a un enjambre de escorpiones venenosos.%%%%
+Llama a un enjambre de escorpiones venenosos.
+
+%%%%
 Summon Seismosaurus Egg spell
 
 Invoca el huevo de un lagarto bruto, justo al borde de la eclosión. Mientras tanto
@@ -1848,82 +2600,125 @@ ondas sísmicas. Cada onda de choque causa daños considerables al no vuelo
 enemigos, y a veces incluso pueden causar que pierdan su pie por completo.
 
 Potencia de la palanca aumenta la durabilidad del huevo y la fuerza del sismosaur
-dentro, pero no el tiempo que se necesita para la escotilla.%%%%
+dentro, pero no el tiempo que se necesita para la escotilla.
+
+%%%%
 Summon Small Mammal spell
 
 Invoca una rata, un murciélago o un quókka a la ayuda del caster. Potencia de la explosión aumenta
-la oportunidad de convocar a quokka.%%%%
+la oportunidad de convocar a quokka.
+
+%%%%
 Summon Spiders spell
 
-Invoca una o más arañas.%%%%
+Invoca una o más arañas.
+
+%%%%
 Summon Tzitzimitl spell
 
-Invoca un tzitzimitl, un demonio de enfermedad y desesperación.%%%%
-Summon Ufetubus spell
+Invoca un tzitzimitl, un demonio de enfermedad y desesperación.
 
-Invoca múltiples ufetubi; demonios pequeños y molestos.%%%%
+%%%%
+Ufetubi Swarm spell
+
+Invoca a un grupo de Berserk ufetubi; demonios menores irritantes que Will rápidamente enjambre
+y rodear a los enemigos de la lanzador.
+
+%%%%
 Summon Undead spell
 
 Invoca varios monstruos sin muerte, creando varios fantasmas, vampiros, espectros
-y otros menos muertos.%%%%
+y otros menos muertos.
+
+%%%%
 Summon Vermin spell
 
-Invoca múltiples ratas, arañas, gusanos y ranas.%%%%
+Invoca múltiples ratas, arañas, gusanos y ranas.
+
+%%%%
 Summon Water Elementals spell
 
-Invoca uno o más elementales de agua.%%%%
+Invoca uno o más elementales de agua.
+
+%%%%
 Swiftness spell
 
 Llama a los vientos para aumentar enormemente la velocidad de movimiento de la castra. Después de la
-El efecto termina, los movimientos de la castra serán lentos por un tiempo.%%%%
+El efecto termina, los movimientos de la castra serán lentos por un tiempo.
+
+%%%%
 Symbol of Torment spell
 
 Llama a los poderes de la oscuridad para causar daño agonizante a cualquier vida o
 cosa santa en los alrededores de la casta, cortando su salud en la mitad (partialmente
-resistido por la resistencia a la energía negativa). Este daño nunca es directamente letal.%%%%
+resistido por la resistencia a la energía negativa). Este daño nunca es directamente letal.
+
+%%%%
 Teleport Other spell
 
 Intenta teletransportar a una criatura dirigida fuera de la vista del caster, después de una
-poco tiempo.%%%%
+poco tiempo.
+
+%%%%
 Throw Ally spell
 
 Tira un aliado cercano al enemigo del monstruo, haciendo mínimo daño y aterrizando el
-monstruo tirado cerca.%%%%
+monstruo tirado cerca.
+
+%%%%
 Throw Barbs spell
 
 Dispara un volley de barbos en el blanco, skewering y hacer movimiento
-doloroso.%%%%
+doloroso.
+
+%%%%
 Throw Bolas spell
 
 Hurls a colosal bolas en el blanco, envolviendo incluso el mayor de los enemigos
-y los obliga en su lugar.%%%%
+y los obliga en su lugar.
+
+%%%%
 Throw Flame spell
 
-Tira un pequeño manguito de llama.%%%%
+Tira un pequeño manguito de llama.
+
+%%%%
 Throw Frost spell
 
-Tira un pequeño pedazo de helada.%%%%
+Tira un pequeño pedazo de helada.
+
+%%%%
 Throw Icicle spell
 
 Dispara un trozo de hielo. Debido a su fuerte impacto y bordes de corte, la mitad de su
-daño evita la resistencia fría.%%%%
+daño evita la resistencia fría.
+
+%%%%
 Throw Klown Pie spell
 
 Tira un pastel dañino pero extrañamente delicioso que puede infligir a su víctima con un
 número de efectos temporales irresistibles y debilitantes. These include
 induciendo vértigo, silencio, vulnerabilidad al fuego, fragilidad, ceguera o una
-aversión a las pociones para beber.%%%%
+aversión a las pociones para beber.
+
+%%%%
 Thunderbolt spell
 
-Crea un arco de electricidad.%%%%
+Crea un arco de electricidad.
+
+%%%%
 Trog's Hand spell
 
-<Trog's Hand ability>%%%%
+<Trog's Hand ability>
+
+%%%%
 Kiss of Death spell
 
 Conjura un fragmento de la esencia de la castra y lo retorce en un fragmento
 de la muerte, drenando dolorosamente a la víctima. La casta también encontrará su salud
-reducido, hasta que obtengan suficiente experiencia para recuperarse.%%%%
+reducido, hasta que obtengan suficiente experiencia para recuperarse.
+
+%%%%
 Tukima's Dance spell
 
 Anima el arma de un enemigo apuntado, arrancarla de sus manos y causar
@@ -1931,37 +2726,53 @@ para atacarlos sin descanso. Una vez que el objetivo muera, el arma caerá a
 el terreno poco después.
 
 Ciertos potentes artefactos no pueden ser animados, y cualquier propiedad que
-requiere habilidad en evocaciones no será activa.%%%%
+requiere habilidad en evocaciones no será activa.
+
+%%%%
 Upheaval spell
 
 Llama a las fuerzas de la naturaleza a volar una pequeña zona con magma, hielo, viento,
-o escombros.%%%%
+o escombros.
+
+%%%%
 Vampiric Draining spell
 
-Roba la vida de una criatura viviente adyacente y la otorga a la casta.%%%%
+Roba la vida de una criatura viviente adyacente y la otorga a la casta.
+
+%%%%
 Vanquished Vanguard spell
 
 Llama a las almas persistentes de orcos que murieron en edades anteriores, y, para un
 breve momento, les da propósito en la batalla una vez más.
 
 Más anclados a sus vidas pasadas que la mayoría de los espectrales, empuñan polearmas con
-y rodeará su cantera con eficacia fría.%%%%
+y rodeará su cantera con eficacia fría.
+
+%%%%
 Venom Bolt spell
 
-Dispara un perno penetrante de veneno.%%%%
+Dispara un perno penetrante de veneno.
+
+%%%%
 Vex spell
 
 Intentos de nublar la mente del objetivo con frustración sin pensar, forzándolos
 para pasar varios giros no haciendo más que atacar espacios cercanos (ya sean aquellos
-los espacios están vacíos o incluso contienen sus aliados).%%%%
+los espacios están vacíos o incluso contienen sus aliados).
+
+%%%%
 Virulence spell
 
-Hace que una criatura dirigida sea más vulnerable al veneno.%%%%
+Hace que una criatura dirigida sea más vulnerable al veneno.
+
+%%%%
 Momentum Strike spell
 
 Culpa a un objetivo con energía prestada del movimiento futuro de la castra. Para
 poco tiempo después, la castra quedará inmóvil - incapaz de caminar, volar
-alrededor, deslizamiento, etc. Sólo criaturas fútiles pueden lanzar este hechizo.%%%%
+alrededor, deslizamiento, etc. Sólo criaturas fútiles pueden lanzar este hechizo.
+
+%%%%
 Vhi's Electric Charge spell
 
 Envia el dolor de casta a un enemigo cercano elegido, lanzando una alta precisión
@@ -1971,63 +2782,84 @@ ataque. El yeso está envuelto en un sobre de espacio retorcido, permitiéndoles
 pasar a través de criaturas, trampas y terrenos dañinos, y desplazarse
 criaturas en su destino. El tiempo tomado por el hechizo es el mayor
 el tiempo normalmente necesario para lanzar un hechizo o que necesitaba para lanzar un melee
-ataque.%%%%
+ataque.
+
+%%%%
 Vhi's Electrolunge spell
 
 Envia el dolor de casta a un enemigo cercano elegido, lanzando una alta precisión
 melee attack on arrival, with additional electric damage based on spellpower.
 El yeso está envuelto en un sobre de espacio retorcido, permitiéndoles a salvo
 pasar a través de criaturas, trampas y terreno dañino, y desplazar criaturas en
-su destino.%%%%
+su destino.
+
+%%%%
 Vitrify spell
 
 Renders la estructura corporal de una criatura tan frágil y frágil como el vidrio, aumentando
-los daños que consumen de todas las fuentes.%%%%
+los daños que consumen de todas las fuentes.
+
+%%%%
 Vitrifying Gaze spell
 
 Irresistiblemente hace la estructura corporal de una criatura tan frágil y frágil como
 vidrio, aumentando el daño que sacan de todas las fuentes. Requiere línea de
-vista pero no línea de fuego.%%%%
+vista pero no línea de fuego.
+
+%%%%
 Volley of Thorns spell
 
-Lanza un pequeño granizo de espinas afiladas.%%%%
-Wall of Brambles spell
+Lanza un pequeño granizo de espinas afiladas.
 
-Causas se jactan para crecer rápidamente cerca. No tienen casi ninguna estructura
-fuerza, pero las espinas perversas que llevan hacen difícil su remoción. Tal
-los brambles son lo suficientemente escasos que casi cualquier misil puede pasar por sin trabas.%%%%
+%%%%
 Warning Cry spell
 
-Genera un ruido fuerte, alertando enemigos cercanos.%%%%
+Genera un ruido fuerte, alertando enemigos cercanos.
+
+%%%%
 Warp Body spell
 
 Twists el cuerpo de una criatura con corrupción mutagénica, haciendo una pequeña cantidad de
 daño e infligir una mutación transitoria. Si el objetivo ya está sufriendo
-de múltiples mutaciones transitorias, infligirá Vitrify en su lugar.%%%%
+de múltiples mutaciones transitorias, infligirá Vitrify en su lugar.
+
+%%%%
 Warp Space spell
 
 Crea una breve pero violenta grieta en el espacio, dañando todo lo atrapado en su
-despertar y a veces parpadearlos a corta distancia.%%%%
+despertar y a veces parpadearlos a corta distancia.
+
+%%%%
 Waterstrike spell
 
 Causa que el agua alrededor o debajo del objetivo se mueva violentamente, causando daños.
-Puede afectar a los objetivos de pie o volando por encima del agua.%%%%
+Puede afectar a los objetivos de pie o volando por encima del agua.
+
+%%%%
 Weakening Gaze spell
 
 Debilita irresistiblemente los ataques de una criatura durante un período de tiempo,
-requiriendo la línea de visión pero no la línea de fuego.%%%%
+requiriendo la línea de visión pero no la línea de fuego.
+
+%%%%
 Wind Blast spell
 
 Causa una fuerte ráfaga de viento, empujando criaturas y nubes en un cono. Si
-Esto hace que una criatura se collide con algo, que tomará daño.%%%%
+Esto hace que una criatura se collide con algo, que tomará daño.
+
+%%%%
 Woodweal spell
 
 Se basa en la vitalidad de la hoja y la corteza para sanar una gran cantidad de daño.
-No se puede echar sin un árbol adyacente.%%%%
+No se puede echar sin un árbol adyacente.
+
+%%%%
 Word of Recall spell
 
 Recuerda a aliados inteligentes de otras partes en el mismo nivel a la casta,
-después de un breve retraso.%%%%
+después de un breve retraso.
+
+%%%%
 Yara's Violent Unravelling spell
 
 Si se echa sobre una criatura ya bendecida (o maldecida) con encantos mágicos,
@@ -2036,3 +2868,5 @@ radiación mutagénica destructiva. La víctima y cualquiera adyacente será
 volcado y muy deformado, debilitando y reduciendo su armadura.
 Las criaturas invocadas son particularmente vulnerables, ya que los encantos vinculantes
 a este avión se desentrañará y hará que sean despedidos inmediatamente.
+
+%%%%

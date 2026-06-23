@@ -4,56 +4,15 @@ acid (acid) weapon ego
 Esparce a las víctimas con ácido (2d4 de daño, Corrosión).
 
 %%%%
-air (Air) armour ego
-
-Mejora tu magia del aire.
-
-%%%%
 antimagic (antimagic) weapon ego
 
 Reduce tu energía mágica, y interrumpe los hechizos y habilidades mágicas de
 los que golpea. Las habilidades naturales y las invocaciones divinas no se ven afectadas.
 
 %%%%
-archery (Archery) armour ego
-
-Tiene una tercera parte del encumbramiento normal con el propósito de un combate variado.
-
-%%%%
-atropa-tipped (atropa) missile ego
-
-Se inclina con una sustancia que causa ceguera y breve confusión.
-
-La posibilidad de aplicar con éxito su efecto aumenta con su Tiro y
-Destreza de integridad.
-
-%%%%
-attunement (Attunement) armour ego
-
-Cuando se usa junto a un personal mágico, duplica la eficacia de eso
-potenciador primario del personal y causa ataques de melee hechos con él para restaurar un
-pequeña cantidad de MP.
-
-%%%%
-chaos (chaos) missile ego
-
-Cuando se lanza, tiene un efecto aleatorio.
-
-%%%%
 chaos (chaos) weapon ego
 
 Cada golpe de ella tiene un efecto diferente al azar.
-
-%%%%
-cold resistance (rC+) armour ego
-
-Te protege del frío.
-
-%%%%
-command (Command) armour ego
-
-Mejora el poder y el éxito de tus hechizos de Invocación en proporción a tu
-Armour habilidad.
 
 %%%%
 concussion (concuss) weapon ego
@@ -63,62 +22,17 @@ los empuja a una característica sólida, ellos tomar un tercio adicional
 de cualquier daño que perfora su armadura.
 
 %%%%
-corrosion resistance (rCorr) armour ego
+distortion (distort) weapon ego
 
-Te protege de los efectos del ácido y la corrosión.
-
-%%%%
-curare-tipped (curare) missile ego
-
-Se inclina con una sustancia que causa asfixia, tratando daño directo como
-así como envenenamiento y ralentización de los que golpea.
-
-Es dos veces más probable que se destruya en el impacto que otros dardos.
-
-%%%%
-datura-tipped (datura) missile ego
-
-Está teñido con una sustancia que envía a los que golpea en un frenesí sin mente,
-atacar amigo y enemigo por igual.
-
-La posibilidad de aplicar con éxito su efecto aumenta con su Tiro y
-Destreza de integridad.
-
-%%%%
-death (Death) armour ego
-
-Potencia sus hechizos de necromancía y mejora su tasa de éxito, pero impone
-un costo de salud para otra magia.
+Arregla y distorsiona el espacio alrededor de él, y puede blink, desterrar o infligir extra
+daño a los que golpea. Desconociendo puede teletransportarte a enemigos o desterrarte
+tú a la Abyss.
 
 %%%%
 devious (devious) weapon ego
 
 Tiene una mayor oportunidad de realizar ataques de apuros contra objetivos vulnerables,
 y aumenta temporalmente el EV del wielder y mata cada vez que lo hacen.
-
-%%%%
-dexterity (Dex+3) armour ego
-
-Aumenta tu destreza (Dex +3).
-
-%%%%
-disjunction (disjunct) missile ego
-
-Causa cualquier objetivo que golpee para quedar temporalmente sin vigilancia en el espacio, parpadeando
-lejos de tú por varias vueltas y tomando daño menor cada vez que lo hace.
-
-%%%%
-dispersal (disperse) missile ego
-
-Causa cualquier objetivo que golpee a blink, con una tendencia a parpadear más
-lejos de ti.
-
-%%%%
-distortion (distort) weapon ego
-
-Arregla y distorsiona el espacio alrededor de él, y puede blink, desterrar o infligir extra
-daño a los que golpea. Desconociendo puede teletransportarte a enemigos o desterrarte
-tú a la Abyss.
 
 %%%%
 draining (drain) weapon ego
@@ -128,36 +42,14 @@ un cuarto de cualquier daño que perfora la armadura de los defensores, así com
 daño, y también los debilita ligeramente.
 
 %%%%
-earth (Earth) armour ego
-
-Mejora tu magia de la Tierra.
-
-%%%%
 electrocution (elec) weapon ego
 
 A veces electrocuta a las víctimas (1/4 de probabilidad, 8-20 de daño).
 
 %%%%
-energy (Energy) armour ego
-
-Puede devolver la magia gastada para lanzar hechizos, pero disminuye su tasa de éxito. It
-siempre devuelve la magia gastada en malversaciones. La oportunidad de reembolso del hechizo se aumenta
-por tu habilidad Evocations.
-
-%%%%
 entangling (entangle) weapon ego
 
 A veces limita a los que ataca con vides. (1/2 posibilidades, 2-4 daños).
-
-%%%%
-fire (Fire) armour ego
-
-Mejora tu magia del Fuego.
-
-%%%%
-fire resistance (rF+) armour ego
-
-Te protege del fuego.
 
 %%%%
 flaming (flame) weapon ego
@@ -172,9 +64,10 @@ Quema a las víctimas, tratando un cuarto adicional de cualquier daño que perfo
 Armadura de defensores. Las cuchillas grandes y ardientes también son armamentos básicos de orugas de hidra.
 
 %%%%
-flying (Fly) armour ego
+freezing (freeze) weapon ego
 
-Te otorga flight.
+Congela a las víctimas, tratando un cuarto adicional de cualquier daño que perfora
+Armadura de defensores. También puede Slow abajo criaturas de sangre fría.
 
 %%%%
 foul flame (foul flame) weapon ego
@@ -183,30 +76,6 @@ Se ha infundido con llama nefasta, causando un daño adicional de tres cuartos
 a los seres santos, un daño adicional de una cuarta parte a los muertos vivientes y demonios, y un
 medio daño adicional a todos los demás, mientras perfora la armadura. Santos seres
 y los buenos adoradores de Dios no pueden usar esto.
-
-%%%%
-freezing (freeze) weapon ego
-
-Congela a las víctimas, tratando un cuarto adicional de cualquier daño que perfora
-Armadura de defensores. También puede Slow abajo criaturas de sangre fría.
-
-%%%%
-glass (Glass) armour ego
-
-Puede vitrificar a los enemigos cuando los hieras, haciéndolos más vulnerables a
-más daños. Su habilidad Evocations aumenta la probabilidad y duración de la
-vitrificación.
-
-%%%%
-guile (Guile) armour ego
-
-Debilita tanto su fuerza de voluntad como la fuerza de voluntad de todos tú hex, este último
-de los cuales se aumenta por su habilidad Evocations.
-
-%%%%
-harm (Harm) armour ego
-
-Aumenta los daños tratados y tomados.
 
 %%%%
 heavy (heavy) weapon ego
@@ -225,6 +94,160 @@ holy wrath (holy) weapon ego
 Ha sido bendecido por el Shining One, tratando un adicional de tres cuartos de
 cualquier daño que perfora la armadura de demonios y muertos. Los demonios y los muertos no pueden usar
 esto.
+
+%%%%
+pain (pain) weapon ego
+
+Inflige daños adicionales a las criaturas vivientes proporcionales a su Necromancia
+habilidad
+
+%%%%
+penetration (penet) weapon ego
+
+Cualquier munición disparada por ella continúa volando después de alcanzar objetivos, potencialmente
+golpeando todo en su camino hasta que deja de ver.
+
+%%%%
+protection (protect) weapon ego
+
+Le otorga protección temporal después de huelgas (+7 AC).
+
+%%%%
+reaping (reap) weapon ego
+
+Cualquier enemigo viviente, santo o demoníaco dañado por él puede ser reanimado temporalmente
+sobre la muerte como un espectral amistoso, con una oportunidad creciente como más daño es
+tratado.
+
+%%%%
+rebuke (rebuke) weapon ego
+
+Escuda al portador si su última acción fue un ataque de melee (+10 SH) y
+reddirects blocked melee attacks to other nearby enemigos.
+
+%%%%
+spectralising (spect) weapon ego
+
+Cuando atacas con él, el espíritu de este arma salta y lanza un segundo,
+huelga un poco más débil. El espíritu comparte parte de cualquier daño que lleve contigo.
+
+%%%%
+speed (speed) weapon ego
+
+Los ataques con él son significativamente más rápidos.
+
+%%%%
+sundering (sunder) weapon ego
+
+Después de realizar múltiples ataques consecutivos, su próximo ataque acuerdo
+aumentó mucho el daño y también se clavó en objetivos un espacio extra lejos.
+
+%%%%
+valour (valour) weapon ego
+
+Dispara un rayo de energía cuando golpea a un enemigo mientras su pelador tiene
+no menos del 80% de su máximo puntos de vida restante. Desenmascararlo 
+brevemente Weaken su wielder.
+
+%%%%
+vampirism (vamp) weapon ego
+
+Ocasionalmente te cura por una porción del daño que se reparte al herir a
+criatura viviente.
+
+%%%%
+venom (venom) weapon ego
+
+Envenena a las víctimas.
+
+%%%%
+air (Air) armour ego
+
+Mejora tu magia del aire.
+
+%%%%
+archery (Archery) armour ego
+
+Tiene una tercera parte del encumbramiento normal con el propósito de un combate variado.
+
+%%%%
+attunement (Attunement) armour ego
+
+Cuando se usa junto a un personal mágico, duplica la eficacia de eso
+potenciador primario del personal y causa ataques de melee hechos con él para restaurar un
+pequeña cantidad de MP.
+
+%%%%
+cold resistance (rC+) armour ego
+
+Te protege del frío.
+
+%%%%
+command (Command) armour ego
+
+Mejora el poder y el éxito de tus hechizos de Invocación en proporción a tu
+Armour habilidad.
+
+%%%%
+corrosion resistance (rCorr) armour ego
+
+Te protege de los efectos del ácido y la corrosión.
+
+%%%%
+death (Death) armour ego
+
+Potencia sus hechizos de necromancía y mejora su tasa de éxito, pero impone
+un costo de salud para otra magia.
+
+%%%%
+dexterity (Dex+3) armour ego
+
+Aumenta tu destreza (Dex +3).
+
+%%%%
+earth (Earth) armour ego
+
+Mejora tu magia de la Tierra.
+
+%%%%
+energy (Energy) armour ego
+
+Puede devolver la magia gastada para lanzar hechizos, pero disminuye su tasa de éxito. It
+siempre devuelve la magia gastada en malversaciones. La oportunidad de reembolso del hechizo se aumenta
+por tu habilidad Evocations.
+
+%%%%
+fire (Fire) armour ego
+
+Mejora tu magia del Fuego.
+
+%%%%
+fire resistance (rF+) armour ego
+
+Te protege del fuego.
+
+%%%%
+flying (Fly) armour ego
+
+Te otorga flight.
+
+%%%%
+glass (Glass) armour ego
+
+Puede vitrificar a los enemigos cuando los hieras, haciéndolos más vulnerables a
+más daños. Su habilidad Evocations aumenta la probabilidad y duración de la
+vitrificación.
+
+%%%%
+guile (Guile) armour ego
+
+Debilita tanto su fuerza de voluntad como la fuerza de voluntad de todos tú hex, este último
+de los cuales se aumenta por su habilidad Evocations.
+
+%%%%
+harm (Harm) armour ego
+
+Aumenta los daños tratados y tomados.
 
 %%%%
 hurling (Hurl) armour ego
@@ -273,32 +296,15 @@ recargar de pie por un tiempo. Su duración, radio y recarga
 la velocidad se mejora por su habilidad Evocations.
 
 %%%%
-pain (pain) weapon ego
-
-Inflige daños adicionales a las criaturas vivientes proporcionales a su Necromancia
-habilidad
-
-%%%%
 parrying (Parrying) armour ego
 
 Te protege si tu última acción fue un simple ataque. El escudo es la mitad.
 eficaz si su brazo está ocupado por un artículo que no sea un arma.
 
 %%%%
-penetration (penet) weapon ego
-
-Cualquier munición disparada por ella continúa volando después de alcanzar objetivos, potencialmente
-golpeando todo en su camino hasta que deja de ver.
-
-%%%%
 poison resistance (rPois) armour ego
 
 Te protege del veneno.
-
-%%%%
-poisoned (poison) missile ego
-
-Está recubierta de veneno.
 
 %%%%
 ponderousness (Ponderous) armour ego
@@ -316,11 +322,6 @@ protection (AC+3) armour ego
 Te protege de la mayoría de las fuentes de daño (AC +3).
 
 %%%%
-protection (protect) weapon ego
-
-Le otorga protección temporal después de huelgas (+7 AC).
-
-%%%%
 pyromania (Pyromania) armour ego
 
 Mejora tu magia de fuego y puede desencadenar una explosión de llamas a tu alrededor
@@ -333,19 +334,6 @@ rampaging (Rampage) armour ego
 
 Hace que uno tome un paso adicional cuando se mueve hacia los enemigos, brevemente
 si esto resulta en un ataque.
-
-%%%%
-reaping (reap) weapon ego
-
-Cualquier enemigo viviente, santo o demoníaco dañado por él puede ser reanimado temporalmente
-sobre la muerte como un espectral amistoso, con una oportunidad creciente como más daño es
-tratado.
-
-%%%%
-rebuke (rebuke) weapon ego
-
-Escuda al portador si su última acción fue un ataque de melee (+10 SH) y
-reddirects blocked melee attacks to other nearby enemigos.
 
 %%%%
 reflection (Reflect) armour ego
@@ -379,29 +367,11 @@ shadows (Shadows) armour ego
 Reduce la distancia puedes ser visto y puede ver.
 
 %%%%
-silver (silver) missile ego
-
-Trata de aumentar los daños en comparación con los misiles normales y sustancialmente
-aumento del daño a los seres caóticos y transformados mágicamente. También inflige
-daño adicional contra seres mutados, dependiendo de lo mutados que sean.
-
-%%%%
 sniping (Snipe) armour ego
 
 Aumenta su daño en un 50% adicional con armas de alcance y lanzamiento
 contra objetivos incapacitados. Los objetivos incapacitados son los que duermen,
 paralizado, petrificado, confundido o atrapado en una red.
-
-%%%%
-spectralising (spect) weapon ego
-
-Cuando atacas con él, el espíritu de este arma salta y lanza un segundo,
-huelga un poco más débil. El espíritu comparte parte de cualquier daño que lleve contigo.
-
-%%%%
-speed (speed) weapon ego
-
-Los ataques con él son significativamente más rápidos.
 
 %%%%
 spirit shield (Spirit) armour ego
@@ -428,36 +398,12 @@ strength (Str+3) armour ego
 Aumenta tu fuerza (Str +3).
 
 %%%%
-sundering (sunder) weapon ego
-
-Después de realizar múltiples ataques consecutivos, su próximo ataque acuerdo
-aumentó mucho el daño y también se clavó en objetivos un espacio extra lejos.
-
-%%%%
 the Archmagi (Archmagi) armour ego
 
 Aumenta el poder de tus hechizos mágicos.
 
 %%%%
-valour (valour) weapon ego
-
-Dispara un rayo de energía cuando golpea a un enemigo mientras su pelador tiene
-no menos del 80% de su máximo puntos de vida restante. Desenmascararlo 
-brevemente Weaken su wielder.
-
-%%%%
-vampirism (vamp) weapon ego
-
-Ocasionalmente te cura por una porción del daño que se reparte al herir a
-criatura viviente.
-
-%%%%
-venom (venom) weapon ego
-
-Envenena a las víctimas.
-
-%%%%
-willpower (+) armour ego
+willpower (Will+) armour ego
 
 Aumenta tu fuerza de voluntad, protegiendo contra ciertos efectos mágicos.
 
@@ -465,5 +411,59 @@ Aumenta tu fuerza de voluntad, protegiendo contra ciertos efectos mágicos.
 wrath (*Rage) armour ego
 
 Te atormenta cuando haces ataques de melee (20% de probabilidad).
+
+%%%%
+atropa-tipped (atropa) missile ego
+
+Se inclina con una sustancia que causa ceguera y breve confusión.
+
+La posibilidad de aplicar con éxito su efecto aumenta con su Tiro y
+Destreza de integridad.
+
+%%%%
+chaos (chaos) missile ego
+
+Cuando se lanza, tiene un efecto aleatorio.
+
+%%%%
+curare-tipped (curare) missile ego
+
+Se inclina con una sustancia que causa asfixia, tratando daño directo como
+así como envenenamiento y ralentización de los que golpea.
+
+Es dos veces más probable que se destruya en el impacto que otros dardos.
+
+%%%%
+datura-tipped (datura) missile ego
+
+Está teñido con una sustancia que envía a los que golpea en un frenesí sin mente,
+atacar amigo y enemigo por igual.
+
+La posibilidad de aplicar con éxito su efecto aumenta con su Tiro y
+Destreza de integridad.
+
+%%%%
+disjunction (disjunct) missile ego
+
+Causa cualquier objetivo que golpee para quedar temporalmente sin vigilancia en el espacio, parpadeando
+lejos de tú por varias vueltas y tomando daño menor cada vez que lo hace.
+
+%%%%
+dispersal (disperse) missile ego
+
+Causa cualquier objetivo que golpee a blink, con una tendencia a parpadear más
+lejos de ti.
+
+%%%%
+poisoned (poison) missile ego
+
+Está recubierta de veneno.
+
+%%%%
+silver (silver) missile ego
+
+Trata de aumentar los daños en comparación con los misiles normales y sustancialmente
+aumento del daño a los seres caóticos y transformados mágicamente. También inflige
+daño adicional contra seres mutados, dependiendo de lo mutados que sean.
 
 %%%%
