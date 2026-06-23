@@ -16,11 +16,11 @@ Moving in this stuff is going to be slow.|Moverse en esto va a ser lento.
 # Items, trampas, gritos, hechizos
 
 # Items, trampas, gritos, hechizos
-%d runes! That's enough to enter the realm of Zot.|¡%d correas! Es suficiente para entrar en el reino de Zot.
+%d runas! That's enough to enter the realm of Zot.|¡%d runas! Es suficiente para entrar en el reino de Zot.
 %s %s the alarm!|%s %s la alarma!
 %s %s!|%s %s!
 %s (%s)|%s (%s)
-%s burns to shimmering ash in your grasp.|%s se quema para brillar la ceniza en tu mano.
+%s burns to shimmering ash in your grasp.|%s se quema hasta convertirse en ceniza en tu mano.
 %s cannot be improved any further.|%s no se puede mejorar más.
 %s disappears.|%s desaparece.
 %s effortlessly oozes through the net!|%s rezuma sin esfuerzo a través de la red!
@@ -37,23 +37,28 @@ Sorry, the spell '%s' is gone!|Lo siento, el hechizo '%s' se ha ido!
 The net passes right through %s!|¡La red pasa por %s!
 The spells of %s are empowered!|¡Los hechizos de %s están habilitados!
 This passage %s!|¡Este pasaje %s!
-You %s the net and break free!|Tú %s la red y romper libre!
+You %s the net and break free!|¡%s la red y te liberas!
 You %s%s at %s!|¡%s%s en %s!
 You add the spell%s %s to your library.|Añades el hechizo%s %s a tu biblioteca.
 You drop %s.|Deja el %s.
-You enter %s!|¡Tú entras en %s!
-You have identified the last %s.|Tú ha identificado el último %s.
+You enter %s!|¡Entras en %s.
+You have identified the last %s.|Has identificado el último %s.
 You now have %d gold piece%s%s.|Ahora tienes %d pieza de oro%s%s.
-You now have %d runes.|Ahora tienes pistas de %d.
-You pick up %s and begin reading...|Recoge %s y comienza a leer...
-You pick up %s and begin studying.|Recoge %s y empieza a estudiar.
-You pick up %s and feel its impossibly delicate weight in your %s.|Tú recoge %s y siente su peso imposiblemente delicado en su %s.
+You now have %d runas.|Ahora tienes runas de %d.
+You pick up %s and begin reading...|Recoges %s y comienzas a leer...
+You pick up %s and begin studying.|Recoges %s y empiezas a estudiar.
+You pick up %s and feel its impossibly delicate weight in your %s.|Recoges %s y sientes su peso imposiblemente delicado en su %s.
 You pick up %s, but it has nothing more to teach you.|Recoge %s, pero no tiene nada más que enseñarte.
-You pick up %s. Unfortunately, it's quite useless to you.|Recoge el %s. Por desgracia, es muy inútil para ti.
-You pick up another %s and continue studying.|Recoge otro %s y continúa estudiando.
-You pick up the %s rune and feel its power.|Recoge la pista %s y siente su poder.
-You see here %s.|Tú ve aquí %s.
-You welcome %s%s into your grasp.|Das la bienvenida a %s%s en tu comprensión.
+You pick up %s. Unfortunately, it's quite useless to you.|Recoges %s. Por desgracia, es muy inútil para ti.
+You pick up another %s and continue studying.|Recoges otro %s y continúas estudiando.
+You pick up the %s rune and feel its power.|Recoges la runa %s y siente su poder.
+You see here %s.|Ves aquí %s.
+You welcome %s%s into your grasp.|Acoges %s%s en tu poder.
 You whisper farewell to %s.|Susurras adiós a %s.
 You've found all the gems! Together, they sparkle an otherworldly %s!|¡Has encontrado todas las gemas! ¡Juntos, brillan un %s de otro mundo!
 Your strength is siphoned away as %s grow%s stronger!|¡Tu fuerza está apagada mientras %s crece%s más fuerte!
+
+# Mensajes con stream
+You see here %s.|Ves aquí %s.
+%s is nearby|%s está cerca
+You encounter %s.|Te encuentras con %s.
