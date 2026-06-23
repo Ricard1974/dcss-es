@@ -1,30 +1,30 @@
-cd ~/proyectos/dcss-squashfs/squashfs-root/usr && env LANGUAGE=es ./bin/crawlri
-card  dcss-es   (main)  ♥ 22:22  cd ~/proyectos/dcss-squashfs/squashfs-roo
-t/usr && env LANGUAGE=es ./bin/crawlooooo?omi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                    ......#......    Saci HiaBot997Bot487 the Sneak
+                    ......#..#...    Revenante
+              ####  #........#...    Salud:17/17       ========================
+               ..#  #.......#.<..    Magia:1/1         ========================
+          ###  #.#  #............    CA:  3            Fue: 14
+          #...##.####............    EV: 10            Int: 10
+          #......................    ER:  0            Des: 10
+          #...##.####............    NX: 1 Sig.:16%    Lugar:Dungeon:1
+          ##   #.#  #............    Ruido: ---------  Time: 54.8 (0.0)
+        .###.###.#  #...........#    a) +2 dagger
+        ........@#  #.........."#    Throw: 9 darts (poison)
+        ####.#####  #..........#.
+                    #.........#..
+                    #......###...
+                    #.....#......
+                    #......######
+                    #...†...#
+                   #....)....#
+                   +.........+
+                   #.........#
+                   ##.......##
+_Comando desconocido.
+_Llavero presionado, parando explore.
+_¡No puedes bajar aquí!
+ Tu velocidad de movimiento es normal.
+ Tu retraso de ataque es aproximadamente 0.9.
+ Tu calificación de daño con your +2 dagger es sobre 6 (Base 4 x 100% (Dex) x
+_106% (Skill) + 2 (Ench)).
+_Comando desconocido.
 

@@ -561,3 +561,24 @@ The %s bites you but does no damage.|El %s te muerde pero no te hace daño.
 Hit %s|Golpeas a %s
 Hit the %s|Golpeas al %s
 Confirm with . or Enter, or press ? or * to list all spells.|Confirma con . o Enter, o pulsa ? o * para listar hechizos.
+The ball python barely misses you. The ball python grabs you.|La pitón barely misses you. La pitón te agarra.
+The ball python bites you but does no damage.|La pitón bites you but does no damage.
+The ball python closely misses you. The ball python grabs you.|La pitón closely misses you. La pitón te agarra.
+The ball python constricts you.|La pitón te oprime.
+The ball python is heavily wounded.|La pitón está gravemente herido.
+The ball python is severely wounded.|La pitón está severamente herido.
+The endoplasm is almost dead.|El endoplasma está casi muerto.
+The helpless frilled lizard fails to defend itself.|El lagarto con volantes indefenso no puede defenderse.
+The hobgoblin is heavily wounded.|El hobgoblin está gravemente herido.
+You barely miss the ball python. The ball python bites you.|Por poco fallas the ball python. La pitón bites you.
+You closely miss the ball python.|Fallas por poco the ball python.
+You closely miss the ball python. The ball python barely misses you.|Fallas por poco the ball python. La pitón barely misses you.
+You closely miss the ball python. The ball python bites you.|Fallas por poco the ball python. La pitón bites you.
+You closely miss the hobgoblin.|Fallas por poco the hobgoblin.
+You completely miss the ball python. The ball python bites you.|Fallaste completamente the ball python. La pitón bites you.
+You hit the ball python but do no damage.|Golpeas the ball python pero sin hacer daño.
+You hit the endoplasm but do no damage.|Golpeas the endoplasm pero sin hacer daño.
+You hit the hobgoblin but do no damage.|Golpeas the hobgoblin pero sin hacer daño.
+You kill the ball python!|Matas the ball python!
+You kill the hobgoblin!|Matas the hobgoblin!
+The percentage of incoming experience used to train each skill is in brown.|The percentage of incoming experience used to train each skill is in brown.

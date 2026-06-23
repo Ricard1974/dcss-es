@@ -1,30 +1,30 @@
-   ##.~≈≈~~~~≈≈~...~~~~~~~~~         Saci Hia the Grave Robber
-####..P~~≈~~~≈≈.....~~~~≈~~~         Revenante
-.................<..........         Salud:6/14        ==========--------------
-.####.P~~~~~~~≈.[...~~≈~~~~~         Magia:3/3         ========================
-.#  #.~~~~~~~~~~...~~~~~~~≈~         CA:  2            Fue: 11
-.# ##.~≈≈~~~~~~~...~~~~~~~           EV: 11            Int: 14
-.# #..P~~~~~~≈~P...P~≈~~~~           ER:  0            Des: 9
-.# #.†...................            NX: 1 Sig.:41%    Lugar:Dungeon:1
-.# #...........######.##.            Ruido: ---------  Time: 119.0 (1.0)
-.# ###........##.........##          a) +0 dagger
-.#### #......  #@.###......          Cast: Soul Splinter
-....#  .......##..#.......
-....#  .........w...#:....
-#...#  .......##..###..#             w   dart slug
-##.##    ....  #.....!.#
- #.#     ###   #.......#
- #.#  #######  ####....#
-##.####..)..#     #.#######
->.....#.###.#     #.......#
-##.##.#.#...#######.#####.#
- #..................#
-_The dart slug bites you.
-_¡Estás demasiado herido para luchar imprudentemente!
-_The dart slug closely misses you.
-_¡Estás demasiado herido para luchar imprudentemente!
- The dart slug attacks as it pursues you!
-_The dart slug misses you.
-_¡Estás demasiado herido para luchar imprudentemente!
-_¡Estás demasiado herido para luchar imprudentemente!
+------------------------------------------------------------------------
+1. LISTA DE RAZAS
+------------------------------------------------------------------------
 
+Las especies se clasifican, aproximadamente, por lo difícil y complejo que son
+aprender a jugar, en tres categorías: *Simple*, *Avanzado*, y
+*Advanced*. Estas categorías no necesariamente se ajustan a las dificultades
+un experimentado jugador de Crawl, pero más bien están destinados como una indic
+qué grado tiene una especie mecánica inusual o compleja, o requiere
+conocimiento más profundo/más amplio de cómo funciona el juego. (Por ejemplo, Dj
+de las tasas de ganancia más altas de todas las especies, pero se clasifican com
+"Avanzado" porque su mecánico de no-mp/no-books toma algo de adaptación
+a, y tiene interacciones no-triviales con el fondo y la elección de dios.)
+A pesar de ser el resultado de una discusión entre muchos jugadores, estos
+las categorizaciones definitivamente tienen un elemento subjetivo para ellos, y
+¡No debería llevarlos a limitarlos!
+
+El orden dentro de las categorías es también, aproximadamente, determinado por n
+juicio sobre la relativa facilidad de aprendizaje para jugar cada especie.
+
+Al lado del nombre de cada especie, entre paréntesis, está la abreviación canóni
+para la especie.
+
+Nota: Use 'A' para comprobar qué peculiaridades particulares podría una especie
+Sí. Además, algunas especies tienen habilidades especiales que pueden ser
+accedido por el menú de habilidades. Algunos también tienen físico
+características que les permiten realizar ataques adicionales.
+
+Nota: Los humanos son un punto de referencia útil al considerar otras especies:
+tienen 0 para casi todas las aptitudes; no tienen habilidades especiales,

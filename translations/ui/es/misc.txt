@@ -1721,3 +1721,4 @@ You perform a melee attack whenever you cast damage-dealing spells.|Realizas un 
 You recover more slowly from Doom and Banes.|Te recuperas más lentamente de la Condena y los Azotes.
 You will be able to burn memories to enhance your damage-dealing spells.|Podrás quemar recuerdos para potenciar tus hechizos de daño.
 The Orb of Zot|El Orbe de Zot
+Found a glowing blue amulet.|Found a glowing blue amulet.

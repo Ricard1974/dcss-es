@@ -1,30 +1,30 @@
-cd ~/proyectos/dcss-squashfs/squashfs-root/usr && env LANGUAGE=es ./bin/crawlri
-card  dcss-es   (main)  ♥ 22:25  cd ~/proyectos/dcss-squashfs/squashfs-roo
-t/usr && env LANGUAGE=es ./bin/crawlooooo?omi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                    ......#......    Saci HiaBot997Bot487 the Sneak
+                    ......#..#...    Revenante
+              ####  #........#...    Salud:17/17       ========================
+               ..#  #.......#.<..    Magia:1/1         ========================
+          ###  #.#  #............    CA:  3            Fue: 14
+          #...##.####............    EV: 10            Int: 10
+          #......................    ER:  0            Des: 10
+          #...##.####............    NX: 1 Sig.:16%    Lugar:Dungeon:1
+          ##   #.#  #............    Ruido: ---------  Time: 54.8 (0.0)
+        .###.###.#  #...........#    a) +2 dagger
+        ........@#  #.........."#    Throw: 9 darts (poison)
+        ####.#####  #..........#.
+                    #.........#..
+                    #......###...
+                    #.....#......
+                    #......######
+                    #...†...#
+                   #....)....#
+                   +.........+
+                   #.........#
+                   ##.......##
+_Comando desconocido.
+ Offhand   : (nothing)
+ Armour    : b - a +0 robe
+ Casco     : (nothing)
+ Guantes   : (nothing)
+ Botas     : (nothing)
+_Capa      : c - a +0 cloak
+_Comando desconocido.
 

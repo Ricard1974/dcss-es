@@ -1,30 +1,30 @@
-                                     Saci Hia the Grave Robber
-                              ###    Revenante
-                              #..    Salud:14/14       ========================
-               ################.#    Magia:3/3         ========================
-               #.................    CA:  2            Fue: 11
-               #.P~~~~≈~~~P...P~~    EV: 11            Int: 14
-               #.~≈~~~~~≈≈~...~≈≈    ER:  0            Des: 9
-              ##.~≈≈~~~~≈≈~...~~~    NX: 1 Sig.: 0%    Lugar:Dungeon:1
-          #####..P~~≈~~~≈≈.....~~    Ruido: ---------  Time: 30.0 (0.0)
-          #....!............<....    a) +0 dagger
-          #.####@P~~~~~~~≈.[...~~    Cast: Soul Splinter
-               #.~~~~~~~~~~...~~~
-               #.~≈≈~~~~~~~...~~~
-               ..P~~~~~~≈~P...P~≈    w   dart slug (asleep)
-               ..................
-              #.w.........######.
-              ###........#      .
-                 #......
+           #..##  ##.......##        Saci HiaBot997Bot487 the Sneak
+           #.##    ##.....##         Revenante
+           #.#      ##...##          Salud:18/18       ========================
+           #.#       ##+##           Magia:1/1         ========================
+           #.#                       CA:  3            Fue: 14
+           #.#                       EV: 10            Int: 10
+           #.#                       ER:  0            Des: 10
+           #.#                       NX: 1 Sig.:25%    Lugar:Dungeon:1
+           #.#                       Ruido: ---------  Time: 90.8 (0.0)
+           #.########...             a) +2 dagger
+           #[...@.......             Throw: 9 darts (poison)
+           ##########.##
 
 
 
-_Found a staircase leading out of the dungeon.
-_d - a murky grey potion
-_No target in view!
-_Ahora tienes 2 pieza de oros.
-_c - a scroll labelled OSIYPH AFFIRPH
-_Te encuentras con a dart slug.
-_A dart slug is nearby!
-_A dart slug is nearby!
+
+
+
+
+
+
+_Ves aquí a +0 robe.
+_¡No puedes bajar aquí!
+ The helpless frilled lizard fails to defend itself.
+ Impale the frilled lizard
+_You kill the frilled lizard!
+_No hay objetivo a la vista.
+_No hay objetivo a la vista.
+_No hay objetivo a la vista.
 

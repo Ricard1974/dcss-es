@@ -1,0 +1,30 @@
+           ...............#          Saci HiaBot997Bot487 the Sneak
+            #............#....#      Revenante
+            #............#....#      Salud:16/17       ======================--
+            #...........#.....#      Magia:1/1         ========================
+            #.........."#......      CA:  3            Fue: 14
+            #..........#.#....#      EV: 10            Int: 10
+            #.........#.......#      ER:  0            Des: 10
+            #......###........#      NX: 1 Sig.:16%    Lugar:Dungeon:1
+            #.....#...........#      Ruido: =--------  Time: 30.8 (0.0)
+            #......#######.##.#      a) +2 dagger
+            #...@...#     ... #      Throw: 9 darts (poison)
+           #....)....#    ..#
+           +.........+
+           #.........#
+           ##.......##
+            ##.....##
+             ##...##
+              ##+##
+
+
+
+ Botas     : (nothing)
+_Capa      : c - a +0 cloak
+_Comando desconocido.
+ Anillo #1 : (nothing)
+ Anillo #2 : (nothing)
+_Amuleto   : (nothing)
+_Comando desconocido.
+_Tiene 0 oro pedazos.
+

@@ -1,30 +1,30 @@
-Hello, welcome to Dungeon Crawl Stone Soup 0.34.1!
-(c) Copyright 1997-2002 Linley Henzell, 2002-2025 Crawl DevTeam
+Runes of Zot (0 collected) & Orbs of Power
+Runes of Zot
+     decaying rune of Zot (the Swamp)
+     barnacled rune of Zot (the Shoals)
+     serpentine rune of Zot (the Snake Pit)
+     gossamer rune of Zot (the Spider Nest)
+     silver rune of Zot (the Vaults)
+     abyssal rune of Zot (the Abyss)
+     slimy rune of Zot (the Pits of Slime)
+     demonic rune of Zot (Pandemonium)
+     glowing rune of Zot (Pandemonium)
+     magical rune of Zot (Pandemonium)
+     fiery rune of Zot (Pandemonium)
+     dark rune of Zot (Pandemonium)
+     bone rune of Zot (Tartarus)
+     obsidian rune of Zot (Gehenna)
+     icy rune of Zot (Cocytus)
+     iron rune of Zot (the Iron City of Dis)
+     golden rune of Zot (the Tomb of the Ancients)
+Orbs of Power
+     El Orbe de Zot (el Reino de Zot)
 
-Introduce tu nombre: Saci Hiaooo
 
-Opciones:            Mazmorras de Piedra Sopa
-                     Elegir Semilla de Juego
-                     Tutorial de Mazmorras de Piedra Sopa
-                     Modo Pistas de Mazmorras de Piedra Sopa
-                     Sprint de Mazmorra
-                     Instrucciones
-                     La Arena
-                     Puntuaciones Altas
 
-Partidas guardadas:  [Tutorial] hojhoh, a level 2 Human Fighter
-                     Cycliwo, a level 1 Kobold Warper
-                     [Tutorial] Kuuhosoc, a level 1 Human Fighter
-                     Loruit, a level 1 Revenant Necromancer
-                     Nuxkuwk, a level 1 Gnoll Shapeshifter
-                     Saci Hia, a level 1 Revenant Necromancer
-                     Temunwil, a level 1 Revenant Necromancer
-                     Ziobli Ystran, a level 1 Gnoll Fighter
-                     a, a level 1 Gnoll Fighter
-                     hjh, a level 1 Revenant Necromancer
 
-[tab] quick-load last game: Saci Hia the Revenant Necromancer
-[ctrl-p] view rc file information and log
 
-Mazmorras de Piedra Sopa: El juego principal: lleno de monstruos, objetos,
-dioses y peligro.
+
+
+
+[!/^]: Show Gems

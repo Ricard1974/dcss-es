@@ -1,0 +1,30 @@
+Welcome, Saci HiaBot997Bot487. Please select your species.
+
+Simple                 Intermedio               Avanzado
+a - Gnoll              j - Humano               s - Coglin
+b - Minotauro          k - Kobold               t - Acechador de Enredaderas
+c - Tritón             l - Revenante            u - Poltergeist
+d - Gárgola            m - Engendro Demoníaco   v - Semidiós
+e - Enano de Montaña   n - Djinn                w - Formícido
+f - Draconiano         o - Spriggan             x - Naga
+g - Troll              p - Tengu                y - Octópodo
+h - Elfo Profundo      q - Oni                  z - Félido
+i - Armatauro          r - Barachi              A - Momia
+
+
+
+
+
++ - Raza recomendada                      * - Random species
+# - Recommended character                 ! - Random character
+% - List aptitudes                    Space - Pick background first
+? - Ayuda                               Tab - Revenant Summoner
+
+
+
+
+
+
+
+
+

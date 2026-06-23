@@ -1,30 +1,30 @@
-  #.~~~~~~~~~~...~~~~~~~≈~           Saci Hia the Grave Robber
- ##.~≈≈~~~~~~~...~~~~~~~             Revenante
- #..P~~~~~~≈~P...P~≈~~~~             Salud:6/14        ==========--------------
- #.†...................              Magia:3/3         ========================
- #...........######.##.              CA:  2            Fue: 11
- ###........##..   ....##            EV: 11            Int: 14
-### #......  #..   ......            ER:  0            Des: 9
-..#  .......##..   .....             NX: 1 Sig.:41%    Lugar:Dungeon:1
-..#  ...........   :....             Ruido: =--------  Time: 103.0 (1.0)
-..#  ......  #.w###..#               a) +0 dagger
-.##          #..@..!.#               Cast: Soul Splinter
-.#           #.......#
-.#  #######  ####....#
-.####..)..#     #.#######            w   dart slug
-....#.###.#     #.......#
-.##.#.#...#######.#####.#
-..................#
-###.#.....#######.#
- ...#######     #.#
-#####           #.#
-                #..
- The dart slug lanza un dardo at you.
-_Slug dart hits you
- Hit the dart slug
-_The dart slug is heavily wounded.
- You completely miss the dart slug.
- The dart slug is heavily wounded.
-_The dart slug bites you.
-_¡Estás demasiado herido para luchar imprudentemente!
+------------------------------------------------------------------------
+3. LISTA DE SKILLS
+------------------------------------------------------------------------
 
+Aquí hay una descripción de las habilidades que puede tener. Puedes comprobar tu
+las habilidades actuales con el comando 'm', y allí se relacionan entre el progr
+visualización y visualización de aptitude usando '*'. También puede leer la tabl
+habilidades del menú de ayuda usando '?%', y durante la elección del personaje c
+'.
+
+Destrezas de lucha
+================================================================================
+
+Luchar es la habilidad básica utilizada en combates variados y sencillos, y no a
+materia que arma su carácter está marchitando (si hay). La lucha también es
+la habilidad que determina la cantidad de salud que tu personaje gana mientras
+aumento de los niveles (nota que esto se calcula para que no tengas un
+ventaja de largo plazo al comenzar con una alta habilidad de lucha). A diferenci
+habilidad de arma específica, La lucha no cambia la velocidad con la que tú
+Haz tus ataques.
+
+Las habilidades de armamento afectan su capacidad de luchar con armas de meleo e
+Las habilidades de armamento incluyen:
+
+* Cortas cortas
+* Long Blades
+* Maces & Flails
+* Axes
+# Staves
+* Polearms

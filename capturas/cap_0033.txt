@@ -1,0 +1,30 @@
+            #.............#          Saci HiaBot997Bot487 the Sneak
+           ##.............#          Revenante
+           ...............#          Salud:17/17       ========================
+            #............#....#      Magia:1/1         ========================
+            #............#....#      CA:  3            Fue: 14
+            #...........#.....#      EV: 10            Int: 10
+            #.........."#......      ER:  0            Des: 10
+            #..........#.#....#      NX: 1 Sig.: 0%    Lugar:Dungeon:1
+            #.........#.......#      Ruido: ==-------  Time: 26.0 (1.0)
+            #......###........#      a) +2 dagger
+            #...@.#...........#      Throw: 9 darts (poison)
+            #......#######.##.#
+            #.......#     ... #
+           #....S....#    ..#        S   ball python (constriction)
+           +.........+               K   kobold
+           #.........#
+           ##....K..##
+            ##.....##
+
+
+
+_an amulet of wildshape; a +0 dagger
+_d - a purple potion
+_Te encuentras con a ball python.
+_A ball python is nearby!
+_The ball python silba profundamente.
+_¡No puedes bajar aquí!
+ Te encuentras con a kobold. It is wielding a +0 short sword.
+_The kobold grita!
+

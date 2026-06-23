@@ -1,30 +1,30 @@
-Hello, welcome to Dungeon Crawl Stone Soup 0.34.1!
-(c) Copyright 1997-2002 Linley Henzell, 2002-2025 Crawl DevTeam
+------------------------------------------------------------------------
+4. LISTA DE TECLAS Y COMANDOS
+------------------------------------------------------------------------
 
-Introduce tu nombre: Saci Hiayooooohooooo
+Pantalla principal
+================================================================================
 
-Opciones:            Mazmorras de Piedra Sopa
-                     Elegir Semilla de Juego
-                     Tutorial de Mazmorras de Piedra Sopa
-                     Modo Pistas de Mazmorras de Piedra Sopa
-                     Sprint de Mazmorra
-                     Instrucciones
-                     La Arena
-                     Puntuaciones Altas
+Crawl tiene muchos comandos para ser emitidos por golpes clave individuales. Est
+confuso, ya que también hay varios modos; aquí está la lista completa. Algunos
+comandos son particularmente útiles en combinación con cierta interfaz
+opciones; tales opciones se mencionan en la lista. Para una descripción de ellos
+Por favor, busque en options guide.txt. Para una lista más terse de todos los co
+usa '??' en el juego. La mayoría de los modos (targeting, plano de nivel, viajes
+tener menús de ayuda vía '?' por su cuenta.
 
-Partidas guardadas:  [Tutorial] hojhoh, a level 2 Human Fighter
-                     Cycliwo, a level 1 Kobold Warper
-                     [Tutorial] Kuuhosoc, a level 1 Human Fighter
-                     Loruit, a level 1 Revenant Necromancer
-                     Nuxkuwk, a level 1 Gnoll Shapeshifter
-                     Saci Hia, a level 1 Revenant Necromancer
-                     Temunwil, a level 1 Revenant Necromancer
-                     Ziobli Ystran, a level 1 Gnoll Fighter
-                     a, a level 1 Gnoll Fighter
-                     hjh, a level 1 Revenant Necromancer
+Movimiento
+------
 
-[tab] quick-load last game: Saci Hia the Revenant Necromancer
-[ctrl-p] view rc file information and log
+dirección
+Esto mueve un cuadrado. La dirección es uno de los cursores numpados
+teclas (entradas en y fuera de NumLock) o una de las teclas Rogue vi
+(hjklyubn).
 
-Mazmorras de Piedra Sopa: El juego principal: lleno de monstruos, objetos,
-dioses y peligro.
+Cambio de dirección o / dirección
+Esto se mueve recto hasta que se encuentra algo interesante (como un
+monstruo). Si la primera plaza es una trampa, el movimiento comienza sin embargo
+
+o
+Autoexplore. Configurar la opción explore greedy a verdaderos hechos
+autoexplore run to interesantes items (aquellos que se recogen

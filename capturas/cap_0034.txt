@@ -1,0 +1,30 @@
+           ##.............#          Saci HiaBot997Bot487 the Sneak
+           ...............#          Revenante
+            #............#....#      Salud:16/17       ======================--
+            #............#....#      Magia:1/1         ========================
+            #...........#.....#      CA:  3            Fue: 14
+            #.........."#......      EV: 10            Int: 10
+            #..........#.#....#      ER:  0            Des: 10
+            #.........#.......#      NX: 1 Sig.: 8%    Lugar:Dungeon:1
+            #......###........#      Ruido: =--------  Time: 28.9 (1.0)
+            #.....#...........#      a) +2 dagger
+            #...@..#######.##.#      Throw: 9 darts (poison)
+            #...†...#     ... #
+           #.........#    ..#
+           +....K....+               K   kobold
+           #.........#
+           ##.......##
+            ##.....##
+             ##...##
+
+
+
+ Te encuentras con a kobold. It is wielding a +0 short sword.
+_The kobold grita!
+ Hit the ball python
+ The ball python is severely wounded.
+ The ball python barely misses you. The ball python grabs you.
+_The ball python constricts you.
+ Hit the ball python
+_You kill the ball python!
+

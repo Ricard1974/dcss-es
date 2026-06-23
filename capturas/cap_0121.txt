@@ -1,30 +1,30 @@
-               ################.#    Saci Hia the Grave Robber
-               #.................    Revenante
-               #.P~~~~≈~~~P...P~~    Salud:13/14       ======================--
-               #.~≈~~~~~≈≈~...~≈≈    Magia:3/3         ========================
-              ##.~≈≈~~~~≈≈~...~~~    CA:  2            Fue: 11
-          #####..P~~≈~~~≈≈.....~~    EV: 11            Int: 14
-          #....!............<....    ER:  0            Des: 9
-          #.####.P~~~~~~~≈.[...~~    NX: 1 Sig.:33%    Lugar:Dungeon:1
-               #.~~~~~~~~~~...~~~    Ruido: =--------  Time: 38.0 (1.0)
-              ##.~≈≈~~~~~~~...~~~    a) +0 dagger
-              #.@P~~~~~~≈~P...P~≈    Cast: Soul Splinter
-              #.†................
-              #...........######.
-              ###........#      .
-                 #......
-                  ......
-                  ......
-                  ......
+           #..##  ##.......##        Saci HiaBot997Bot487 the Sneak
+           #.##    ##.....##         Revenante
+           #.#      ##...##          Salud:18/18       ========================
+           #.#       ##+##           Magia:1/1         ========================
+           #.#                       CA:  3            Fue: 14
+           #.#                       EV: 10            Int: 10
+           #.#                       ER:  0            Des: 10
+           #.#                       NX: 1 Sig.:25%    Lugar:Dungeon:1
+           #.#                       Ruido: ---------  Time: 90.8 (0.0)
+           #.########...             a) +2 dagger
+           #[...@.......             Throw: 9 darts (poison)
+           ##########.##
 
 
 
- Hit the dart slug
- The dart slug is almost dead.
-_The dart slug bites you.
- Hit the dart slug
-_You kill the dart slug!
-_No target in view!
-_No target in view!
-_No target in view!
+
+
+
+
+
+
+ Tu velocidad de movimiento es normal.
+ Tu retraso de ataque es aproximadamente 0.9.
+ Tu calificación de daño con your +2 dagger es sobre 6 (Base 4 x 100% (Dex) x
+_107% (Skill) + 2 (Ench)).
+_Comando desconocido.
+_No sabes ningún hechizo.
+_Comando desconocido.
+_Tu biblioteca no tiene hechizos.
 

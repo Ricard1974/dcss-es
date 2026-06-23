@@ -1,0 +1,30 @@
+------------------------------------------------------------------------
+2. LISTA DE CLASES
+------------------------------------------------------------------------
+
+En su búsqueda, tú juega como uno de un gran número de diferentes tipos de
+personajes. Aunque cada uno tiene sus propias fortalezas y debilidades, algunos
+Definitivamente más fácil que otros, al menos para empezar. Los mejores antecede
+para un principiante son probablemente Gladiators y Berserkers; si realmente qui
+para jugar a un mago, probar un Conjurer o un Hedge Wizard. Sin embargo, no todo
+especies son igualmente adecuadas para todos los antecedentes. Después de que te
+seleccionado una especie, el menú de selección de fondo mostrará fondos
+generalmente se considera más accesible para una especie en un más brillante
+color.
+
+Cada fondo comienza con un conjunto diferente de habilidades y artículos, pero
+desde allí puedes configurarlos como quieras. Note que debido a las peculiaridad
+de tamaño o forma corporal, algunas combinaciones de fondo de especies comienzan
+diferentes inventarios que se describen aquí.
+
+Fondos guerreros
+==========================
+
+Los guerreros tienen experiencia en el uso de armas físicas y la defensa
+ellos mismos.
+
+Combatientes
+Los combatientes generalmente comienzan con un buen arma de su elección, un traj
+armadura media, escudo y dos pociones de poder.
+
+Gladiadores

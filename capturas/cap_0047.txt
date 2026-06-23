@@ -1,0 +1,30 @@
+           ...............#          Saci HiaBot997Bot487 the Sneak
+            #............#....#      Revenante
+            #............#....#      Salud:16/17       ======================--
+            #...........#.....#      Magia:1/1         ========================
+            #.........."#......      CA:  3            Fue: 14
+            #..........#.#....#      EV: 10            Int: 10
+            #.........#.......#      ER:  0            Des: 10
+            #......###........#      NX: 1 Sig.:16%    Lugar:Dungeon:1
+            #.....#...........#      Ruido: =--------  Time: 30.8 (0.0)
+            #......#######.##.#      a) +2 dagger
+            #...@...#     ... #      Throw: 9 darts (poison)
+           #....)....#    ..#
+           +.........+
+           #.........#
+           ##.......##
+            ##.....##
+             ##...##
+              ##+##
+
+
+
+_The ball python constricts you.
+ Hit the ball python
+_You kill the ball python!
+_Ves aquí a ball python corpse.
+ Hit the kobold
+_You kill the kobold!
+_No hay objetivo a la vista.
+_No hay objetivo a la vista.
+

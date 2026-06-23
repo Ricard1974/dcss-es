@@ -1,30 +1,30 @@
-.................#   #.........#     Saci Hia the Grave Robber
-######.##.####...#   ####..#...##    Revenante
-#.........####...########......##    Salud:14/14       ========================
-#..###..................#.....###    Magia:3/3         ========================
-#.†#.............................    CA:  2            Fue: 11
-.....#..................#.....###    EV: 11            Int: 14
-#..###..######...#########.#### #    ER:  0            Des: 9
-#.......#  ###...###     #.######    NX: 1 Sig.:91%    Lugar:Dungeon:1
-#.......#  #.......#     #.##....    Ruido: ---------  Time: 374.0 (1.0)
-####....#  #.#...#.#     #.##.###    a) +0 dagger
-   #.#######.#..@#.#     #.......    Cast: Soul Splinter
-   #.......# #.....#     ####.##.
-####.#####.# #...#.#        #.##.
-.....#       ##......       #....    g   goblin (asleep)
-####.#        ....[#..      ####.
-   #.#       .........#        ##
-   #.#       #....g  .%.
-   #..       #..#.##  #.
-   #.#
-   #.#
-   #.#
-                    g - Guard the area.      f - Follow me.
-  Anything else - Cancel.
-_Vale, entonces.
-_Comando desconocido.
-_Vale, entonces.
-_Vale, entonces.
- Te encuentras con a goblin. It is wielding a +0 club.
-_Found a quill talisman.
-
+Items not yet recognised:                                          (_ for help)
+Magical Staves
+ staff of air
+ staff of alchemy
+ staff of cold
+ staff of conjuration
+ staff of earth
+ staff of fire
+ staff of necromancy
+Jewellery
+ amulet of chemistry
+ amulet of dissipation
+ amulet of faith
+ amulet of guardian spirit
+ amulet of magic regeneration
+ amulet of reflection
+ amulet of regeneration
+ amulet of the acrobat
+ ring of dexterity
+ ring of evasion
+ ring of flight
+ ring of intelligence
+ ring of magical power
+ ring of poison resistance
+ ring of positive energy
+ ring of protection
+ ring of protection from cold
+ ring of protection from fire
+ ring of resist corrosion
+[PgDn|>] page down  [PgUp|<] page up  [-] recognised  [Esc] exit          [top]

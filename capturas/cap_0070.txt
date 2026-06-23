@@ -1,0 +1,30 @@
+------------------------------------------------------------------------
+E. EXPERIENCIA Y HABILIDADES
+------------------------------------------------------------------------
+
+Cuando matas monstruos, ganas puntos de experiencia (XP). Cuando llegues
+suficiente XP, tú gana un nivel de experiencia, haciendo su carácter más
+poderoso. Mientras ganan niveles, los personajes ganan más salud, magia y
+niveles de hechizo.
+
+Además, la experiencia que ganas se utiliza para entrenar tus habilidades. Éstos
+los conocimientos prácticos representan una competencia con todas las esferas de
+aventurero podría necesitar en las mazmorras. Ellos van desde diferentes armas
+habilidades (tanto para un combate cercano y variado) a muchas habilidades mágic
+varias actividades adicionales como Dodging o Stealth. Véase el apéndice 3.
+"Lista de habilidades" para una descripción detallada de todas las habilidades p
+La facilidad con que un personaje aprende una habilidad depende exclusivamente d
+Estas habilidades se muestran al ver sus habilidades y una tabla completa
+se puede ver en aptitudes.txt (también desde la pantalla de ayuda durante el jue
+'?
+
+Puedes ver las habilidades de tu personaje pulsando la tecla 'm'; cuanto más alt
+nivel de habilidad, mejor estás en ello. Todos los personajes comienzan con unos
+conocimientos ya capacitados (determinados por sus antecedentes), aquellos que s
+no presente tiene que ser aprendido de cero. Cada habilidad puede subir a 27.
+
+La pantalla de habilidad le permite cambiar qué habilidades se ejercen y en
+qué velocidad. Nota a los nuevos jugadores: generalmente no es necesario afinar
+la selección de habilidades.
+
+Si desea modificar la selección de habilidades, aquí está cómo:

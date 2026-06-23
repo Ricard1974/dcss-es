@@ -1,26 +1,26 @@
-Ayuda de Mazmorras de Piedra Sopa        Contenido del Manual
+Saci HiaBot997Bot487 the Sneak (Revenant Brigand)    Turns: 225, Time: 00:04:50
+Salud:18/18        CA: 3     Fue:14     NX:1Sig.:50%
+Magia:1/1          EV:10     Int:10     Dios:
+Oro:0              ER: 0     Des:10     Hechizos:0/0 levels left
 
-Pulsa una de las siguientes teclas para  *       Índice
-obtener más información sobre un         A.      Visión general
-aspecto de Mazmorras de Piedra Sopa.     B.      Pantalla de inicio
-?: Lista de comandos                     C.      Atributos y Estadísticas
-^: Guía rápida                           D.      Explorar la mazmorra
-:: Notas del personaje                   E.      Experiencia y Habilidades
-#: Volcado del personaje                 F.      Monstruos
-~: Ayuda de macros                       G.      Objetos
-&: Ayuda de opciones                     H.      Lanzar hechizos
-%: Tabla de aptitudes                    I.      Apuntado
-/: Consultar descripción                 J.      Religión
-Q: FAQ                                   K.      Mutaciones
-V: Información de versión                L.      Licencia, Contacto, Historia
-!: Diagnósticos                          M.      Macros, Opciones, Rendimiento
-Inicio: Esta pantalla                    N.      Filosofía
-                                         1.      Lista de Razas
-                                         2.      Lista de Clases
-                                         3.      Lista de Habilidades
-                                         4.      Lista de Teclas y Comandos
-                                         5.      Inscripciones
-                                         6.      Modos de sprint
+rFire   . . .  (100%)   a - +2 dagger
+rCold   + . .  (50%)    (no offhand)
+rNeg    + + +  (0%)     b - +0 robe
+rPois   ∞      (0%)     (no casco)
+rElec   .      (100%)   c - +0 cloak
+rCorr   .      (100%)   (no guantes)
+SInv    .               (no botas)
+Will    .....           (no amuleto)
+Stlth   ++              (no anillo)
+HPRegen 0.23/turn       (no anillo)
+MPRegen 0.07/turn
+
+%: no passive effects
+@: no status effects
+A: claws 1, cold resistance 1, low MP 2, negative energy resistance 3, torment
+resistance 2, spellclaws, accursed
+
+
 
 
 

@@ -1,30 +1,30 @@
-.#  #.~~~~~~~~~~...~~~~~~~≈~         Saci Hia the Grave Robber
-.# ##.~≈≈~~~~~~~...~~~~~~~           Revenante
-.# #..P~~~~~~≈~P...P~≈~~~~           Salud:6/14        ==========--------------
-.# #.†...................            Magia:3/3         ========================
-.# #...........######.##.            CA:  2            Fue: 11
-.# ###........##...  ....##          EV: 11            Int: 14
-.#### #......  #..###......          ER:  0            Des: 9
-....#  .......##..#.......           NX: 1 Sig.:41%    Lugar:Dungeon:1
-....#  ............. :....           Ruido: ---------  Time: 108.0 (1.0)
-#...#  ......  #.w###..#             a) +0 dagger
-##.##          #@....!.#             Cast: Soul Splinter
- #.#           #.......#
- #.#  #######  ####....#
-##.####..)..#     #.#######          w   dart slug
->.....#.###.#     #.......#
-##.##.#.#...#######.#####.#
- #..................#
- ####.#.....#######.#
-   ...#######     #.#
-  #####           #.#
-                  #..
-_The dart slug bites you but does no damage.
-_¡Estás demasiado herido para luchar imprudentemente!
- The dart slug lanza un dardo at you.
-_Slug dart hits you
-_¡Estás demasiado herido para luchar imprudentemente!
- The dart slug lanza un dardo at you.
-_El slug dart te falla.
-_¡Estás demasiado herido para luchar imprudentemente!
+........#                            Saci HiaBot997Bot487 the Sneak
+.......##                            Revenante
+#.....##                             Salud:18/18       ========================
+##...##        ..#                   Magia:1/1         ========================
+ ##+##         ..#                   CA:  3            Fue: 14
+  #.#          .S#                   EV: 10            Int: 10
+###.#######    #.#                   ER:  0            Des: 10
+#.........#    #.#                   NX: 1 Sig.:25%    Lugar:Dungeon:1
+#....###..#    #.#                   Ruido: ---------  Time: 133.8 (1.0)
+#.....##..#    #.#                   a) +2 dagger
+#....###..#    #@#                   Throw: 9 darts (poison)
+......##..######.#
+#.###............#
+#.........########                   S   ball python (constriction, asleep)
+###########
+
+
+
+
+
+
+_floors.
+_Comando desconocido.
+_A ball python comes into view.
+_A ball python is nearby!
+_A ball python is nearby!
+_A ball python is nearby!
+_A ball python comes into view.
+_¡No puedes bajar aquí!
 

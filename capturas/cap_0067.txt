@@ -1,0 +1,30 @@
+           ...............#          Saci HiaBot997Bot487 the Sneak
+            #............#....#      Revenante
+            #............#....#      Salud:16/17       ======================--
+            #...........#.....#      Magia:1/1         ========================
+            #.........."#......      CA:  3            Fue: 14
+            #..........#.#....#      EV: 10            Int: 10
+            #.........#.......#      ER:  0            Des: 10
+            #......###........#      NX: 1 Sig.:16%    Lugar:Dungeon:1
+            #.....#...........#      Ruido: =--------  Time: 30.8 (0.0)
+            #......#######.##.#      a) +2 dagger
+            #...@...#     ... #      Throw: 9 darts (poison)
+           #....)....#    ..#
+           +.........+
+           #.........#
+           ##.......##
+            ##.....##
+             ##...##
+              ##+##
+
+
+
+_Comando desconocido.
+_Tiene 0 oro pedazos.
+_Comando desconocido.
+ Es un nivel 1 Revenant Brigand. Es 16 2e la manera de nivel 4.
+ Play time: 00:01:24 (31 turns).
+ Zot will find you in 5969 turns if you stay in this branch and explore no new
+_floors.
+_Comando desconocido.
+

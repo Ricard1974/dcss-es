@@ -1,5 +1,17 @@
-ricard  dcss-es   (main)  ♥ 22:25  cd ~/proyectos/dcss-squashfs/squashfs-root/usr && env LANGUAGE
-=es ./bin/crawlooooo?omi%@>ooooo?omi
+           #..##  ##.......##        Saci HiaBot997Bot487 the Sneak
+           #.##    ##.....##         Revenante
+           #.#      ##...##          Salud:17/17       ========================
+           #.#       ##+##           Magia:1/1         ========================
+           #.#                       CA:  3            Fue: 14
+           #.#                       EV: 10            Int: 10
+           #.#                       ER:  0            Des: 10
+           #.#                       NX: 1 Sig.:16%    Lugar:Dungeon:1
+           #.#                       Ruido: ---------  Time: 89.8 (1.0)
+           #.########...             a) +2 dagger
+           #[...@l......             Throw: 9 darts (poison)
+           ##########.##
+
+                                     l   frilled lizard (asleep)
 
 
 
@@ -7,15 +19,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+_Comando desconocido.
+_Llavero presionado, parando explore.
+_Found a robe.
+_Te encuentras con a frilled lizard.
+_A frilled lizard comes into view.
+_A frilled lizard is nearby!
+_Ves aquí a +0 robe.
+_¡No puedes bajar aquí!
 

@@ -1,6 +1,24 @@
-cd ~/proyectos/dcss-squashfs/squashfs-root/usr && env LANGUAGE=es ./bin/crawlri
-card  dcss-es   (main)  ♥ 22:25  cd ~/proyectos/dcss-squashfs/squashfs-roo
-t/usr && env LANGUAGE=es ./bin/crawloooo
+Runes of Zot (0 collected) & Orbs of Power
+Runes of Zot
+     decaying rune of Zot (the Swamp)
+     barnacled rune of Zot (the Shoals)
+     serpentine rune of Zot (the Snake Pit)
+     gossamer rune of Zot (the Spider Nest)
+     silver rune of Zot (the Vaults)
+     abyssal rune of Zot (the Abyss)
+     slimy rune of Zot (the Pits of Slime)
+     demonic rune of Zot (Pandemonium)
+     glowing rune of Zot (Pandemonium)
+     magical rune of Zot (Pandemonium)
+     fiery rune of Zot (Pandemonium)
+     dark rune of Zot (Pandemonium)
+     bone rune of Zot (Tartarus)
+     obsidian rune of Zot (Gehenna)
+     icy rune of Zot (Cocytus)
+     iron rune of Zot (the Iron City of Dis)
+     golden rune of Zot (the Tomb of the Ancients)
+Orbs of Power
+     El Orbe de Zot (el Reino de Zot)
 
 
 
@@ -9,22 +27,4 @@ t/usr && env LANGUAGE=es ./bin/crawloooo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[!/^]: Show Gems
