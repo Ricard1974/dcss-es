@@ -47,11 +47,11 @@ You now have %d gold piece%s%s.|Ahora tienes %d pieza de oro%s%s.
 You now have %d runas.|Ahora tienes runas de %d.
 You pick up %s and begin reading...|Recoges %s y comienzas a leer...
 You pick up %s and begin studying.|Recoges %s y empiezas a estudiar.
-You pick up %s and feel its impossibly delicate weight in your %s.|Recoges %s y sientes su peso imposiblemente delicado en su %s.
+You pick up %s and feel its impossibly delicate weight in your %s.|Recoges %s y sientes tu peso imposiblemente delicado en tu %s.
 You pick up %s, but it has nothing more to teach you.|Recoge %s, pero no tiene nada más que enseñarte.
 You pick up %s. Unfortunately, it's quite useless to you.|Recoges %s. Por desgracia, es muy inútil para ti.
 You pick up another %s and continue studying.|Recoges otro %s y continúas estudiando.
-You pick up the %s rune and feel its power.|Recoges la runa %s y siente su poder.
+You pick up the %s rune and feel its power.|Recoges la runa %s y siente tu poder.
 You see here %s.|Ves aquí %s.
 You welcome %s%s into your grasp.|Acoges %s%s en tu poder.
 You whisper farewell to %s.|Susurras adiós a %s.

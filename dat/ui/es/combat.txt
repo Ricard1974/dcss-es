@@ -113,7 +113,7 @@ your the Royal Jelly|tu Jalea Real
 %s %s engulfed in a cloud of dizzying spores!|%s %s envuelto en una nube de esporas vertiginosas!
 %s %s engulfed in a cloud of soporific spores!|%s %s envuelto en una nube de esporas soporíficas!
 %s %s engulfed in flames%s|%s %s envolvido en llamas%s
-%s %s held in place!|%s %s mantenido en su lugar!
+%s %s held in place!|%s %s mantenido en tu lugar!
 %s %s life force from %s%s|%s %s fuerza de vida de %s%s
 %s %s one of %s heads off!|%s %s una de las cabezas de %s!
 %s %s shatters into small pieces.|%s %s rompe en piezas pequeñas.
@@ -123,7 +123,7 @@ your the Royal Jelly|tu Jalea Real
 %s %s%s %s%s%s%s%s|%s %s%s %s%s%s%s%s
 %s and strikes %s%s|%s y huelgas %s%s
 %s appears from out of thin air!|%s aparece de fuera del aire delgado!
-%s appears from out of your range of vision.|%s aparece de fuera de su gama de visión.
+%s appears from out of your range of vision.|%s aparece de fuera de tu gama de visión.
 %s blocks the %s with %s %s... and reflects it back!|%s bloquea el %s con %s %s.. y lo refleja de nuevo!
 %s blocks the %s.|%s bloquea el %s.
 %s crush%s %s against the %s%s|%s aplasta%s %s contra el %s%s
@@ -134,11 +134,11 @@ your the Royal Jelly|tu Jalea Real
 %s fire resistance burns away.|La resistencia al fuego %s se quema.
 %s fire resistance is stripped away!|¡La resistencia al fuego %s está despojada!
 %s is blasted smooth%s|%s es lisa de explosión %s
-%s is completely immune to your confusing touch!|%s es completamente inmune a su toque confuso!
+%s is completely immune to your confusing touch!|%s es completamente inmune a tu toque confuso!
 %s is dispelled%s|%s es dispelled%s
 %s is healed.|%s está curado.
 %s is seared by the foul flame within you%s|%s es sellado por la llama del alma dentro de ti%s
-%s is struck blind by the light of your shield.|%s es golpeado ciego por la luz de su escudo.
+%s is struck blind by the light of your shield.|%s es golpeado ciego por la luz de tu escudo.
 %s mind%s blasted%s|%s mind%s blasted%s
 %s poisons %s!|¡PlH1 venenos %s!
 %s seems less certain of %s magic.|%s parece menos cierto de la magia %s.
@@ -153,17 +153,17 @@ Something tries to affect you, but you %s.|Algo intenta afectarte, pero tú %s.
 The %s %s %s%s%s%s|%s %s %s%s%s%s
 The %s reflects off an invisible shield around %s!|¡El %s refleja un escudo invisible alrededor del %s!
 The bolas passes through %s!|¡Las bolas pasan por %s!
-The bolas warps around %s and binds %s in place!|Las bolas caen alrededor del %s y unen el %s en su lugar!
+The bolas warps around %s and binds %s in place!|Las bolas caen alrededor del %s y unen el %s en tu lugar!
 The eyeballs on your body gaze at %s.|Los globos oculares en tu cuerpo miran al %s.
 The magic binding %s to this plane unravels!|¡El %s mágico a este plano se desenvuelve!
 The mercury splashes!|¡El mercurio brota!
-You %s %s from behind!|¡Vosotros %s %s por detrás!
+You %s %s from behind!|¡ %s %s por detrás!
 You %s %s%s%s%s%s%s|%s %s%s%s%s%s%s
 You %s %s%s.| %s %s%s.
 You attempt to attack %s, but flinch away in fear!|¡Intentas atacar a %s, pero aflojar en miedo!
 You block the %s... and reflect it back!|Bloqueas el %s... y lo reflejan de nuevo!
-You cannot shoot with your %s while %s.|No puedes disparar con tu %s mientras que %s.
-You cannot throw/fire anything while %s.|No puedes tirar / disparar cualquier cosa mientras %s.
+You cannot shoot with your %s while %s.|No puedess disparar con tu %s mientras que %s.
+You cannot throw/fire anything while %s.|No puedess tirar / disparar cualquier cosa mientras %s.
 You catch %s completely off-guard!|¡Atrapas a %s completamente fuera de la guardia!
 You devour %s%s!|¡Devoras %s%s!
 You drain %s %s.|Drenas %s %s.
@@ -194,7 +194,7 @@ A beckoning whirlwind swirls around %s.|Un torbellino torbellino gira alrededor 
 A blast of power from the earth%s strikes %s!|¡Una explosión de poder de la tierra%s golpea a %s!
 A crocodile bursts forth beneath %s and grabs %s in its jaws!|¡Un cocodrilo sale bajo %s y agarra %s en sus mandíbulas!
 A flurry of magic pours from %s injured body!|¡Un rayo de magia derramada por el cuerpo herido de %s!
-A fragment of %s is already outside their body!|¡Un fragmento de %s ya está fuera de su cuerpo!
+A fragment of %s is already outside their body!|¡Un fragmento de %s ya está fuera de tu cuerpo!
 A fragment of %s soul is dislodged from %s body.|Un fragmento de alma %s está deslegada del cuerpo %s.
 A freezing vortex appears %s%s%s!|¡Un vórtice de congelación aparece %s%s%s!
 A giggling sprite leaps out and %s|Un gran sprite salta y %s
@@ -241,7 +241,7 @@ Held by monster #%d: %s at (%d,%d)|Celebrada por el monstruo #%d: %s en (%d,%d)
 I'm sorry, level %d is as high as you can go.|Lo siento, el nivel %d es tan alto como puedas.
 If you died right now, you'd get an extra life in %d.%02d levels' worth of XP.|Si murieras ahora, tendrías una vida extra en los niveles de %d.
 Improving (%d,%d) to total dist %d|Mejoramiento (%d,%d) para el total de dist %d
-In your confused state, you trip and fall %s%s.|En su estado confuso, tú tropieza y cae %s%s.
+In your confused state, you trip and fall %s%s.|En tu estado confuso, tú tropieza y cae %s%s.
 It %s %s.|%s %s.
 It tastes like %s.|Sabe como %s.
 It was %s.|Era %s.
@@ -259,7 +259,7 @@ Need a path for %s from (%d, %d) to (%d, %d), max. dist = %d|Necesita un camino 
 No %squiver actions available for cycling.%s|No %squiver acciones disponibles para el ciclismo. %s
 No builder logs are saved for %s.|No se guardan registros de constructores para %s.
 No such ego as: %s|Ningún ego como: %s
-Pain shudders through your %s!|Dolor escalofríos a través de su %s!
+Pain shudders through your %s!|Dolor escalofríos a través de tu %s!
 Partly explored, %s.|Parte explorada, %s.
 Piety needs to be between 0 and %d.|La piedad necesita estar entre 0 y %d.
 Plague seeps from the dead %s.|%s.
@@ -287,30 +287,30 @@ Stolen life floods into %s!|¡La vida robada se inunda en %s!
 Terrible wounds open up all over %s body!|¡Las heridas terribles se abren por todo el cuerpo de %s!
 Terrible wounds spread across more of %s body!|¡Las heridas terribles se extendieron a través de más cuerpo de %s!
 Thank you for shopping at %s!|¡Gracias por comprar en %s!
-That put a bit of spring back into your %s.|Eso puso un poco de primavera en su %s.
+That put a bit of spring back into your %s.|Eso puso un poco de primavera en tu %s.
 The %s %s %s!|¡El %s %s %s!
 The %s %s %s%s but does no damage.|El %s %s %s%s pero no daña.
 The %s %s %s%s%s%s|%s %s %s%s%s
 The %s %s %s.|%s %s %s.
 The %s arcs out of your line of sight!|¡Los arcos %s de tu línea de visión!
 The %s bounces off of thin air!|¡El %s rebota de aire delgado!
-The %s cannot attune %s to your%s body.|El %s no puede afinar %s a su cuerpo.
+The %s cannot attune %s to your%s body.|El %s no puede afinar %s a tu cuerpo.
 The %s feel%s cold and inert.|El %s se siente frío e inerte.
 The %s grounds out.|El %s está fuera.
 The %s is repelled.|El %s es repelido.
 The %s mimic %svanishes%s!|¡El %s mimic %svanishes%s!
-The %s misses you.|El %s te extraña.
+The %s misses you.|El %s te falla.
 The %s passes through %s.|El %s pasa por %s.
 The %s reflects off an invisible shield around %s!|El %s refleja un escudo invisible alrededor de %s!
 The %s shatters!|¡El %s se rompe!
 The %s suddenly appears!|¡El %s aparece de repente!
-The %s throb%s to your%s body.|El %s throb%s a su cuerpo%s.
+The %s throb%s to your%s body.|El %s throb%s a tu cuerpo%s.
 The %s%s flies open!|¡El %s%s vuela!
 The %s%s misses %s.|El %s%s pierde %s.
 The air sparks with electricity, shocking %s%s|El aire brilla con electricidad, %s%s impactante
 The bloodstain on %s disappears!|¡La mancha de sangre en %s desaparece!
 The bolas passes through %s!|¡Las bolas pasan por %s!
-The bolas warps around %s and binds %s in place!|Las bolas caen alrededor de %s y unen %s en su lugar!
+The bolas warps around %s and binds %s in place!|Las bolas caen alrededor de %s y unen %s en tu lugar!
 The dungeon shakes around %s!|¡La mazmorra se sacude alrededor de %s!
 The dying Royal Jelly spits out %s more jellies.|La jalea real moribunda escupe más jellies.
 The electricity discharges through %s%s|La electricidad se descarga a través de %s%s
@@ -356,7 +356,7 @@ Waypoint %d assigned to %s.|Waypoint %d asignado a %s.
 Waypoint %d re-assigned from %s to %s.|Waypoint %d reasigned from %s to %s.
 Welcome back to %s!|¡Bienvenido a %s!
 Welcome to %s!|¡Bienvenido a %s!
-With Pikel's spell broken, his former %s freedom.|Con el hechizo de Pikel roto, su antigua libertad %s.
+With Pikel's spell broken, his former %s freedom.|Con el hechizo de Pikel roto, tu antigua libertad %s.
 With a metallic buzz, %s clockwork bee launches itself at %s.|Con un zumbido metálico, la abeja de relojería %s se lanza en %s.
 Without enough magic to sustain it, your %s dissipates.|Sin suficiente magia para sostenerlo, tu %s disipa.
 Writing '%s' into save.|Escribir '%s' para salvar.
@@ -368,175 +368,175 @@ You %s %s through the gate.|%s %s a través de la puerta.
 You %s %s%s peal%s of thunder!|¡%s %s%s peal%s de trueno!
 You %s %s%s%s%s%s%s|%s %s%s%s%s%s
 You %s %s%s.|%s %s%s.
-You %s %s.|Tú %s %s.
+You %s %s.|%s %s.
 You %s %swards.|%s %swards.
 You %s a card...|%s una tarjeta...
-You %s carefully through the %s.|Tú %s cuidadosamente a través del %s.
-You %s downwards.|Tú %s hacia abajo.
-You %s into a shaft and drop %d floor%s!|Tú %s en un eje y soltar %d suelo%s!
-You %s the %s water.|Tú %s el agua de %s.
-You %s the altar of %s.|Tú %s el altar de %s.
-You %s the toxic bog.|Tú %s el bog tóxico.
+You %s carefully through the %s.|%s cuidadosamente a través del %s.
+You %s downwards.|%s hacia abajo.
+You %s into a shaft and drop %d floor%s!|%s en un eje y soltar %d suelo%s!
+You %s the %s water.|%s el agua de %s.
+You %s the altar of %s.|%s el altar de %s.
+You %s the toxic bog.|%s el bog tóxico.
 You %s towards %s!|¡%s hacia %s!
-You %sattack %s from above%s.|Tú %sattack %s de arriba de Ph3.
-You %sdetect the %s %s.|Tú %sdetect el %s %s.
-You also have %d voucher%s.|Tú también tiene %d vale%s.
-You are %d%% of the way to level %d.|Tú es %d% de la manera de nivel %d.
-You are %s empty-clawed.|Tú es %s vaciado.
+You %sattack %s from above%s.|%sattack %s de arriba de Ph3.
+You %sdetect the %s %s.|%sdetect el %s %s.
+You also have %d voucher%s.|también tiene %d vale%s.
+You are %d%% of the way to level %d.|es %d% de la manera de nivel %d.
+You are %s empty-clawed.|es %s vaciado.
 You are %s empty-handed.|Eres %s con las manos vacías.
-You are %s empty-tentacled.|Tú es %s vaciado.
-You are a level %d %s %s.|Tú es un nivel %d %s %s.
+You are %s empty-tentacled.|es %s vaciado.
+You are a level %d %s %s.|es un nivel %d %s %s.
 You are hurled through space towards %s monster%s!|¡Estás atravesado por el espacio hacia el %s monstruo%s!
 You are splashed with acid%s%s|Estás salpicado de ácido%s%s
 You are struck by an arc of lightning%s|Estás herido por un arco de relámpago %s
-You are struck by an electric surge%s|Tú es golpeado por un aumento eléctrico%s
+You are struck by an electric surge%s|es golpeado por un aumento eléctrico%s
 You are too depleted to draw on your %s recklessly!|¡Estás demasiado agotada para dibujar en tu %s de forma imprudente!
-You assemble %s and install it in your exoskeleton!|Tú monta %s e instalarlo en su exoskeleton!
+You assemble %s and install it in your exoskeleton!|monta %s e instalarlo en tu exoskeleton!
 You attack %s.|Ataque a %s.
 You attempt to attack %s, but flinch away in fear!|¡Intentas atacar a %s, pero temblar de miedo!
 You attempt to bind %s soul, but %s is merely a clone!|Intentas atar el alma %s, pero %s es simplemente un clon!
-You beckon %s vexing sprites to accompany your attacks.|Tú beckon %s sprites vexing para acompañar sus ataques.
+You beckon %s vexing sprites to accompany your attacks.|beckon %s sprites vexing para acompañar sus ataques.
 You begin with %s%s%s.|Empiezas con %s%s%s.
-You block %s.|Tú bloquea %s.
-You block %s... and reflect it back!|Tú bloqueas el %s y lo reflejas de nuevo!
-You block the %s.|Tú bloqueas el %s.
+You block %s.|bloquea %s.
+You block %s... and reflect it back!|bloqueas el %s y lo reflejas de nuevo!
+You block the %s.|bloqueas el %s.
 You block the %s... and reflect it back!|¡Bloqueas el %s y lo reflexionas!
-You briefly glimpse something next to %s.|Tú brevemente vislumbra algo al lado del %s.
+You briefly glimpse something next to %s.|brevemente vislumbra algo al lado del %s.
 You bump into %s.|Te chocas con %s.
 You can %s detect %s.|Puede detectar %s %s.
 You can no longer %s %s!|¡Ya no puedes %s %s!
 You can no longer hear %s singing!|¡Ya no puedes oír cantar %s!
 You can only make a %s on a floor square.|Sólo se puede hacer un %s en una plaza de piso.
-You can't %s into that!|¡No puedes meterte en eso!
-You can't %s onto %s!|¡No puedes %s en %s!
-You can't bribe %s or %s.|No puedes sobornar a %s o %s.
-You can't bribe %s.|No puedes sobornar a %s.
-You can't close doors while %s.|No puedes cerrar puertas mientras %s.
-You can't place the storm on %s.|No puedes poner la tormenta en %s.
-You can't repeat %s actions.|No puedes repetir acciones de %s.
-You can't shaft yourself while %s.|No puedes tirarte mientras %s.
-You can't transfer your ancestor with %s.|No puedes transferir tu antepasado con %s.
-You cannot %s away from %s!|¡No puede %s lejos de %s!
-You cannot %s closer to %s!|¡No puedes %s más cerca de %s!
-You cannot attack while %s.|No puedes atacar mientras %s.
-You cannot blinkbolt away from %s!|¡No puedes alejarte de %s!
-You cannot blinkbolt closer to %s!|¡No puedes acercarte a %s!
-You cannot call out to %s while %s.|No puedes llamar a %s mientras que %s.
-You cannot cast spells while %s!|¡No puedes lanzar hechizos mientras %s!
-You cannot leap away from %s!|¡No puedes saltar de %s!
-You cannot leap closer to %s!|¡No puedes saltar más cerca de %s!
-You cannot move away from %s!|¡No puedes alejarte de %s!
-You cannot move closer to %s!|¡No puedes acercarte a %s!
-You cannot occupy %s.|No puedes ocupar %s.
-You cannot shoot with your %s while %s.|No se puede disparar con su %s mientras que %s.
-You cannot speak a word of chaos while %s.|No puedes hablar una palabra de caos mientras %s.
-You cannot throw/fire anything while %s.|Tú no puede tirar / disparar cualquier cosa mientras %s.
-You cannot wall jump while caught in a %s.|No puedes saltar de pared mientras te atrapan en un %s.
+You can't %s into that!|¡No puedess meterte en eso!
+You can't %s onto %s!|¡No puedess %s en %s!
+You can't bribe %s or %s.|No puedess sobornar a %s o %s.
+You can't bribe %s.|No puedess sobornar a %s.
+You can't close doors while %s.|No puedess cerrar puertas mientras %s.
+You can't place the storm on %s.|No puedess poner la tormenta en %s.
+You can't repeat %s actions.|No puedess repetir acciones de %s.
+You can't shaft yourself while %s.|No puedess tirarte mientras %s.
+You can't transfer your ancestor with %s.|No puedess transferir tu antepasado con %s.
+You cannot %s away from %s!|¡No puedes %s lejos de %s!
+You cannot %s closer to %s!|¡No puedess %s más cerca de %s!
+You cannot attack while %s.|No puedess atacar mientras %s.
+You cannot blinkbolt away from %s!|¡No puedess alejarte de %s!
+You cannot blinkbolt closer to %s!|¡No puedess acercarte a %s!
+You cannot call out to %s while %s.|No puedess llamar a %s mientras que %s.
+You cannot cast spells while %s!|¡No puedess lanzar hechizos mientras %s!
+You cannot leap away from %s!|¡No puedess saltar de %s!
+You cannot leap closer to %s!|¡No puedess saltar más cerca de %s!
+You cannot move away from %s!|¡No puedess alejarte de %s!
+You cannot move closer to %s!|¡No puedess acercarte a %s!
+You cannot occupy %s.|No puedess ocupar %s.
+You cannot shoot with your %s while %s.|No se puede disparar con tu %s mientras que %s.
+You cannot speak a word of chaos while %s.|No puedess hablar una palabra de caos mientras %s.
+You cannot throw/fire anything while %s.|no puede tirar / disparar cualquier cosa mientras %s.
+You cannot wall jump while caught in a %s.|No puedess saltar de pared mientras te atrapan en un %s.
 You catch %s completely off-guard!|¡Atrapa al %s completamente fuera de la guardia!
-You challenge %s to single combat, but %s is merely a clone!|Tú desafia %s a un combate único, pero %s es meramente un clon!
+You challenge %s to single combat, but %s is merely a clone!|desafia %s a un combate único, pero %s es meramente un clon!
 You close the %s%s%s.|Cierra el %s%s%s.
-You create a dimensional link between your ranged weaponry and %s.|Tú crea un vínculo dimensional entre su armadura ampliada y %s.
-You deconstruct %s.|Tú deconstruye %s.
+You create a dimensional link between your ranged weaponry and %s.|crea un vínculo dimensional entre tu armadura ampliada y %s.
+You deconstruct %s.|deconstruye %s.
 You devour %s%s!|¡Devour %s%s!
 You devour the vestiges of %s's existence in your flames.|Devoras los vestigios de la existencia de %s en tus llamas.
-You dig through %s.|Tú cava a través de %s.
-You drain %s %s.|Tú drena %s %s.
+You dig through %s.|cava a través de %s.
+You drain %s %s.|drena %s %s.
 You draw out an echo of %s.|Sacas un eco de %s.
 You enter into single combat with %s!|Entras en combate único con %s!
-You escape %s grasp.|Tú escapas de %s.
+You escape %s grasp.|escapas de %s.
 You extract %smagical energy from the potion.|Extrae energía %smagical de la poción.
 You fail to reach past %s.|No alcanzas más allá de %s.
 You fall into the %s!|¡Te caes en el %s!
 You feel %s %s|Siente %s %s
 You feel %sdrained.|Te sientes %sdrained.
-You feel %sfirmly anchored in space.|Tú siente %sfirmly anclado en el espacio.
-You feel a %ssurge of power%s|Tú siente un %ssurge of power%s
+You feel %sfirmly anchored in space.|siente %sfirmly anclado en el espacio.
+You feel a %ssurge of power%s|siente un %ssurge of power%s
 You feel a bond with %s.|Siente un vínculo con %s.
-You feel life coursing into your body%s|Tú siente la vida coursing en su cuerpo%s
-You feel magic leave your %s.|Siente magia dejar su %s.
+You feel life coursing into your body%s|siente la vida coursing en tu cuerpo%s
+You feel magic leave your %s.|Siente magia dejar tu %s.
 You feel magic pooling in your %s.|Te sientes mágica en tu %s.
 You feel%s invigorated.|Siente que Ph1 se revitalizó.
 You feel%sguilty.|Siente a Ph1guilty.
-You fester in the toxic bog%s|Tú fester en el bog%s tóxico
+You fester in the toxic bog%s|fester en el bog%s tóxico
 You finish %s %s.|Acabas %s %s.
 You finish imprinting the physical structure of %s upon your paragon.|Acabas de imprimir la estructura física de %s en tu paragon.
 You focus your ray upon %s.|Centra tu rayo en %s.
 You freeze %s%s%s|Congela %s%s%s
-You grasp %s shadow with your own and put on a performance!|Tú agarra la sombra %s con su propio y poner en una actuación!
-You have %d gold piece%s.|Tú tiene %d oro pedazo%s.
+You grasp %s shadow with your own and put on a performance!|agarra la sombra %s con tu propio y poner en una actuación!
+You have %d gold piece%s.|tiene %d oro pedazo%s.
 You have %s %s.|Tiene %s %s.
 You have %s a buggy card!|¡Tienes %s una tarjeta de buggy!
-You have finished your manual of %s and %stoss it away.|Tú ha terminado su manual de %s y %stoss lejos.
-You heal %s.|Tú curas a %s.
+You have finished your manual of %s and %stoss it away.|ha terminado tu manual de %s y %stoss lejos.
+You heal %s.|curas a %s.
 You insert the %s rune into the lock.|Inserta la capa %s en la cerradura.
 You knock %s out of %s grip!|¡Nombras a %s fuera de la empuñadura de %s!
 You learned that %s %s actually %s.|Aprendiste que %s %s en realidad %s.
 You lock target on %s and prepare to deploy your bee.|Cierra el blanco en %s y prepárate para desplegar tu abeja.
 You lose your grip on %s soul.|Pierdes el control sobre el alma %s.
 You lunge%s at %s%s.|Pulsófilo1 en %s%s.
-You miscast %s.|Tú malinterpretó %s.
+You miscast %s.|malinterpretó %s.
 You nearly stumble into %s!|¡Casi tropiezas con %s!
 You need at least %d gold to offer a bribe.|Necesitas al menos oro %d para ofrecer un soborno.
 You need at least %d gold to purchase potions right now!|¡Necesita al menos oro %d para comprar pociones ahora mismo!
-You need at least %d runes to enter the Realm of Zot.|Tú necesita al menos %d runes para entrar en el reino de Zot.
+You need at least %d runes to enter the Realm of Zot.|necesita al menos %d runes para entrar en el reino de Zot.
 You need more space to imprison %s.|Necesitas más espacio para encarcelar a %s.
 You now have %d gold piece%s.|Ahora tienes %d pieza de oro%s.
 You pay a tithe of %d gold.|Pagas un diezmo de oro %d.
 You place your %s atop %s's lifeless body and utter a vengeful prayer.|Colocas tu %s sobre el cuerpo sin vida de %s y pronuncias una oración vengativa.
 You pounce on %s with bestial fury!|¡Ponte en %s con furia bestial!
 You pounce on the unaware %s!|¡Te cagas en el %s inconsciente!
-You push %s out of the way.|Tú empuja %s fuera del camino.
+You push %s out of the way.|empuja %s fuera del camino.
 You reach down and close the %s%s%s.|Alcanza y cierra el %s%s%s.
 You reflect %s with the mirror!|¡Reflexionas %s con el espejo!
 You release %s from your service.|Liberas a %s de tu servicio.
 You remember %s.|Te acuerdas de %s.
-You rip the existence from %s to re-knit yourself!|¡Tú madura la existencia de %s para volver a reconocerse!
+You rip the existence from %s to re-knit yourself!|¡madura la existencia de %s para volver a reconocerse!
 You sap %s willpower!|¡Sap %s fuerza de voluntad!
 You shatter the curse binding %s!|¡Rompiste el %s de la maldición!
 You shatter%s|Te destrozas
 You shudder from the %s and a %s!|¡Shudder del %s y un %s!
-You sink your fangs into %s and drain %s dry!|Tú frega sus colmillos en %s y drena %s seco!
-You sink your fangs into %s and drink %s %s.|Tú frega sus colmillos en %s y beber %s %s.
+You sink your fangs into %s and drain %s dry!|frega sus colmillos en %s y drena %s seco!
+You sink your fangs into %s and drink %s %s.|frega sus colmillos en %s y beber %s %s.
 You siphon power from %s's fading %s.|Tu poder de sifonía del %s desapareciendo %s.
 You slam the %s%s shut%s!|¡Llamaste al %s%s apagado!
-You smite %s%s|Tú golpea a %s%s
+You smite %s%s|golpea a %s%s
 You spin and attack %s%s%s.|Giras y atacas %s%s%s.
 You spit out %s as %s %s & %s in your maw!|¡Escupes %s como %s %s " %s en tu mandíbula!
 You stop %s your %s.|Detienes a %s tu %s.
 You sublimate a sliver of %s essence and reconstitute it in ice.|Sublimas un sliver de esencia %s y lo reconstituyes en hielo.
 You swap places with %s.|Cambias lugares con %s.
 You take a swig of the potion and twirl %s.|Tomas una ramita de la poción y twirl %s.
-You utter a prayer to Makhleb and carve the %s into yourself.|Tú pronuncia una oración a Makhleb y talla el %s en tú mismo.
+You utter a prayer to Makhleb and carve the %s into yourself.|pronuncia una oración a Makhleb y talla el %s en tú mismo.
 You wrap your dark will around %s soul!|¡Envuelves tu oscuro testamento alrededor del alma %s!
-You%s miss %s%s.|You%s extraña %s%s.
+Fallas%s %s%s.|You%s falla %s%s.
 You'll get an extra life in %d.%02d levels' worth of XP.|Tendrás una vida extra en los niveles de %d.
 You're confused, stopping %s.|Estás confundido, parando %s.
-You're in a travel-excluded area, stopping %s.|Tú está en un área excluida del viaje, parando %s.
-Your %s attune%s to your body, and you begin to %s.|Su %s attune%s a su cuerpo, y tú comienza a %s.
+You're in a travel-excluded area, stopping %s.|está en un área excluida del viaje, parando %s.
+Your %s attune%s to your body, and you begin to %s.|Tu %s attune%s a tu cuerpo, y tú comienza a %s.
 Your %s blocks %s... and reflects it back!|Tu %s bloquea el %s y lo refleja de nuevo!
 Your %s blocks the %s... and reflects it back!|Tu %s bloquea el %s y lo refleja de nuevo!
-Your %s burns with power once more.|Su %s se quema con energía una vez más.
+Your %s burns with power once more.|Tu %s se quema con energía una vez más.
 Your %s feel%s oddly empty.|Tu %s se siente extrañamente vacía.
 Your %s glows black for a moment.|Tu %s brilla negro por un momento.
 Your %s meld%s into your body.|Tu %s meld%s en tu cuerpo.
 Your %s misses %s.|Tu %s pierde %s.
 Your %s unmeld%s from your body.|Tu %s sin fundición de tu cuerpo.
-Your %s violently discharge electricity!|Su %s descarga violentamente la electricidad!
+Your %s violently discharge electricity!|Tu %s descarga violentamente la electricidad!
 Your attached jelly eats the %s!|¡Tu gelatina adjunta come el %s!
-Your attack delay is about %.1f%s%s.|Su retraso de ataque es aproximadamente %.1f%s%s.
+Your attack delay is about %.1f%s%s.|Tu retraso de ataque es aproximadamente %.1f%s%s.
 Your base attributes are Str %d, Int %d, Dex %d.|Sus atributos base son Str %d, Int %d, Dex %d.
 Your boots keep you from %s.|Tus botas te mantienen desde %s.
-Your brain swirls with designs for %s. You just need some more time...|Su cerebro gira con diseños para %s. Sólo necesitas más tiempo...
-Your damage rating with %s is about %s|Su calificación de daño con %s es sobre %s
+Your brain swirls with designs for %s. You just need some more time...|Tu cerebro gira con diseños para %s. Sólo necesitas más tiempo...
+Your damage rating with %s is about %s|Tu calificación de daño con %s es sobre %s
 Your fungus emits %s spores!|¡Tu hongo emite esporas %s!
 Your grip on %s soul is slipping...|Tu agarre en el alma %s se desliza...
-Your maw growls hungrily at the sight of %s, but you resist your urges.|Su mandíbula crece a la vista de %s, pero tú resiste sus impulsos.
+Your maw growls hungrily at the sight of %s, but you resist your urges.|Tu mandíbula crece a la vista de %s, pero tú resiste sus impulsos.
 Your maw growls hungrily at the sight of %s.|Tu mandíbula crece a la vista del %s.
-Your memory of %s unravels.|Su memoria de %s se desentraña.
+Your memory of %s unravels.|Tu memoria de %s se desentraña.
 Your mindless puppet%s behind%s.|Tu marioneta insensata%s detrás de%s.
 Your mouth is %s empty.|Tu boca está vacía.
 Your mutated metabolism churns, savouring the %s.|Tu metabolismo mutado brota, saboreando el %s.
-Your paragon deflects %s attack away from you.|Su paragon desvía el ataque %s lejos de usted.
+Your paragon deflects %s attack away from you.|Tu paragon desvía el ataque %s lejos de usted.
 Your summoned %s left behind.|Tu citada %s dejó atrás.
 Your tendrils lash around %s %s and pull it to the ground!|¡Tus pañuelos se revuelven alrededor de %s %s y lo tiran al suelo!
 Your will lashes out at %s%s|Tu testamento se desvanece en %s%s
