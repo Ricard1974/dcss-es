@@ -82,6 +82,12 @@ sed -i '/^#include "stringutil.h"/a #include "translation.h"' message.cc
 sed -i '/^static bool _doing_c_message_hook = false;/a \    text = tr(text);' message.cc
 echo "  ✓ message.cc modificado (_mpr traduce todos los mensajes)"
 
+# ── 8b. Aplicar tr() en do_message_print (traducir FORMATO antes de vsnprintf) ──
+echo ""
+echo "🔧 Aplicando tr() en do_message_print..."
+python3 "$PROJECT_DIR/scripts/fix_message_mprf.py" message.cc
+echo "  ✓ message.cc modificado (do_message_print traduce formato con %s)"
+
 # ── 9. Aplicar tr() calls a cio.cc (wrapcprintf - panel derecho de stats) ──
 echo ""
 echo "🔧 Aplicando tr() calls a cio.cc..."
