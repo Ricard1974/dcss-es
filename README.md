@@ -106,6 +106,85 @@ Esto verifica:
 
 ---
 
+## 🌍 Cómo traducir a otro idioma
+
+La infraestructura de traducción ya está lista. No hace falta modificar código C++
+para añadir un nuevo idioma. Los parches existentes (`tr()` en los puntos de
+salida) funcionan para cualquier idioma.
+
+### Archivos a traducir (56 en total)
+
+| Grupo | Archivos | Descripción |
+|---|---|---|
+| UI | 10 | Menús, comandos, barra de estado, nombres |
+| Descript | 23 | Descripciones de monstruos, objetos, hechizos, etc. |
+| Database | 23 | FAQ, speech de monstruos, nombres, ayuda |
+
+### Pasos
+
+```bash
+# 1. Crear directorios para el nuevo idioma
+#    (código ISO 639-1: fr, pt, de, it, etc.)
+LANG=pt  # cambiar al código deseado
+
+mkdir -p translations/ui/$LANG translations/descript/$LANG
+mkdir -p dat/ui/$LANG dat/descript/$LANG dat/database/$LANG
+
+# 2. Copiar originales en inglés como base
+cp dat/ui/*.txt translations/ui/$LANG/ 2>/dev/null
+cp dat/descript/*.txt translations/descript/$LANG/
+cp dat/database/*.txt dat/database/$LANG/
+
+# 3. Traducir los archivos
+#    Opción A: manualmente (recomendado para calidad)
+#    Opción B: con LibreTranslate (rápido, requiere revisión)
+#      Los scripts existentes protegen automáticamente:
+#      - $cmd[...] / $item[...] (comandos del juego)
+#      - @The_monster@, @player_name@ (placeholders)
+#      - <tags> HTML (formato)
+#      - %%%% (separadores de entrada)
+#      - %s, %d, %f (format strings)
+
+# 4. Compilar (los parches C++ ya funcionan)
+bash scripts/build_con_traducciones.sh
+
+# 5. Configurar el idioma
+echo "language = $LANG" >> ~/.crawl/init.txt
+```
+
+### Protección de patrones
+
+Al traducir con herramientas automáticas, estos patrones deben protegerse
+(reemplazar con placeholders antes de traducir y restaurar después):
+
+| Patrón | Ejemplo | Proteger |
+|---|---|---|
+| `$cmd[...]` | `$cmd[CMD_REST]` | ✅ Siempre |
+| `$item[...]` | `$item[gold]` | ✅ Siempre |
+| `@...@` | `@The_monster@` | ✅ Siempre |
+| `<...>` | `<w>`, `<input>`, `<bat>` | ✅ Siempre |
+| `%%%%` | Separador de entrada | ✅ Siempre |
+| `%s`, `%d`, `%f` | Format strings | ✅ Siempre |
+| `<<...>>` | `<<query>>` | ✅ Siempre |
+| `[[...]]` / `{{...}}` | Código Lua | ✅ Siempre |
+
+### Tiempo estimado
+
+| Método | Tiempo | Calidad |
+|---|---|---|
+| LibreTranslate automático | ~2-3 horas | Aceptable, requiere revisión |
+| Traducción manual | Semanas | Excelente |
+| Híbrido (automático + revisión) | ~1 semana | Buena |
+
+### Notas importantes
+
+- Los archivos `.txt` se cargan en tiempo de ejecución (no necesitan recompilación)
+- Solo los cambios en `source/*.cc` necesitan recompilar
+- El verificador `scripts/verify.py` detecta problemas estructurales
+- Las caches SQLite en `~/.crawl/saves/db/` deben eliminarse al cambiar de idioma
+- No usar "usted" en español (tuteo: "tú")
+- Las claves de entrada (primera línea tras `%%%%`) deben permanecer en inglés
+
 ## 📄 Licencia
 
 GPLv2+ (igual que Dungeon Crawl Stone Soup)
