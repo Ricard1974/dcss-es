@@ -536,7 +536,7 @@ Your memory of %s unravels.|Tu memoria de %s se desentraña.
 Your mindless puppet%s behind%s.|Tu marioneta insensata%s detrás de%s.
 Your mouth is %s empty.|Tu boca está vacía.
 Your mutated metabolism churns, savouring the %s.|Tu metabolismo mutado brota, saboreando el %s.
-Your paragon deflects %s attack away from you.|Tu paragon desvía el ataque %s lejos de usted.
+Your paragon deflects %s attack away from you.|Tu paragon desvía el ataque de %s lejos de ti.
 Your summoned %s left behind.|Tu citada %s dejó atrás.
 Your tendrils lash around %s %s and pull it to the ground!|¡Tus pañuelos se revuelven alrededor de %s %s y lo tiran al suelo!
 Your will lashes out at %s%s|Tu testamento se desvanece en %s%s
@@ -708,7 +708,7 @@ t - %s!|t - %s!
 %s is briefly surrounded by a scintillating aura of|%s está brevemente rodeado por un aura centelleante
 %s is briefly surrounded by shifting shadows.|%s está brevemente rodeado por sombras cambiantes.
 %s is covered with a thin layer of ice!|%s está cubierto con una capa delgada de hielo!
-%s is dragged along with you!|%s se arrastra junto con usted!
+%s is dragged along with you!|%s es arrastrado junto a ti!
 %s is drained!|%s es drenado!
 %s is engulfed in flames!|%s está envuelto en llamas!
 %s is engulfed in spores.|%s está envuelto en esporas.
@@ -752,7 +752,7 @@ t - %s!|t - %s!
 %s quivers with indignation.|%s con indignación.
 %s radiates an overwhelming force.|%s irradia una fuerza abrumadora.
 %s reflects off an invisible shield around %s!|%s refleja un escudo invisible alrededor del %s!
-%s reflects your damage back at you!|%s refleja su daño de nuevo en usted!
+%s reflects your damage back at you!|¡%s te devuelve tu daño!
 %s regains %s memory of %s.|%s recupera %s la memoria del %s.
 %s responds to your shapeshifting skill and transforms into a %s!|%s responde a su habilidad de modelado y se transforma en un %s!
 %s rises to serve you!|%s se levanta para servirte!
@@ -810,7 +810,7 @@ t - %s!|t - %s!
 %s thrums with vital power.|%s trompas con poder vital.
 %s toxic aura wanes.|%s tóxico aura wanes.
 %s trance deepens.|%s Trance profundiza.
-%s turns %s attention back to you.|%s gira %s atención de nuevo a usted.
+%s turns %s attention back to you.|%s dirige %s atención de nuevo hacia ti.
 %s turns %s attention towards your shadow.|%s gira %s atención hacia tu sombra.
 %s unleashes a %s howl, %s|%s desencadena un %s howl, %s
 %s vibrate%s crazily for a second.|%s vibrar%s crazily por un segundo.
@@ -836,7 +836,7 @@ Mushrooms sprout behind %s.|Los hongos brotan detrás del %s.
 Now building '%s'|Ahora construyendo '%s'
 On %d of %d; %d g, %d fail, %u err%s, %u uniq,|En %d de %d; %d g, %d fail, %u err%s, %u uniq,
 On %s; %d g, %d fail, %u err%s, %u uniq,|En %s; %d g, %d fail, %u err%s, %u uniq,
-Placing %s on top of you would put part of the|Colocar %s encima de usted podría poner parte de
+Placing %s on top of you would put part of the|Colocar %s encima de ti podría poner parte de
 Reading tile_names[%d] = %s|Tile names [%d] = %s
 Setting crawl_dir to `%s`.|Ajuste de gate dir a `%s`.
 Successfully placed %s.|Puso exitosamente %s.
@@ -872,7 +872,7 @@ tilename %s (index %d) resolves to tile %d|tilename %s (index %d) resuelve el ti
 %s searing ray is interrupted.|%s Se interrumpe el rayo de sellado.
 %sraining target %d.%d for %s reached!|%sraining target %d %d para %s alcanzado!
 (%2d,%2d): %s%s|%2d, %2d] %s %s]
-Placing %s on top of you would put part of the|Colocar %s encima de usted podría poner parte de la
+Placing %s on top of you would put part of the|Colocar %s encima de ti podría poner parte de la
 There is no room for %s to move out of your way!|No hay lugar para %s para salir de su camino!
 With a deafening crack, the ground splits apart in the path of %s|Con una grieta ensordecedora, el suelo se separa en el camino de %s
 You crush the flux bauble in your %s and feel its energy|Usted aplasta el bauble de flujo en su %s y siente su energía

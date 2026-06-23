@@ -1695,7 +1695,7 @@ Your %s mutation feels more permanent.|Su mutación %s se siente más permanente
 Your %s shines brightly!|¡Tu %s brilla brillantemente!
 Your %s%s skill %s %d levels and is now|Su %s%s habilidad %s %d niveles y ahora
 Your %s%s skill %s to level %d!|Su habilidad %s%s %s para nivel %d!
-Your bribe of %s has been exhausted.|Su soborno de %s ha sido agotado.
+Your bribe of %s has been exhausted.|Tu soborno de %s se ha agotado.
 Your power is siphoned away as the spells of %s are empowered!|Su poder está apagado ya que los hechizos de %s están habilitados!
 Your scales start taking on %s colour.|Sus escalas comienzan a tomar el color %s.
 Zot senses the otherworldly energies of your %s gem, and will|Zot siente las energías del otro mundo de su gema %s, y voluntad

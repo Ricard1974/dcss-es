@@ -536,7 +536,7 @@ Your memory of %s unravels.|Tu memoria de %s se desentraña.
 Your mindless puppet%s behind%s.|Tu marioneta insensata%s detrás de%s.
 Your mouth is %s empty.|Tu boca está vacía.
 Your mutated metabolism churns, savouring the %s.|Tu metabolismo mutado brota, saboreando el %s.
-Your paragon deflects %s attack away from you.|Tu paragon desvía el ataque %s lejos de usted.
+Your paragon deflects %s attack away from you.|Tu paragon desvía el ataque de %s lejos de ti.
 Your summoned %s left behind.|Tu citada %s dejó atrás.
 Your tendrils lash around %s %s and pull it to the ground!|¡Tus pañuelos se revuelven alrededor de %s %s y lo tiran al suelo!
 Your will lashes out at %s%s|Tu testamento se desvanece en %s%s
@@ -582,3 +582,319 @@ You hit the hobgoblin but do no damage.|Golpeas the hobgoblin pero sin hacer da�
 You kill the ball python!|Matas the ball python!
 You kill the hobgoblin!|Matas the hobgoblin!
 The percentage of incoming experience used to train each skill is in brown.|The percentage of incoming experience used to train each skill is in brown.
+
+# === Nuevas entradas (traducción automática 20260624) ===
+# ============================================================================
+%s|%s
+t - %s!|t - %s!
+%-10s : %s|%-10s : %s
+%8s%s|%8s%s
+%d slime creatures are ejected from %s body as it begins to warp and change.|%d Las criaturas de eslime son expulsadas del cuerpo %s cuando comienza a warp y cambiar.
+%s %s|%s %s
+%s %s a Word of immense power!|%s %s Una Palabra de inmenso poder!
+%s %s a mighty blast of ice!|%s %s una gran explosión de hielo!
+%s %s a prism of %s energy!|%s %s un prisma de energía %s!
+%s %s a servant imbued with %s destructive magic!|%s %s un sirviente imbuido con %s magia destructiva!
+%s %s blasted with magical radiation%s|%s %s volado con radiación mágica%s
+%s %s dances into the air!|%s %s baila en el aire!
+%s %s erupts in a glittering mayhem of colour.|%s %s erupta en un reluciente caos de color.
+%s %s flashes viciously!|%s %s flashes vicioso!
+%s %s free of %s!|%s %s libre de %s!
+%s %s green for a %s.|%s %s verde para un %s.
+%s %s healed.|%s %s curado.
+%s %s in the rain.|%s %s en la lluvia.
+%s %s intact enough to wear.|%s %s lo suficientemente intacto para usar.
+%s %s into flame!|%s %s en llamas!
+%s %s knocked back by the blast.|%s %s golpeado por la explosión.
+%s %s no magical effects to unravel.|%s %s no efectos mágicos para desentrañar.
+%s %s shrouded in protective flame, covering ground quickly, and attacking fiercely!|%s %s revoloteado en llamas protectoras, cubriendo terreno rápidamente, y atacando ferozmente!
+%s %s suddenly forward!|%s %s repentinamente adelante!
+%s %s the poison in %s surroundings!|%s %s el veneno en %s entorno!
+%s %s to skill level %.1f.|%s %s al nivel de habilidad %.1f.
+%s %s%s!|%s %s%s!
+%s %s.|%s %s.
+%s (%d).|%s (%d).
+%s abandons %s pursuit.|%s abandona la persecución %s.
+%s absorbs %d nearby slime creatures and %s.|%s absorbe %d criaturas cercanas y %s.
+%s absorbs a nearby slime creature and %s.|%s absorbe una criatura slime cercana y %s.
+%s acquires a faint afterimage.|%s adquiere una débil posimage.
+%s allies are healed!|%s Los aliados están curados!
+%s animating energy erupts into ghostly fire!|%s animar la energía erupta en fuego fantasmal!
+%s answers %s call!|%s respuestas %s llamada!
+%s answers its master's command!|%s responde al comando de su maestro!
+%s answers the call of your %s!|%s responde la llamada de su %s!
+%s appears from thin air!|%s aparece del aire delgado!
+%s appears in a burst of %s!|%s aparece en una explosión de %s!
+%s appears in a puff of smoke.|%s aparece en un humo.
+%s appears out of thin air!|%s aparece fuera del aire delgado!
+%s appears to be closed.|%s parece estar cerrado.
+%s appears.|%s aparece.
+%s attack snaps %s out of %s fear.|%s ataque rompe %s del miedo %s.
+%s attempts to avoid another deathblow, but is too exhausted to transform.|%s intenta evitar otro destructor, pero está demasiado agotado para transformarse.
+%s avoids your attack.|%s evita tu ataque.
+%s becomes as fragile as glass!|%s se vuelve tan frágil como el vidrio!
+%s becomes entangled by vines.|%s se enreda por las vides.
+%s becomes incredibly heavy!|%s se vuelve increíblemente pesado!
+%s becomes viciously sharp.|%s se vuelve ferozmente agudo.
+%s begins to collapse.|%s comienza a colapsar.
+%s begins to crumble.|%s comienza a desmoronarse.
+%s begins to die.|%s comienza a morir.
+%s begins to drip with poison!|%s comienza a gotear con veneno!
+%s begins to exert an overwhelming pressure.|%s comienza a ejercer una presión abrumadora.
+%s begins to ooze corrosive slime!|%s comienza a ooze corrosive slime!
+%s blue arc%s ground%s harmlessly.|%s azul arc%s ground%s inofensivamente.
+%s bone magically twists into %s.|%s hueso mágicamente retorce en %s.
+%s bounces off of thin air!|%s rebota de aire delgado!
+%s bursts from %s!|%s estalla de %s!
+%s bursts into flame!|%s revienta en llamas!
+%s calls forth a shade to shield themselves.|%s llama a una sombra para protegerse.
+%s calls on %s to defend %s!|%s llama a %s para defender %s!
+%s can't be transferred there.|%s no se puede transferir allí.
+%s cannot be bound by the sigil due to %s high momentum!|%s no puede ser atado por el sigil debido a %s de alto impulso!
+%s chant is interrupted.|%s El canto se interrumpe.
+%s clockwork bee locks its sights upon %s.|%s La abeja de reloj bloquea sus vistas sobre %s.
+%s clockwork bee winds down and falls to the ground.|%s la abeja de reloj baja y cae al suelo.
+%s collapses into a mass of ice!|%s colapsa en una masa de hielo!
+%s commands the forest to attack, but nothing happens.|%s ordena que el bosque ataque, pero nada sucede.
+%s construct%s an explosive harbinger and set it loose.|%s construct%s un harbinger explosivo y soltarlo.
+%s continues winding %s clockwork bee....|%s continúa enrollando %s abeja de relojería....
+%s corrupts the dungeon around %s!|%s corrompe la mazmorra alrededor del %s!
+%s crackles with electricity.|%s grietas con electricidad.
+%s craves living souls!|%s anhela almas vivas!
+%s crumbles against %s.|%s se desmorona contra %s.
+%s crumbles to dust!|%s se desmorona al polvo!
+%s crushes %s against %s and falls apart!|%s aplasta %s contra %s y se desmorona!
+%s dances into the air!|%s baila en el aire!
+%s decides where it goes, can't place where you are.|%s decide dónde va, no puede colocar dónde está.
+%s deploys a bomblet.|%s implementa una bomba.
+%s dismount%s %s crocodile.|%s dismount%s %s cocodrilo.
+%s dives back into the %s!|%s inmersiones de nuevo en el %s!
+%s draws nearby shadows into %s.|%s dibuja sombras cercanas en %s.
+%s drips with poison.|%s gotas con veneno.
+%s drops %s.|%s gotas %s.
+%s emerges from the mists of memory!|%s emerge de las neblinas de la memoria!
+%s enhances the healing.|%s mejora la curación.
+%s enhances the restoration.|%s mejora la restauración.
+%s erupts in a glittering mayhem of colour.|%s erupta en un reluciente caos de color.
+%s erupts in a tangle of vines.|%s brota en un enredo de vides.
+%s explodes violently into a cloud of jellies%s|%s explota violentamente en una nube de jellies%s
+%s explodes violently%s|%s explota violentamente%s
+%s falls apart, but nothing grows.|%s se separa, pero nada crece.
+%s falls away from you.|%s se aleja de ti.
+%s falls away%s!|%s se cae %s!
+%s falls away.|%s se cae.
+%s falls from %s now dead mount.|%s cae de %s ahora montura muerta.
+%s falls into the %s!|%s cae en el %s!
+%s feels dull in your %s.|%s se siente aburrido en su %s.
+%s feels only hate for you!|%s sólo siente odio por ti!
+%s finishes expelling the %s from %s %s.|%s termina expulsando el %s del %s %s.
+%s fires at %s!|%s fuegos a %s!
+%s floods into %s %s!|%s inundaciones en %s %s!
+%s forges a skittering defender to stand by %s side.|%s forja a un defensor esquiador para estar al lado %s.
+%s freezes in fear!|%s se congela en el miedo!
+%s gaze reveals you to all!|%s La mirada te revela a todos!
+%s gleams with a vicious edge.|%s gleams con un borde vicioso.
+%s glints wickedly in the shadows.|%s brilla perversamente en las sombras.
+%s glows red for a %s.|%s brilla rojo por un %s.
+%s goes dull.|%s va aburrido.
+%s goes still.|%s sigue.
+%s grants you divine vigour.|%s te otorga vigor divino.
+%s grasp on you weakens, but your attempt to escape fails.|%s agarrarte debilita, pero tu intento de escapar falla.
+%s has departed this plane of existence.|%s ha salido de este plano de la existencia.
+%s hums with potential!|%s hums con potencial!
+%s is abraded by the %s and falls apart.|%s está abrasado por el %s y se desmorona.
+%s is attracted toward you.|%s es atraído hacia ti.
+%s is briefly mesmerised by your gaze.|%s es brevemente mesmerizado por tu mirada.
+%s is briefly surrounded by a scintillating aura of|%s está brevemente rodeado por un aura centelleante
+%s is briefly surrounded by shifting shadows.|%s está brevemente rodeado por sombras cambiantes.
+%s is covered with a thin layer of ice!|%s está cubierto con una capa delgada de hielo!
+%s is dragged along with you!|%s es arrastrado junto a ti!
+%s is drained!|%s es drenado!
+%s is engulfed in flames!|%s está envuelto en llamas!
+%s is engulfed in spores.|%s está envuelto en esporas.
+%s is forced from your body%s!|%s es forzado de tu cuerpo%s!
+%s is freed from %s curse.|%s es liberado de la maldición %s.
+%s is freed.|%s es liberado.
+%s is hit by a flying piece of %s!|%s es golpeado por un pedazo volador de %s!
+%s is immovably fixed there.|%s está inmóvilmente fijado allí.
+%s is in the way!|%s está en el camino!
+%s is in the way.|%s está en el camino.
+%s is knocked back by %s.|%s es devuelto por %s.
+%s is mesmerised by %s!|%s es mesmerizado por %s!
+%s is no longer %s.|%s ya no es %s.
+%s is not feeling wrathful today.|%s no se siente ira hoy.
+%s is not nearby!|%s no está cerca!
+%s is pinned by gravity.|%s está marcado por la gravedad.
+%s is pinned to %s own shadow.|%s está clavado a %s propia sombra.
+%s is recalled away.|%s es retirado.
+%s is splashed with acid%s|%s es salpicada con ácido%s
+%s is still trapped in memory!|%s sigue atrapado en la memoria!
+%s is struck by an arc of lightning%s|%s es golpeada por un arco de rayos%s
+%s is struck by an electric surge%s|%s es golpeado por un aumento eléctrico%s
+%s is torn apart as %s grows in its place.|%s se desgarra mientras %s crece en su lugar.
+%s is unaffected.|%s no es afectado.
+%s knocks down a tree!|%s derriba un árbol!
+%s life force is offered up.|%s fuerza de vida se ofrece.
+%s liquefies the ground around %s!|%s licua el suelo alrededor del %s!
+%s looks even more glass-like.|%s parece aún más vidrio-como.
+%s looks sick.|%s parece enfermo.
+%s loses %s grip on your mind.|%s pierde %s agarre en su mente.
+%s loses %s in your eye%s.|%s pierde %s en tu ojo%s.
+%s magic leaks into the air.|%s filtraciones mágicas en el aire.
+%s merges with something you can't see.|%s se fusiona con algo que no puedes ver.
+%s messages will be %s.|%s Los mensajes serán %s.
+%s moves away as you attempt to %s it!|%s se aleja mientras intentas %s it!
+%s orb emits a pulse of dizzying energy.|%s orb emite un pulso de energía mareada.
+%s orb unleashes a flurry of shooting stars!|%s orb desencadena un rayo de estrellas disparadoras!
+%s picks up %s.|%s recoge %s.
+%s projects an invisible shield of force!|%s proyecta un escudo invisible de fuerza!
+%s quivers in your %s.|%s acolchados en tu %s.
+%s quivers with indignation.|%s con indignación.
+%s radiates an overwhelming force.|%s irradia una fuerza abrumadora.
+%s reflects off an invisible shield around %s!|%s refleja un escudo invisible alrededor del %s!
+%s reflects your damage back at you!|¡%s te devuelve tu daño!
+%s regains %s memory of %s.|%s recupera %s la memoria del %s.
+%s responds to your shapeshifting skill and transforms into a %s!|%s responde a su habilidad de modelado y se transforma en un %s!
+%s rises to serve you!|%s se levanta para servirte!
+%s sacrifices itself to reknit %s!|%s se sacrifica para reknit %s!
+%s sculpt%s a cannon out of ice!|%s esculpido%s un cañón fuera de hielo!
+%s sculpt%s a pair of cannons out of ice!|%s esculpido%s un par de cañones fuera de hielo!
+%s scurries out from under your cloak.|%s corre por debajo de tu capa.
+%s seems to be corroded for longer.|%s parece ser corroído por más tiempo.
+%s seems to burn from within%s|%s parece quemar desde dentro%s
+%s seems to draw %s out of %s!|%s parece sacar %s de %s!
+%s seems to step out of %s!|%s parece salir de %s!
+%s send%s a boulder barrelling forward!|%s enviar%s un barril de roca hacia adelante!
+%s sends you backwards.|%s te envía hacia atrás.
+%s separates from %s.|%s separa del %s.
+%s settles down.|%s se establece.
+%s shadow slips away and your performance ends.|%s sombra se escapa y su rendimiento termina.
+%s shatters%s|%s destrozas%s
+%s shimmers and seems to become %s!|%s brilla y parece convertirse en %s!
+%s shimmers and splits apart.|%s brilla y se separa.
+%s sits dull and lifeless in your grasp.|%s se sienta aburrido y sin vida a su alcance.
+%s slams into %s and falls apart!|%s golpea en %s y se desmorona!
+%s slides %s you!|%s diapositivas %s you!
+%s slides away as you move %s it!|%s se desliza mientras se mueve %s it!
+%s slides away from you right after you %s it!|%s se aleja de ti justo después de ti %s it!
+%s slips past %s!|%s pasa por el %s!
+%s smites you!|%s te golpea!
+%s snaps out of %s daze.|%s sale de %s daze.
+%s softly glows with a divine radiance!|%s brilla suavemente con un resplandor divino!
+%s soul is no longer bound.|%s El alma ya no está atada.
+%s spells are empowered by the prayer of brilliance!|%s los hechizos están empoderados por la oración de brillantez!
+%s spells grow weaker yet longer.|%s los hechizos se debilitan aún más.
+%s spells grow weaker.|%s los hechizos crecen más débiles.
+%s spits out %s more jellies.|%s escupe %s más jellies.
+%s spits out another jelly.|%s escupe otra gelatina.
+%s splits.|%s divisiones.
+%s steals %d gold piece%s!|%s roba %d pieza de oro%s!
+%s steals %d of %s!|%s roba %d de %s!
+%s steals %s!|%s roba %s!
+%s stops crackling.|%s deja de romperse.
+%s stops dripping with poison.|%s deja de gotear con veneno.
+%s stops flaming.|%s deja de inflamar.
+%s stops glowing and disappears.|%s deja de brillar y desaparece.
+%s stops glowing.|%s deja de brillar.
+%s stops oozing corrosive slime.|%s deja de ondear el eslime corrosivo.
+%s stops quivering.|%s deja de molestar.
+%s stops radiating force.|%s deja de irradiar fuerza.
+%s stops singing.|%s deja de cantar.
+%s stops winding %s clockwork bee.|%s deja de enrollar %s abeja de relojería.
+%s suddenly %s %s!|%s repentinamente %s %s!
+%s suddenly %sand looks braver for a moment!|%s repentinamente %s y parece más valiente por un momento!
+%s swap%s with %s!|%s swap%s con %s!
+%s swoops through the air toward %s!|%s golpea a través del aire hacia %s!
+%s thirsts for the lives of mortals!|%s sed de la vida de los mortales!
+%s throws %s %s!|%s lanza %s %s!
+%s thrums with vital power.|%s trompas con poder vital.
+%s toxic aura wanes.|%s tóxico aura wanes.
+%s trance deepens.|%s Trance profundiza.
+%s turns %s attention back to you.|%s dirige %s atención de nuevo hacia ti.
+%s turns %s attention towards your shadow.|%s gira %s atención hacia tu sombra.
+%s unleashes a %s howl, %s|%s desencadena un %s howl, %s
+%s vibrate%s crazily for a second.|%s vibrar%s crazily por un segundo.
+%s violently %s moving%s|%s violentamente %s mudanza%s
+%s was always %s, you're pretty sure.|%s era siempre %s, estás bastante seguro.
+%s watery aura covers %s.|%s aura acuosa cubre %s.
+%s willpower is stripped away!|%s ¡El poder de voluntad está despojado!
+%s wind%s %s clockwork bee back up and it locks its sights upon %s!|%s wind%s %s relojero volver arriba y cierra sus vistas sobre %s!
+%s won't bless this monster for you!|%s no bendecirá a este monstruo por ti!
+%s would be completely unfazed by your meagre offer of peace.|%s sería completamente infalible por su mera oferta de paz.
+%s!|%s!
+%s%s|%s%s
+%s.|%s.
+%s: Target out of reach! What now?|%s: ¡Objetivo fuera del alcance! ¿Ahora qué?
+(You can now cast %s.)|(Ahora puedes lanzar %s.)
+Aborting sim on %s|Sim abortando en %s
+Distance too great, don't attempt pathfinding! (%s)|Distancia demasiado grande, no intentes encontrar el camino. (%s)
+Found #%d: %s (\|Encontrado #%d: %s (\
+Gravity reorients to the %s!|Reordenaciones de gravedad a la %s!
+Mipmap Setup: Disabled because OpenGL version: %s does not|Mipmap Setup: Discapacitados porque OpenGL versión: %s no
+Mipmap Setup: success, loaded with OpenGL version: %s|Configuración Mipmap: éxito, cargado con versión OpenGL: %s
+Mushrooms sprout behind %s.|Los hongos brotan detrás del %s.
+Now building '%s'|Ahora construyendo '%s'
+On %d of %d; %d g, %d fail, %u err%s, %u uniq,|En %d de %d; %d g, %d fail, %u err%s, %u uniq,
+On %s; %d g, %d fail, %u err%s, %u uniq,|En %s; %d g, %d fail, %u err%s, %u uniq,
+Placing %s on top of you would put part of the|Colocar %s encima de ti podría poner parte de
+Reading tile_names[%d] = %s|Tile names [%d] = %s
+Setting crawl_dir to `%s`.|Ajuste de gate dir a `%s`.
+Successfully placed %s.|Puso exitosamente %s.
+There is no room for %s to move out of your way!|¡No hay lugar para que el %s salga de tu camino!
+With a deafening crack, the ground splits apart in the path of %s|Con una grieta ensordecedora, el suelo se separa en el camino del %s
+With a frightful flash, the power of Zot shatters your %s gem|Con un flash espantoso, el poder de Zot rompe tu gema %s
+You can't survive in this terrain! You fly above the %s, but the|¡No puedes sobrevivir en este terreno! Vuelas por encima del %s, pero el
+You crush the flux bauble in your %s and feel its energy|Usted aplasta el bauble de flujo en su %s y siente su energía
+You feel %s rip itself from your throat,|Siente %s rasgarse de su garganta,
+You feel a strong urge to %s, but|Usted siente un fuerte impulso a %s, pero
+You lift the black torch aloft and begin your conquest of %s in|Usted levanta la antorcha negra y comienza su conquista de %s en
+Your %s briefly %s through it before you manage|Su %s brevemente %s a través de ella antes de gestionar
+Zot senses the otherworldly energies of your %s gem, and will|Zot siente las energías del otro mundo de tu gema %s, y voluntad
+tilename %s (index %d) resolves to tile %d|tilename %s (index %d) resuelve el tile %d
+%s %d, %s %d: %d|%s %d, %s %d: %d]
+%s %s %s grip on %s.|%s %s %s] agarrar %s].
+%s %s constricted%s%s|%s %s %s %s]
+%s %s discharges%s, shocking %s%s|%s %s descargas %s, impactantes %s %s]
+%s %s in %s.|%s %s en %s.
+%s %s struck by %s %s.|%s %s golpeado por %s %s].
+%s %s yanked forward by the %s.|%s %s Yanked forward by the %s.
+%s %s%sinvigorated by your prowess.|%s %s %s vigorizado por su proeza.
+%s (%d)(%s:%d)|%s (%d)(%s: %d])
+%s and strikes %s%s%s|%s y huelgas %s %s %s
+%s barrels into %s%s|%s barriles en %s %s
+%s blocks %s with %s %s... and reflects it back!|%s bloques %s con %s %s] ... y lo refleja de nuevo!
+%s command%s %s explosives to detonate!|%s comando %s %s explosivos para detonar!
+%s conjure%s some %s!|%s conjure %s algunos %s!
+%s is briefly surrounded by a scintillating aura of|%s está brevemente rodeado por un aura centelleante
+%s oozes corrosive slime.|%s rezuma corrosiva.
+%s reforms as %s.|%s reformas como %s.
+%s riposte%s.|%s madura %s.
+%s searing ray is interrupted.|%s Se interrumpe el rayo de sellado.
+%sraining target %d.%d for %s reached!|%sraining target %d %d para %s alcanzado!
+(%2d,%2d): %s%s|%2d, %2d] %s %s]
+Placing %s on top of you would put part of the|Colocar %s encima de ti podría poner parte de la
+There is no room for %s to move out of your way!|No hay lugar para %s para salir de su camino!
+With a deafening crack, the ground splits apart in the path of %s|Con una grieta ensordecedora, el suelo se separa en el camino de %s
+You crush the flux bauble in your %s and feel its energy|Usted aplasta el bauble de flujo en su %s y siente su energía
+You lift the black torch aloft and begin your conquest of %s in|Usted levanta la antorcha negra y comienza su conquista de %s
+
+# === Traducciones manuales para los que LibreTranslate no pudo ===
+%s %s frozen%s|%s %s congelado%s
+%s %s knocked back%s%s.|%s %s empujado hacia atrás%s%s.
+%s corrodes %s!|¡%s corroe a %s!
+%s glares at %s!|¡%s fulmina con la mirada a %s!
+%s goads %s on!|¡%s incita a %s!
+%s hits %s.|%s golpea a %s.
+%s shreds %s%s|%s desgarra a %s%s
+%s shudders%s.|%s se estremece%s.
+%s song is interrupted.|La canción de %s es interrumpida.
+%s searing ray is interrupted.|El rayo abrasador de %s es interrumpido.
+%s oozes corrosive slime.|%s supura limo corrosivo.
+%s twitches for a moment.|%s se retuerce por un momento.
+%s vents fumes.|%s emite vapores.
+Flames lash %s%s.|Las llamas azotan a %s%s.
+%s %s a mimic!|¡%s %s un imitador!
+%s assumes the form of %s%s!|¡%s asume la forma de %s%s!
+%s festers in the toxic bog%s|%s se pudre en el pantano tóxico%s
+Miscasting school %s.|Invocación fallida de la escuela %s.
+Miscasting spell %s.|Invocación fallida del hechizo %s.
