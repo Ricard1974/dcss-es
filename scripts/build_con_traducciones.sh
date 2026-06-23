@@ -36,6 +36,12 @@ echo "🔧 Añadiendo names.txt a la lista de carga..."
 sed -i '/"misc.txt"/a \    "names.txt",' translation.cc
 echo "  ✓ names.txt añadido a s_ui_files"
 
+# ── 2c. Fix: no filtrar líneas que empiezan con %s (claves de combate) ──
+echo ""
+echo "🔧 Arreglando filtro de líneas en translation.cc..."
+sed -i 's/line\[0\] == '\''%'\''/line.substr(0,2) == "%%"/' translation.cc
+echo "  ✓ translation.cc: filtro corregido (%s ya no se descarta)"
+
 # ── 3. Añadir translation.o a la lista de objetos ──
 echo ""
 echo "🔧 Añadiendo translation.o a Makefile.obj..."
