@@ -104,3 +104,1587 @@ splatter|slatter
 squash|squash
 tentacle-slap|pértiga de la bofetada
 thrash|silencio
+Anything else - Cancel.|Cualquier otra cosa - Cancelar.
+* * * LOW MAGIC WARNING * * *|* * * * LOW MAGIC WARNING * *
+A ballistomycete grows from the ground.|Una balaistomycete crece desde el suelo.
+A being of your status worships no god.|Un ser de tu estatus no adora a ningún dios.
+A briar patch grows up from the ground.|Un parche brillante crece desde el suelo.
+A cannonade of hail descends around you!|¡Un cañón de granizo desciende a tu alrededor!
+A chill wind blows around you.|Un viento frío sopla alrededor tuyo.
+A cloud of jellies burst out of %s as the current|Una nube de jellies estalló de ZZ001ZZZZ como la corriente
+A cloud of volatile blastmotes flares up around you! Run!|¡Una nube de blastmotes volátiles brilla alrededor tuyo! ¡Corre!
+A cursed item is preventing you from removing %s.|Un objeto maldecido le impide quitar %sZZ.
+A demonic guardian appears!|¡Un guardián demoníaco aparece!
+A divine shield manifests in front of you!|¡Un escudo divino se manifiesta delante de ti!
+A donation of $%d amounts to an|Una donación de $ZZ001ZZZZ asciende a una
+A door shatters!|¡Una puerta se rompe!
+A door slams shut!|¡Una puerta se cierra!
+A dragon appears.|Un dragón aparece.
+A dragon arrives to answer your call!|¡Un dragón llega para responder a tu llamada!
+A dragon tries to answer your call, but you don't have enough|Un dragón intenta responder a tu llamada, pero no tienes suficiente
+A draining tide of despair and horror washes over you and your surroundings!|¡Una marea drenante de desesperación y horror se lava sobre y sus alrededores!
+A fierce wind blows from the card.|Un viento feroz sopla de la tarjeta.
+A film of ice covers your body!|¡Una película de hielo cubre tu cuerpo!
+A flood of memories washes over you.|Una inundación de recuerdos te lava.
+A forested plane collides here with a resounding crunch!|¡Un avión boscoso choca aquí con una ronca!
+A freezing vortex appears out of thin air!|¡Un vórtice de congelación aparece fuera del aire delgado!
+A huge vortex of air appears!|¡Un enorme vórtice de aire aparece!
+A jealous %s pursues it!|¡Un ZZ001ZZZZ celoso lo persigue!
+A lumbering aparatus takes shape within a cloud of fumes.|Un aparato lúcido toma forma dentro de una nube de vapores.
+A magic seal in the Gauntlet prevents you from|Un sello mágico en el Gauntlet te impide
+A magical barricade bars your way!|¡Una barricada mágica te abre el camino!
+A malignant aura surrounds %s.|Un aura maligno rodea %sZZ.
+A mana viper appears with a sibilant hiss.|Un mana viper aparece con un sibilante suyo.
+A mighty gale blasts forth from the card!|¡Una poderosa chica sale de la tarjeta!
+A mysterious force pulls you upwards.|Una fuerza misteriosa te empuja hacia arriba.
+A nearby %s withers and dies.|Un %sZ cercano se marchita y muere.
+A part of your body evaporates into steam!|¡Una parte de tu cuerpo se evapora en vapor!
+A prickly colossus appears in a rush of desert wind.|Un prísculo coloso aparece en una prisa de viento del desierto.
+A profound silence engulfs you.|Un profundo silencio te envuelve.
+A protective cloak of flame settles atop you.|Un manto protector de la llama se asienta sobre ti.
+A rebellious %s escapes with it!|¡Un rebelde ZZ001ZZZZZ escapa con él!
+A red film seems to cover your vision as you go berserk!|¡Una película roja parece cubrir tu visión mientras vas a ser idiota!
+A rock-encrusted egg appears nearby and begins to stir.|Un huevo tallado en roca aparece cerca y comienza a revolver.
+A sentinel's mark forms upon you.|La marca de un centinela forma sobre ti.
+A shaft appears beneath you!|¡Un pozo aparece debajo de ti!
+A shower of butterflies erupts from you!|¡Una ducha de mariposas erupta de ti!
+A sizzling cloak of flame settles atop your icy armour.|Un manto de llama deslumbrante se asienta sobre tu helada armadura.
+A swirling arc of seething chaos appears!|¡Parece un arco giratorio de caos verdor!
+A tentacle flies out from the starspawn's body!|¡Un tentáculo sale del cuerpo del almidón!
+A tentacle reaches out from the kraken!|¡Un tentáculo sale del kraken!
+A thick mucus forms on %s.|Un mucoso grueso forma en ZZ001ZZZZ.
+A tiny devil pulls itself out of the air.|Un diminuto diablo se saca del aire.
+A traitorous %s dares provoke your wrath!|¡Un traidor ZZ001ZZZZZ se atreve a provocar tu ira!
+A tree falls to the furious winds!|¡Un árbol cae a los vientos furiosos!
+A wave of cold passes over you.|Te pasa una ola de frío.
+A wave of despondency washes over your surroundings.|Una ola de despondencia se lava sobre sus alrededores.
+A wave of disorienting energy ripples outward as you feel the reach of Zot diminish.|Una ola de energía desorientadora madura hacia fuera mientras sientes que el alcance de Zot disminuye.
+A web moves frantically as something is caught in it!|Una web se mueve frenéticamente como algo se atrapa en ella!
+Acid dripping from the walls corrodes you.|El ácido goteo de las paredes te corroe.
+Acquirement failed, stopping early.|El requisito falló, parando temprano.
+Additionally, it isn't alive.|Además, no está vivo.
+Adjust (g)ear, (s)pells, (a)bilities,|Ajuste (g)ear, (s)pells, (a)bilities,
+Adjust to which letter?|¿Ajustar a qué carta?
+Adjust to which letter?|¿Ajustar a qué carta?
+Adjust which ability?|¿Ajustar qué habilidad?
+Adjust which spell?|¿Ajustar qué hechizo?
+All of a sudden the net rips apart!|¡De repente la red se rompe!
+All vaults are now eligible for [re]use.|Todas las bóvedas son ahora elegibles para [re]uso.
+Already doing a move command.|Ya estoy haciendo un comando de movimiento.
+Already placed specialized|Ya colocado especializado
+Alright, then stay!|¡Bien, entonces quédate!
+Also at (%d, %d): %s, midx = %d|También en (%dZ, ZZ002ZZZ): %sZ, midx = ZZ004Z
+An aura of fear fills the air!|¡Un aura del miedo llena el aire!
+An electric hum fills the air.|Un hum eléctrico llena el aire.
+An evil force gathers, but it quickly dissipates.|Una fuerza maligna se reúne, pero rápidamente se disipa.
+An external divine halo illuminates you.|Un halo divino externo te ilumina.
+An iron grate is ripped into pieces!|¡Una rejilla de hierro es arrancada en pedazos!
+An oklob plant grows from the ground.|Una planta de oklob crece desde el suelo.
+An unnatural silence engulfs you.|Un silencio antinatural te envuelve.
+Ancestor HP restored.|Ancestro HP restaurado.
+Angry insects swarm out of your body to defend their hive!|Insectos enojados enjambre fuera de su cuerpo para defender su colmena!
+Annotate which branch? (. - %s, ? - help, ! - show branch list)|¿Anotar qué rama? (. - %sZ, ? - ayuda, ! - Mostrar lista de ramas)
+Anything you acquired here would fall and be lost!|¡Cualquier cosa que adquiriera aquí caería y se perdería!
+Apply blessing of the (S)hining One?|Aplicar la bendición del (S)hining One?
+Arrived at target.|Llegado al objetivo.
+As motes of dream dust float from an unseen source, %s falls asleep.|Como motes de polvo de sueño flotan de una fuente invisible, ZZ001ZZZZZ se duerme.
+As the last of your armour is driven back to|Como el último de tu armadura es llevado de vuelta a
+As the sheep sparkle%s and sway%s, %s falls asleep.|Mientras las ovejas brillanZZ001ZZZZ y swayZ002ZZZZZ, ZZ003ZZZZ se duerme.
+As you close the %s%s%s, it creaks loudly!|Al cerrar el ZZ001ZZ%sZ%sZZ, se crea fuerte!
+As you die, Zot loses track of you.|Mientras mueres, Zot pierde tu rastro.
+As you enter the new level, Zot loses track of you.|Al entrar en el nuevo nivel, Zot pierde la pista de usted.
+As you open the %s%s, it creaks loudly!|¡A medida que abres el ZZ001ZZ%sZ, se crea fuerte!
+Ashenzari invites you to partake of a vision|Ashenzari te invita a participar en una visión
+Attempting to channel buggy spell: %s|Intento canalizar el hechizo buggy: ZZ001ZZ
+BUG WARNING: Problems unlinking item '%s', (%d, %d)!!!|Advertencia: Problemas sin conexión artículo 'ZZ001ZZZZZ', (%dZ, ZZ003ZZZZ)!!!
+Bad (disconnected) level on %s%s|Nivel de mal (desconectado) en ZZ001ZZZZZ002Z
+Bad bindkey bracketing in '%s'|Bad bindkey fijación en 'ZZ001ZZZZZZ'
+Bad custom_text_colours: %s\n|Bad custom text colours: ZZ001ZZ\n
+Bad item|Artículo malo
+Bad monster_list_colour key: %s\n|Mal monstruo list color clave: ZZ001ZZ\n
+Bad name for item name cache: %s|Bad name for item name cache: ZZ001ZZZ
+Bad stat: %d|Bad stat: ZZ001ZZZ
+Bad unique tracking: %s placed=%d was_set=%d is_set=%d|Rastreo único: ZZ001ZZ placed=Z002ZZZ was set=ZZZ003ZZ is set=ZZ004Z
+Banning ready() after %d throttles|Banning ready() after ZZ001ZZZZ
+Barbed spikes become lodged in your body.|Los picos de cama se alojan en su cuerpo.
+Beep! Your pager goes off! Use _ to check your messages.|¡Beep! ¡Tu paginador se va! Use para comprobar sus mensajes.
+Beogh appreciates your bravery.|Beogh aprecia tu valentía.
+Beogh is disappointed with your cowardice.|Beogh está decepcionado con tu cobardía.
+Beogh sends your followers elsewhere.|Beogh envía a tus seguidores a otra parte.
+Beogh will not strike down an ally of the cause.|Beogh no atacará un aliado de la causa.
+Beware, the minotaur awaits!|Cuidado, el minotauro espera!
+Beware, you cannot shaft yourself on this level.|Ten cuidado, no puedes echarte en este nivel.
+Bitter cold erupts, blasting rock from the ceiling!|¡Erupción de fríos amargos, explosión de roca del techo!
+Blessed fire suddenly surrounds you!|¡El fuego bendito de repente te rodea!
+Bogosity: env.mgrid at (%d,%d) points at %s,|Bogosity: env.mgrid at (ZZ001ZZZ,%dZ) points at ZZ003ZZZ,
+Bogus monster type %d at (%d, %d), midx = %d|Bogus monstruo tipo ZZ001ZZZZ en (ZZ002ZZZZ, %d), midx = ZZZ004ZZ
+Bones file exists but can't be opened: %s|El archivo de huesos existe pero no se puede abrir: %s
+Bones file to back up doesn't exist: %s|El archivo de huesos para respaldar no existe: %s
+Book-keeping error in faction member count:|El error de contabilidad en el miembro de la facción cuenta:
+Book-keeping says faction_a has negative active members.|Book-keeping dice faction a tiene miembros activos negativos.
+Book-keeping says faction_b has negative active members.|Book-keeping dice faction b tiene miembros activos negativos.
+Both factions alive but one declared the winner.|Ambas facciones vivas pero una declaró el ganador.
+Both sides dead.|Ambos lados muertos.
+Both you and the monster are silenced, so you likely|Tanto tú como el monstruo están silenciados, así que probablemente
+Branch %d (%s) is on %s|Branch ZZ001ZZZZ (ZZ002ZZZZ) está en ZZZ003ZZ
+Branch %d (%s) was not generated|Branch ZZ001ZZZZ (ZZ002ZZZZ) was not generated
+Brought monster down to 1 HP.|Traje monstruo a 1 HP.
+Bug in determining level exit.|Error para determinar la salida del nivel.
+Buggy note passed: unknown note type|Nota de Buggy aprobada: tipo de nota desconocido
+Builder paused after veto; use &ctrl-r to resume.|El constructor se detuvo después del veto; utilizar &ctrl-r para reanudar.
+But you're too far away!|¡Pero estás demasiado lejos!
+By Zin's power, all blood is cleared from the sanctuary.|Por el poder de Zin, toda la sangre está limpia del santuario.
+By Zin's power, all foul fumes within the sanctuary|Por el poder de Zin, todos los humos sucios dentro del santuario
+By Zin's power, the %s is contained.|Por el poder de Zin, el %s está contenido.
+By Zin's power, the foul cloud within the sanctuary|Por el poder de Zin, la nube nefasta dentro del santuario
+CLua bindings not available on this build!|CLua no está disponible en esta construcción!
+Call _pick_zot_exit_defender()|Llamada pick zot exit defender()
+Calm down first, please.|Cálmate primero, por favor.
+Can only enter spell level for schools, not spells.|Sólo puede entrar el nivel de ortografía para las escuelas, no hechizos.
+Can't change a useless skill.|No puedo cambiar una habilidad inútil.
+Can't find anything matching that.|No encuentro nada que coincida con eso.
+Can't give equipped items to a monster.|No puedo dar elementos equipados a un monstruo.
+Can't go down from the bottom of a branch.|No puedo bajar del fondo de una rama.
+Can't make already dead target miscast.|No puedo hacer que el destino muerto sea un error.
+Can't re-do previous command from within a macro.|No puede volver a hacer el comando anterior desde dentro de una macro.
+Can't set duration directly to 0, setting it to 1 instead.|No se puede fijar la duración directamente a 0, configurando a 1 en su lugar.
+Can't write %s: %s|No se puede escribir ZZ001ZZZ: ZZ002ZZ
+Can't write to acquirement_stats.txt: %s|No se puede escribir a acquirement stats.txt: ZZ001ZZ
+Can't write to randart_stats.txt: %s|No se puede escribir a randart stats.txt: ZZ001ZZ
+Cancelling contest at user request|Cancelación de concurso a petición del usuario
+Cancelling grand finale due to HUP.|Cancelando el gran final por HUP.
+Cancelling leap due to HUP.|Salto de cancelación por HUP.
+Cancelling line pass due to HUP.|Pase de línea de cancelación por HUP.
+Cancelling simulation.\n|Cancelación de simulación
+Cancelling wall jump due to HUP.|Cancelación de salto de pared debido a HUP.
+Cannot bind command #%d to a key.|No se puede atar el comando #ZZ001ZZZZZ a una llave.
+Cannot bind command '%s' to a key.|No se puede atar el comando '%sZ' a una llave.
+Cannot bind synthetic keys to a command.|No puede atar las llaves sintéticas a un comando.
+Cannot bind user function keys to a command.|No puede vincular las teclas de función del usuario a un comando.
+Cannot find that spell.|No puedo encontrar ese hechizo.
+Cannot generate encompass map '%s' with check_collision=true|No se puede generar abarcar el mapa 'ZZ001ZZZZZ' con check collision=true
+Cannot move out of bounds.|No puedo salir de los límites.
+Cannot rest while time is frozen.|No puede descansar mientras el tiempo está congelado.
+Careful! %s|¡Cuidado! ZZZ001ZZ
+Careful! You are now flying above %s.|¡Cuidado! Ahora estás volando por encima de ZZ001ZZZZZZ.
+Cast which spell?|¿De qué hechizo?
+Cast which spell? (? or * to list)|¿Repartir qué hechizo? (? o * a lista)
+Casting: <w>%s</w> <lightgrey>(%s)</lightgrey>|Casting: √ĪoZZ001ZZZZZE1/w Intitulado(%sZZZ) realizado/lightgrey titulado
+Cherry-coloured flames burn away your fire|Llamas de color cereza queman tu fuego
+Choose a destination!|¡Elija un destino!
+Choose band members...|Elija miembros de la banda...
+Chose main temple %s, size %u|Chose templo principal ZZ001ZZZZZ, tamaño %u
+Cleared annotation.|Anotación limpia.
+Clearing monster memory.|Despejar memoria monstruosa.
+Clearing quiver.|Quiver despejado.
+Clearing travel trail.|Sendero de viaje despejado.
+Clouds appear around your foes!|¡Las nubes aparecen alrededor de tus enemigos!
+Clouds arounds you coalesce and take form!|Nubes alrededor de coalesce y tomar forma!
+Clouds condense from the air!|¡Las nubes se condensan del aire!
+Confirm with . or Enter, or press|Confirmar con . o entrar, o presionar
+Controlled teleport interrupted by HUP signal,|Telepuerto controlado interrumpido por señal HUP,
+Could not|No
+Could not allocate item.|No podía asignar el artículo.
+Could not create fixed level randart spellbook: %s|No podía crear randart de nivel fijo: %s
+Could not put monster adjacent to player.|No podía poner monstruo adyacente al jugador.
+Couldn't find font '%s', falling back on '%s'|No pude encontrar la fuente 'ZZ001ZZZZZ', cayendo de nuevo en '%s'
+Couldn't find overflow temple|No pude encontrar el templo desbordante
+Couldn't find overflow temple map '%s'!|No pude encontrar el mapa desbordamiento del templo 'ZZ001ZZZ'!
+Couldn't find overflow temple tag '%s'!|No pude encontrar el templo desbordamiento etiqueta 'ZZ001ZZZ'!
+Couldn't find ray between player and stairs.|No pude encontrar rayos entre el jugador y las escaleras.
+Couldn't find table.|No pude encontrar mesa.
+Couldn't open %s for writing!|¡No podía abrir ZZ001ZZZZZ para escribir!
+Couldn't place overflow temple '%s',|No podía colocar el templo desbordamiento 'ZZ001ZZZZ',
+Couldn't read %s: %s|No podía leer %s: ZZ002ZZ
+Couldn't try casting monster spell because there is|No podría tratar de lanzar hechizo monstruo porque hay
+Couldn't try casting monster spell because you're|No pude probar el hechizo de monstruo casting porque eres
+Create what kind of feature mimic?|¿Crear qué tipo de micro característica?
+Create which feature?|¿Crear qué función?
+Creating a passage of Golubria requires sufficient empty|Crear un pasaje de Golubria requiere suficiente vacío
+Current level annotation: <lightgrey>%s</lightgrey>|Anotación de nivel actual:
+Currently generating level.|Actualmente generando nivel.
+Data directory '%s' found.|El directorio de datos "%s" encontrado.
+Deactivating autopickup; reactivate with <w>%s</w>.|Desactivar el autopickup; reactivar con .w contactoZZ001ZZSe indica/w contactos.
+Dead mon also at (%d, %d): %s,|Dead mon also at (ZZ001ZZZZ, ZZ002ZZZ): %s,
+Dead monster %s in transit list in saved game, ignoring.|Monstruo muerto ZZ001ZZZZ en lista de tránsito en juego salvado, ignorando.
+Death convert attempt on %s, HD: %d,|Death convert attempt on ZZ001ZZZZ, HD: ZZ002ZZZ,
+Death has come for you....|La muerte ha venido por ti...
+Demonic plants sprout up around you!|¡Las plantas demónicas brotan alrededor tuyo!
+Discarded %d spells due to being uncastable and|Desvelado ZZ001ZZZZ hechizos debido a ser incastable y
+Dismissing non-respawner %s to make room for|Desestimación de ZZ001ZZZ no reciclador
+Don't expect to remain undetected while in the water.|No esperes permanecer sin ser detectado mientras en el agua.
+Done exploring.|Hecho de exploración.
+Done waiting.|Hecho esperando.
+Doom befalls you....|La muerte te cae...
+Edit which duration (name)?|Editar qué duración (nombre)?
+Electricity arcs towards the magnetite!|¡La electricidad se dirige hacia la magnetita!
+Electricity surges outward!|¡La electricidad se eleva hacia afuera!
+Emergency fixup: removing player from wall|Arreglo de emergencia: eliminación del jugador de la pared
+Enter command to be repeated:|Ingrese el comando para ser repetido:
+Enter fail:|Ingrese el fallo:
+Enter level, fail:|Entrar nivel, fallar:
+Enter monster name (or MONS spec) (? for help):|Ingrese el nombre del monstruo (o la especie MONS) (? para ayuda):
+Enter monster name (or MONS spec):|Ingrese el nombre del monstruo (o la especie MONS):
+Enter name of item (or ITEM spec):|Escriba el nombre del artículo (o la especificación ITEM):
+Enter new experience level:|Introduzca nuevo nivel de experiencia:
+Enter new gold value (current = %d, Enter for %d):|Introduzca nuevo valor de oro (actual = ZZ001ZZZZ, Enter for %d):
+Enter new interest (current = %d, Enter for 0):|Introduzca nuevo interés (current = ZZ001ZZZZ, Enter for 0):
+Enter new piety value (current = %d, Enter for 0):|Introduzca nuevo valor piety (current = ZZ001ZZZZZ, Enter for 0):
+Enter values for Str, Int, Dex (space separated):|Introduzca valores para Str, Int, Dex (espacio separado):
+Enter values for X, Y, Z (space separated) or return:|Introduzca valores para X, Y, Z (espacio separado) o retorno:
+Error backing up bones file to %s|Archivo de huesos a ZZ001ZZZZ
+Error installing bones file to %s|Archivo de huesos de instalación de error a ZZ001ZZZ
+Error opening file '%s'|Archivo de apertura de error 'ZZ001ZZZZ'
+Error parsing consumable mapping: '%s'\n|Cartografía computarizada de errores: 'ZZ001ZZZZ'\n
+Error parsing slot mapping: '%s'\n|Cartografía de la tragaperras de errores: 'ZZ001ZZZZ'\n
+Error, exp for monster with no damage: %s|Error, exp para monstruo sin daño: ZZ001ZZZZZZZ
+Error, no hint for '%s'.|Error, no hay indicio de '%s'.
+Error, no message for '%s'.|Error, sin mensaje para 'ZZ001ZZZZZ'.
+Even you can't go there right now. Sorry!|Incluso no puedes ir allí ahora mismo. ¡Lo siento!
+Evokers recharged.|Evokers recargado.
+Exercising...|Exerciante...
+Extra life!|¡Vida extra!
+Faction_a real winner.|Faction un verdadero ganador.
+Faction_b real winner.|Faction b ganador real.
+Failed to create corpse.|Falló para crear cadáver.
+Failed to create monster.|Failed to create monstruo.
+Failed to generate item for '%s'|Failed to generate item for 'ZZ001ZZZZZZ
+Failed to load Lua persist table: %s|Failed to load Lua persist table: ZZ001ZZZ
+Failed to load icon '%s': %s\n|Failed to load icon 'ZZ001ZZZZZZ': ZZ002ZZ\n
+Failed to load map %s in dgn_safe_place_map,|Failed to load map ZZ001ZZZ in dgn safe place map,
+Failed to load map, reloading all maps (%s).|Failed to load map, reloading all maps (%sZZ).
+Failed to lock %s: %s|Failed to lock ZZ001ZZZ: ZZ002ZZ
+Failed to save Lua data: %s|Failed to save Lua data: ZZ001ZZ
+Failed to unlink bones file: %s|Failed to unlink bone file: ZZ001ZZZ
+Failed to unlink probably corrupt bones file: %s|Failed to unlink probably corrupt bone file: ZZ001ZZZ
+Failure to give mutation.|No dar mutación.
+Failure to toggle bane.|Incumplimiento de la prohibición.
+Fake item as gift from which god (ENTER to leave alone):|Tema falso como regalo del cual Dios (ENTER para dejar solo):
+Fall back!|¡Retrocedan!
+Fatal lua error%s: %s|Error de lua fatalZZ001ZZZ: ZZ002ZZ
+Finish your current sermon first, please.|Termina tu sermón actual primero, por favor.
+Finish your current ziggurat first!|¡Termina tu ziggurat actual primero!
+Fixed bad positions for inventory slots %s|Posiciones fijas malas para las ranuras de inventario ZZ001ZZ
+Fixing up corrupted PlaceInfo for %s (levels_seen is %d)|Fijación de PlaceInfo corrupto para ZZ001ZZZ (levels seen is ZZ002ZZZ)
+Fixing up incorrect heavenly storm key|Arreglar la clave de la tormenta celestial incorrecta
+Flames leap up around you!|Flames salta a tu alrededor!
+Flasks of reagents rain from above!|¡Lluvias de reactivos desde arriba!
+Floating monster: %s at (%d,%d), midx = %d|Monstruo flotante: ZZ001ZZZZ en (ZZ002ZZZZ,%d), midx = ZZZ004ZZ
+Floor items (stacks only show top item):|Piezas de piso (sólo los elementos principales):
+Flushing non-empty key buffer|Búfer de llave no vacía
+Flushing non-empty key buffer (Buffer is '%s')|Búfer de llave sin vacío (Buffer es 'ZZ001ZZZZ)
+Follow me!|¡Sígueme!
+For just a moment, %s begins to|Por un momento, ZZ001ZZZ comienza a
+Found no space to place monster.|No hay espacio para colocar monstruo.
+Found no temp mutations, clearing.|No encontró mutaciones temporales, despejando.
+Further, it thinks it's out of bounds.|Además, cree que está fuera de límites.
+Generate stats for: [a] acquirement [b] randart properties|Generar estadísticas para: [a] adquisición [b] propiedades randart
+Generating dungeon map stats|Generar estadísticas de mapa de mazmorras
+Ghost damage: %d; brand: %d; att_type: %d;|Daño fantasma: ZZ001ZZZZ; marca: ZZ002ZZZ; att type: ZZ003ZZZ;
+Got result: %s!|Resultado: %sZ!
+Gozag's golden gift will leave your new mouth|El regalo dorado de Gozag dejará tu nueva boca
+Guard this area!|¡Guarda esta zona!
+HD=%d/%d HP=%d/%d AC=%d(%d) EV=%d(%d) WL=%d XP=%d SP=%d|HD=Z0Z=Z010Z
+HP restored.|HP restaurado.
+Healing.|Sanando.
+Heavy smoke blows from the lock!|¡El humo pesado sopla de la cerradura!
+Help! Non-existent shop.|¡Ayuda! Tienda inexistente.
+Here's the shortest path:|Aquí está el camino más corto:
+Hydra spec wants %d heads, clamping to 20.|Hydra spec quiere cabezas ZZ001ZZZZZZZZ, aferrarse a 20.
+If you continue, your game will not be scored!|Si continúas, tu juego no será marcado!
+If you linger in this branch much longer, the power of Zot will|Si linger en esta rama mucho más tiempo, el poder de Zot será
+If you tried to rewind gears in your present state, you'd only break them.|Si intentas rebobinar los engranajes en tu estado actual, solo los romperías.
+Ignoring fixed artefact property %s with|Ignorar la propiedad de artefactos fijos ZZ001ZZZ
+Ignoring menu bindkey of %s for webtiles client|Ignorando el bindkey de ZZ001ZZZZ para cliente webtiles
+Ignoring mut resistance to apply mutation.|Ignorar la resistencia a la mut a aplicar mutación.
+In %d experience levels, you will have learned enough to|En los niveles de experiencia ZZ001ZZZ, habrá aprendido lo suficiente para
+In a burst of heat and light, you rocket briefly upward...|En un estallido de calor y luz, cohetes brevemente hacia arriba...
+In explore mode, death is optional.|En modo de exploración, la muerte es opcional.
+Incomplete or corrupted data directory '%s'|Directorio de datos incompletos o corruptos 'ZZ001ZZZ'
+Insufficient floor-space for new Wal-Mart.|Insuficiente espacio para el nuevo Wal-Mart.
+Interest must be between 0 and 255.|El interés debe estar entre 0 y 255.
+Invalid glyph override: %X|Anulación de glifo inválido: %X
+Invalid key '%s' in bindkey directive '%s'|Clave inválida 'ZZ001ZZZZZ' en la directiva bindkey '%s'
+Invalid keyseq '%s' in bindkey directive '%s'|Invalid keyseq 'ZZ001ZZZZZZ' en bindkey directive '%s'
+Invalid monster type.|Tipo de monstruo inválido.
+Invalid player spell, attempting to cast it as monster spell.|Inválido hechizo de jugador, tratando de lanzarlo como hechizo de monstruo.
+Invalid spell!|¡Deletreo inválido!
+It begins to drip corrosive slime!|¡Empieza a gotear el slime corrosivo!
+It begins to drip with poison!|Empieza a gotear con veneno!
+It bursts into flame!|¡Se estalló en llamas!
+It gets dark.|Se pone oscuro.
+It glows horrifically with a foul blackness!|¡Brilla horriblemente con una nefasta oscuridad!
+It is a scroll of amnesia.|Es un pergamino de amnesia.
+It is a scroll of brand weapon.|Es un pergamino de arma de marca.
+It is a scroll of enchant armour.|Es un pergamino de armadura encantada.
+It is a scroll of enchant weapon.|Es un pergamino de arma encantada.
+It is a scroll of identify.|Es un pergamino de identificación.
+It is briefly surrounded by a scintillating aura of|Está brevemente rodeado por un aura centelleante
+It is briefly surrounded by shifting shadows.|Está brevemente rodeado por sombras cambiantes.
+It is impossible to cast this spell|Es imposible lanzar este hechizo
+It simply wouldn't do to leave so soon after announcing yourself.|Simplemente no haría que se fuera tan pronto después de anunciarse.
+It softly glows with a divine radiance!|¡Brilla suavemente con un resplandor divino!
+It stops crackling.|Deja de romper.
+It stops dripping with poison.|Deja de gotear con veneno.
+It stops flaming.|Deja de inflamar.
+It stops glowing.|Deja de brillar.
+It would be unfitting for someone so glorious to|Sería inapropiado para alguien tan glorioso
+It's already closed!|¡Ya está cerrado!
+It's already open!|¡Ya está abierto!
+It's been too long! Stop travelling.|¡Ha pasado mucho tiempo! Deja de viajar.
+It's broken and can't be closed!|Está roto y no se puede cerrar!
+It's broken and can't be closed.|Está roto y no se puede cerrar.
+It's unwise to walk into this.|No es prudente entrar en esto.
+Item %s buggily placed in feature %s at (%d, %d).|Elemento ZZ001ZZZZ buggily situado en la característica ZZ002ZZZ en (%d, ZZ004ZZZZZ).
+Item %s claims to be held by monster %s, but|El artículo ZZ001ZZZZZ afirma ser sostenido por el monstruo ZZ002ZZZZ, pero
+Item %s thinks it's already held by|El artículo ZZ001ZZZZ piensa que ya está sostenido por
+Item %s, held by dead monster, being|Artículo ZZ001ZZZZZ, retenido por monstruo muerto, siendo
+Item %s, held by monster %s, being|Artículo ZZ001ZZZZZ, sostenido por el monstruo ZZ002ZZZZ, siendo
+Item buggily placed out of bounds at (%d, %d).|El artículo se colocó de forma incorrecta en los límites (%d, %dZ).
+Item in stack at (%d, %d) has|Elemento en la pila (ZZ001ZZZZ, ZZ002ZZZ) tiene
+Item is not equipped|El artículo no está equipado
+Item position (%d, %d) is out of bounds|La posición del artículo (%dZ, %dZ) está fuera de límites
+Item stacks (by location and top item):|Pilas de elementos (por ubicación y punto superior):
+Its appearance distorts for a moment.|Su apariencia distorsiona por un momento.
+Ka-crash!|¡Ka-crash!
+Key %d in context %d cannot be rebound.|Key ZZ001ZZZZZ en contexto ZZ002ZZZZ no puede ser rebotado.
+Key pressed, interrupting miscast testing.|Llave presionada, interrumpiendo las pruebas de malcast.
+Killing monsters will force the Abyss to allow you passage.|Matar monstruos obligará al Abismo a permitirte el paso.
+Known levels:|Niveles conocidos:
+Last arena monster was dismissed.|El último monstruo de arena fue despedido.
+Level map cleared.|Mapa de nivel despejado.
+Level map wiped.|Mapa de nivel borrado.
+Level stack:|Montaje de nivel:
+Level vaults:|Bóvedas de nivel:
+Loading... branch: %d, level: %d|Cargando... rama: ZZ001ZZZZ, nivel: ZZ002Z
+Lua death function for monster '%s' didn't load: %s|Función de muerte de Lua para el monstruo 'ZZ001ZZZZ' no se cargó: ZZ002ZZ
+Lua error (map %s)%s: %s|Lua error (map ZZ001ZZZ)ZZ002ZZZ: ZZ003ZZ
+Lua error copying hook (%s) from '%s' to '%s': %s|Gancho de copia de error de Lua (ZZ001ZZZZZ) de 'ZZ002ZZZZ' a 'ZZZ003ZZ': ZZ004Z
+Lua error running hook '%s' on map '%s': %s|Lua error running hook 'ZZ001ZZZZZ' en el mapa 'ZZ002ZZZ': ZZ003ZZ
+Lua not initialised|Lua no inicializada
+Made non-artefact '%s' when trying to make '%s'|Fabricado no-artefacto 'ZZ001ZZZZ' cuando intenta hacer 'ZZ002ZZZ'
+Magic courses through your body.|Cursos mágicos a través de su cuerpo.
+Magic restored.|Magia restaurada.
+Magic washes over you without effect.|La magia te lava sin efecto.
+Magical energy flows into your mind!|¡La energía mágica fluye hacia tu mente!
+Make book fixed [t]heme or fixed [l]evel?|Hacer el libro fijo [t]heme o fijo [l]evel?
+Make the monster (S)hout or (T)alk?|¿Hacer el monstruo (S)hout o (T)alk?
+Malevolent energies surge around you.|Las energías malévolas surgen alrededor de ti.
+Malformed temple tag '%s' in map %s|Templo malformado etiqueta 'ZZ001ZZZZZZ' en el mapa ZZ002ZZ
+Malign forces permeate your being, awaiting release.|Las fuerzas malignas permean su ser, esperando su liberación.
+Map %s has temple_overflow_god tags but no count tag|Mapa ZZ001ZZZ tiene etiquetas templo overflow god pero no cuenta etiqueta
+Mapping level.|Nivel de preparación.
+Marked for pickup.|Marcado para recoger.
+Marker #%d at (%d, %d) has invalid type %d|Marcador #%d en (ZZ002ZZZZ, %d) tiene tipo inválido ZZ004Z
+Marker #%d at (%d, %d) nullptr|Marker #%d at (ZZ002ZZZZZ, %d) nullptr
+Marker #%d is nullptr|Marker #%dZ es nullptr
+Marker #%d, type %d at (%d, %d)|Marcador #%d, tipo ZZ002ZZZZ en (%d, ZZ004ZZZ)
+Marker #%d, type %d at (%d, %d) out of bounds|Marcador #%d, tipo ZZ002ZZZZ en (%dZ, ZZ004ZZZ) fuera de límites
+Marker #%d, type %d at (%d, %d) unlinked|Marker #%d, type ZZ002ZZZZZ at (%dZ, ZZ004ZZZ) unlinked
+Marker #%d, type %d at (%d, %d): %s|Marcador #%d, tipo ZZ002ZZZZ en (%dZ, ZZ004ZZZ): ZZ005Z
+Marking area around %s as unsafe for travelling.|Zona de marcado alrededor de ZZ001ZZZ como inseguro para viajar.
+Memorise which spell?|¿Memorizar qué hechizo?
+Miscast which school or spell, by name?|¿Qué escuela o hechizo, por nombre?
+Mismatch between bones backup|Error entre la copia de seguridad de los huesos
+Monster %s (%d, %d) [midx = %d] holding|Monster ZZ001ZZZZ (ZZ002ZZZZ, %dZ) [midx = ZZ004ZZZ] holding
+Monster %s (%d, %d) has invalid item|Monster ZZ001ZZZZ (ZZ002ZZZZ, %d) tiene elemento inválido
+Monster %s (%d, %d) holding invalid item in|Monster ZZ001ZZZZ (ZZ002ZZZZ, %d) holding elemento inválido en
+Monster %s already holding item %s.|Monster ZZ001ZZZZ ya contiene el artículo ZZ002ZZZZ.
+Monster %s became detached from env.mgrid|Monster ZZ001ZZZZ se desprendió de env.mgrid
+Monster %s in %s at (%d, %d)%s|Monster ZZ001ZZZZ en ZZ002ZZZZ en (%dZ, ZZ004ZZZ)ZZ005Z
+Monster %s re-attached itself to env.mgrid|Monster ZZ001ZZZZ se adjuntó a env.mgrid
+Monster is already summoned.|Monstruo ya es convocado.
+Monster is now summoned.|Monstruo ahora es convocado.
+Monster turned into something other than the desired type.|Monstruo se convirtió en algo distinto al tipo deseado.
+Monsters! Monsters everywhere! You have to get out of here!|¡Monstruos! ¡Monstruos por todas partes! ¡Tienes que salir de aquí!
+More barbed spikes become lodged in your body.|Más picos de púas de púas se alojan en su cuerpo.
+More spells requested for fixed level (%d)|Más hechizos solicitados para nivel fijo (%dZ)
+Motes of dream dust float from an unseen source.|Motes de polvo de sueño flotan de una fuente invisible.
+Motes of dream dust float from an unseen source.%s|Motes de polvo de sueño flotan de una fuente invisible. ZZZ001ZZ
+Move the cursor to view the level map, or type <w>?</w> for|Mueve el cursor para ver el mapa de nivel, o escriba el título
+Multiple branch exits on %s|Múltiples salidas de rama en ZZ001ZZZ
+Multiple locations with transporter|Múltiples ubicaciones con transportador
+Mutagenic energies flood into your body!|¡Las energías mudénicas inundan tu cuerpo!
+Mutagenic energy flows into you.|La energía mudétnica fluye hacia ti.
+Mutation #%d out of sync, fixing up.|Mutación #%dZZZ fuera de sincronización, arreglando.
+NOTE: Shaft traps aren't valid on this level.|NOTA: Las trampas rotativas no son válidas en este nivel.
+Nature churns violently around you!|¡La naturaleza te rodea violentamente!
+No command name for bindkey directive '%s'|No nombre de comando para la directiva bindkey 'ZZ001ZZZZZ'
+No command named '%s'|No hay ningún comando llamado 'ZZ001ZZZZZZ'
+No durations matching '%s'.|No hay duraciones que coincidan con "ZZ001ZZZ".
+No features matching '%s'|No hay características que coincidan con '%sZ'
+No items generated.|No se generan objetos.
+No key in bindkey directive '%s'|No hay clave en la directiva bindkey 'ZZ001ZZZZZZ'
+No matching bane names.|No hay nombres iguales.
+No matching mutation names.|Sin nombres de mutación iguales.
+No matching spell or spell school.|No hay escuela de hechizos o hechizos.
+No merchants are willing to come to this location.|Ningún comerciante está dispuesto a venir a este lugar.
+No monsters, items or features are visible.|No hay monstruos, objetos o características visibles.
+No path found!|¡No hay camino encontrado!
+No previous command to repeat.|No hay comando previo para repetir.
+No remembered map.|No recordaba el mapa.
+No retribution defined for %s.|No se define la retribución para ZZ001ZZZZ.
+No such ability.|No es esa habilidad.
+No such god, leaving item origin alone.|No tal dios, dejando solo el origen del artículo.
+No such item.|No hay tal tema.
+No such monster.|No es un monstruo.
+No such spell.|No hay tal hechizo.
+No targets found!|¡No hay objetivos encontrados!
+Not even in wizmode may divine creatures worship a god!|¡Ni siquiera en wizmode pueden las criaturas divinas adorar a un dios!
+Not in Shoals or no heightmap; tide not available.|No en Shoals o sin talla; marea no disponible.
+Not with that terrain in the way!|No con ese terreno en el camino!
+Nothing answers your call.|Nada responde a tu llamada.
+Nothing appears to happen.|Nada parece suceder.
+Nothing appears to happen... Ominous!|Nada parece suceder... ¡Ominoso!
+Nothing appears to have answered your call.|Nada parece haber respondido a tu llamada.
+Nothing happens.|No pasa nada.
+Nothing quivered!|¡Nada atormentado!
+Now linked to your health, your magic stops regenerating.|Ahora vinculado a su salud, su magia deja de regenerarse.
+Ok; try placing with &L or go to the relevant location to|Ok; tratar de colocar con &L o ir a la ubicación relevante para
+Okay, then.|Vale, entonces.
+Old type and new type are the same, not polymorphing.|Tipo viejo y nuevo tipo son el mismo, no polimorfo.
+Old value: %|Valor antiguo: %
+Old value: 0x%08|Valor antiguo: 0x%08
+On %d of %d; %d g, %d fail, %u err%s, %u uniq,|En %d de ZZ002ZZZ; ZZ003ZZG, ZZ004ZZZ fail, %u errZZ005ZZZZ, %u uniq,
+On %s; %d g, %d fail, %u err%s, %u uniq,|En %sZ; ZZ002ZZ g, ZZ003ZZZ fail, %u errZZ004ZZZZ, %u uniq,
+Once you set a character to explore mode, you can't switch back.|Una vez que estableces un personaje para explorar el modo, no puedes cambiar de nuevo.
+One of the Royal Jelly's fragments survives.|Uno de los fragmentos de la Royal Jelly sobrevive.
+Oops! There was something there already!|Oops! ¡Ya había algo ahí!
+OpenGL error %s|Error de OpenGL ZZ001ZZZ
+Options warning: `sound` will have no effect on this build.|Options warning: `sound` no tendrá efecto en esta construcción.
+Orders for allies: a - Attack new target.|Ordenes para aliados: a - Ataque nuevo objetivo.
+Other monster isn't holding it, though.|Pero otro monstruo no lo sostiene.
+Other monster thinks it's holding the item, too.|Otro monstruo cree que también tiene el artículo.
+Ouch! That really hurt!|¡Ay! ¡Eso duele mucho!
+Out of bounds monster: %s at (%d, %d),|Monstruo de límites: ZZ001ZZZZ en (ZZ002ZZZZ, ZZ003ZZZ),
+Outside, the world ends.|Fuera, el mundo termina.
+Overflow temples:|Templos desbordados:
+Overriding seed-determined temple map.|Mapa del templo predeterminado de semillas.
+Pain shoots through your body!|¡El dolor dispara a través de tu cuerpo!
+Piety increases by 1 due to piety pool.|La piedad aumenta en 1 debido a la piscina de piety.
+Piety pool is now empty.|La piscina está vacía.
+Pikel's spell is broken, but his former %s can only feel hate|El hechizo de Pikel está roto, pero su anterior ZZ001ZZZ solo puede sentir odio
+Placed ghost is not MONS_PLAYER_GHOST, but %s|Fantasma colocado no es MONS PLAYER GHOST, pero ZZ001ZZZ
+Placed ghost is not alive.|El fantasma colocado no está vivo.
+Placed new exclusion.|Colocaron nueva exclusión.
+Placed overflow temple %s|Templo de reflujo colocado ZZ001ZZZ
+Placing %s on top of you would put part of the|Colocar ZZ001ZZZZ encima de podría poner parte de la
+Placing emergency exit: %s.|Salida de emergencia: ZZ001ZZZZZ.
+Placing missing branch entry: %s.|Colocación de la filial desaparecida: ZZ001ZZZZZ.
+Placing missing branch exit: %s.|Salida de la rama desaparecida: ZZ001ZZZZZ.
+Player is already dead, skipping Xom act.|El jugador ya está muerto, saltando el acto Xom.
+Player is standing in deadly terrain, skipping Xom act.|El jugador está de pie en terreno mortal, saltando el acto Xom.
+Please don't blink into the map border.|Por favor, no parpadees en la frontera del mapa.
+Please don't try to blink into monsters.|Por favor no trates de parpadear en monstruos.
+Poisonous fumes billow in the air!|¡Los vapores venenosos se hunden en el aire!
+Polymorph failed.|Polymor falló.
+Polymorph killed monster?|¿Polímorfo asesinado monstruo?
+Potential INFINITE STACK at (%d, %d)|Potential INFINITE STACK at (ZZ001ZZZ, %d)
+Press 'a' to toggle all layers.|Presione 'a' para cambiar todas las capas.
+Press <w>?</w> for a list of commands and other information.|Presione неленних? Seguido / w > para una lista de comandos y otra información.
+Program bug detected!|¡Programa detectado!
+Purchase which effect?|¿Comprar qué efecto?
+Ran out of altars for temple!|¡Salió de altares para el templo!
+Ray didn't cross stairs.|Ray no cruzó las escaleras.
+Reactivating autopickup.|Reactivando autopickup.
+Read a buggy scroll, please report this.|Lee un pergamino, por favor reporta esto.
+Reduced exclusion size to a single square.|Reducción del tamaño de la exclusión a un solo cuadrado.
+Regenerating db: %s|Db regenerador: ZZ001ZZZZ
+Regenerating db: %s [%s]|Db regenerador: ZZ001ZZZ [ZZ002ZZZ]
+Regenerating des: %s|Regenerating des: ZZ001ZZZZ
+Regenerating level.|Nivel de regeneración.
+Remembered map restored.|Recuerda el mapa restaurado.
+Removed exclusion.|Exclusión eliminada.
+Removing %s right now would cause you to %s!|Retirar ZZ001ZZZZ en este momento te causaría a ZZ002ZZZ!
+Removing corrupted ex-follower from level: %s.|Removing corrupted ex-sellower from level: ZZ001ZZZZZ.
+Restoring view layers.|Restaurar capas de vista.
+Results written into 'randart_stats.txt'.|Resultados escritos en "randart stats.txt".
+Results written into acquirement_stats.txt.|Resultados escritos en acquirement stats.txt.
+Returning to the game...|Volviendo al juego...
+Running Jiyva off-level sacrifice.|Hacer Jiyva sacrificio fuera del nivel.
+Running acquirement tests.|Haciendo pruebas de adquisición.
+Running generate_armour_item tests.|Ejecutando pruebas genera armour item.
+Running generate_weapon_item tests.|Ejecutando análisis de genera armas armas.
+Save file has uninitialized PlaceInfo for branch %s|Guardar archivo ha uninitialized PlaceInfo para la rama ZZ001ZZ
+Saving game... please wait.|Salvar el juego... por favor espera.
+Saving ghost: %s|Ahorro fantasma: ZZ001ZZZZ
+Second portal entrance for %s!|Segundo portal de entrada para ZZ001ZZZZ!
+See you next game!|¡Nos vemos el próximo juego!
+Select layers to display:\n|Seleccione capas para mostrar:\n
+Send 'em back where they came from!|¡Envíenlos de donde vinieron!
+Set Abyss speed to what? (now %d, higher value =|¿Configurar la velocidad de Abyss a qué? (ahora ZZ001ZZZZ, valor superior =
+Set class RANDOM_MONSTER|Clase RANDOM MONSTER
+Setting Abyss speed to %i.|Ajuste de velocidad de Abyss a %i.
+Setting attributes (Str, Int, Dex) to: %i, %i, %i|Atributos de configuración (Str, Int, Dex) a: %i, %i, %i
+Skeletons, inanimate yet cursed, drop down from the ceiling.|Esqueletos, inanimados pero maldecidos, bajan del techo.
+Slime begins to ooze from the nearby walls!|¡Slime comienza a oler desde las paredes cercanas!
+Slime spec wants invalid size '%s'|Slime spec quiere tamaño inválido 'ZZ001ZZZZZZ'
+Software bugs nibble your toes!|¡Los bichos de software arrugan los dedos de los pies!
+Some monsters swap places.|Algunos monstruos intercambian lugares.
+Some rocks are dislodged from the ceiling.|Algunas rocas están deslojadas del techo.
+Something buggy happened.|Sucedió algo.
+Something gets caught in the net!|¡Algo se atrapa en la red!
+Something gnaws heavily on your mind!|¡Algo rechina fuertemente en tu mente!
+Something gnaws on your mind!|¡Algo te duele la cabeza!
+Something interferes with your magic!|¡Algo interfiere con tu magia!
+Something is bathed in an unholy light!|¡Algo se baña en una luz impía!
+Something launches a net on you.|Algo te lanza una red.
+Something prevents your mortar from forming!|¡Algo impide que tu mortero se forme!
+Something unexpectedly blocks you, preventing you from leaping!|¡Algo inesperado te bloquea, impidiéndote saltar!
+Something unexpectedly blocks you, preventing you from passing!|¡Algo inesperado te bloquea, impidiéndote pasar!
+Something unseen is already there!|¡Algo invisible ya está ahí!
+Something unseen prevents your spell from working!|¡Algo invisible impide que tu hechizo funcione!
+Something wriggles in the net.|Algo anda mal en la red.
+Something you can't see blocks your briars from growing!|¡Algo que no puedes ver impide que tus briares crezcan!
+Something you can't see is occupying that space!|¡Algo que no puedes ver es ocupar ese espacio!
+Something you can't see is thrashing in a web.|Algo que no puedes ver es golpear en una web.
+Something you can't see occupies that space!|¡Algo que no puedes ver ocupa ese espacio!
+Somewhere, a butterfly flaps its wings.|En algún lugar, una mariposa aplaude sus alas.
+Sorry, I don't know how to get there.|Lo siento, no sé cómo llegar allí.
+Sorry, I don't know how to traverse that place.|Lo siento, no sé cómo atravesar ese lugar.
+Sorry, but your quest for the Orb is now rather pointless.|Lo siento, pero tu búsqueda para el Orb ahora es bastante inútil.
+Sorry, this spell isn't supported for dummies!|Lo siento, este hechizo no es compatible con los tontos!
+Sorry, this spell works on others only.|Lo siento, este hechizo solo funciona en otros.
+Sorry, you can't auto-travel out of here.|Lo siento, no puedes salir de aquí.
+Sorry, you can't target yourself.|Lo siento, no puedes apuntarte.
+Sorry, you haven't seen any altar yet.|Lo siento, aún no has visto ningún altar.
+Sorry, you haven't seen any shop yet.|Lo siento, aún no has visto ninguna tienda.
+Sorry, you're not good enough to have a special ability.|Lo siento, no eres lo suficientemente bueno para tener una habilidad especial.
+Space begins to contract around you, but something blocks your path.|El espacio comienza a contraerte a tu alrededor, pero algo bloquea tu camino.
+Space momentarily warps into an impossible shape!|¡El espacio salta momentáneamente en forma imposible!
+Space warps around you for a moment!|¡Un momento te rodea!
+Space warps into you!|¡Las verrugas espaciales en ti!
+Spell '%s' is not a player castable spell.|Spell '%s' no es un hechizo castable jugador.
+Spell assigned to '%c'.|Paga asignada a '%c'.
+Spell is monster-only - unpredictable behaviour may result.|El hechizo es sólo monstruo- comportamiento impredecible puede resultar.
+Spell level can be at most 9.|El nivel de volumen puede ser al menos 9.
+Starting %s: %s|Inicio ZZ001ZZZZ: ZZ002ZZ
+Stolen life floods into an unseen void!|¡La vida robada inunda un vacío invisible!
+Stop fighting!|¡Deja de pelear!
+Stopped running for exclusion.|Dejé de correr por exclusión.
+Stopping early due to keyboard input.|Parar temprano debido a la entrada del teclado.
+Strange energies course through your body.|Las energías extrañas se dirigen a través de su cuerpo.
+Strange, the shaft seems to lead back to this level.|Extraño, el eje parece conducir de vuelta a este nivel.
+Such a monster couldn't be found.|Tal monstruo no se pudo encontrar.
+Suddenly you stand beside yourself.|De repente te quedas a tu lado.
+Super healing.|Super curación.
+TENSION = %d|TENSION = ZZ001ZZZZ
+Target species must be different from current species.|Las especies de objetivos deben ser diferentes de las especies actuales.
+Targeting interrupted by HUP signal.|Objetivo interrumpido por la señal HUP.
+Teleporting respawner %s to make room for|Teleporting respawner ZZ001ZZZZ para hacer espacio para
+Tentacles burst from the starspawn's body!|¡Los tentáculos estallaron del cuerpo del albañil!
+Tentacles reach out from the kraken!|¡Los tentáculos salen del kraken!
+Test success: %s|Éxito de prueba: ZZ001ZZZ
+Texture %s is bigger than maximum driver texture size|Texture ZZ001ZZZ es más grande que el tamaño máximo de la textura del controlador
+Thank you for visiting Hell. Please come again soon.|Gracias por visitar el infierno. Por favor, vuelve pronto.
+That door is sealed shut!|¡Esta puerta está cerrada!
+That felt strangely inert.|Eso se sintió extrañamente inerte.
+That felt strangely unrewarding.|Eso se sentía extrañamente irreverente.
+That god doesn't seem to exist!|¡Ese dios no parece existir!
+That is beyond the maximum range.|Eso está más allá del rango máximo.
+That item cannot be turned into an artefact.|Ese artículo no se puede convertir en un artefacto.
+That item is already an unrandom artefact.|Ese artículo ya es un artefacto poco aleatorio.
+That monster doesn't leave corpses.|Ese monstruo no deja cadáveres.
+That seemed strangely inert.|Eso parecía extrañamente inerte.
+That skill doesn't seem to exist.|Esa habilidad no parece existir.
+That skill was removed.|Esa habilidad fue eliminada.
+That space is already occupied.|Ese espacio ya está ocupado.
+That species isn't available.|Esa especie no está disponible.
+That type of monster can't use any items.|Ese tipo de monstruo no puede usar ningún artículo.
+That would be overly suicidal.|Eso sería demasiado suicida.
+That would be pointless.|Eso sería inútil.
+That's not a valid depth.|Eso no es una profundidad válida.
+That's out of range!|¡Eso está fuera de alcance!
+That's the wrong kind of item!|¡Ese es el tipo equivocado de artículo!
+That's too far away.|Eso está muy lejos.
+The %s upon you is lifted.|El %s sobre ti es levantado.
+The %s%s flies open with a bang!|¡El ZZ001ZZ%sZZ vuela abierto con un bang!
+The Abyss bends around you!|¡El Abismo se dobla alrededor tuyo!
+The Orb lets out a furious burst of light!|¡El Orb deja salir un furioso estallido de luz!
+The Orb lets out an agonising shriek!|¡El Orb deja salir un chillido agonizante!
+The abyss shimmers again as the detected|El abismo brilla de nuevo como el detectado
+The abyssal matter surrounding you shimmers strangely.|El abismo que te rodea brilla extrañamente.
+The abyssal rune of Zot can be found at this depth.|La runa abissal de Zot se puede encontrar a esta profundidad.
+The air around you briefly surges with heat, but it dissipates.|El aire alrededor de se levanta brevemente con calor, pero se disipa.
+The air bursts into flame!|¡El aire estalla en llamas!
+The air crackles with electrical energy.|El aire se rompe con energía eléctrica.
+The air fills with toxic fumes!|¡El aire se llena de humos tóxicos!
+The air is filled with shimmering golden clouds!|¡El aire está lleno de nubes doradas brillantes!
+The air resumes its normal movements.|El aire reanuda sus movimientos normales.
+The air shimmers briefly around you.|El aire brilla brevemente alrededor tuyo.
+The barbed spikes dig painfully into your body|Los picos de la cama cavan dolorosamente en su cuerpo
+The black torch howls with new intensity!|¡La antorcha negra se agita con nueva intensidad!
+The bolas passes through you!|¡Las bolas pasan por ti!
+The box is emptied!|¡La caja está vacía!
+The buzzing within you returns to its normal rhythm.|El zumbido dentro de ti vuelve a su ritmo normal.
+The cold chills you terribly!|¡El frío te enfría terriblemente!
+The cold chills your senses.|El frío enfria tus sentidos.
+The condenser dries out!|¡El condensador seca!
+The creatures around you are filled with an inner flame!|¡Las criaturas que te rodean están llenas de una llama interior!
+The curse of the Prune overcomes you.|La maldición de Prune te supera.
+The damaged grate falls apart.|La grata dañada se desmorona.
+The demon of the infinite void smiles upon you.|El demonio del vacío infinito te sonríe.
+The divine experience confuses you!|¡La experiencia divina te confunde!
+The divine experience drains your vigour!|¡La experiencia divina drena tu vigor!
+The door bursts into shrapnel!|¡La puerta estalla en metralla!
+The door is shut tight!|¡La puerta está cerrada!
+The door mysteriously vanishes.|La puerta desaparece misteriosamente.
+The door slams shut behind you.|La puerta se cierra detrás de ti.
+The doors slam shut!|¡Las puertas se cierran!
+The dream sheep attempt%s to lull %s to sleep.|El sueño ovejas intentoZZ001ZZZZZZ para atraer ZZ002ZZZZ para dormir.
+The dungeon rumbles around %s!|¡El calabozo se hunde alrededor de ZZ001ZZZZ!
+The dungeon rumbles!|¡La mazmorra se hunde!
+The dungeon rumbles... harmlessly?|¿La mazmorra se hunde inofensivamente?
+The dungeon shakes!|¡El calabozo se sacude!
+The dungeon shakes, a horrible noise fills the air,|El calabozo sacude, un ruido horrible llena el aire,
+The dungeon shakes... harmlessly?|¿La mazmorra tembla inofensivamente?
+The dungeon's light returns to normal.|La luz de la mazmorra regresa a la normalidad.
+The electricity makes your body seize.|La electricidad hace que su cuerpo se apodere.
+The endless sea of lava is not a nice place.|El mar infinito de lava no es un lugar agradable.
+The energy of discovery flows from your fingertips!|¡La energía del descubrimiento fluye de tu alcance!
+The exit collapses.|La salida se colapsa.
+The fallen lash out in pain!|¡El caído se desplomó en dolor!
+The ferocious winds and tides of the open sea thwart your progress.|Los feroces vientos y mareas del mar abierto frustraron su progreso.
+The fire burns you terribly!|¡El fuego te quema terriblemente!
+The flames go out!|¡Las llamas salen!
+The flow of time bends around you.|El flujo del tiempo se dobla alrededor tuyo.
+The forest fire spreads!|¡El incendio forestal se extiende!
+The freezing vortex lifts you up.|El vórtice helado te levanta.
+The frozen ramparts melt away as you move.|Las murallas congeladas se derriten mientras se mueve.
+The frozen ramparts melt away.|Las murallas congeladas se derriten.
+The gate opens wide!|¡La puerta se abre!
+The ground around you becomes liquefied!|¡El suelo que te rodea se licua!
+The hatch slams shut behind you.|La escotilla se cierra detrás de ti.
+The haze of the repulsion field disappears.|La estufa del campo de repulsión desaparece.
+The healing is enhanced.|La curación está mejorada.
+The heat melts your icy armour.|El calor derrite tu helada armadura.
+The heat overwhelms you.|El calor te abruma.
+The heavenly storm settles.|La tormenta celestial se asienta.
+The hog vanishes!|¡El cerdo desaparece!
+The ice freezes you terribly!|¡El hielo te congela terriblemente!
+The injured %s weaves a defensive illusion!|¡El ZZ001ZZZZ herido teje una ilusión defensiva!
+The insufficient charge dissipates harmlessly.|La carga insuficiente disipa inofensivamente.
+The kraken's tentacles disappear.|Los tentáculos del Kraken desaparecen.
+The last of your harvested death is exhausted.|La última de tu muerte cosechada está agotada.
+The lava burns you terribly!|¡La lava te quema terriblemente!
+The lightning grounds out.|Los relámpagos.
+The lightning rod overheats!|¡La barra de relámpago se sobrecalienta!
+The liquid fire burns you%s!|¡El fuego líquido te quemaZZ001ZZZZZZZ!
+The liquid fire finally exhausts itself.|El fuego líquido finalmente se agota.
+The lock glows eerily!|¡La cerradura brilla de una vez!
+The long-dead rise up around you.|La larga vida se levanta alrededor tuyo.
+The lords of Pandemonium are not amused. Beware!|Los señores del Pandemonium no se divierten. ¡Cuidado!
+The malign portal rejects you as you step towards it.|El portal maligno te rechaza mientras caminas hacia él.
+The mark upon you grows brighter.|La marca sobre ti crece más brillante.
+The mirror can't reflect that.|El espejo no puede reflejar eso.
+The mirror clouds!|¡Las nubes del espejo!
+The momentum dissipates harmlessly.|El impulso disipa inofensivamente.
+The monster is already there!|¡El monstruo ya está ahí!
+The monster is invisible and likely won't speak.|El monstruo es invisible y probablemente no hablará.
+The monster is silenced and likely won't say anything.|El monstruo es silenciado y probablemente no dirá nada.
+The monsters scatter in all directions!|¡Los monstruos se dispersan en todas direcciones!
+The mud splashes down.|El barro se hunde.
+The mutagenic energy flows into you.|La energía mutagénica fluye hacia ti.
+The nature of this place prevents you from teleporting.|La naturaleza de este lugar le impide teletransportar.
+The necklace of Bloodlust glows a violent red.|El collar de Bloodlust brilla un rojo violento.
+The now-empty wand crumbles to dust.|La varita ahora vacía se desmorona al polvo.
+The orb fizzles.|Las pinzas de orbe.
+The orbs collide in a blinding explosion!|¡Los orbes chocan en una explosión cegadora!
+The other orcs roar their approval!|¡Los otros orcos rugen su aprobación!
+The poison in your system burns terribly!|¡El veneno en su sistema se quema terriblemente!
+The poison in your system burns!|¡El veneno en su sistema se quema!
+The potion freezes solid before it can reach you!|La poción se congela sólida antes de que pueda llegar a usted!
+The power of Zot is invoked against you!|¡El poder de Zot es invocado contra ti!
+The power of Zot manifests... and reveals the %s gem was|El poder de Zot se manifiesta... y revela la gema ZZ001ZZZ
+The priest grants you succour and welcomes you into the fold.|El sacerdote te concede azufre y te da la bienvenida en el pliegue.
+The rain has left you waist-deep in water!|¡La lluvia te ha dejado en el agua!
+The roots around you sink back into the ground.|Las raíces que te rodean se hunden en el suelo.
+The runic seal fades away.|El sello escénico se desvanece.
+The runic seals fade away.|Las focas escénicas se desvanecen.
+The sack is emptied!|¡El saco está vacío!
+The sanctuary disappears.|El santuario desaparece.
+The sanctuary starts shrinking.|El santuario comienza a encogerse.
+The service fee for joining is currently %d gold; you only|La cuota de servicio para unirse es actualmente oro ZZ001ZZZZ; sólo
+The shadows disperse without effect.|Las sombras se dispersan sin efecto.
+The shadowy forms in the deep grow still as others approach.|Las formas sombrías en lo profundo crecen aún cuando se acercan otros.
+The shaft crumbles and collapses.|El eje se desmorona y colapsa.
+The shaft disappears in a puff of logic!|¡El eje desaparece en una farsa de lógica!
+The sign of ruin forms upon you!|¡El signo de la ruina forma sobre ti!
+The silence clears your mind.|El silencio aclara tu mente.
+The spell fizzles.|El hechizo brilla.
+The spilling of your atemporal blood hastes your allies!|¡El derramamiento de tu sangre atemporal atrae a tus aliados!
+The stairs are too slimy for you to climb back up!|¡Las escaleras son muy delgadas para que subas!
+The starspawn's tentacles wither and die.|Los tentáculos del Starpawn se marchitan y mueren.
+The steam scalds you terribly!|¡El vapor te calienta terriblemente!
+The strain on the space-time continuum destroys the|La tensión en el continuum espacio-tiempo destruye la
+The substance of the Abyss twists violently,|La sustancia del Abismo retorce violentamente,
+The tide is released from %s call.|La marea se libera de la llamada ZZ001ZZZZZZ.
+The tin is emptied!|¡La lata está vacía!
+The transporter is blocked by a creature on the other side!|¡El transportador está bloqueado por una criatura del otro lado!
+The transporter is blocked on the other side!|¡El transportador está bloqueado en el otro lado!
+The trap seems to be inoperative.|La trampa parece ser inoperante.
+The tremorstone explodes into fragments!|¡El temblor estalla en fragmentos!
+The wailing of the fallen reaches a fever pitch!|¡La onda de los caídos alcanza un campo de fiebre!
+The wailing of tortured souls fills the air!|¡La onda de almas torturadas llena el aire!
+The walls around you are covered in ice.|Las paredes que te rodean están cubiertas de hielo.
+The wave splashes down.|La ola se derrite.
+The world around you is engulfed in lightless night!|¡El mundo que te rodea está envuelto en una noche sin luz!
+The world leaves you behind!|¡El mundo te deja atrás!
+The world spins around you as you enter the gateway.|El mundo gira alrededor de ti mientras entras en la puerta de entrada.
+The world spins around you!|¡El mundo gira alrededor tuyo!
+The zombie hands holding you return to the earth.|Las manos zombis que te sostienen regresan a la tierra.
+There are no places for you to create a bog.|No hay lugares para que creas un bog.
+There are no valid targets to list.|No hay metas válidas para listar.
+There are no walls around you to affect.|No hay paredes a tu alrededor para afectar.
+There is a horrible, sudden wrenching feeling in your soul!|¡Hay un sentimiento horrible y repentino en tu alma!
+There is a shattering impact!|¡Hay un impacto destrozado!
+There is no available space!|¡No hay espacio disponible!
+There is no level above you.|No hay nivel por encima de ti.
+There is no level below you in this branch.|No hay nivel debajo de ti en esta rama.
+There is no room for %s to move out of your way!|¡No hay lugar para que ZZ001ZZZZ se mueva de su camino!
+There is nobody nearby that the sprites are interested in.|No hay nadie cercano en el que los sprites estén interesados.
+There is not enough space to conjure foxfire!|¡No hay suficiente espacio para conjurar foxfire!
+There is nothing on the other side of the stone arch.|No hay nada en el otro lado del arco de piedra.
+There isn't anything that you can close there!|¡No hay nada que puedas cerrar ahí!
+There isn't anything that you can open there!|¡No hay nada que puedas abrir ahí!
+There isn't enough space here!|¡No hay suficiente espacio aquí!
+There was nowhere nearby to inscribe sigils!|¡No había ningún sitio cercano a inscribir sigiles!
+There's already a cloud here!|¡Ya hay una nube aquí!
+There's no open space to fill with poison.|No hay espacio abierto para llenar con veneno.
+There's no point to toggling this skill anymore.|Ya no tiene sentido mezclar esta habilidad.
+There's no room for the soul wisp to form!|¡No hay lugar para que el alma se forme!
+There's no room!|¡No hay sitio!
+There's no space to create foxfire here.|No hay espacio para crear foxfire aquí.
+There's nothing close enough!|¡No hay nada lo suficientemente cerca!
+There's nothing there!|¡No hay nada ahí!
+There's nothing to close nearby.|No hay nada que cerrar cerca.
+There's nothing to open nearby.|No hay nada que abrir cerca.
+There's only one card left!|¡Sólo queda una tarjeta!
+There's something in the way.|Hay algo en el camino.
+This altar belongs to %s, but you can't tell which.\n|Este altar pertenece a ZZ001ZZZZZZ, pero no se puede decir cuál.\n
+This is a scroll of acquirement!|¡Este es un pergamino de adquisición!
+This item has been removed, sorry!|¡Este artículo ha sido eliminado, lo siento!
+This place is already infused with evil and corruption.|Este lugar ya está infundido con el mal y la corrupción.
+This save was not generated on a build that stores logs.|Este ahorro no se generó en una construcción que almacena los registros.
+This shop appears to be closed.|Esta tienda parece estar cerrada.
+This shop has been abandoned, nothing of value remains.|Esta tienda ha sido abandonada, no queda nada de valor.
+This spell doesn't need a beam path.|Este hechizo no necesita un camino de haz.
+This spell is %s to cast%s|Este hechizo es ZZ001ZZZZ para castZ002Z
+This spell is impossible to cast!|¡Este hechizo es imposible de lanzar!
+This spell isn't strong enough to banish yourself.|Este hechizo no es lo suficientemente fuerte para desterrarte.
+This transporter is marked as excluded!|¡Este transportador está marcado como excluido!
+This wall is too hard to dig through.|Esta pared es muy difícil de atravesar.
+Thorny briars emerge from the ground!|¡Thorny briars emerge del suelo!
+Thought so.|Eso pensé.
+Tide inertia: %d. New value|Tide inertia: ZZ001ZZZZ. Nuevo valor
+Tie declared, but faction_a won.|Tie declaró, pero faction a ganó.
+Tie declared, but faction_b won.|Tie declaró, pero faction b ganó.
+Timer %d next trigger in the past [%d < %d]|Timer ZZ001ZZZZ siguiente gatillo en el pasado [ZZ002ZZZZZ [ZZ003ZZ]
+To do this, you must remove one of the following items:|Para ello, debe eliminar uno de los siguientes elementos:
+To return, you must find a gate leading back.|Para regresar, debes encontrar una puerta que conduce hacia atrás.
+Toadstools sprout up around you!|¡Toadstools brotan alrededor tuyo!
+Toggling %s to %s.|Toggling ZZ001ZZZ a ZZ002ZZZZ.
+Too many items on level.|Demasiados artículos a nivel.
+Too many matches; use a more specific search.|Demasiados partidos; use una búsqueda más específica.
+Too many nested replacements, bailing.|Demasiados reemplazos anidados, rescate.
+Too many string replacements, bailing.|Demasiados reemplazos de cadena, rescate.
+Transformation failed.|La transformación falló.
+Transporter with name %s has no corresponding|Transporter con nombre ZZ001ZZZZ no tiene correspondiente
+Trog suppresses %s necromantic effect.|Trog suprime ZZ001ZZZZZ efecto necromantico.
+Trying harder|Tratar más duro
+Trying to dig through that would dissolve your mandibles.|Tratar de atravesar eso disolvería tus mandíbulas.
+Turn is over|La vuelta se acabó
+Turns spent on this level: %d|Se gasta en este nivel: ZZ001ZZZ
+Unable to find Temple vault '%s'|Incapaz de encontrar la bóveda del Templo "ZZ001ZZZZ"
+Unable to find exit from %s|Incapaz de encontrar salida desde ZZ001ZZ
+Unable to find window icon '%s'|Incapaz de encontrar icono de ventana '%sZZ'
+Unable to generate level for '%s'!|Incapaz de generar nivel para '%sZ'!
+Unable to make artefact from '%s'|Incapaz de fabricar artefacto de ZZ001ZZZZZZ
+Unable to open bones backup file %s for writing|Unable para abrir el archivo de respaldo de huesos ZZ001ZZZZ para escribir
+Unable to open bones file %s for writing|Unable para abrir el archivo de huesos ZZ001ZZZZZ para escribir
+Unable to place monster.|Incapaz de colocar monstruo.
+Unable to write lock %s: %s|Unable para escribir bloqueo ZZ001ZZZ: ZZ002ZZ
+Unbalanced @, bailing.|Unbalanced @, rescate.
+Unbalanced [[, bailing.|Unbalanced [[, rescate.
+Unknown background choice: %s\n|Unknown background choice: ZZ001ZZ\n
+Unknown card.|Tarjeta desconocida.
+Unknown command, not repeating.|Comando desconocido, no repitiendo.
+Unknown command.|Comando desconocido.
+Unknown command. (For a list of commands type <w>?\?</w>.)|Comando desconocido. (Para una lista de comandos tipo < > > )
+Unknown species choice: %s\n|Elección de especies desconocidas: ZZ001ZZ\n
+Unobtained all runes and the Orb of Zot.|Detuvo todas las runas y el Orbe de Zot.
+Unused transporter destination with name %s.|Destino de transporte no utilizado con el nombre ZZ001ZZZZZ.
+Uppercase letters only, please.|Solo cartas en mayúscula, por favor.
+User lua is disabled in this build! (file: %s)|¡El usuario lua está desactivado en esta construcción! (file: %sZ)
+User lua is disabled in this build! `%s`|¡El usuario lua está desactivado en esta construcción! ZZ001ZZZZZZ
+User requested cancel|Usuario solicitado cancelación
+Value for %s must be non-negative|El valor de ZZ001ZZZ debe ser no negativo
+Vines fly forth from the trees!|¡Las viñas vuelan desde los árboles!
+WARNING: ABOUT TO ENTER EXPLORE MODE!|¡A PUNTO DE ENTRAR EN EL MODELO EXPLORE!
+Walls emerge from the floor!|¡Las paredes emergen del suelo!
+Warning: monster '%s' is not yet fully coded.|Advertencia: el monstruo 'ZZ001ZZZ' todavía no está completamente codificado.
+Was %s a) male, b) female, or c) neither? (Currently %s.)|¿%s a) varón, b) hembra, o c) tampoco? (Actualmente ZZ002ZZZ.)
+We reached the end of our path: stop travelling.|Llegamos al final de nuestro camino: dejar de viajar.
+Welcome back to level %d!|Bienvenido de nuevo al nivel ZZ001ZZZZ!
+What are your orders?|¿Cuáles son sus órdenes?
+What level of %s?|¿Qué nivel de %sZ?
+What monsters to dismiss (ENTER for all,|Qué monstruos descartar (ENTER para todos,
+Which direction?|¿Qué dirección?
+Which monster by name?|¿Cuál monstruo por nombre?
+Which monster?|¿Qué monstruo?
+Which rune (ESC to exit)?|¿Qué runa (ESC para salir)?
+Whoops, nicked a vault in slime connectivity fixup|Uups, abrieron una bóveda en la fijación de conectividad slime
+Why would you want to repeat a run command?|¿Por qué querrías repetir un comando de ejecución?
+With a burst of heat and light, you rocket upward!|¡Con una explosión de calor y luz, cohete hacia arriba!
+With a deafening crack, the ground splits apart in the path of %s|Con una grieta ensordecedora, el suelo se separa en el camino de ZZ001ZZZ
+With a frightful flash, the power of Zot shatters the %s|Con un flash espantoso, el poder de Zot rompe el ZZ001ZZZ
+With a frightful flash, the power of Zot shatters your %s gem|Con un flash espantoso, el poder de Zot rompe tu gema ZZ001ZZZ
+With a horrendous wail, an alarm goes off!|¡Con una horrenda bobina, se apaga una alarma!
+With a soft hiss the gate opens wide!|¡Con un suave suyo la puerta se abre!
+With its final breath, %s offers up its power|Con su aliento final, ZZ001ZZZZZ ofrece su poder
+With the way you've been playing, I'm surprised you got this far.|Con la forma en que has estado jugando, me sorprende que hayas llegado tan lejos.
+With your torch unlit, %s soul goes wasted...|Con tu antorcha sin iluminación, el alma ZZ001ZZZZ se desperdicia...
+Without a target and with nowhere to land, your clockwork|Sin un objetivo y sin ningún lugar para aterrizar, su relojería
+Without a target, your clockwork bee falls to the ground.|Sin un objetivo, tu abeja de relojería cae al suelo.
+Writing noise grid with %d noise sources|Escribir cuadrícula de ruido con fuentes de ruido ZZ001ZZZ
+Xom tension: %d|Tensión Xom: ZZ001ZZZZ
+Xom: gift_timeout: %d, maxinterestingness = %d, interestingness = %d|Xom: gift timeout: ZZ001ZZZZZ, maxinterestingness = %dZ, interestingness = ZZZ003ZZ
+Xom: tension: %d, piety: %d -> tension bonus = %d, eff. piety: %d|Xom: tension: ZZ001ZZZZ, piety: ZZ002ZZZZ - bono de tensión de confianza = ZZ003ZZZZ, eff. piety: ZZ004ZZ
+You %s%s%s!|ZZ001ZZ%sZZ003ZZZZ!
+You allow the flow of time to resume.|Permite que el flujo de tiempo se reanude.
+You already are as slow as you could be.|Ya eres tan lento como podrías ser.
+You already have all the faith you need.|Ya tienes toda la fe que necesitas.
+You already have as much speed as you can handle.|Ya tienes tanta velocidad como puedas manejar.
+You already have no god!|¡Ya no tienes dios!
+You already know that spell!|¡Ya sabes ese hechizo!
+You already worship that god!|¡Ya adoras a ese dios!
+You announce your regal presence to all who would look upon you.|Anuncias tu presencia real a todos los que te verían.
+You appear to be waiting for the end of something which may|Parece estar esperando el fin de algo que pueda
+You are %sconfused.|Eres ZZ001ZZZconfused.
+You are %spoisoned.|Eres ZZ001ZZZpoisoned.
+You are already as afflicted as possible.|Ya estás tan afligido como sea posible.
+You are already unleashing the legions of chaos!|¡Ya estás desatando las legiones del caos!
+You are banished to a different region of the Abyss.|Estás desterrado a una región diferente del Abismo.
+You are blasted by holy energy!|¡Estás lleno de energía sagrada!
+You are blinded for an even longer time.|Estás ciego por un tiempo aún más largo.
+You are blinded!|¡Estás ciego!
+You are cast deeper into the Abyss!|¡Eres lanzado más profundo en el Abismo!
+You are cast into the Abyss!|¡Estás metido en el Abismo!
+You are caught in a web!|¡Estás atrapado en una web!
+You are covered in %sliquid fire! Move or burn!|está cubierto en ZZ001ZZliquid fuego! ¡Muévete o quema!
+You are encased in ice.|Estás envuelto en hielo.
+You are enfeebled!|¡Estás enfadada!
+You are even more covered in %sliquid fire!|está aún más cubierto en ZZ001ZZliquid fuego!
+You are hurled out of the way!|¡Estás hurgado del camino!
+You are illuminated by a divine halo.|Estás iluminado por un halo divino.
+You are illuminated by a large divine halo.|Estás iluminado por un gran halo divino.
+You are illuminated by a small divine halo.|Estás iluminado por un pequeño halo divino.
+You are lethally poisoned!|¡Estás envenenado letalmente!
+You are mesmerised by %s!|¡Eres mesmerizado por ZZ001ZZZZZ!
+You are momentarily dazzled by a brilliant light.|está momentáneamente deslumbrado por una luz brillante.
+You are no longer mesmerised.|Ya no estás mesmerizado.
+You are no longer on fire.|Ya no estás ardiendo.
+You are no longer poisoned.|Ya no estás envenenado.
+You are no longer terrified.|Ya no estás aterrorizado.
+You are not religious!|¡No eres religioso!
+You are not religious.|No eres religioso.
+You are not under penance.|No estás bajo penitencia.
+You are now level %d!|¡Ahora eres el nivel ZZ001ZZZZZ!
+You are out of cards!|¡Estás fuera de las cartas!
+You are out of magic!|¡Estás loco!
+You are outlined in light.|Estás delineado a la luz.
+You are pushed out of the doorway!|¡Te empujan fuera de la puerta!
+You are ready to perform a blood rite again.|Estás listo para hacer un rito de sangre de nuevo.
+You are restored by drawing out deep reserves of power within.|está restaurado sacando profundas reservas de poder dentro.
+You are silenced but the monster isn't; you will|Estás silenciado pero el monstruo no lo es; lo harás
+You are skewered in place!|¡Estás en su lugar!
+You are slowing down.|Estás disminuyendo.
+You are stricken with the %s.|Estás atrapado con el ZZ001ZZZZ.
+You are suddenly bathed in radiance!|¡De repente te bañan en el resplandor!
+You are suddenly pulled into a different region of|De repente estás metido en una región diferente
+You are surrounded by a repulsion field.|Estás rodeado de un campo de repulsión.
+You are terrified of %s!|¡Estás aterrorizado de ZZ001ZZZZ!
+You are too berserk!|¡Eres demasiado idiota!
+You are too confused!|¡Estás muy confundido!
+You are too frail to live.|Eres demasiado frágil para vivir.
+You are too injured to fight recklessly!|¡Estás demasiado herido para luchar imprudentemente!
+You are too terrified to leap around!|¡Estás demasiado aterrorizado para saltar!
+You are unable to access your magic!|¡No puedes acceder a tu magia!
+You are unable to make a sound!|¡No puedes hacer un sonido!
+You are unaffected.|No te afecta.
+You aren't carrying anything.|No llevas nada.
+You aren't wearing any armour!|¡No llevas armadura!
+You assume a fearsome visage.|asume un temible visage.
+You attack empty space.|Atacas espacio vacío.
+You attempt to intoxicate your foes!|¡Intentas intoxicar a tus enemigos!
+You avoid being caught in a net.|Evitas ser atrapado en una red.
+You become %stransparent, but the glow from %s|Te conviertes en ZZ001ZZtransparent, pero el resplandor de ZZ002ZZ
+You become entangled in the net!|¡Te enredaste en la red!
+You become transparent for a moment.|Te vuelves transparente por un momento.
+You begin accumulating electric charge.|Empiezas a acumular carga eléctrica.
+You begin rapidly regenerating health and magic.|Empiezas a regenerar rápidamente la salud y la magia.
+You begin to dig a shaft.|Empiezas a cavar un eje.
+You begin to imbue your servitor with|Empiezas a impregnar tu servidor con
+You begin to imprint %s upon your paragon.|Empiezas a imprimir ZZ001ZZZZ en tu paragon.
+You begin to meditate on the wall.|Empiezas a meditar en la pared.
+You begin to radiate toxic energy.|Empiezas a irradiar energía tóxica.
+You begin transforming.|Empiezas a transformarte.
+You begin untransforming.|Comenzarás sin traducir.
+You bind the heart of a blast furnace in slag iron.|Tú ataste el corazón de un horno de ráfaga en hierro de escoria.
+You blink.|Estás parpadeando.
+You bring the flow of time to a stop.|Llevas el flujo de tiempo a una parada.
+You burst free from the net!|¡Te liberas de la red!
+You burst free from the webs!|¡Te liberas de las telas!
+You call for your canine familiar and it appears with a howl!|¡Llamas a tu canino familiar y aparece con un aullido!
+You call forth a pillar of damnation!|¡Llamáis un pilar de condenación!
+You call forth a plague of scarabs!|¡Llamáis una plaga de escarabajos!
+You call forth a shade to shield your allies.|Llamas a la sombra para proteger a tus aliados.
+You call out to the draconic realm, and the dragon horde roars back!|¡Llamas al reino dracónico, y la horda de dragón retrocede!
+You call out to the remnants of the fallen!|¡Llamáis a los restos de los caídos!
+You call upon the dead to rise.|Llamas a los muertos para que se levanten.
+You can access your shopping list by pressing '$'.|Puede acceder a su lista de compras pulsando '$'.
+You can act again.|Puedes actuar de nuevo.
+You can feel time thicken for a moment.|Puedes sentir tiempo espesando por un momento.
+You can only abyss_teleport() inside the Abyss.|Sólo se puede abyss teleport() dentro del Abyss.
+You can see no monster there to duel!|¡No puedes ver ningún monstruo allí al duelo!
+You can see no monster there to imprison!|¡No puedes ver ningún monstruo allí para encarcelar!
+You can't %s anything in your present form.|No puedes %s nada en tu forma actual.
+You can't %s jewellery%s.|No puedes joyas ZZ001ZZZZ%sZ.
+You can't annotate this level.|No puedes anotar este nivel.
+You can't change your training allocations!|¡No puedes cambiar tus asignaciones de entrenamiento!
+You can't conjure that within a solid object!|¡No puedes conjurar eso dentro de un objeto sólido!
+You can't create a passage there!|¡No puedes crear un pasaje ahí!
+You can't deconstruct that!|¡No puedes deconstruir eso!
+You can't dig through that.|No puedes pasar por eso.
+You can't do that in your present form.|No puedes hacerlo en tu forma actual.
+You can't do that yet.|Aún no puedes hacerlo.
+You can't draw power from your own body while in death's door.|No puedes sacar el poder de tu propio cuerpo mientras estás en la puerta de la muerte.
+You can't fall asleep in your current state!|¡No puedes dormir en tu estado actual!
+You can't give that type of item to a monster.|No puedes darle ese tipo de artículo a un monstruo.
+You can't go down here!|¡No puedes bajar aquí!
+You can't go up here!|¡No puedes subir aquí!
+You can't grow a ballistomycete there.|No puedes cultivar una balaistomycete ahí.
+You can't grow an oklob plant there.|No puedes cultivar una planta de oklob allí.
+You can't leap into the sea of lava!|¡No puedes saltar al mar de lava!
+You can't leap into the sea!|¡No puedes saltar al mar!
+You can't leap on top of the monster!|¡No puedes saltar sobre el monstruo!
+You can't line pass into the sea of lava!|¡No puedes cruzar el mar de lava!
+You can't line pass into the sea!|¡No puedes cruzar el mar!
+You can't make a draconian corpse by its background.|No puedes hacer un cuerpo draconiano por su fondo.
+You can't make simulacra of that!|¡No puedes hacer simulacro de eso!
+You can't make this choice while your ancestor is elsewhere.|No puedes tomar esta decisión mientras tu antepasado está en otro lugar.
+You can't memorise that many levels of magic yet!|¡No puedes memorizar tantos niveles de magia todavía!
+You can't move yourself into the arena.|No puedes mudarte a la arena.
+You can't perceive a target there!|¡No puedes percibir un objetivo ahí!
+You can't place a gateway to a ziggurat here.|No puedes poner una entrada a un ziggurat aquí.
+You can't place the prism on a creature.|No puedes poner el prisma en una criatura.
+You can't remove your %s, sorry.|No puedes quitar tu ZZ001ZZZZZ, lo siento.
+You can't repeat informational commands.|No puedes repetir comandos informativos.
+You can't repeat map commands.|No puedes repetir comandos de mapa.
+You can't repeat mouse clicks or movements.|No puedes repetir clics o movimientos del ratón.
+You can't repeat multi-turn commands.|No puedes repetir comandos de giro múltiple.
+You can't repeat that command.|No puedes repetir ese comando.
+You can't repeat the repeat command!|¡No puedes repetir el comando repetido!
+You can't see a target there!|¡No puedes ver un blanco ahí!
+You can't see any hostile targets in range.|No puedes ver objetivos hostiles en rango.
+You can't see any item there.|No puedes ver ningún artículo allí.
+You can't see any susceptible monsters within range!|¡No puedes ver ningún monstruo susceptible dentro del rango!
+You can't see anything there to clone.|No puedes ver nada para clonar.
+You can't see anything to attack.|No puedes ver nada para atacar.
+You can't see anything to vaporise!|¡No puedes ver nada para vaporizar!
+You can't see anything you can safely attack.|No puedes ver nada que puedas atacar con seguridad.
+You can't see that place.|No puedes ver ese lugar.
+You can't set this flag on a non-artefact.|No puedes poner esta bandera en un no artefacto.
+You can't shaft yourself in your current form.|No puedes echarte en tu forma actual.
+You can't shaft yourself on this level.|No puedes tirarte a este nivel.
+You can't shaft yourself on this terrain.|No puedes echarte en este terreno.
+You can't shaft yourself while unable to move.|No puedes husmear mientras no puedes moverte.
+You can't stand on top of the monster!|¡No puedes estar encima del monstruo!
+You can't survive in this terrain! You fly above the %s, but the|¡No puedes sobrevivir en este terreno! Vuelas por encima del ZZ001ZZZZ, pero el
+You can't transfer that.|No puedes transferir eso.
+You can't tweak the randart properties of an equipped item.|No se puede ajustar las propiedades de randart de un elemento equipado.
+You can't use the mirror on yourself.|No puedes usar el espejo en ti mismo.
+You can't walk through walls!|¡No puedes caminar por las paredes!
+You can't wear anything.|No puedes usar nada.
+You can't zap that!|¡No puedes hacer eso!
+You cannot apport that!|¡No puedes apportarlo!
+You cannot create a passage on the other side of the|No puedes crear un pasaje en el otro lado del
+You cannot curse that!|¡No puedes maldecir eso!
+You cannot dig through the dense trees.|No puedes atravesar los árboles densos.
+You cannot duel that!|¡No puedes dársela!
+You cannot enter water in your current form.|No puede entrar agua en su forma actual.
+You cannot haunt those who bear you no hostility.|No puedes perseguir a los que no te llevan hostilidad.
+You cannot imprison a law-abiding creature!|¡No puedes encarcelar a una criatura que tiene derecho!
+You cannot imprison that!|¡No puedes encarcelar eso!
+You cannot move.|No puedes moverte.
+You cannot move. (Use ctrl+direction or * direction to|No puedes moverte. (Use ctrl+direction o * dirección a
+You cannot pay life while functionally dead.|No puedes pagar la vida mientras estás funcionalmente muerto.
+You cannot set exclusions on this level.|No puedes establecer exclusiones en este nivel.
+You cannot shatter the curse on %s while it is|no puede romper la maldición en ZZ001ZZZZ mientras que es
+You cannot train this skill.|No puedes entrenar esta habilidad.
+You cannot uncurse and destroy that!|¡No puedes desatar y destruir eso!
+You cannot walk through the dense trees.|No puedes caminar por los árboles densos.
+You carve a gateway into yourself and beckon forth the legions of chaos!|¡Cargas una puerta de entrada en ti mismo y lanzas las legiones del caos!
+You charge forward in eerie silence!|¡cobra hacia adelante en un silencio extraño!
+You charge forward with an electric crackle!|¡cobra hacia adelante con una grieta eléctrica!
+You choke on the stench!|¡Te ahogas en el banco!
+You condense your magic into a crackling blade!|¡Condenas tu magia en una espada de crack!
+You conjure a globe of magical energy.|Conjuras un globo de energía mágica.
+You conjure up an array of volatile reagents!|¡Conjuras una serie de reactivos volátiles!
+You consecrate your suffering and invoke the rites of blood!|¡consagra su sufrimiento e invoca los ritos de sangre!
+You conserve a charge of your wand.|conserva una carga de su varita.
+You construct a shell of ice in front of yourself.|Construyes una concha de hielo delante de ti mismo.
+You continue transforming.|Sigues transformándote.
+You continue untransforming.|Sigues sin traducir.
+You continue winding your clockwork bee...|Sigues enrollando tu relojero...
+You convulse!|¡Convulsa!
+You craft a gleaming metal champion and it leaps into the fray!|¡Has creado un campeón de metales brillantes y salta en la fray!
+You create some ball lightning!|¡Creas un rayo de bolas!
+You crush the flux bauble in your %s and feel its energy|aplasta el bauble de flujo en su %s y siente su energía
+You currently need %d gold to open negotiations with a|Actualmente necesita oro ZZ001ZZZZZ para abrir negociaciones con un
+You detect creatures, but no further items.|Detectas criaturas, pero no más elementos.
+You detect items and creatures!|¡detecta objetos y criaturas!
+You detect items, but no nearby creatures.|Detectas objetos, pero no criaturas cercanas.
+You detect nothing.|No detectas nada.
+You detect the abyssal rune!|¡Tú detectas el abismo!
+You dip into the water, and the flames go out!|¡Te sumergiste en el agua, y las llamas salen!
+You disentangle yourself.|Te desenredas.
+You dismiss your zombies and call upon the dead to rise afresh.|Deshazte de tus zombis e invocas a los muertos a que se levanten de nuevo.
+You don't currently have any abilities.|Actualmente no tienes habilidades.
+You don't have any such object.|No tienes ningún objeto así.
+You don't have anything to inscribe.|No tienes nada que inscribir.
+You don't have enough gold for that!|¡No tienes suficiente oro para eso!
+You don't have enough gold to fund that merchant!|¡No tienes suficiente oro para financiar a ese comerciante!
+You don't have enough health at the moment.|No tienes suficiente salud ahora.
+You don't have enough magic at the moment.|No tienes suficiente magia.
+You don't have enough magic capacity.|No tienes suficiente capacidad mágica.
+You don't have room to hold a gizmo! Drop something first.|¡No tienes espacio para sostener un gizmo! Deja algo primero.
+You don't know any spells that your servitor could cast!|¡No sabes ningún hechizo que tu servidor pueda lanzar!
+You don't know any spells.|No sabes ningún hechizo.
+You don't know of any spells!|¡No sabes de ningún hechizo!
+You don't know that spell.|No sabes ese hechizo.
+You don't see anything to apport there.|No ves nada para apportar allí.
+You draw magical energy from your own body!|¡Usas energía mágica de tu propio cuerpo!
+You draw... (choose one card, ? for their descriptions)|Tú dibujas..
+You emit a cloud of colourful smoke!|¡emite una nube de humo colorido!
+You enter a devourer's trap.|Entras en la trampa de un devorador.
+You enter a harlequin's trap.|Entras en la trampa de un arlequín.
+You enter a tyrant's trap.|Entras en la trampa de un tirano.
+You enter an archmage's trap.|Entras en la trampa de un arquetipo.
+You enter the Abyss!|¡Entra en el Abyss!
+You enter the Zot trap.|Entras en la trampa Zot.
+You enter the passage of Golubria.|Entras en el pasaje de Golubria.
+You enter the transporter and appear at another place.|Entras al transportador y apareces en otro lugar.
+You erupt in a blast of force!|¡Eruptiste en una explosión de fuerza!
+You erupt in a fountain of uncontrolled magic!|¡Eruptiste en una fuente de magia incontrolada!
+You exhale a blast of multi-hued devastation!|¡Exhala una explosión de devastación múltiple!
+You extract magical energy from the potion.|Extrae energía mágica de la poción.
+You fade completely from view now that you are no longer|Te desvaneces completamente desde la vista ahora que ya no eres
+You fall asleep.|Te duermes.
+You feel %s all of a sudden.|Te sientes ZZ001ZZZ de repente.
+You feel %s buoyant.|Siente buoyant ZZ001ZZZZ.
+You feel %s.|Siente ZZ001ZZZZ.
+You feel %sagile all of a sudden.|Te sientes ZZ001ZZZagile de repente.
+You feel %sattractive to monsters.|Siente ZZ001ZZZattractive a monstruos.
+You feel %sclever all of a sudden.|Siente ZZ001ZZclever de repente.
+You feel %sprotected from %s.|siente ZZ001ZZZprotected de ZZ002ZZZZZ.
+You feel %ssick.|Siente ZZ001ZZZsick.
+You feel Zot lose track of you.|Te sientes Zot pierde de vista.
+You feel a %ssurge of divine interest.|siente un %sZZZZZsurge de interés divino.
+You feel a baleful cunning.|Te sientes un astuto calvo.
+You feel a bit more experienced.|Te sientes un poco más experimentado.
+You feel a build-up of mutagenic energy.|siente una acumulación de energía mutagénica.
+You feel a burst of inspiration! You are finally|¡Sientes una explosión de inspiración! Por fin
+You feel a dangerous fate closing in on you...|Te sientes un destino peligroso...
+You feel a deeper understanding of alchemy.|siente una comprensión más profunda de la alquimia.
+You feel a distressing malevolence running through your instability!|¡Sientes una malevolencia aflictiva corriendo por tu inestabilidad!
+You feel a force failing to suppress your magic.|Siente una fuerza que no suprime su magia.
+You feel a genetic drift.|Siente una deriva genética.
+You feel a malign power afflict you.|Te aflige un poder maligno.
+You feel a momentary urge to oink.|Te sientes un impulso momentáneo de oink.
+You feel a rush of antiknowledge.|Siente una prisa de anticonocimiento.
+You feel a rush of knowledge.|Siente una prisa de conocimiento.
+You feel a sense of dread.|Te sientes mal.
+You feel a shielding aura gather around you.|Siente que un aura protector se reúne alrededor tuyo.
+You feel a strange sense of stasis.|Siento una extraña sensación de estasis.
+You feel a strong urge to %s, but|siente un fuerte impulso a ZZ001ZZZZZ, pero
+You feel a strong urge to attack something.|siente un fuerte impulso para atacar algo.
+You feel a surge of magic.|Siente un aumento de magia.
+You feel a surge of self-confidence.|Siente un aumento de confianza en sí mismo.
+You feel a surge of unholy energy.|Siente una oleada de energía impía.
+You feel a twinge of divine disapproval.|siente una gemela de desaprobación divina.
+You feel a twist of horror at the sight of this foe.|Siente un giro de horror a la vista de este enemigo.
+You feel a wild power.|Tú sientes un poder salvaje.
+You feel an ambush drawing close....|Siento una emboscada cerca...
+You feel an ill-omen....|Te sientes mal...
+You feel as though you may have cheated fate.|Te sientes como si hubieras engañado al destino.
+You feel as though you will be slow longer.|Te sientes como si fueras más lento.
+You feel as though you will be weak longer.|Te sientes como si fueras débil más.
+You feel as though your fallen companions have been avenged.|Te sientes como si tus compañeros caídos hubieran sido vengados.
+You feel as though your hastened speed will last longer.|Te sientes como si tu velocidad acelerada durara más tiempo.
+You feel as though your spells will be weakened for longer.|Te sientes como si tus hechizos se debilitaran por más tiempo.
+You feel as though your troubles will go away faster.|Te sientes como si tus problemas se fueran más rápido.
+You feel aware of your surroundings.|Te sientes consciente de tu entorno.
+You feel better.|Te sientes mejor.
+You feel bolstered by spreading misfortune.|Te sientes reforzada por difundir la desgracia.
+You feel briefly invigorated.|Te sientes brevemente vigorizado.
+You feel charge building up...|Te sientes cobrando...
+You feel dizzy.|Te sientes mareado.
+You feel extremely nervous for a moment...|Te sientes muy nervioso por un momento...
+You feel extremely strange.|Te sientes muy extraño.
+You feel forgetful for a moment.|Te sientes olvidadizo por un momento.
+You feel guileless.|Te sientes mal.
+You feel haunted.|Te sientes perseguido.
+You feel hot and cold all over.|Te sientes caliente y fría por todas partes.
+You feel ill.|Te sientes mal.
+You feel invigorated by the roar of the crowd!|¡Te sientes vigorizado por el rugido de la multitud!
+You feel jittery for a moment.|Te sientes nervioso por un momento.
+You feel less attractive to monsters.|Te sientes menos atractiva para los monstruos.
+You feel less invigorated.|Te sientes menos vigorizado.
+You feel less perceptive.|Te sientes menos perceptiva.
+You feel less pious.|Te sientes menos piadoso.
+You feel less protected from negative energy.|Te sientes menos protegido de la energía negativa.
+You feel less protected.|Te sientes menos protegido.
+You feel less resistant to cold.|Te sientes menos resistente al frío.
+You feel less resistant to fire.|Te sientes menos resistente al fuego.
+You feel less strong-willed.|Te sientes menos fuerte.
+You feel lethargic.|Te sientes letárgico.
+You feel light-headed.|Te sientes mareado.
+You feel like a meek peon again.|Te sientes como un meek peon otra vez.
+You feel like your blood is boiling!|¡Sientes que tu sangre está hirviendo!
+You feel limber!|¡Te sientes extremista!
+You feel magic leave you.|Siento que la magia te deja.
+You feel magic returning to you.|Te sientes mágica regresando.
+You feel magically purged.|Te sientes mágicamente purgado.
+You feel mighty!|¡Te sientes fuerte!
+You feel momentarily confused.|Te sientes momentáneamente confundido.
+You feel momentarily disoriented.|Te sientes momentáneamente desorientado.
+You feel momentarily drained.|Te sientes momentáneamente drenado.
+You feel monstrous as|Te sientes monstruoso
+You feel more experienced!|¡Te sientes más experimentado!
+You feel more protected from negative energy.|Te sientes más protegido de la energía negativa.
+You feel much better.|Te sientes mucho mejor.
+You feel nearly all of your power leaking away!|¡Te sientes casi todo tu poder escapando!
+You feel no more acrobatic than usual.|No te sientes más acrobático de lo habitual.
+You feel odd for a moment.|Te sientes raro por un momento.
+You feel overwhelmed by frustration!|¡Te sientes abrumado por la frustración!
+You feel perceptive.|Te sientes perceptiva.
+You feel power welling in your lungs.|Te sientes bien en los pulmones.
+You feel powerful.|Te sientes poderoso.
+You feel protected.|Te sientes protegido.
+You feel purified!|¡Te sientes purificado!
+You feel queasy.|Te sientes mariquita.
+You feel rather light.|Te sientes bastante ligero.
+You feel rather odd for a moment.|Te sientes bastante raro por un momento.
+You feel rather ponderous.|Te sientes bastante reflexivo.
+You feel ready to drown your foes once more.|Te sientes listo para ahogar a tus enemigos una vez más.
+You feel ready to make another cacophony.|Te sientes listo para hacer otra cacofonía.
+You feel ready to rampage towards enemies.|Te sientes listo para desenfrenar a los enemigos.
+You feel ready to scatter into bats once more.|Te sientes listo para dispersarte en los murciélagos una vez más.
+You feel ready to tumble and roll out of harm's way.|Te sientes listo para caer y salir de la manera del daño.
+You feel resistant to cold.|Te sientes resistente al frío.
+You feel resistant to extremes of temperature.|Te sientes resistente a los extremos de la temperatura.
+You feel resistant to fire.|Te sientes resistente al fuego.
+You feel resistant to poison.|Te sientes resistente al veneno.
+You feel slightly irritated.|Te sientes un poco irritada.
+You feel slightly less contaminated with magical energies.|Te sientes un poco menos contaminada con energías mágicas.
+You feel something broadcast a psychic alarm.|Siente que algo emite una alarma psíquica.
+You feel something solid in that direction.|Siente algo sólido en esa dirección.
+You feel space start to destabilise around you!|¡Sientes que el espacio comienza a desestabilizarte a tu alrededor!
+You feel spirits watching over you.|Sentís espíritus vigilandoos.
+You feel stable on this floor.|Te sientes estable en este piso.
+You feel stealthy.|Te sientes robada.
+You feel strangely alone.|Te sientes extrañamente sola.
+You feel strangely conspicuous.|Te sientes extrañamente visible.
+You feel strangely lacking in power.|Te sientes extrañamente carente de poder.
+You feel strangely numb.|Te sientes extrañamente adormecida.
+You feel strangely stable.|Te sientes extrañamente estable.
+You feel strangely unstable.|Te sientes extrañamente inestable.
+You feel strong-willed.|Te sientes fuerte.
+You feel that you will soon be absolved of all your sins.|siente que pronto será absuelto de todos sus pecados.
+You feel that your aim is more steady.|Crees que tu objetivo es más estable.
+You feel that your burden of sins will soon be lighter.|siente que su carga de pecados pronto será más ligera.
+You feel the Orb delaying your translocation!|¡Sientes que el Orb retrasa tu translocación!
+You feel the Orb interfering with your translocation!|¡Sientes que el Orb interfiere con tu translocación!
+You feel the ancient rage of your axe.|Siente la antigua rabia de su hacha.
+You feel the corruption within you wane %s.|siente la corrupción dentro de wane ZZ001ZZZZZZ.
+You feel the doom around you dissipate.|Siente la condena alrededor de disipa.
+You feel the dreadful sensation subside.|Siente la terrible sensación despreocupada.
+You feel the ground shudder.|Siente la escalera de tierra.
+You feel the power of Zot begin to gather its forces!|¡Sientes que el poder de Zot comienza a reunir sus fuerzas!
+You feel the power of the Abyss delaying your translocation!|¡Sientes el poder del Abismo retrasando tu translocación!
+You feel the presence of a powerless spirit.|Siente la presencia de un espíritu impotente.
+You feel the transmutational energy in your body is nearly expended.|siente que la energía transmutacional en su cuerpo está casi gastada.
+You feel tipsy.|Te sientes arrogante.
+You feel unable to drink.|Te sientes incapaz de beber.
+You feel very meek.|Te sientes muy manso.
+You feel very mighty all of a sudden.|Te sientes muy fuerte de repente.
+You feel woody for a moment.|Te sientes leñosa por un momento.
+You feel your anger nearly subside.|Siente tu ira casi al revés.
+You feel your attacks grow feeble.|Siente que sus ataques crecen débiles.
+You feel your bond with your battlesphere wane.|Siente tu vínculo con tu wane de la esfera de batalla.
+You feel your defenses recover.|Siente que sus defensas se recuperan.
+You feel your existence waver again.|siente su existencia ondeando de nuevo.
+You feel your fragility will last longer.|Siente que su fragilidad durará más tiempo.
+You feel your inability to drink will last longer.|Siente que su incapacidad para beber durará más tiempo.
+You feel your light-headedness will last longer.|Siente que su cabeza de luz durará más tiempo.
+You feel your magic capacity decrease.|Siente tu capacidad mágica disminuir.
+You feel your magic capacity increase.|Siente el aumento de la capacidad mágica.
+You feel your power drawn to a protective spirit.|siente su poder atraído a un espíritu protector.
+You feel your power leaking away.|Siente su poder filtrando.
+You feel your power returning.|Siente su poder devolviendo.
+You feel your silence will last longer.|Siente que su silencio durará más tiempo.
+You feel your spells grow feeble.|Siente que sus hechizos crecen débiles.
+You feel your strength returning.|Siente su fuerza volviendo.
+You feel your vulnerability to fire will last|siente su vulnerabilidad al fuego durará
+You feel yourself grow more vulnerable to poison.|Te sientes más vulnerable al veneno.
+You feel yourself growing ill in the|Te sientes enferma en el
+You feel yourself moving faster!|¡Te sientes más rápido!
+You feel yourself slow down.|Te sientes lento.
+You feel yourself speed up.|Te sientes rápido.
+You finish channelling your searing ray.|Acabas de canalizar tu rayo.
+You finish coughing all the %s out of your lungs.|Acabas de toser todo el ZZ001ZZZZZ de tus pulmones.
+You finish imbuing your servitor.|Acabas de imbuir a tu servidor.
+You finish memorising.|Acabas de memorizar.
+You finish merging with the rock.|Acabas de fusionarte con la roca.
+You finish reciting %s|Acabas de recitar ZZ001ZZZZZZ
+You float gracefully downwards.|Flotas con gracia hacia abajo.
+You fly up into the air.|Vuelas al aire.
+You focus on the pain.|Te concentras en el dolor.
+You focus your inner power and blind %s in retribution!|centra su poder interno y ciega ZZ001ZZZZ en la retribución!
+You focus your inner power and drain %s's magic in|Centra tu poder interno y drena la magia de ZZ001ZZZ
+You focus your inner power and illuminate %s in retribution!|centra su poder interno e ilumina ZZ001ZZZZ en la retribución!
+You focus your inner power and paralyse %s in retribution!|centra su poder interno y paralizar ZZ001ZZZZ en la retribución!
+You focus your inner power and slow %s in retribution!|centra su poder interno y lento ZZ001ZZZZ en la retribución!
+You forge a skittering defender to stand by your side.|forja a un defensor esquiador para estar a su lado.
+You forge a whirling saw of razor-sharp crystal.|Has forjado una sierra de afeitar de cristal de afeitar.
+You forge whirling saws of razor-sharp crystal.|Forjas sierras de cristal de afeitar.
+You glow brighter.|Estás más brillante.
+You have a feeling of ineptitude.|Tienes un sentimiento de ineptitud.
+You have a vision of a gate.|Tienes una visión de una puerta.
+You have a vision of multiple gates.|Tienes una visión de múltiples puertas.
+You have difficulty breathing.|Tienes dificultad para respirar.
+You have escaped!|¡Has escapado!
+You have harvested as much death for|Has cosechado tanta muerte por
+You have harvested enough death to cast|Has cosechado suficiente muerte para echar
+You have lingered too long. Zot senses you.|Has tardado demasiado. Zot te siente.
+You have lost all your %s. It will be difficult to act|Has perdido todo tu ZZ001ZZZZZ. Será difícil actuar
+You have mastered %s!|¡Has dominado ZZ001ZZZZ!
+You have no ancestor to preserve!|¡No tienes ningún antepasado para preservar!
+You have no companions.|No tienes compañeros.
+You have nothing to quiver.|No tienes nada que picar.
+You have passed through the Ziggurat. Zot will hunt you nevermore.|Has pasado por el Ziggurat. Zot te cazará nunca más.
+You have reached level %d!|¡Has alcanzado el nivel ZZ001ZZZZ!
+You have reached level %d, the highest you will ever reach!|ha alcanzado el nivel ZZ001ZZZZ, el más alto que alcanzará!
+You have reached level 27, the final one!|¡Has alcanzado el nivel 27, el final!
+You have recovered your %s.|Has recuperado tu ZZ001ZZZZZ.
+You have turned to stone.|Te has convertido en piedra.
+You haven't found that spell!|¡No has encontrado ese hechizo!
+You hear %s splatter%s.|Se oye ZZ001ZZZ splatterZZ002ZZZZZZZZ.
+You hear %s.|Oíste ZZ001ZZZZ.
+You hear a choir sing!|¡Oyes un coro cantar!
+You hear a deep rumble.|Escuchas un profundo ruido.
+You hear a distant and violent thrashing sound.|Escuchas un sonido lejano y violento.
+You hear a distant slurping noise.|Escuchas un ruido lejano.
+You hear a grinding noise.|Escuchas un ruido de rectificado.
+You hear a loud \|oye un fuerte \
+You hear a loud crackle.|Escuchas un ruido fuerte.
+You hear a loud magical explosion!|¡Oyes una fuerte explosión mágica!
+You hear a sizzling sound!|¡Oyes un sonido deslumbrante!
+You hear a sizzling splash.|Escuchas una salpicadura desconcertada.
+You hear a snapping sound.|Escuchas un sonido rápido.
+You hear a splash.|Escuchas una salpicadura.
+You hear a splashing noise.|Escuchas un ruido salpicador.
+You hear a squelching noise.|Escuchas un ruido espeluznante.
+You hear a zap.|Escuchas un zap.
+You hear a%s slurping noise.|Escuchas a%sZ rociando ruido.
+You hear the crackle of electricity.|Escuchas el crackle de la electricidad.
+You hear the flapping of tiny wings.|Escuchas el aplauso de alas pequeñas.
+You imbue your battlesphere with additional charge.|Impulsas tu batalla con cargo adicional.
+You imbue your familiar with magical energy and its fangs glint|Imprimes tu familiaridad con la energía mágica y sus colmillos brillan
+You inscribe a binding sigil.|inscribe un sigil vinculante.
+You inscribe a pair of binding sigils.|inscribe un par de sigiles vinculantes.
+You jump in place.|Tú saltas.
+You jump through the air!|¡Saltas por el aire!
+You lack sufficient magical power to recharge your bee.|Te falta suficiente energía mágica para recargar tu abeja.
+You learn %s %s%s.|aprende ZZ001ZZ%sZZ003ZZZZZ.
+You lift the black torch aloft and begin your conquest of %s in|levanta la antorcha negra y comienza su conquista de ZZ001ZZ
+You lose access to your magic!|¡Perdiste acceso a tu magia!
+You lose track of time!|¡Perdiste tiempo!
+You move over the binding sigil and are bound in place!|¡Te mueves sobre el sigil vinculante y estás atado en su lugar!
+You must enter the number of times for the command to repeat.|Debe introducir el número de veces para que el comando repita.
+You nearly hit yourself!|¡Casi te golpeas!
+You need a rune to leave the Vaults.|Necesitas una runa para dejar los Vaults.
+You need a visible target to rewind your bee!|¡Necesitas un objetivo visible para rebobinar tu abeja!
+You need no library to learn spells.|No necesitas biblioteca para aprender hechizos.
+You need to be standing on open floor to call a merchant.|Necesitas estar en planta abierta para llamar a un comerciante.
+You no longer feel able to rampage towards enemies.|Ya no te sientes capaz de desenfrenar a los enemigos.
+You no longer feel resistant to poison.|Ya no te sientes resistente al veneno.
+You offer a %sprayer to %s.|ofrece un ZZZ001ZZprayer a ZZ002ZZZZZ.
+You offer yourself as an instrument of Makhleb's will and feel|Te ofreces como un instrumento de la voluntad y la sensación de Makhleb
+You ooze up the stairs.|Te levantas las escaleras.
+You open a gateway and unleash terrible monstrosities upon the world.|Abres una puerta de entrada y desatas terribles monstruosidades sobre el mundo.
+You open the lid...|Abre la tapa...
+You partially resist.|Te resistes parcialmente.
+You pass into a different region of Pandemonium.|pasa a una región diferente de Pandemonium.
+You pass through the gate.|Pasas por la puerta.
+You pick your way through the web.|Escoge tu camino a través de la web.
+You plunge deeper into the Abyss.|Te sumiste más en el Abismo.
+You produce a hideous howling noise!|¡Produces un ruido horrible!
+You radiate a wave of entropy!|¡Radias una ola de entropía!
+You radiate an aura of cold.|irradia un aura de frío.
+You rattle the tambourine.|Te cortas el pandero.
+You reach into the sack...|Llegas al saco...
+You reach out to the water around you and turn it against your foes!|¡Te acercas al agua que te rodea y te la vuelves contra tus enemigos!
+You reach the end of your prayer and your brethren are recalled.|Llegas al final de tu oración y tus hermanos son recordados.
+You reach to attack!|¡Puedes atacar!
+You ready an explosive catalyst.|Preparaste un catalizador explosivo.
+You really shouldn't be using a chaotic item like this.|No deberías usar un artículo caótico como este.
+You really shouldn't be using a hasty item like this.|Realmente no deberías usar un artículo apresurado como este.
+You really shouldn't be using a holy item like this.|Realmente no deberías usar un artículo santo como este.
+You really shouldn't be using an evil item like this.|Realmente no deberías usar un objeto malo como este.
+You really shouldn't be using an unclean item like this.|Realmente no deberías usar un objeto impuro como este.
+You recall your battlesphere and imbue it with additional|Recuerdas tu esfera de batalla e imprimela con más
+You recover from your berserk rage.|Te recuperas de tu rabia de berserk.
+You redirect %s's attack!|¡redirige el ataque de ZZ001ZZZZZ!
+You reel with horror at the sight of these foes!|¡Te rebelas con horror ante los ojos de estos enemigos!
+You rejoin the land of the living...|Te unes a la tierra de los vivos...
+You release your grip on the fallen and begin the cycle anew!|¡libera su agarre sobre los caídos y comienza el ciclo de nuevo!
+You remember only oblivion.|Sólo recuerdas el olvido.
+You repel a surge of foreign magic.|Repeles una oleada de magia extranjera.
+You resist the pull of the Abyss.|Te resistes al abismo.
+You resist.|Te resistes.
+You return to the normal time flow.|Vuelves al flujo de tiempo normal.
+You reveal a symbol of torment!|¡Te revelas un símbolo de tormento!
+You reveal the great annihilating truth to your foes!|¡revelan la gran verdad aniquiladora a sus enemigos!
+You savour every drop.|Saboriza cada gota.
+You see a ghostly outline there, and the spell fizzles.|Ves un contorno fantasmal allí, y el hechizo brilla.
+You see a puff of smoke.|Ves un poco de humo.
+You see nothing there to target!|¡No ves nada ahí para apuntar!
+You see nothing there to target.|No ves nada ahí para apuntar.
+You see sparks fly.|Ves chispas volar.
+You seem to hear sand running through an hourglass...|Pareces oír arena corriendo por un reloj de arena...
+You sense a hostile presence.|siente una presencia hostil.
+You sense a monster nearby.|Siento un monstruo cerca.
+You sense an evil presence.|siente una presencia malvada.
+You sense an unholy aura.|Sentiste un aura impía.
+You sense the presence of something unfriendly.|siente la presencia de algo poco amistoso.
+You set off the alarm!|¡Apagas la alarma!
+You set the figurine down, and a mystic portal to a ziggurat forms.|Pusiste la figura abajo, y un portal místico a formas ziggurat.
+You shake off some of the fire as you move.|Agitas el fuego mientras te mueves.
+You shake off the liquid fire.|sacude el fuego líquido.
+You shape a spike launcher from a nearby wall.|Formas un lanzagranadas de una pared cercana.
+You should not fight recklessly!|¡No deberías luchar imprudentemente!
+You shrug off repeated attempt to disable you.|Repetidamente intentas desactivarte.
+You shrug off the repeated attempt to disable you.|Te cortas el repetido intento de desactivarte.
+You shrug off the wave.|Te cortas la ola.
+You sigh wistfully at the memory of the taste.|Suspiras con fuerza en la memoria del gusto.
+You slam the %s%s shut with a bang%s!|¡Slamaste el ZZ001ZZ%sZC cerrado con un bangZZ003ZZZ!
+You slide down the stairs, becoming coated in regenerative ooze.|Bajas por las escaleras, recubriendo en ooze regenerativo.
+You slip free of the bolas.|Te liberas de las bolas.
+You slip past the binding sigil.|Te deslizas por encima del sigil vinculante.
+You snap out of your daze.|Te sacas de la barriga.
+You somehow manage to escape divine attention...|De alguna manera logras escapar de la atención divina...
+You speak a word of chaos!|¡Hablas una palabra de caos!
+You spew toxic sludge!|¡Azotas lodos tóxicos!
+You splash onto the ground.|Te lanzas al suelo.
+You spring back to your original position.|Vuelves a tu posición original.
+You stand defiantly in death's doorway!|¡Estás desafiante en la puerta de la muerte!
+You start %s your %s.|comienza ZZ001ZZZ su ZZ002ZZZZ.
+You start resting.|Empiezas a descansar.
+You start waiting.|Empiezas a esperar.
+You steady yourself in place and focus your resilience into a mighty blast.|Te mantienes en su lugar y enfocas tu resiliencia en una gran explosión.
+You step out of the flow of time.|Sal del flujo del tiempo.
+You stomp with the beat, sending a shockwave through the revellers|golpea con el ritmo, enviando una onda de choque a través de los revellers
+You stop ascending the stairs.|Dejas de subir las escaleras.
+You stop assembling your clockwork bee.|Deja de montar tu abeja de relojería.
+You stop channelling waves of flame.|Deja de canalizar ondas de llama.
+You stop channelling your searing ray.|Deja de canalizar tu rayo.
+You stop descending the stairs.|Deja de bajar las escaleras.
+You stop digging.|Deja de cavar.
+You stop dropping stuff.|Deja de soltar cosas.
+You stop imbuing your servitor.|Deja de impresionar a tu servidor.
+You stop transforming.|Deja de transformarte.
+You struggle against the net.|Luchas contra la red.
+You struggle to detach yourself from the web.|Luchas por separarte de la web.
+You suddenly feel drained of magical energy!|¡De repente te sientes agotada de energía mágica!
+You suddenly lose the ability to move!|¡De repente pierdes la capacidad de moverse!
+You suffer the terrible wrath of No God.|sufre la terrible ira de No Dios.
+You swap places with your shadow and weave the vestiges of your form into it.|Cambias lugares con tu sombra y tejes los vestigios de tu forma en ella.
+You swear to avenge %s death!|¡Juras por vengarte de la muerte de ZZ001ZZZZZ!
+You swing at nothing.|No te balanceas.
+You swoop lightly up into the air.|Te cagas ligeramente en el aire.
+You take a swig of the potion and flex your muscles.|Tomas un trago de la poción y flexionas tus músculos.
+You tear a large gash into the net.|Lástimas una gran gasa en la red.
+You tried to hop, but there was no room to land!|¡Trataste de saltar, pero no había espacio para aterrizar!
+You trigger a net trap.|Tú disparas una trampa.
+You try to forge sawblades, but something it already there!|Intentas forjar sierras, ¡pero algo ya está ahí!
+You turn to %s%s.|Gire a %sZ002ZZZZZ.
+You unleash %s concussive blast!|¡Desatan ZZ001ZZZZ!
+You unleash the spiteful dead!|¡Desatan a los muertos rencorosos!
+You wake up.|Te despiertas.
+You warp the flow of time around you!|¡Peleas el flujo del tiempo a tu alrededor!
+You weave more energy into your solar ember.|Teje más energía en su embajada solar.
+You wobble for a moment.|Te pusiste un momento.
+You writhe in agony!|¡Escribes la agonía!
+You're already at the bottom of this branch!|¡Ya estás en el fondo de esta rama!
+You're not ready to recite again yet.|Aún no estás listo para recitar.
+You're too berserk to give orders, and you can't shout!|¡Eres demasiado tonto para dar órdenes, y no puedes gritar!
+You're too confused to aim your attacks!|¡Estás muy confundido para apuntar tus ataques!
+You're too confused to attack without stumbling around!|¡Estás demasiado confundida para atacar sin tropiezos!
+You're too confused to cast spells.|Estás demasiado confundido para lanzar hechizos.
+You're too confused to move!|¡Estás demasiado confundido para moverte!
+You're too dead to put down roots!|¡Estás muerto para echar raíces!
+You're too inexperienced to learn that spell!|¡Eres demasiado inexperto para aprender ese hechizo!
+You're too terrified to move while being watched!|¡Estás demasiado aterrorizado para moverte mientras te observan!
+Your %s briefly %s through it before you manage|Su ZZ001ZZZ brevemente ZZ002ZZ a través de él antes de administrar
+Your %s grows more durable.|Su %sZ crece más durable.
+Your %s grows stronger.|Su %sZ crece más fuerte.
+Your %s have fully recharged.|Su %sZ se ha recargado completamente.
+Your %s mutation feels more permanent.|Su mutación ZZ001ZZZZ se siente más permanente.
+Your %s shines brightly!|¡Tu ZZ001ZZZ brilla brillantemente!
+Your %s%s skill %s %d levels and is now|Su %sZZ002ZZZ habilidad ZZ003ZZZZZ%d niveles y ahora
+Your %s%s skill %s to level %d!|Su %sZZ002ZZZ habilidad ZZ003ZZZ a nivel ZZ004ZZZ!
+Your accumulated destruction dissipates without a target.|Su destrucción acumulada disipa sin un objetivo.
+Your aim is not that steady anymore.|Tu objetivo ya no es tan estable.
+Your anger overwhelms your terror!|¡Tu ira abruma tu terror!
+Your apostles return to your side.|Sus apóstoles vuelven a su lado.
+Your atemporal blood churns to no real effect.|Tus atemporales churnes de sangre sin ningún efecto real.
+Your attempt to draw power from your own body fails.|Su intento de sacar el poder de su propio cuerpo falla.
+Your battlesphere expends the last of its energy|Tus batallas de la tierra gastan el último de su energía
+Your battlesphere wavers and loses cohesion.|Tus batallas despiden y pierden la cohesión.
+Your bee can only target hostiles.|Tu abeja sólo puede atacar a los hostiles.
+Your bee fails to deploy!|¡Tu abeja no se despliega!
+Your binding sigil disappears.|Tu sigil vinculante desaparece.
+Your binding sigils disappear.|Tus sigiles de unión desaparecen.
+Your blood congeals into armour.|Tu sangre congela en la armadura.
+Your blood rage is quickly leaving you.|Tu rabia de sangre te deja rápidamente.
+Your body becomes as fragile as glass!|¡Tu cuerpo se vuelve tan frágil como el vidrio!
+Your body crumbles into a pile of gold.|Tu cuerpo se desmorona en una pila de oro.
+Your body decomposes!|¡Tu cuerpo se descompone!
+Your body is bloodless.|Tu cuerpo no tiene sangre.
+Your body is healed in an amazingly painful way.|Tu cuerpo está curado de una manera increíblemente dolorosa.
+Your body is suffused with distortional energy.|Su cuerpo es sofocado con energía distorsionada.
+Your body is warped painfully!|¡Tu cuerpo está herido dolorosamente!
+Your body is wracked with pain!|¡Tu cuerpo está lleno de dolor!
+Your body momentarily shudders from a surge of wild|Su cuerpo momentáneamente se estremece de una oleada de salvaje
+Your body shudders with the violent release|Tu cuerpo se estremece con la liberación violenta
+Your body starts to freeze solid!|¡Tu cuerpo comienza a congelarse sólido!
+Your bribe of %s has been exhausted.|Su soborno de ZZ001ZZZZ ha sido agotado.
+Your cacophony subsides as you depart the area.|Su cacofonía se encuentra al salir de la zona.
+Your capacity for spells is full, and you lose|Tu capacidad para los hechizos está llena, y pierdes
+Your charge dissipates without a target.|Su carga se disipa sin un objetivo.
+Your clarity of mind shields you.|Tu claridad mental te protege.
+Your cloak of flame flares fiercely!|¡Tu capa de llama brilla ferozmente!
+Your concentration is interrupted.|Su concentración se interrumpe.
+Your condensation shield dissipates!|¡Su escudo de condensación disipa!
+Your damage is reflected back at you!|¡Tu daño se refleja en ti!
+Your demonic ancestry asserts itself...|Tu ascendencia demoníaca se afirma...
+Your demonic guardian avoids your attack.|Tu guardián demoníaco evita tu ataque.
+Your destruction surges wildly!|¡Tu destrucción se levanta salvajemente!
+Your divine shield fades away.|Tu escudo divino se desvanece.
+Your divine shield is renewed.|Tu escudo divino es renovado.
+Your divine stamina fades away.|Tu fuerza divina se desvanece.
+Your divine stamina protects you from confusion!|¡Tu fuerza divina te protege de la confusión!
+Your divine stamina protects you from disease!|¡Tu fuerza divina te protege de la enfermedad!
+Your divine stamina protects you from petrification!|¡Tu fuerza divina te protege de la petrificación!
+Your divine stamina protects you from the miasma!|¡Tu fuerza divina te protege del miasma!
+Your divine vigour fades away.|Su vigor divino se desvanece.
+Your existing bee falls apart.|Tu abeja existente se desmorona.
+Your extra speed is starting to run out.|Tu velocidad extra está empezando a funcionar.
+Your familiar is too far away to imbue with magic.|Tu familiar está demasiado lejos para impregnarse de la magia.
+Your finesse ends abruptly.|Su finura termina abruptamente.
+Your fire resistance burns away!|¡Tu resistencia al fuego se quema!
+Your flames quiet as the last of your memories are burnt away.|Tus llamas callan mientras el último de tus recuerdos se quema.
+Your fortress blast dissipates harmlessly.|Su explosión de fortaleza disipa inofensivamente.
+Your god isn't willing to do this for you now.|Tu dios no está dispuesto a hacer esto por ti ahora.
+Your health is already full.|Su salud ya está llena.
+Your icy armour cracks and falls away as|Tu helada armadura se rompe y se cae como
+Your icy armour melts away.|Tu helada armadura se derrite.
+Your icy armour thickens.|Tu helada armadura se espesa.
+Your icy defences dissipate!|¡Tus defensas heladas se disipan!
+Your legs become a tail as you dive into the water.|Tus piernas se convierten en una cola mientras buceas en el agua.
+Your library has no spells.|Tu biblioteca no tiene hechizos.
+Your life force feels restored.|Tu fuerza vital se siente restaurada.
+Your life is in your own hands once again.|Tu vida está en tus propias manos una vez más.
+Your limbs are stiffening.|Tus extremidades están endureciendo.
+Your lungs strain for air.|Tus pulmones se colan para el aire.
+Your magic begins regenerating once more.|Tu magia comienza a regenerarse una vez más.
+Your magic feels %stainted.|Tu magia siente %stainted.
+Your magic returns to you!|¡Tu magia vuelve a ti!
+Your magical contamination has completely faded away.|Tu contaminación mágica se ha desvanecido completamente.
+Your magical contamination has faded to a safe level.|Tu contaminación mágica se ha desvanecido a un nivel seguro.
+Your magical effects are unravelling.|Tus efectos mágicos son desenfrenados.
+Your magical effects refuse to unravel!|¡Tus efectos mágicos se niegan a desentrañar!
+Your magical reserves are too exhausted to conjure more reagents.|Sus reservas mágicas están demasiado agotadas para conjurar más reactivos.
+Your mandibles meld away.|Tus mandíbulas se fusionan.
+Your meditation is interrupted.|Tu meditación es interrumpida.
+Your memorisation is interrupted.|Tu memorización es interrumpida.
+Your memory of the abyssal rune fades away.|Tu memoria del abismo se desvanece.
+Your messages:|Sus mensajes:
+Your mind is already too full of spells!|¡Tu mente ya está demasiado llena de hechizos!
+Your mind is blasted!|¡Tu mente está llena!
+Your necklace shatters, unleashing a wave of protective dreams!|¡Tu collar se rompe, desatando una ola de sueños protectores!
+Your orb flickers with a hungry flame!|¡Tus pinzones con una llama hambriento!
+Your orb has finished recharging its magic.|Tu orbe ha terminado de recargar su magia.
+Your orcish features manifest fully.|Sus características orcas se manifiestan completamente.
+Your pain echoes through the poison around you!|¡Tu dolor hace eco a través del veneno que te rodea!
+Your paragon attacks with you!|¡Tu paragona ataca contigo!
+Your paragon expends all of its energy in an overwhelming flurry of blows!|¡Tu paragona gasta toda su energía en una abrumadora tormenta de golpes!
+Your paragon has reached its maximum power!|¡Su paragon ha alcanzado su máximo poder!
+Your paragon is now ready to unleash a masterful attack.|Su paragon ahora está listo para desencadenar un ataque magistral.
+Your passage of Golubria closes with a snap!|¡Tu pasaje de Golubria cierra con un snap!
+Your performance comes to an abrupt end.|Su rendimiento llega a un final abrupto.
+Your power is siphoned away as the spells of %s are empowered!|Su poder está apagado ya que los hechizos de ZZ001ZZZZ están empoderados!
+Your power is siphoned away!|¡Tu poder está apagado!
+Your projectile teleports!|¡Tus telepuertos proyectiles!
+Your rain of reagents ends.|Tu lluvia de reactivos termina.
+Your recitation is interrupted.|Tu recitación se interrumpe.
+Your reserves of magic are already full.|Sus reservas de magia ya están llenas.
+Your roots penetrate the ground.|Tus raíces penetran en el suelo.
+Your scales feel tougher.|Tus escalas se sienten más duras.
+Your scales start taking on %s colour.|Sus escalas comienzan a tomar el color ZZ001ZZZZZ.
+Your search expression is invalid.|Su expresión de búsqueda es inválida.
+Your shape twists and changes as you die.|Tu forma se torna y cambia mientras mueres.
+Your shopping list is now empty.|Su lista de compras está vacía.
+Your skin feels tougher.|Tu piel se siente más dura.
+Your skin stops crawling.|Tu piel deja de arrastrarse.
+Your spectral weapon shares its damage with you!|¡Tu arma espectral comparte su daño contigo!
+Your spike launcher falls apart as you grow too distant to|Tu lanzallamas se desmorona mientras creces demasiado lejos
+Your spike launcher falls apart.|Tu lanzadores se desmorona.
+Your spilled blood starts moving with violent intent!|¡Tu sangre derramada comienza a moverse con una intención violenta!
+Your stasis prevents you from being hasted.|Su estasis le impide ser precipitado.
+Your stasis prevents you from being paralysed.|Su estasis le impide ser paralizado.
+Your stasis prevents you from being slowed.|Su estasis le impide ser ralentizado.
+Your strength is siphoned away, and you feel your attacks grow feeble!|¡Tu fuerza está apagada, y sientes que tus ataques crecen débiles!
+Your supernatural speed expires.|Tu velocidad sobrenatural expira.
+Your surroundings flicker for a moment.|Por un momento, tu entorno se deslumbra.
+Your surroundings seem slightly different.|Tus alrededores parecen ligeramente diferentes.
+Your surroundings suddenly seem different.|Su entorno de repente parece diferente.
+Your system partially rejects the healing.|Su sistema rechaza parcialmente la curación.
+Your system rejects the healing.|Tu sistema rechaza la curación.
+Your tail turns into legs as you fly out of the water.|Tu cola se convierte en piernas mientras vuelas fuera del agua.
+Your teleport is interrupted.|Tu teletransporte es interrumpido.
+Your thirst for blood prevents you from unwielding|Su sed de sangre le impide desenrollar
+Your time-warped blood is ready to ripple again.|Tu sangre temporizada está lista para romper de nuevo.
+Your tiny sun winks out.|Tu sol diminuto gana.
+Your toxic radiance grows in intensity.|Su radiación tóxica crece en intensidad.
+Your tunneler's instincts keep you from falling into a shaft!|¡Los instintos de tu túnel te impiden caerte en un eje!
+Your unstable footing causes you to fumble your attack.|Tu pie inestable te hace fusionar tu ataque.
+Your wave of flame reaches its maximum intensity and dissipates.|Su onda de llama alcanza su máxima intensidad y disipa.
+Your weapon can't reach that far!|¡Tu arma no puede llegar tan lejos!
+Your weapon exudes an aura of protection.|Su arma exude un aura de protección.
+Your weapon gleams with eagerness.|Su arma brilla con entusiasmo.
+Your will is overpowered!|¡Tu voluntad está sobrepoderada!
+Your willpower is stripped away!|¡Tu fuerza de voluntad está despojada!
+Yredelemnul refuses to let your conquest be stopped by a trick of|Yredelemnul se niega a dejar que su conquista sea detenida por un truco de
+Yredelemnul sends servants to aid you!|¡Yredelemnul envía sirvientes para ayudarte!
+Zin's power protects your fellow warrior from evil magic!|¡El poder de Zin protege a tu compañero guerrero de la magia malvada!
+Zooming to %.2f|Zoom a %.2f
+Zot already knows this place too well. Descend or flee this branch!|Zot ya conoce este lugar demasiado bien. ¡Desciende o huye de esta rama!
+Zot draws nearer.|Zot se acerca más.
+Zot has nearly found you. Suffering is imminent.|Zot casi te ha encontrado. El sufrimiento es inminente.
+Zot has no power in the Abyss.|Zot no tiene poder en el Abismo.
+Zot senses the otherworldly energies of your %s gem, and will|Zot siente las energías del otro mundo de su gema ZZ001ZZZZ, y voluntad
+Zot's attention fixes on you again. Descend or flee this branch!|La atención de Zot te arregla de nuevo. ¡Desciende o huye de esta rama!
+Zot's power touches on you...|El poder de Zot te toca...
