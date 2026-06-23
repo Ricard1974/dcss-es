@@ -74,3 +74,33 @@ You block the %s.|Bloqueas al %s.
 The %s grabs you.|%s te agarra.
 
 Slain by |Muerto por 
+
+# Verbos de combate
+attack|ataque
+batter|batter
+beat|beat
+bludgeon|bludgeon
+carve|carve
+claw|garra
+clumsily bash|torpemente bajo
+dice|#
+eviscerate|eviscerate
+flagellate|flagellate
+flog|flog
+fracture|fractura
+hit|hit
+impale|impale
+mangle|mangle
+pummel|pummel
+punch|golpe
+puncture|punción
+scratch|arañazo
+shatter|♪
+shave|shave
+slash|slash
+slice|rebanada
+spit|spit
+splatter|slatter
+squash|squash
+tentacle-slap|pértiga de la bofetada
+thrash|silencio
