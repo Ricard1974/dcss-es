@@ -137,7 +137,7 @@ your the Royal Jelly|tu Jalea Real
 %s is completely immune to your confusing touch!|%s es completamente inmune a su toque confuso!
 %s is dispelled%s|%s es dispelled%s
 %s is healed.|%s está curado.
-%s is seared by the foul flame within you%s|%s es sellado por la llama del alma dentro de usted%s
+%s is seared by the foul flame within you%s|%s es sellado por la llama del alma dentro de ti%s
 %s is struck blind by the light of your shield.|%s es golpeado ciego por la luz de su escudo.
 %s mind%s blasted%s|%s mind%s blasted%s
 %s poisons %s!|¡PlH1 venenos %s!
