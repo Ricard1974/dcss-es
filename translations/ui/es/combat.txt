@@ -95,3 +95,89 @@ whirl of blades|torbellino de cuchillas
 with an invisible shield|con un escudo invisible
 you return to your previous form.|vuelves a tu forma anterior.
 your the Royal Jelly|tu Jalea Real
+
+# ============================================================================
+# Mensajes de combate dinámicos (con %s para nombres de monstruos)
+# ============================================================================
+%s %s %s attack.|%s %s %s ataque.
+%s %s %s but %s no damage.|%s %s %s pero %s sin daños.
+%s %s %s ground!|%s %s %s tierra!
+%s %s %s last head off!|%s %s %s última cabeza apagada!
+%s %s %s vigour!|%s %s %s vigour!
+%s %s %s!|%s %s %s!
+%s %s %s%s|%s %s %s%s
+%s %s %s%s%s|%s %s %s%s%s
+%s %s %s.|%s %s %s.
+%s %s afflicted by dizzying energies!|%s %s afligido por energías mareadas!
+%s %s backwards!|%s %s atrás!
+%s %s engulfed in a cloud of dizzying spores!|%s %s envuelto en una nube de esporas vertiginosas!
+%s %s engulfed in a cloud of soporific spores!|%s %s envuelto en una nube de esporas soporíficas!
+%s %s engulfed in flames%s|%s %s envolvido en llamas%s
+%s %s held in place!|%s %s mantenido en su lugar!
+%s %s life force from %s%s|%s %s fuerza de vida de %s%s
+%s %s one of %s heads off!|%s %s una de las cabezas de %s!
+%s %s shatters into small pieces.|%s %s rompe en piezas pequeñas.
+%s %s skewered by barbed spikes.|%s %s esquejado por espigas de púas.
+%s %s vitality from %s injuries!|%s %s vitalidad de lesiones %s!
+%s %s%s|%s %s%s
+%s %s%s %s%s%s%s%s|%s %s%s %s%s%s%s%s
+%s and strikes %s%s|%s y huelgas %s%s
+%s appears from out of thin air!|%s aparece de fuera del aire delgado!
+%s appears from out of your range of vision.|%s aparece de fuera de su gama de visión.
+%s blocks the %s with %s %s... and reflects it back!|%s bloquea el %s con %s %s.. y lo refleja de nuevo!
+%s blocks the %s.|%s bloquea el %s.
+%s crush%s %s against the %s%s|%s aplasta%s %s contra el %s%s
+%s drags %s backwards!|%s arrastra %s hacia atrás!
+%s drains %s %s.|%s drena %s %s.
+%s draws strength from your wounds!|%s saca fuerza de tus heridas!
+%s fails to defend %s.|%s no defiende %s.
+%s fire resistance burns away.|La resistencia al fuego %s se quema.
+%s fire resistance is stripped away!|¡La resistencia al fuego %s está despojada!
+%s is blasted smooth%s|%s es lisa de explosión %s
+%s is completely immune to your confusing touch!|%s es completamente inmune a su toque confuso!
+%s is dispelled%s|%s es dispelled%s
+%s is healed.|%s está curado.
+%s is seared by the foul flame within you%s|%s es sellado por la llama del alma dentro de usted%s
+%s is struck blind by the light of your shield.|%s es golpeado ciego por la luz de su escudo.
+%s mind%s blasted%s|%s mind%s blasted%s
+%s poisons %s!|¡PlH1 venenos %s!
+%s seems less certain of %s magic.|%s parece menos cierto de la magia %s.
+%s strikes at %s from the darkness!|%s golpea a %s de la oscuridad!
+%s turn%s aside %s attack!|%s turn%s aparte ataque %s!
+%s writhes in agony%s|%s escribe en agonía%s
+%s%s misses %s.|%s%s pierde %s.
+A stygian plague fills %s body.|Una plaga estigiana llena el cuerpo de %s.
+Faint brimstone surges around %s!|Faint brimstone surge alrededor de %s!
+It tastes like %s.|Sabe como %s.
+Something tries to affect you, but you %s.|Algo intenta afectarte, pero tú %s.
+The %s %s %s%s%s%s|%s %s %s%s%s%s
+The %s reflects off an invisible shield around %s!|¡El %s refleja un escudo invisible alrededor del %s!
+The bolas passes through %s!|¡Las bolas pasan por %s!
+The bolas warps around %s and binds %s in place!|Las bolas caen alrededor del %s y unen el %s en su lugar!
+The eyeballs on your body gaze at %s.|Los globos oculares en tu cuerpo miran al %s.
+The magic binding %s to this plane unravels!|¡El %s mágico a este plano se desenvuelve!
+The mercury splashes!|¡El mercurio brota!
+You %s %s from behind!|¡Vosotros %s %s por detrás!
+You %s %s%s%s%s%s%s|%s %s%s%s%s%s%s
+You %s %s%s.| %s %s%s.
+You attempt to attack %s, but flinch away in fear!|¡Intentas atacar a %s, pero aflojar en miedo!
+You block the %s... and reflect it back!|Bloqueas el %s... y lo reflejan de nuevo!
+You cannot shoot with your %s while %s.|No puedes disparar con tu %s mientras que %s.
+You cannot throw/fire anything while %s.|No puedes tirar / disparar cualquier cosa mientras %s.
+You catch %s completely off-guard!|¡Atrapas a %s completamente fuera de la guardia!
+You devour %s%s!|¡Devoras %s%s!
+You drain %s %s.|Drenas %s %s.
+You feel %sfirmly anchored in space.|Sientes %sfirmly anclado en el espacio.
+You feel life coursing into your body%s|Sientes la vida coursing en tu cuerpo%s
+You knock %s out of %s grip!|¡Nombras a %s fuera de la empuñadura de %s!
+You pounce on the unaware %s!|¡Ponga en el %s inconsciente!
+You sap %s willpower!|¡Sap %s fuerza!
+You sink your fangs into %s and drain %s dry!|Hundes sus colmillos en %s y drena %s seco!
+You sink your fangs into %s and drink %s %s.|Hundes sus colmillos en %s y beber %s %s.
+You spit out %s as %s %s y %s in your maw!|Escupes a %s como %s %s %s en tu mandíbula!
+Fallas a %s%s.|Fallas a %s%s.
+Your %s blocks the %s... and reflects it back!|Tu %s bloquea el %s y lo refleja de nuevo!
+Your paragon deflects %s attack away from you.|Tu paragón desvía el ataque %s lejos de ti.
+Your tendrils lash around %s %s and pull it to the ground!|¡Tus pañuelos se agitan alrededor de %s %s y lo tiran al suelo!
+Your will lashes out at %s%s|Tu testamento se desvanece en %s%s
+your slimy shroud breaks as it bends %s attack away%s|tu sudario viscoso rompe mientras dobla el ataque %s de distancia %s
