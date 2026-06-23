@@ -62,3 +62,13 @@ Your strength is siphoned away as %s grow%s stronger!|¡Tu fuerza está apagada 
 You see here %s.|Ves aquí %s.
 %s is nearby|%s está cerca
 You encounter %s.|Te encuentras con %s.
+You die...|Has muerto...
+The %s hits you.|%s te golpea.
+The %s bites you.|%s te muerde.
+The %s is lightly wounded.|%s está ligeramente herido.
+* * * LOW HITPOINT WARNING * * *|* * * AVISO DE POCA SALUD * * *
+You miss the %s.|Fallas al %s.
+You completely miss %s.|Fallas completamente a %s.
+The %s barely misses you.|%s por poco te falla.
+You block the %s.|Bloqueas al %s.
+The %s grabs you.|%s te agarra.
