@@ -122,10 +122,9 @@ mkdir -p dat/ui/es/
 cp "$PROJECT_DIR/translations/ui/es/"*.txt dat/ui/es/
 echo "  ✓ $(ls dat/ui/es/*.txt | wc -l) archivos copiados"
 
-# ── 14. Generar cabeceras ──
+# ── 14. Generar cabeceras (make lo hará si es necesario) ──
 echo ""
-echo "⚙️  Generando cabeceras..."
-python3 util/gen-all.py 2>&1 | grep -v "Error:"
+echo "⚙️  Generando cabeceras (si es necesario)..."
 
 # ── 15. Compilar ──
 echo ""
