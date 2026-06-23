@@ -1,0 +1,30 @@
+Innate Abilities, Weirdness & Mutations
+     You are immune to poison.
+ a - You have sharp fingernails.
+ b - You are cold resistant. (rC+)
+ c - Your magical capacity is very low. (-20% MP)
+ d - You are immune to negative energy. (rN+++)
+ e - You are immune to unholy pain and torment.
+ f - You perform a melee attack whenever you cast damage-dealing spells.
+ g - You recover more slowly from Doom and Banes.
+ h - [You will be able to burn memories to enhance your damage-dealing spells.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[]: Gained at a future XL.
+

@@ -1,0 +1,30 @@
+Saci Hia the Grave Robber (Revenant Necromancer)     Turns: 391, Time: 00:09:33
+Salud:2/14         CA: 2     Fue:11     NX:1Sig.:91%
+Magia:3/3          EV:11     Int:14     Dios:
+Oro:19             ER: 0     Des: 9     Hechizos:3/4 levels left
+
+rFire   . . .  (100%)   a - +0 dagger
+rCold   + . .  (50%)    (no offhand)
+rNeg    + + +  (0%)     b - +0 robe
+rPois   ∞      (0%)     (no helmet)
+rElec   .      (100%)   (no cloak)
+rCorr   .      (100%)   (no gloves)
+SInv    .               (no boots)
+Will    .....           (no amulet)
+Stlth   ++              (no ring)
+HPRegen 0.22/turn       (no ring)
+MPRegen 0.08/turn
+
+%: no passive effects
+@: no status effects
+A: claws 1, cold resistance 1, low MP 2, negative energy resistance 3, torment
+resistance 2, spellclaws, accursed
+
+
+
+
+
+
+
+
+

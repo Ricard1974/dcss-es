@@ -547,3 +547,17 @@ connector placement failed at %d %d|la colocación del conector falló en %d %d
 tentacle connect failed! What the heck!  severed status %d|¡La conexión del tentáculo falló! ¡Qué diablos! estado grave %d
 unknown item: %s|elemento desconocido: %s
 your slimy shroud breaks as it bends %s attack away%s|tu slimy shroud rompe mientras dobla el ataque %s lejos%s
+
+# Bot QA fixes
+%s is wounded.|%s está herido.
+%s is lightly wounded.|%s está ligeramente herido.
+%s is moderately wounded.|%s está moderadamente herido.
+%s is heavily wounded.|%s está gravemente herido.
+%s is severely wounded.|%s está severamente herido.
+%s is almost dead.|%s está casi muerto.
+%s bites you but does no damage.|%s te muerde pero no te hace daño.
+The %s bites you but does no damage.|El %s te muerde pero no te hace daño.
+%s attacks as it pursues you!|¡%s te ataca mientras te persigue!
+Hit %s|Golpeas a %s
+Hit the %s|Golpeas al %s
+Confirm with . or Enter, or press ? or * to list all spells.|Confirma con . o Enter, o pulsa ? o * para listar hechizos.

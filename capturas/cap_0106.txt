@@ -1,0 +1,30 @@
+Hello, welcome to Dungeon Crawl Stone Soup 0.34.1!
+(c) Copyright 1997-2002 Linley Henzell, 2002-2025 Crawl DevTeam
+
+Introduce tu nombre: Saci Hiaooo
+
+Opciones:            Mazmorras de Piedra Sopa
+                     Elegir Semilla de Juego
+                     Tutorial de Mazmorras de Piedra Sopa
+                     Modo Pistas de Mazmorras de Piedra Sopa
+                     Sprint de Mazmorra
+                     Instrucciones
+                     La Arena
+                     Puntuaciones Altas
+
+Partidas guardadas:  [Tutorial] hojhoh, a level 2 Human Fighter
+                     Cycliwo, a level 1 Kobold Warper
+                     [Tutorial] Kuuhosoc, a level 1 Human Fighter
+                     Loruit, a level 1 Revenant Necromancer
+                     Nuxkuwk, a level 1 Gnoll Shapeshifter
+                     Temunwil, a level 1 Revenant Necromancer
+                     Ziobli Ystran, a level 1 Gnoll Fighter
+                     a, a level 1 Gnoll Fighter
+                     hjh, a level 1 Revenant Necromancer
+                     kjfd, a level 1 Human Fighter
+
+[tab] quick-start last combo: Saci Hia the Revenant Necromancer
+[ctrl-p] view rc file information and log
+
+Mazmorras de Piedra Sopa: El juego principal: lleno de monstruos, objetos,
+dioses y peligro.

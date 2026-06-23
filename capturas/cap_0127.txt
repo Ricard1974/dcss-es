@@ -1,0 +1,30 @@
+#.†...................               Saci Hia the Grave Robber
+#...........######.##.               Revenante
+###........#      ..                 Salud:14/14       ========================
+## #......  #.    .....              Magia:3/3         ========================
+.#  ...... ##..   ....               CA:  2            Fue: 11
+.#  ......  ..w   :..                EV: 11            Int: 14
+.#  ......   ..###..#                ER:  0            Des: 9
+##            ....!.#                NX: 1 Sig.:41%    Lugar:Dungeon:1
+#              .....#                Ruido: ---------  Time: 94.0 (1.0)
+#  #######     #....#                a) +0 dagger
+####..)..#     #@#######             Cast: Soul Splinter
+...#.###.#     #.......#
+##.#.#...#######.#####.#
+.................#                   w   dart slug (asleep)
+##.#.....#######.#
+...#######     #.#
+####           #.#
+               #..
+               #.#
+               #.#
+               #.#
+ Welcome back, Saci Hia the Revenant Necromancer.
+_Presione неленних? Seguido / w > para una lista de comandos y otra información.
+_Te encuentras con a dart slug.
+
+
+
+
+
+

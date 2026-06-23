@@ -1,0 +1,30 @@
+...............#   #.........#       Saci Hia the Grave Robber
+####.##.####...#   ####..#...####    Revenante
+........####...########......##..    Salud:6/14        ==========--------------
+.###..................#.....###..    Magia:3/3         ========================
+†#...............................    CA:  2            Fue: 11
+...#..................#.....###..    EV: 11            Int: 14
+.###..######...#########.#### #..    ER:  0            Des: 9
+......#  ###...###     #.########    NX: 1 Sig.:91%    Lugar:Dungeon:1
+......#  #.......#     #.##......    Ruido: =--------  Time: 390.0 (1.0)
+##....#  #.#...#.#     #.##.#####    a) +0 dagger
+ #.#######.#...#@#     #.......##    Cast: Soul Splinter
+ #.......# #...gJ#     ####.##.##
+##.#####.# #...#.#        #.##.##
+...#       ##......$..    #......    J   endoplasm
+##.#       .....[#..##    ####...    g   goblin
+ #.#     ...........#        ####
+ #.#   #..##........%.
+ #..   ..  #..#.##[.#.#
+ #.#   #   #....# ..#.#
+ #.#       #.. ..  ..
+ #.#
+_The goblin hits you with a +0 club.
+_You closely miss the goblin. The endoplasm hits you.
+_The goblin hits you with a +0 club.
+_¡No puedes bajar aquí!
+_Vale, entonces.
+ You barely miss the goblin. The goblin barely misses you.
+ The endoplasm congela you.
+_You are frozen. Te resistes.
+

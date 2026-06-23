@@ -1,0 +1,30 @@
+                              #..    Saci Hia the Grave Robber
+               ################.#    Revenante
+               #.................    Salud:14/14       ========================
+               #.P~~~~≈~~~P...P~~    Magia:3/3         ========================
+               #.~≈~~~~~≈≈~...~≈≈    CA:  2            Fue: 11
+              ##.~≈≈~~~~≈≈~...~~~    EV: 11            Int: 14
+          #####..P~~≈~~~≈≈.....~~    ER:  0            Des: 9
+          #....!............<....    NX: 1 Sig.: 0%    Lugar:Dungeon:1
+          #.####.P~~~~~~~≈.[...~~    Ruido: ---------  Time: 32.0 (1.0)
+               #.~~~~~~~~~~...~~~    a) +0 dagger
+               #@~≈≈~~~~~~~...~~~    Cast: Soul Splinter
+              #..P~~~~~~≈~P...P~≈
+              #.w................
+              #...........######.    w   dart slug
+              ###........#      .
+                 #......
+                  ......
+                  ......
+
+
+
+_c - a scroll labelled OSIYPH AFFIRPH
+_Te encuentras con a dart slug.
+_A dart slug is nearby!
+_A dart slug is nearby!
+_A dart slug is nearby!
+_A dart slug is nearby!
+_A dart slug is nearby!
+_A dart slug is nearby!
+

@@ -1,0 +1,30 @@
+     #.# #.†...................      Saci Hia the Grave Robber
+     #.# #...........######.##.      Revenante
+     #.# ###........#      ..        Salud:14/14       ========================
+     #.#### #......                  Magia:3/3         ========================
+     #....#  ......                  CA:  2            Fue: 11
+     #....#  ......                  EV: 11            Int: 14
+     ##...#  ......                  ER:  0            Des: 9
+      ##.##                          NX: 1 Sig.:41%    Lugar:Dungeon:1
+       #.#                           Ruido: ---------  Time: 81.0 (1.0)
+       #.#  #######                  a) +0 dagger
+    ####.####..)@.#                  Cast: Soul Splinter
+    #.>.....#.###.#
+    #.##.##.#.#...####
+    #  #.................
+       ####.#.....#######
+         ...#######
+        #####
+
+
+
+
+_HP restaurado.
+_f - a fizzy grey potion
+_Found a stone staircase leading down.
+_Te encuentras con a goblin. It is wielding a +0 dagger.
+_A goblin is nearby!
+ The helpless goblin fails to defend itself.
+ Hit the goblin
+_You kill the goblin!
+

@@ -144,7 +144,7 @@ A profound silence engulfs you.|Un profundo silencio te envuelve.
 A protective cloak of flame settles atop you.|Un manto protector de la llama se asienta sobre ti.
 A rebellious %s escapes with it!|¡Un rebelde ZZ001ZZZZZ escapa con él!
 A red film seems to cover your vision as you go berserk!|¡Una película roja parece cubrir tu visión mientras vas a ser idiota!
-A rock-encrusted egg appears nearby and begins to stir.|Un huevo tallado en roca aparece cerca y comienza a revolver.
+A rock-encrtú egg appears nearby and begins to stir.|Un huevo tallado en roca aparece cerca y comienza a revolver.
 A sentinel's mark forms upon you.|La marca de un centinela forma sobre ti.
 A shaft appears beneath you!|¡Un pozo aparece debajo de ti!
 A shower of butterflies erupts from you!|¡Una ducha de mariposas erupta de ti!
@@ -192,7 +192,7 @@ As the last of your armour is driven back to|Como el último de tu armadura es l
 As the sheep sparkle%s and sway%s, %s falls asleep.|Mientras las ovejas brillanZZ001ZZZZ y swayZ002ZZZZZ, ZZ003ZZZZ se duerme.
 As you close the %s%s%s, it creaks loudly!|Al cerrar el ZZ001ZZ%sZ%sZZ, se crea fuerte!
 As you die, Zot loses track of you.|Mientras mueres, Zot pierde tu rastro.
-As you enter the new level, Zot loses track of you.|Al entrar en el nuevo nivel, Zot pierde la pista de usted.
+As you enter the new level, Zot loses track of you.|Al entrar en el nuevo nivel, Zot pierde la pista de ti.
 As you open the %s%s, it creaks loudly!|¡A medida que abres el ZZ001ZZ%sZ, se crea fuerte!
 Ashenzari invites you to partake of a vision|Ashenzari te invita a participar en una visión
 Attempting to channel buggy spell: %s|Intento canalizar el hechizo buggy: ZZ001ZZ
@@ -445,7 +445,7 @@ Item in stack at (%d, %d) has|Elemento en la pila (ZZ001ZZZZ, ZZ002ZZZ) tiene
 Item is not equipped|El artículo no está equipado
 Item position (%d, %d) is out of bounds|La posición del artículo (%dZ, %dZ) está fuera de límites
 Item stacks (by location and top item):|Pilas de elementos (por ubicación y punto superior):
-Its appearance distorts for a moment.|Su apariencia distorsiona por un momento.
+Its appearance distorts for a moment.|Tu apariencia distorsiona por un momento.
 Ka-crash!|¡Ka-crash!
 Key %d in context %d cannot be rebound.|Key ZZ001ZZZZZ en contexto ZZ002ZZZZ no puede ser rebotado.
 Key pressed, interrupting miscast testing.|Llave presionada, interrumpiendo las pruebas de malcast.
@@ -793,7 +793,7 @@ The orbs collide in a blinding explosion!|¡Los orbes chocan en una explosión c
 The other orcs roar their approval!|¡Los otros orcos rugen su aprobación!
 The poison in your system burns terribly!|¡El veneno en su sistema se quema terriblemente!
 The poison in your system burns!|¡El veneno en su sistema se quema!
-The potion freezes solid before it can reach you!|La poción se congela sólida antes de que pueda llegar a usted!
+The potion freezes solid before it can reach you!|La poción se congela sólida antes de que pueda llegar a ti!
 The power of Zot is invoked against you!|¡El poder de Zot es invocado contra ti!
 The power of Zot manifests... and reveals the %s gem was|El poder de Zot se manifiesta... y revela la gema ZZ001ZZZ
 The priest grants you succour and welcomes you into the fold.|El sacerdote te concede azufre y te da la bienvenida en el pliegue.
@@ -1537,20 +1537,20 @@ You're too confused to move!|¡Estás demasiado confundido para moverte!
 You're too dead to put down roots!|¡Estás muerto para echar raíces!
 You're too inexperienced to learn that spell!|¡Eres demasiado inexperto para aprender ese hechizo!
 You're too terrified to move while being watched!|¡Estás demasiado aterrorizado para moverte mientras te observan!
-Your %s briefly %s through it before you manage|Su ZZ001ZZZ brevemente ZZ002ZZ a través de él antes de administrar
-Your %s grows more durable.|Su %sZ crece más durable.
-Your %s grows stronger.|Su %sZ crece más fuerte.
-Your %s have fully recharged.|Su %sZ se ha recargado completamente.
-Your %s mutation feels more permanent.|Su mutación ZZ001ZZZZ se siente más permanente.
+Your %s briefly %s through it before you manage|Tu ZZ001ZZZ brevemente ZZ002ZZ a través de él antes de administrar
+Your %s grows more durable.|Tu %sZ crece más durable.
+Your %s grows stronger.|Tu %sZ crece más fuerte.
+Your %s have fully recharged.|Tu %sZ se ha recargado completamente.
+Your %s mutation feels more permanent.|Tu mutación ZZ001ZZZZ se siente más permanente.
 Your %s shines brightly!|¡Tu ZZ001ZZZ brilla brillantemente!
-Your %s%s skill %s %d levels and is now|Su %sZZ002ZZZ habilidad ZZ003ZZZZZ%d niveles y ahora
-Your %s%s skill %s to level %d!|Su %sZZ002ZZZ habilidad ZZ003ZZZ a nivel ZZ004ZZZ!
-Your accumulated destruction dissipates without a target.|Su destrucción acumulada disipa sin un objetivo.
+Your %s%s skill %s %d levels and is now|Tu %sZZ002ZZZ habilidad ZZ003ZZZZZ%d niveles y ahora
+Your %s%s skill %s to level %d!|Tu %sZZ002ZZZ habilidad ZZ003ZZZ a nivel ZZ004ZZZ!
+Your accumulated destruction dissipates without a target.|Tu destrucción acumulada disipa sin un objetivo.
 Your aim is not that steady anymore.|Tu objetivo ya no es tan estable.
 Your anger overwhelms your terror!|¡Tu ira abruma tu terror!
 Your apostles return to your side.|Sus apóstoles vuelven a su lado.
 Your atemporal blood churns to no real effect.|Tus atemporales churnes de sangre sin ningún efecto real.
-Your attempt to draw power from your own body fails.|Su intento de sacar el poder de su propio cuerpo falla.
+Your attempt to draw power from your own body fails.|Tu intento de sacar el poder de su propio cuerpo falla.
 Your battlesphere expends the last of its energy|Tus batallas de la tierra gastan el último de su energía
 Your battlesphere wavers and loses cohesion.|Tus batallas despiden y pierden la cohesión.
 Your bee can only target hostiles.|Tu abeja sólo puede atacar a los hostiles.
@@ -1564,20 +1564,20 @@ Your body crumbles into a pile of gold.|Tu cuerpo se desmorona en una pila de or
 Your body decomposes!|¡Tu cuerpo se descompone!
 Your body is bloodless.|Tu cuerpo no tiene sangre.
 Your body is healed in an amazingly painful way.|Tu cuerpo está curado de una manera increíblemente dolorosa.
-Your body is suffused with distortional energy.|Su cuerpo es sofocado con energía distorsionada.
+Your body is suffused with distortional energy.|Tu cuerpo es sofocado con energía distorsionada.
 Your body is warped painfully!|¡Tu cuerpo está herido dolorosamente!
 Your body is wracked with pain!|¡Tu cuerpo está lleno de dolor!
-Your body momentarily shudders from a surge of wild|Su cuerpo momentáneamente se estremece de una oleada de salvaje
+Your body momentarily shudders from a surge of wild|Tu cuerpo momentáneamente se estremece de una oleada de salvaje
 Your body shudders with the violent release|Tu cuerpo se estremece con la liberación violenta
 Your body starts to freeze solid!|¡Tu cuerpo comienza a congelarse sólido!
-Your bribe of %s has been exhausted.|Su soborno de ZZ001ZZZZ ha sido agotado.
-Your cacophony subsides as you depart the area.|Su cacofonía se encuentra al salir de la zona.
+Your bribe of %s has been exhausted.|Tu soborno de ZZ001ZZZZ ha sido agotado.
+Your cacophony subsides as you depart the area.|Tu cacofonía se encuentra al salir de la zona.
 Your capacity for spells is full, and you lose|Tu capacidad para los hechizos está llena, y pierdes
-Your charge dissipates without a target.|Su carga se disipa sin un objetivo.
+Your charge dissipates without a target.|Tu carga se disipa sin un objetivo.
 Your clarity of mind shields you.|Tu claridad mental te protege.
 Your cloak of flame flares fiercely!|¡Tu capa de llama brilla ferozmente!
-Your concentration is interrupted.|Su concentración se interrumpe.
-Your condensation shield dissipates!|¡Su escudo de condensación disipa!
+Your concentration is interrupted.|Tu concentración se interrumpe.
+Your condensation shield dissipates!|¡Tu escudo de condensación disipa!
 Your damage is reflected back at you!|¡Tu daño se refleja en ti!
 Your demonic ancestry asserts itself...|Tu ascendencia demoníaca se afirma...
 Your demonic guardian avoids your attack.|Tu guardián demoníaco evita tu ataque.
@@ -1589,16 +1589,16 @@ Your divine stamina protects you from confusion!|¡Tu fuerza divina te protege d
 Your divine stamina protects you from disease!|¡Tu fuerza divina te protege de la enfermedad!
 Your divine stamina protects you from petrification!|¡Tu fuerza divina te protege de la petrificación!
 Your divine stamina protects you from the miasma!|¡Tu fuerza divina te protege del miasma!
-Your divine vigour fades away.|Su vigor divino se desvanece.
+Your divine vigour fades away.|Tu vigor divino se desvanece.
 Your existing bee falls apart.|Tu abeja existente se desmorona.
 Your extra speed is starting to run out.|Tu velocidad extra está empezando a funcionar.
 Your familiar is too far away to imbue with magic.|Tu familiar está demasiado lejos para impregnarse de la magia.
-Your finesse ends abruptly.|Su finura termina abruptamente.
+Your finesse ends abruptly.|Tu finura termina abruptamente.
 Your fire resistance burns away!|¡Tu resistencia al fuego se quema!
 Your flames quiet as the last of your memories are burnt away.|Tus llamas callan mientras el último de tus recuerdos se quema.
-Your fortress blast dissipates harmlessly.|Su explosión de fortaleza disipa inofensivamente.
+Your fortress blast dissipates harmlessly.|Tu explosión de fortaleza disipa inofensivamente.
 Your god isn't willing to do this for you now.|Tu dios no está dispuesto a hacer esto por ti ahora.
-Your health is already full.|Su salud ya está llena.
+Your health is already full.|Tu salud ya está llena.
 Your icy armour cracks and falls away as|Tu helada armadura se rompe y se cae como
 Your icy armour melts away.|Tu helada armadura se derrite.
 Your icy armour thickens.|Tu helada armadura se espesa.
@@ -1616,7 +1616,7 @@ Your magical contamination has completely faded away.|Tu contaminación mágica 
 Your magical contamination has faded to a safe level.|Tu contaminación mágica se ha desvanecido a un nivel seguro.
 Your magical effects are unravelling.|Tus efectos mágicos son desenfrenados.
 Your magical effects refuse to unravel!|¡Tus efectos mágicos se niegan a desentrañar!
-Your magical reserves are too exhausted to conjure more reagents.|Sus reservas mágicas están demasiado agotadas para conjurar más reactivos.
+Your magical reserves are too exhatú to conjure more reagents.|Sus reservas mágicas están demasiado agotadas para conjurar más reactivos.
 Your mandibles meld away.|Tus mandíbulas se fusionan.
 Your meditation is interrupted.|Tu meditación es interrumpida.
 Your memorisation is interrupted.|Tu memorización es interrumpida.
@@ -1631,11 +1631,11 @@ Your orcish features manifest fully.|Sus características orcas se manifiestan c
 Your pain echoes through the poison around you!|¡Tu dolor hace eco a través del veneno que te rodea!
 Your paragon attacks with you!|¡Tu paragona ataca contigo!
 Your paragon expends all of its energy in an overwhelming flurry of blows!|¡Tu paragona gasta toda su energía en una abrumadora tormenta de golpes!
-Your paragon has reached its maximum power!|¡Su paragon ha alcanzado su máximo poder!
-Your paragon is now ready to unleash a masterful attack.|Su paragon ahora está listo para desencadenar un ataque magistral.
+Your paragon has reached its maximum power!|¡Tu paragon ha alcanzado su máximo poder!
+Your paragon is now ready to unleash a masterful attack.|Tu paragon ahora está listo para desencadenar un ataque magistral.
 Your passage of Golubria closes with a snap!|¡Tu pasaje de Golubria cierra con un snap!
-Your performance comes to an abrupt end.|Su rendimiento llega a un final abrupto.
-Your power is siphoned away as the spells of %s are empowered!|Su poder está apagado ya que los hechizos de ZZ001ZZZZ están empoderados!
+Your performance comes to an abrupt end.|Tu rendimiento llega a un final abrupto.
+Your power is siphoned away as the spells of %s are empowered!|Tu poder está apagado ya que los hechizos de ZZ001ZZZZ están empoderados!
 Your power is siphoned away!|¡Tu poder está apagado!
 Your projectile teleports!|¡Tus telepuertos proyectiles!
 Your rain of reagents ends.|Tu lluvia de reactivos termina.
@@ -1644,37 +1644,37 @@ Your reserves of magic are already full.|Sus reservas de magia ya están llenas.
 Your roots penetrate the ground.|Tus raíces penetran en el suelo.
 Your scales feel tougher.|Tus escalas se sienten más duras.
 Your scales start taking on %s colour.|Sus escalas comienzan a tomar el color ZZ001ZZZZZ.
-Your search expression is invalid.|Su expresión de búsqueda es inválida.
+Your search expression is invalid.|Tu expresión de búsqueda es inválida.
 Your shape twists and changes as you die.|Tu forma se torna y cambia mientras mueres.
-Your shopping list is now empty.|Su lista de compras está vacía.
+Your shopping list is now empty.|Tu lista de compras está vacía.
 Your skin feels tougher.|Tu piel se siente más dura.
 Your skin stops crawling.|Tu piel deja de arrastrarse.
 Your spectral weapon shares its damage with you!|¡Tu arma espectral comparte su daño contigo!
 Your spike launcher falls apart as you grow too distant to|Tu lanzallamas se desmorona mientras creces demasiado lejos
 Your spike launcher falls apart.|Tu lanzadores se desmorona.
 Your spilled blood starts moving with violent intent!|¡Tu sangre derramada comienza a moverse con una intención violenta!
-Your stasis prevents you from being hasted.|Su estasis le impide ser precipitado.
-Your stasis prevents you from being paralysed.|Su estasis le impide ser paralizado.
-Your stasis prevents you from being slowed.|Su estasis le impide ser ralentizado.
+Your stasis prevents you from being hasted.|Tu estasis le impide ser precipitado.
+Your stasis prevents you from being paralysed.|Tu estasis le impide ser paralizado.
+Your stasis prevents you from being slowed.|Tu estasis le impide ser ralentizado.
 Your strength is siphoned away, and you feel your attacks grow feeble!|¡Tu fuerza está apagada, y sientes que tus ataques crecen débiles!
 Your supernatural speed expires.|Tu velocidad sobrenatural expira.
 Your surroundings flicker for a moment.|Por un momento, tu entorno se deslumbra.
 Your surroundings seem slightly different.|Tus alrededores parecen ligeramente diferentes.
-Your surroundings suddenly seem different.|Su entorno de repente parece diferente.
-Your system partially rejects the healing.|Su sistema rechaza parcialmente la curación.
+Your surroundings suddenly seem different.|Tu entorno de repente parece diferente.
+Your system partially rejects the healing.|Tu sistema rechaza parcialmente la curación.
 Your system rejects the healing.|Tu sistema rechaza la curación.
 Your tail turns into legs as you fly out of the water.|Tu cola se convierte en piernas mientras vuelas fuera del agua.
 Your teleport is interrupted.|Tu teletransporte es interrumpido.
-Your thirst for blood prevents you from unwielding|Su sed de sangre le impide desenrollar
+Your thirst for blood prevents you from unwielding|Tu sed de sangre le impide desenrollar
 Your time-warped blood is ready to ripple again.|Tu sangre temporizada está lista para romper de nuevo.
 Your tiny sun winks out.|Tu sol diminuto gana.
-Your toxic radiance grows in intensity.|Su radiación tóxica crece en intensidad.
+Your toxic radiance grows in intensity.|Tu radiación tóxica crece en intensidad.
 Your tunneler's instincts keep you from falling into a shaft!|¡Los instintos de tu túnel te impiden caerte en un eje!
 Your unstable footing causes you to fumble your attack.|Tu pie inestable te hace fusionar tu ataque.
-Your wave of flame reaches its maximum intensity and dissipates.|Su onda de llama alcanza su máxima intensidad y disipa.
+Your wave of flame reaches its maximum intensity and dissipates.|Tu onda de llama alcanza su máxima intensidad y disipa.
 Your weapon can't reach that far!|¡Tu arma no puede llegar tan lejos!
-Your weapon exudes an aura of protection.|Su arma exude un aura de protección.
-Your weapon gleams with eagerness.|Su arma brilla con entusiasmo.
+Your weapon exudes an aura of protection.|Tu arma exude un aura de protección.
+Your weapon gleams with eagerness.|Tu arma brilla con entusiasmo.
 Your will is overpowered!|¡Tu voluntad está sobrepoderada!
 Your willpower is stripped away!|¡Tu fuerza de voluntad está despojada!
 Yredelemnul refuses to let your conquest be stopped by a trick of|Yredelemnul se niega a dejar que su conquista sea detenida por un truco de
@@ -1688,3 +1688,22 @@ Zot has no power in the Abyss.|Zot no tiene poder en el Abismo.
 Zot senses the otherworldly energies of your %s gem, and will|Zot siente las energías del otro mundo de su gema ZZ001ZZZZ, y voluntad
 Zot's attention fixes on you again. Descend or flee this branch!|La atención de Zot te arregla de nuevo. ¡Desciende o huye de esta rama!
 Zot's power touches on you...|El poder de Zot te toca...
+
+# ============================================================================
+# Fallos detectados por bot QA
+# ============================================================================
+
+# Bot QA fixes
+No target in view!|No hay objetivo a la vista.
+Your movement speed is average.|Tu velocidad de movimiento es normal.
+Your movement speed is %s.|Tu velocidad de movimiento es %s.
+Cloak|Capa
+Helmet|Casco
+Gloves|Guantes
+Boots|Botas
+Body Armour|Armadura de cuerpo
+Armour|Armadura
+Shield|Escudo
+Ring|Anillo
+Amulet|Amuleto
+You are frozen.|Estás congelado.

@@ -1,0 +1,30 @@
+...............#   #.........#       Saci Hia the Grave Robber
+####.##.####...#   ####..#...####    Revenante
+........####...########......##..    Salud:2/14        ===---------------------
+.###..................#.....###..    Magia:3/3         ========================
+†#...............................    CA:  2            Fue: 11
+...#..................#.....###..    EV: 11            Int: 14
+.###..######...#########.#### #..    ER:  0            Des: 9
+......#  ###...###     #.########    NX: 1 Sig.:91%    Lugar:Dungeon:1
+......#  #.......#     #.##......    Ruido: =--------  Time: 391.0 (0.0)
+##....#  #.#...#.#     #.##.#####    a) +0 dagger
+ #.#######.#...#@#     #.......##    Cast: Soul Splinter
+ #.......# #...gJ#     ####.##.##
+##.#####.# #...#.#        #.##.##
+...#       ##......$..    #......    J   endoplasm
+##.#       .....[#..##    ####...    g   goblin
+ #.#     ...........#        ####
+ #.#   #..##........%.
+ #..   ..  #..#.##[.#.#
+ #.#   #   #....# ..#.#
+ #.#       #.. ..  ..
+ #.#
+_Comando desconocido.
+_Comando desconocido.
+ Casting: Soul Splinter (safe; 4% risk of failure)
+ Confirm with . or Enter, or press ? or * to list all spells.
+_Vale, entonces.
+_Vale, entonces.
+_Comando desconocido.
+_No eres religioso.
+

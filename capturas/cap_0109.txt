@@ -1,0 +1,30 @@
+                                     Saci Hia the Grave Robber
+                                     Revenante
+                                     Salud:14/14       ========================
+                     #.              Magia:3/3         ========================
+                    .. ..            CA:  2            Fue: 11
+         ###########$##.#            EV: 11            Int: 14
+         ..?.............            ER:  0            Des: 9
+         ~~≈~~~P...P~~~~≈            NX: 1 Sig.: 0%    Lugar:Dungeon:1
+         ~~~~≈≈~...~≈≈~~~            Ruido: ---------  Time: 2.0 (0.0)
+         ~~~~≈≈~...~~~~~~            a) +0 dagger
+         ≈~~~≈≈.@...~~~~≈            Cast: Soul Splinter
+         ........<.......
+         ~~~~~≈.[...~~≈~~
+         ~~~~~~~...~~~~~~
+         ~~~~~~~...~~~~~~
+         ~~~~≈~P...P~≈~~~
+         ................
+         ......######.##.
+          ....#      ..
+
+
+ Welcome, Saci Hia the Revenant Necromancer.
+ Todo el mundo que buscaba el Orbe de Zot ha fracasado. ¿Serás diferente?
+ Presione неленних? Seguido / w > para una lista de comandos y otra información.
+ Encontrado four items.
+_Found a staircase leading out of the dungeon.
+_d - a murky grey potion
+_No target in view!
+
+

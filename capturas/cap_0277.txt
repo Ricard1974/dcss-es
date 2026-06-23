@@ -1,0 +1,30 @@
+Ayuda de Mazmorras de Piedra Sopa        Contenido del Manual
+
+Pulsa una de las siguientes teclas para  *       Índice
+obtener más información sobre un         A.      Visión general
+aspecto de Mazmorras de Piedra Sopa.     B.      Pantalla de inicio
+?: Lista de comandos                     C.      Atributos y Estadísticas
+^: Guía rápida                           D.      Explorar la mazmorra
+:: Notas del personaje                   E.      Experiencia y Habilidades
+#: Volcado del personaje                 F.      Monstruos
+~: Ayuda de macros                       G.      Objetos
+&: Ayuda de opciones                     H.      Lanzar hechizos
+%: Tabla de aptitudes                    I.      Apuntado
+/: Consultar descripción                 J.      Religión
+Q: FAQ                                   K.      Mutaciones
+V: Información de versión                L.      Licencia, Contacto, Historia
+!: Diagnósticos                          M.      Macros, Opciones, Rendimiento
+Inicio: Esta pantalla                    N.      Filosofía
+                                         1.      Lista de Razas
+                                         2.      Lista de Clases
+                                         3.      Lista de Habilidades
+                                         4.      Lista de Teclas y Comandos
+                                         5.      Inscripciones
+                                         6.      Modos de sprint
+
+
+
+
+
+
+

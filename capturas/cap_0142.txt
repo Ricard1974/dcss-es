@@ -1,0 +1,30 @@
+  #.~~~~~~~~~~...~~~~~~~≈~           Saci Hia the Grave Robber
+ ##.~≈≈~~~~~~~...~~~~~~~             Revenante
+ #..P~~~~~~≈~P...P~≈~~~~             Salud:6/14        ==========--------------
+ #.†...................              Magia:3/3         ========================
+ #...........######.##.              CA:  2            Fue: 11
+ ###........##..   ....##            EV: 11            Int: 14
+### #......  #..   ......            ER:  0            Des: 9
+..#  .......##..   .....             NX: 1 Sig.:41%    Lugar:Dungeon:1
+..#  ...........   :....             Ruido: =--------  Time: 103.0 (1.0)
+..#  ......  #.w###..#               a) +0 dagger
+.##          #..@..!.#               Cast: Soul Splinter
+.#           #.......#
+.#  #######  ####....#
+.####..)..#     #.#######            w   dart slug
+....#.###.#     #.......#
+.##.#.#...#######.#####.#
+..................#
+###.#.....#######.#
+ ...#######     #.#
+#####           #.#
+                #..
+_The dart slug bites you.
+_¡Estás demasiado herido para luchar imprudentemente!
+_¡Estás demasiado herido para luchar imprudentemente!
+_¡Estás demasiado herido para luchar imprudentemente!
+_Comando desconocido.
+_A dart slug is nearby!
+_A dart slug is nearby!
+_A dart slug is nearby!
+

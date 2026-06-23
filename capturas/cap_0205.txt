@@ -1,0 +1,30 @@
+Drink which item?
+Potions
+ g - a potion of magic
+ d - a murky grey potion
+ f - a fizzy grey potion
+ j - a cyan potion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[!] read|quaff                                            [?] describe selected
