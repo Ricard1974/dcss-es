@@ -61,3 +61,7 @@ Los archivos descript se traducen con protección de patrones:
 - Los cambios C++ necesitan recompilación
 - La compilación se hace en desktop remoto (ricard@100.85.246.74)
 - El binario se copia a ~/proyectos/dcss-squashfs/squashfs-root/usr/bin/crawl
+\n## Archivos importantes
+- verify.py: verificación post-build
+- bot_qa.py: bot capturador de texto (detecta inglés)
+- build_con_traducciones.sh: compila DCSS con parches
