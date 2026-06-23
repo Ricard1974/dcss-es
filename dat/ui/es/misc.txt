@@ -72,3 +72,5 @@ You completely miss %s.|Fallas completamente a %s.
 The %s barely misses you.|%s por poco te falla.
 You block the %s.|Bloqueas al %s.
 The %s grabs you.|%s te agarra.
+
+Slain by |Muerto por 
