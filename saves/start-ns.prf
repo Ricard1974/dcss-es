@@ -1,8 +1,0 @@
-type = normal
-name = gfhs
-species = Human
-background = Berserker
-weapon = spear
-fully_random = no
-default_manual_training = no
-quiver_menu_focus = false

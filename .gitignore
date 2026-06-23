@@ -19,3 +19,8 @@ Thumbs.db
 crawl
 saves/db/
 capturas/
+saves/
+morgue/
+Test
+crawl
+capturas_*.tar.gz

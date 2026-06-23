@@ -179,7 +179,7 @@ def main():
     script = "/tmp/run_crawl.sh"
     with open(script, "w") as f:
         f.write("#!/bin/bash\ncd ~/proyectos/dcss-squashfs/squashfs-root/usr\n")
-        f.write("exec env LANGUAGE=es ./bin/crawl\n")
+        f.write("exec ./bin/crawl -rc ~/.crawl/init.txt\n")
     os.chmod(script, 0o755)
 
     send(f"bash {script}")
