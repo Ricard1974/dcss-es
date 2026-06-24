@@ -17,10 +17,8 @@ Thumbs.db
 .upstream_cache/
 *.bak
 crawl
-saves/db/
 capturas/
 saves/
 morgue/
 Test
-crawl
 capturas_*.tar.gz
